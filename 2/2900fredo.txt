@@ -1,0 +1,18 @@
+
+ 2900fredo,     RE DO,        <Channel name: kaicenat>,       2024-11-07 01:20:54.119337 
+
+ 2900fredo,     RE DOO,        <Channel name: kaicenat>,       2024-11-07 01:20:56.552493 
+
+ 2900fredo,     SPING AHIB,        <Channel name: kaicenat>,       2024-11-07 01:21:05.453641 
+
+ 2900fredo,     GIFT ME,        <Channel name: kaicenat>,       2024-11-07 01:49:36.518534 
+
+ 2900fredo,     GG,        <Channel name: kaicenat>,       2024-11-07 01:49:44.052081 
+
+ 2900fredo,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:24.496628 
+
+ 2900fredo,     33!,        <Channel name: kaicenat>,       2024-11-07 02:00:34.919884 
+
+ 2900fredo,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:06.615270 
+
+ 2900fredo,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:10.340748 

@@ -1,0 +1,6 @@
+
+ 2moayad,     0,        <Channel name: clix>,       2024-11-07 01:40:16.835075 
+
+ 2moayad,     blue,        <Channel name: clix>,       2024-11-07 01:42:51.330318 
+
+ 2moayad,     NotLikeThis,        <Channel name: clix>,       2024-11-07 01:43:23.783933 
