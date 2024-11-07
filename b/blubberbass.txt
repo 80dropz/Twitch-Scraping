@@ -1,0 +1,8 @@
+
+ blubberbass,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:02.655595 
+
+ blubberbass,     king,        <Channel name: nadeshot>,       2024-11-07 02:37:51.951185 
+
+ blubberbass,     t2g,        <Channel name: nadeshot>,       2024-11-07 02:37:55.903355 
+
+ blubberbass,     t2G,        <Channel name: nadeshot>,       2024-11-07 02:38:03.680350 

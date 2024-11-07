@@ -1,0 +1,18 @@
+
+ kod_kas,     READY,        <Channel name: clix>,       2024-11-07 01:40:39.523190 
+
+ kod_kas,     ofc lol,        <Channel name: clix>,       2024-11-07 01:41:00.645120 
+
+ kod_kas,     WW,        <Channel name: clix>,       2024-11-07 01:43:11.654035 
+
+ kod_kas,     goodnight,        <Channel name: clix>,       2024-11-07 01:44:44.363314 
+
+ kod_kas,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:15.450612 
+
+ kod_kas,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:43.504694 
+
+ kod_kas,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:55.874184 
+
+ kod_kas,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:20.079604 
+
+ kod_kas,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:53.928607 

@@ -1,0 +1,10 @@
+
+ law__x,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:17.932824 
+
+ law__x,     HUH,        <Channel name: kaicenat>,       2024-11-07 02:25:43.831324 
+
+ law__x,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:29:27.538188 
+
+ law__x,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:52.098304 
+
+ law__x,     HUH,        <Channel name: kaicenat>,       2024-11-07 02:42:46.346868 

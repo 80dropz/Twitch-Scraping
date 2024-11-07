@@ -1,0 +1,8 @@
+
+ earthbound09,     count it,        <Channel name: kaicenat>,       2024-11-07 01:56:53.164595 
+
+ earthbound09,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:32.560751 
+
+ earthbound09,     struggling,        <Channel name: kaicenat>,       2024-11-07 02:07:04.182029 
+
+ earthbound09,     !song,        <Channel name: kaicenat>,       2024-11-07 02:07:32.451241 

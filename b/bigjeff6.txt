@@ -1,0 +1,22 @@
+
+ bigjeff6,     CRAZY COUNTING,        <Channel name: clix>,       2024-11-07 01:39:35.466894 
+
+ bigjeff6,     3,        <Channel name: clix>,       2024-11-07 01:40:19.633131 
+
+ bigjeff6,     21,        <Channel name: clix>,       2024-11-07 01:40:20.894162 
+
+ bigjeff6,     READY,        <Channel name: clix>,       2024-11-07 01:40:29.475083 
+
+ bigjeff6,     WWWWWWWW,        <Channel name: clix>,       2024-11-07 01:40:36.269442 
+
+ bigjeff6,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.660673 
+
+ bigjeff6,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:47.933083 
+
+ bigjeff6,     WWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:16.753930 
+
+ bigjeff6,     NOWAYYY,        <Channel name: clix>,       2024-11-07 01:43:30.809404 
+
+ bigjeff6,     W UNC,        <Channel name: clix>,       2024-11-07 01:43:58.710227 
+
+ bigjeff6,     GOODNIGHT,        <Channel name: clix>,       2024-11-07 01:44:41.296163 

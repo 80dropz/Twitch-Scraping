@@ -1,0 +1,8 @@
+
+ carnage_fv,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:21.750761 
+
+ carnage_fv,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:36.790004 
+
+ carnage_fv,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:19.383284 
+
+ carnage_fv,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:21.953811 

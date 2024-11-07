@@ -1,0 +1,142 @@
+
+ mood_2019,     lol,        <Channel name: kaicenat>,       2024-11-07 01:20:13.313007 
+
+ mood_2019,     ????,        <Channel name: kaicenat>,       2024-11-07 01:20:26.843383 
+
+ mood_2019,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:20:42.518213 
+
+ mood_2019,     VoteYea,        <Channel name: kaicenat>,       2024-11-07 01:20:45.674179 
+
+ mood_2019,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:21:18.300942 
+
+ mood_2019,     scammmed,        <Channel name: kaicenat>,       2024-11-07 01:35:24.087253 
+
+ mood_2019,     w,        <Channel name: kaicenat>,       2024-11-07 01:35:45.898132 
+
+ mood_2019,     it does,        <Channel name: kaicenat>,       2024-11-07 01:39:53.238275 
+
+ mood_2019,     minutes,        <Channel name: kaicenat>,       2024-11-07 01:44:03.861900 
+
+ mood_2019,     45,        <Channel name: kaicenat>,       2024-11-07 01:45:14.198349 
+
+ mood_2019,     poool,        <Channel name: kaicenat>,       2024-11-07 01:46:09.730375 
+
+ mood_2019,     2,        <Channel name: clix>,       2024-11-07 02:08:23.655058 
+
+ mood_2019,     w,        <Channel name: clix>,       2024-11-07 02:10:28.441444 
+
+ mood_2019,     lol,        <Channel name: clix>,       2024-11-07 02:11:05.507089 
+
+ mood_2019,     lol,        <Channel name: clix>,       2024-11-07 02:11:51.853234 
+
+ mood_2019,     scammed,        <Channel name: clix>,       2024-11-07 02:12:34.163034 
+
+ mood_2019,     scammer,        <Channel name: clix>,       2024-11-07 02:12:47.416091 
+
+ mood_2019,     cap,        <Channel name: clix>,       2024-11-07 02:13:01.930936 
+
+ mood_2019,     Lmfao,        <Channel name: clix>,       2024-11-07 02:13:12.855971 
+
+ mood_2019,     10 F ADS,        <Channel name: clix>,       2024-11-07 02:13:36.404918 
+
+ mood_2019,     fortnit,        <Channel name: clix>,       2024-11-07 02:13:58.987294 
+
+ mood_2019,     his clips,        <Channel name: clix>,       2024-11-07 02:14:04.483646 
+
+ mood_2019,     do his vlips,        <Channel name: clix>,       2024-11-07 02:14:15.095820 
+
+ mood_2019,     caught,        <Channel name: clix>,       2024-11-07 02:14:41.654083 
+
+ mood_2019,     like a good neighbor state farm is there,        <Channel name: clix>,       2024-11-07 02:15:21.658890 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:17:53.907444 
+
+ mood_2019,     clip clips,        <Channel name: clix>,       2024-11-07 02:18:04.793740 
+
+ mood_2019,     click clips@pls,        <Channel name: clix>,       2024-11-07 02:18:26.468267 
+
+ mood_2019,     noo,        <Channel name: clix>,       2024-11-07 02:31:00.657228 
+
+ mood_2019,     cooked,        <Channel name: clix>,       2024-11-07 02:31:29.952932 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:31:40.412955 
+
+ mood_2019,     we good,        <Channel name: clix>,       2024-11-07 02:31:43.650689 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:31:55.539853 
+
+ mood_2019,     I’m hungry,        <Channel name: clix>,       2024-11-07 02:32:21.882745 
+
+ mood_2019,     w,        <Channel name: clix>,       2024-11-07 02:32:57.847143 
+
+ mood_2019,     uhh,        <Channel name: clix>,       2024-11-07 02:33:15.089718 
+
+ mood_2019,     RuleFive RuleFive,        <Channel name: clix>,       2024-11-07 02:33:23.190805 
+
+ mood_2019,     ewww,        <Channel name: clix>,       2024-11-07 02:34:32.438583 
+
+ mood_2019,     same,        <Channel name: clix>,       2024-11-07 02:34:45.814201 
+
+ mood_2019,     I’m hungry,        <Channel name: clix>,       2024-11-07 02:35:16.567290 
+
+ mood_2019,     uuh,        <Channel name: clix>,       2024-11-07 02:36:17.624121 
+
+ mood_2019,     stop,        <Channel name: clix>,       2024-11-07 02:36:24.924326 
+
+ mood_2019,     clix clips,        <Channel name: clix>,       2024-11-07 02:37:36.382075 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:38:03.982971 
+
+ mood_2019,     nooo,        <Channel name: clix>,       2024-11-07 02:38:06.909305 
+
+ mood_2019,     noooooo,        <Channel name: clix>,       2024-11-07 02:38:12.323107 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:38:18.392693 
+
+ mood_2019,     do clix clips,        <Channel name: clix>,       2024-11-07 02:38:32.766248 
+
+ mood_2019,     fake,        <Channel name: clix>,       2024-11-07 02:38:37.880000 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:38:45.946073 
+
+ mood_2019,     just do clix clips,        <Channel name: clix>,       2024-11-07 02:39:06.636912 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:39:16.923173 
+
+ mood_2019,     ewww,        <Channel name: clix>,       2024-11-07 02:39:20.068250 
+
+ mood_2019,     no,        <Channel name: clix>,       2024-11-07 02:39:54.600074 
+
+ mood_2019,     poll,        <Channel name: clix>,       2024-11-07 02:39:59.908804 
+
+ mood_2019,     uhh,        <Channel name: clix>,       2024-11-07 02:40:07.880674 
+
+ mood_2019,     what to watch,        <Channel name: clix>,       2024-11-07 02:40:15.622277 
+
+ mood_2019,     poll,        <Channel name: clix>,       2024-11-07 02:40:41.528485 
+
+ mood_2019,     yes,        <Channel name: clix>,       2024-11-07 02:41:03.072695 
+
+ mood_2019,     fax,        <Channel name: clix>,       2024-11-07 02:41:47.832264 
+
+ mood_2019,     clix,        <Channel name: clix>,       2024-11-07 02:44:47.719379 
+
+ mood_2019,     do old clix,        <Channel name: clix>,       2024-11-07 02:44:54.650287 
+
+ mood_2019,     old clix clips,        <Channel name: clix>,       2024-11-07 02:45:02.718575 
+
+ mood_2019,     !clix clips,        <Channel name: clix>,       2024-11-07 02:45:19.540682 
+
+ mood_2019,     @nightbot ok???????,        <Channel name: clix>,       2024-11-07 02:45:40.164838 
+
+ mood_2019,     clix clips,        <Channel name: clix>,       2024-11-07 02:45:59.929134 
+
+ mood_2019,     do old clix clips,        <Channel name: clix>,       2024-11-07 02:46:10.327874 
+
+ mood_2019,     old clix clips,        <Channel name: clix>,       2024-11-07 02:46:25.542623 
+
+ mood_2019,     play clix clips plsssss,        <Channel name: clix>,       2024-11-07 02:46:58.558883 
+
+ mood_2019,     what we watching,        <Channel name: clix>,       2024-11-07 02:48:04.957473 
+
+ mood_2019,     do clix clips,        <Channel name: clix>,       2024-11-07 02:48:41.319615 

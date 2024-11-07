@@ -1,0 +1,6 @@
+
+ hatchback,     tell butterz and boze to win there 1s,        <Channel name: nadeshot>,       2024-11-07 01:56:40.405994 
+
+ hatchback,     get in the flask,        <Channel name: nadeshot>,       2024-11-07 02:06:26.906819 
+
+ hatchback,     gg,        <Channel name: nadeshot>,       2024-11-07 02:31:20.913577 

@@ -1,0 +1,4 @@
+
+ notdeathtrap,     weighted,        <Channel name: kaicenat>,       2024-11-07 01:32:08.615079 
+
+ notdeathtrap,     lol,        <Channel name: kaicenat>,       2024-11-07 01:37:31.021926 

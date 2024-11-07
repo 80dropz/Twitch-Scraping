@@ -1,0 +1,48 @@
+
+ doli_003,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 01:37:03.228407 
+
+ doli_003,     GG,        <Channel name: kaicenat>,       2024-11-07 01:37:40.359101 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:40:27.154080 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:41:14.048511 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:41:52.673766 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:42:57.212489 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:43:30.864362 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:44:11.249201 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:44:42.767447 
+
+ doli_003,     20min,        <Channel name: kaicenat>,       2024-11-07 01:45:13.459278 
+
+ doli_003,     KappaPride KappaPride KappaPride KappaPride SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood KappaPride SeemsGood KappaPride SeemsGood KappaPride SeemsGood KappaPride SeemsGood KappaPride SeemsGood KappaPride,        <Channel name: kaicenat>,       2024-11-07 01:48:44.309604 
+
+ doli_003,     SeemsGood KappaPride KappaPride KappaPride KappaPride KappaPride KappaPride KappaPride SeemsGood SeemsGood SeemsGood KappaPride KappaPride KappaPride KappaPride,        <Channel name: kaicenat>,       2024-11-07 01:48:50.446614 
+
+ doli_003,     GG,        <Channel name: kaicenat>,       2024-11-07 01:51:46.475638 
+
+ doli_003,     156,        <Channel name: kaicenat>,       2024-11-07 01:52:00.622621 
+
+ doli_003,     1556,        <Channel name: kaicenat>,       2024-11-07 01:52:52.287724 
+
+ doli_003,     156,        <Channel name: kaicenat>,       2024-11-07 01:52:57.645848 
+
+ doli_003,     156,        <Channel name: kaicenat>,       2024-11-07 01:54:14.276775 
+
+ doli_003,     motivation music rocky ballboa,        <Channel name: kaicenat>,       2024-11-07 01:55:42.556290 
+
+ doli_003,     motivation music,        <Channel name: kaicenat>,       2024-11-07 01:56:06.365593 
+
+ doli_003,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:48.723438 
+
+ doli_003,     3333,        <Channel name: kaicenat>,       2024-11-07 02:01:07.879772 
+
+ doli_003,     SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood SeemsGood,        <Channel name: kaicenat>,       2024-11-07 02:01:34.202181 
+
+ doli_003,     ok,        <Channel name: kaicenat>,       2024-11-07 02:03:09.083119 
+
+ doli_003,     SeemsGood,        <Channel name: kaicenat>,       2024-11-07 02:05:08.765114 

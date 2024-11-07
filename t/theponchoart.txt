@@ -1,0 +1,6 @@
+
+ theponchoart,     catDespierta,        <Channel name: aldo_geo>,       2024-11-07 02:02:43.805511 
+
+ theponchoart,     LETSGO,        <Channel name: aldo_geo>,       2024-11-07 02:09:02.000456 
+
+ theponchoart,     AAAA,        <Channel name: aldo_geo>,       2024-11-07 02:13:30.182930 

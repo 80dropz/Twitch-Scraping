@@ -1,0 +1,10 @@
+
+ tomnob25,     ads,        <Channel name: clix>,       2024-11-07 01:43:01.335779 
+
+ tomnob25,     who won,        <Channel name: clix>,       2024-11-07 01:43:09.396654 
+
+ tomnob25,     !trio,        <Channel name: oatley>,       2024-11-07 01:44:41.312508 
+
+ tomnob25,     what is the format today,        <Channel name: oatley>,       2024-11-07 01:50:35.559245 
+
+ tomnob25,     when is finals,        <Channel name: oatley>,       2024-11-07 02:00:58.597406 

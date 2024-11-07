@@ -1,0 +1,4 @@
+
+ bloodmoni,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:33:59.716035 
+
+ bloodmoni,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:07.230582 

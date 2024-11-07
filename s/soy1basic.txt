@@ -1,0 +1,18 @@
+
+ soy1basic,     Max,        <Channel name: plaqueboymax>,       2024-11-07 01:41:04.154510 
+
+ soy1basic,     Cinema,        <Channel name: plaqueboymax>,       2024-11-07 01:41:54.228058 
+
+ soy1basic,     Cinema Cinema Cinema Cinema Cinema Cinema,        <Channel name: plaqueboymax>,       2024-11-07 01:43:07.698379 
+
+ soy1basic,     Lmmaoooo,        <Channel name: plaqueboymax>,       2024-11-07 01:44:15.621028 
+
+ soy1basic,     emo,        <Channel name: plaqueboymax>,       2024-11-07 01:49:35.688431 
+
+ soy1basic,     DTM,        <Channel name: plaqueboymax>,       2024-11-07 01:53:18.221662 
+
+ soy1basic,     DTM DTM DTM DTM,        <Channel name: plaqueboymax>,       2024-11-07 01:53:35.174427 
+
+ soy1basic,     plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut plaqueboyFaZe RawkOut,        <Channel name: plaqueboymax>,       2024-11-07 01:56:02.773063 
+
+ soy1basic,     DTM DTM DTM DTM DTM,        <Channel name: plaqueboymax>,       2024-11-07 02:04:59.735982 

@@ -1,0 +1,8 @@
+
+ arcvoa,     YES,        <Channel name: caseoh_>,       2024-11-07 01:45:46.618499 
+
+ arcvoa,     MEEEEE,        <Channel name: caseoh_>,       2024-11-07 01:46:01.013323 
+
+ arcvoa,     NO WAY,        <Channel name: caseoh_>,       2024-11-07 01:54:45.773110 
+
+ arcvoa,     BYEEEE,        <Channel name: caseoh_>,       2024-11-07 01:57:53.295576 

@@ -1,0 +1,4 @@
+
+ t2g_sawher,     W chaz,        <Channel name: nadeshot>,       2024-11-07 02:09:38.609568 
+
+ t2g_sawher,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:30.448250 

@@ -1,0 +1,76 @@
+
+ oizoid,     RIGEDD,        <Channel name: kaicenat>,       2024-11-07 01:21:23.944527 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:21:28.380127 
+
+ oizoid,     BROKEN WHEEL,        <Channel name: kaicenat>,       2024-11-07 01:21:39.991747 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:21:42.065997 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:21:45.897817 
+
+ oizoid,     RIGHED,        <Channel name: kaicenat>,       2024-11-07 01:21:47.936023 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:21:49.770176 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:21:51.513741 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:21:56.084665 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:21:57.860950 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:21:59.887167 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:03.673435 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:16.701351 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:22.029851 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:28.869421 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:44.125427 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:47.457183 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:50.023704 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:52.282399 
+
+ oizoid,     NEW WHEEL,        <Channel name: kaicenat>,       2024-11-07 01:23:30.077071 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:24:37.197493 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:24:39.974414 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:24:42.974912 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:24:44.784820 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:24:48.362933 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:24:50.105164 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:24:54.158089 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:24:56.470814 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:24:58.513655 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:25:05.693692 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:25:07.699055 
+
+ oizoid,     BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:31:40.379887 
+
+ oizoid,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:32:02.005091 
+
+ oizoid,     WHEEL IS BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:32:15.180330 
+
+ oizoid,     ITS BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:32:46.504654 
+
+ oizoid,     WHEEL IS BROKEN AND RIIGGED RIGGED YOU DUMBASS,        <Channel name: kaicenat>,       2024-11-07 01:33:06.297779 
+
+ oizoid,     ......................,        <Channel name: kaicenat>,       2024-11-07 01:37:35.107932 
+
+ oizoid,     40 SEXONDS,        <Channel name: kaicenat>,       2024-11-07 01:43:45.315188 

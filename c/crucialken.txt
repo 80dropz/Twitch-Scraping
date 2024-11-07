@@ -1,0 +1,8 @@
+
+ crucialken,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:39.495076 
+
+ crucialken,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:30.208646 
+
+ crucialken,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:16.225131 
+
+ crucialken,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:44.859539 

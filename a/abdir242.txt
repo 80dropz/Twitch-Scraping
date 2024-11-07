@@ -1,0 +1,12 @@
+
+ abdir242,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:44.593391 
+
+ abdir242,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:02:06.717121 
+
+ abdir242,     skibidi 1,        <Channel name: clix>,       2024-11-07 02:02:33.566129 
+
+ abdir242,     skibidi,        <Channel name: clix>,       2024-11-07 02:03:06.835217 
+
+ abdir242,     skibidi1,        <Channel name: clix>,       2024-11-07 02:04:28.445786 
+
+ abdir242,     skibidi,        <Channel name: clix>,       2024-11-07 02:04:30.981280 

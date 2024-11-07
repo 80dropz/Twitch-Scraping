@@ -1,0 +1,32 @@
+
+ mando2brazyttv,     CALL AGENT IT WAS 30 SECS,        <Channel name: kaicenat>,       2024-11-07 01:40:43.424917 
+
+ mando2brazyttv,     IT WAS 30 SECS,        <Channel name: kaicenat>,       2024-11-07 01:40:51.294992 
+
+ mando2brazyttv,     30 SECSSS,        <Channel name: kaicenat>,       2024-11-07 01:41:02.106648 
+
+ mando2brazyttv,     30 SECONDS,        <Channel name: kaicenat>,       2024-11-07 01:41:08.294926 
+
+ mando2brazyttv,     30 SECSS,        <Channel name: kaicenat>,       2024-11-07 01:41:52.255603 
+
+ mando2brazyttv,     30 SECONDS,        <Channel name: kaicenat>,       2024-11-07 01:42:16.049715 
+
+ mando2brazyttv,     MODS,        <Channel name: kaicenat>,       2024-11-07 01:42:47.003656 
+
+ mando2brazyttv,     30 SECS,        <Channel name: kaicenat>,       2024-11-07 01:44:54.261442 
+
+ mando2brazyttv,     30 SECONDS,        <Channel name: kaicenat>,       2024-11-07 01:45:14.175109 
+
+ mando2brazyttv,     30SEC,        <Channel name: kaicenat>,       2024-11-07 01:45:18.399896 
+
+ mando2brazyttv,     30 SECS THEN,        <Channel name: kaicenat>,       2024-11-07 01:46:06.658431 
+
+ mando2brazyttv,     30 SECSSSSS,        <Channel name: kaicenat>,       2024-11-07 01:46:31.421470 
+
+ mando2brazyttv,     30,        <Channel name: kaicenat>,       2024-11-07 01:48:17.036220 
+
+ mando2brazyttv,     30 secs,        <Channel name: kaicenat>,       2024-11-07 01:48:22.168309 
+
+ mando2brazyttv,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:48:28.024221 
+
+ mando2brazyttv,     30sec,        <Channel name: kaicenat>,       2024-11-07 01:48:36.376071 

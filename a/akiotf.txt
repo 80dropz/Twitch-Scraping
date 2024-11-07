@@ -1,0 +1,12 @@
+
+ akiotf,     Jamgie,        <Channel name: jasontheween>,       2024-11-07 01:42:59.843769 
+
+ akiotf,     WW,        <Channel name: jasontheween>,       2024-11-07 01:56:42.546629 
+
+ akiotf,     COUNTRY,        <Channel name: jasontheween>,       2024-11-07 01:58:52.679046 
+
+ akiotf,     WOW,        <Channel name: jasontheween>,       2024-11-07 02:00:14.338060 
+
+ akiotf,     "WE",        <Channel name: jasontheween>,       2024-11-07 02:01:51.449163 
+
+ akiotf,     CASA,        <Channel name: jasontheween>,       2024-11-07 02:06:12.869646 

@@ -1,0 +1,6 @@
+
+ oscaar_rmz,     xd,        <Channel name: aldo_geo>,       2024-11-07 02:15:47.033769 
+
+ oscaar_rmz,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:46:59.124573 
+
+ oscaar_rmz,     uuh,        <Channel name: aldo_geo>,       2024-11-07 02:53:25.469983 

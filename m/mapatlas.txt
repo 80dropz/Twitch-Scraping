@@ -1,0 +1,18 @@
+
+ mapatlas,     11,        <Channel name: clix>,       2024-11-07 01:39:57.946877 
+
+ mapatlas,     10,        <Channel name: clix>,       2024-11-07 01:40:03.438214 
+
+ mapatlas,     ome5,        <Channel name: clix>,       2024-11-07 01:40:15.160154 
+
+ mapatlas,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:20.645566 
+
+ mapatlas,     READY,        <Channel name: clix>,       2024-11-07 01:40:28.007851 
+
+ mapatlas,     ome44,        <Channel name: clix>,       2024-11-07 01:41:47.458760 
+
+ mapatlas,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:47.762366 
+
+ mapatlas,     LL ads,        <Channel name: clix>,       2024-11-07 01:42:54.117945 
+
+ mapatlas,     mhm,        <Channel name: clix>,       2024-11-07 01:47:58.852130 

@@ -1,0 +1,30 @@
+
+ mr_miahgi,     40,        <Channel name: kaicenat>,       2024-11-07 01:40:01.839394 
+
+ mr_miahgi,     40 SEC,        <Channel name: kaicenat>,       2024-11-07 01:40:18.415424 
+
+ mr_miahgi,     40 SECS BRO,        <Channel name: kaicenat>,       2024-11-07 01:41:52.993187 
+
+ mr_miahgi,     SO 40 SECS,        <Channel name: kaicenat>,       2024-11-07 01:43:18.778883 
+
+ mr_miahgi,     40 SECS DAWG,        <Channel name: kaicenat>,       2024-11-07 01:44:16.749226 
+
+ mr_miahgi,     40 SEC,        <Channel name: kaicenat>,       2024-11-07 01:44:55.253235 
+
+ mr_miahgi,     NO 40,        <Channel name: kaicenat>,       2024-11-07 01:45:04.242397 
+
+ mr_miahgi,     40,        <Channel name: kaicenat>,       2024-11-07 01:45:07.516102 
+
+ mr_miahgi,     ITS HALF WAY DO 40,        <Channel name: kaicenat>,       2024-11-07 01:45:52.022858 
+
+ mr_miahgi,     YES,        <Channel name: kaicenat>,       2024-11-07 01:57:23.397784 
+
+ mr_miahgi,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:28.282742 
+
+ mr_miahgi,     333,        <Channel name: kaicenat>,       2024-11-07 02:00:47.985968 
+
+ mr_miahgi,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:14.535141 
+
+ mr_miahgi,     5000,        <Channel name: kaicenat>,       2024-11-07 02:02:46.220344 
+
+ mr_miahgi,     50505050505050,        <Channel name: kaicenat>,       2024-11-07 02:02:58.695669 

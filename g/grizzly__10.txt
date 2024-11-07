@@ -1,0 +1,16 @@
+
+ grizzly__10,     soft spin or new wheel,        <Channel name: kaicenat>,       2024-11-07 01:31:57.999276 
+
+ grizzly__10,     BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:25.966542 
+
+ grizzly__10,     bop,        <Channel name: kaicenat>,       2024-11-07 02:06:31.853737 
+
+ grizzly__10,     BOP BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:35.437361 
+
+ grizzly__10,     @kaicenat play carti,        <Channel name: kaicenat>,       2024-11-07 02:10:17.418608 
+
+ grizzly__10,     tiny,        <Channel name: kaicenat>,       2024-11-07 02:10:32.075563 
+
+ grizzly__10,     lil dewd,        <Channel name: kaicenat>,       2024-11-07 02:10:44.350614 
+
+ grizzly__10,     hes a nerd,        <Channel name: kaicenat>,       2024-11-07 02:13:38.832904 

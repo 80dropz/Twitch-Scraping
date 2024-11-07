@@ -1,0 +1,20 @@
+
+ shino4800,     MUTTED,        <Channel name: plaqueboymax>,       2024-11-07 01:40:59.234140 
+
+ shino4800,     JAX JAX,        <Channel name: jasontheween>,       2024-11-07 01:43:31.615717 
+
+ shino4800,     STAWENNIE,        <Channel name: jasontheween>,       2024-11-07 01:43:48.862156 
+
+ shino4800,     FELL FOR U,        <Channel name: jasontheween>,       2024-11-07 01:47:53.322476 
+
+ shino4800,     WW MUTE,        <Channel name: jasontheween>,       2024-11-07 01:48:25.751044 
+
+ shino4800,     WW ADA,        <Channel name: jasontheween>,       2024-11-07 01:51:34.229124 
+
+ shino4800,     WW,        <Channel name: plaqueboymax>,       2024-11-07 01:57:29.478330 
+
+ shino4800,     RNB,        <Channel name: jasontheween>,       2024-11-07 01:59:03.476225 
+
+ shino4800,     RNB RNB,        <Channel name: jasontheween>,       2024-11-07 01:59:13.049945 
+
+ shino4800,     WW SONG,        <Channel name: jasontheween>,       2024-11-07 02:07:05.431669 

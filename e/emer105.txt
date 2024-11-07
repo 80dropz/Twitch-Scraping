@@ -1,0 +1,4 @@
+
+ emer105,     how many guns do you have gold now?,        <Channel name: summit1g>,       2024-11-07 02:12:06.635328 
+
+ emer105,     melee’s are the worst,        <Channel name: summit1g>,       2024-11-07 02:32:16.541117 

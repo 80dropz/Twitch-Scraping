@@ -1,0 +1,4 @@
+
+ btb_tarmac7,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:24:52.942540 
+
+ btb_tarmac7,     fosho band,        <Channel name: kaicenat>,       2024-11-07 01:24:58.007640 

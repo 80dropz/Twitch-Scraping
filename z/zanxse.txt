@@ -1,0 +1,6 @@
+
+ zanxse,     VoteYea,        <Channel name: kaicenat>,       2024-11-07 01:45:01.443070 
+
+ zanxse,     VoteYea VoteYea VoteYea VoteYea,        <Channel name: kaicenat>,       2024-11-07 01:45:04.481320 
+
+ zanxse,     VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea VoteYea,        <Channel name: kaicenat>,       2024-11-07 01:45:13.132202 

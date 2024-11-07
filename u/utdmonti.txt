@@ -1,0 +1,6 @@
+
+ utdmonti,     band,        <Channel name: kaicenat>,       2024-11-07 01:24:59.339266 
+
+ utdmonti,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:47.990666 
+
+ utdmonti,     you don’t know maths bruh,        <Channel name: kaicenat>,       2024-11-07 02:05:17.195484 

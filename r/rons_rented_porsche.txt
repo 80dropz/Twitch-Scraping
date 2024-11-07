@@ -1,0 +1,48 @@
+
+ rons_rented_porsche,     ready,        <Channel name: clix>,       2024-11-07 01:40:31.869323 
+
+ rons_rented_porsche,     READY,        <Channel name: clix>,       2024-11-07 01:40:35.603397 
+
+ rons_rented_porsche,     DPIN IT,        <Channel name: clix>,       2024-11-07 01:40:54.511088 
+
+ rons_rented_porsche,     RT HIM,        <Channel name: clix>,       2024-11-07 01:41:49.181334 
+
+ rons_rented_porsche,     HE HAS A POINT,        <Channel name: clix>,       2024-11-07 01:42:00.373337 
+
+ rons_rented_porsche,     HE HAD A POINT THO,        <Channel name: clix>,       2024-11-07 01:42:06.997074 
+
+ rons_rented_porsche,     green,        <Channel name: clix>,       2024-11-07 01:42:18.425609 
+
+ rons_rented_porsche,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.383347 
+
+ rons_rented_porsche,     5,        <Channel name: clix>,       2024-11-07 01:42:47.452602 
+
+ rons_rented_porsche,     1 more spin,        <Channel name: clix>,       2024-11-07 01:43:12.158560 
+
+ rons_rented_porsche,     WWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:16.792435 
+
+ rons_rented_porsche,     WWWWWW,        <Channel name: clix>,       2024-11-07 01:43:28.953634 
+
+ rons_rented_porsche,     1 more spin,        <Channel name: clix>,       2024-11-07 01:43:38.614246 
+
+ rons_rented_porsche,     W FELDY,        <Channel name: clix>,       2024-11-07 01:43:58.541714 
+
+ rons_rented_porsche,     FELDY GETS 100% PROFITS,        <Channel name: clix>,       2024-11-07 01:44:12.230209 
+
+ rons_rented_porsche,     W FELDY,        <Channel name: clix>,       2024-11-07 01:44:19.799212 
+
+ rons_rented_porsche,     GOOD NIGHT,        <Channel name: clix>,       2024-11-07 01:44:25.932735 
+
+ rons_rented_porsche,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:30.773467 
+
+ rons_rented_porsche,     GN,        <Channel name: clix>,       2024-11-07 01:44:34.364305 
+
+ rons_rented_porsche,     GOOD NIGHT,        <Channel name: clix>,       2024-11-07 01:44:54.397603 
+
+ rons_rented_porsche,     o7,        <Channel name: clix>,       2024-11-07 01:45:00.755637 
+
+ rons_rented_porsche,     UUH,        <Channel name: clix>,       2024-11-07 01:45:09.938217 
+
+ rons_rented_porsche,     NOWAY,        <Channel name: clix>,       2024-11-07 01:45:46.109152 
+
+ rons_rented_porsche,     I NEED THAT,        <Channel name: clix>,       2024-11-07 01:45:57.545581 

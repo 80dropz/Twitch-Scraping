@@ -1,0 +1,6 @@
+
+ akavsace,     ready,        <Channel name: clix>,       2024-11-07 01:40:36.142742 
+
+ akavsace,     READY,        <Channel name: clix>,       2024-11-07 01:40:39.993554 
+
+ akavsace,     Ready,        <Channel name: clix>,       2024-11-07 01:40:43.832293 

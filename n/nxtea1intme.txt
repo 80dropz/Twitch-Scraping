@@ -1,0 +1,24 @@
+
+ nxtea1intme,     READY,        <Channel name: clix>,       2024-11-07 01:40:31.108151 
+
+ nxtea1intme,     Lol,        <Channel name: clix>,       2024-11-07 01:42:03.464745 
+
+ nxtea1intme,     GIFT MORE,        <Channel name: clix>,       2024-11-07 01:42:08.270389 
+
+ nxtea1intme,     Ready,        <Channel name: clix>,       2024-11-07 01:42:47.414558 
+
+ nxtea1intme,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:54.430498 
+
+ nxtea1intme,     OOOOOOO,        <Channel name: clix>,       2024-11-07 01:43:06.736224 
+
+ nxtea1intme,     NOWA6,        <Channel name: clix>,       2024-11-07 01:43:24.806513 
+
+ nxtea1intme,     omeStare,        <Channel name: clix>,       2024-11-07 01:43:33.602294 
+
+ nxtea1intme,     W FELDMOON,        <Channel name: clix>,       2024-11-07 01:43:58.475706 
+
+ nxtea1intme,     uuh,        <Channel name: clix>,       2024-11-07 01:44:34.039977 
+
+ nxtea1intme,     mhm,        <Channel name: clix>,       2024-11-07 01:48:03.190755 
+
+ nxtea1intme,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:31.519958 

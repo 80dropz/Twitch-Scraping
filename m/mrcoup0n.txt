@@ -1,0 +1,8 @@
+
+ mrcoup0n,     pop,        <Channel name: plaqueboymax>,       2024-11-07 02:00:34.264649 
+
+ mrcoup0n,     popp,        <Channel name: plaqueboymax>,       2024-11-07 02:00:39.478099 
+
+ mrcoup0n,     pop,        <Channel name: plaqueboymax>,       2024-11-07 02:00:45.360411 
+
+ mrcoup0n,     POP,        <Channel name: plaqueboymax>,       2024-11-07 02:00:50.880920 

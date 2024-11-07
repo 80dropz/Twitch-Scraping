@@ -1,0 +1,216 @@
+
+ pennywise_dimesmart,     16,        <Channel name: clix>,       2024-11-07 01:39:35.631339 
+
+ pennywise_dimesmart,     15,        <Channel name: clix>,       2024-11-07 01:39:44.778787 
+
+ pennywise_dimesmart,     14,        <Channel name: clix>,       2024-11-07 01:39:47.149293 
+
+ pennywise_dimesmart,     13,        <Channel name: clix>,       2024-11-07 01:39:48.860336 
+
+ pennywise_dimesmart,     14,        <Channel name: clix>,       2024-11-07 01:39:56.282946 
+
+ pennywise_dimesmart,     12,        <Channel name: clix>,       2024-11-07 01:39:57.924710 
+
+ pennywise_dimesmart,     11,        <Channel name: clix>,       2024-11-07 01:40:02.328027 
+
+ pennywise_dimesmart,     12,        <Channel name: clix>,       2024-11-07 01:40:08.928444 
+
+ pennywise_dimesmart,     11,        <Channel name: clix>,       2024-11-07 01:40:10.958959 
+
+ pennywise_dimesmart,     10,        <Channel name: clix>,       2024-11-07 01:40:12.305768 
+
+ pennywise_dimesmart,     8,        <Channel name: clix>,       2024-11-07 01:40:13.739243 
+
+ pennywise_dimesmart,     7,        <Channel name: clix>,       2024-11-07 01:40:14.973951 
+
+ pennywise_dimesmart,     5,        <Channel name: clix>,       2024-11-07 01:40:16.159356 
+
+ pennywise_dimesmart,     43,        <Channel name: clix>,       2024-11-07 01:40:17.376367 
+
+ pennywise_dimesmart,     2,        <Channel name: clix>,       2024-11-07 01:40:18.737139 
+
+ pennywise_dimesmart,     1,        <Channel name: clix>,       2024-11-07 01:40:20.060612 
+
+ pennywise_dimesmart,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:21.994240 
+
+ pennywise_dimesmart,     ready,        <Channel name: clix>,       2024-11-07 01:40:27.380473 
+
+ pennywise_dimesmart,     NAILSING NAILSING,        <Channel name: clix>,       2024-11-07 01:40:39.585279 
+
+ pennywise_dimesmart,     HAH NON SUB,        <Channel name: clix>,       2024-11-07 01:41:47.254839 
+
+ pennywise_dimesmart,     NAHH NON SUB,        <Channel name: clix>,       2024-11-07 01:41:52.845636 
+
+ pennywise_dimesmart,     NAHH FAKE CLIXSTER,        <Channel name: clix>,       2024-11-07 01:42:01.622164 
+
+ pennywise_dimesmart,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.386445 
+
+ pennywise_dimesmart,     NAILSING,        <Channel name: clix>,       2024-11-07 01:42:47.702484 
+
+ pennywise_dimesmart,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:52.128026 
+
+ pennywise_dimesmart,     PICKL,        <Channel name: clix>,       2024-11-07 01:42:54.320343 
+
+ pennywise_dimesmart,     WW\,        <Channel name: clix>,       2024-11-07 01:42:57.170505 
+
+ pennywise_dimesmart,     WW,        <Channel name: clix>,       2024-11-07 01:42:58.210524 
+
+ pennywise_dimesmart,     WW WW WW,        <Channel name: clix>,       2024-11-07 01:43:00.085376 
+
+ pennywise_dimesmart,     WWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:11.875552 
+
+ pennywise_dimesmart,     WW,        <Channel name: clix>,       2024-11-07 01:43:18.967160 
+
+ pennywise_dimesmart,     WW FELDY,        <Channel name: clix>,       2024-11-07 01:43:57.364379 
+
+ pennywise_dimesmart,     NOWAY,        <Channel name: clix>,       2024-11-07 01:44:04.504517 
+
+ pennywise_dimesmart,     uuh,        <Channel name: clix>,       2024-11-07 01:44:28.259640 
+
+ pennywise_dimesmart,     bye CLIX,        <Channel name: clix>,       2024-11-07 01:44:34.220549 
+
+ pennywise_dimesmart,     WW,        <Channel name: clix>,       2024-11-07 01:44:52.298569 
+
+ pennywise_dimesmart,     LETSGO,        <Channel name: clix>,       2024-11-07 01:44:56.420290 
+
+ pennywise_dimesmart,     bye CLIX,        <Channel name: clix>,       2024-11-07 01:44:59.815201 
+
+ pennywise_dimesmart,     uuh,        <Channel name: clix>,       2024-11-07 01:45:13.653631 
+
+ pennywise_dimesmart,     I'M READY,        <Channel name: clix>,       2024-11-07 01:46:54.026348 
+
+ pennywise_dimesmart,     mhm,        <Channel name: clix>,       2024-11-07 01:47:52.056697 
+
+ pennywise_dimesmart,     NOWAY I GOT IT,        <Channel name: clix>,       2024-11-07 01:48:33.567462 
+
+ pennywise_dimesmart,     Skibidi,        <Channel name: clix>,       2024-11-07 01:53:19.824726 
+
+ pennywise_dimesmart,     Skibidi,        <Channel name: clix>,       2024-11-07 01:55:44.957247 
+
+ pennywise_dimesmart,     TYPE IF YOUR HERE,        <Channel name: clix>,       2024-11-07 01:57:06.201697 
+
+ pennywise_dimesmart,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:29.585530 
+
+ pennywise_dimesmart,     SMH,        <Channel name: clix>,       2024-11-07 02:01:38.412456 
+
+ pennywise_dimesmart,     @dustinbro022,        <Channel name: clix>,       2024-11-07 02:03:20.598228 
+
+ pennywise_dimesmart,     not here lmao,        <Channel name: clix>,       2024-11-07 02:03:30.725710 
+
+ pennywise_dimesmart,     uuh,        <Channel name: clix>,       2024-11-07 02:05:58.321984 
+
+ pennywise_dimesmart,     WW SCAM,        <Channel name: clix>,       2024-11-07 02:06:18.925641 
+
+ pennywise_dimesmart,     Oldge,        <Channel name: clix>,       2024-11-07 02:08:40.990349 
+
+ pennywise_dimesmart,     uuh,        <Channel name: clix>,       2024-11-07 02:11:51.009557 
+
+ pennywise_dimesmart,     NOOO,        <Channel name: clix>,       2024-11-07 02:11:53.848682 
+
+ pennywise_dimesmart,     SMH,        <Channel name: clix>,       2024-11-07 02:13:09.053621 
+
+ pennywise_dimesmart,     BOOBA,        <Channel name: clix>,       2024-11-07 02:13:50.996947 
+
+ pennywise_dimesmart,     eww,        <Channel name: clix>,       2024-11-07 02:14:00.602135 
+
+ pennywise_dimesmart,     STOP IT PLEASE,        <Channel name: clix>,       2024-11-07 02:14:08.107879 
+
+ pennywise_dimesmart,     PLEASE MUTE,        <Channel name: clix>,       2024-11-07 02:14:11.100691 
+
+ pennywise_dimesmart,     MUTE THE STREAM,        <Channel name: clix>,       2024-11-07 02:14:15.256680 
+
+ pennywise_dimesmart,     CAUGHT,        <Channel name: clix>,       2024-11-07 02:14:27.414590 
+
+ pennywise_dimesmart,     BOOBA,        <Channel name: clix>,       2024-11-07 02:14:40.331850 
+
+ pennywise_dimesmart,     jorkin,        <Channel name: clix>,       2024-11-07 02:14:48.051717 
+
+ pennywise_dimesmart,     NOOOO,        <Channel name: clix>,       2024-11-07 02:15:06.609673 
+
+ pennywise_dimesmart,     SMH,        <Channel name: clix>,       2024-11-07 02:15:40.386694 
+
+ pennywise_dimesmart,     donowall,        <Channel name: clix>,       2024-11-07 02:17:25.376211 
+
+ pennywise_dimesmart,     no,        <Channel name: clix>,       2024-11-07 02:17:52.678231 
+
+ pennywise_dimesmart,     NO NOT ASMR,        <Channel name: clix>,       2024-11-07 02:18:12.495007 
+
+ pennywise_dimesmart,     PUT THE ASMR ON BUT MUTE SO I CAN jorkin,        <Channel name: clix>,       2024-11-07 02:18:46.825840 
+
+ pennywise_dimesmart,     NO EATING ASMR PLEASE ITS SO GROSS,        <Channel name: clix>,       2024-11-07 02:31:22.077609 
+
+ pennywise_dimesmart,     NAHH CLIX GETTIN DROPPED FR,        <Channel name: clix>,       2024-11-07 02:32:24.427438 
+
+ pennywise_dimesmart,     we can tell,        <Channel name: clix>,       2024-11-07 02:32:36.495735 
+
+ pennywise_dimesmart,     MMMMMM,        <Channel name: clix>,       2024-11-07 02:32:52.972633 
+
+ pennywise_dimesmart,     yummy,        <Channel name: clix>,       2024-11-07 02:32:56.940259 
+
+ pennywise_dimesmart,     NAHH HE COOKED,        <Channel name: clix>,       2024-11-07 02:33:04.171577 
+
+ pennywise_dimesmart,     EWWW,        <Channel name: clix>,       2024-11-07 02:34:22.938952 
+
+ pennywise_dimesmart,     DRIPPY CHEESE ICANT,        <Channel name: clix>,       2024-11-07 02:34:39.747368 
+
+ pennywise_dimesmart,     EWWW,        <Channel name: clix>,       2024-11-07 02:34:56.867202 
+
+ pennywise_dimesmart,     EWWW STOP THE EATING ASMR PLEASE,        <Channel name: clix>,       2024-11-07 02:35:10.596146 
+
+ pennywise_dimesmart,     HUH,        <Channel name: clix>,       2024-11-07 02:37:31.517874 
+
+ pennywise_dimesmart,     GYAAAT,        <Channel name: clix>,       2024-11-07 02:37:46.774906 
+
+ pennywise_dimesmart,     eepy,        <Channel name: clix>,       2024-11-07 02:37:57.536488 
+
+ pennywise_dimesmart,     I think somebody is excited,        <Channel name: clix>,       2024-11-07 02:38:10.857764 
+
+ pennywise_dimesmart,     no,        <Channel name: clix>,       2024-11-07 02:38:55.848284 
+
+ pennywise_dimesmart,     uh yeah....,        <Channel name: clix>,       2024-11-07 02:39:54.880133 
+
+ pennywise_dimesmart,     rt,        <Channel name: clix>,       2024-11-07 02:40:55.643368 
+
+ pennywise_dimesmart,     jorkin,        <Channel name: clix>,       2024-11-07 02:41:56.455736 
+
+ pennywise_dimesmart,     eepy clix,        <Channel name: clix>,       2024-11-07 02:42:11.877396 
+
+ pennywise_dimesmart,     they grow up so fast SAJ,        <Channel name: clix>,       2024-11-07 02:42:34.742621 
+
+ pennywise_dimesmart,     full cam,        <Channel name: clix>,       2024-11-07 02:42:48.156339 
+
+ pennywise_dimesmart,     widepepeStare,        <Channel name: clix>,       2024-11-07 02:43:32.665595 
+
+ pennywise_dimesmart,     Bro plays Fortnite festival NAHH,        <Channel name: clix>,       2024-11-07 02:45:06.555643 
+
+ pennywise_dimesmart,     mewing,        <Channel name: clix>,       2024-11-07 02:45:24.938726 
+
+ pennywise_dimesmart,     rt,        <Channel name: clix>,       2024-11-07 02:45:36.585287 
+
+ pennywise_dimesmart,     ewpert,        <Channel name: clix>,       2024-11-07 02:45:56.781639 
+
+ pennywise_dimesmart,     I miss pickle emote SAJ,        <Channel name: clix>,       2024-11-07 02:46:27.825768 
+
+ pennywise_dimesmart,     @ohkaait  SoCute,        <Channel name: clix>,       2024-11-07 02:46:50.646724 
+
+ pennywise_dimesmart,     kittyJam,        <Channel name: clix>,       2024-11-07 02:47:08.429430 
+
+ pennywise_dimesmart,     @fs_oscar HUH,        <Channel name: clix>,       2024-11-07 02:47:48.179513 
+
+ pennywise_dimesmart,     BRO SHIT HIMSELF IN BED NAHH,        <Channel name: clix>,       2024-11-07 02:48:43.881741 
+
+ pennywise_dimesmart,     @cheesecakebtw uuh,        <Channel name: clix>,       2024-11-07 02:49:01.544487 
+
+ pennywise_dimesmart,     WW SHITTER,        <Channel name: clix>,       2024-11-07 02:49:08.630757 
+
+ pennywise_dimesmart,     SNIFFA,        <Channel name: clix>,       2024-11-07 02:49:30.076035 
+
+ pennywise_dimesmart,     to much PJSugar SMH,        <Channel name: clix>,       2024-11-07 02:49:39.639217 
+
+ pennywise_dimesmart,     @whax NAHH,        <Channel name: clix>,       2024-11-07 02:50:54.517155 
+
+ pennywise_dimesmart,     eepy,        <Channel name: clix>,       2024-11-07 02:52:18.821000 
+
+ pennywise_dimesmart,     Aloo,        <Channel name: clix>,       2024-11-07 02:52:33.613404 
+
+ pennywise_dimesmart,     @vdadlol uuh,        <Channel name: clix>,       2024-11-07 02:53:17.790348 

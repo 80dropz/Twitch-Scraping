@@ -1,0 +1,22 @@
+
+ rezon7x,     df,        <Channel name: clix>,       2024-11-07 01:40:39.662406 
+
+ rezon7x,     skibidii,        <Channel name: clix>,       2024-11-07 01:51:55.854360 
+
+ rezon7x,     Skibidi,        <Channel name: clix>,       2024-11-07 01:52:11.182093 
+
+ rezon7x,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:52:22.732408 
+
+ rezon7x,     skibidi .,        <Channel name: clix>,       2024-11-07 01:53:08.141287 
+
+ rezon7x,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:11.988899 
+
+ rezon7x,     Skibidi,        <Channel name: clix>,       2024-11-07 01:56:26.868677 
+
+ rezon7x,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:56:36.041272 
+
+ rezon7x,     skibid,        <Channel name: clix>,       2024-11-07 02:02:46.945283 
+
+ rezon7x,     skibidi',        <Channel name: clix>,       2024-11-07 02:02:52.969973 
+
+ rezon7x,     1,        <Channel name: clix>,       2024-11-07 02:08:41.288571 

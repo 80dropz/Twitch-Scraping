@@ -1,0 +1,54 @@
+
+ intra_xd,     RON LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:20:00.611987 
+
+ intra_xd,     INVITE RON LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:20:07.671991 
+
+ intra_xd,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:25:26.337230 
+
+ intra_xd,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:26:03.932218 
+
+ intra_xd,     ome44 2024Silky,        <Channel name: kaicenat>,       2024-11-07 02:26:06.693945 
+
+ intra_xd,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:27:30.055833 
+
+ intra_xd,     ome44 Y U BLOWIN HIS SPOT,        <Channel name: kaicenat>,       2024-11-07 02:27:36.135204 
+
+ intra_xd,     RONCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:27:58.152578 
+
+ intra_xd,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:28:09.937735 
+
+ intra_xd,     CAPPP OF HELLLLL,        <Channel name: kaicenat>,       2024-11-07 02:28:20.672581 
+
+ intra_xd,     mhm,        <Channel name: kaicenat>,       2024-11-07 02:28:41.533466 
+
+ intra_xd,     mhm RT,        <Channel name: kaicenat>,       2024-11-07 02:28:43.879586 
+
+ intra_xd,     mhm RT REAL SHIT,        <Channel name: kaicenat>,       2024-11-07 02:28:51.421123 
+
+ intra_xd,     NO U DO NOT LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:29:15.001548 
+
+ intra_xd,     I PROMISE U DONT LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:29:25.209584 
+
+ intra_xd,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:29:37.162518 
+
+ intra_xd,     ome44 CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:29:42.950489 
+
+ intra_xd,     ome44 PRESS HIS SHIT,        <Channel name: kaicenat>,       2024-11-07 02:29:54.737165 
+
+ intra_xd,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:30:17.885625 
+
+ intra_xd,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:31:02.583625 
+
+ intra_xd,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:32:15.557605 
+
+ intra_xd,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:32:57.965896 
+
+ intra_xd,     DONT PLAY DUMB KAI LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:34:33.757375 
+
+ intra_xd,     HUH,        <Channel name: kaicenat>,       2024-11-07 02:35:01.012698 
+
+ intra_xd,     HUH TF,        <Channel name: kaicenat>,       2024-11-07 02:35:05.449945 
+
+ intra_xd,     HUH FK U JUST SAY,        <Channel name: kaicenat>,       2024-11-07 02:35:12.966353 
+
+ intra_xd,     NA U WEIRD LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:35:32.877329 

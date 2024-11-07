@@ -1,0 +1,10 @@
+
+ t_messsy,     Deal,        <Channel name: kaicenat>,       2024-11-07 01:23:20.620980 
+
+ t_messsy,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:09:12.658838 
+
+ t_messsy,     W22,        <Channel name: kaicenat>,       2024-11-07 02:09:55.746930 
+
+ t_messsy,     W,        <Channel name: kaicenat>,       2024-11-07 02:10:07.701032 
+
+ t_messsy,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:10:14.064253 

@@ -1,0 +1,6 @@
+
+ criffty_,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:28.466029 
+
+ criffty_,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:34.289229 
+
+ criffty_,     69.,        <Channel name: kaicenat>,       2024-11-07 02:04:59.237130 

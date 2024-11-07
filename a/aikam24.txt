@@ -1,0 +1,10 @@
+
+ aikam24,     54321,        <Channel name: clix>,       2024-11-07 01:40:20.738592 
+
+ aikam24,     0goi,        <Channel name: clix>,       2024-11-07 01:40:26.113875 
+
+ aikam24,     ready,        <Channel name: clix>,       2024-11-07 01:40:38.302477 
+
+ aikam24,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.345867 
+
+ aikam24,     76543210,        <Channel name: clix>,       2024-11-07 01:42:47.598161 

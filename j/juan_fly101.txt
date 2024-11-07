@@ -1,0 +1,30 @@
+
+ juan_fly101,     La otra,        <Channel name: aldo_geo>,       2024-11-07 01:53:20.742104 
+
+ juan_fly101,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:01:23.860466 
+
+ juan_fly101,     Te recomiendo comprar un mono antes para lo que sigue,        <Channel name: aldo_geo>,       2024-11-07 02:02:09.601190 
+
+ juan_fly101,     Sigue viendo porque es un paso doble,        <Channel name: aldo_geo>,       2024-11-07 02:04:40.580927 
+
+ juan_fly101,     Compra un mono para el paso dos papu,        <Channel name: aldo_geo>,       2024-11-07 02:05:45.148222 
+
+ juan_fly101,     Ahora sigue lo difícil,        <Channel name: aldo_geo>,       2024-11-07 02:08:56.924237 
+
+ juan_fly101,     Que buena papu,        <Channel name: aldo_geo>,       2024-11-07 02:09:34.602809 
+
+ juan_fly101,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:09:49.488738 
+
+ juan_fly101,     Mejora a nivel 3 la pistola,        <Channel name: aldo_geo>,       2024-11-07 02:10:08.486456 
+
+ juan_fly101,     Compra un elicoptero te va ayudar mucho,        <Channel name: aldo_geo>,       2024-11-07 02:10:58.258307 
+
+ juan_fly101,     Jajaja,        <Channel name: aldo_geo>,       2024-11-07 02:15:51.026809 
+
+ juan_fly101,     Las pistola porque necesitas daño a distancia,        <Channel name: aldo_geo>,       2024-11-07 02:34:49.793288 
+
+ juan_fly101,     No, por la escopeta,        <Channel name: aldo_geo>,       2024-11-07 02:36:32.706654 
+
+ juan_fly101,     El boss es el difícil,        <Channel name: aldo_geo>,       2024-11-07 02:38:31.751481 
+
+ juan_fly101,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:42:08.427234 

@@ -1,0 +1,6 @@
+
+ carlosbaaz,     escopeta,        <Channel name: aldo_geo>,       2024-11-07 02:33:18.474378 
+
+ carlosbaaz,     Sii extracción,        <Channel name: aldo_geo>,       2024-11-07 02:38:26.114595 
+
+ carlosbaaz,     Tienes señuelo,        <Channel name: aldo_geo>,       2024-11-07 02:52:12.355094 

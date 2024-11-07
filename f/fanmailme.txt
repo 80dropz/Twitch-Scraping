@@ -1,0 +1,4 @@
+
+ fanmailme,     !Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:33.264349 
+
+ fanmailme,     Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:51.734929 

@@ -1,0 +1,4 @@
+
+ angel_geo0,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:47:38.837838 
+
+ angel_geo0,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:49:34.949362 

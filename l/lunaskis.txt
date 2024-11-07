@@ -1,0 +1,10 @@
+
+ lunaskis,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:26.245363 
+
+ lunaskis,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:09.076148 
+
+ lunaskis,     69.,        <Channel name: kaicenat>,       2024-11-07 02:04:35.642415 
+
+ lunaskis,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:04.794793 
+
+ lunaskis,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:34.547011 

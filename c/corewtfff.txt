@@ -1,0 +1,18 @@
+
+ corewtfff,     skibidiskibidi skibidi,        <Channel name: clix>,       2024-11-07 01:55:53.018079 
+
+ corewtfff,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:01.054168 
+
+ corewtfff,     skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:56:09.494604 
+
+ corewtfff,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:28.142901 
+
+ corewtfff,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:52.950478 
+
+ corewtfff,     skibidiskibidi skibidi,        <Channel name: clix>,       2024-11-07 02:01:54.121266 
+
+ corewtfff,     skibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 02:02:39.315260 
+
+ corewtfff,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:44.106783 
+
+ corewtfff,     bot,        <Channel name: clix>,       2024-11-07 02:03:04.821407 

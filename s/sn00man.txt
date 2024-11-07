@@ -1,0 +1,8 @@
+
+ sn00man,     how much you weigh,        <Channel name: oatley>,       2024-11-07 01:39:46.524041 
+
+ sn00man,     do you do any sports?,        <Channel name: oatley>,       2024-11-07 01:40:37.660302 
+
+ sn00man,     do you go to the gym?,        <Channel name: oatley>,       2024-11-07 01:41:52.227663 
+
+ sn00man,     are u over 200 lbs,        <Channel name: oatley>,       2024-11-07 01:45:18.919345 

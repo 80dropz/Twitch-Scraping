@@ -1,0 +1,4 @@
+
+ jecsal_sigma,     !res,        <Channel name: mrlust>,       2024-11-07 01:41:23.748911 
+
+ jecsal_sigma,     give me res pls ((,        <Channel name: mrlust>,       2024-11-07 01:41:34.578970 

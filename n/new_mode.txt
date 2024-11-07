@@ -1,0 +1,6 @@
+
+ new_mode,     Reet Only One Alive Rip,        <Channel name: oatley>,       2024-11-07 02:09:22.328406 
+
+ new_mode,     !followage,        <Channel name: oatley>,       2024-11-07 02:10:39.963179 
+
+ new_mode,     !watchtime,        <Channel name: oatley>,       2024-11-07 02:11:02.113180 

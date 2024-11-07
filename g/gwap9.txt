@@ -1,0 +1,4 @@
+
+ gwap9,     trap,        <Channel name: silky>,       2024-11-07 02:00:59.833294 
+
+ gwap9,     CONGRATS,        <Channel name: kaicenat>,       2024-11-07 02:11:20.186198 

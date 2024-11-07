@@ -1,0 +1,10 @@
+
+ dtbdtw,     TRUEE,        <Channel name: kaicenat>,       2024-11-07 01:23:22.617320 
+
+ dtbdtw,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 01:23:28.152566 
+
+ dtbdtw,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 01:23:29.445427 
+
+ dtbdtw,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 01:23:30.756086 
+
+ dtbdtw,     WW,        <Channel name: kaicenat>,       2024-11-07 01:23:31.816589 

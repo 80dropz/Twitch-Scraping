@@ -1,0 +1,8 @@
+
+ gittza,     pcp,        <Channel name: pokelawls>,       2024-11-07 02:45:43.759494 
+
+ gittza,     PCP,        <Channel name: pokelawls>,       2024-11-07 02:45:59.359160 
+
+ gittza,     PCP,        <Channel name: pokelawls>,       2024-11-07 02:47:26.404713 
+
+ gittza,     PCP,        <Channel name: pokelawls>,       2024-11-07 02:50:59.761285 

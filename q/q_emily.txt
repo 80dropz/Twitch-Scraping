@@ -1,0 +1,10 @@
+
+ q_emily,     LOL,        <Channel name: faxuty>,       2024-11-07 02:31:09.395084 
+
+ q_emily,     I don't like the color,        <Channel name: faxuty>,       2024-11-07 02:32:01.805662 
+
+ q_emily,     no,        <Channel name: faxuty>,       2024-11-07 02:32:08.686541 
+
+ q_emily,     I agree,        <Channel name: faxuty>,       2024-11-07 02:37:47.942901 
+
+ q_emily,     play asia,        <Channel name: faxuty>,       2024-11-07 02:46:09.914477 

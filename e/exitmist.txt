@@ -1,0 +1,10 @@
+
+ exitmist,     jerk,        <Channel name: plaqueboymax>,       2024-11-07 02:01:36.623368 
+
+ exitmist,     JERK,        <Channel name: plaqueboymax>,       2024-11-07 02:01:42.707388 
+
+ exitmist,     RAGE,        <Channel name: plaqueboymax>,       2024-11-07 02:01:49.360694 
+
+ exitmist,     PHONK,        <Channel name: plaqueboymax>,       2024-11-07 02:01:53.240647 
+
+ exitmist,     PHONK,        <Channel name: plaqueboymax>,       2024-11-07 02:02:07.793752 

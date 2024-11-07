@@ -1,0 +1,10 @@
+
+ minimal_agenda,     HUH,        <Channel name: pokelawls>,       2024-11-07 01:58:06.951448 
+
+ minimal_agenda,     omE,        <Channel name: pokelawls>,       2024-11-07 02:02:57.221490 
+
+ minimal_agenda,     BabyRage,        <Channel name: pokelawls>,       2024-11-07 02:12:53.869088 
+
+ minimal_agenda,     Buggin,        <Channel name: pokelawls>,       2024-11-07 02:18:21.294416 
+
+ minimal_agenda,     MUGA,        <Channel name: pokelawls>,       2024-11-07 02:18:31.202338 

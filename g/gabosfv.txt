@@ -1,0 +1,4 @@
+
+ gabosfv,     olv,        <Channel name: aldo_geo>,       2024-11-07 02:08:56.986379 
+
+ gabosfv,     lo está logrando señor,        <Channel name: aldo_geo>,       2024-11-07 02:33:06.143742 

@@ -1,0 +1,4 @@
+
+ pcarpy2301,     30secs,        <Channel name: kaicenat>,       2024-11-07 01:44:27.688745 
+
+ pcarpy2301,     30s,        <Channel name: kaicenat>,       2024-11-07 01:44:48.315130 

@@ -1,0 +1,4 @@
+
+ sam_bva,     SCUF,        <Channel name: nadeshot>,       2024-11-07 02:18:02.785716 
+
+ sam_bva,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:55.204348 

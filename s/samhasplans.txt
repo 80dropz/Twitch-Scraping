@@ -1,0 +1,16 @@
+
+ samhasplans,     LUL,        <Channel name: kaicenat>,       2024-11-07 01:24:06.478886 
+
+ samhasplans,     LOL,        <Channel name: kaicenat>,       2024-11-07 01:24:19.549794 
+
+ samhasplans,     60,        <Channel name: kaicenat>,       2024-11-07 02:03:36.658275 
+
+ samhasplans,     It's 68,        <Channel name: kaicenat>,       2024-11-07 02:04:46.331512 
+
+ samhasplans,     78,        <Channel name: kaicenat>,       2024-11-07 02:07:13.924610 
+
+ samhasplans,     WW,        <Channel name: kaicenat>,       2024-11-07 02:09:01.107544 
+
+ samhasplans,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 02:09:45.453747 
+
+ samhasplans,     pump,        <Channel name: kaicenat>,       2024-11-07 02:10:27.965398 

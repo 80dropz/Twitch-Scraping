@@ -1,0 +1,6 @@
+
+ keegun1,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.071318 
+
+ keegun1,     PICLEKS,        <Channel name: clix>,       2024-11-07 01:42:51.699780 
+
+ keegun1,     @o7_pickl LEGOAT,        <Channel name: clix>,       2024-11-07 01:44:11.290647 

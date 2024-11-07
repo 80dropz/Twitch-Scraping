@@ -1,0 +1,6 @@
+
+ suspectwz,     what mode did you play for the launchers,        <Channel name: nadeshot>,       2024-11-07 02:16:58.244981 
+
+ suspectwz,     what mode did you play for the launchers nade,        <Channel name: nadeshot>,       2024-11-07 02:17:52.019506 
+
+ suspectwz,     what mode did you play for the launchers nade d,        <Channel name: nadeshot>,       2024-11-07 02:18:29.742852 

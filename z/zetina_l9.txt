@@ -1,0 +1,4 @@
+
+ zetina_l9,     GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ,        <Channel name: kaicenat>,       2024-11-07 01:42:47.914461 
+
+ zetina_l9,     GoldPLZ,        <Channel name: kaicenat>,       2024-11-07 01:44:00.630234 

@@ -1,0 +1,6 @@
+
+ fnrb07,     30,        <Channel name: kaicenat>,       2024-11-07 01:43:33.920315 
+
+ fnrb07,     30,        <Channel name: kaicenat>,       2024-11-07 01:44:04.235661 
+
+ fnrb07,     30!!!!!,        <Channel name: kaicenat>,       2024-11-07 01:44:10.671942 

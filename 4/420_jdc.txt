@@ -1,0 +1,12 @@
+
+ 420_jdc,     yea,        <Channel name: caseoh_>,       2024-11-07 01:45:51.868742 
+
+ 420_jdc,     me,        <Channel name: caseoh_>,       2024-11-07 01:46:13.355839 
+
+ 420_jdc,     skip,        <Channel name: caseoh_>,       2024-11-07 01:48:32.390045 
+
+ 420_jdc,     lucky,        <Channel name: caseoh_>,       2024-11-07 01:49:11.309417 
+
+ 420_jdc,     gg,        <Channel name: caseoh_>,       2024-11-07 01:50:09.012968 
+
+ 420_jdc,     goodnight,        <Channel name: caseoh_>,       2024-11-07 01:58:17.566227 

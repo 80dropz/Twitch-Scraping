@@ -1,0 +1,4 @@
+
+ sike121525,     !headset,        <Channel name: summit1g>,       2024-11-07 02:32:25.959662 
+
+ sike121525,     !headset,        <Channel name: ricci>,       2024-11-07 02:33:14.978673 

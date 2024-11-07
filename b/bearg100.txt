@@ -1,0 +1,6 @@
+
+ bearg100,     gg,        <Channel name: kaicenat>,       2024-11-07 01:49:59.239858 
+
+ bearg100,     kai wants discord,        <Channel name: silky>,       2024-11-07 02:12:01.901514 
+
+ bearg100,     kai said discord,        <Channel name: silky>,       2024-11-07 02:12:08.868721 

@@ -1,0 +1,6 @@
+
+ vorpsk,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:17.286214 
+
+ vorpsk,     cap,        <Channel name: caseoh_>,       2024-11-07 01:45:51.621632 
+
+ vorpsk,     me,        <Channel name: caseoh_>,       2024-11-07 01:46:01.119634 

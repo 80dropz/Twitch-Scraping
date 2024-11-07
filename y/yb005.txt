@@ -1,0 +1,4 @@
+
+ yb005,     SPEECH,        <Channel name: plaqueboymax>,       2024-11-07 02:05:58.299771 
+
+ yb005,     SPEECH SPEECH SPEECH,        <Channel name: plaqueboymax>,       2024-11-07 02:06:22.585707 

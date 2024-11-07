@@ -1,0 +1,16 @@
+
+ x_reacts,     W,        <Channel name: kaicenat>,       2024-11-07 01:49:36.610410 
+
+ x_reacts,     wW,        <Channel name: kaicenat>,       2024-11-07 01:49:38.774969 
+
+ x_reacts,     W,        <Channel name: kaicenat>,       2024-11-07 01:49:45.802610 
+
+ x_reacts,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:47.806269 
+
+ x_reacts,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 01:49:52.785174 
+
+ x_reacts,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 01:50:34.163107 
+
+ x_reacts,     WWwwwWWWWW,        <Channel name: kaicenat>,       2024-11-07 01:50:40.272800 
+
+ x_reacts,     GGggggGG,        <Channel name: kaicenat>,       2024-11-07 01:50:56.839809 

@@ -1,0 +1,10 @@
+
+ dsanchez787,     Rigged,        <Channel name: kaicenat>,       2024-11-07 01:37:34.954610 
+
+ dsanchez787,     No,        <Channel name: kaicenat>,       2024-11-07 01:37:50.284435 
+
+ dsanchez787,     Rigged,        <Channel name: kaicenat>,       2024-11-07 01:37:57.139132 
+
+ dsanchez787,     Yes,        <Channel name: kaicenat>,       2024-11-07 01:39:47.440886 
+
+ dsanchez787,     3 hr,        <Channel name: kaicenat>,       2024-11-07 01:40:08.170370 

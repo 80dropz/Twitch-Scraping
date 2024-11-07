@@ -1,0 +1,6 @@
+
+ trentsclear,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:47.852583 
+
+ trentsclear,     WEDIDIR,        <Channel name: clix>,       2024-11-07 01:43:04.456366 
+
+ trentsclear,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:43:08.224609 

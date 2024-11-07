@@ -1,0 +1,12 @@
+
+ cjyounginn2112,     l,        <Channel name: kaicenat>,       2024-11-07 02:47:49.707769 
+
+ cjyounginn2112,     L,        <Channel name: kaicenat>,       2024-11-07 02:47:51.699092 
+
+ cjyounginn2112,     LLLL,        <Channel name: kaicenat>,       2024-11-07 02:47:53.194471 
+
+ cjyounginn2112,     LL,        <Channel name: kaicenat>,       2024-11-07 02:47:54.796520 
+
+ cjyounginn2112,     LLL,        <Channel name: kaicenat>,       2024-11-07 02:47:59.273101 
+
+ cjyounginn2112,     L,        <Channel name: kaicenat>,       2024-11-07 02:48:01.582227 

@@ -1,0 +1,14 @@
+
+ condbess,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:20:46.552835 
+
+ condbess,     PRE SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:22:16.414608 
+
+ condbess,     DEAL,        <Channel name: kaicenat>,       2024-11-07 01:23:12.703159 
+
+ condbess,     poll,        <Channel name: kaicenat>,       2024-11-07 01:45:06.875514 
+
+ condbess,     gg,        <Channel name: kaicenat>,       2024-11-07 01:46:33.536566 
+
+ condbess,     ggg,        <Channel name: kaicenat>,       2024-11-07 01:46:35.875604 
+
+ condbess,     gg,        <Channel name: kaicenat>,       2024-11-07 01:46:37.561652 

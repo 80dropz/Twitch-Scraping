@@ -1,0 +1,6 @@
+
+ mrmerkz1,     32.,        <Channel name: kaicenat>,       2024-11-07 02:00:40.169609 
+
+ mrmerkz1,     32,        <Channel name: kaicenat>,       2024-11-07 02:00:49.962044 
+
+ mrmerkz1,     32222,        <Channel name: kaicenat>,       2024-11-07 02:01:01.485379 

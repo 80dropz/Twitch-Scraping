@@ -1,0 +1,10 @@
+
+ yrg_narco,     pop,        <Channel name: jasontheween>,       2024-11-07 01:59:22.751097 
+
+ yrg_narco,     POP,        <Channel name: jasontheween>,       2024-11-07 01:59:29.163886 
+
+ yrg_narco,     POPPPPP,        <Channel name: jasontheween>,       2024-11-07 01:59:37.553539 
+
+ yrg_narco,     POPPPP,        <Channel name: jasontheween>,       2024-11-07 01:59:42.383701 
+
+ yrg_narco,     POP,        <Channel name: jasontheween>,       2024-11-07 01:59:45.868252 

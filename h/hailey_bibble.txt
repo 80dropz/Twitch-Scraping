@@ -1,0 +1,54 @@
+
+ hailey_bibble,     YESSSS,        <Channel name: kaicenat>,       2024-11-07 01:23:13.301431 
+
+ hailey_bibble,     YES,        <Channel name: kaicenat>,       2024-11-07 01:23:16.716087 
+
+ hailey_bibble,     WW,        <Channel name: kaicenat>,       2024-11-07 01:24:18.583881 
+
+ hailey_bibble,     WWW,        <Channel name: kaicenat>,       2024-11-07 01:24:19.619504 
+
+ hailey_bibble,     WWWW,        <Channel name: kaicenat>,       2024-11-07 01:24:20.932966 
+
+ hailey_bibble,     WW,        <Channel name: kaicenat>,       2024-11-07 01:24:22.099514 
+
+ hailey_bibble,     W,        <Channel name: kaicenat>,       2024-11-07 01:24:30.296357 
+
+ hailey_bibble,     WW,        <Channel name: kaicenat>,       2024-11-07 01:24:31.456398 
+
+ hailey_bibble,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 01:24:32.994500 
+
+ hailey_bibble,     ONE MORE,        <Channel name: kaicenat>,       2024-11-07 01:31:57.945496 
+
+ hailey_bibble,     SPIN,        <Channel name: kaicenat>,       2024-11-07 01:32:04.798587 
+
+ hailey_bibble,     20 MINUTES,        <Channel name: kaicenat>,       2024-11-07 01:32:49.202662 
+
+ hailey_bibble,     BROOOLO,        <Channel name: kaicenat>,       2024-11-07 01:34:31.260838 
+
+ hailey_bibble,     TIGHTEN THE WEEL,        <Channel name: kaicenat>,       2024-11-07 01:35:13.058484 
+
+ hailey_bibble,     EWW,        <Channel name: kaicenat>,       2024-11-07 01:35:20.486459 
+
+ hailey_bibble,     BROO,        <Channel name: kaicenat>,       2024-11-07 01:35:47.462683 
+
+ hailey_bibble,     ITS TILTED,        <Channel name: kaicenat>,       2024-11-07 01:36:25.777313 
+
+ hailey_bibble,     YES,        <Channel name: kaicenat>,       2024-11-07 01:40:08.311398 
+
+ hailey_bibble,     2 MIN,        <Channel name: kaicenat>,       2024-11-07 01:40:15.135754 
+
+ hailey_bibble,     30 sec,        <Channel name: kaicenat>,       2024-11-07 01:41:48.836160 
+
+ hailey_bibble,     I could do them,        <Channel name: kaicenat>,       2024-11-07 01:43:18.195402 
+
+ hailey_bibble,     YES,        <Channel name: kaicenat>,       2024-11-07 01:43:22.011248 
+
+ hailey_bibble,     1 MIN,        <Channel name: kaicenat>,       2024-11-07 01:43:40.030745 
+
+ hailey_bibble,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 01:43:58.088445 
+
+ hailey_bibble,     NO,        <Channel name: kaicenat>,       2024-11-07 01:44:06.880386 
+
+ hailey_bibble,     HIRYR,        <Channel name: kaicenat>,       2024-11-07 01:44:32.483896 
+
+ hailey_bibble,     HIRRY,        <Channel name: kaicenat>,       2024-11-07 01:44:34.581362 

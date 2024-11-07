@@ -1,0 +1,6 @@
+
+ desert_666,     444444,        <Channel name: clix>,       2024-11-07 01:40:00.428937 
+
+ desert_666,     blue,        <Channel name: clix>,       2024-11-07 01:41:06.611263 
+
+ desert_666,     blu,        <Channel name: clix>,       2024-11-07 01:42:47.996445 

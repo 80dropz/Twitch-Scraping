@@ -1,0 +1,14 @@
+
+ cchanel3,     W 225K,        <Channel name: kaicenat>,       2024-11-07 01:41:23.195043 
+
+ cchanel3,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:28.185591 
+
+ cchanel3,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:25.109569 
+
+ cchanel3,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:45.889830 
+
+ cchanel3,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:25:27.695142 
+
+ cchanel3,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 02:37:29.873010 
+
+ cchanel3,     LMAOO,        <Channel name: kaicenat>,       2024-11-07 02:41:02.453608 

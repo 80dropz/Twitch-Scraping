@@ -1,0 +1,6 @@
+
+ kaifrmdao300,     clapping,        <Channel name: kaicenat>,       2024-11-07 02:34:11.034472 
+
+ kaifrmdao300,     unmute,        <Channel name: kaicenat>,       2024-11-07 02:35:00.881771 
+
+ kaifrmdao300,     w strokes,        <Channel name: kaicenat>,       2024-11-07 02:35:38.327874 

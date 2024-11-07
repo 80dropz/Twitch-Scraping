@@ -1,0 +1,8 @@
+
+ hallobtn,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:23.773585 
+
+ hallobtn,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:26.596309 
+
+ hallobtn,     NO 69,        <Channel name: kaicenat>,       2024-11-07 02:04:40.906768 
+
+ hallobtn,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:37.586560 

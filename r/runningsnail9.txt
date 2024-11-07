@@ -1,0 +1,14 @@
+
+ runningsnail9,     gg,        <Channel name: kaicenat>,       2024-11-07 01:46:36.345385 
+
+ runningsnail9,     HOLD,        <Channel name: kaicenat>,       2024-11-07 01:48:42.101185 
+
+ runningsnail9,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:47.088598 
+
+ runningsnail9,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:30.296957 
+
+ runningsnail9,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:40.627124 
+
+ runningsnail9,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:26.927521 
+
+ runningsnail9,     83,        <Channel name: kaicenat>,       2024-11-07 02:07:07.376772 

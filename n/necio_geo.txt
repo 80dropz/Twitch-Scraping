@@ -1,0 +1,18 @@
+
+ necio_geo,     ??,        <Channel name: aldo_geo>,       2024-11-07 02:07:25.870366 
+
+ necio_geo,     Aaaaaaaa,        <Channel name: aldo_geo>,       2024-11-07 02:08:44.712646 
+
+ necio_geo,     VAMOOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:08:59.617087 
+
+ necio_geo,     Alv,        <Channel name: aldo_geo>,       2024-11-07 02:13:25.322212 
+
+ necio_geo,     Llegaron los oaxacos,        <Channel name: aldo_geo>,       2024-11-07 02:13:46.637085 
+
+ necio_geo,     Ya estas delulu,        <Channel name: aldo_geo>,       2024-11-07 02:16:14.851817 
+
+ necio_geo,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:16:30.666094 
+
+ necio_geo,     L,        <Channel name: aldo_geo>,       2024-11-07 02:16:41.350285 
+
+ necio_geo,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:46:47.709160 

@@ -1,0 +1,8 @@
+
+ bigbetsonly26,     RESPIN,        <Channel name: kaicenat>,       2024-11-07 01:21:22.547361 
+
+ bigbetsonly26,     ROLL BACKV DONT COUNT,        <Channel name: kaicenat>,       2024-11-07 01:32:21.032543 
+
+ bigbetsonly26,     DONT COUNT THE ROLL BACK,        <Channel name: kaicenat>,       2024-11-07 01:32:27.105667 
+
+ bigbetsonly26,     STOP IT AT THR ROLL BACK,        <Channel name: kaicenat>,       2024-11-07 01:33:09.982950 

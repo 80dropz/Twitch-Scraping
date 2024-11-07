@@ -1,0 +1,6 @@
+
+ trey_lying,     LACKING,        <Channel name: meltislive>,       2024-11-07 02:34:34.741789 
+
+ trey_lying,     LACKER,        <Channel name: meltislive>,       2024-11-07 02:34:37.998277 
+
+ trey_lying,     CLIPPED AND SHIPPED,        <Channel name: meltislive>,       2024-11-07 02:36:39.803884 

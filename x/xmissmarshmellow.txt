@@ -1,0 +1,10 @@
+
+ xmissmarshmellow,     POLL POLL,        <Channel name: kaicenat>,       2024-11-07 01:44:26.911405 
+
+ xmissmarshmellow,     Do a POLL,        <Channel name: kaicenat>,       2024-11-07 01:44:34.594556 
+
+ xmissmarshmellow,     Poll,        <Channel name: kaicenat>,       2024-11-07 01:44:43.183209 
+
+ xmissmarshmellow,     POLL 30,45,60,        <Channel name: kaicenat>,       2024-11-07 01:46:22.956640 
+
+ xmissmarshmellow,     JUST DO IT @NIKE,        <Channel name: kaicenat>,       2024-11-07 01:54:30.923233 

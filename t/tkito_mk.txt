@@ -1,0 +1,18 @@
+
+ tkito_mk,     aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:08:40.370476 
+
+ tkito_mk,     Aprete las nalgas,        <Channel name: aldo_geo>,       2024-11-07 02:09:55.911637 
+
+ tkito_mk,     aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:10:02.837180 
+
+ tkito_mk,     aldogeoLMFAO aldogeoLMFAO aldogeoLMFAO aldogeoLMFAO,        <Channel name: aldo_geo>,       2024-11-07 02:15:39.430851 
+
+ tkito_mk,     Pistola,        <Channel name: aldo_geo>,       2024-11-07 02:34:36.262834 
+
+ tkito_mk,     aldogeoPray aldogeoPray aldogeoPray,        <Channel name: aldo_geo>,       2024-11-07 02:44:54.880592 
+
+ tkito_mk,     aldogeoFlag aldogeoFlag aldogeoPray aldogeoFlag aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:45:09.359114 
+
+ tkito_mk,     aldogeoFlag aldogeoFlag aldogeoFlag aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:46:11.097242 
+
+ tkito_mk,     aldogeoFlag aldogeoFlag aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:52:48.497990 

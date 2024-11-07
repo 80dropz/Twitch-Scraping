@@ -1,0 +1,38 @@
+
+ ody_o6,     6,        <Channel name: clix>,       2024-11-07 01:40:14.642403 
+
+ ody_o6,     2,        <Channel name: clix>,       2024-11-07 01:40:17.421925 
+
+ ody_o6,     READY,        <Channel name: clix>,       2024-11-07 01:40:28.896178 
+
+ ody_o6,     LETS GO 07PICKLE,        <Channel name: clix>,       2024-11-07 01:40:40.648378 
+
+ ody_o6,     LETSSS GOO 07PICKLE,        <Channel name: clix>,       2024-11-07 01:40:51.524376 
+
+ ody_o6,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.352918 
+
+ ody_o6,     1,        <Channel name: clix>,       2024-11-07 01:42:47.571573 
+
+ ody_o6,     LETS GO PICKLE,        <Channel name: clix>,       2024-11-07 01:42:57.907451 
+
+ ody_o6,     LETS GO PICKLW,        <Channel name: clix>,       2024-11-07 01:43:13.517207 
+
+ ody_o6,     W PICKLE,        <Channel name: clix>,       2024-11-07 01:43:29.479692 
+
+ ody_o6,     PICKLE W,        <Channel name: clix>,       2024-11-07 01:44:17.334746 
+
+ ody_o6,     YOU SHOULD SPIN IT TWICE,        <Channel name: clix>,       2024-11-07 01:45:47.243510 
+
+ ody_o6,     @o7_pickl let’s go,        <Channel name: clix>,       2024-11-07 01:46:48.662927 
+
+ ody_o6,     I got it,        <Channel name: clix>,       2024-11-07 01:48:41.761407 
+
+ ody_o6,     mero lowkey getting bitched,        <Channel name: faxuty>,       2024-11-07 02:10:46.857256 
+
+ ody_o6,     Clix got 20 min in cash,        <Channel name: faxuty>,       2024-11-07 02:34:03.913691 
+
+ ody_o6,     CLIX showed his bank account and it had 14 million in it,        <Channel name: faxuty>,       2024-11-07 02:40:18.877222 
+
+ ody_o6,     play the clip of clix showing his bank account w 14 million in it,        <Channel name: faxuty>,       2024-11-07 02:51:13.765989 
+
+ ody_o6,     watch the podcast w Clix and FazeRug when they talk abt making 5 min in a month,        <Channel name: faxuty>,       2024-11-07 02:53:17.030786 

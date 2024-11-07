@@ -1,0 +1,8 @@
+
+ kt1403,     30seconds,        <Channel name: kaicenat>,       2024-11-07 01:39:37.512053 
+
+ kt1403,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:43:30.902571 
+
+ kt1403,     yh,        <Channel name: kaicenat>,       2024-11-07 01:43:57.614130 
+
+ kt1403,     do a poll for 30 or a min,        <Channel name: kaicenat>,       2024-11-07 01:47:51.824611 

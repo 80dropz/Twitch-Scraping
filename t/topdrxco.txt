@@ -1,0 +1,8 @@
+
+ topdrxco,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:54.402851 
+
+ topdrxco,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:03.860226 
+
+ topdrxco,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:10.474973 
+
+ topdrxco,     say hi,        <Channel name: clix>,       2024-11-07 02:15:27.230125 

@@ -1,0 +1,10 @@
+
+ boxedanimationsx,     yea,        <Channel name: kaicenat>,       2024-11-07 01:43:22.295319 
+
+ boxedanimationsx,     1 min not enough time,        <Channel name: kaicenat>,       2024-11-07 01:44:03.856451 
+
+ boxedanimationsx,     1 min not enough time to load cards,        <Channel name: kaicenat>,       2024-11-07 01:44:09.742138 
+
+ boxedanimationsx,     1 min 30 seconds not enough time to load cards,        <Channel name: kaicenat>,       2024-11-07 01:44:24.223555 
+
+ boxedanimationsx,     1,        <Channel name: kaicenat>,       2024-11-07 01:45:04.376267 

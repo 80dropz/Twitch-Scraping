@@ -1,0 +1,4 @@
+
+ nyckorr,     111,        <Channel name: clix>,       2024-11-07 02:08:13.386053 
+
+ nyckorr,     1,        <Channel name: clix>,       2024-11-07 02:08:16.143455 

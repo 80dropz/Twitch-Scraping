@@ -1,0 +1,6 @@
+
+ c00lyy_j,     100,        <Channel name: kaicenat>,       2024-11-07 01:39:41.283038 
+
+ c00lyy_j,     $100,        <Channel name: kaicenat>,       2024-11-07 01:39:50.445474 
+
+ c00lyy_j,     BOOO,        <Channel name: kaicenat>,       2024-11-07 01:40:02.424193 

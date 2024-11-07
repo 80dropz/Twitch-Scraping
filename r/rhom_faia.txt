@@ -1,0 +1,8 @@
+
+ rhom_faia,     1/6 NODDERS,        <Channel name: summit1g>,       2024-11-07 02:33:04.812066 
+
+ rhom_faia,     Simon Says KEKW,        <Channel name: summit1g>,       2024-11-07 02:34:17.413500 
+
+ rhom_faia,     Clap,        <Channel name: summit1g>,       2024-11-07 02:49:40.913715 
+
+ rhom_faia,     KEKW,        <Channel name: summit1g>,       2024-11-07 02:49:41.897414 

@@ -1,0 +1,16 @@
+
+ sona_kbh,     NO,        <Channel name: caseoh_>,       2024-11-07 01:40:00.073156 
+
+ sona_kbh,     GG,        <Channel name: caseoh_>,       2024-11-07 01:47:49.164381 
+
+ sona_kbh,     SKIP,        <Channel name: caseoh_>,       2024-11-07 01:48:14.095981 
+
+ sona_kbh,     HUH?,        <Channel name: caseoh_>,       2024-11-07 01:48:57.770570 
+
+ sona_kbh,     WTF,        <Channel name: caseoh_>,       2024-11-07 01:49:29.609219 
+
+ sona_kbh,     UMMM,        <Channel name: caseoh_>,       2024-11-07 01:50:18.170255 
+
+ sona_kbh,     o7,        <Channel name: caseoh_>,       2024-11-07 01:51:51.908603 
+
+ sona_kbh,     lol,        <Channel name: caseoh_>,       2024-11-07 01:52:49.776595 

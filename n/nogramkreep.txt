@@ -1,0 +1,16 @@
+
+ nogramkreep,     no,        <Channel name: kaicenat>,       2024-11-07 01:33:47.608992 
+
+ nogramkreep,     gg,        <Channel name: kaicenat>,       2024-11-07 01:33:53.880740 
+
+ nogramkreep,     Kai,        <Channel name: silky>,       2024-11-07 02:12:05.175655 
+
+ nogramkreep,     KAI,        <Channel name: silky>,       2024-11-07 02:12:06.733945 
+
+ nogramkreep,     KAII,        <Channel name: silky>,       2024-11-07 02:12:10.672984 
+
+ nogramkreep,     MINI,        <Channel name: silky>,       2024-11-07 02:12:28.610915 
+
+ nogramkreep,     WHY YU CHESSING,        <Channel name: silky>,       2024-11-07 02:12:48.503574 
+
+ nogramkreep,     WHY YU CHESSING @silky,        <Channel name: silky>,       2024-11-07 02:12:56.060047 

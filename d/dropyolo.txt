@@ -1,0 +1,36 @@
+
+ dropyolo,     DO 45 SECS,        <Channel name: kaicenat>,       2024-11-07 01:41:42.628165 
+
+ dropyolo,     WW,        <Channel name: kaicenat>,       2024-11-07 01:42:00.215626 
+
+ dropyolo,     DO 45 SECS,        <Channel name: kaicenat>,       2024-11-07 01:42:46.984458 
+
+ dropyolo,     WSUNNY,        <Channel name: kaicenat>,       2024-11-07 01:42:58.274148 
+
+ dropyolo,     W SUNNY,        <Channel name: kaicenat>,       2024-11-07 01:43:04.959187 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:43:48.432102 
+
+ dropyolo,     CHAT THATS REASONABLE,        <Channel name: kaicenat>,       2024-11-07 01:43:54.748545 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:43:58.131179 
+
+ dropyolo,     ATLEADT 45,        <Channel name: kaicenat>,       2024-11-07 01:44:17.210275 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:44:32.098418 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:45:04.523986 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:46:01.458369 
+
+ dropyolo,     NOOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:48:13.861962 
+
+ dropyolo,     45,        <Channel name: kaicenat>,       2024-11-07 01:48:16.627311 
+
+ dropyolo,     44,        <Channel name: kaicenat>,       2024-11-07 01:48:26.283775 
+
+ dropyolo,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:49:03.144304 
+
+ dropyolo,     gg,        <Channel name: kaicenat>,       2024-11-07 01:49:05.630809 
+
+ dropyolo,     ggg,        <Channel name: kaicenat>,       2024-11-07 01:49:09.416086 

@@ -1,0 +1,22 @@
+
+ chrome___100,     KYRIE CLIPS,        <Channel name: kaicenat>,       2024-11-07 02:28:51.707356 
+
+ chrome___100,     ASK ABOUT KYRIE CLIPS,        <Channel name: kaicenat>,       2024-11-07 02:28:56.454886 
+
+ chrome___100,     KYRIE CLIPS,        <Channel name: kaicenat>,       2024-11-07 02:28:59.497633 
+
+ chrome___100,     KYRIEHIGHLIGHTS,        <Channel name: kaicenat>,       2024-11-07 02:29:06.076592 
+
+ chrome___100,     KYRIE HIGHLIGHTS,        <Channel name: kaicenat>,       2024-11-07 02:29:11.457987 
+
+ chrome___100,     ASK ABOUT KYRIE HIGHLIGHTS,        <Channel name: kaicenat>,       2024-11-07 02:29:26.740611 
+
+ chrome___100,     SEND CLIP,        <Channel name: kaicenat>,       2024-11-07 02:30:27.997574 
+
+ chrome___100,     he was clapping on clips,        <Channel name: kaicenat>,       2024-11-07 02:32:39.456141 
+
+ chrome___100,     ur muted,        <Channel name: silky>,       2024-11-07 02:34:36.808276 
+
+ chrome___100,     he muted u,        <Channel name: silky>,       2024-11-07 02:34:45.036631 
+
+ chrome___100,     muted,        <Channel name: silky>,       2024-11-07 02:34:56.051601 

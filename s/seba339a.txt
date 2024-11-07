@@ -1,0 +1,6 @@
+
+ seba339a,     +,        <Channel name: kaicenat>,       2024-11-07 01:49:17.678481 
+
+ seba339a,     +++,        <Channel name: kaicenat>,       2024-11-07 01:49:22.338128 
+
+ seba339a,     NO,        <Channel name: kaicenat>,       2024-11-07 01:54:39.261097 

@@ -1,0 +1,24 @@
+
+ whosugarr,     COOKER,        <Channel name: caseoh_>,       2024-11-07 01:40:42.974115 
+
+ whosugarr,     COOKED,        <Channel name: caseoh_>,       2024-11-07 01:40:45.894616 
+
+ whosugarr,     GG,        <Channel name: caseoh_>,       2024-11-07 01:40:49.561978 
+
+ whosugarr,     4,        <Channel name: caseoh_>,       2024-11-07 01:45:09.936181 
+
+ whosugarr,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:18.803849 
+
+ whosugarr,     L SMOKER,        <Channel name: caseoh_>,       2024-11-07 01:45:50.098697 
+
+ whosugarr,     cap,        <Channel name: caseoh_>,       2024-11-07 01:46:24.795586 
+
+ whosugarr,     wowwww,        <Channel name: caseoh_>,       2024-11-07 01:49:56.039832 
+
+ whosugarr,     HELPPPP,        <Channel name: caseoh_>,       2024-11-07 01:50:20.578589 
+
+ whosugarr,     BRO JINXED IT,        <Channel name: caseoh_>,       2024-11-07 01:50:38.034496 
+
+ whosugarr,     LOLLLL,        <Channel name: caseoh_>,       2024-11-07 01:50:50.872190 
+
+ whosugarr,     o7,        <Channel name: caseoh_>,       2024-11-07 01:51:45.439839 

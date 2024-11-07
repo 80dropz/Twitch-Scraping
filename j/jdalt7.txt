@@ -1,0 +1,8 @@
+
+ jdalt7,     CHRISTMAS,        <Channel name: plaqueboymax>,       2024-11-07 02:00:14.852159 
+
+ jdalt7,     XMAS,        <Channel name: plaqueboymax>,       2024-11-07 02:00:49.343976 
+
+ jdalt7,     XMAS,        <Channel name: plaqueboymax>,       2024-11-07 02:07:07.418835 
+
+ jdalt7,     CHIRSTMAS,        <Channel name: plaqueboymax>,       2024-11-07 02:07:15.619794 

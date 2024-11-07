@@ -1,0 +1,26 @@
+
+ tnt_in_ur_face,     put me in,        <Channel name: clix>,       2024-11-07 01:42:01.917196 
+
+ tnt_in_ur_face,     good night,        <Channel name: clix>,       2024-11-07 01:44:44.720188 
+
+ tnt_in_ur_face,     feldy should play the cup,        <Channel name: clix>,       2024-11-07 01:45:56.199535 
+
+ tnt_in_ur_face,     mhmm,        <Channel name: clix>,       2024-11-07 01:48:06.749955 
+
+ tnt_in_ur_face,     I got it,        <Channel name: clix>,       2024-11-07 01:48:41.933676 
+
+ tnt_in_ur_face,     I got it shiters,        <Channel name: clix>,       2024-11-07 01:49:24.721834 
+
+ tnt_in_ur_face,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:27.646924 
+
+ tnt_in_ur_face,     bat,        <Channel name: clix>,       2024-11-07 02:03:22.168382 
+
+ tnt_in_ur_face,     bot,        <Channel name: clix>,       2024-11-07 02:03:26.931287 
+
+ tnt_in_ur_face,     bott,        <Channel name: clix>,       2024-11-07 02:03:44.023401 
+
+ tnt_in_ur_face,     Bot,        <Channel name: clix>,       2024-11-07 02:03:59.960756 
+
+ tnt_in_ur_face,     BOT,        <Channel name: clix>,       2024-11-07 02:04:18.336601 
+
+ tnt_in_ur_face,     hell no,        <Channel name: clix>,       2024-11-07 02:14:42.580800 

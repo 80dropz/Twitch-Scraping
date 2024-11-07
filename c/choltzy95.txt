@@ -1,0 +1,8 @@
+
+ choltzy95,     add some reverb and delay MAX,        <Channel name: plaqueboymax>,       2024-11-07 01:41:58.178973 
+
+ choltzy95,     More reverb and delay,        <Channel name: plaqueboymax>,       2024-11-07 01:42:56.571067 
+
+ choltzy95,     REVERB AND DELAY,        <Channel name: plaqueboymax>,       2024-11-07 01:43:13.273094 
+
+ choltzy95,     ADD REVERB AND DELAY,        <Channel name: plaqueboymax>,       2024-11-07 01:44:16.191937 

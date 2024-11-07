@@ -1,0 +1,52 @@
+
+ 12_zenix,     you dont know how to count,        <Channel name: clix>,       2024-11-07 01:40:02.591533 
+
+ 12_zenix,     gift 5 subs,        <Channel name: clix>,       2024-11-07 01:40:11.941217 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:36.143964 
+
+ 12_zenix,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:53:47.275274 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:04.105173 
+
+ 12_zenix,     sikibidiskibibi,        <Channel name: clix>,       2024-11-07 01:54:35.386153 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:52.567914 
+
+ 12_zenix,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:56:39.899977 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:10.757242 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:12.689959 
+
+ 12_zenix,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:00:59.158033 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:09.544762 
+
+ 12_zenix,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:01:23.648428 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:00.563990 
+
+ 12_zenix,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:02:24.764153 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:34.008124 
+
+ 12_zenix,     skibidiskibid,        <Channel name: clix>,       2024-11-07 02:03:22.875020 
+
+ 12_zenix,     skibidi,        <Channel name: clix>,       2024-11-07 02:04:17.160068 
+
+ 12_zenix,     1,        <Channel name: clix>,       2024-11-07 02:08:12.406949 
+
+ 12_zenix,     1111,        <Channel name: clix>,       2024-11-07 02:08:15.752486 
+
+ 12_zenix,     1,        <Channel name: clix>,       2024-11-07 02:08:18.140743 
+
+ 12_zenix,     11,        <Channel name: clix>,       2024-11-07 02:08:21.213523 
+
+ 12_zenix,     111,        <Channel name: clix>,       2024-11-07 02:08:24.313919 
+
+ 12_zenix,     1,        <Channel name: clix>,       2024-11-07 02:08:27.166063 
+
+ 12_zenix,     11,        <Channel name: clix>,       2024-11-07 02:08:29.729271 
+
+ 12_zenix,     111,        <Channel name: clix>,       2024-11-07 02:08:36.168606 

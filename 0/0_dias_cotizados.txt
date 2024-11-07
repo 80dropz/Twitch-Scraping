@@ -1,0 +1,6 @@
+
+ 0_dias_cotizados,     WTF,        <Channel name: kaicenat>,       2024-11-07 01:20:37.092097 
+
+ 0_dias_cotizados,     ...........,        <Channel name: kaicenat>,       2024-11-07 01:23:57.831851 
+
+ 0_dias_cotizados,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:08.636206 

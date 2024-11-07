@@ -1,0 +1,6 @@
+
+ globalgangshordy,     50,        <Channel name: kaicenat>,       2024-11-07 02:03:33.677252 
+
+ globalgangshordy,     70,        <Channel name: kaicenat>,       2024-11-07 02:05:26.515072 
+
+ globalgangshordy,     70,        <Channel name: kaicenat>,       2024-11-07 02:06:15.403421 

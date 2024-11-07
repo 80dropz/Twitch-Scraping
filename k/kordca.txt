@@ -1,0 +1,4 @@
+
+ kordca,     !Trio,        <Channel name: clix>,       2024-11-07 01:40:16.795533 
+
+ kordca,     Ready,        <Channel name: clix>,       2024-11-07 01:40:27.735516 

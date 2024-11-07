@@ -1,0 +1,12 @@
+
+ tezdetroit313,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:38.117292 
+
+ tezdetroit313,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:35.475539 
+
+ tezdetroit313,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:15.549773 
+
+ tezdetroit313,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:06.340615 
+
+ tezdetroit313,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:44.795488 
+
+ tezdetroit313,     90,        <Channel name: kaicenat>,       2024-11-07 02:07:35.165959 

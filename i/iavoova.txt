@@ -1,0 +1,32 @@
+
+ iavoova,     sigma,        <Channel name: clix>,       2024-11-07 01:51:57.944770 
+
+ iavoova,     s,        <Channel name: clix>,       2024-11-07 01:54:01.473500 
+
+ iavoova,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:11.311873 
+
+ iavoova,     e,        <Channel name: clix>,       2024-11-07 01:54:36.381660 
+
+ iavoova,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:50.010382 
+
+ iavoova,     skibidi sigma,        <Channel name: clix>,       2024-11-07 01:56:30.064434 
+
+ iavoova,     roll again,        <Channel name: clix>,       2024-11-07 01:58:02.021316 
+
+ iavoova,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:04.186931 
+
+ iavoova,     clix,        <Channel name: clix>,       2024-11-07 02:01:10.991441 
+
+ iavoova,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:30.222936 
+
+ iavoova,     skibidw,        <Channel name: clix>,       2024-11-07 02:02:05.528454 
+
+ iavoova,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:09.944875 
+
+ iavoova,     clix can i bang,        <Channel name: clix>,       2024-11-07 02:04:22.982822 
+
+ iavoova,     L giveaway,        <Channel name: clix>,       2024-11-07 02:04:51.399780 
+
+ iavoova,     @Clix hey clixy poo,        <Channel name: oatley>,       2024-11-07 02:16:46.912246 
+
+ iavoova,     !fill,        <Channel name: oatley>,       2024-11-07 02:47:06.562484 

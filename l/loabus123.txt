@@ -1,0 +1,6 @@
+
+ loabus123,     Green,        <Channel name: clix>,       2024-11-07 01:41:02.738794 
+
+ loabus123,     GREEN,        <Channel name: clix>,       2024-11-07 01:41:14.841606 
+
+ loabus123,     GREEN,        <Channel name: clix>,       2024-11-07 01:42:00.553899 

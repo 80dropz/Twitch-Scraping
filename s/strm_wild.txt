@@ -1,0 +1,4 @@
+
+ strm_wild,     ready,        <Channel name: clix>,       2024-11-07 01:40:35.233183 
+
+ strm_wild,     bruh,        <Channel name: clix>,       2024-11-07 01:42:20.483041 

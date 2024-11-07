@@ -1,0 +1,10 @@
+
+ loki_32_,     no,        <Channel name: caseoh_>,       2024-11-07 01:40:12.937230 
+
+ loki_32_,     skill ish you,        <Channel name: caseoh_>,       2024-11-07 01:42:00.221134 
+
+ loki_32_,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:54.583939 
+
+ loki_32_,     big cugars,        <Channel name: caseoh_>,       2024-11-07 01:45:58.383031 
+
+ loki_32_,     LMAO,        <Channel name: caseoh_>,       2024-11-07 01:50:50.653995 

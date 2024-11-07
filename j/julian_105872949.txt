@@ -1,0 +1,24 @@
+
+ julian_105872949,     !sub,        <Channel name: kaicenat>,       2024-11-07 01:46:01.623400 
+
+ julian_105872949,     cooked,        <Channel name: kaicenat>,       2024-11-07 01:50:12.687625 
+
+ julian_105872949,     gys,        <Channel name: kaicenat>,       2024-11-07 01:50:39.520906 
+
+ julian_105872949,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:50:52.202651 
+
+ julian_105872949,     33,        <Channel name: kaicenat>,       2024-11-07 02:01:12.038203 
+
+ julian_105872949,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:39.859298 
+
+ julian_105872949,     w,        <Channel name: kaicenat>,       2024-11-07 02:08:36.543401 
+
+ julian_105872949,     wwwww,        <Channel name: kaicenat>,       2024-11-07 02:08:41.791583 
+
+ julian_105872949,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 02:09:05.348512 
+
+ julian_105872949,     W,        <Channel name: kaicenat>,       2024-11-07 02:09:08.191783 
+
+ julian_105872949,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:09:10.692963 
+
+ julian_105872949,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:09:15.709654 

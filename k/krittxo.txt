@@ -1,0 +1,4 @@
+
+ krittxo,     w adapt,        <Channel name: adapt>,       2024-11-07 01:57:38.244922 
+
+ krittxo,     W stream,        <Channel name: adapt>,       2024-11-07 02:06:33.174569 

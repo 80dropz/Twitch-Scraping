@@ -1,0 +1,8 @@
+
+ axstino,     YES,        <Channel name: clix>,       2024-11-07 02:38:18.756646 
+
+ axstino,     YESss,        <Channel name: clix>,       2024-11-07 02:38:21.118302 
+
+ axstino,     yes,        <Channel name: clix>,       2024-11-07 02:38:22.531975 
+
+ axstino,     yesssss,        <Channel name: clix>,       2024-11-07 02:38:25.232368 

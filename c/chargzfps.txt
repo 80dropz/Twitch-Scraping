@@ -1,0 +1,6 @@
+
+ chargzfps,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.428588 
+
+ chargzfps,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:06.332401 
+
+ chargzfps,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:58.349564 

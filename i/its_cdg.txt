@@ -1,0 +1,8 @@
+
+ its_cdg,     24 hourss,        <Channel name: kaicenat>,       2024-11-07 01:39:46.968988 
+
+ its_cdg,     BOP BOP BOP BOP BOP BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:13.236089 
+
+ its_cdg,     BOP BOP BOP BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:48.341370 
+
+ its_cdg,     norf,        <Channel name: kaicenat>,       2024-11-07 02:50:19.611531 

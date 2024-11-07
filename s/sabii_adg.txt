@@ -1,0 +1,6 @@
+
+ sabii_adg,     XD,        <Channel name: aldo_geo>,       2024-11-07 02:16:19.716616 
+
+ sabii_adg,     aldogeoFlag,        <Channel name: aldo_geo>,       2024-11-07 02:48:42.766962 
+
+ sabii_adg,     Ehh,        <Channel name: aldo_geo>,       2024-11-07 02:53:24.715807 

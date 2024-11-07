@@ -1,0 +1,10 @@
+
+ marvelplug,     if 1 minutes is to long then do 60 seconds then,        <Channel name: kaicenat>,       2024-11-07 01:40:58.286158 
+
+ marvelplug,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:42:58.142883 
+
+ marvelplug,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:33.218077 
+
+ marvelplug,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:49:30.421919 
+
+ marvelplug,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 02:50:58.521413 

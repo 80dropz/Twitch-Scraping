@@ -1,0 +1,4 @@
+
+ idr0px,     !timr,        <Channel name: kaicenat>,       2024-11-07 01:56:18.452562 
+
+ idr0px,     !time,        <Channel name: kaicenat>,       2024-11-07 01:56:32.019786 

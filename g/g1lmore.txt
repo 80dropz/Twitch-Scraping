@@ -1,0 +1,10 @@
+
+ g1lmore,     nadeDrunk,        <Channel name: nadeshot>,       2024-11-07 02:36:27.287707 
+
+ g1lmore,     nadeFace,        <Channel name: nadeshot>,       2024-11-07 02:36:37.373936 
+
+ g1lmore,     w power,        <Channel name: nadeshot>,       2024-11-07 02:38:16.389022 
+
+ g1lmore,     yes,        <Channel name: nadeshot>,       2024-11-07 02:38:57.153748 
+
+ g1lmore,     who is nade playing with?,        <Channel name: nadeshot>,       2024-11-07 02:40:16.797156 

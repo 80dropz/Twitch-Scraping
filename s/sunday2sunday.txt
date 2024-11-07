@@ -1,0 +1,12 @@
+
+ sunday2sunday,     GGS,        <Channel name: aceu>,       2024-11-07 01:56:10.190015 
+
+ sunday2sunday,     CYA LATER,        <Channel name: aceu>,       2024-11-07 01:56:26.717849 
+
+ sunday2sunday,     $cookie,        <Channel name: aceu>,       2024-11-07 01:58:06.242178 
+
+ sunday2sunday,     yum cookie,        <Channel name: aceu>,       2024-11-07 01:58:51.481962 
+
+ sunday2sunday,     kitty,        <Channel name: aceu>,       2024-11-07 02:00:00.572070 
+
+ sunday2sunday,     PopNemo,        <Channel name: aceu>,       2024-11-07 02:00:28.549976 

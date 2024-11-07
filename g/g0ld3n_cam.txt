@@ -1,0 +1,10 @@
+
+ g0ld3n_cam,     skibiti toilet,        <Channel name: clix>,       2024-11-07 02:02:06.235813 
+
+ g0ld3n_cam,     BOT,        <Channel name: clix>,       2024-11-07 02:03:39.960413 
+
+ g0ld3n_cam,     BOTTT,        <Channel name: clix>,       2024-11-07 02:03:48.388482 
+
+ g0ld3n_cam,     wtf,        <Channel name: clix>,       2024-11-07 02:14:13.320102 
+
+ g0ld3n_cam,     ],        <Channel name: clix>,       2024-11-07 02:14:14.567845 

@@ -1,0 +1,14 @@
+
+ banele_12,     White spots,        <Channel name: kaicenat>,       2024-11-07 01:35:12.329032 
+
+ banele_12,     Move,        <Channel name: kaicenat>,       2024-11-07 01:37:52.353059 
+
+ banele_12,     rakai,        <Channel name: kaicenat>,       2024-11-07 01:46:33.192254 
+
+ banele_12,     When is Rakai coming,        <Channel name: kaicenat>,       2024-11-07 01:48:02.687320 
+
+ banele_12,     Rakai,        <Channel name: kaicenat>,       2024-11-07 01:48:16.135855 
+
+ banele_12,     Rakai bro,        <Channel name: kaicenat>,       2024-11-07 01:48:25.233918 
+
+ banele_12,     Get Rakai,        <Channel name: kaicenat>,       2024-11-07 01:49:25.209495 

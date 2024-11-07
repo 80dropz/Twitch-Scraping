@@ -1,0 +1,10 @@
+
+ jade_marie22,     POLLL,        <Channel name: kaicenat>,       2024-11-07 01:45:14.042138 
+
+ jade_marie22,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:45:16.843337 
+
+ jade_marie22,     POLL',        <Channel name: kaicenat>,       2024-11-07 01:46:01.131663 
+
+ jade_marie22,     POLLL,        <Channel name: kaicenat>,       2024-11-07 01:46:05.729001 
+
+ jade_marie22,     NotLikeThis,        <Channel name: kaicenat>,       2024-11-07 01:49:33.676610 

@@ -1,0 +1,38 @@
+
+ off_white_whoop,     clixXSET clixXSET clixXSET clixXSET,        <Channel name: clix>,       2024-11-07 01:41:59.784744 
+
+ off_white_whoop,     CC,        <Channel name: clix>,       2024-11-07 01:45:03.820429 
+
+ off_white_whoop,     GN,        <Channel name: clix>,       2024-11-07 01:45:15.317099 
+
+ off_white_whoop,     spin wheel,        <Channel name: clix>,       2024-11-07 01:49:02.113045 
+
+ off_white_whoop,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:10.848609 
+
+ off_white_whoop,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:06.772253 
+
+ off_white_whoop,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:47.672390 
+
+ off_white_whoop,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:38.756896 
+
+ off_white_whoop,     yeah,        <Channel name: clix>,       2024-11-07 01:59:44.529438 
+
+ off_white_whoop,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:33.149453 
+
+ off_white_whoop,     sibidi,        <Channel name: clix>,       2024-11-07 02:03:49.930488 
+
+ off_white_whoop,     boy,        <Channel name: clix>,       2024-11-07 02:04:27.118355 
+
+ off_white_whoop,     bot,        <Channel name: clix>,       2024-11-07 02:04:56.746476 
+
+ off_white_whoop,     more v bucks,        <Channel name: clix>,       2024-11-07 02:05:27.043273 
+
+ off_white_whoop,     kk,        <Channel name: clix>,       2024-11-07 02:06:28.843316 
+
+ off_white_whoop,     bot,        <Channel name: clix>,       2024-11-07 02:06:48.461163 
+
+ off_white_whoop,     no way bot,        <Channel name: clix>,       2024-11-07 02:07:12.395477 
+
+ off_white_whoop,     W,        <Channel name: oatley>,       2024-11-07 02:14:21.763972 
+
+ off_white_whoop,     KINF REET,        <Channel name: oatley>,       2024-11-07 02:39:24.620415 

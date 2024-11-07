@@ -1,0 +1,4 @@
+
+ bobafruit,     ta,        <Channel name: jasontheween>,       2024-11-07 02:06:09.100505 
+
+ bobafruit,     WW RED,        <Channel name: jasontheween>,       2024-11-07 02:07:02.965671 

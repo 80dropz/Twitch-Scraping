@@ -1,0 +1,16 @@
+
+ dradnought,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:17:51.334112 
+
+ dradnought,     CAPPP 7-0,        <Channel name: kaicenat>,       2024-11-07 02:18:00.417638 
+
+ dradnought,     7-0,        <Channel name: kaicenat>,       2024-11-07 02:18:16.310521 
+
+ dradnought,     CAPP,        <Channel name: kaicenat>,       2024-11-07 02:18:33.147919 
+
+ dradnought,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:24:32.809564 
+
+ dradnought,     ATL KAI,        <Channel name: kaicenat>,       2024-11-07 02:25:06.181371 
+
+ dradnought,     UNMUTE SILKY,        <Channel name: kaicenat>,       2024-11-07 02:35:02.163287 
+
+ dradnought,     EGO OUT,        <Channel name: kaicenat>,       2024-11-07 02:42:38.013448 

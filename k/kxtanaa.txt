@@ -1,0 +1,12 @@
+
+ kxtanaa,     you gotta acount for delay,        <Channel name: kaicenat>,       2024-11-07 01:43:27.765973 
+
+ kxtanaa,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:43:50.634659 
+
+ kxtanaa,     45,        <Channel name: kaicenat>,       2024-11-07 01:43:55.325377 
+
+ kxtanaa,     445,        <Channel name: kaicenat>,       2024-11-07 01:44:00.805529 
+
+ kxtanaa,     4553,        <Channel name: kaicenat>,       2024-11-07 01:45:13.256008 
+
+ kxtanaa,     45,        <Channel name: kaicenat>,       2024-11-07 01:45:14.416095 

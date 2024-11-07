@@ -1,0 +1,28 @@
+
+ sheldo44,     Squid1 Squid2 Squid2 Squid2 Squid3 Squid2 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 01:37:34.634477 
+
+ sheldo44,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:57.105473 
+
+ sheldo44,     6@,        <Channel name: kaicenat>,       2024-11-07 02:05:08.315535 
+
+ sheldo44,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:12.233397 
+
+ sheldo44,     bop,        <Channel name: kaicenat>,       2024-11-07 02:05:50.143903 
+
+ sheldo44,     boo,        <Channel name: kaicenat>,       2024-11-07 02:06:02.567509 
+
+ sheldo44,     bop,        <Channel name: kaicenat>,       2024-11-07 02:06:23.126777 
+
+ sheldo44,     BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:48.209957 
+
+ sheldo44,     BOP BOP,        <Channel name: kaicenat>,       2024-11-07 02:06:51.412578 
+
+ sheldo44,     BOP,        <Channel name: kaicenat>,       2024-11-07 02:07:06.171632 
+
+ sheldo44,     DoritosChip,        <Channel name: kaicenat>,       2024-11-07 02:07:10.749808 
+
+ sheldo44,     BOP,        <Channel name: kaicenat>,       2024-11-07 02:07:14.489713 
+
+ sheldo44,     Squid3 BOP,        <Channel name: kaicenat>,       2024-11-07 02:07:19.820936 
+
+ sheldo44,     BOP,        <Channel name: kaicenat>,       2024-11-07 02:07:26.112460 

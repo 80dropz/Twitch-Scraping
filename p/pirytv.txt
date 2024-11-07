@@ -1,0 +1,12 @@
+
+ pirytv,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:20:26.726606 
+
+ pirytv,     WTF,        <Channel name: kaicenat>,       2024-11-07 01:20:34.546867 
+
+ pirytv,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:04.444839 
+
+ pirytv,     BLINDFOLD,        <Channel name: kaicenat>,       2024-11-07 01:22:53.426925 
+
+ pirytv,     WAZZUP,        <Channel name: kaicenat>,       2024-11-07 01:23:48.720728 
+
+ pirytv,     !discord,        <Channel name: kaicenat>,       2024-11-07 01:24:55.326218 

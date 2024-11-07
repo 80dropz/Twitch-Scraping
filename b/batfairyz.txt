@@ -1,0 +1,34 @@
+
+ batfairyz,     om,        <Channel name: kaicenat>,       2024-11-07 01:32:27.212748 
+
+ batfairyz,     45,        <Channel name: kaicenat>,       2024-11-07 01:44:23.739493 
+
+ batfairyz,     45 !,        <Channel name: kaicenat>,       2024-11-07 01:44:27.816075 
+
+ batfairyz,     45!,        <Channel name: kaicenat>,       2024-11-07 01:44:32.500999 
+
+ batfairyz,     45,        <Channel name: kaicenat>,       2024-11-07 01:44:34.426476 
+
+ batfairyz,     45?,        <Channel name: kaicenat>,       2024-11-07 01:44:36.728432 
+
+ batfairyz,     45!,        <Channel name: kaicenat>,       2024-11-07 01:44:41.256500 
+
+ batfairyz,     45!,        <Channel name: kaicenat>,       2024-11-07 01:45:18.127354 
+
+ batfairyz,     45 sec,        <Channel name: kaicenat>,       2024-11-07 01:45:45.862646 
+
+ batfairyz,     30,        <Channel name: kaicenat>,       2024-11-07 01:46:35.529333 
+
+ batfairyz,     W,        <Channel name: kaicenat>,       2024-11-07 01:49:31.231554 
+
+ batfairyz,     Z,        <Channel name: kaicenat>,       2024-11-07 01:49:44.427409 
+
+ batfairyz,     GG,        <Channel name: kaicenat>,       2024-11-07 01:49:52.525551 
+
+ batfairyz,     GGG,        <Channel name: kaicenat>,       2024-11-07 01:50:03.370012 
+
+ batfairyz,     JUBS,        <Channel name: kaicenat>,       2024-11-07 01:50:57.570884 
+
+ batfairyz,     WWWWWWWWW,        <Channel name: caseoh_>,       2024-11-07 01:57:04.279972 
+
+ batfairyz,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:22.308233 

@@ -1,0 +1,6 @@
+
+ trapstar9000,     TONGA,        <Channel name: kaicenat>,       2024-11-07 02:17:28.094753 
+
+ trapstar9000,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:17:56.264582 
+
+ trapstar9000,     cap,        <Channel name: kaicenat>,       2024-11-07 02:18:31.902156 

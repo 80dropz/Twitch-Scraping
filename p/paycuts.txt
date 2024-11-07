@@ -1,0 +1,4 @@
+
+ paycuts,     faze cypher,        <Channel name: plaqueboymax>,       2024-11-07 02:00:12.740801 
+
+ paycuts,     Cypher,        <Channel name: plaqueboymax>,       2024-11-07 02:00:18.242705 

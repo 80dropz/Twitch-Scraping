@@ -1,0 +1,36 @@
+
+ nlf_ersin,     Gift machine,        <Channel name: clix>,       2024-11-07 01:40:41.843215 
+
+ nlf_ersin,     Noooo,        <Channel name: clix>,       2024-11-07 01:40:50.531070 
+
+ nlf_ersin,     Ready,        <Channel name: clix>,       2024-11-07 01:40:59.463449 
+
+ nlf_ersin,     W stream,        <Channel name: clix>,       2024-11-07 01:42:04.842013 
+
+ nlf_ersin,     Wwww,        <Channel name: clix>,       2024-11-07 01:43:06.515148 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:27.827828 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:27.987685 
+
+ nlf_ersin,     Bot,        <Channel name: clix>,       2024-11-07 01:57:26.080056 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:05.603594 
+
+ nlf_ersin,     Whit a gifted sub,        <Channel name: clix>,       2024-11-07 01:59:45.090080 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:18.899300 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:30.271149 
+
+ nlf_ersin,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:01:56.171124 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:01.054368 
+
+ nlf_ersin,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:02:13.282812 
+
+ nlf_ersin,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:18.631185 
+
+ nlf_ersin,     No,        <Channel name: clix>,       2024-11-07 02:04:57.961202 
+
+ nlf_ersin,     Alrrt,        <Channel name: clix>,       2024-11-07 02:05:29.291826 

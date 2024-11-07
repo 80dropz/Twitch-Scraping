@@ -1,0 +1,10 @@
+
+ sadix,     what's happening,        <Channel name: faxuty>,       2024-11-07 02:10:22.962088 
+
+ sadix,     yea,        <Channel name: faxuty>,       2024-11-07 02:14:55.623718 
+
+ sadix,     it's ungly,        <Channel name: faxuty>,       2024-11-07 02:32:05.688465 
+
+ sadix,     nasty,        <Channel name: faxuty>,       2024-11-07 02:32:12.095259 
+
+ sadix,     wtf,        <Channel name: faxuty>,       2024-11-07 02:35:36.329803 

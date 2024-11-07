@@ -1,0 +1,2 @@
+
+ parsefn,     deal,        <Channel name: kaicenat>,       2024-11-07 01:23:21.066456 

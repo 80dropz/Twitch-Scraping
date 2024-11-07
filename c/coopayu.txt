@@ -1,0 +1,12 @@
+
+ coopayu,     Skibidi,        <Channel name: clix>,       2024-11-07 02:00:59.595842 
+
+ coopayu,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:08.803079 
+
+ coopayu,     Skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:01:24.114981 
+
+ coopayu,     Skibidi,        <Channel name: clix>,       2024-11-07 02:01:32.755599 
+
+ coopayu,     Skibidi,        <Channel name: clix>,       2024-11-07 02:02:49.805718 
+
+ coopayu,     Sadge,        <Channel name: clix>,       2024-11-07 02:46:18.779590 

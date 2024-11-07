@@ -1,0 +1,4 @@
+
+ bulgogiguy4,     this sounds like a song that plays at the venue before the band comes out on stage,        <Channel name: grizzy>,       2024-11-07 02:16:29.168022 
+
+ bulgogiguy4,     stimuli,        <Channel name: grizzy>,       2024-11-07 02:17:16.920169 

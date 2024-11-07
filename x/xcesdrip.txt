@@ -1,0 +1,84 @@
+
+ xcesdrip,     W FARM,        <Channel name: clix>,       2024-11-07 01:40:25.762821 
+
+ xcesdrip,     READY,        <Channel name: clix>,       2024-11-07 01:40:28.011865 
+
+ xcesdrip,     try,        <Channel name: clix>,       2024-11-07 01:41:59.555818 
+
+ xcesdrip,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.339871 
+
+ xcesdrip,     WWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:09.459529 
+
+ xcesdrip,     W FELDY,        <Channel name: clix>,       2024-11-07 01:43:58.659262 
+
+ xcesdrip,     BYE,        <Channel name: clix>,       2024-11-07 01:44:25.835609 
+
+ xcesdrip,     GN,        <Channel name: clix>,       2024-11-07 01:44:36.130643 
+
+ xcesdrip,     clixGift,        <Channel name: clix>,       2024-11-07 01:44:40.217816 
+
+ xcesdrip,     GN,        <Channel name: clix>,       2024-11-07 01:44:50.414813 
+
+ xcesdrip,     yes,        <Channel name: clix>,       2024-11-07 01:47:51.524727 
+
+ xcesdrip,     mhm,        <Channel name: clix>,       2024-11-07 01:47:55.307320 
+
+ xcesdrip,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:34.913588 
+
+ xcesdrip,     Ww,        <Channel name: clix>,       2024-11-07 01:53:44.220281 
+
+ xcesdrip,     EW,        <Channel name: clix>,       2024-11-07 01:53:56.047771 
+
+ xcesdrip,     roll again,        <Channel name: clix>,       2024-11-07 01:57:17.353546 
+
+ xcesdrip,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:13.599788 
+
+ xcesdrip,     bot,        <Channel name: clix>,       2024-11-07 02:00:25.993826 
+
+ xcesdrip,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:51.453921 
+
+ xcesdrip,     bot,        <Channel name: clix>,       2024-11-07 02:03:27.430274 
+
+ xcesdrip,     1,        <Channel name: clix>,       2024-11-07 02:08:11.536467 
+
+ xcesdrip,     huh,        <Channel name: clix>,       2024-11-07 02:14:09.295314 
+
+ xcesdrip,     ?????,        <Channel name: clix>,       2024-11-07 02:14:17.640501 
+
+ xcesdrip,     LMFAOOO,        <Channel name: clix>,       2024-11-07 02:16:12.786629 
+
+ xcesdrip,     yes,        <Channel name: clix>,       2024-11-07 02:17:29.267152 
+
+ xcesdrip,     not really,        <Channel name: clix>,       2024-11-07 02:17:49.320741 
+
+ xcesdrip,     nah let’s go to b,        <Channel name: clix>,       2024-11-07 02:31:07.030272 
+
+ xcesdrip,     yo bed,        <Channel name: clix>,       2024-11-07 02:31:16.392647 
+
+ xcesdrip,     WE@SHOULD,        <Channel name: clix>,       2024-11-07 02:32:01.544359 
+
+ xcesdrip,     WE SHOULD GO TO BED,        <Channel name: clix>,       2024-11-07 02:32:08.360743 
+
+ xcesdrip,     ?????,        <Channel name: clix>,       2024-11-07 02:33:16.577412 
+
+ xcesdrip,     sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk,        <Channel name: clix>,       2024-11-07 02:34:18.742378 
+
+ xcesdrip,     LMFAO,        <Channel name: clix>,       2024-11-07 02:34:51.734815 
+
+ xcesdrip,     wait sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk sidxttMilk,        <Channel name: clix>,       2024-11-07 02:36:26.647872 
+
+ xcesdrip,     omg,        <Channel name: clix>,       2024-11-07 02:36:35.531963 
+
+ xcesdrip,     yo yo yo,        <Channel name: clix>,       2024-11-07 02:37:44.098117 
+
+ xcesdrip,     you need like a 10 hour vid,        <Channel name: clix>,       2024-11-07 02:39:13.340298 
+
+ xcesdrip,     noway,        <Channel name: clix>,       2024-11-07 02:39:37.147662 
+
+ xcesdrip,     try,        <Channel name: clix>,       2024-11-07 02:41:22.023534 
+
+ xcesdrip,     gn,        <Channel name: clix>,       2024-11-07 02:42:03.136051 
+
+ xcesdrip,     jorkin,        <Channel name: clix>,       2024-11-07 02:42:20.575543 
+
+ xcesdrip,     yes,        <Channel name: clix>,       2024-11-07 02:42:47.989290 

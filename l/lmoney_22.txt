@@ -1,0 +1,4 @@
+
+ lmoney_22,     VIC,        <Channel name: kaicenat>,       2024-11-07 02:27:41.869655 
+
+ lmoney_22,     VICTORIA,        <Channel name: kaicenat>,       2024-11-07 02:27:47.505535 

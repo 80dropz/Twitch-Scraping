@@ -1,0 +1,4 @@
+
+ jacobtn,     wait what happened,        <Channel name: nadeshot>,       2024-11-07 02:34:17.178892 
+
+ jacobtn,     T2G,        <Channel name: nadeshot>,       2024-11-07 02:34:30.650024 

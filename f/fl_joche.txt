@@ -1,0 +1,6 @@
+
+ fl_joche,     w,        <Channel name: kaicenat>,       2024-11-07 01:49:44.734476 
+
+ fl_joche,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:49:54.503985 
+
+ fl_joche,     www,        <Channel name: kaicenat>,       2024-11-07 01:49:59.388982 

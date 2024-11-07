@@ -1,0 +1,134 @@
+
+ ihoil,     white,        <Channel name: kaicenat>,       2024-11-07 01:35:12.405769 
+
+ ihoil,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:37:19.391444 
+
+ ihoil,     JUST DO IT,        <Channel name: kaicenat>,       2024-11-07 01:40:54.013601 
+
+ ihoil,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:37.185398 
+
+ ihoil,     10000,        <Channel name: kaicenat>,       2024-11-07 01:42:20.925932 
+
+ ihoil,     I’m broke,        <Channel name: kaicenat>,       2024-11-07 01:43:04.096513 
+
+ ihoil,     45 sec,        <Channel name: kaicenat>,       2024-11-07 01:44:28.137417 
+
+ ihoil,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:46:24.912606 
+
+ ihoil,     30,        <Channel name: kaicenat>,       2024-11-07 01:48:39.497497 
+
+ ihoil,     gg,        <Channel name: kaicenat>,       2024-11-07 01:50:59.392813 
+
+ ihoil,     LMAO,        <Channel name: kaicenat>,       2024-11-07 01:54:13.502233 
+
+ ihoil,     LOLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 01:57:05.963148 
+
+ ihoil,     BUH BUH BUH,        <Channel name: kaicenat>,       2024-11-07 01:59:02.782890 
+
+ ihoil,     kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 01:59:05.201360 
+
+ ihoil,     gift meeeeeee,        <Channel name: kaicenat>,       2024-11-07 02:00:51.046609 
+
+ ihoil,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 02:03:41.380939 
+
+ ihoil,     wwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 02:06:02.309524 
+
+ ihoil,     kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 02:08:11.856259 
+
+ ihoil,     a,        <Channel name: kaicenat>,       2024-11-07 02:09:22.110923 
+
+ ihoil,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:10:26.874892 
+
+ ihoil,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 02:12:36.796247 
+
+ ihoil,     he is,        <Channel name: kaicenat>,       2024-11-07 02:13:26.745771 
+
+ ihoil,     wager,        <Channel name: kaicenat>,       2024-11-07 02:14:13.068711 
+
+ ihoil,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:15:01.551560 
+
+ ihoil,     LEAK,        <Channel name: kaicenat>,       2024-11-07 02:16:43.096707 
+
+ ihoil,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:17:24.523011 
+
+ ihoil,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:18:14.714947 
+
+ ihoil,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:19:54.332293 
+
+ ihoil,     oop,        <Channel name: kaicenat>,       2024-11-07 02:19:55.332691 
+
+ ihoil,     kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 02:21:18.989371 
+
+ ihoil,     MMMMM,        <Channel name: kaicenat>,       2024-11-07 02:22:02.653860 
+
+ ihoil,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:23:27.812280 
+
+ ihoil,     Mhmm,        <Channel name: kaicenat>,       2024-11-07 02:26:57.262861 
+
+ ihoil,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:27:41.436921 
+
+ ihoil,     yurr,        <Channel name: kaicenat>,       2024-11-07 02:28:23.966585 
+
+ ihoil,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:28:24.979704 
+
+ ihoil,     hiiiiiiii,        <Channel name: kaicenat>,       2024-11-07 02:29:06.861936 
+
+ ihoil,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:29:49.991662 
+
+ ihoil,     who is this,        <Channel name: kaicenat>,       2024-11-07 02:32:09.309607 
+
+ ihoil,     Clap Clap Clap,        <Channel name: kaicenat>,       2024-11-07 02:32:46.765318 
+
+ ihoil,     muted,        <Channel name: kaicenat>,       2024-11-07 02:34:57.037544 
+
+ ihoil,     caught,        <Channel name: kaicenat>,       2024-11-07 02:36:44.144813 
+
+ ihoil,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:37:27.170307 
+
+ ihoil,     DIDDY?,        <Channel name: kaicenat>,       2024-11-07 02:38:05.143323 
+
+ ihoil,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:38:52.006417 
+
+ ihoil,     cap,        <Channel name: kaicenat>,       2024-11-07 02:39:29.221242 
+
+ ihoil,     facts,        <Channel name: kaicenat>,       2024-11-07 02:39:30.085723 
+
+ ihoil,     AYOOO,        <Channel name: kaicenat>,       2024-11-07 02:42:09.281467 
+
+ ihoil,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:43:06.218426 
+
+ ihoil,     OOOO,        <Channel name: kaicenat>,       2024-11-07 02:45:11.117158 
+
+ ihoil,     lmaooo,        <Channel name: kaicenat>,       2024-11-07 02:45:46.664373 
+
+ ihoil,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:46:32.609136 
+
+ ihoil,     lmfaoo,        <Channel name: kaicenat>,       2024-11-07 02:46:33.443661 
+
+ ihoil,     w,        <Channel name: kaicenat>,       2024-11-07 02:47:10.003583 
+
+ ihoil,     faxxx,        <Channel name: kaicenat>,       2024-11-07 02:47:11.676643 
+
+ ihoil,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:48:06.966693 
+
+ ihoil,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 02:48:08.124542 
+
+ ihoil,     uh,        <Channel name: kaicenat>,       2024-11-07 02:48:48.518273 
+
+ ihoil,     Yeah,        <Channel name: kaicenat>,       2024-11-07 02:48:49.163932 
+
+ ihoil,     Kodak,        <Channel name: kaicenat>,       2024-11-07 02:49:23.492788 
+
+ ihoil,     cap,        <Channel name: kaicenat>,       2024-11-07 02:50:08.202667 
+
+ ihoil,     L Ads,        <Channel name: kaicenat>,       2024-11-07 02:50:42.771045 
+
+ ihoil,     L ADS,        <Channel name: kaicenat>,       2024-11-07 02:50:43.903793 
+
+ ihoil,     WW,        <Channel name: kaicenat>,       2024-11-07 02:51:24.970598 
+
+ ihoil,     add max,        <Channel name: kaicenat>,       2024-11-07 02:52:00.014778 
+
+ ihoil,     bruh,        <Channel name: kaicenat>,       2024-11-07 02:52:38.881062 
+
+ ihoil,     kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 02:53:18.421147 

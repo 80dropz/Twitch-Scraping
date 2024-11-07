@@ -1,0 +1,2 @@
+
+ res_n0n_verba,     facts,        <Channel name: aceu>,       2024-11-07 01:54:17.658674 

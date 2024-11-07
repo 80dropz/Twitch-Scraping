@@ -1,0 +1,2 @@
+
+ panesito_lr,     NO,        <Channel name: aldo_geo>,       2024-11-07 02:36:36.274837 

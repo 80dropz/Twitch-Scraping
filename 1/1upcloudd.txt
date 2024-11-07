@@ -1,0 +1,4 @@
+
+ 1upcloudd,     POP OR JAZZ,        <Channel name: plaqueboymax>,       2024-11-07 02:00:33.866089 
+
+ 1upcloudd,     JAZZ OR POP,        <Channel name: plaqueboymax>,       2024-11-07 02:00:45.343827 

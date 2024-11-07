@@ -1,0 +1,6 @@
+
+ micro_101,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:01.915674 
+
+ micro_101,     MUTE,        <Channel name: clix>,       2024-11-07 02:35:06.406222 
+
+ micro_101,     of course,        <Channel name: clix>,       2024-11-07 02:40:03.656309 

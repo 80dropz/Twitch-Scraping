@@ -1,0 +1,126 @@
+
+ vdako_,     ome5,        <Channel name: clix>,       2024-11-07 01:39:50.747053 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 01:40:02.342459 
+
+ vdako_,     ome5,        <Channel name: clix>,       2024-11-07 01:40:15.879149 
+
+ vdako_,     ome44,        <Channel name: clix>,       2024-11-07 01:41:52.448539 
+
+ vdako_,     lol,        <Channel name: clix>,       2024-11-07 01:42:16.124053 
+
+ vdako_,     WW,        <Channel name: clix>,       2024-11-07 01:42:49.282344 
+
+ vdako_,     WW WW,        <Channel name: clix>,       2024-11-07 01:42:50.835123 
+
+ vdako_,     WW WW WW,        <Channel name: clix>,       2024-11-07 01:42:52.381401 
+
+ vdako_,     WW WW WW WW WW WWW WW,        <Channel name: clix>,       2024-11-07 01:43:29.325324 
+
+ vdako_,     WW,        <Channel name: clix>,       2024-11-07 01:43:48.311789 
+
+ vdako_,     WW WW,        <Channel name: clix>,       2024-11-07 01:43:50.126496 
+
+ vdako_,     WW WW WW,        <Channel name: clix>,       2024-11-07 01:43:52.315673 
+
+ vdako_,     WW MOON,        <Channel name: clix>,       2024-11-07 01:43:54.687875 
+
+ vdako_,     bye,        <Channel name: clix>,       2024-11-07 01:44:33.129373 
+
+ vdako_,     bye bye,        <Channel name: clix>,       2024-11-07 01:44:49.351079 
+
+ vdako_,     WW,        <Channel name: clix>,       2024-11-07 01:44:52.950212 
+
+ vdako_,     WW WWWW,        <Channel name: clix>,       2024-11-07 01:44:54.923328 
+
+ vdako_,     WW WW WW,        <Channel name: clix>,       2024-11-07 01:44:57.673549 
+
+ vdako_,     WW,        <Channel name: clix>,       2024-11-07 01:45:01.724908 
+
+ vdako_,     WW WW,        <Channel name: clix>,       2024-11-07 01:45:07.266766 
+
+ vdako_,     TAH,        <Channel name: clix>,       2024-11-07 01:46:29.499581 
+
+ vdako_,     lol,        <Channel name: clix>,       2024-11-07 01:50:41.446350 
+
+ vdako_,     ome44,        <Channel name: clix>,       2024-11-07 01:54:40.671075 
+
+ vdako_,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:37.362511 
+
+ vdako_,     gg,        <Channel name: clix>,       2024-11-07 01:56:58.098503 
+
+ vdako_,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:32.615069 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 02:03:49.085559 
+
+ vdako_,     Complaining,        <Channel name: clix>,       2024-11-07 02:11:58.209761 
+
+ vdako_,     SMH,        <Channel name: clix>,       2024-11-07 02:12:26.305151 
+
+ vdako_,     Capping,        <Channel name: clix>,       2024-11-07 02:12:51.467157 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 02:13:51.210058 
+
+ vdako_,     lol,        <Channel name: clix>,       2024-11-07 02:16:51.704988 
+
+ vdako_,     mhm,        <Channel name: clix>,       2024-11-07 02:16:57.421018 
+
+ vdako_,     he dont read chot in tourneys,        <Channel name: clix>,       2024-11-07 02:17:25.355310 
+
+ vdako_,     fuk it,        <Channel name: clix>,       2024-11-07 02:18:15.853423 
+
+ vdako_,     Classic,        <Channel name: clix>,       2024-11-07 02:31:01.692832 
+
+ vdako_,     CatLick,        <Channel name: clix>,       2024-11-07 02:33:01.187880 
+
+ vdako_,     drippy bruh,        <Channel name: clix>,       2024-11-07 02:34:26.369048 
+
+ vdako_,     ome67,        <Channel name: clix>,       2024-11-07 02:34:47.395191 
+
+ vdako_,     i h8 the smacking WTF,        <Channel name: clix>,       2024-11-07 02:35:15.404693 
+
+ vdako_,     lmaO,        <Channel name: clix>,       2024-11-07 02:37:31.762920 
+
+ vdako_,     good shift feldy,        <Channel name: clix>,       2024-11-07 02:38:11.492376 
+
+ vdako_,     mhm,        <Channel name: clix>,       2024-11-07 02:38:13.327511 
+
+ vdako_,     arent they fake,        <Channel name: clix>,       2024-11-07 02:38:23.547143 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 02:38:59.840034 
+
+ vdako_,     lmao,        <Channel name: clix>,       2024-11-07 02:39:13.053071 
+
+ vdako_,     NOWAY,        <Channel name: clix>,       2024-11-07 02:39:27.639134 
+
+ vdako_,     CAUGHT,        <Channel name: clix>,       2024-11-07 02:39:33.927334 
+
+ vdako_,     he payed to clean it so ye,        <Channel name: clix>,       2024-11-07 02:40:01.772066 
+
+ vdako_,     rt,        <Channel name: clix>,       2024-11-07 02:40:56.810255 
+
+ vdako_,     jorkin,        <Channel name: clix>,       2024-11-07 02:41:57.851718 
+
+ vdako_,     vid,        <Channel name: clix>,       2024-11-07 02:42:45.664428 
+
+ vdako_,     goat,        <Channel name: clix>,       2024-11-07 02:43:14.102188 
+
+ vdako_,     UGH,        <Channel name: clix>,       2024-11-07 02:43:21.393534 
+
+ vdako_,     !cc,        <Channel name: clix>,       2024-11-07 02:45:42.941523 
+
+ vdako_,     shrugEg,        <Channel name: clix>,       2024-11-07 02:45:45.732409 
+
+ vdako_,     ICANT,        <Channel name: clix>,       2024-11-07 02:46:58.750724 
+
+ vdako_,     Binoculous,        <Channel name: clix>,       2024-11-07 02:48:15.064806 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 02:48:34.490899 
+
+ vdako_,     mhm,        <Channel name: clix>,       2024-11-07 02:49:07.250517 
+
+ vdako_,     ady,        <Channel name: clix>,       2024-11-07 02:49:33.633236 
+
+ vdako_,     cboystv,        <Channel name: clix>,       2024-11-07 02:50:47.222117 
+
+ vdako_,     play mowiung 1st catAsk,        <Channel name: clix>,       2024-11-07 02:51:23.302954 

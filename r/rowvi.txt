@@ -1,0 +1,450 @@
+
+ rowvi,     fr :L,        <Channel name: kaicenat>,       2024-11-07 01:18:30.895036 
+
+ rowvi,     ye,        <Channel name: kaicenat>,       2024-11-07 01:18:58.164643 
+
+ rowvi,     ye,        <Channel name: kaicenat>,       2024-11-07 01:18:58.802105 
+
+ rowvi,     yes,        <Channel name: kaicenat>,       2024-11-07 01:19:11.190232 
+
+ rowvi,     yes,        <Channel name: kaicenat>,       2024-11-07 01:19:12.059118 
+
+ rowvi,     yes,        <Channel name: kaicenat>,       2024-11-07 01:19:14.540965 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:34.057582 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:39.723382 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:42.864246 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:45.005106 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:48.688431 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:19:50.915187 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:01.193532 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:02.428648 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:12.565078 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:15.058972 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:17.020291 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:17.940076 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:19.910024 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:20.828442 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:24.031373 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:26.198324 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:28.259275 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:31.249205 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:32.438220 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:33.687185 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:35.954546 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:37.266847 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:40.793195 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:42.464313 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:20:44.752087 
+
+ rowvi,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 01:20:56.251214 
+
+ rowvi,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 01:20:56.823369 
+
+ rowvi,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 01:21:03.184532 
+
+ rowvi,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 01:21:07.187091 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:21:52.423608 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:21:55.222653 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:00.101254 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:03.446052 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:08.731768 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:11.754088 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:14.778672 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:22:17.408592 
+
+ rowvi,     respin,        <Channel name: kaicenat>,       2024-11-07 01:22:23.551095 
+
+ rowvi,     respin,        <Channel name: kaicenat>,       2024-11-07 01:22:26.402416 
+
+ rowvi,     respin,        <Channel name: kaicenat>,       2024-11-07 01:22:26.998235 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:23:07.987723 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:23:08.980859 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:23:10.789637 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:23:14.117486 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:24:38.913874 
+
+ rowvi,     !discord,        <Channel name: kaicenat>,       2024-11-07 01:24:43.086518 
+
+ rowvi,     !discord,        <Channel name: kaicenat>,       2024-11-07 01:24:46.042131 
+
+ rowvi,     keep it a band,        <Channel name: kaicenat>,       2024-11-07 01:24:53.874919 
+
+ rowvi,     keep it a band,        <Channel name: kaicenat>,       2024-11-07 01:24:56.086586 
+
+ rowvi,     keep it a band,        <Channel name: kaicenat>,       2024-11-07 01:24:56.722055 
+
+ rowvi,     shits cooked,        <Channel name: kaicenat>,       2024-11-07 01:31:32.458584 
+
+ rowvi,     shits cooked rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:31:34.710813 
+
+ rowvi,     ngl burn that wheel mud,        <Channel name: kaicenat>,       2024-11-07 01:32:00.013454 
+
+ rowvi,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:32:09.602433 
+
+ rowvi,     okay spin it faster,        <Channel name: kaicenat>,       2024-11-07 01:32:13.314259 
+
+ rowvi,     okay spin it faster,        <Channel name: kaicenat>,       2024-11-07 01:32:15.994368 
+
+ rowvi,     om,        <Channel name: kaicenat>,       2024-11-07 01:32:19.952422 
+
+ rowvi,     om,        <Channel name: kaicenat>,       2024-11-07 01:32:20.194261 
+
+ rowvi,     om,        <Channel name: kaicenat>,       2024-11-07 01:32:22.272972 
+
+ rowvi,     om,        <Channel name: kaicenat>,       2024-11-07 01:32:25.091977 
+
+ rowvi,     oh nahh,        <Channel name: kaicenat>,       2024-11-07 01:32:29.314638 
+
+ rowvi,     oh nahh rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:32:32.066711 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:04.296838 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:07.951668 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:11.256908 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:15.028607 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:17.557736 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:21.312068 
+
+ rowvi,     rowviO7,        <Channel name: kaicenat>,       2024-11-07 01:33:25.749894 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:28.549817 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:30.961811 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:33.042007 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:36.122342 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:38.495514 
+
+ rowvi,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:33:40.407977 
+
+ rowvi,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:33:42.210031 
+
+ rowvi,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:33:43.159927 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:49.410719 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:50.936707 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:53.755073 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:55.050714 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:33:59.725108 
+
+ rowvi,     rowviHmm,        <Channel name: kaicenat>,       2024-11-07 01:34:01.484254 
+
+ rowvi,     no way,        <Channel name: kaicenat>,       2024-11-07 01:34:03.418607 
+
+ rowvi,     no way,        <Channel name: kaicenat>,       2024-11-07 01:34:03.973301 
+
+ rowvi,     wideSpeedLaugh5,        <Channel name: kaicenat>,       2024-11-07 01:34:35.485648 
+
+ rowvi,     wideSpeedLaugh5,        <Channel name: kaicenat>,       2024-11-07 01:34:35.705611 
+
+ rowvi,     do the other side boa,        <Channel name: kaicenat>,       2024-11-07 01:34:47.037788 
+
+ rowvi,     do the other side boa,        <Channel name: kaicenat>,       2024-11-07 01:34:50.368768 
+
+ rowvi,     ome62,        <Channel name: kaicenat>,       2024-11-07 01:35:43.317800 
+
+ rowvi,     ome81,        <Channel name: kaicenat>,       2024-11-07 01:35:47.115517 
+
+ rowvi,     ome81,        <Channel name: kaicenat>,       2024-11-07 01:35:48.050045 
+
+ rowvi,     amazing spin goat ThankEgg,        <Channel name: kaicenat>,       2024-11-07 01:36:00.316798 
+
+ rowvi,     amazing spin goat ThankEgg,        <Channel name: kaicenat>,       2024-11-07 01:36:03.243088 
+
+ rowvi,     If it lands on split or steal gotta give mods 10k ome52,        <Channel name: kaicenat>,       2024-11-07 01:36:39.637359 
+
+ rowvi,     If it lands on split or steal gotta give mods 10k ome52,        <Channel name: kaicenat>,       2024-11-07 01:36:43.974920 
+
+ rowvi,     @dballer__, a band,        <Channel name: kaicenat>,       2024-11-07 01:36:48.964693 
+
+ rowvi,     @dballer__, im broke rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:37:02.190140 
+
+ rowvi,     uhm,        <Channel name: kaicenat>,       2024-11-07 01:37:12.150946 
+
+ rowvi,     uhm,        <Channel name: kaicenat>,       2024-11-07 01:37:13.624489 
+
+ rowvi,     @dballer__, would if I was paid,        <Channel name: kaicenat>,       2024-11-07 01:37:23.564418 
+
+ rowvi,     hurry up!,        <Channel name: kaicenat>,       2024-11-07 01:37:39.470885 
+
+ rowvi,     hurry up!,        <Channel name: kaicenat>,       2024-11-07 01:37:41.795803 
+
+ rowvi,     oh nahmuddy,        <Channel name: kaicenat>,       2024-11-07 01:37:50.946899 
+
+ rowvi,     oh nah muddy,        <Channel name: kaicenat>,       2024-11-07 01:37:53.308063 
+
+ rowvi,     oh nah muddy,        <Channel name: kaicenat>,       2024-11-07 01:37:53.595837 
+
+ rowvi,     oh nah muddy,        <Channel name: kaicenat>,       2024-11-07 01:37:54.614263 
+
+ rowvi,     oh nah muddy,        <Channel name: kaicenat>,       2024-11-07 01:37:54.973752 
+
+ rowvi,     oh nah muddy,        <Channel name: kaicenat>,       2024-11-07 01:37:56.022014 
+
+ rowvi,     oh nah muddy rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:37:58.266030 
+
+ rowvi,     oh nah muddy rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:37:58.945745 
+
+ rowvi,     oh nah muddy rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:38:03.498614 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:05.609341 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:06.063468 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:07.371286 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:08.287164 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:10.294104 
+
+ rowvi,     oh nah,        <Channel name: kaicenat>,       2024-11-07 01:38:10.861517 
+
+ rowvi,     oh nah rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:38:14.119881 
+
+ rowvi,     oh nah rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:38:14.429085 
+
+ rowvi,     oh nah rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:38:16.999295 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:39:48.173423 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:39:48.395935 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:39:50.957233 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:39:54.514156 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:39:57.241599 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:40:00.833499 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:40:03.691922 
+
+ rowvi,     Jackass,        <Channel name: kaicenat>,       2024-11-07 01:40:06.360094 
+
+ rowvi,     yess,        <Channel name: kaicenat>,       2024-11-07 01:40:10.781904 
+
+ rowvi,     yess 1 m,        <Channel name: kaicenat>,       2024-11-07 01:40:12.443743 
+
+ rowvi,     yess 1 min,        <Channel name: kaicenat>,       2024-11-07 01:40:15.572153 
+
+ rowvi,     yess 1 min LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:40:19.241078 
+
+ rowvi,     yess 1 min LMFAO,        <Channel name: kaicenat>,       2024-11-07 01:40:22.146800 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:40:30.754155 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:40:31.077287 
+
+ rowvi,     scorpy14LMAO,        <Channel name: kaicenat>,       2024-11-07 01:40:51.291995 
+
+ rowvi,     scorpy14LMAO,        <Channel name: kaicenat>,       2024-11-07 01:40:51.684057 
+
+ rowvi,     ggs mud,        <Channel name: kaicenat>,       2024-11-07 01:41:14.535544 
+
+ rowvi,     ggs mud,        <Channel name: kaicenat>,       2024-11-07 01:41:15.190272 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:24.568544 
+
+ rowvi,     WW 225K,        <Channel name: kaicenat>,       2024-11-07 01:41:27.681291 
+
+ rowvi,     WW 225K rowviOhh,        <Channel name: kaicenat>,       2024-11-07 01:41:29.482407 
+
+ rowvi,     WW 225K rowviOhh,        <Channel name: kaicenat>,       2024-11-07 01:41:29.961477 
+
+ rowvi,     WW 225K rowviOhh,        <Channel name: kaicenat>,       2024-11-07 01:41:33.272609 
+
+ rowvi,     WW 225K rowviOhh,        <Channel name: kaicenat>,       2024-11-07 01:41:33.684357 
+
+ rowvi,     ww,        <Channel name: kaicenat>,       2024-11-07 01:41:57.427403 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:58.324395 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:59.960264 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:42:00.396476 
+
+ rowvi,     do it solo,        <Channel name: kaicenat>,       2024-11-07 01:42:47.699942 
+
+ rowvi,     do it solo,        <Channel name: kaicenat>,       2024-11-07 01:42:47.714993 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:56.863464 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:57.108189 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:57.957213 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:58.112201 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:58.775504 
+
+ rowvi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 01:42:59.243620 
+
+ rowvi,     nah he got that,        <Channel name: kaicenat>,       2024-11-07 01:43:06.459972 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:00.363340 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:01.832254 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:02.074898 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:16.371748 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:18.234904 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:24.599521 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:25.285736 
+
+ rowvi,     ome5,        <Channel name: kaicenat>,       2024-11-07 01:46:26.229964 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:51.202129 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:51.464089 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:54.767386 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:55.042505 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 01:49:55.248913 
+
+ rowvi,     ur cooked ngl,        <Channel name: kaicenat>,       2024-11-07 01:50:05.685965 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:09.757541 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:09.942927 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:12.381082 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:13.046260 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:13.436531 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:15.256299 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:15.378239 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:17.829654 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:18.341895 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:18.604126 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:26.446241 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:26.818523 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:28.654013 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:34.276774 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:35.529909 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:40.807855 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:41.141019 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:47.743442 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:48.085155 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:52.286018 
+
+ rowvi,     ur cooked scorpy14Sob,        <Channel name: kaicenat>,       2024-11-07 01:50:56.757443 
+
+ rowvi,     get to it,        <Channel name: kaicenat>,       2024-11-07 01:53:21.607797 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:53:51.844765 
+
+ rowvi,     mhm,        <Channel name: kaicenat>,       2024-11-07 01:53:54.013485 
+
+ rowvi,     scorpy14Pffttt,        <Channel name: kaicenat>,       2024-11-07 01:54:32.294368 
+
+ rowvi,     scorpy14Pffttt,        <Channel name: kaicenat>,       2024-11-07 01:54:34.225103 
+
+ rowvi,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 01:54:50.533646 
+
+ rowvi,     rowviSob,        <Channel name: kaicenat>,       2024-11-07 01:59:14.593042 
+
+ rowvi,     21,        <Channel name: kaicenat>,       2024-11-07 01:59:16.021199 
+
+ rowvi,     22,        <Channel name: kaicenat>,       2024-11-07 01:59:19.541976 
+
+ rowvi,     23,        <Channel name: kaicenat>,       2024-11-07 01:59:23.066480 
+
+ rowvi,     heFuckin,        <Channel name: kaicenat>,       2024-11-07 01:59:31.073148 
+
+ rowvi,     heFuckin,        <Channel name: kaicenat>,       2024-11-07 01:59:32.489909 
+
+ rowvi,     heFuckin,        <Channel name: kaicenat>,       2024-11-07 01:59:36.925900 
+
+ rowvi,     82,        <Channel name: kaicenat>,       2024-11-07 01:59:39.692170 
+
+ rowvi,     100,        <Channel name: kaicenat>,       2024-11-07 01:59:43.204584 
+
+ rowvi,     121,        <Channel name: kaicenat>,       2024-11-07 01:59:45.446418 
+
+ rowvi,     145,        <Channel name: kaicenat>,       2024-11-07 01:59:52.996985 
+
+ rowvi,     156 OOOOO,        <Channel name: kaicenat>,       2024-11-07 02:00:00.455552 
+
+ rowvi,     156 OOOOO,        <Channel name: kaicenat>,       2024-11-07 02:00:03.736628 
+
+ rowvi,     54,        <Channel name: kaicenat>,       2024-11-07 02:00:47.227382 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:40.428462 
+
+ rowvi,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:40.837459 
+
+ rowvi,     rowviClap,        <Channel name: kaicenat>,       2024-11-07 02:09:37.000967 
+
+ rowvi,     rowviClap,        <Channel name: kaicenat>,       2024-11-07 02:09:37.531960 
+
+ rowvi,     rowviClap,        <Channel name: kaicenat>,       2024-11-07 02:09:38.219777 

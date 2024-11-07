@@ -1,0 +1,4 @@
+
+ squidwardscannedbread,     W DOLORES,        <Channel name: caseoh_>,       2024-11-07 01:51:47.170787 
+
+ squidwardscannedbread,     W STREAM, BYE,        <Channel name: caseoh_>,       2024-11-07 01:57:05.244277 

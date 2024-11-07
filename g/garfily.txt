@@ -1,0 +1,14 @@
+
+ garfily,     YES,        <Channel name: caseoh_>,       2024-11-07 01:39:58.288898 
+
+ garfily,     YESS,        <Channel name: caseoh_>,       2024-11-07 01:40:01.722048 
+
+ garfily,     YOU SKIPPED IT,        <Channel name: caseoh_>,       2024-11-07 01:40:05.565224 
+
+ garfily,     I CLIPPED IT,        <Channel name: caseoh_>,       2024-11-07 01:40:16.737921 
+
+ garfily,     L SKIPPED,        <Channel name: caseoh_>,       2024-11-07 01:40:28.699147 
+
+ garfily,     YOU WERE TALKING OVER THE SOUND QUE,        <Channel name: caseoh_>,       2024-11-07 01:41:26.962146 
+
+ garfily,     YOU SKIPPED PANCAKE YOU WERE TALKING OVER HIM AND YOU DIDNT HEAR IT,        <Channel name: caseoh_>,       2024-11-07 01:41:52.664235 

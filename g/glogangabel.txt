@@ -1,0 +1,30 @@
+
+ glogangabel,     SHOEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:07.873238 
+
+ glogangabel,     SHPEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:23.174222 
+
+ glogangabel,     SHOEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:30.709066 
+
+ glogangabel,     SHOEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:45.318129 
+
+ glogangabel,     SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:58.892666 
+
+ glogangabel,     SHOEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:00:05.465114 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:00:38.006474 
+
+ glogangabel,     SHOEGAZE CALL I SHOWFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:00:52.911890 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:01:11.564347 
+
+ glogangabel,     SHOEGAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:01:26.162602 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:01:43.452167 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:03:00.666360 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:03:06.479108 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:03:11.443523 
+
+ glogangabel,     SHOEGAZE CALL IT SHOEFAZE,        <Channel name: plaqueboymax>,       2024-11-07 02:07:00.725708 

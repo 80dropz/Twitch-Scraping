@@ -1,0 +1,12 @@
+
+ arminvanbuur,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 01:31:36.804894 
+
+ arminvanbuur,     SOMETHING IS UP,        <Channel name: kaicenat>,       2024-11-07 01:34:36.903063 
+
+ arminvanbuur,     WHITE SPOTS,        <Channel name: kaicenat>,       2024-11-07 01:35:02.240041 
+
+ arminvanbuur,     THAT COUNTS,        <Channel name: kaicenat>,       2024-11-07 01:39:47.391393 
+
+ arminvanbuur,     1 MINUTE + OR WE WALK,        <Channel name: kaicenat>,       2024-11-07 01:40:43.666515 
+
+ arminvanbuur,     1 MIN OR WE WALK,        <Channel name: kaicenat>,       2024-11-07 01:42:05.798016 

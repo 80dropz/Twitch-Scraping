@@ -1,0 +1,6 @@
+
+ lcedrgn,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:39:44.125417 
+
+ lcedrgn,     10 sec,        <Channel name: kaicenat>,       2024-11-07 01:43:22.252781 
+
+ lcedrgn,     yes,        <Channel name: kaicenat>,       2024-11-07 01:43:54.914681 

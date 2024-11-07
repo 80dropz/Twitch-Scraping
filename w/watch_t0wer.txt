@@ -1,0 +1,48 @@
+
+ watch_t0wer,     yes,        <Channel name: clix>,       2024-11-07 02:31:04.292738 
+
+ watch_t0wer,     now we yalking,        <Channel name: clix>,       2024-11-07 02:31:10.673626 
+
+ watch_t0wer,     Kreygasm Kreygasm,        <Channel name: clix>,       2024-11-07 02:33:24.418700 
+
+ watch_t0wer,     yes,        <Channel name: clix>,       2024-11-07 02:38:14.583368 
+
+ watch_t0wer,     yesss,        <Channel name: clix>,       2024-11-07 02:38:18.102039 
+
+ watch_t0wer,     yes,        <Channel name: clix>,       2024-11-07 02:38:20.473062 
+
+ watch_t0wer,     yesss,        <Channel name: clix>,       2024-11-07 02:38:27.190130 
+
+ watch_t0wer,     plz,        <Channel name: clix>,       2024-11-07 02:38:31.277268 
+
+ watch_t0wer,     yes,        <Channel name: clix>,       2024-11-07 02:38:38.842366 
+
+ watch_t0wer,     w,        <Channel name: clix>,       2024-11-07 02:38:41.578262 
+
+ watch_t0wer,     yesss,        <Channel name: clix>,       2024-11-07 02:38:49.614081 
+
+ watch_t0wer,     no,        <Channel name: clix>,       2024-11-07 02:39:05.003335 
+
+ watch_t0wer,     jungle,        <Channel name: clix>,       2024-11-07 02:39:09.242556 
+
+ watch_t0wer,     junglee,        <Channel name: clix>,       2024-11-07 02:39:13.168907 
+
+ watch_t0wer,     plz go back to the other video,        <Channel name: clix>,       2024-11-07 02:40:09.747308 
+
+ watch_t0wer,     go back to the other video,        <Channel name: clix>,       2024-11-07 02:40:28.638247 
+
+ watch_t0wer,     ResidentSleeper ResidentSleeper ResidentSleeper ResidentSleeper,        <Channel name: clix>,       2024-11-07 02:40:41.061751 
+
+ watch_t0wer,     go back to other video,        <Channel name: clix>,       2024-11-07 02:40:59.921160 
+
+ watch_t0wer,     other video,        <Channel name: clix>,       2024-11-07 02:41:23.867095 
+
+ watch_t0wer,     house building,        <Channel name: clix>,       2024-11-07 02:42:35.290517 
+
+ watch_t0wer,     do the jungle video,        <Channel name: clix>,       2024-11-07 02:42:57.922357 
+
+ watch_t0wer,     house building,        <Channel name: clix>,       2024-11-07 02:43:14.329371 
+
+ watch_t0wer,     do not put hawk tuah dude,        <Channel name: clix>,       2024-11-07 02:52:23.360932 
+
+ watch_t0wer,     don’t do it,        <Channel name: clix>,       2024-11-07 02:52:29.906033 

@@ -1,0 +1,12 @@
+
+ fw_makayla,     yes,        <Channel name: kaicenat>,       2024-11-07 01:18:18.414573 
+
+ fw_makayla,     yes,        <Channel name: kaicenat>,       2024-11-07 01:18:58.355807 
+
+ fw_makayla,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:40:04.812128 
+
+ fw_makayla,     no,        <Channel name: kaicenat>,       2024-11-07 01:43:55.290564 
+
+ fw_makayla,     1,        <Channel name: kaicenat>,       2024-11-07 01:43:58.063813 
+
+ fw_makayla,     cnt hear him,        <Channel name: kaicenat>,       2024-11-07 02:13:52.582843 

@@ -1,0 +1,10 @@
+
+ ambdani,     1 min,        <Channel name: kaicenat>,       2024-11-07 01:40:23.777960 
+
+ ambdani,     1min,        <Channel name: kaicenat>,       2024-11-07 01:40:30.250410 
+
+ ambdani,     1 MINUTEEEE,        <Channel name: kaicenat>,       2024-11-07 01:40:46.810175 
+
+ ambdani,     1 min,        <Channel name: kaicenat>,       2024-11-07 01:41:11.364075 
+
+ ambdani,     45,        <Channel name: kaicenat>,       2024-11-07 01:41:14.150170 

@@ -1,0 +1,6 @@
+
+ tigsavaage,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:54.000314 
+
+ tigsavaage,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:43.500947 
+
+ tigsavaage,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:52.764215 

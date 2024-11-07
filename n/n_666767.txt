@@ -1,0 +1,20 @@
+
+ n_666767,     Jajaja,        <Channel name: aldo_geo>,       2024-11-07 02:01:00.133444 
+
+ n_666767,     Vamoooos,        <Channel name: aldo_geo>,       2024-11-07 02:08:52.576495 
+
+ n_666767,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:09:54.256455 
+
+ n_666767,     Alv,        <Channel name: aldo_geo>,       2024-11-07 02:13:27.675369 
+
+ n_666767,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:16:35.780511 
+
+ n_666767,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:17:41.596108 
+
+ n_666767,     Alv,        <Channel name: aldo_geo>,       2024-11-07 02:31:56.281829 
+
+ n_666767,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:47:42.510778 
+
+ n_666767,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:50:18.204164 
+
+ n_666767,     Jajaja,        <Channel name: aldo_geo>,       2024-11-07 02:53:25.673667 

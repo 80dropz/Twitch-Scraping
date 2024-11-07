@@ -1,0 +1,16 @@
+
+ xen0iz,     READY,        <Channel name: clix>,       2024-11-07 01:40:30.817555 
+
+ xen0iz,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.407015 
+
+ xen0iz,     OMG,        <Channel name: clix>,       2024-11-07 01:42:53.652180 
+
+ xen0iz,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:56.906062 
+
+ xen0iz,     WWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:20.324627 
+
+ xen0iz,     WWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:22.513054 
+
+ xen0iz,     W FELDY,        <Channel name: clix>,       2024-11-07 01:43:58.867215 
+
+ xen0iz,     mero's about to air out,        <Channel name: faxuty>,       2024-11-07 02:10:34.545541 

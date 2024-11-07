@@ -1,0 +1,6 @@
+
+ miller1600,     cap,        <Channel name: kaicenat>,       2024-11-07 02:17:54.912323 
+
+ miller1600,     ray wasent trying,        <Channel name: kaicenat>,       2024-11-07 02:18:05.713808 
+
+ miller1600,     Ray had slides on,        <Channel name: kaicenat>,       2024-11-07 02:18:32.173893 

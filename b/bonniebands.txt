@@ -1,0 +1,12 @@
+
+ bonniebands,     90 sec,        <Channel name: kaicenat>,       2024-11-07 01:45:01.364686 
+
+ bonniebands,     90s,        <Channel name: kaicenat>,       2024-11-07 01:45:50.550668 
+
+ bonniebands,     90 seconds,        <Channel name: kaicenat>,       2024-11-07 01:45:53.069154 
+
+ bonniebands,     90s,        <Channel name: kaicenat>,       2024-11-07 01:46:04.215327 
+
+ bonniebands,     45-90,        <Channel name: kaicenat>,       2024-11-07 01:46:23.909510 
+
+ bonniebands,     just round it,        <Channel name: kaicenat>,       2024-11-07 01:54:28.892378 

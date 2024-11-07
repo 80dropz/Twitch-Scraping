@@ -1,0 +1,4 @@
+
+ jiggypm,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:31:33.717834 
+
+ jiggypm,     RIGGEDD,        <Channel name: kaicenat>,       2024-11-07 01:31:42.926789 

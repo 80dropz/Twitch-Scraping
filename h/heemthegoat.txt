@@ -1,0 +1,40 @@
+
+ heemthegoat,     30 SEC,        <Channel name: kaicenat>,       2024-11-07 01:40:33.403877 
+
+ heemthegoat,     30,        <Channel name: kaicenat>,       2024-11-07 01:43:31.344799 
+
+ heemthegoat,     30SEC,        <Channel name: kaicenat>,       2024-11-07 01:43:36.920856 
+
+ heemthegoat,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:44:31.844461 
+
+ heemthegoat,     DO A POLL,        <Channel name: kaicenat>,       2024-11-07 01:44:46.148991 
+
+ heemthegoat,     30 SECS,        <Channel name: kaicenat>,       2024-11-07 01:44:58.021516 
+
+ heemthegoat,     30SEC,        <Channel name: kaicenat>,       2024-11-07 01:45:03.971336 
+
+ heemthegoat,     30SECS,        <Channel name: kaicenat>,       2024-11-07 01:45:07.374003 
+
+ heemthegoat,     30SECSS,        <Channel name: kaicenat>,       2024-11-07 01:45:18.488682 
+
+ heemthegoat,     ROOCKYY,        <Channel name: kaicenat>,       2024-11-07 01:57:14.186743 
+
+ heemthegoat,     33V,        <Channel name: kaicenat>,       2024-11-07 02:00:50.856820 
+
+ heemthegoat,     33VV,        <Channel name: kaicenat>,       2024-11-07 02:00:56.520505 
+
+ heemthegoat,     33V,        <Channel name: kaicenat>,       2024-11-07 02:01:02.219220 
+
+ heemthegoat,     33.,        <Channel name: kaicenat>,       2024-11-07 02:01:07.237445 
+
+ heemthegoat,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:13.997423 
+
+ heemthegoat,     50.,        <Channel name: kaicenat>,       2024-11-07 02:02:19.380331 
+
+ heemthegoat,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:29.276420 
+
+ heemthegoat,     69....,        <Channel name: kaicenat>,       2024-11-07 02:05:09.663470 
+
+ heemthegoat,     69......,        <Channel name: kaicenat>,       2024-11-07 02:05:16.615262 
+
+ heemthegoat,     69....,        <Channel name: kaicenat>,       2024-11-07 02:05:32.894536 

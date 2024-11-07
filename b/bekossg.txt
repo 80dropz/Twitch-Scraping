@@ -1,0 +1,10 @@
+
+ bekossg,     Yes,        <Channel name: kaicenat>,       2024-11-07 01:23:19.824349 
+
+ bekossg,     Www,        <Channel name: kaicenat>,       2024-11-07 01:41:39.437604 
+
+ bekossg,     Mhmm,        <Channel name: kaicenat>,       2024-11-07 02:21:50.790613 
+
+ bekossg,     Cap,        <Channel name: kaicenat>,       2024-11-07 02:40:23.613641 
+
+ bekossg,     Kanye,        <Channel name: kaicenat>,       2024-11-07 02:49:43.704948 

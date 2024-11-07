@@ -1,0 +1,8 @@
+
+ caseohs_booty2,     cap,        <Channel name: caseoh_>,       2024-11-07 01:45:53.455699 
+
+ caseohs_booty2,     facts,        <Channel name: caseoh_>,       2024-11-07 01:46:08.591203 
+
+ caseohs_booty2,     gn,        <Channel name: caseoh_>,       2024-11-07 01:57:40.504734 
+
+ caseohs_booty2,     se ya,        <Channel name: caseoh_>,       2024-11-07 01:58:16.144931 

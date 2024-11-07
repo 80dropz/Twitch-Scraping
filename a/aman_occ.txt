@@ -1,0 +1,10 @@
+
+ aman_occ,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 01:31:40.121514 
+
+ aman_occ,     Waiting,        <Channel name: kaicenat>,       2024-11-07 01:36:32.361410 
+
+ aman_occ,     Waiting . . .,        <Channel name: kaicenat>,       2024-11-07 01:36:52.015899 
+
+ aman_occ,     ome0 OH NAAAHHH,        <Channel name: kaicenat>,       2024-11-07 01:38:16.186985 
+
+ aman_occ,     HUH,        <Channel name: kaicenat>,       2024-11-07 01:56:17.373002 

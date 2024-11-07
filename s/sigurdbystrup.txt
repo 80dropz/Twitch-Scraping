@@ -1,0 +1,6 @@
+
+ sigurdbystrup,     !watchtime,        <Channel name: oatley>,       2024-11-07 02:42:08.824437 
+
+ sigurdbystrup,     !alphyz,        <Channel name: oatley>,       2024-11-07 02:48:53.232709 
+
+ sigurdbystrup,     !alexdropspot,        <Channel name: oatley>,       2024-11-07 02:49:02.942726 

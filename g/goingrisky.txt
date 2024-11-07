@@ -1,0 +1,6 @@
+
+ goingrisky,     Hall effects are that good when they are done right but they are tough to calibrate. Its like a mini magnetic field.  Normal thumbsticks use a potentiometer and theres a piece in it that rubs and wears down due to friction which is why you eventually get stick drift. So hall effects last longer and imo are better if they are done right but the centering can be off on them. If youre interested in one with hall effects id go with flydigi or gulikit, outside of them i wouldnt really trust it.,        <Channel name: felo>,       2024-11-07 02:50:31.113381 
+
+ goingrisky,     that took forever to type lol, i know we are past it now,        <Channel name: felo>,       2024-11-07 02:52:12.438920 
+
+ goingrisky,     feloDap feloDap feloDap,        <Channel name: felo>,       2024-11-07 02:53:30.007868 

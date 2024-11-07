@@ -1,0 +1,2 @@
+
+ rosemcf,     BOppp,        <Channel name: kaicenat>,       2024-11-07 02:06:15.365507 

@@ -1,0 +1,38 @@
+
+ imcdn,     WW,        <Channel name: clix>,       2024-11-07 01:40:22.259856 
+
+ imcdn,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.197837 
+
+ imcdn,     WW WW WW,        <Channel name: clix>,       2024-11-07 01:43:09.380103 
+
+ imcdn,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:19.679693 
+
+ imcdn,     WEDIDIT WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:32.566078 
+
+ imcdn,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:41.983800 
+
+ imcdn,     yea,        <Channel name: clix>,       2024-11-07 01:56:59.459690 
+
+ imcdn,     reroll,        <Channel name: clix>,       2024-11-07 01:57:09.990636 
+
+ imcdn,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:14.064509 
+
+ imcdn,     hes not in here,        <Channel name: clix>,       2024-11-07 02:00:04.623384 
+
+ imcdn,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:40.597070 
+
+ imcdn,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:48.388906 
+
+ imcdn,     skibidi,        <Channel name: clix>,       2024-11-07 02:04:57.191248 
+
+ imcdn,     ......,        <Channel name: clix>,       2024-11-07 02:05:54.645962 
+
+ imcdn,     YIPPIE,        <Channel name: clix>,       2024-11-07 02:07:30.517373 
+
+ imcdn,     tf..,        <Channel name: clix>,       2024-11-07 02:14:03.984121 
+
+ imcdn,     eww,        <Channel name: clix>,       2024-11-07 02:14:09.211032 
+
+ imcdn,     30 btw..,        <Channel name: clix>,       2024-11-07 02:14:55.370377 
+
+ imcdn,     yes,        <Channel name: clix>,       2024-11-07 02:16:56.387534 

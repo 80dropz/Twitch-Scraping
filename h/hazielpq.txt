@@ -1,0 +1,32 @@
+
+ hazielpq,     xd,        <Channel name: aldo_geo>,       2024-11-07 02:00:11.648386 
+
+ hazielpq,     ALVVVVVV,        <Channel name: aldo_geo>,       2024-11-07 02:09:01.930895 
+
+ hazielpq,     ALV,        <Channel name: aldo_geo>,       2024-11-07 02:14:28.497129 
+
+ hazielpq,     nmmswey,        <Channel name: aldo_geo>,       2024-11-07 02:15:38.012215 
+
+ hazielpq,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:17:36.492857 
+
+ hazielpq,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:31:12.043000 
+
+ hazielpq,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:44:55.889412 
+
+ hazielpq,     XD,        <Channel name: aldo_geo>,       2024-11-07 02:45:13.489381 
+
+ hazielpq,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:46:09.105606 
+
+ hazielpq,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:46:46.065119 
+
+ hazielpq,     Alv o8,        <Channel name: aldo_geo>,       2024-11-07 02:47:08.128888 
+
+ hazielpq,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:47:31.958934 
+
+ hazielpq,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:48:27.565596 
+
+ hazielpq,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:49:18.580452 
+
+ hazielpq,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:49:56.017102 
+
+ hazielpq,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:50:16.199094 

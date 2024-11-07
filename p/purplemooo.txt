@@ -1,0 +1,8 @@
+
+ purplemooo,     RNB,        <Channel name: jasontheween>,       2024-11-07 01:59:35.452951 
+
+ purplemooo,     WOW,        <Channel name: jasontheween>,       2024-11-07 02:00:23.040473 
+
+ purplemooo,     W2AG,        <Channel name: jasontheween>,       2024-11-07 02:04:43.264054 
+
+ purplemooo,     RED,        <Channel name: jasontheween>,       2024-11-07 02:07:01.072011 

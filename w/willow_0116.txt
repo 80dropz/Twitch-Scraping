@@ -1,0 +1,40 @@
+
+ willow_0116,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:17.770948 
+
+ willow_0116,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:37.981176 
+
+ willow_0116,     skibidii,        <Channel name: clix>,       2024-11-07 01:56:00.624870 
+
+ willow_0116,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:08.041920 
+
+ willow_0116,     skibidii,        <Channel name: clix>,       2024-11-07 02:01:31.178390 
+
+ willow_0116,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:44.815845 
+
+ willow_0116,     skibidii,        <Channel name: clix>,       2024-11-07 02:02:01.161552 
+
+ willow_0116,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:08.575568 
+
+ willow_0116,     111111111111111111111111111111111,        <Channel name: clix>,       2024-11-07 02:08:18.055763 
+
+ willow_0116,     11111111111111,        <Channel name: clix>,       2024-11-07 02:08:24.924614 
+
+ willow_0116,     1111111111,        <Channel name: clix>,       2024-11-07 02:08:28.141430 
+
+ willow_0116,     11,        <Channel name: clix>,       2024-11-07 02:08:31.038805 
+
+ willow_0116,     111,        <Channel name: clix>,       2024-11-07 02:08:32.386166 
+
+ willow_0116,     1\1\111111,        <Channel name: clix>,       2024-11-07 02:08:34.825806 
+
+ willow_0116,     11111111,        <Channel name: clix>,       2024-11-07 02:08:36.143615 
+
+ willow_0116,     1111111111,        <Channel name: clix>,       2024-11-07 02:08:39.013742 
+
+ willow_0116,     11111111,        <Channel name: clix>,       2024-11-07 02:08:40.942819 
+
+ willow_0116,     1111111,        <Channel name: clix>,       2024-11-07 02:08:41.738771 
+
+ willow_0116,     111111,        <Channel name: clix>,       2024-11-07 02:08:46.178699 
+
+ willow_0116,     111,        <Channel name: clix>,       2024-11-07 02:08:49.711052 

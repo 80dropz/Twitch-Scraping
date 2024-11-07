@@ -1,0 +1,8 @@
+
+ m0lam0,     1k,        <Channel name: kaicenat>,       2024-11-07 01:24:53.069128 
+
+ m0lam0,     1000,        <Channel name: kaicenat>,       2024-11-07 01:25:00.756249 
+
+ m0lam0,     W,        <Channel name: kaicenat>,       2024-11-07 02:14:48.268972 
+
+ m0lam0,     pftt,        <Channel name: kaicenat>,       2024-11-07 02:20:12.508233 

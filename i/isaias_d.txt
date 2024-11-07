@@ -1,0 +1,40 @@
+
+ isaias_d,     OFC,        <Channel name: kaicenat>,       2024-11-07 01:20:52.506192 
+
+ isaias_d,     Reacting,        <Channel name: kaicenat>,       2024-11-07 01:33:03.186835 
+
+ isaias_d,     Reacting,        <Channel name: kaicenat>,       2024-11-07 01:34:03.355073 
+
+ isaias_d,     NO SHOT,        <Channel name: kaicenat>,       2024-11-07 01:38:03.861295 
+
+ isaias_d,     NO SHOT,        <Channel name: kaicenat>,       2024-11-07 01:38:13.503591 
+
+ isaias_d,     YES,        <Channel name: kaicenat>,       2024-11-07 01:40:17.770191 
+
+ isaias_d,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:35.785162 
+
+ isaias_d,     YOU CAN DO 45 IF YOU TWEET IT OUT,        <Channel name: kaicenat>,       2024-11-07 01:46:32.674389 
+
+ isaias_d,     YOU CAN DO 45 IF YOU TWEET IT OUT,        <Channel name: kaicenat>,       2024-11-07 01:46:37.204510 
+
+ isaias_d,     YOU CAN DO 45 IF YOU TWEET IT OUT,        <Channel name: kaicenat>,       2024-11-07 01:46:40.143704 
+
+ isaias_d,     WW,        <Channel name: kaicenat>,       2024-11-07 01:50:02.797458 
+
+ isaias_d,     WW,        <Channel name: kaicenat>,       2024-11-07 01:50:25.062220 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 01:59:05.602657 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 01:59:10.991070 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 01:59:30.355806 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 02:00:46.388528 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 02:01:35.002253 
+
+ isaias_d,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 02:02:15.931791 
+
+ isaias_d,     68,        <Channel name: kaicenat>,       2024-11-07 02:04:51.895534 
+
+ isaias_d,     68,        <Channel name: kaicenat>,       2024-11-07 02:05:03.486237 

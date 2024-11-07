@@ -1,0 +1,6 @@
+
+ venom1580,     no,        <Channel name: kaicenat>,       2024-11-07 01:54:48.894473 
+
+ venom1580,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:11.659349 
+
+ venom1580,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:11.952897 

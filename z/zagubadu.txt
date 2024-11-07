@@ -1,0 +1,8 @@
+
+ zagubadu,     KEKW,        <Channel name: summit1g>,       2024-11-07 02:11:09.304996 
+
+ zagubadu,     ABOBA,        <Channel name: summit1g>,       2024-11-07 02:11:56.440334 
+
+ zagubadu,     ICANT,        <Channel name: summit1g>,       2024-11-07 02:16:49.114282 
+
+ zagubadu,     Chatting,        <Channel name: summit1g>,       2024-11-07 02:17:13.770149 

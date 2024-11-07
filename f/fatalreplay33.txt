@@ -1,0 +1,4 @@
+
+ fatalreplay33,     2s,        <Channel name: kaicenat>,       2024-11-07 02:25:58.247177 
+
+ fatalreplay33,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:27:52.022899 

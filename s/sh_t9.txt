@@ -1,0 +1,4 @@
+
+ sh_t9,     20 second,        <Channel name: kaicenat>,       2024-11-07 01:43:37.216060 
+
+ sh_t9,     Poll,        <Channel name: kaicenat>,       2024-11-07 01:44:41.504240 

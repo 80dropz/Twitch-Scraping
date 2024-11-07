@@ -1,0 +1,34 @@
+
+ sadbanana3,     noo,        <Channel name: clix>,       2024-11-07 01:42:48.095788 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:27.223534 
+
+ sadbanana3,     skibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:52:46.727272 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:58.673385 
+
+ sadbanana3,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:53:06.044032 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:13.273078 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:08.749037 
+
+ sadbanana3,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:57:30.850555 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:36.621629 
+
+ sadbanana3,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:57:51.480601 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:04.093305 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:19.438791 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:43.605462 
+
+ sadbanana3,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:00:46.565484 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:50.280980 
+
+ sadbanana3,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 02:01:05.365302 
+
+ sadbanana3,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:45.167137 

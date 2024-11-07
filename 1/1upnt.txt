@@ -1,0 +1,228 @@
+
+ 1upnt,     plaqueboyBoyslowdown plaqueboyBoyslowdown plaqueboyBoyslowdown,        <Channel name: silky>,       2024-11-07 01:41:01.692091 
+
+ 1upnt,     WW MUTE,        <Channel name: silky>,       2024-11-07 01:41:09.988760 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 01:44:20.478354 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 01:46:01.200498 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 02:08:09.545822 
+
+ 1upnt,     KRKRKR KRKRKR,        <Channel name: silky>,       2024-11-07 02:08:16.404691 
+
+ 1upnt,     ome44,        <Channel name: silky>,       2024-11-07 02:08:24.825601 
+
+ 1upnt,     LMAOOOO,        <Channel name: silky>,       2024-11-07 02:08:40.074414 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:08:50.543483 
+
+ 1upnt,     RIZZ HER,        <Channel name: silky>,       2024-11-07 02:09:03.763066 
+
+ 1upnt,     o nah,        <Channel name: silky>,       2024-11-07 02:09:15.382694 
+
+ 1upnt,     o nahh,        <Channel name: silky>,       2024-11-07 02:09:18.781832 
+
+ 1upnt,     WHAT,        <Channel name: silky>,       2024-11-07 02:10:05.074526 
+
+ 1upnt,     WTF,        <Channel name: silky>,       2024-11-07 02:10:07.825710 
+
+ 1upnt,     WOW,        <Channel name: silky>,       2024-11-07 02:10:10.234604 
+
+ 1upnt,     cmonBruh cmonBruh cmonBruh,        <Channel name: silky>,       2024-11-07 02:10:36.445572 
+
+ 1upnt,     WTF,        <Channel name: silky>,       2024-11-07 02:10:41.686976 
+
+ 1upnt,     cmonBruh,        <Channel name: silky>,       2024-11-07 02:11:07.317109 
+
+ 1upnt,     O,        <Channel name: silky>,       2024-11-07 02:11:12.929691 
+
+ 1upnt,     lacyy,        <Channel name: silky>,       2024-11-07 02:11:48.535201 
+
+ 1upnt,     KAI,        <Channel name: silky>,       2024-11-07 02:12:13.113984 
+
+ 1upnt,     KAII,        <Channel name: silky>,       2024-11-07 02:12:19.785658 
+
+ 1upnt,     HAH,        <Channel name: silky>,       2024-11-07 02:12:31.132042 
+
+ 1upnt,     call him,        <Channel name: kaicenat>,       2024-11-07 02:12:50.206513 
+
+ 1upnt,     SILKYYYY,        <Channel name: kaicenat>,       2024-11-07 02:12:55.451328 
+
+ 1upnt,     MUDDY,        <Channel name: kaicenat>,       2024-11-07 02:12:58.349580 
+
+ 1upnt,     BIG WOO,        <Channel name: kaicenat>,       2024-11-07 02:13:05.701918 
+
+ 1upnt,     Clap,        <Channel name: silky>,       2024-11-07 02:14:07.899066 
+
+ 1upnt,     free bands,        <Channel name: silky>,       2024-11-07 02:14:15.658661 
+
+ 1upnt,     free 10k,        <Channel name: silky>,       2024-11-07 02:14:19.814814 
+
+ 1upnt,     MUDDYYYY,        <Channel name: kaicenat>,       2024-11-07 02:14:30.883062 
+
+ 1upnt,     ECHO,        <Channel name: silky>,       2024-11-07 02:14:45.111122 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:14:55.361122 
+
+ 1upnt,     LMAOOO,        <Channel name: silky>,       2024-11-07 02:15:00.365425 
+
+ 1upnt,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:15:22.707918 
+
+ 1upnt,     WW  \,        <Channel name: silky>,       2024-11-07 02:16:05.858200 
+
+ 1upnt,     WW,        <Channel name: silky>,       2024-11-07 02:16:08.051466 
+
+ 1upnt,     WW WW,        <Channel name: silky>,       2024-11-07 02:16:11.742251 
+
+ 1upnt,     WW,        <Channel name: silky>,       2024-11-07 02:16:12.986483 
+
+ 1upnt,     Cap,        <Channel name: silky>,       2024-11-07 02:18:14.564489 
+
+ 1upnt,     DTM,        <Channel name: silky>,       2024-11-07 02:18:30.277173 
+
+ 1upnt,     AYOO,        <Channel name: silky>,       2024-11-07 02:18:37.526779 
+
+ 1upnt,     HATER,        <Channel name: kaicenat>,       2024-11-07 02:20:42.451421 
+
+ 1upnt,     MMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:22:47.290376 
+
+ 1upnt,     MMMM,        <Channel name: kaicenat>,       2024-11-07 02:22:49.006522 
+
+ 1upnt,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:23:38.634526 
+
+ 1upnt,     HUH,        <Channel name: kaicenat>,       2024-11-07 02:26:34.860743 
+
+ 1upnt,     gg gg,        <Channel name: silky>,       2024-11-07 02:30:56.279621 
+
+ 1upnt,     gg,        <Channel name: silky>,       2024-11-07 02:30:57.126609 
+
+ 1upnt,     gg .,        <Channel name: silky>,       2024-11-07 02:30:59.246804 
+
+ 1upnt,     gg,        <Channel name: silky>,       2024-11-07 02:31:01.185930 
+
+ 1upnt,     DEMI,        <Channel name: kaicenat>,       2024-11-07 02:31:11.315437 
+
+ 1upnt,     ASK ABOUT DEMI,        <Channel name: kaicenat>,       2024-11-07 02:31:17.107534 
+
+ 1upnt,     DEMI,        <Channel name: kaicenat>,       2024-11-07 02:31:20.178699 
+
+ 1upnt,     DEMIII,        <Channel name: kaicenat>,       2024-11-07 02:31:22.009935 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:31:48.184154 
+
+ 1upnt,     DEMI,        <Channel name: kaicenat>,       2024-11-07 02:31:56.627052 
+
+ 1upnt,     ASK BOUT DEMI,        <Channel name: kaicenat>,       2024-11-07 02:31:59.445060 
+
+ 1upnt,     gg,        <Channel name: silky>,       2024-11-07 02:32:03.715496 
+
+ 1upnt,     gg they got it,        <Channel name: silky>,       2024-11-07 02:32:06.730808 
+
+ 1upnt,     gg,        <Channel name: silky>,       2024-11-07 02:32:15.719754 
+
+ 1upnt,     gg .,        <Channel name: silky>,       2024-11-07 02:32:16.659869 
+
+ 1upnt,     gg,        <Channel name: silky>,       2024-11-07 02:32:17.222049 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:32:33.512306 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 02:32:36.121312 
+
+ 1upnt,     ome44,        <Channel name: silky>,       2024-11-07 02:32:59.821767 
+
+ 1upnt,     ome20,        <Channel name: silky>,       2024-11-07 02:33:01.394906 
+
+ 1upnt,     silky sharpe,        <Channel name: silky>,       2024-11-07 02:33:19.851065 
+
+ 1upnt,     silky sharpe ome44,        <Channel name: silky>,       2024-11-07 02:33:25.031673 
+
+ 1upnt,     CAUGHT,        <Channel name: silky>,       2024-11-07 02:34:23.418253 
+
+ 1upnt,     silky sharpe,        <Channel name: silky>,       2024-11-07 02:34:53.093937 
+
+ 1upnt,     AYO,        <Channel name: silky>,       2024-11-07 02:35:02.442161 
+
+ 1upnt,     AYOO,        <Channel name: silky>,       2024-11-07 02:35:06.479872 
+
+ 1upnt,     HUH,        <Channel name: silky>,       2024-11-07 02:35:10.764139 
+
+ 1upnt,     PAUSE,        <Channel name: silky>,       2024-11-07 02:35:17.368066 
+
+ 1upnt,     ???,        <Channel name: silky>,       2024-11-07 02:35:18.640815 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:36:45.819846 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 02:37:42.468820 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:38:20.429264 
+
+ 1upnt,     u,        <Channel name: silky>,       2024-11-07 02:38:32.756531 
+
+ 1upnt,     DAMN,        <Channel name: silky>,       2024-11-07 02:39:03.384990 
+
+ 1upnt,     rage stray,        <Channel name: silky>,       2024-11-07 02:39:11.045825 
+
+ 1upnt,     fax,        <Channel name: kaicenat>,       2024-11-07 02:39:30.615206 
+
+ 1upnt,     fax,        <Channel name: silky>,       2024-11-07 02:40:10.582458 
+
+ 1upnt,     fax,        <Channel name: kaicenat>,       2024-11-07 02:40:35.170032 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:40:41.523486 
+
+ 1upnt,     BILL,        <Channel name: silky>,       2024-11-07 02:40:45.184225 
+
+ 1upnt,     O NAH,        <Channel name: silky>,       2024-11-07 02:40:55.516427 
+
+ 1upnt,     WTF,        <Channel name: silky>,       2024-11-07 02:41:01.433032 
+
+ 1upnt,     AYO,        <Channel name: silky>,       2024-11-07 02:41:34.355845 
+
+ 1upnt,     AYOO,        <Channel name: kaicenat>,       2024-11-07 02:41:43.653850 
+
+ 1upnt,     DYK,        <Channel name: silky>,       2024-11-07 02:42:05.411363 
+
+ 1upnt,     ?,        <Channel name: silky>,       2024-11-07 02:42:20.597846 
+
+ 1upnt,     SYK?,        <Channel name: silky>,       2024-11-07 02:42:38.130228 
+
+ 1upnt,     SYK,        <Channel name: silky>,       2024-11-07 02:42:43.568740 
+
+ 1upnt,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:42:56.569531 
+
+ 1upnt,     SYK SYK,        <Channel name: kaicenat>,       2024-11-07 02:43:00.637177 
+
+ 1upnt,     RT PIN,        <Channel name: silky>,       2024-11-07 02:44:41.638696 
+
+ 1upnt,     RT PINN,        <Channel name: silky>,       2024-11-07 02:44:43.730710 
+
+ 1upnt,     RT PIN,        <Channel name: silky>,       2024-11-07 02:44:57.736606 
+
+ 1upnt,     LMFAOO,        <Channel name: silky>,       2024-11-07 02:45:41.412319 
+
+ 1upnt,     @plaqueboymax,        <Channel name: silky>,       2024-11-07 02:45:43.292591 
+
+ 1upnt,     @plaqueboymax o nahhh,        <Channel name: silky>,       2024-11-07 02:45:48.835570 
+
+ 1upnt,     @plaqueboymax,        <Channel name: silky>,       2024-11-07 02:46:14.224899 
+
+ 1upnt,     im coolin,        <Channel name: silky>,       2024-11-07 02:46:28.960513 
+
+ 1upnt,     o nah,        <Channel name: silky>,       2024-11-07 02:46:32.936729 
+
+ 1upnt,     DTM,        <Channel name: silky>,       2024-11-07 02:47:31.674587 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 02:47:46.705799 
+
+ 1upnt,     DTM,        <Channel name: silky>,       2024-11-07 02:47:53.853223 
+
+ 1upnt,     KRKRKR,        <Channel name: silky>,       2024-11-07 02:48:18.206568 
+
+ 1upnt,     assept,        <Channel name: silky>,       2024-11-07 02:48:24.778640 
+
+ 1upnt,     LMFAOOO,        <Channel name: silky>,       2024-11-07 02:49:10.649305 
+
+ 1upnt,     LMFAO,        <Channel name: silky>,       2024-11-07 02:49:22.123716 
+
+ 1upnt,     mhm,        <Channel name: silky>,       2024-11-07 02:50:03.215241 

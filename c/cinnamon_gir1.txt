@@ -1,0 +1,2 @@
+
+ cinnamon_gir1,     i listen to those to set my mood,        <Channel name: grizzy>,       2024-11-07 02:18:56.642274 

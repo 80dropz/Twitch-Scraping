@@ -1,0 +1,4 @@
+
+ bitg,     AUra,        <Channel name: kaicenat>,       2024-11-07 02:20:02.400014 
+
+ bitg,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:22.744961 

@@ -1,0 +1,26 @@
+
+ cairogg1,     READY,        <Channel name: clix>,       2024-11-07 01:40:31.850936 
+
+ cairogg1,     uuh,        <Channel name: clix>,       2024-11-07 01:40:41.681644 
+
+ cairogg1,     rt,        <Channel name: clix>,       2024-11-07 01:42:04.925339 
+
+ cairogg1,     GET OUT,        <Channel name: clix>,       2024-11-07 01:42:10.023833 
+
+ cairogg1,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.436159 
+
+ cairogg1,     NOWAY,        <Channel name: clix>,       2024-11-07 01:43:06.408135 
+
+ cairogg1,     uuh,        <Channel name: clix>,       2024-11-07 01:43:22.326310 
+
+ cairogg1,     uuh uuh,        <Channel name: clix>,       2024-11-07 01:43:29.236495 
+
+ cairogg1,     WW FELDMOON,        <Channel name: clix>,       2024-11-07 01:43:58.994860 
+
+ cairogg1,     NOWAY,        <Channel name: clix>,       2024-11-07 01:44:09.539050 
+
+ cairogg1,     WTF,        <Channel name: clix>,       2024-11-07 01:45:12.568835 
+
+ cairogg1,     HELL NO,        <Channel name: clix>,       2024-11-07 01:45:16.785703 
+
+ cairogg1,     mhm,        <Channel name: clix>,       2024-11-07 01:47:58.770258 

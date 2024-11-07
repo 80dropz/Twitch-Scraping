@@ -1,0 +1,12 @@
+
+ zackzeee,     rat,        <Channel name: kaicenat>,       2024-11-07 01:35:48.965638 
+
+ zackzeee,     5 MINUTES,        <Channel name: kaicenat>,       2024-11-07 01:40:08.448498 
+
+ zackzeee,     sunny,        <Channel name: kaicenat>,       2024-11-07 01:42:47.694910 
+
+ zackzeee,     1 MINUTES,        <Channel name: kaicenat>,       2024-11-07 01:43:40.542429 
+
+ zackzeee,     1 MINUTE,        <Channel name: kaicenat>,       2024-11-07 01:45:01.323534 
+
+ zackzeee,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:46.312202 

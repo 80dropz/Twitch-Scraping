@@ -1,0 +1,18 @@
+
+ land077,     CARTI,        <Channel name: kaicenat>,       2024-11-07 01:55:55.546349 
+
+ land077,     PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:14.326711 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:26.472992 
+
+ land077,     PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:35.503101 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:38.245437 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:42.734029 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:56:56.445443 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:57:02.158210 
+
+ land077,     PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI PLAY CARTI,        <Channel name: kaicenat>,       2024-11-07 01:57:21.406978 

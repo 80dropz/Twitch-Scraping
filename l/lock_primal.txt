@@ -1,0 +1,2 @@
+
+ lock_primal,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:40:20.855990 

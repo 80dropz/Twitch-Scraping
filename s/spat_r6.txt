@@ -1,0 +1,2 @@
+
+ spat_r6,     w,        <Channel name: plaqueboymax>,       2024-11-07 01:50:46.922900 

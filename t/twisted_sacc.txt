@@ -1,0 +1,4 @@
+
+ twisted_sacc,     no,        <Channel name: kaicenat>,       2024-11-07 01:39:46.706846 
+
+ twisted_sacc,     a deals a deals,        <Channel name: kaicenat>,       2024-11-07 01:42:09.321183 

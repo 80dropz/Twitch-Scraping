@@ -1,0 +1,8 @@
+
+ lucid090,     Respin,        <Channel name: kaicenat>,       2024-11-07 01:31:33.752093 
+
+ lucid090,     Rigged,        <Channel name: kaicenat>,       2024-11-07 01:31:36.955049 
+
+ lucid090,     wheel is definitely rigged,        <Channel name: kaicenat>,       2024-11-07 01:34:36.914569 
+
+ lucid090,     1min,        <Channel name: kaicenat>,       2024-11-07 01:40:15.447086 

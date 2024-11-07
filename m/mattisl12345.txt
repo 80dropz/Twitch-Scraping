@@ -1,0 +1,6 @@
+
+ mattisl12345,     wait,        <Channel name: clix>,       2024-11-07 02:05:34.272626 
+
+ mattisl12345,     rigged,        <Channel name: clix>,       2024-11-07 02:05:44.202638 
+
+ mattisl12345,     scammer,        <Channel name: clix>,       2024-11-07 02:06:05.198776 

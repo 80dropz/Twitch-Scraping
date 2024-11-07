@@ -1,0 +1,42 @@
+
+ ldlopezx_,     fat44 fat44,        <Channel name: plaqueboymax>,       2024-11-07 01:40:06.683531 
+
+ ldlopezx_,     uh,        <Channel name: plaqueboymax>,       2024-11-07 01:40:50.792981 
+
+ ldlopezx_,     uhh,        <Channel name: plaqueboymax>,       2024-11-07 01:40:53.144632 
+
+ ldlopezx_,     uhhh,        <Channel name: plaqueboymax>,       2024-11-07 01:40:56.008669 
+
+ ldlopezx_,     uh,        <Channel name: plaqueboymax>,       2024-11-07 01:41:08.945215 
+
+ ldlopezx_,     uuh,        <Channel name: plaqueboymax>,       2024-11-07 01:41:17.212322 
+
+ ldlopezx_,     uuuh,        <Channel name: plaqueboymax>,       2024-11-07 01:41:23.395534 
+
+ ldlopezx_,     uuh,        <Channel name: plaqueboymax>,       2024-11-07 01:41:26.767329 
+
+ ldlopezx_,     fat44,        <Channel name: plaqueboymax>,       2024-11-07 01:41:34.835252 
+
+ ldlopezx_,     JAX,        <Channel name: plaqueboymax>,       2024-11-07 01:42:54.160059 
+
+ ldlopezx_,     JAX CARRY,        <Channel name: plaqueboymax>,       2024-11-07 01:43:10.013221 
+
+ ldlopezx_,     MAX,        <Channel name: plaqueboymax>,       2024-11-07 01:43:32.449265 
+
+ ldlopezx_,     JAX CARRY,        <Channel name: plaqueboymax>,       2024-11-07 01:43:37.931699 
+
+ ldlopezx_,     fat44,        <Channel name: plaqueboymax>,       2024-11-07 01:44:58.762583 
+
+ ldlopezx_,     fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44 fat44,        <Channel name: plaqueboymax>,       2024-11-07 01:52:44.074825 
+
+ ldlopezx_,     ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32ome32 ome32,        <Channel name: plaqueboymax>,       2024-11-07 01:56:15.889075 
+
+ ldlopezx_,     ome32 ome32 ome32 ome32 ome32 ome32 ome32 ome32,        <Channel name: plaqueboymax>,       2024-11-07 01:56:45.715129 
+
+ ldlopezx_,     slowdown,        <Channel name: plaqueboymax>,       2024-11-07 02:04:41.216547 
+
+ ldlopezx_,     slowdown slowdown slowdown,        <Channel name: plaqueboymax>,       2024-11-07 02:06:30.503643 
+
+ ldlopezx_,     LMAOOOO,        <Channel name: silky>,       2024-11-07 02:09:24.624697 
+
+ ldlopezx_,     ADAPT,        <Channel name: silky>,       2024-11-07 02:10:58.586544 

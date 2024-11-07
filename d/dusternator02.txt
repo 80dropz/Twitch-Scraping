@@ -1,0 +1,6 @@
+
+ dusternator02,     w,        <Channel name: grizzy>,       2024-11-07 01:50:20.033980 
+
+ dusternator02,     This is fire,        <Channel name: grizzy>,       2024-11-07 02:17:35.071770 
+
+ dusternator02,     Bye,        <Channel name: grizzy>,       2024-11-07 02:33:19.789662 

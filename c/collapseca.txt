@@ -1,0 +1,10 @@
+
+ collapseca,     Ready,        <Channel name: clix>,       2024-11-07 01:42:47.078393 
+
+ collapseca,     Skibidi,        <Channel name: clix>,       2024-11-07 01:53:55.445954 
+
+ collapseca,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:33.877853 
+
+ collapseca,     So many bots in chat,        <Channel name: clix>,       2024-11-07 02:00:43.314717 
+
+ collapseca,     Nice scam lmao,        <Channel name: clix>,       2024-11-07 02:06:41.946637 

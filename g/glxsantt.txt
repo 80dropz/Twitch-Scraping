@@ -1,0 +1,6 @@
+
+ glxsantt,     Delay,        <Channel name: kaicenat>,       2024-11-07 01:56:49.547912 
+
+ glxsantt,     Delayed,        <Channel name: kaicenat>,       2024-11-07 01:57:36.262132 
+
+ glxsantt,     Delayed,        <Channel name: kaicenat>,       2024-11-07 01:59:09.321335 

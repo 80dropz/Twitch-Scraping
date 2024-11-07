@@ -1,0 +1,12 @@
+
+ ecrawf1234,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.610238 
+
+ ecrawf1234,     Ads,        <Channel name: clix>,       2024-11-07 01:42:59.830723 
+
+ ecrawf1234,     L ads,        <Channel name: clix>,       2024-11-07 01:43:03.714970 
+
+ ecrawf1234,     Fucking Ads,        <Channel name: clix>,       2024-11-07 01:43:12.660412 
+
+ ecrawf1234,     !trio,        <Channel name: oatley>,       2024-11-07 01:43:46.202505 
+
+ ecrawf1234,     Who are you playing with for trio cashy,        <Channel name: oatley>,       2024-11-07 01:44:15.410678 

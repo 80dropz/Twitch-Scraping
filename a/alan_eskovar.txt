@@ -1,0 +1,4 @@
+
+ alan_eskovar,     Sally,        <Channel name: aldo_geo>,       2024-11-07 02:33:15.948330 
+
+ alan_eskovar,     La pistola,        <Channel name: aldo_geo>,       2024-11-07 02:33:20.585644 

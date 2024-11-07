@@ -1,0 +1,64 @@
+
+ ftp_james02,     DONT,        <Channel name: clix>,       2024-11-07 01:39:41.534359 
+
+ ftp_james02,     STOOOOP,        <Channel name: clix>,       2024-11-07 01:39:44.040284 
+
+ ftp_james02,     DONT DO IT!!!,        <Channel name: clix>,       2024-11-07 01:39:52.338280 
+
+ ftp_james02,     DONT YOU DARE!!!!,        <Channel name: clix>,       2024-11-07 01:39:57.556949 
+
+ ftp_james02,     DONT!!!!,        <Channel name: clix>,       2024-11-07 01:40:03.981083 
+
+ ftp_james02,     LETSGO,        <Channel name: clix>,       2024-11-07 01:40:24.012115 
+
+ ftp_james02,     WWWWWWW,        <Channel name: clix>,       2024-11-07 01:40:25.570334 
+
+ ftp_james02,     OMG,        <Channel name: clix>,       2024-11-07 01:40:26.890310 
+
+ ftp_james02,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:28.155916 
+
+ ftp_james02,     READY,        <Channel name: clix>,       2024-11-07 01:40:30.905784 
+
+ ftp_james02,     just ROLLL,        <Channel name: clix>,       2024-11-07 01:41:49.753639 
+
+ ftp_james02,     roll the damn wheel,        <Channel name: clix>,       2024-11-07 01:41:54.247427 
+
+ ftp_james02,     roll the fucking wheel,        <Channel name: clix>,       2024-11-07 01:41:59.404209 
+
+ ftp_james02,     REAdy,        <Channel name: clix>,       2024-11-07 01:42:47.424068 
+
+ ftp_james02,     SPIN IT,        <Channel name: clix>,       2024-11-07 01:42:47.580083 
+
+ ftp_james02,     REASY,        <Channel name: clix>,       2024-11-07 01:42:47.631327 
+
+ ftp_james02,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.698435 
+
+ ftp_james02,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:58.059595 
+
+ ftp_james02,     LETSGO,        <Channel name: clix>,       2024-11-07 01:43:00.197634 
+
+ ftp_james02,     WW Feldy,        <Channel name: clix>,       2024-11-07 01:43:59.579251 
+
+ ftp_james02,     WW FELDMOON,        <Channel name: clix>,       2024-11-07 01:44:06.513609 
+
+ ftp_james02,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:15.359430 
+
+ ftp_james02,     LETSGO WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:20.230360 
+
+ ftp_james02,     goodnight clixLove,        <Channel name: clix>,       2024-11-07 01:44:37.030366 
+
+ ftp_james02,     GOODNIGHT clixLove,        <Channel name: clix>,       2024-11-07 01:44:56.372368 
+
+ ftp_james02,     WW CLIXATHON clixLove,        <Channel name: clix>,       2024-11-07 01:45:02.669814 
+
+ ftp_james02,     WW FELDMOON clixLove,        <Channel name: clix>,       2024-11-07 01:45:09.375804 
+
+ ftp_james02,     WW FELDY,        <Channel name: clix>,       2024-11-07 01:45:53.031360 
+
+ ftp_james02,     NOWAY,        <Channel name: clix>,       2024-11-07 01:45:56.172607 
+
+ ftp_james02,     OMG NOWAY,        <Channel name: clix>,       2024-11-07 01:45:58.589919 
+
+ ftp_james02,     NOWAY OMG,        <Channel name: clix>,       2024-11-07 01:46:01.412140 
+
+ ftp_james02,     alright mfers goodnight clixLove,        <Channel name: clix>,       2024-11-07 01:46:36.069434 

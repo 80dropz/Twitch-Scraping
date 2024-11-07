@@ -1,0 +1,4 @@
+
+ stimax7,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:23.304050 
+
+ stimax7,     69 nice,        <Channel name: kaicenat>,       2024-11-07 02:04:24.853947 

@@ -1,0 +1,32 @@
+
+ ak_1wa,     Jason cooked,        <Channel name: plaqueboymax>,       2024-11-07 01:49:18.969557 
+
+ ak_1wa,     Jayway  cooked,        <Channel name: jasontheween>,       2024-11-07 01:50:15.151691 
+
+ ak_1wa,     Rnb,        <Channel name: jasontheween>,       2024-11-07 01:58:43.446909 
+
+ ak_1wa,     Country,        <Channel name: jasontheween>,       2024-11-07 01:58:53.955790 
+
+ ak_1wa,     Rnb,        <Channel name: jasontheween>,       2024-11-07 01:59:08.477382 
+
+ ak_1wa,     Rnb,        <Channel name: jasontheween>,       2024-11-07 02:01:27.893117 
+
+ ak_1wa,     Casa,        <Channel name: jasontheween>,       2024-11-07 02:06:17.892495 
+
+ ak_1wa,     Jason,        <Channel name: silky>,       2024-11-07 02:08:38.743274 
+
+ ak_1wa,     Nahh oh nah,        <Channel name: silky>,       2024-11-07 02:09:26.105000 
+
+ ak_1wa,     Adapt,        <Channel name: silky>,       2024-11-07 02:09:39.624499 
+
+ ak_1wa,     Addison,        <Channel name: silky>,       2024-11-07 02:10:56.812278 
+
+ ak_1wa,     Adapt better choice,        <Channel name: silky>,       2024-11-07 02:11:49.801731 
+
+ ak_1wa,     Got trolled,        <Channel name: silky>,       2024-11-07 02:12:53.508582 
+
+ ak_1wa,     Cap,        <Channel name: kaicenat>,       2024-11-07 02:20:40.090867 
+
+ ak_1wa,     Dtm,        <Channel name: kaicenat>,       2024-11-07 02:21:21.147083 
+
+ ak_1wa,     Lmaooo,        <Channel name: kaicenat>,       2024-11-07 02:21:51.765308 

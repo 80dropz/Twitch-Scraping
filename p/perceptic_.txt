@@ -1,0 +1,10 @@
+
+ perceptic_,     W RUN,        <Channel name: caseoh_>,       2024-11-07 01:44:40.790608 
+
+ perceptic_,     L SMOKER,        <Channel name: caseoh_>,       2024-11-07 01:45:05.547499 
+
+ perceptic_,     CAP,        <Channel name: caseoh_>,       2024-11-07 01:45:54.845646 
+
+ perceptic_,     NOPE,        <Channel name: caseoh_>,       2024-11-07 01:46:28.261326 
+
+ perceptic_,     L SMOKER,        <Channel name: caseoh_>,       2024-11-07 01:46:54.617904 

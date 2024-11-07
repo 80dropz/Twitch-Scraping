@@ -1,0 +1,202 @@
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:17.485792 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:17.729446 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:18.213926 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:18.422956 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:18.583097 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:18.751222 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:18.920495 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:19.114240 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:40:21.422015 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:40:21.625743 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:40:21.961108 
+
+ c0urtneyamanda,     oh nah,        <Channel name: clix>,       2024-11-07 01:40:41.549808 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:19.375110 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:19.519320 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:19.684042 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:19.868555 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:20.040424 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:20.196283 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:20.360498 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:20.550896 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.108186 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.230292 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.361921 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.509062 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.718488 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:21.893335 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:22.065704 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:22.229495 
+
+ c0urtneyamanda,     VOTE CHAT!,        <Channel name: clix>,       2024-11-07 01:41:22.395864 
+
+ c0urtneyamanda,     RIPBOZO,        <Channel name: clix>,       2024-11-07 01:41:57.838658 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:50.575073 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:50.711201 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.055335 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.192329 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.322767 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.700846 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.704856 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:51.817636 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:52.024795 
+
+ c0urtneyamanda,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:52.215148 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:53.131058 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:53.401482 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:53.570001 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:53.738273 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:53.902256 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:54.056028 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:54.229975 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:54.355821 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:54.680781 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:55.047523 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:55.222494 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:55.386324 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 01:42:55.740397 
+
+ c0urtneyamanda,     let astria do fornite festival,        <Channel name: clix>,       2024-11-07 01:46:09.209450 
+
+ c0urtneyamanda,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:11.517936 
+
+ c0urtneyamanda,     next,        <Channel name: clix>,       2024-11-07 02:00:27.883876 
+
+ c0urtneyamanda,     reroll,        <Channel name: clix>,       2024-11-07 02:00:31.953102 
+
+ c0urtneyamanda,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:06.885422 
+
+ c0urtneyamanda,     NEXT,        <Channel name: clix>,       2024-11-07 02:03:42.403539 
+
+ c0urtneyamanda,     reroll,        <Channel name: clix>,       2024-11-07 02:03:47.522050 
+
+ c0urtneyamanda,     respin,        <Channel name: clix>,       2024-11-07 02:10:42.632463 
+
+ c0urtneyamanda,     reroll,        <Channel name: clix>,       2024-11-07 02:10:46.569616 
+
+ c0urtneyamanda,     FeelsLateMan,        <Channel name: clix>,       2024-11-07 02:11:14.898717 
+
+ c0urtneyamanda,     respin,        <Channel name: clix>,       2024-11-07 02:11:17.943390 
+
+ c0urtneyamanda,     BOOBAWITHRESPECT,        <Channel name: clix>,       2024-11-07 02:13:57.467725 
+
+ c0urtneyamanda,     can you please go to bed,        <Channel name: clix>,       2024-11-07 02:31:01.448492 
+
+ c0urtneyamanda,     i want to play fortnite and this this is my only time,        <Channel name: clix>,       2024-11-07 02:31:17.414561 
+
+ c0urtneyamanda,     can we please stop,        <Channel name: clix>,       2024-11-07 02:34:57.160514 
+
+ c0urtneyamanda,     pepeS,        <Channel name: clix>,       2024-11-07 02:35:06.284430 
+
+ c0urtneyamanda,     sus,        <Channel name: clix>,       2024-11-07 02:36:37.871118 
+
+ c0urtneyamanda,     Gayge ?,        <Channel name: clix>,       2024-11-07 02:36:43.204543 
+
+ c0urtneyamanda,     go to bed,        <Channel name: clix>,       2024-11-07 02:37:39.816663 
+
+ c0urtneyamanda,     play outdoor boys and go to bed,        <Channel name: clix>,       2024-11-07 02:37:47.200263 
+
+ c0urtneyamanda,     monkaTOS,        <Channel name: clix>,       2024-11-07 02:37:50.787821 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:57.329182 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:57.578043 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:57.792397 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:58.058447 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:58.243239 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:58.395242 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:58.654422 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:58.941207 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:59.141187 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:59.220324 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:59.359156 
+
+ c0urtneyamanda,     WW,        <Channel name: clix>,       2024-11-07 02:37:59.563817 
+
+ c0urtneyamanda,     catSigh,        <Channel name: clix>,       2024-11-07 02:45:16.905308 
+
+ c0urtneyamanda,     LULW,        <Channel name: clix>,       2024-11-07 02:46:27.309770 
+
+ c0urtneyamanda,     maybe one day we will get astria's fortnite festival,        <Channel name: clix>,       2024-11-07 02:46:52.216109 
+
+ c0urtneyamanda,     Sadge,        <Channel name: clix>,       2024-11-07 02:46:53.916649 
+
+ c0urtneyamanda,     ??????,        <Channel name: clix>,       2024-11-07 02:48:29.922830 
+
+ c0urtneyamanda,     HUH,        <Channel name: clix>,       2024-11-07 02:48:34.609845 
+
+ c0urtneyamanda,     HUH,        <Channel name: clix>,       2024-11-07 02:48:37.799631 
+
+ c0urtneyamanda,     SNIFFA,        <Channel name: clix>,       2024-11-07 02:49:35.083560 
+
+ c0urtneyamanda,     @lielockz rt,        <Channel name: clix>,       2024-11-07 02:49:43.492902 
+
+ c0urtneyamanda,     SNIFFA,        <Channel name: clix>,       2024-11-07 02:49:50.294029 
+
+ c0urtneyamanda,     peepoGiggles,        <Channel name: clix>,       2024-11-07 02:51:29.062270 
+
+ c0urtneyamanda,     Prayge,        <Channel name: clix>,       2024-11-07 02:51:52.400607 
+
+ c0urtneyamanda,     exactly what it means @oAstria,        <Channel name: clix>,       2024-11-07 02:52:03.538252 
+
+ c0urtneyamanda,     shrugEg,        <Channel name: clix>,       2024-11-07 02:52:05.999068 
+
+ c0urtneyamanda,     Prayge,        <Channel name: clix>,       2024-11-07 02:52:48.578980 

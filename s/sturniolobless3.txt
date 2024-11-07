@@ -1,0 +1,6 @@
+
+ sturniolobless3,     Squid3 Squid Squid3,        <Channel name: kaicenat>,       2024-11-07 02:45:26.544000 
+
+ sturniolobless3,     SeemsGood,        <Channel name: kaicenat>,       2024-11-07 02:45:32.090791 
+
+ sturniolobless3,     HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys HeyGuys,        <Channel name: kaicenat>,       2024-11-07 02:45:40.546178 

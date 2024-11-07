@@ -1,0 +1,22 @@
+
+ d1_kinng,     yes,        <Channel name: kaicenat>,       2024-11-07 01:19:16.880761 
+
+ d1_kinng,     spin again,        <Channel name: kaicenat>,       2024-11-07 01:21:23.900755 
+
+ d1_kinng,     other way,        <Channel name: kaicenat>,       2024-11-07 01:32:17.625085 
+
+ d1_kinng,     froze,        <Channel name: kaicenat>,       2024-11-07 01:36:05.328819 
+
+ d1_kinng,     ye,        <Channel name: kaicenat>,       2024-11-07 01:43:28.418426 
+
+ d1_kinng,     yes,        <Channel name: kaicenat>,       2024-11-07 01:44:03.837537 
+
+ d1_kinng,     go to sleep,        <Channel name: kaicenat>,       2024-11-07 02:09:19.927175 
+
+ d1_kinng,     sleep,        <Channel name: kaicenat>,       2024-11-07 02:09:32.622492 
+
+ d1_kinng,     no,        <Channel name: kaicenat>,       2024-11-07 02:14:17.326203 
+
+ d1_kinng,     end,        <Channel name: kaicenat>,       2024-11-07 02:26:10.565511 
+
+ d1_kinng,     cap,        <Channel name: kaicenat>,       2024-11-07 02:40:40.940542 

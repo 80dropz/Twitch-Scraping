@@ -1,0 +1,6 @@
+
+ simba_wf,     mhm,        <Channel name: clix>,       2024-11-07 01:48:21.488836 
+
+ simba_wf,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:55.688894 
+
+ simba_wf,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:32.462200 

@@ -1,0 +1,12 @@
+
+ anzc267,     FAXXXXPFAXXXX,        <Channel name: kaicenat>,       2024-11-07 02:24:47.209565 
+
+ anzc267,     FAXXXX,        <Channel name: kaicenat>,       2024-11-07 02:24:49.416430 
+
+ anzc267,     FAXXXXXX,        <Channel name: kaicenat>,       2024-11-07 02:24:52.723732 
+
+ anzc267,     NYC ACCENT GON,        <Channel name: kaicenat>,       2024-11-07 02:24:58.202283 
+
+ anzc267,     ATL KAI SMH,        <Channel name: kaicenat>,       2024-11-07 02:25:16.327946 
+
+ anzc267,     ATL KAI SMHHH,        <Channel name: kaicenat>,       2024-11-07 02:25:37.099346 

@@ -1,0 +1,6 @@
+
+ codenamek2_,     SCRIPTED,        <Channel name: kaicenat>,       2024-11-07 01:21:23.775212 
+
+ codenamek2_,     45sec,        <Channel name: kaicenat>,       2024-11-07 01:40:29.954851 
+
+ codenamek2_,     45s,        <Channel name: kaicenat>,       2024-11-07 01:41:29.168542 

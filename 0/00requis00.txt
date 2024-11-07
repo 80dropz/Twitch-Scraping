@@ -1,0 +1,4 @@
+
+ 00requis00,     RT,        <Channel name: kaicenat>,       2024-11-07 02:43:14.359415 
+
+ 00requis00,     O,        <Channel name: kaicenat>,       2024-11-07 02:47:24.046392 

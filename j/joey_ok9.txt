@@ -1,0 +1,62 @@
+
+ joey_ok9,     ADDDS,        <Channel name: kaicenat>,       2024-11-07 01:19:49.531517 
+
+ joey_ok9,     ADS,        <Channel name: kaicenat>,       2024-11-07 01:19:51.639863 
+
+ joey_ok9,     ADSS,        <Channel name: kaicenat>,       2024-11-07 01:19:53.371237 
+
+ joey_ok9,     L ADS,        <Channel name: kaicenat>,       2024-11-07 01:19:55.262541 
+
+ joey_ok9,     L ADDS,        <Channel name: kaicenat>,       2024-11-07 01:19:57.092139 
+
+ joey_ok9,     L ADSS,        <Channel name: kaicenat>,       2024-11-07 01:19:59.242144 
+
+ joey_ok9,     L ADDS,        <Channel name: kaicenat>,       2024-11-07 01:20:01.521149 
+
+ joey_ok9,     L ADS,        <Channel name: kaicenat>,       2024-11-07 01:20:03.353413 
+
+ joey_ok9,     L ADD,        <Channel name: kaicenat>,       2024-11-07 01:20:08.948090 
+
+ joey_ok9,     L AD,        <Channel name: kaicenat>,       2024-11-07 01:20:10.339112 
+
+ joey_ok9,     deall,        <Channel name: kaicenat>,       2024-11-07 01:23:12.898507 
+
+ joey_ok9,     LMAO,        <Channel name: kaicenat>,       2024-11-07 01:23:34.940406 
+
+ joey_ok9,     LMAOO,        <Channel name: kaicenat>,       2024-11-07 01:23:37.386593 
+
+ joey_ok9,     diddy,        <Channel name: kaicenat>,       2024-11-07 01:32:56.483902 
+
+ joey_ok9,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:33:50.195168 
+
+ joey_ok9,     RIGGEDD,        <Channel name: kaicenat>,       2024-11-07 01:33:53.360560 
+
+ joey_ok9,     RIG,        <Channel name: kaicenat>,       2024-11-07 01:33:54.370591 
+
+ joey_ok9,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:37:24.945693 
+
+ joey_ok9,     WW,        <Channel name: kaicenat>,       2024-11-07 01:37:41.745626 
+
+ joey_ok9,     LMAO,        <Channel name: kaicenat>,       2024-11-07 01:37:53.598036 
+
+ joey_ok9,     SUNNY,        <Channel name: kaicenat>,       2024-11-07 01:42:47.848068 
+
+ joey_ok9,     XDDD,        <Channel name: kaicenat>,       2024-11-07 01:42:57.827471 
+
+ joey_ok9,     LOLLLLLL,        <Channel name: kaicenat>,       2024-11-07 01:43:03.220335 
+
+ joey_ok9,     1 MIN,        <Channel name: kaicenat>,       2024-11-07 01:45:01.055978 
+
+ joey_ok9,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 01:50:34.860658 
+
+ joey_ok9,     100,        <Channel name: kaicenat>,       2024-11-07 01:50:40.588146 
+
+ joey_ok9,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:08:33.662860 
+
+ joey_ok9,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:43.669771 
+
+ joey_ok9,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:09:00.390331 
+
+ joey_ok9,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:09:08.067224 
+
+ joey_ok9,     YESSIRE,        <Channel name: kaicenat>,       2024-11-07 02:10:18.524688 

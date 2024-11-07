@@ -1,0 +1,2 @@
+
+ tsowl7,     !monitor,        <Channel name: oatley>,       2024-11-07 02:32:56.788405 

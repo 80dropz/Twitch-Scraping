@@ -1,0 +1,12 @@
+
+ edred401,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:31:39.766537 
+
+ edred401,     61,        <Channel name: kaicenat>,       2024-11-07 01:44:35.063894 
+
+ edred401,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:50.178376 
+
+ edred401,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:54.599434 
+
+ edred401,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:47.239626 
+
+ edred401,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:51.625516 

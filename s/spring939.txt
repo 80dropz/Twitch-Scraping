@@ -1,0 +1,8 @@
+
+ spring939,     no,        <Channel name: caseoh_>,       2024-11-07 01:40:08.839779 
+
+ spring939,     what’s the world record for this game?,        <Channel name: caseoh_>,       2024-11-07 01:46:02.366424 
+
+ spring939,     rip,        <Channel name: caseoh_>,       2024-11-07 01:50:04.980221 
+
+ spring939,     skip,        <Channel name: caseoh_>,       2024-11-07 01:50:09.853197 

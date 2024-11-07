@@ -1,0 +1,6 @@
+
+ hezi1x,     blacked,        <Channel name: faxuty>,       2024-11-07 02:14:36.907468 
+
+ hezi1x,     OPS,        <Channel name: faxuty>,       2024-11-07 02:39:50.632322 
+
+ hezi1x,     EPIKWHALE,        <Channel name: faxuty>,       2024-11-07 02:40:08.140352 

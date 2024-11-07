@@ -1,0 +1,6 @@
+
+ imthelion12,     !time,        <Channel name: kaicenat>,       2024-11-07 02:45:10.579187 
+
+ imthelion12,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 02:45:17.991880 
+
+ imthelion12,     !age,        <Channel name: kaicenat>,       2024-11-07 02:45:38.848912 

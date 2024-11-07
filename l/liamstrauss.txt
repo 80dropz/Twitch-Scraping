@@ -1,0 +1,24 @@
+
+ liamstrauss,     RED,        <Channel name: clix>,       2024-11-07 01:42:47.397491 
+
+ liamstrauss,     9,        <Channel name: clix>,       2024-11-07 01:42:47.592125 
+
+ liamstrauss,     8,        <Channel name: clix>,       2024-11-07 01:42:47.667192 
+
+ liamstrauss,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.878985 
+
+ liamstrauss,     1,        <Channel name: clix>,       2024-11-07 01:42:48.004206 
+
+ liamstrauss,     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:17.734138 
+
+ liamstrauss,     NO WAYYYYYY,        <Channel name: clix>,       2024-11-07 01:43:20.917157 
+
+ liamstrauss,     OHHHHHHHHHHH,        <Channel name: clix>,       2024-11-07 01:43:24.515807 
+
+ liamstrauss,     WWWWWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:29.675747 
+
+ liamstrauss,     WOWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:35.969339 
+
+ liamstrauss,     I GOT IT,        <Channel name: clix>,       2024-11-07 01:49:14.290154 
+
+ liamstrauss,     ,i got it,        <Channel name: clix>,       2024-11-07 01:49:30.664897 

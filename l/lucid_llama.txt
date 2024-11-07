@@ -1,0 +1,6 @@
+
+ lucid_llama,     gn chat,        <Channel name: grizzy>,       2024-11-07 01:57:01.206510 
+
+ lucid_llama,     gn Gribby,        <Channel name: grizzy>,       2024-11-07 01:57:34.702321 
+
+ lucid_llama,     yall take it easy !!,        <Channel name: grizzy>,       2024-11-07 01:58:42.923396 

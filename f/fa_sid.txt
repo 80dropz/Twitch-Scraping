@@ -1,0 +1,16 @@
+
+ fa_sid,     WEIGHTS,        <Channel name: kaicenat>,       2024-11-07 01:35:25.890679 
+
+ fa_sid,     LLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 01:35:50.125716 
+
+ fa_sid,     HOW THE FUCK I GET TIMED OUT WHAT FOR,        <Channel name: kaicenat>,       2024-11-07 01:36:31.759587 
+
+ fa_sid,     OMG,        <Channel name: kaicenat>,       2024-11-07 01:37:54.448944 
+
+ fa_sid,     id do 15 ceconds,        <Channel name: kaicenat>,       2024-11-07 01:40:11.221555 
+
+ fa_sid,     20 seconds,        <Channel name: kaicenat>,       2024-11-07 01:40:36.089963 
+
+ fa_sid,     LOL,        <Channel name: kaicenat>,       2024-11-07 01:52:15.699525 
+
+ fa_sid,     yes,        <Channel name: kaicenat>,       2024-11-07 01:53:53.720907 

@@ -1,0 +1,8 @@
+
+ nc2kr,     I got it,        <Channel name: clix>,       2024-11-07 01:48:44.192230 
+
+ nc2kr,     I somehow got it,        <Channel name: clix>,       2024-11-07 01:48:52.969450 
+
+ nc2kr,     me,        <Channel name: clix>,       2024-11-07 01:48:55.895309 
+
+ nc2kr,     I got it,        <Channel name: clix>,       2024-11-07 01:49:02.439823 

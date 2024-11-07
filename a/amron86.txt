@@ -1,0 +1,4 @@
+
+ amron86,     CAP,        <Channel name: caseoh_>,       2024-11-07 01:45:54.096072 
+
+ amron86,     ME,        <Channel name: caseoh_>,       2024-11-07 01:46:05.077376 

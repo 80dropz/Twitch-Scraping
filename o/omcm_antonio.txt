@@ -1,0 +1,8 @@
+
+ omcm_antonio,     GG,        <Channel name: kaicenat>,       2024-11-07 01:40:17.612980 
+
+ omcm_antonio,     POLL ?,        <Channel name: kaicenat>,       2024-11-07 01:45:07.268352 
+
+ omcm_antonio,     IF YOU FAIL REDO,        <Channel name: kaicenat>,       2024-11-07 01:49:02.616063 
+
+ omcm_antonio,     gg gg,        <Channel name: kaicenat>,       2024-11-07 01:50:04.368708 

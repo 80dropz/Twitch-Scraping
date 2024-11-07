@@ -1,0 +1,10 @@
+
+ leo_geo15,     Eso mata a un élite,        <Channel name: aldo_geo>,       2024-11-07 02:05:49.847593 
+
+ leo_geo15,     Eso mataba a un Zombie élite,        <Channel name: aldo_geo>,       2024-11-07 02:06:26.134224 
+
+ leo_geo15,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:09:55.351991 
+
+ leo_geo15,     3,        <Channel name: aldo_geo>,       2024-11-07 02:16:28.074539 
+
+ leo_geo15,     Me,        <Channel name: aldo_geo>,       2024-11-07 02:36:25.525190 

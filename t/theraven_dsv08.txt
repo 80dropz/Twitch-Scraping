@@ -1,0 +1,40 @@
+
+ theraven_dsv08,     Sisi,        <Channel name: aldo_geo>,       2024-11-07 01:58:25.179697 
+
+ theraven_dsv08,     uuh,        <Channel name: aldo_geo>,       2024-11-07 02:00:39.269744 
+
+ theraven_dsv08,     XDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:00:51.841959 
+
+ theraven_dsv08,     Sisi,        <Channel name: aldo_geo>,       2024-11-07 02:00:56.675829 
+
+ theraven_dsv08,     El legado de Capulina,        <Channel name: aldo_geo>,       2024-11-07 02:02:33.630125 
+
+ theraven_dsv08,     XDD,        <Channel name: aldo_geo>,       2024-11-07 02:06:04.677597 
+
+ theraven_dsv08,     Que rico we,        <Channel name: aldo_geo>,       2024-11-07 02:06:14.854074 
+
+ theraven_dsv08,     Sisi,        <Channel name: aldo_geo>,       2024-11-07 02:09:58.088306 
+
+ theraven_dsv08,     Raid peruana,        <Channel name: aldo_geo>,       2024-11-07 02:13:27.502476 
+
+ theraven_dsv08,     XDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:47.911327 
+
+ theraven_dsv08,     XDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:56.563106 
+
+ theraven_dsv08,     No pues ni modo,        <Channel name: aldo_geo>,       2024-11-07 02:16:13.057005 
+
+ theraven_dsv08,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:16:42.355509 
+
+ theraven_dsv08,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:17:43.216037 
+
+ theraven_dsv08,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:31:13.731412 
+
+ theraven_dsv08,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:46:38.595232 
+
+ theraven_dsv08,     13??,        <Channel name: aldo_geo>,       2024-11-07 02:46:56.904956 
+
+ theraven_dsv08,     Alm,        <Channel name: aldo_geo>,       2024-11-07 02:47:08.638283 
+
+ theraven_dsv08,     uuh,        <Channel name: aldo_geo>,       2024-11-07 02:53:23.548236 
+
+ theraven_dsv08,     ??,        <Channel name: aldo_geo>,       2024-11-07 02:53:29.399641 

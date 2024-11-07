@@ -1,0 +1,12 @@
+
+ tubbytoast190,     READY,        <Channel name: clix>,       2024-11-07 01:40:33.883260 
+
+ tubbytoast190,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.818234 
+
+ tubbytoast190,     NO WAAYY,        <Channel name: clix>,       2024-11-07 01:42:53.591523 
+
+ tubbytoast190,     wwww,        <Channel name: clix>,       2024-11-07 01:43:14.325258 
+
+ tubbytoast190,     ww,        <Channel name: clix>,       2024-11-07 01:45:05.634274 
+
+ tubbytoast190,     no,        <Channel name: clix>,       2024-11-07 02:18:11.613412 

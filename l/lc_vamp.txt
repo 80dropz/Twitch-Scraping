@@ -1,0 +1,4 @@
+
+ lc_vamp,     7 ads,        <Channel name: clix>,       2024-11-07 01:43:38.551821 
+
+ lc_vamp,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:42.786040 

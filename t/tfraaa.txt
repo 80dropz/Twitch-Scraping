@@ -1,0 +1,4 @@
+
+ tfraaa,     !trio,        <Channel name: clix>,       2024-11-07 02:49:03.233119 
+
+ tfraaa,     !duo,        <Channel name: clix>,       2024-11-07 02:49:34.557860 

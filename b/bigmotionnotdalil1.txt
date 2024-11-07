@@ -1,0 +1,30 @@
+
+ bigmotionnotdalil1,     CALL,        <Channel name: kaicenat>,       2024-11-07 01:18:18.049085 
+
+ bigmotionnotdalil1,     CALL RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:13:00.781285 
+
+ bigmotionnotdalil1,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:13:07.941332 
+
+ bigmotionnotdalil1,     RAKAIRAKAIII,        <Channel name: kaicenat>,       2024-11-07 02:13:21.976741 
+
+ bigmotionnotdalil1,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:13:29.907356 
+
+ bigmotionnotdalil1,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:40:00.000138 
+
+ bigmotionnotdalil1,     RAKAI MAN,        <Channel name: kaicenat>,       2024-11-07 02:40:06.565078 
+
+ bigmotionnotdalil1,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:40:11.056768 
+
+ bigmotionnotdalil1,     GET,        <Channel name: kaicenat>,       2024-11-07 02:40:18.111150 
+
+ bigmotionnotdalil1,     GET RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:40:24.995473 
+
+ bigmotionnotdalil1,     Get,        <Channel name: kaicenat>,       2024-11-07 02:40:30.742736 
+
+ bigmotionnotdalil1,     Where's rakai,        <Channel name: kaicenat>,       2024-11-07 02:40:36.519454 
+
+ bigmotionnotdalil1,     WHERES,        <Channel name: kaicenat>,       2024-11-07 02:40:48.315303 
+
+ bigmotionnotdalil1,     WHERES RAKAIRAKAI,        <Channel name: kaicenat>,       2024-11-07 02:41:22.056992 
+
+ bigmotionnotdalil1,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 02:41:59.205796 

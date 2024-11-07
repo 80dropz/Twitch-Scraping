@@ -1,0 +1,10 @@
+
+ nauticasharonn,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:27.766840 
+
+ nauticasharonn,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:13.193019 
+
+ nauticasharonn,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:45.448483 
+
+ nauticasharonn,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:33.296307 
+
+ nauticasharonn,     83,        <Channel name: kaicenat>,       2024-11-07 02:07:09.674563 

@@ -1,0 +1,22 @@
+
+ vz1b,     we cant hear,        <Channel name: silky>,       2024-11-07 01:41:02.417057 
+
+ vz1b,     jason carried,        <Channel name: silky>,       2024-11-07 01:42:13.774083 
+
+ vz1b,     2,        <Channel name: clix>,       2024-11-07 02:08:18.599801 
+
+ vz1b,     3,        <Channel name: clix>,       2024-11-07 02:08:21.539938 
+
+ vz1b,     232,        <Channel name: clix>,       2024-11-07 02:08:23.545902 
+
+ vz1b,     322,        <Channel name: clix>,       2024-11-07 02:08:25.963964 
+
+ vz1b,     2222,        <Channel name: clix>,       2024-11-07 02:08:28.573768 
+
+ vz1b,     22222,        <Channel name: clix>,       2024-11-07 02:08:31.457031 
+
+ vz1b,     23,        <Channel name: clix>,       2024-11-07 02:08:34.074872 
+
+ vz1b,     2,        <Channel name: clix>,       2024-11-07 02:08:35.452842 
+
+ vz1b,     chat i fell asleep what day did he make it to,        <Channel name: caseoh_>,       2024-11-07 02:34:08.035688 

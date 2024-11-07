@@ -1,0 +1,6 @@
+
+ agent_1up,     shidid,        <Channel name: clix>,       2024-11-07 02:04:09.380320 
+
+ agent_1up,     …,        <Channel name: clix>,       2024-11-07 02:10:20.165209 
+
+ agent_1up,     raw,        <Channel name: clix>,       2024-11-07 02:33:03.280711 

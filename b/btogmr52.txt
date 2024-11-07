@@ -1,0 +1,8 @@
+
+ btogmr52,     Izquierda,        <Channel name: aldo_geo>,       2024-11-07 01:46:19.635378 
+
+ btogmr52,     Derecho,        <Channel name: aldo_geo>,       2024-11-07 01:46:22.341467 
+
+ btogmr52,     Izquierda,        <Channel name: aldo_geo>,       2024-11-07 01:52:56.540744 
+
+ btogmr52,     La otra cueva aldo,        <Channel name: aldo_geo>,       2024-11-07 01:53:16.216941 

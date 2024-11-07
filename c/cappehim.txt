@@ -1,0 +1,8 @@
+
+ cappehim,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:22:30.435238 
+
+ cappehim,     respin,        <Channel name: kaicenat>,       2024-11-07 01:22:45.000353 
+
+ cappehim,     deal,        <Channel name: kaicenat>,       2024-11-07 01:23:15.861002 
+
+ cappehim,     yes,        <Channel name: kaicenat>,       2024-11-07 01:32:17.908612 

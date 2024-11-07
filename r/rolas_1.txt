@@ -1,0 +1,2 @@
+
+ rolas_1,     Cueba,        <Channel name: aldo_geo>,       2024-11-07 01:52:18.867049 

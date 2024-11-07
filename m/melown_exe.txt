@@ -1,0 +1,4 @@
+
+ melown_exe,     what's his resolution?,        <Channel name: mrlust>,       2024-11-07 02:46:23.471986 
+
+ melown_exe,     !res,        <Channel name: mrlust>,       2024-11-07 02:47:51.503597 

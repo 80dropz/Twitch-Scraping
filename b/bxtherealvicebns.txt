@@ -1,0 +1,10 @@
+
+ bxtherealvicebns,     spin,        <Channel name: kaicenat>,       2024-11-07 01:22:43.504658 
+
+ bxtherealvicebns,     55,        <Channel name: kaicenat>,       2024-11-07 02:03:36.448351 
+
+ bxtherealvicebns,     67,        <Channel name: kaicenat>,       2024-11-07 02:04:00.564758 
+
+ bxtherealvicebns,     68,        <Channel name: kaicenat>,       2024-11-07 02:04:10.276331 
+
+ bxtherealvicebns,     86,        <Channel name: kaicenat>,       2024-11-07 02:07:03.362542 

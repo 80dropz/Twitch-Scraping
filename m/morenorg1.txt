@@ -1,0 +1,4 @@
+
+ morenorg1,     Yoy,        <Channel name: aldo_geo>,       2024-11-07 02:31:19.713204 
+
+ morenorg1,     I was here,        <Channel name: aldo_geo>,       2024-11-07 02:48:36.783484 

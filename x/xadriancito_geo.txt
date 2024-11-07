@@ -1,0 +1,16 @@
+
+ xadriancito_geo,     buena we,        <Channel name: aldo_geo>,       2024-11-07 02:15:38.723992 
+
+ xadriancito_geo,     ?,        <Channel name: aldo_geo>,       2024-11-07 02:15:48.862990 
+
+ xadriancito_geo,     cezarr1JAAA cezarr1JAAA cezarr1JAAA,        <Channel name: aldo_geo>,       2024-11-07 02:17:36.990770 
+
+ xadriancito_geo,     no se,        <Channel name: aldo_geo>,       2024-11-07 02:38:02.338666 
+
+ xadriancito_geo,     si,        <Channel name: aldo_geo>,       2024-11-07 02:39:04.882364 
+
+ xadriancito_geo,     por las dos apa,        <Channel name: aldo_geo>,       2024-11-07 02:40:26.994350 
+
+ xadriancito_geo,     no oleadas pero si saldrán seguido,        <Channel name: aldo_geo>,       2024-11-07 02:42:19.766537 
+
+ xadriancito_geo,     cezarr1JAAA,        <Channel name: aldo_geo>,       2024-11-07 02:50:19.194136 

@@ -1,0 +1,8 @@
+
+ aya_tcfg,     WAZZZAAAAPPPP,        <Channel name: kaicenat>,       2024-11-07 01:23:50.637364 
+
+ aya_tcfg,     white spots,        <Channel name: kaicenat>,       2024-11-07 01:35:05.795928 
+
+ aya_tcfg,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:41:20.328841 
+
+ aya_tcfg,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:43:58.040006 

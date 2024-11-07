@@ -1,0 +1,4 @@
+
+ nvad_3,     Your a circle,        <Channel name: caseoh_>,       2024-11-07 01:42:04.607113 
+
+ nvad_3,     your the circle,        <Channel name: caseoh_>,       2024-11-07 01:42:14.941783 

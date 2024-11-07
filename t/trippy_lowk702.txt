@@ -1,0 +1,32 @@
+
+ trippy_lowk702,     40,        <Channel name: kaicenat>,       2024-11-07 01:40:02.387149 
+
+ trippy_lowk702,     40 seconds,        <Channel name: kaicenat>,       2024-11-07 01:40:08.228209 
+
+ trippy_lowk702,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:40:17.704571 
+
+ trippy_lowk702,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:41:29.157511 
+
+ trippy_lowk702,     30,        <Channel name: kaicenat>,       2024-11-07 01:43:47.566217 
+
+ trippy_lowk702,     45,        <Channel name: kaicenat>,       2024-11-07 01:44:14.251746 
+
+ trippy_lowk702,     30,        <Channel name: kaicenat>,       2024-11-07 01:45:18.133388 
+
+ trippy_lowk702,     30seconds,        <Channel name: kaicenat>,       2024-11-07 01:45:45.923331 
+
+ trippy_lowk702,     poll,        <Channel name: kaicenat>,       2024-11-07 01:46:19.120631 
+
+ trippy_lowk702,     30 bro,        <Channel name: kaicenat>,       2024-11-07 01:48:34.588566 
+
+ trippy_lowk702,     30,        <Channel name: kaicenat>,       2024-11-07 01:48:38.352503 
+
+ trippy_lowk702,     33,        <Channel name: kaicenat>,       2024-11-07 02:01:22.799271 
+
+ trippy_lowk702,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:28.340237 
+
+ trippy_lowk702,     95 left,        <Channel name: kaicenat>,       2024-11-07 02:04:05.831465 
+
+ trippy_lowk702,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:52.106789 
+
+ trippy_lowk702,     90,        <Channel name: kaicenat>,       2024-11-07 02:07:31.065176 

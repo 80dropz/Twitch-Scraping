@@ -1,0 +1,12 @@
+
+ letitdrag1023,     500,        <Channel name: kaicenat>,       2024-11-07 01:24:51.129789 
+
+ letitdrag1023,     500 500,        <Channel name: kaicenat>,       2024-11-07 01:24:56.346398 
+
+ letitdrag1023,     500 500 500 500 500,        <Channel name: kaicenat>,       2024-11-07 01:25:04.339835 
+
+ letitdrag1023,     !discord pls,        <Channel name: kaicenat>,       2024-11-07 02:08:18.794005 
+
+ letitdrag1023,     !discord,        <Channel name: kaicenat>,       2024-11-07 02:30:08.094882 
+
+ letitdrag1023,     !discord,        <Channel name: kaicenat>,       2024-11-07 02:31:23.469602 

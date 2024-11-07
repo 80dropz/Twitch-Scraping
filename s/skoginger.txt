@@ -1,0 +1,4 @@
+
+ skoginger,     LOW KEY YES,        <Channel name: caseoh_>,       2024-11-07 01:45:46.132214 
+
+ skoginger,     CAP,        <Channel name: caseoh_>,       2024-11-07 01:45:54.998184 

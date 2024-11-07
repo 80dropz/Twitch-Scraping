@@ -1,0 +1,6 @@
+
+ ogtopdead,     Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:10.314253 
+
+ ogtopdead,     Dcuf,        <Channel name: nadeshot>,       2024-11-07 02:18:55.329036 
+
+ ogtopdead,     T2G,        <Channel name: nadeshot>,       2024-11-07 02:34:22.064907 

@@ -1,0 +1,6 @@
+
+ edampe09,     un saludo aldo se te quiere,        <Channel name: aldo_geo>,       2024-11-07 02:09:59.739715 
+
+ edampe09,     chicle,        <Channel name: aldo_geo>,       2024-11-07 02:34:55.853962 
+
+ edampe09,     chicleeeeeeeee,        <Channel name: aldo_geo>,       2024-11-07 02:34:59.253880 

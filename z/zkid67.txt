@@ -1,0 +1,10 @@
+
+ zkid67,     limits slowing down to fast,        <Channel name: kaicenat>,       2024-11-07 01:33:37.471308 
+
+ zkid67,     it’s slowing down to fast,        <Channel name: kaicenat>,       2024-11-07 01:33:49.855431 
+
+ zkid67,     weights,        <Channel name: kaicenat>,       2024-11-07 01:35:16.162406 
+
+ zkid67,     let’s go I need a car,        <Channel name: kaicenat>,       2024-11-07 01:36:28.388482 
+
+ zkid67,     30 secs,        <Channel name: kaicenat>,       2024-11-07 01:40:46.925003 

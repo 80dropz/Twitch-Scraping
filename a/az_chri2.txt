@@ -1,0 +1,16 @@
+
+ az_chri2,     55,        <Channel name: kaicenat>,       2024-11-07 01:39:52.870346 
+
+ az_chri2,     5 min,        <Channel name: kaicenat>,       2024-11-07 01:40:02.021781 
+
+ az_chri2,     1min,        <Channel name: kaicenat>,       2024-11-07 01:40:10.943400 
+
+ az_chri2,     455,        <Channel name: kaicenat>,       2024-11-07 01:43:45.462224 
+
+ az_chri2,     45,        <Channel name: kaicenat>,       2024-11-07 01:43:49.277770 
+
+ az_chri2,     45,        <Channel name: kaicenat>,       2024-11-07 01:44:24.413750 
+
+ az_chri2,     45,        <Channel name: kaicenat>,       2024-11-07 01:45:07.202481 
+
+ az_chri2,     455,        <Channel name: kaicenat>,       2024-11-07 01:45:16.631367 

@@ -1,0 +1,14 @@
+
+ crazy_nga,     www,        <Channel name: plaqueboymax>,       2024-11-07 01:49:46.324646 
+
+ crazy_nga,     WWW,        <Channel name: plaqueboymax>,       2024-11-07 01:49:47.766437 
+
+ crazy_nga,     ta,        <Channel name: plaqueboymax>,       2024-11-07 01:53:01.692516 
+
+ crazy_nga,     ta ta,        <Channel name: plaqueboymax>,       2024-11-07 01:54:14.229800 
+
+ crazy_nga,     PlaqueboyTA,        <Channel name: plaqueboymax>,       2024-11-07 01:54:49.842215 
+
+ crazy_nga,     WWW WWW WWW,        <Channel name: plaqueboymax>,       2024-11-07 01:57:50.661017 
+
+ crazy_nga,     AWWWWWW,        <Channel name: plaqueboymax>,       2024-11-07 01:57:56.759072 

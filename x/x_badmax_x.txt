@@ -1,0 +1,12 @@
+
+ x_badmax_x,     Ggs, cooked,        <Channel name: caseoh_>,       2024-11-07 01:48:36.429867 
+
+ x_badmax_x,     Wwwww,        <Channel name: caseoh_>,       2024-11-07 01:48:41.623008 
+
+ x_badmax_x,     Wait,        <Channel name: caseoh_>,       2024-11-07 01:48:45.230674 
+
+ x_badmax_x,     GGS,        <Channel name: caseoh_>,       2024-11-07 01:50:54.415755 
+
+ x_badmax_x,     W STREAM,        <Channel name: caseoh_>,       2024-11-07 01:56:48.799848 
+
+ x_badmax_x,     W,        <Channel name: caseoh_>,       2024-11-07 01:58:03.156499 

@@ -1,0 +1,6 @@
+
+ igl_pl,     PowerUpL Squid3 PowerUpR,        <Channel name: kaicenat>,       2024-11-07 02:12:41.953350 
+
+ igl_pl,     Hi bro,        <Channel name: kaicenat>,       2024-11-07 02:12:59.873073 
+
+ igl_pl,     Play only up,        <Channel name: kaicenat>,       2024-11-07 02:13:17.807362 

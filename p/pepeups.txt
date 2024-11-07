@@ -1,0 +1,14 @@
+
+ pepeups,     cap,        <Channel name: kaicenat>,       2024-11-07 02:18:09.817599 
+
+ pepeups,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:25:27.907608 
+
+ pepeups,     vicky,        <Channel name: kaicenat>,       2024-11-07 02:27:46.694414 
+
+ pepeups,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:34:17.018275 
+
+ pepeups,     MUTE,        <Channel name: kaicenat>,       2024-11-07 02:34:52.253171 
+
+ pepeups,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:46:32.892127 
+
+ pepeups,     ..,        <Channel name: kaicenat>,       2024-11-07 02:47:21.152769 

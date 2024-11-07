@@ -1,0 +1,10 @@
+
+ dareal4k_,     GET DDG,        <Channel name: kaicenat>,       2024-11-07 02:16:21.192031 
+
+ dareal4k_,     BRING DDG TOO,        <Channel name: kaicenat>,       2024-11-07 02:16:25.711170 
+
+ dareal4k_,     BRING DDG,        <Channel name: kaicenat>,       2024-11-07 02:16:31.085786 
+
+ dareal4k_,     INVITE DDG,        <Channel name: kaicenat>,       2024-11-07 02:16:38.417376 
+
+ dareal4k_,     INVITE DDG KAI,        <Channel name: kaicenat>,       2024-11-07 02:16:46.157348 

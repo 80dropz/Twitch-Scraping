@@ -1,0 +1,6 @@
+
+ seeda_seeda,     zzz,        <Channel name: kaicenat>,       2024-11-07 01:23:44.925306 
+
+ seeda_seeda,     500,        <Channel name: kaicenat>,       2024-11-07 01:25:02.318532 
+
+ seeda_seeda,     he’s stealing,        <Channel name: kaicenat>,       2024-11-07 02:40:36.690950 

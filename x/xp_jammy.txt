@@ -1,0 +1,18 @@
+
+ xp_jammy,     yes,        <Channel name: kaicenat>,       2024-11-07 01:40:17.621224 
+
+ xp_jammy,     YES,        <Channel name: kaicenat>,       2024-11-07 01:43:19.127428 
+
+ xp_jammy,     30 sec good,        <Channel name: kaicenat>,       2024-11-07 01:43:40.917201 
+
+ xp_jammy,     30 sec,        <Channel name: kaicenat>,       2024-11-07 01:43:52.363544 
+
+ xp_jammy,     poll it,        <Channel name: kaicenat>,       2024-11-07 01:44:40.773462 
+
+ xp_jammy,     30 secs,        <Channel name: kaicenat>,       2024-11-07 01:45:00.653540 
+
+ xp_jammy,     you good gang,        <Channel name: kaicenat>,       2024-11-07 01:52:09.495960 
+
+ xp_jammy,     you got this,        <Channel name: kaicenat>,       2024-11-07 01:52:14.300524 
+
+ xp_jammy,     100+ more to go,        <Channel name: kaicenat>,       2024-11-07 02:03:04.522507 

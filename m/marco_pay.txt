@@ -1,0 +1,6 @@
+
+ marco_pay,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 01:56:18.980579 
+
+ marco_pay,     AAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:09:01.723226 
+
+ marco_pay,     cinco peso XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:16:15.974736 

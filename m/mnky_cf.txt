@@ -1,0 +1,10 @@
+
+ mnky_cf,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:58.977957 
+
+ mnky_cf,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:27.760588 
+
+ mnky_cf,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:04.124045 
+
+ mnky_cf,     skibidii,        <Channel name: clix>,       2024-11-07 02:01:39.331231 
+
+ mnky_cf,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:46.174899 

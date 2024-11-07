@@ -1,0 +1,12 @@
+
+ bolillo_abl,     5000,        <Channel name: aldo_geo>,       2024-11-07 01:58:28.182193 
+
+ bolillo_abl,     que no se te acabe el tiempo porque te saca,        <Channel name: aldo_geo>,       2024-11-07 02:04:06.374507 
+
+ bolillo_abl,     la partida,        <Channel name: aldo_geo>,       2024-11-07 02:39:28.037914 
+
+ bolillo_abl,     Usa el helicoptero,        <Channel name: aldo_geo>,       2024-11-07 02:49:38.387592 
+
+ bolillo_abl,     El heli le baja mucha vida,        <Channel name: aldo_geo>,       2024-11-07 02:50:08.083819 
+
+ bolillo_abl,     El heli,        <Channel name: aldo_geo>,       2024-11-07 02:50:44.031737 

@@ -1,0 +1,26 @@
+
+ nettspend_nuggets,     uuh,        <Channel name: plaqueboymax>,       2024-11-07 01:40:51.383395 
+
+ nettspend_nuggets,     RON COOKEDD,        <Channel name: plaqueboymax>,       2024-11-07 01:41:44.181872 
+
+ nettspend_nuggets,     DTM,        <Channel name: plaqueboymax>,       2024-11-07 01:43:58.475706 
+
+ nettspend_nuggets,     THE J,        <Channel name: plaqueboymax>,       2024-11-07 01:44:08.448115 
+
+ nettspend_nuggets,     WORD TO BRO DONT TALK BOUT THE J,        <Channel name: plaqueboymax>,       2024-11-07 01:44:35.169430 
+
+ nettspend_nuggets,     NAHHH IM FROM THE J THOOO,        <Channel name: plaqueboymax>,       2024-11-07 01:45:01.930829 
+
+ nettspend_nuggets,     AYE,        <Channel name: plaqueboymax>,       2024-11-07 01:49:14.874546 
+
+ nettspend_nuggets,     ADA,        <Channel name: plaqueboymax>,       2024-11-07 01:57:17.815405 
+
+ nettspend_nuggets,     WWWWW,        <Channel name: plaqueboymax>,       2024-11-07 01:57:36.305428 
+
+ nettspend_nuggets,     KPOP,        <Channel name: plaqueboymax>,       2024-11-07 01:59:10.162884 
+
+ nettspend_nuggets,     PHONK,        <Channel name: plaqueboymax>,       2024-11-07 02:01:48.848044 
+
+ nettspend_nuggets,     FAZE OV,        <Channel name: plaqueboymax>,       2024-11-07 02:05:27.927573 
+
+ nettspend_nuggets,     ta,        <Channel name: plaqueboymax>,       2024-11-07 02:06:29.764760 

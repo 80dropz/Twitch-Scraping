@@ -1,0 +1,6 @@
+
+ fs_oscar,     !cc,        <Channel name: clix>,       2024-11-07 02:45:13.590311 
+
+ fs_oscar,     catLick,        <Channel name: clix>,       2024-11-07 02:45:28.596145 
+
+ fs_oscar,     feldy ever think of doing a bikini contest?,        <Channel name: clix>,       2024-11-07 02:47:38.543198 

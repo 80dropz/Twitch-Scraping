@@ -1,0 +1,6 @@
+
+ whitedell_,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:43.676837 
+
+ whitedell_,     XD,        <Channel name: aldo_geo>,       2024-11-07 02:45:19.755264 
+
+ whitedell_,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:50:25.569420 

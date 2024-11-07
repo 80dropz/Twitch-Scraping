@@ -1,0 +1,26 @@
+
+ stun72,     GET OUTTW,        <Channel name: clix>,       2024-11-07 01:42:01.551088 
+
+ stun72,     GET OUT,        <Channel name: clix>,       2024-11-07 01:42:05.999604 
+
+ stun72,     NOT READY,        <Channel name: clix>,       2024-11-07 01:42:47.394983 
+
+ stun72,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:47.841033 
+
+ stun72,     GULP,        <Channel name: clix>,       2024-11-07 01:42:48.062504 
+
+ stun72,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:50.905401 
+
+ stun72,     bot,        <Channel name: clix>,       2024-11-07 02:03:37.801771 
+
+ stun72,     pfffffft,        <Channel name: clix>,       2024-11-07 02:08:31.250703 
+
+ stun72,     TWITCH WHISPER HIM,        <Channel name: clix>,       2024-11-07 02:11:09.974464 
+
+ stun72,     SCAM,        <Channel name: clix>,       2024-11-07 02:12:42.872608 
+
+ stun72,     SCAM?,        <Channel name: clix>,       2024-11-07 02:12:56.698745 
+
+ stun72,     LUL,        <Channel name: clix>,       2024-11-07 02:16:23.403675 
+
+ stun72,     feldy react channel when?,        <Channel name: clix>,       2024-11-07 02:34:03.170419 

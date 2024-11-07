@@ -1,0 +1,8 @@
+
+ castro_ic,     Spin again,        <Channel name: kaicenat>,       2024-11-07 01:31:43.386905 
+
+ castro_ic,     225k incoming,        <Channel name: kaicenat>,       2024-11-07 01:33:37.215868 
+
+ castro_ic,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:39:40.016127 
+
+ castro_ic,     You and Rakai split the push ups,        <Channel name: kaicenat>,       2024-11-07 01:46:25.207794 

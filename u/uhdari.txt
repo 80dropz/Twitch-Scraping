@@ -1,0 +1,4 @@
+
+ uhdari,     up down 1,        <Channel name: kaicenat>,       2024-11-07 01:56:21.237905 
+
+ uhdari,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:07.866227 

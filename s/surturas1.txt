@@ -1,0 +1,4 @@
+
+ surturas1,     !subaton,        <Channel name: kaicenat>,       2024-11-07 02:27:10.205796 
+
+ surturas1,     !Subathon,        <Channel name: kaicenat>,       2024-11-07 02:27:30.655635 

@@ -1,0 +1,4 @@
+
+ vctsh,     wheres the outdoor gids,        <Channel name: clix>,       2024-11-07 02:51:09.551934 
+
+ vctsh,     vids,        <Channel name: clix>,       2024-11-07 02:51:11.640762 

@@ -1,0 +1,6 @@
+
+ emma_banana1,     No,        <Channel name: caseoh_>,       2024-11-07 01:41:39.549091 
+
+ emma_banana1,     Rigged,        <Channel name: caseoh_>,       2024-11-07 01:44:12.782662 
+
+ emma_banana1,     L,        <Channel name: caseoh_>,       2024-11-07 01:49:32.798763 

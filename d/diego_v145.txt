@@ -1,0 +1,10 @@
+
+ diego_v145,     ICANT ICANT,        <Channel name: aldo_geo>,       2024-11-07 02:16:29.833894 
+
+ diego_v145,     ICANT ICANT ICANT,        <Channel name: aldo_geo>,       2024-11-07 02:16:52.274410 
+
+ diego_v145,     Dude,        <Channel name: aldo_geo>,       2024-11-07 02:45:23.238888 
+
+ diego_v145,     PepoThink PepoThink,        <Channel name: aldo_geo>,       2024-11-07 02:50:33.248017 
+
+ diego_v145,     totem,        <Channel name: aldo_geo>,       2024-11-07 02:51:18.679165 

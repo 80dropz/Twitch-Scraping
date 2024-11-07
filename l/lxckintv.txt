@@ -1,0 +1,12 @@
+
+ lxckintv,     spilt or steal,        <Channel name: kaicenat>,       2024-11-07 01:38:10.170197 
+
+ lxckintv,     20 seconds,        <Channel name: kaicenat>,       2024-11-07 01:43:34.409808 
+
+ lxckintv,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:43:43.587500 
+
+ lxckintv,     30,        <Channel name: kaicenat>,       2024-11-07 01:43:52.532553 
+
+ lxckintv,     yes,        <Channel name: kaicenat>,       2024-11-07 01:43:57.800416 
+
+ lxckintv,     30 seconds,        <Channel name: kaicenat>,       2024-11-07 01:45:07.290048 

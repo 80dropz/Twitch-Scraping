@@ -1,0 +1,8 @@
+
+ bcal_t1,     L stream ? what happened,        <Channel name: kaicenat>,       2024-11-07 01:52:35.665167 
+
+ bcal_t1,     KEKW,        <Channel name: summit1g>,       2024-11-07 02:06:26.454558 
+
+ bcal_t1,     Sound board ?,        <Channel name: summit1g>,       2024-11-07 02:06:41.661475 
+
+ bcal_t1,     ITs fox hole guy ? KEK,        <Channel name: summit1g>,       2024-11-07 02:06:58.804024 

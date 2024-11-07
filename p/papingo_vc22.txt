@@ -1,0 +1,6 @@
+
+ papingo_vc22,     Junta para un arma nivel 3 y chaleco papu,        <Channel name: aldo_geo>,       2024-11-07 02:11:03.359797 
+
+ papingo_vc22,     Es la rareza de la pistola por eso no pega tanto,        <Channel name: aldo_geo>,       2024-11-07 02:17:36.530158 
+
+ papingo_vc22,     Te deja muni ion en frente y tienes avión artillero papu,        <Channel name: aldo_geo>,       2024-11-07 02:52:47.415154 

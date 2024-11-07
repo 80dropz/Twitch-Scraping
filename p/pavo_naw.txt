@@ -1,0 +1,18 @@
+
+ pavo_naw,     yes,        <Channel name: clix>,       2024-11-07 01:48:01.981859 
+
+ pavo_naw,     mhm,        <Channel name: clix>,       2024-11-07 01:48:05.272053 
+
+ pavo_naw,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:39.122270 
+
+ pavo_naw,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:47.308883 
+
+ pavo_naw,     yes,        <Channel name: clix>,       2024-11-07 01:57:22.209940 
+
+ pavo_naw,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:56.671966 
+
+ pavo_naw,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:00.573899 
+
+ pavo_naw,     BOT,        <Channel name: clix>,       2024-11-07 02:03:22.486984 
+
+ pavo_naw,     BBC IN THE CHAT PLEASE,        <Channel name: clix>,       2024-11-07 02:04:54.694351 

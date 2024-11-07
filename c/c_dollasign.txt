@@ -1,0 +1,24 @@
+
+ c_dollasign,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:16.275958 
+
+ c_dollasign,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:59:31.444666 
+
+ c_dollasign,     SKIBIDII,        <Channel name: clix>,       2024-11-07 02:00:04.769001 
+
+ c_dollasign,     SKBIDI,        <Channel name: clix>,       2024-11-07 02:00:15.668263 
+
+ c_dollasign,     Skibidi,        <Channel name: clix>,       2024-11-07 02:00:27.416319 
+
+ c_dollasign,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:14.241037 
+
+ c_dollasign,     Skibidi,        <Channel name: clix>,       2024-11-07 02:02:18.496030 
+
+ c_dollasign,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:42.774627 
+
+ c_dollasign,     thats a bot,        <Channel name: clix>,       2024-11-07 02:03:08.176989 
+
+ c_dollasign,     BOT,        <Channel name: clix>,       2024-11-07 02:03:12.919716 
+
+ c_dollasign,     BOTTT,        <Channel name: clix>,       2024-11-07 02:03:18.342818 
+
+ c_dollasign,     thats a bot,        <Channel name: clix>,       2024-11-07 02:03:49.184999 

@@ -1,0 +1,4 @@
+
+ vpgordo,     L,        <Channel name: kaicenat>,       2024-11-07 02:21:37.477793 
+
+ vpgordo,     LL,        <Channel name: kaicenat>,       2024-11-07 02:21:58.335959 

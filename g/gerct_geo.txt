@@ -1,0 +1,4 @@
+
+ gerct_geo,     La pistola,        <Channel name: aldo_geo>,       2024-11-07 02:34:37.224941 
+
+ gerct_geo,     Monos,        <Channel name: aldo_geo>,       2024-11-07 02:45:00.899103 

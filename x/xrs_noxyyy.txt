@@ -1,0 +1,12 @@
+
+ xrs_noxyyy,     less go,        <Channel name: clix>,       2024-11-07 01:42:47.726063 
+
+ xrs_noxyyy,     mhmm,        <Channel name: clix>,       2024-11-07 01:48:06.899900 
+
+ xrs_noxyyy,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:51:37.832205 
+
+ xrs_noxyyy,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:55.201428 
+
+ xrs_noxyyy,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:37.843491 
+
+ xrs_noxyyy,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:45.497349 

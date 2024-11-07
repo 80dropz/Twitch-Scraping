@@ -1,0 +1,4 @@
+
+ a1sinceday11111,     Its off balance,        <Channel name: kaicenat>,       2024-11-07 01:34:31.522610 
+
+ a1sinceday11111,     Its not weighted correctly,        <Channel name: kaicenat>,       2024-11-07 01:34:40.296988 

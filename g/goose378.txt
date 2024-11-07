@@ -1,0 +1,8 @@
+
+ goose378,     DTM,        <Channel name: plaqueboymax>,       2024-11-07 01:51:55.091918 
+
+ goose378,     WW ADA,        <Channel name: plaqueboymax>,       2024-11-07 01:57:01.510070 
+
+ goose378,     GAME NIGHT,        <Channel name: plaqueboymax>,       2024-11-07 02:02:18.131955 
+
+ goose378,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:16.941266 

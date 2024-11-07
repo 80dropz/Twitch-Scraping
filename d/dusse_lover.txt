@@ -1,0 +1,16 @@
+
+ dusse_lover,     15,        <Channel name: kaicenat>,       2024-11-07 01:40:13.885092 
+
+ dusse_lover,     15sec,        <Channel name: kaicenat>,       2024-11-07 01:40:21.206414 
+
+ dusse_lover,     15 seconds,        <Channel name: kaicenat>,       2024-11-07 01:41:36.837225 
+
+ dusse_lover,     noooooooo,        <Channel name: kaicenat>,       2024-11-07 01:43:34.132684 
+
+ dusse_lover,     15 sec,        <Channel name: kaicenat>,       2024-11-07 01:43:40.007473 
+
+ dusse_lover,     15-20 sec,        <Channel name: kaicenat>,       2024-11-07 01:43:45.497809 
+
+ dusse_lover,     15-20,        <Channel name: kaicenat>,       2024-11-07 01:44:09.957338 
+
+ dusse_lover,     poll,        <Channel name: kaicenat>,       2024-11-07 01:45:16.747283 

@@ -1,0 +1,10 @@
+
+ john_vr7,     skibiti,        <Channel name: clix>,       2024-11-07 01:57:09.925285 
+
+ john_vr7,     skibiti,        <Channel name: clix>,       2024-11-07 01:57:23.059098 
+
+ john_vr7,     SKIBITI,        <Channel name: clix>,       2024-11-07 01:57:36.466156 
+
+ john_vr7,     skibiti,        <Channel name: clix>,       2024-11-07 01:59:22.852529 
+
+ john_vr7,     skibiti,        <Channel name: clix>,       2024-11-07 01:59:32.571904 

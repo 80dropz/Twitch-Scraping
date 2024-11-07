@@ -1,0 +1,6 @@
+
+ aasisjay,     !game,        <Channel name: oatley>,       2024-11-07 02:32:46.248945 
+
+ aasisjay,     !match,        <Channel name: oatley>,       2024-11-07 02:32:56.387534 
+
+ aasisjay,     cap,        <Channel name: faxuty>,       2024-11-07 02:45:26.085624 

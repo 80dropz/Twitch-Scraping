@@ -1,0 +1,6 @@
+
+ agilefunk,     JAX,        <Channel name: plaqueboymax>,       2024-11-07 01:42:19.343660 
+
+ agilefunk,     ENCORE,        <Channel name: plaqueboymax>,       2024-11-07 01:48:01.084389 
+
+ agilefunk,     COWBOYBOOTS,        <Channel name: plaqueboymax>,       2024-11-07 01:58:35.246212 

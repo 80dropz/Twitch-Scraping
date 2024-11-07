@@ -1,0 +1,14 @@
+
+ da_king_101,     kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 02:44:44.094066 
+
+ da_king_101,     kaicForhead kaicForhead kaicForhead,        <Channel name: kaicenat>,       2024-11-07 02:44:52.382794 
+
+ da_king_101,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 02:45:08.778042 
+
+ da_king_101,     kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 02:45:11.733710 
+
+ da_king_101,     kaicDYK kaicDYK,        <Channel name: kaicenat>,       2024-11-07 02:45:15.326828 
+
+ da_king_101,     kaicSoft,        <Channel name: kaicenat>,       2024-11-07 02:45:17.752675 
+
+ da_king_101,     kaicPrime,        <Channel name: kaicenat>,       2024-11-07 02:45:21.908819 

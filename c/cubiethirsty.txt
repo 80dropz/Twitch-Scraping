@@ -1,0 +1,4 @@
+
+ cubiethirsty,     !sub,        <Channel name: kaicenat>,       2024-11-07 01:41:20.275042 
+
+ cubiethirsty,     sub,        <Channel name: kaicenat>,       2024-11-07 01:41:23.308721 

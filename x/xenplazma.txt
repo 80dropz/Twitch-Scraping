@@ -1,0 +1,14 @@
+
+ xenplazma,     whats happening,        <Channel name: clix>,       2024-11-07 01:41:30.822541 
+
+ xenplazma,     ads bro ads,        <Channel name: clix>,       2024-11-07 01:42:48.851719 
+
+ xenplazma,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:10.955002 
+
+ xenplazma,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:37.650163 
+
+ xenplazma,     bot,        <Channel name: clix>,       2024-11-07 02:03:06.458516 
+
+ xenplazma,     hey,        <Channel name: clix>,       2024-11-07 02:03:38.074370 
+
+ xenplazma,     heyy,        <Channel name: clix>,       2024-11-07 02:03:43.098434 

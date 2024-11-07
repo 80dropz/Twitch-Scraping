@@ -1,0 +1,12 @@
+
+ norwood101,     33,        <Channel name: kaicenat>,       2024-11-07 02:01:12.344992 
+
+ norwood101,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:57.640085 
+
+ norwood101,     61,        <Channel name: kaicenat>,       2024-11-07 02:04:01.497717 
+
+ norwood101,     69 no diddy,        <Channel name: kaicenat>,       2024-11-07 02:04:55.089605 
+
+ norwood101,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:38.080848 
+
+ norwood101,     83,        <Channel name: kaicenat>,       2024-11-07 02:07:22.604678 

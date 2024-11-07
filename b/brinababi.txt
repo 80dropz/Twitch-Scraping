@@ -1,0 +1,6 @@
+
+ brinababi,     join cord,        <Channel name: silky>,       2024-11-07 02:12:12.778668 
+
+ brinababi,     join corf,        <Channel name: silky>,       2024-11-07 02:12:58.619296 
+
+ brinababi,     join cord,        <Channel name: silky>,       2024-11-07 02:13:02.552503 

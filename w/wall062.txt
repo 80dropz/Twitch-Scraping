@@ -1,0 +1,32 @@
+
+ wall062,     !vanish,        <Channel name: faxuty>,       2024-11-07 01:44:11.483111 
+
+ wall062,     yo,        <Channel name: faxuty>,       2024-11-07 01:44:22.640607 
+
+ wall062,     LMAO,        <Channel name: faxuty>,       2024-11-07 01:46:38.001366 
+
+ wall062,     LMAO,        <Channel name: faxuty>,       2024-11-07 01:48:06.723327 
+
+ wall062,     uhhh,        <Channel name: faxuty>,       2024-11-07 01:48:40.443783 
+
+ wall062,     ofn,        <Channel name: faxuty>,       2024-11-07 01:54:29.184466 
+
+ wall062,     ??,        <Channel name: faxuty>,       2024-11-07 02:10:49.333482 
+
+ wall062,     ???,        <Channel name: faxuty>,       2024-11-07 02:10:56.553160 
+
+ wall062,     ?',        <Channel name: faxuty>,       2024-11-07 02:17:30.649030 
+
+ wall062,     ????,        <Channel name: faxuty>,       2024-11-07 02:17:31.882314 
+
+ wall062,     ofn,        <Channel name: faxuty>,       2024-11-07 02:18:51.312499 
+
+ wall062,     thug,        <Channel name: faxuty>,       2024-11-07 02:31:21.524397 
+
+ wall062,     fire,        <Channel name: faxuty>,       2024-11-07 02:32:06.326036 
+
+ wall062,     lmao,        <Channel name: faxuty>,       2024-11-07 02:35:29.134823 
+
+ wall062,     @wkeyer2x  sub,        <Channel name: faxuty>,       2024-11-07 02:37:38.401299 
+
+ wall062,     @pops190 trump will fix,        <Channel name: faxuty>,       2024-11-07 02:38:16.615180 

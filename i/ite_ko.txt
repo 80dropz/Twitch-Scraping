@@ -1,0 +1,4 @@
+
+ ite_ko,     KAI YOU MADE IT,        <Channel name: kaicenat>,       2024-11-07 01:18:56.339980 
+
+ ite_ko,     !time,        <Channel name: kaicenat>,       2024-11-07 01:19:33.530788 

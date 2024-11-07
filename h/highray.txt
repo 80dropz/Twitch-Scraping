@@ -1,0 +1,6 @@
+
+ highray,     scruf,        <Channel name: nadeshot>,       2024-11-07 02:18:17.301338 
+
+ highray,     Scruf,        <Channel name: nadeshot>,       2024-11-07 02:18:19.652928 
+
+ highray,     Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:25.923286 

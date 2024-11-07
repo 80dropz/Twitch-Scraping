@@ -1,0 +1,24 @@
+
+ pheenbean3,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:34:52.665365 
+
+ pheenbean3,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:40:21.050373 
+
+ pheenbean3,     poll,        <Channel name: kaicenat>,       2024-11-07 01:44:16.980050 
+
+ pheenbean3,     poll,        <Channel name: kaicenat>,       2024-11-07 01:44:50.718734 
+
+ pheenbean3,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:45:13.386115 
+
+ pheenbean3,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:46:09.974730 
+
+ pheenbean3,     POLL,        <Channel name: kaicenat>,       2024-11-07 01:46:54.367623 
+
+ pheenbean3,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:51:41.441790 
+
+ pheenbean3,     ggs cooked,        <Channel name: kaicenat>,       2024-11-07 01:52:18.173657 
+
+ pheenbean3,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:33.958047 
+
+ pheenbean3,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:20.176913 
+
+ pheenbean3,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:54.066735 

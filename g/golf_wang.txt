@@ -1,0 +1,4 @@
+
+ golf_wang,     dogecoin,        <Channel name: pokelawls>,       2024-11-07 01:49:50.277953 
+
+ golf_wang,     HUH,        <Channel name: pokelawls>,       2024-11-07 01:58:01.384810 

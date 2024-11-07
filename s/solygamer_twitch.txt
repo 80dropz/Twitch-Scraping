@@ -1,0 +1,4 @@
+
+ solygamer_twitch,     spin,        <Channel name: clix>,       2024-11-07 01:42:00.971009 
+
+ solygamer_twitch,     er,        <Channel name: clix>,       2024-11-07 01:42:08.368382 

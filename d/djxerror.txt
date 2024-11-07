@@ -1,0 +1,26 @@
+
+ djxerror,     do a max of 200,        <Channel name: kaicenat>,       2024-11-07 01:42:17.421431 
+
+ djxerror,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:26.874824 
+
+ djxerror,     61!,        <Channel name: kaicenat>,       2024-11-07 02:03:36.828576 
+
+ djxerror,     69!,        <Channel name: kaicenat>,       2024-11-07 02:04:53.447452 
+
+ djxerror,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 02:05:08.518448 
+
+ djxerror,     69!,        <Channel name: kaicenat>,       2024-11-07 02:05:12.657010 
+
+ djxerror,     83!,        <Channel name: kaicenat>,       2024-11-07 02:06:39.001313 
+
+ djxerror,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:44.259789 
+
+ djxerror,     83!!!!,        <Channel name: kaicenat>,       2024-11-07 02:06:50.882453 
+
+ djxerror,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:08:50.479698 
+
+ djxerror,     fanumCLAPPINGHANDS2 fanumCLAPPINGHANDS2 fanumCLAPPINGHANDS2 fanumCLAPPINGHANDS2 fanumCLAPPINGHANDS2 fanumCLAPPINGHANDS2,        <Channel name: kaicenat>,       2024-11-07 02:10:01.190178 
+
+ djxerror,     REST!,        <Channel name: kaicenat>,       2024-11-07 02:10:10.391544 
+
+ djxerror,     YOU NEED REST! IM CALLING MOMMA KAI,        <Channel name: kaicenat>,       2024-11-07 02:11:11.527846 

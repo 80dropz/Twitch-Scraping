@@ -1,0 +1,28 @@
+
+ boris_tc,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:45:14.201869 
+
+ boris_tc,     7 OUT OF 10 ADS WAIT PLS,        <Channel name: kaicenat>,       2024-11-07 01:48:17.119700 
+
+ boris_tc,     no,        <Channel name: kaicenat>,       2024-11-07 01:49:20.906208 
+
+ boris_tc,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:38.821917 
+
+ boris_tc,     sKibidi,        <Channel name: clix>,       2024-11-07 01:56:51.543466 
+
+ boris_tc,     skIbidi,        <Channel name: clix>,       2024-11-07 01:57:01.461215 
+
+ boris_tc,     skiBidi,        <Channel name: clix>,       2024-11-07 01:57:14.628173 
+
+ boris_tc,     L,        <Channel name: clix>,       2024-11-07 01:59:03.256507 
+
+ boris_tc,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:22.364642 
+
+ boris_tc,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:19.016241 
+
+ boris_tc,     wkibidi,        <Channel name: clix>,       2024-11-07 02:02:44.962134 
+
+ boris_tc,     BOT,        <Channel name: clix>,       2024-11-07 02:02:56.863465 
+
+ boris_tc,     ITS A BOT,        <Channel name: clix>,       2024-11-07 02:03:03.044416 
+
+ boris_tc,     @justinbro022,        <Channel name: clix>,       2024-11-07 02:03:43.758087 

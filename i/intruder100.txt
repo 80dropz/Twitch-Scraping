@@ -1,0 +1,6 @@
+
+ intruder100,     GG,        <Channel name: caseoh_>,       2024-11-07 01:43:54.445249 
+
+ intruder100,     get better,        <Channel name: caseoh_>,       2024-11-07 01:44:20.231866 
+
+ intruder100,     cap,        <Channel name: caseoh_>,       2024-11-07 01:46:04.991392 

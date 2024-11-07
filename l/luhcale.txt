@@ -1,0 +1,22 @@
+
+ luhcale,     MUTTED,        <Channel name: plaqueboymax>,       2024-11-07 01:40:58.929628 
+
+ luhcale,     FLU,        <Channel name: plaqueboymax>,       2024-11-07 01:41:49.152702 
+
+ luhcale,     SAJ,        <Channel name: plaqueboymax>,       2024-11-07 01:41:52.513284 
+
+ luhcale,     ome32,        <Channel name: plaqueboymax>,       2024-11-07 01:42:08.302058 
+
+ luhcale,     PLAYING IN THE SNOW,        <Channel name: plaqueboymax>,       2024-11-07 01:47:58.587856 
+
+ luhcale,     ADAAAAAA,        <Channel name: plaqueboymax>,       2024-11-07 01:56:43.582022 
+
+ luhcale,     country,        <Channel name: plaqueboymax>,       2024-11-07 01:59:02.490260 
+
+ luhcale,     jazz,        <Channel name: plaqueboymax>,       2024-11-07 01:59:19.139237 
+
+ luhcale,     JAZZ,        <Channel name: plaqueboymax>,       2024-11-07 01:59:47.747980 
+
+ luhcale,     POP,        <Channel name: plaqueboymax>,       2024-11-07 02:00:05.747171 
+
+ luhcale,     MAKE POLL,        <Channel name: plaqueboymax>,       2024-11-07 02:00:36.728233 

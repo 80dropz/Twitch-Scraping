@@ -1,0 +1,22 @@
+
+ the_case_34,     lag,        <Channel name: caseoh_>,       2024-11-07 01:40:13.491543 
+
+ the_case_34,     L SMOKING,        <Channel name: caseoh_>,       2024-11-07 01:46:36.370171 
+
+ the_case_34,     IMAGINE DYING TO LOOK COOL,        <Channel name: caseoh_>,       2024-11-07 01:46:47.139687 
+
+ the_case_34,     NAH BRO IS ACTING LIKE BABIES,        <Channel name: caseoh_>,       2024-11-07 01:48:20.041566 
+
+ the_case_34,     SEND HER,        <Channel name: caseoh_>,       2024-11-07 01:51:52.608658 
+
+ the_case_34,     LOL,        <Channel name: caseoh_>,       2024-11-07 01:51:57.201320 
+
+ the_case_34,     WW CLUTCH,        <Channel name: caseoh_>,       2024-11-07 01:54:15.914741 
+
+ the_case_34,     ws,        <Channel name: caseoh_>,       2024-11-07 01:58:24.892312 
+
+ the_case_34,     bye cya,        <Channel name: caseoh_>,       2024-11-07 01:59:05.373590 
+
+ the_case_34,     case love you,        <Channel name: caseoh_>,       2024-11-07 01:59:16.541620 
+
+ the_case_34,     nah bro there is no stream,        <Channel name: caseoh_>,       2024-11-07 02:50:24.206077 

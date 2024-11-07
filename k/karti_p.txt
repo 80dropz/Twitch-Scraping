@@ -1,0 +1,4 @@
+
+ karti_p,     call sosa in for backup,        <Channel name: silky>,       2024-11-07 01:44:54.404242 
+
+ karti_p,     silky boutta crash out,        <Channel name: plaqueboymax>,       2024-11-07 01:45:09.326447 

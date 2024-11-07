@@ -1,0 +1,8 @@
+
+ moezb3o,     !com,        <Channel name: clix>,       2024-11-07 01:39:38.799404 
+
+ moezb3o,     !community,        <Channel name: clix>,       2024-11-07 01:39:50.744051 
+
+ moezb3o,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:38.759497 
+
+ moezb3o,     hi,        <Channel name: oatley>,       2024-11-07 02:11:58.287610 

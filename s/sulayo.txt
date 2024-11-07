@@ -1,0 +1,22 @@
+
+ sulayo,     Tes,        <Channel name: caseoh_>,       2024-11-07 01:39:42.762791 
+
+ sulayo,     Yay,        <Channel name: caseoh_>,       2024-11-07 01:39:45.960345 
+
+ sulayo,     Yippee,        <Channel name: caseoh_>,       2024-11-07 01:39:52.002479 
+
+ sulayo,     Eepiy,        <Channel name: caseoh_>,       2024-11-07 01:40:06.578986 
+
+ sulayo,     Ipieey,        <Channel name: caseoh_>,       2024-11-07 01:40:21.719267 
+
+ sulayo,     Ipyeei,        <Channel name: caseoh_>,       2024-11-07 01:40:32.970838 
+
+ sulayo,     Nah,        <Channel name: caseoh_>,       2024-11-07 01:46:31.065398 
+
+ sulayo,     L,        <Channel name: caseoh_>,       2024-11-07 01:49:23.463449 
+
+ sulayo,     Refund,        <Channel name: caseoh_>,       2024-11-07 01:49:31.944390 
+
+ sulayo,     Fax,        <Channel name: caseoh_>,       2024-11-07 01:49:51.960348 
+
+ sulayo,     Facx,        <Channel name: caseoh_>,       2024-11-07 01:50:09.606724 

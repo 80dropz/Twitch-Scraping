@@ -1,0 +1,42 @@
+
+ hiddenbutz,     RED,        <Channel name: clix>,       2024-11-07 01:41:07.537947 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:54.747646 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:54:03.889856 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:07.401098 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:54:33.414692 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:38.206874 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:46.970986 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:55:53.126149 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:58:20.638696 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:30.509889 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:56.566465 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:00:01.323399 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:14.069939 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:00:22.220149 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:57.709971 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:02.550524 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:10.648230 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:15.185198 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:23.045723 
+
+ hiddenbutz,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:55.614916 
+
+ hiddenbutz,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:25.879343 

@@ -1,0 +1,12 @@
+
+ silvertostada_r,     XDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:00:54.034411 
+
+ silvertostada_r,     XD,        <Channel name: aldo_geo>,       2024-11-07 02:06:17.992725 
+
+ silvertostada_r,     GG,        <Channel name: aldo_geo>,       2024-11-07 02:31:20.337269 
+
+ silvertostada_r,     ??,        <Channel name: aldo_geo>,       2024-11-07 02:53:27.057116 
+
+ silvertostada_r,     uuh,        <Channel name: aldo_geo>,       2024-11-07 02:53:30.857797 
+
+ silvertostada_r,     bro??,        <Channel name: aldo_geo>,       2024-11-07 02:53:44.025561 

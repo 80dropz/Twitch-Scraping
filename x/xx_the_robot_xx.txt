@@ -1,0 +1,10 @@
+
+ xx_the_robot_xx,     smii7y,        <Channel name: grizzy>,       2024-11-07 01:46:38.480692 
+
+ xx_the_robot_xx,     it's 4pm for me,        <Channel name: grizzy>,       2024-11-07 01:48:01.574306 
+
+ xx_the_robot_xx,     wow,        <Channel name: grizzy>,       2024-11-07 01:50:07.344238 
+
+ xx_the_robot_xx,     W,        <Channel name: grizzy>,       2024-11-07 01:50:10.490760 
+
+ xx_the_robot_xx,     fun,        <Channel name: grizzy>,       2024-11-07 01:53:05.695083 

@@ -1,0 +1,16 @@
+
+ arianomg1011,     rap,        <Channel name: jasontheween>,       2024-11-07 02:00:01.147250 
+
+ arianomg1011,     RAP,        <Channel name: jasontheween>,       2024-11-07 02:00:05.662221 
+
+ arianomg1011,     RAPRAP,        <Channel name: jasontheween>,       2024-11-07 02:00:33.074201 
+
+ arianomg1011,     RAP,        <Channel name: jasontheween>,       2024-11-07 02:00:39.086815 
+
+ arianomg1011,     RAPRAP,        <Channel name: jasontheween>,       2024-11-07 02:00:44.832828 
+
+ arianomg1011,     RAP,        <Channel name: jasontheween>,       2024-11-07 02:00:46.003853 
+
+ arianomg1011,     unmutr,        <Channel name: jasontheween>,       2024-11-07 02:01:01.800317 
+
+ arianomg1011,     um,ute,        <Channel name: jasontheween>,       2024-11-07 02:01:12.553081 

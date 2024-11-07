@@ -1,0 +1,54 @@
+
+ xset_ashton,     wwwww,        <Channel name: clix>,       2024-11-07 01:42:57.342638 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:48.461697 
+
+ xset_ashton,     wwwwww,        <Channel name: clix>,       2024-11-07 01:51:57.367474 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:04.571816 
+
+ xset_ashton,     Skibidi,        <Channel name: clix>,       2024-11-07 01:52:40.940432 
+
+ xset_ashton,     w,        <Channel name: clix>,       2024-11-07 01:55:52.302838 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:59.680075 
+
+ xset_ashton,     wwww,        <Channel name: clix>,       2024-11-07 01:56:14.611439 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:31.386757 
+
+ xset_ashton,     respin.,        <Channel name: clix>,       2024-11-07 01:57:27.266009 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:26.024610 
+
+ xset_ashton,     yes,        <Channel name: clix>,       2024-11-07 01:58:30.469107 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:55.662954 
+
+ xset_ashton,     he is,        <Channel name: clix>,       2024-11-07 02:00:02.460124 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:13.603124 
+
+ xset_ashton,     bot,        <Channel name: clix>,       2024-11-07 02:00:31.295666 
+
+ xset_ashton,     botttttt,        <Channel name: clix>,       2024-11-07 02:00:39.725033 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:54.170271 
+
+ xset_ashton,     @feldy rt,        <Channel name: clix>,       2024-11-07 02:02:18.274008 
+
+ xset_ashton,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:30.947259 
+
+ xset_ashton,     mute it,        <Channel name: clix>,       2024-11-07 02:14:52.242328 
+
+ xset_ashton,     mute it noowwwww,        <Channel name: clix>,       2024-11-07 02:15:00.567016 
+
+ xset_ashton,     yesss,        <Channel name: clix>,       2024-11-07 02:15:06.301641 
+
+ xset_ashton,     yes pkease,        <Channel name: clix>,       2024-11-07 02:15:10.047672 
+
+ xset_ashton,     fran,        <Channel name: clix>,       2024-11-07 02:15:14.725965 
+
+ xset_ashton,     we want fran,        <Channel name: clix>,       2024-11-07 02:15:19.624439 
+
+ xset_ashton,     yes,        <Channel name: clix>,       2024-11-07 02:15:59.693082 

@@ -1,0 +1,6 @@
+
+ chumiwan,     andale,        <Channel name: aldo_geo>,       2024-11-07 02:01:01.546532 
+
+ chumiwan,     ??/,        <Channel name: aldo_geo>,       2024-11-07 02:07:01.383070 
+
+ chumiwan,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:37.645252 

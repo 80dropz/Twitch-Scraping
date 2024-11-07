@@ -1,0 +1,10 @@
+
+ johnny_nto,     BLUE,        <Channel name: kaicenat>,       2024-11-07 01:33:06.810824 
+
+ johnny_nto,     PRE BLUE,        <Channel name: kaicenat>,       2024-11-07 01:33:12.119244 
+
+ johnny_nto,     cmonBruh cmonBruh cmonBruh,        <Channel name: kaicenat>,       2024-11-07 01:33:21.320123 
+
+ johnny_nto,     kaicStare,        <Channel name: kaicenat>,       2024-11-07 01:33:25.669079 
+
+ johnny_nto,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:49:59.433410 

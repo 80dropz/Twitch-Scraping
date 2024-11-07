@@ -1,0 +1,12 @@
+
+ clixgoat169,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.092450 
+
+ clixgoat169,     NOWAY,        <Channel name: clix>,       2024-11-07 01:43:03.377635 
+
+ clixgoat169,     NOWAYY,        <Channel name: clix>,       2024-11-07 01:43:10.539037 
+
+ clixgoat169,     GOODNIGHT,        <Channel name: clix>,       2024-11-07 01:45:00.599144 
+
+ clixgoat169,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:06.892985 
+
+ clixgoat169,     1,        <Channel name: clix>,       2024-11-07 02:08:13.290563 

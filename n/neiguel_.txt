@@ -1,0 +1,24 @@
+
+ neiguel_,     need a pin,        <Channel name: clix>,       2024-11-07 01:50:01.590780 
+
+ neiguel_,     skibidi.,        <Channel name: clix>,       2024-11-07 01:51:48.744981 
+
+ neiguel_,     sikibidi,        <Channel name: clix>,       2024-11-07 01:56:09.058985 
+
+ neiguel_,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:15.838411 
+
+ neiguel_,     yes,        <Channel name: clix>,       2024-11-07 01:57:03.233235 
+
+ neiguel_,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:23.228438 
+
+ neiguel_,     yes,        <Channel name: clix>,       2024-11-07 01:58:09.529080 
+
+ neiguel_,     Bot,        <Channel name: clix>,       2024-11-07 01:59:10.254410 
+
+ neiguel_,     Skibidi,        <Channel name: clix>,       2024-11-07 02:00:19.437187 
+
+ neiguel_,     Bot,        <Channel name: clix>,       2024-11-07 02:00:42.176092 
+
+ neiguel_,     skibidI,        <Channel name: clix>,       2024-11-07 02:02:01.502330 
+
+ neiguel_,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:06.619789 

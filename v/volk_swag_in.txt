@@ -1,0 +1,10 @@
+
+ volk_swag_in,     ads,        <Channel name: clix>,       2024-11-07 01:42:50.879996 
+
+ volk_swag_in,     fucking ads,        <Channel name: clix>,       2024-11-07 01:43:10.212279 
+
+ volk_swag_in,     2,        <Channel name: clix>,       2024-11-07 02:08:14.073617 
+
+ volk_swag_in,     yes,        <Channel name: clix>,       2024-11-07 02:16:55.718839 
+
+ volk_swag_in,     no,        <Channel name: clix>,       2024-11-07 02:17:49.180200 

@@ -1,0 +1,4 @@
+
+ rolly2x,     50 exact,        <Channel name: kaicenat>,       2024-11-07 02:03:02.452777 
+
+ rolly2x,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:51.160542 

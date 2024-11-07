@@ -1,0 +1,4 @@
+
+ floopa_twitch,     ROJAX,        <Channel name: jasontheween>,       2024-11-07 01:57:12.941275 
+
+ floopa_twitch,     COUNTRY,        <Channel name: jasontheween>,       2024-11-07 01:59:07.953078 

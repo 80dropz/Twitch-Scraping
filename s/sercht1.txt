@@ -1,0 +1,6 @@
+
+ sercht1,     la pistola por el daño de area,        <Channel name: aldo_geo>,       2024-11-07 02:34:17.550120 
+
+ sercht1,     por ronda no,        <Channel name: aldo_geo>,       2024-11-07 02:36:30.301014 
+
+ sercht1,     los tentáculos con las esporas,        <Channel name: aldo_geo>,       2024-11-07 02:49:52.393150 

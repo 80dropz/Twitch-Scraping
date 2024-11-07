@@ -1,0 +1,6 @@
+
+ uriellct,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:47:14.124653 
+
+ uriellct,     o7,        <Channel name: aldo_geo>,       2024-11-07 02:48:28.472066 
+
+ uriellct,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:50:10.719875 

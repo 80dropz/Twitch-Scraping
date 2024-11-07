@@ -1,0 +1,6 @@
+
+ fxtal_115,     4th time in a roll,        <Channel name: kaicenat>,       2024-11-07 01:34:40.113698 
+
+ fxtal_115,     white dots,        <Channel name: kaicenat>,       2024-11-07 01:34:56.423669 
+
+ fxtal_115,     pre rigged,        <Channel name: kaicenat>,       2024-11-07 01:35:48.625667 

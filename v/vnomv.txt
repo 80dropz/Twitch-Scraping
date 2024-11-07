@@ -1,0 +1,6 @@
+
+ vnomv,     CHECK POLL,        <Channel name: plaqueboymax>,       2024-11-07 02:04:14.926075 
+
+ vnomv,     RNV,        <Channel name: plaqueboymax>,       2024-11-07 02:07:11.145618 
+
+ vnomv,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 02:07:13.171033 

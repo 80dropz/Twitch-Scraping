@@ -1,0 +1,38 @@
+
+ elmo_s_friend,     mm mercury rcdTasty,        <Channel name: robcdee>,       2024-11-07 01:42:47.081402 
+
+ elmo_s_friend,     BopBop BopBop,        <Channel name: robcdee>,       2024-11-07 01:44:58.751083 
+
+ elmo_s_friend,     muted,        <Channel name: robcdee>,       2024-11-07 01:50:54.012867 
+
+ elmo_s_friend,     SCAMMED,        <Channel name: robcdee>,       2024-11-07 01:54:36.742362 
+
+ elmo_s_friend,     Harold,        <Channel name: robcdee>,       2024-11-07 01:58:14.857215 
+
+ elmo_s_friend,     maimai16Kurukuru maimai16Kurukuru maimai16Kurukuru,        <Channel name: robcdee>,       2024-11-07 02:03:06.648466 
+
+ elmo_s_friend,     holy atpRtsd,        <Channel name: robcdee>,       2024-11-07 02:10:59.312195 
+
+ elmo_s_friend,     nzeroDon DinoDance,        <Channel name: robcdee>,       2024-11-07 02:13:14.485042 
+
+ elmo_s_friend,     Cinema,        <Channel name: robcdee>,       2024-11-07 02:14:37.320606 
+
+ elmo_s_friend,     die hard guy,        <Channel name: robcdee>,       2024-11-07 02:15:10.067290 
+
+ elmo_s_friend,     atpJuntao,        <Channel name: robcdee>,       2024-11-07 02:15:34.816000 
+
+ elmo_s_friend,     @Al3003 MLADY,        <Channel name: robcdee>,       2024-11-07 02:17:06.340750 
+
+ elmo_s_friend,     Squid4,        <Channel name: robcdee>,       2024-11-07 02:17:30.067513 
+
+ elmo_s_friend,     majinoBoogy,        <Channel name: robcdee>,       2024-11-07 02:31:21.435747 
+
+ elmo_s_friend,     atpChar,        <Channel name: robcdee>,       2024-11-07 02:35:20.299906 
+
+ elmo_s_friend,     majinoInstabaddies,        <Channel name: robcdee>,       2024-11-07 02:39:45.095239 
+
+ elmo_s_friend,     rcdHutt nzeroSwipe,        <Channel name: robcdee>,       2024-11-07 02:42:20.871128 
+
+ elmo_s_friend,     goutBeam,        <Channel name: robcdee>,       2024-11-07 02:43:37.883598 
+
+ elmo_s_friend,     maimai16Kurukuru maimai16Kurukuru,        <Channel name: robcdee>,       2024-11-07 02:52:25.162004 

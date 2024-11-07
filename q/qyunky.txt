@@ -1,0 +1,10 @@
+
+ qyunky,     PLANT,        <Channel name: kaicenat>,       2024-11-07 01:56:25.118077 
+
+ qyunky,     IND. PLANT,        <Channel name: kaicenat>,       2024-11-07 01:56:58.152144 
+
+ qyunky,     LLLLLLLLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 01:58:31.385665 
+
+ qyunky,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:00:06.052765 
+
+ qyunky,     33,        <Channel name: kaicenat>,       2024-11-07 02:01:03.216663 

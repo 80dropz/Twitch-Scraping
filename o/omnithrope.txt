@@ -1,0 +1,4 @@
+
+ omnithrope,     X,        <Channel name: summit1g>,       2024-11-07 02:40:00.424179 
+
+ omnithrope,     done,        <Channel name: summit1g>,       2024-11-07 02:41:03.497216 

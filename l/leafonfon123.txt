@@ -1,0 +1,22 @@
+
+ leafonfon123,     WHEAL BROKEN WHEAL BROKENWHEAL BROKEN WHEAL BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:21:43.853981 
+
+ leafonfon123,     WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:11.800388 
+
+ leafonfon123,     WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN WHEAL BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:22:36.288506 
+
+ leafonfon123,     battery controlled,        <Channel name: kaicenat>,       2024-11-07 01:23:15.815023 
+
+ leafonfon123,     battery controled,        <Channel name: kaicenat>,       2024-11-07 01:23:28.474360 
+
+ leafonfon123,     THE WHEAL IS BROKEN,        <Channel name: kaicenat>,       2024-11-07 01:23:34.107328 
+
+ leafonfon123,     THE WHEAL HAS UNEVEN WEIGHT,        <Channel name: kaicenat>,       2024-11-07 01:23:43.264015 
+
+ leafonfon123,     uneven weight,        <Channel name: kaicenat>,       2024-11-07 01:31:52.031067 
+
+ leafonfon123,     uneven weight,        <Channel name: kaicenat>,       2024-11-07 01:32:24.163635 
+
+ leafonfon123,     its gonna keep doing the same,        <Channel name: kaicenat>,       2024-11-07 01:32:58.816880 
+
+ leafonfon123,     uneven weight,        <Channel name: kaicenat>,       2024-11-07 01:33:02.311872 

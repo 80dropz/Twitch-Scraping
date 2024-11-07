@@ -1,0 +1,6 @@
+
+ beberski,     add max,        <Channel name: kaicenat>,       2024-11-07 02:51:47.998927 
+
+ beberski,     max wants to join,        <Channel name: kaicenat>,       2024-11-07 02:51:51.914672 
+
+ beberski,     invite ray,        <Channel name: kaicenat>,       2024-11-07 02:51:55.779484 

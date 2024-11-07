@@ -1,0 +1,6 @@
+
+ lucasonntwitch,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.431600 
+
+ lucasonntwitch,     skibidi],        <Channel name: clix>,       2024-11-07 01:51:45.639434 
+
+ lucasonntwitch,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:23.287856 

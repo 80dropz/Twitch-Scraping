@@ -1,0 +1,2 @@
+
+ horizon921,     sumVac2,        <Channel name: summit1g>,       2024-11-07 02:11:10.151800 

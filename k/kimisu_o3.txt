@@ -1,0 +1,96 @@
+
+ kimisu_o3,     XDDDD,        <Channel name: aldo_geo>,       2024-11-07 01:52:45.672907 
+
+ kimisu_o3,     XDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:00:34.083815 
+
+ kimisu_o3,     Sip,        <Channel name: aldo_geo>,       2024-11-07 02:05:12.612464 
+
+ kimisu_o3,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:06:19.354013 
+
+ kimisu_o3,     AAAAAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:08:29.192510 
+
+ kimisu_o3,     JAJAJAJAJAJAJAJ,        <Channel name: aldo_geo>,       2024-11-07 02:08:45.749659 
+
+ kimisu_o3,     ESOOOOOOOOOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:08:56.318822 
+
+ kimisu_o3,     VAMOOOOOO ALDOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:09:10.811495 
+
+ kimisu_o3,     Ya solo debes armarte,        <Channel name: aldo_geo>,       2024-11-07 02:09:41.548791 
+
+ kimisu_o3,     Sisi,        <Channel name: aldo_geo>,       2024-11-07 02:09:57.533005 
+
+ kimisu_o3,     AAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:13:21.385807 
+
+ kimisu_o3,     XDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:14:14.734982 
+
+ kimisu_o3,     AAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:14:22.357981 
+
+ kimisu_o3,     AAAAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:14:37.241751 
+
+ kimisu_o3,     XDDDDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:41.625695 
+
+ kimisu_o3,     JAJAJAJAJAJAJA,        <Channel name: aldo_geo>,       2024-11-07 02:15:46.295350 
+
+ kimisu_o3,     XDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:16:04.177621 
+
+ kimisu_o3,     Noooooooo,        <Channel name: aldo_geo>,       2024-11-07 02:16:17.401818 
+
+ kimisu_o3,     Alv,        <Channel name: aldo_geo>,       2024-11-07 02:17:30.305179 
+
+ kimisu_o3,     AAAAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:17:37.979942 
+
+ kimisu_o3,     AAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:18:17.235506 
+
+ kimisu_o3,     Alvvv,        <Channel name: aldo_geo>,       2024-11-07 02:32:00.641769 
+
+ kimisu_o3,     Nose la verdad,        <Channel name: aldo_geo>,       2024-11-07 02:36:33.036801 
+
+ kimisu_o3,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:38:04.051044 
+
+ kimisu_o3,     Si we,        <Channel name: aldo_geo>,       2024-11-07 02:38:16.903708 
+
+ kimisu_o3,     Exacto,        <Channel name: aldo_geo>,       2024-11-07 02:38:23.845355 
+
+ kimisu_o3,     XDDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:40:28.850056 
+
+ kimisu_o3,     No lo sé,        <Channel name: aldo_geo>,       2024-11-07 02:42:23.398283 
+
+ kimisu_o3,     Uyyyyy vamooooo,        <Channel name: aldo_geo>,       2024-11-07 02:44:58.062943 
+
+ kimisu_o3,     JAJAJAJAJA,        <Channel name: aldo_geo>,       2024-11-07 02:45:21.106434 
+
+ kimisu_o3,     AAAAAAA VAMOOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:46:18.190345 
+
+ kimisu_o3,     o7 EUUU CONFIOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:47:01.972948 
+
+ kimisu_o3,     ALVVVVVVV,        <Channel name: aldo_geo>,       2024-11-07 02:47:16.067342 
+
+ kimisu_o3,     AAAAAAAAAAAAAA,        <Channel name: aldo_geo>,       2024-11-07 02:47:44.261582 
+
+ kimisu_o3,     DIOSSSS,        <Channel name: aldo_geo>,       2024-11-07 02:48:07.689684 
+
+ kimisu_o3,     I WAS HERE I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:48:22.504726 
+
+ kimisu_o3,     I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:49:05.492217 
+
+ kimisu_o3,     Vamoooo Aldoooo,        <Channel name: aldo_geo>,       2024-11-07 02:49:12.934863 
+
+ kimisu_o3,     I WAS HERE I WAS HERE I WAS HERE o7,        <Channel name: aldo_geo>,       2024-11-07 02:50:05.862882 
+
+ kimisu_o3,     NOOOOOOOO,        <Channel name: aldo_geo>,       2024-11-07 02:50:20.932773 
+
+ kimisu_o3,     GGs,        <Channel name: aldo_geo>,       2024-11-07 02:50:24.052847 
+
+ kimisu_o3,     XDDDDDD,        <Channel name: aldo_geo>,       2024-11-07 02:50:39.991684 
+
+ kimisu_o3,     Si se puede si se puedeeee,        <Channel name: aldo_geo>,       2024-11-07 02:50:59.590802 
+
+ kimisu_o3,     Solo aguanta aldoooo,        <Channel name: aldo_geo>,       2024-11-07 02:51:32.317549 
+
+ kimisu_o3,     Alv,        <Channel name: aldo_geo>,       2024-11-07 02:51:38.156647 
+
+ kimisu_o3,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:52:49.802097 
+
+ kimisu_o3,     Uuh,        <Channel name: aldo_geo>,       2024-11-07 02:53:23.619503 
+
+ kimisu_o3,     Jajajajaja,        <Channel name: aldo_geo>,       2024-11-07 02:53:27.873264 

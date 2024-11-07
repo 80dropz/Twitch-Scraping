@@ -1,0 +1,72 @@
+
+ aqua_tv,     YES,        <Channel name: kaicenat>,       2024-11-07 01:57:21.444921 
+
+ aqua_tv,     21,        <Channel name: kaicenat>,       2024-11-07 02:03:20.698149 
+
+ aqua_tv,     BOP BOP BOP,        <Channel name: kaicenat>,       2024-11-07 02:05:42.044988 
+
+ aqua_tv,     BIG JERRY WOO,        <Channel name: kaicenat>,       2024-11-07 02:12:58.854488 
+
+ aqua_tv,     BIG JERRY WOO!~,        <Channel name: kaicenat>,       2024-11-07 02:13:00.282980 
+
+ aqua_tv,     BIG JERRY WOO!!,        <Channel name: kaicenat>,       2024-11-07 02:13:01.662324 
+
+ aqua_tv,     BIG JERRY WOO!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:03.671149 
+
+ aqua_tv,     BIG JERRY WOO!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:04.442377 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:06.052122 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:08.353430 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:10.081124 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:11.420876 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:13.017186 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:14.226043 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:15.597296 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:17.347554 
+
+ aqua_tv,     BIG JERRY WOO!!!!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:13:18.573666 
+
+ aqua_tv,     INVITE RON OVER!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:19:51.840198 
+
+ aqua_tv,     INVITE RON OVER!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:19:53.186174 
+
+ aqua_tv,     INVITE RON OVER!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:19:54.156212 
+
+ aqua_tv,     INVITE RON OVER!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:19:55.415660 
+
+ aqua_tv,     INVITE RON OVER!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:19:57.344815 
+
+ aqua_tv,     INVITE RON OVER!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:20:04.803436 
+
+ aqua_tv,     INVITE RON OVER!!!!!,        <Channel name: kaicenat>,       2024-11-07 02:20:06.271652 
+
+ aqua_tv,     INVITE RON OVER!!,        <Channel name: kaicenat>,       2024-11-07 02:20:07.527647 
+
+ aqua_tv,     INVITE RON OVER,        <Channel name: kaicenat>,       2024-11-07 02:20:08.720707 
+
+ aqua_tv,     INVITE RON OVER!,        <Channel name: kaicenat>,       2024-11-07 02:20:09.945135 
+
+ aqua_tv,     INVITE RON OVER!!,        <Channel name: kaicenat>,       2024-11-07 02:20:12.768247 
+
+ aqua_tv,     Awarwe,        <Channel name: kaicenat>,       2024-11-07 02:52:21.200855 
+
+ aqua_tv,     Aware,        <Channel name: kaicenat>,       2024-11-07 02:52:22.575474 
+
+ aqua_tv,     AwareAwareAwareAware,        <Channel name: kaicenat>,       2024-11-07 02:52:26.661449 
+
+ aqua_tv,     Aware .,        <Channel name: kaicenat>,       2024-11-07 02:52:33.307646 
+
+ aqua_tv,     Aware,        <Channel name: kaicenat>,       2024-11-07 02:52:37.331042 
+
+ aqua_tv,     Aware ..,        <Channel name: kaicenat>,       2024-11-07 02:52:39.779252 
+
+ aqua_tv,     Aware,        <Channel name: kaicenat>,       2024-11-07 02:52:41.414370 
+
+ aqua_tv,     Aware ...,        <Channel name: kaicenat>,       2024-11-07 02:52:44.940974 

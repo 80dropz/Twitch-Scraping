@@ -1,0 +1,6 @@
+
+ maci469,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:16.901219 
+
+ maci469,     WWWW,        <Channel name: caseoh_>,       2024-11-07 01:49:15.794547 
+
+ maci469,     w stream,        <Channel name: caseoh_>,       2024-11-07 01:50:55.646254 

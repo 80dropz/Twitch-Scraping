@@ -1,0 +1,4 @@
+
+ myslienkovameduza,     !bank,        <Channel name: robcdee>,       2024-11-07 01:43:53.774412 
+
+ myslienkovameduza,     !gamble all,        <Channel name: robcdee>,       2024-11-07 01:43:57.953799 

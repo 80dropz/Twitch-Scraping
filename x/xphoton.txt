@@ -1,0 +1,10 @@
+
+ xphoton,     GOSPEL,        <Channel name: plaqueboymax>,       2024-11-07 01:59:19.645157 
+
+ xphoton,     gospel,        <Channel name: plaqueboymax>,       2024-11-07 01:59:40.623637 
+
+ xphoton,     LIARS BAR,        <Channel name: plaqueboymax>,       2024-11-07 02:02:37.510148 
+
+ xphoton,     LIARS BARR,        <Channel name: plaqueboymax>,       2024-11-07 02:02:48.853174 
+
+ xphoton,     LIARS BARRR,        <Channel name: plaqueboymax>,       2024-11-07 02:02:54.694137 

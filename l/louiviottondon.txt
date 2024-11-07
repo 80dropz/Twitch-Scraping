@@ -1,0 +1,12 @@
+
+ louiviottondon,     OFF BALANCE,        <Channel name: kaicenat>,       2024-11-07 01:32:01.797145 
+
+ louiviottondon,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:32:09.492672 
+
+ louiviottondon,     Broken,        <Channel name: kaicenat>,       2024-11-07 01:35:02.439635 
+
+ louiviottondon,     1 min,        <Channel name: kaicenat>,       2024-11-07 01:43:27.898164 
+
+ louiviottondon,     Poll,        <Channel name: kaicenat>,       2024-11-07 01:44:45.420843 
+
+ louiviottondon,     1 min,        <Channel name: kaicenat>,       2024-11-07 01:45:01.121632 

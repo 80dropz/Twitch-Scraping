@@ -1,0 +1,12 @@
+
+ jidnfdk0,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:58:56.504423 
+
+ jidnfdk0,     RNB RNB RNB RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:03.883077 
+
+ jidnfdk0,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:09.574309 
+
+ jidnfdk0,     RNB RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:15.746367 
+
+ jidnfdk0,     RNB RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:27.165010 
+
+ jidnfdk0,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:33.507905 

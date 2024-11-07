@@ -1,0 +1,8 @@
+
+ jd_tank093,     1 minutes,        <Channel name: kaicenat>,       2024-11-07 01:40:24.428270 
+
+ jd_tank093,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:41:49.304819 
+
+ jd_tank093,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:44:03.999292 
+
+ jd_tank093,     No,        <Channel name: kaicenat>,       2024-11-07 01:54:41.996149 

@@ -1,0 +1,4 @@
+
+ dooders24,     clapping,        <Channel name: kaicenat>,       2024-11-07 02:34:09.555670 
+
+ dooders24,     muted,        <Channel name: kaicenat>,       2024-11-07 02:35:05.236104 

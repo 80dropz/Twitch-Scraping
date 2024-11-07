@@ -1,0 +1,54 @@
+
+ ykreprise,     READY,        <Channel name: clix>,       2024-11-07 01:40:28.282690 
+
+ ykreprise,     READYYY,        <Channel name: clix>,       2024-11-07 01:40:29.524727 
+
+ ykreprise,     READDDDDY,        <Channel name: clix>,       2024-11-07 01:40:31.128050 
+
+ ykreprise,     RED,        <Channel name: clix>,       2024-11-07 01:40:46.962828 
+
+ ykreprise,     REDDD,        <Channel name: clix>,       2024-11-07 01:40:48.202890 
+
+ ykreprise,     REDDDDDDDDDD,        <Channel name: clix>,       2024-11-07 01:40:49.642337 
+
+ ykreprise,     REDDDDDDDD,        <Channel name: clix>,       2024-11-07 01:40:50.996103 
+
+ ykreprise,     RED,        <Channel name: clix>,       2024-11-07 01:41:02.549167 
+
+ ykreprise,     REDDDD,        <Channel name: clix>,       2024-11-07 01:41:04.069424 
+
+ ykreprise,     REDDD,        <Channel name: clix>,       2024-11-07 01:41:05.468006 
+
+ ykreprise,     DROP TEH CODES,        <Channel name: clix>,       2024-11-07 01:44:19.797702 
+
+ ykreprise,     DROP THE CODESSSSSSSS,        <Channel name: clix>,       2024-11-07 01:44:24.280124 
+
+ ykreprise,     DROPP THE VBUCKSS,        <Channel name: clix>,       2024-11-07 01:44:28.988933 
+
+ ykreprise,     DROP THE CBUCKKSSSPLEASE,        <Channel name: clix>,       2024-11-07 01:44:36.900677 
+
+ ykreprise,     DROP THE CODESS,        <Channel name: clix>,       2024-11-07 01:45:17.980824 
+
+ ykreprise,     YE,        <Channel name: clix>,       2024-11-07 01:48:06.175902 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:38.990939 
+
+ ykreprise,     skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:51:48.948939 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:25.346374 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:04.296169 
+
+ ykreprise,     skibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:58:20.993370 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:48.119037 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:08.580315 
+
+ ykreprise,     skibidi ..,        <Channel name: clix>,       2024-11-07 02:01:29.074706 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:21.127399 
+
+ ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 02:03:37.514130 
+
+ ykreprise,     nah ts gotta be raw,        <Channel name: clix>,       2024-11-07 02:33:04.053811 

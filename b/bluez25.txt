@@ -1,0 +1,4 @@
+
+ bluez25,     Something adapt can hop on,        <Channel name: plaqueboymax>,       2024-11-07 02:07:27.094425 
+
+ bluez25,     ADAPT LACY,        <Channel name: silky>,       2024-11-07 02:11:04.249754 

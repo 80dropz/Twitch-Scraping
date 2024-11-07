@@ -1,0 +1,8 @@
+
+ honchocup,     poll,        <Channel name: kaicenat>,       2024-11-07 01:45:53.213674 
+
+ honchocup,     poll it,        <Channel name: kaicenat>,       2024-11-07 01:46:00.120499 
+
+ honchocup,     poll,        <Channel name: kaicenat>,       2024-11-07 01:46:17.199646 
+
+ honchocup,     poll,        <Channel name: kaicenat>,       2024-11-07 01:46:54.964361 

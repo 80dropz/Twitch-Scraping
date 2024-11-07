@@ -1,0 +1,6 @@
+
+ cenkl_loco,     Gg,        <Channel name: kaicenat>,       2024-11-07 01:50:59.340899 
+
+ cenkl_loco,     150,        <Channel name: kaicenat>,       2024-11-07 01:53:50.857655 
+
+ cenkl_loco,     kaicBLM kaicBLM kaicBLM kaicBLM,        <Channel name: kaicenat>,       2024-11-07 02:24:26.031317 

@@ -1,0 +1,8 @@
+
+ magerreddy2,     Oately we can hear you,        <Channel name: oatley>,       2024-11-07 02:45:40.657158 
+
+ magerreddy2,     !delay,        <Channel name: oatley>,       2024-11-07 02:46:39.293473 
+
+ magerreddy2,     !600k,        <Channel name: oatley>,       2024-11-07 02:46:50.770412 
+
+ magerreddy2,     !time,        <Channel name: oatley>,       2024-11-07 02:47:39.366706 

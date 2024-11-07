@@ -1,0 +1,4 @@
+
+ wrathnick,     BALANCE IS OFF,        <Channel name: kaicenat>,       2024-11-07 01:32:18.525714 
+
+ wrathnick,     It is still unbalanced,        <Channel name: kaicenat>,       2024-11-07 01:38:10.013316 

@@ -1,0 +1,12 @@
+
+ seyphr_,     T2G,        <Channel name: nadeshot>,       2024-11-07 02:37:54.631692 
+
+ seyphr_,     SCAMMED,        <Channel name: nadeshot>,       2024-11-07 02:37:59.024552 
+
+ seyphr_,     nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 02:38:29.674426 
+
+ seyphr_,     wtff,        <Channel name: nadeshot>,       2024-11-07 02:41:25.094137 
+
+ seyphr_,     yooo,        <Channel name: nadeshot>,       2024-11-07 02:42:03.673732 
+
+ seyphr_,     nadeBlind nadeBlind nadeBlind nadeBlind,        <Channel name: nadeshot>,       2024-11-07 02:42:23.877231 

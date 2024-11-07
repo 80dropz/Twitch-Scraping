@@ -1,0 +1,6 @@
+
+ coke_white1,     fye,        <Channel name: kaicenat>,       2024-11-07 02:51:34.003134 
+
+ coke_white1,     asf,        <Channel name: kaicenat>,       2024-11-07 02:51:36.032764 
+
+ coke_white1,     ong,        <Channel name: kaicenat>,       2024-11-07 02:51:37.553666 

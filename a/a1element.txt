@@ -1,0 +1,8 @@
+
+ a1element,     Deal,        <Channel name: kaicenat>,       2024-11-07 01:23:47.753249 
+
+ a1element,     Poll pls,        <Channel name: kaicenat>,       2024-11-07 01:45:07.037185 
+
+ a1element,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:22.077018 
+
+ a1element,     Wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 02:09:19.536160 

@@ -1,0 +1,38 @@
+
+ tx_robert218,     45,        <Channel name: kaicenat>,       2024-11-07 02:00:26.666180 
+
+ tx_robert218,     32,        <Channel name: kaicenat>,       2024-11-07 02:00:34.413730 
+
+ tx_robert218,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:42.059810 
+
+ tx_robert218,     355,        <Channel name: kaicenat>,       2024-11-07 02:00:55.034669 
+
+ tx_robert218,     pop,        <Channel name: kaicenat>,       2024-11-07 02:01:14.531380 
+
+ tx_robert218,     popopoppoppo,        <Channel name: kaicenat>,       2024-11-07 02:01:22.289691 
+
+ tx_robert218,     popooppo,        <Channel name: kaicenat>,       2024-11-07 02:01:27.317408 
+
+ tx_robert218,     poppoopoopoooo,        <Channel name: kaicenat>,       2024-11-07 02:01:35.674842 
+
+ tx_robert218,     pupupip,        <Channel name: kaicenat>,       2024-11-07 02:01:42.289834 
+
+ tx_robert218,     buh,        <Channel name: kaicenat>,       2024-11-07 02:01:46.080950 
+
+ tx_robert218,     buh buh,        <Channel name: kaicenat>,       2024-11-07 02:02:03.884087 
+
+ tx_robert218,     soldier,        <Channel name: kaicenat>,       2024-11-07 02:03:08.110314 
+
+ tx_robert218,     bikini,        <Channel name: kaicenat>,       2024-11-07 02:03:15.333014 
+
+ tx_robert218,     you gotta be sneaky,        <Channel name: kaicenat>,       2024-11-07 02:03:34.952620 
+
+ tx_robert218,     buh,        <Channel name: kaicenat>,       2024-11-07 02:03:45.731622 
+
+ tx_robert218,     buh buh buh,        <Channel name: kaicenat>,       2024-11-07 02:03:52.360997 
+
+ tx_robert218,     buh buh,        <Channel name: kaicenat>,       2024-11-07 02:03:57.964693 
+
+ tx_robert218,     buh buh buh buhh buhh,        <Channel name: kaicenat>,       2024-11-07 02:04:16.081072 
+
+ tx_robert218,     buh,        <Channel name: kaicenat>,       2024-11-07 02:04:28.689415 

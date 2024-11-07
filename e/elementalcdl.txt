@@ -1,0 +1,66 @@
+
+ elementalcdl,     YES,        <Channel name: kaicenat>,       2024-11-07 01:18:18.980767 
+
+ elementalcdl,     YES SKIP EM,        <Channel name: kaicenat>,       2024-11-07 01:18:23.425991 
+
+ elementalcdl,     YES,        <Channel name: kaicenat>,       2024-11-07 01:19:13.898011 
+
+ elementalcdl,     210 220,        <Channel name: kaicenat>,       2024-11-07 01:19:17.285092 
+
+ elementalcdl,     RESPIN THAT SHIT,        <Channel name: kaicenat>,       2024-11-07 01:22:30.299797 
+
+ elementalcdl,     LOL,        <Channel name: kaicenat>,       2024-11-07 01:24:12.076892 
+
+ elementalcdl,     50,        <Channel name: kaicenat>,       2024-11-07 01:24:52.148304 
+
+ elementalcdl,     500 FOR MORE ROUNDS,        <Channel name: kaicenat>,       2024-11-07 01:24:58.967525 
+
+ elementalcdl,     225,        <Channel name: kaicenat>,       2024-11-07 01:42:15.108213 
+
+ elementalcdl,     W,        <Channel name: kaicenat>,       2024-11-07 02:08:58.818458 
+
+ elementalcdl,     LUL,        <Channel name: kaicenat>,       2024-11-07 02:15:27.584794 
+
+ elementalcdl,     WE NEED SILKY AT SNOOPS CRIB,        <Channel name: kaicenat>,       2024-11-07 02:15:51.298223 
+
+ elementalcdl,     WE NEED SILKY THERE,        <Channel name: kaicenat>,       2024-11-07 02:15:57.855247 
+
+ elementalcdl,     W,        <Channel name: kaicenat>,       2024-11-07 02:16:03.109761 
+
+ elementalcdl,     W KAI,        <Channel name: kaicenat>,       2024-11-07 02:16:10.180092 
+
+ elementalcdl,     W ZAZA,        <Channel name: kaicenat>,       2024-11-07 02:16:16.766769 
+
+ elementalcdl,     LEAK FUCK IT,        <Channel name: kaicenat>,       2024-11-07 02:16:28.756394 
+
+ elementalcdl,     DEADASS YOU WILL,        <Channel name: kaicenat>,       2024-11-07 02:16:49.020787 
+
+ elementalcdl,     YOU CANT TAP OUT WITH SNOOP,        <Channel name: kaicenat>,       2024-11-07 02:16:56.161109 
+
+ elementalcdl,     LMAO,        <Channel name: silky>,       2024-11-07 02:17:37.600144 
+
+ elementalcdl,     CAP RAY WON,        <Channel name: kaicenat>,       2024-11-07 02:18:13.995559 
+
+ elementalcdl,     RAY BEAT HIM,        <Channel name: kaicenat>,       2024-11-07 02:18:26.782068 
+
+ elementalcdl,     AYO?,        <Channel name: kaicenat>,       2024-11-07 02:18:38.623177 
+
+ elementalcdl,     AYO????,        <Channel name: kaicenat>,       2024-11-07 02:18:43.888921 
+
+ elementalcdl,     L CLIP FARMER,        <Channel name: kaicenat>,       2024-11-07 02:19:52.979229 
+
+ elementalcdl,     LOL RON TWEAKING,        <Channel name: kaicenat>,       2024-11-07 02:20:10.829082 
+
+ elementalcdl,     RIGHT, WTF IS YOU DOING,        <Channel name: kaicenat>,       2024-11-07 02:22:32.603758 
+
+ elementalcdl,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:26:26.192259 
+
+ elementalcdl,     SEND THE CLIP SUNNY,        <Channel name: kaicenat>,       2024-11-07 02:30:56.285645 
+
+ elementalcdl,     DEMI???,        <Channel name: kaicenat>,       2024-11-07 02:31:11.901661 
+
+ elementalcdl,     ASK ABOUT DEMI?,        <Channel name: kaicenat>,       2024-11-07 02:31:21.545053 
+
+ elementalcdl,     WHOS DEMI SILKY,        <Channel name: kaicenat>,       2024-11-07 02:31:39.303816 
+
+ elementalcdl,     100K VIEWERS,        <Channel name: kaicenat>,       2024-11-07 02:32:15.519919 

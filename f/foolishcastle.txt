@@ -1,0 +1,6 @@
+
+ foolishcastle,     chat who won the turney,        <Channel name: nadeshot>,       2024-11-07 01:59:02.048072 
+
+ foolishcastle,     tourney,        <Channel name: nadeshot>,       2024-11-07 01:59:11.502235 
+
+ foolishcastle,     thanks,        <Channel name: nadeshot>,       2024-11-07 02:00:24.874746 

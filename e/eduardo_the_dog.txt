@@ -1,0 +1,36 @@
+
+ eduardo_the_dog,     12,        <Channel name: clix>,       2024-11-07 01:39:59.315738 
+
+ eduardo_the_dog,     11,        <Channel name: clix>,       2024-11-07 01:40:00.610961 
+
+ eduardo_the_dog,     10,        <Channel name: clix>,       2024-11-07 01:40:01.923131 
+
+ eduardo_the_dog,     9,        <Channel name: clix>,       2024-11-07 01:40:03.387610 
+
+ eduardo_the_dog,     8,        <Channel name: clix>,       2024-11-07 01:40:05.243835 
+
+ eduardo_the_dog,     7,        <Channel name: clix>,       2024-11-07 01:40:06.474149 
+
+ eduardo_the_dog,     6,        <Channel name: clix>,       2024-11-07 01:40:07.959346 
+
+ eduardo_the_dog,     5,        <Channel name: clix>,       2024-11-07 01:40:09.194177 
+
+ eduardo_the_dog,     4,        <Channel name: clix>,       2024-11-07 01:40:10.293251 
+
+ eduardo_the_dog,     3,        <Channel name: clix>,       2024-11-07 01:40:11.669388 
+
+ eduardo_the_dog,     2,        <Channel name: clix>,       2024-11-07 01:40:13.010675 
+
+ eduardo_the_dog,     1,        <Channel name: clix>,       2024-11-07 01:40:14.409973 
+
+ eduardo_the_dog,     0,        <Channel name: clix>,       2024-11-07 01:40:15.838492 
+
+ eduardo_the_dog,     ready,        <Channel name: clix>,       2024-11-07 01:40:34.753501 
+
+ eduardo_the_dog,     readyreadyready,        <Channel name: clix>,       2024-11-07 01:40:35.794182 
+
+ eduardo_the_dog,     readyreadyreadyready,        <Channel name: clix>,       2024-11-07 01:40:37.135522 
+
+ eduardo_the_dog,     @o7_pickl,        <Channel name: clix>,       2024-11-07 01:43:11.875552 
+
+ eduardo_the_dog,     are u going to DOMINATE,        <Channel name: oatley>,       2024-11-07 02:06:07.592396 

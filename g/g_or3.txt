@@ -1,0 +1,2 @@
+
+ g_or3,     w stall,        <Channel name: kaicenat>,       2024-11-07 01:42:00.579759 

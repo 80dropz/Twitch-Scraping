@@ -1,0 +1,4 @@
+
+ t_schneider21,     W CASE,        <Channel name: caseoh_>,       2024-11-07 01:56:47.298022 
+
+ t_schneider21,     BYEEEEEE,        <Channel name: caseoh_>,       2024-11-07 01:59:03.022169 

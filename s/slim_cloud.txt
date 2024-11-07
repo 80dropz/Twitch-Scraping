@@ -1,0 +1,70 @@
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:36.981237 
+
+ slim_cloud,     skibidi skibidi skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:52:19.803575 
+
+ slim_cloud,     skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:52:28.352548 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:32.132717 
+
+ slim_cloud,     skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:52:58.356993 
+
+ slim_cloud,     skibidi skibidiskibidi,        <Channel name: clix>,       2024-11-07 01:53:41.746257 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:54.638445 
+
+ slim_cloud,     skibidi skibidi skibidi skibidi skibidi skibidi skibidi skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:56:03.941240 
+
+ slim_cloud,     skibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:56:12.412262 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:24.387056 
+
+ slim_cloud,     skibidi skibidi skibidi,        <Channel name: clix>,       2024-11-07 01:56:37.426084 
+
+ slim_cloud,     yes,        <Channel name: clix>,       2024-11-07 01:57:08.023115 
+
+ slim_cloud,     yea,        <Channel name: clix>,       2024-11-07 01:57:15.359129 
+
+ slim_cloud,     yea',        <Channel name: clix>,       2024-11-07 01:57:20.791037 
+
+ slim_cloud,     yea,        <Channel name: clix>,       2024-11-07 01:57:25.901455 
+
+ slim_cloud,     yea yea,        <Channel name: clix>,       2024-11-07 01:57:40.596361 
+
+ slim_cloud,     skibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:58:28.659944 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:32.751776 
+
+ slim_cloud,     not hewre,        <Channel name: clix>,       2024-11-07 01:59:07.722252 
+
+ slim_cloud,     not here,        <Channel name: clix>,       2024-11-07 01:59:21.237104 
+
+ slim_cloud,     bot',        <Channel name: clix>,       2024-11-07 01:59:31.697147 
+
+ slim_cloud,     bot,        <Channel name: clix>,       2024-11-07 01:59:40.847169 
+
+ slim_cloud,     bot bot,        <Channel name: clix>,       2024-11-07 01:59:57.206811 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:00.821111 
+
+ slim_cloud,     skibidi skibidi skibidi skibidi skibidi skibidi skibidi skibidiskibidi skibidi skibidi skibidi,        <Channel name: clix>,       2024-11-07 02:00:37.088790 
+
+ slim_cloud,     skibidi skibidi skibidi,        <Channel name: clix>,       2024-11-07 02:00:53.465411 
+
+ slim_cloud,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:59.189547 
+
+ slim_cloud,     bot b,        <Channel name: clix>,       2024-11-07 02:02:57.135885 
+
+ slim_cloud,     bot,        <Channel name: clix>,       2024-11-07 02:03:00.577045 
+
+ slim_cloud,     bot bot,        <Channel name: clix>,       2024-11-07 02:03:07.543256 
+
+ slim_cloud,     bot,        <Channel name: clix>,       2024-11-07 02:03:10.560532 
+
+ slim_cloud,     bot bot bot,        <Channel name: clix>,       2024-11-07 02:03:23.506243 
+
+ slim_cloud,     heyy,        <Channel name: clix>,       2024-11-07 02:03:32.270029 
+
+ slim_cloud,     heyyy,        <Channel name: clix>,       2024-11-07 02:03:39.774210 
+
+ slim_cloud,     eli,        <Channel name: clix>,       2024-11-07 02:05:23.429837 

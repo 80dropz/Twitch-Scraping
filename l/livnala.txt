@@ -1,0 +1,20 @@
+
+ livnala,     2,        <Channel name: kaicenat>,       2024-11-07 01:19:13.935908 
+
+ livnala,     RESPIN,        <Channel name: kaicenat>,       2024-11-07 01:22:28.721392 
+
+ livnala,     RESPON,        <Channel name: kaicenat>,       2024-11-07 01:22:40.552373 
+
+ livnala,     that’s a respon,        <Channel name: kaicenat>,       2024-11-07 01:22:52.298149 
+
+ livnala,     RESPIN,        <Channel name: kaicenat>,       2024-11-07 01:23:01.158763 
+
+ livnala,     nahhh,        <Channel name: kaicenat>,       2024-11-07 01:32:12.017220 
+
+ livnala,     TASTER,        <Channel name: kaicenat>,       2024-11-07 01:32:43.315846 
+
+ livnala,     TAKE CIRCLE OFF,        <Channel name: kaicenat>,       2024-11-07 01:35:08.262248 
+
+ livnala,     1 MIN,        <Channel name: kaicenat>,       2024-11-07 01:40:18.546928 
+
+ livnala,     30,        <Channel name: kaicenat>,       2024-11-07 01:43:39.820461 

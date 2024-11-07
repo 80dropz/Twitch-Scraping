@@ -1,0 +1,44 @@
+
+ koalakeala,     READY,        <Channel name: clix>,       2024-11-07 01:40:27.145025 
+
+ koalakeala,     DO IT,        <Channel name: clix>,       2024-11-07 01:40:30.722999 
+
+ koalakeala,     DAFUQ,        <Channel name: clix>,       2024-11-07 01:40:32.456054 
+
+ koalakeala,     BRUHHHH,        <Channel name: clix>,       2024-11-07 01:40:41.628357 
+
+ koalakeala,     WTF,        <Channel name: clix>,       2024-11-07 01:40:47.326281 
+
+ koalakeala,     SCAMMM,        <Channel name: clix>,       2024-11-07 01:40:50.235027 
+
+ koalakeala,     SPIN IT BRUH,        <Channel name: clix>,       2024-11-07 01:42:09.535932 
+
+ koalakeala,     BLUEEEE,        <Channel name: clix>,       2024-11-07 01:42:19.830259 
+
+ koalakeala,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.045888 
+
+ koalakeala,     NOWAYYYYYYYY,        <Channel name: clix>,       2024-11-07 01:42:53.839848 
+
+ koalakeala,     WWWWWWW PICKL,        <Channel name: clix>,       2024-11-07 01:43:07.746024 
+
+ koalakeala,     WWW FELDY,        <Channel name: clix>,       2024-11-07 01:43:55.883759 
+
+ koalakeala,     mhmmm,        <Channel name: clix>,       2024-11-07 01:47:50.765239 
+
+ koalakeala,     no way,        <Channel name: clix>,       2024-11-07 01:57:27.363974 
+
+ koalakeala,     bruh,        <Channel name: clix>,       2024-11-07 01:57:47.114729 
+
+ koalakeala,     bot,        <Channel name: clix>,       2024-11-07 01:58:03.367179 
+
+ koalakeala,     reroll,        <Channel name: clix>,       2024-11-07 01:58:07.548618 
+
+ koalakeala,     ong,        <Channel name: clix>,       2024-11-07 01:59:34.077230 
+
+ koalakeala,     1,        <Channel name: clix>,       2024-11-07 02:08:29.536316 
+
+ koalakeala,     bruh what,        <Channel name: clix>,       2024-11-07 02:13:04.285481 
+
+ koalakeala,     wtf,        <Channel name: clix>,       2024-11-07 02:13:54.641540 
+
+ koalakeala,     yes,        <Channel name: clix>,       2024-11-07 02:17:48.174239 

@@ -1,0 +1,2 @@
+
+ nls_02,     no,        <Channel name: aldo_geo>,       2024-11-07 02:36:28.058383 

@@ -1,0 +1,10 @@
+
+ wwells_33,     1min,        <Channel name: kaicenat>,       2024-11-07 01:40:27.105680 
+
+ wwells_33,     1min,        <Channel name: kaicenat>,       2024-11-07 01:43:22.109540 
+
+ wwells_33,     1,        <Channel name: kaicenat>,       2024-11-07 01:44:07.066013 
+
+ wwells_33,     1min,        <Channel name: kaicenat>,       2024-11-07 01:44:23.607041 
+
+ wwells_33,     1,        <Channel name: kaicenat>,       2024-11-07 01:44:58.499857 

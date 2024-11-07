@@ -1,0 +1,6 @@
+
+ ctrlsal,     SUBprise,        <Channel name: kaicenat>,       2024-11-07 02:22:53.787922 
+
+ ctrlsal,     NOT AT ALL,        <Channel name: kaicenat>,       2024-11-07 02:26:57.886050 
+
+ ctrlsal,     plaqueboyLogo2,        <Channel name: kaicenat>,       2024-11-07 02:31:11.034993 

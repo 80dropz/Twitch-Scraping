@@ -1,0 +1,26 @@
+
+ iitssguchi420,     can’t hear,        <Channel name: adapt>,       2024-11-07 01:40:53.646922 
+
+ iitssguchi420,     WW JASON,        <Channel name: adapt>,       2024-11-07 01:43:22.884818 
+
+ iitssguchi420,     WWW,        <Channel name: adapt>,       2024-11-07 01:57:09.139325 
+
+ iitssguchi420,     WW ADAPT,        <Channel name: adapt>,       2024-11-07 01:57:39.599865 
+
+ iitssguchi420,     WW RON,        <Channel name: adapt>,       2024-11-07 01:58:46.372027 
+
+ iitssguchi420,     WW RONISAN,        <Channel name: adapt>,       2024-11-07 01:59:05.073007 
+
+ iitssguchi420,     KPOP,        <Channel name: adapt>,       2024-11-07 02:00:20.720165 
+
+ iitssguchi420,     WW,        <Channel name: adapt>,       2024-11-07 02:02:01.901528 
+
+ iitssguchi420,     KPOP,        <Channel name: adapt>,       2024-11-07 02:02:27.752143 
+
+ iitssguchi420,     GAME NIGHT!!!!!,        <Channel name: adapt>,       2024-11-07 02:03:04.879380 
+
+ iitssguchi420,     L SILKY,        <Channel name: adapt>,       2024-11-07 02:05:34.850612 
+
+ iitssguchi420,     WW STREAM,        <Channel name: adapt>,       2024-11-07 02:06:57.044245 
+
+ iitssguchi420,     true,        <Channel name: silky>,       2024-11-07 02:40:16.999213 

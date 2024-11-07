@@ -1,0 +1,4 @@
+
+ pelo_expres,     ??,        <Channel name: aldo_geo>,       2024-11-07 02:07:11.054836 
+
+ pelo_expres,     XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:08:42.187066 

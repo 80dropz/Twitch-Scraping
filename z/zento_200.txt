@@ -1,0 +1,8 @@
+
+ zento_200,     ready,        <Channel name: clix>,       2024-11-07 01:40:38.894266 
+
+ zento_200,     red,        <Channel name: clix>,       2024-11-07 01:40:56.702748 
+
+ zento_200,     re,        <Channel name: clix>,       2024-11-07 01:41:00.785579 
+
+ zento_200,     d,        <Channel name: clix>,       2024-11-07 01:41:02.139033 

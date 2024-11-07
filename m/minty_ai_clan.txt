@@ -1,0 +1,16 @@
+
+ minty_ai_clan,     Skibidi,        <Channel name: clix>,       2024-11-07 01:51:55.248960 
+
+ minty_ai_clan,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:50.318603 
+
+ minty_ai_clan,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:25.282053 
+
+ minty_ai_clan,     Yes,        <Channel name: clix>,       2024-11-07 01:57:24.569311 
+
+ minty_ai_clan,     Reroll,        <Channel name: clix>,       2024-11-07 01:57:38.454300 
+
+ minty_ai_clan,     Yes,        <Channel name: clix>,       2024-11-07 01:58:29.034748 
+
+ minty_ai_clan,     Bot,        <Channel name: clix>,       2024-11-07 01:59:39.563481 
+
+ minty_ai_clan,     Bot,        <Channel name: clix>,       2024-11-07 02:03:02.016565 

@@ -1,0 +1,10 @@
+
+ der_mrc,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:24.680715 
+
+ der_mrc,     NOWAQQY,        <Channel name: clix>,       2024-11-07 01:43:02.762531 
+
+ der_mrc,     ..,        <Channel name: clix>,       2024-11-07 01:43:25.827313 
+
+ der_mrc,     WWWW,        <Channel name: clix>,       2024-11-07 01:43:56.463319 
+
+ der_mrc,     mhm,        <Channel name: clix>,       2024-11-07 01:48:00.033528 

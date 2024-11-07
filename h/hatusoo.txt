@@ -1,0 +1,6 @@
+
+ hatusoo,     LOCK,        <Channel name: caseoh_>,       2024-11-07 01:48:27.345771 
+
+ hatusoo,     POLL IT,        <Channel name: caseoh_>,       2024-11-07 01:48:33.843014 
+
+ hatusoo,     SOLD,        <Channel name: caseoh_>,       2024-11-07 01:48:36.536249 

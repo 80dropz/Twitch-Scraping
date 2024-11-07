@@ -1,0 +1,6 @@
+
+ calebswan,     W,        <Channel name: plaqueboymax>,       2024-11-07 01:57:48.045640 
+
+ calebswan,     COUNTRY,        <Channel name: plaqueboymax>,       2024-11-07 01:59:00.119978 
+
+ calebswan,     COUNTRYY,        <Channel name: plaqueboymax>,       2024-11-07 01:59:12.708478 

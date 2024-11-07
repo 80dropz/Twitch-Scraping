@@ -1,0 +1,4 @@
+
+ carmenho1mes,     W STREAM,        <Channel name: caseoh_>,       2024-11-07 01:57:04.962962 
+
+ carmenho1mes,     BYEEE,        <Channel name: caseoh_>,       2024-11-07 01:57:23.700169 

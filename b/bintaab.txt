@@ -1,0 +1,6 @@
+
+ bintaab,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:19.508278 
+
+ bintaab,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:44.638342 
+
+ bintaab,     84,        <Channel name: kaicenat>,       2024-11-07 02:07:20.101638 

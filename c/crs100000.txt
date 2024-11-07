@@ -1,0 +1,4 @@
+
+ crs100000,     L,        <Channel name: caseoh_>,       2024-11-07 01:43:53.829276 
+
+ crs100000,     COOKED,        <Channel name: caseoh_>,       2024-11-07 01:50:14.744273 

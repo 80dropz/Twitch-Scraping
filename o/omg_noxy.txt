@@ -1,0 +1,14 @@
+
+ omg_noxy,     lmao,        <Channel name: kaicenat>,       2024-11-07 01:20:35.257061 
+
+ omg_noxy,     ready,        <Channel name: clix>,       2024-11-07 01:42:47.153202 
+
+ omg_noxy,     lets go,        <Channel name: clix>,       2024-11-07 01:42:54.258453 
+
+ omg_noxy,     45,        <Channel name: kaicenat>,       2024-11-07 01:43:50.782372 
+
+ omg_noxy,     45.,        <Channel name: kaicenat>,       2024-11-07 01:43:54.915688 
+
+ omg_noxy,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:49:36.913354 
+
+ omg_noxy,     ur DONE for,        <Channel name: kaicenat>,       2024-11-07 01:50:11.456875 

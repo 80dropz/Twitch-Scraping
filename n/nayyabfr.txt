@@ -1,0 +1,10 @@
+
+ nayyabfr,     nah we good,        <Channel name: clix>,       2024-11-07 01:39:46.425050 
+
+ nayyabfr,     10,        <Channel name: clix>,       2024-11-07 01:40:10.264089 
+
+ nayyabfr,     00000,        <Channel name: clix>,       2024-11-07 01:40:29.071307 
+
+ nayyabfr,     READY NO WAYGGGE,        <Channel name: clix>,       2024-11-07 01:40:40.522889 
+
+ nayyabfr,     WE DO NOT NEED A POLL,        <Channel name: clix>,       2024-11-07 01:40:46.442715 

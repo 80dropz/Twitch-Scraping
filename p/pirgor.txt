@@ -1,0 +1,6 @@
+
+ pirgor,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:20:20.550126 
+
+ pirgor,     L RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:20:23.293850 
+
+ pirgor,     LOL,        <Channel name: kaicenat>,       2024-11-07 01:20:54.059954 

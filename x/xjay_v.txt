@@ -1,0 +1,18 @@
+
+ xjay_v,     has to be weight,        <Channel name: kaicenat>,       2024-11-07 01:31:58.832779 
+
+ xjay_v,     weighted,        <Channel name: kaicenat>,       2024-11-07 01:32:21.134173 
+
+ xjay_v,     balance,        <Channel name: kaicenat>,       2024-11-07 01:32:23.756956 
+
+ xjay_v,     weighted,        <Channel name: kaicenat>,       2024-11-07 01:32:35.161282 
+
+ xjay_v,     has to weighted,        <Channel name: kaicenat>,       2024-11-07 01:34:36.831278 
+
+ xjay_v,     unbalanced,        <Channel name: kaicenat>,       2024-11-07 01:34:53.002362 
+
+ xjay_v,     weight,        <Channel name: kaicenat>,       2024-11-07 01:34:55.868893 
+
+ xjay_v,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:34:58.878831 
+
+ xjay_v,     it’s weighted,        <Channel name: kaicenat>,       2024-11-07 01:35:18.789475 

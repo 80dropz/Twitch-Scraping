@@ -1,0 +1,6 @@
+
+ tiprezidan,     deal,        <Channel name: kaicenat>,       2024-11-07 01:23:23.001517 
+
+ tiprezidan,     bet,        <Channel name: kaicenat>,       2024-11-07 01:23:26.458063 
+
+ tiprezidan,     W respin,        <Channel name: kaicenat>,       2024-11-07 01:23:31.962758 

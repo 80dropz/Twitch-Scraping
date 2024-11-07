@@ -1,0 +1,10 @@
+
+ tempt_wagers1x,     mhm,        <Channel name: clix>,       2024-11-07 01:47:59.015569 
+
+ tempt_wagers1x,     mhmh,        <Channel name: clix>,       2024-11-07 01:48:01.910795 
+
+ tempt_wagers1x,     mhm,        <Channel name: clix>,       2024-11-07 01:48:06.539688 
+
+ tempt_wagers1x,     mhmh,        <Channel name: clix>,       2024-11-07 01:48:09.646469 
+
+ tempt_wagers1x,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:13.114653 

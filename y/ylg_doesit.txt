@@ -1,0 +1,4 @@
+
+ ylg_doesit,     45 second,        <Channel name: kaicenat>,       2024-11-07 01:44:19.842486 
+
+ ylg_doesit,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:44:41.210499 

@@ -1,0 +1,14 @@
+
+ teechilly,     pre car,        <Channel name: kaicenat>,       2024-11-07 01:37:16.140214 
+
+ teechilly,     no,        <Channel name: kaicenat>,       2024-11-07 01:39:46.961933 
+
+ teechilly,     it counts,        <Channel name: kaicenat>,       2024-11-07 01:39:50.259185 
+
+ teechilly,     DO A POLL,        <Channel name: kaicenat>,       2024-11-07 01:44:43.515160 
+
+ teechilly,     poll,        <Channel name: kaicenat>,       2024-11-07 01:45:09.844882 
+
+ teechilly,     L ADSS,        <Channel name: kaicenat>,       2024-11-07 01:46:23.974368 
+
+ teechilly,     POLL THE TIME,        <Channel name: kaicenat>,       2024-11-07 01:46:48.561504 

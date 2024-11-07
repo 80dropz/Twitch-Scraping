@@ -1,0 +1,4 @@
+
+ hardrada,     true Kappa,        <Channel name: summit1g>,       2024-11-07 02:01:04.484127 
+
+ hardrada,     OOOOO,        <Channel name: summit1g>,       2024-11-07 02:01:56.342003 

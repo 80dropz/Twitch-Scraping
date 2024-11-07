@@ -1,0 +1,12 @@
+
+ demonicowlz,     t2g,        <Channel name: nadeshot>,       2024-11-07 02:38:05.078377 
+
+ demonicowlz,     Mods,        <Channel name: nadeshot>,       2024-11-07 02:40:30.536966 
+
+ demonicowlz,     MODS,        <Channel name: nadeshot>,       2024-11-07 02:40:45.638069 
+
+ demonicowlz,     MODE,        <Channel name: nadeshot>,       2024-11-07 02:41:14.265771 
+
+ demonicowlz,     help,        <Channel name: nadeshot>,       2024-11-07 02:41:43.575309 
+
+ demonicowlz,     @mcgowen,        <Channel name: nadeshot>,       2024-11-07 02:42:05.841294 

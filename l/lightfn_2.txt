@@ -1,0 +1,2 @@
+
+ lightfn_2,     yes,        <Channel name: clix>,       2024-11-07 02:17:49.955296 

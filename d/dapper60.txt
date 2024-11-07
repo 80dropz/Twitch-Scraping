@@ -1,0 +1,10 @@
+
+ dapper60,     Rain is forecast tonight in Roswell,        <Channel name: ibabyrainbow>,       2024-11-07 01:45:53.514397 
+
+ dapper60,     The bedbugs are starting to get lonely,        <Channel name: ibabyrainbow>,       2024-11-07 01:49:28.519289 
+
+ dapper60,     I think McCall ID is smaller than Roswell,        <Channel name: ibabyrainbow>,       2024-11-07 01:59:13.584903 
+
+ dapper60,     NM tax is only 5.125%,        <Channel name: ibabyrainbow>,       2024-11-07 02:03:57.498449 
+
+ dapper60,     eventful day,        <Channel name: ibabyrainbow>,       2024-11-07 02:17:29.785693 

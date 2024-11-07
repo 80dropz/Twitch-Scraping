@@ -1,0 +1,10 @@
+
+ cxapt,     cooked,        <Channel name: caseoh_>,       2024-11-07 01:44:10.269754 
+
+ cxapt,     I am,        <Channel name: caseoh_>,       2024-11-07 01:46:27.983151 
+
+ cxapt,     vale,        <Channel name: caseoh_>,       2024-11-07 01:46:51.131830 
+
+ cxapt,     GGGG,        <Channel name: caseoh_>,       2024-11-07 01:48:53.520201 
+
+ cxapt,     THATS WHY,        <Channel name: caseoh_>,       2024-11-07 01:50:01.880536 

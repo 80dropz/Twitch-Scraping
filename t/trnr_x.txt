@@ -1,0 +1,4 @@
+
+ trnr_x,     Ta,        <Channel name: plaqueboymax>,       2024-11-07 01:52:15.796971 
+
+ trnr_x,     ta,        <Channel name: plaqueboymax>,       2024-11-07 01:52:31.470877 

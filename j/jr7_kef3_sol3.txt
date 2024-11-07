@@ -1,0 +1,32 @@
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:16:26.828164 
+
+ jr7_kef3_sol3,     Samoa,        <Channel name: kaicenat>,       2024-11-07 02:16:33.563865 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:16:39.197092 
+
+ jr7_kef3_sol3,     i need SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:16:57.677459 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:02.987830 
+
+ jr7_kef3_sol3,     I NEED SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:10.321357 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:12.761756 
+
+ jr7_kef3_sol3,     LEAK SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:19.152305 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:28.176882 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:40.136791 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:17:47.906445 
+
+ jr7_kef3_sol3,     SAY SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:18:01.560795 
+
+ jr7_kef3_sol3,     AND I GO,        <Channel name: kaicenat>,       2024-11-07 02:18:09.034487 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:18:14.477932 
+
+ jr7_kef3_sol3,     I SAY SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:18:23.133960 
+
+ jr7_kef3_sol3,     SAMOA,        <Channel name: kaicenat>,       2024-11-07 02:18:28.289362 

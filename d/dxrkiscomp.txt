@@ -1,0 +1,38 @@
+
+ dxrkiscomp,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:28.395406 
+
+ dxrkiscomp,     ff,        <Channel name: clix>,       2024-11-07 01:52:40.766666 
+
+ dxrkiscomp,     jj,        <Channel name: clix>,       2024-11-07 01:52:54.332670 
+
+ dxrkiscomp,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:58.853898 
+
+ dxrkiscomp,     skibidi ez,        <Channel name: clix>,       2024-11-07 01:53:05.957915 
+
+ dxrkiscomp,     George36245193,        <Channel name: clix>,       2024-11-07 01:56:21.766730 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 01:57:46.353230 
+
+ dxrkiscomp,     BOTBOT\,        <Channel name: clix>,       2024-11-07 01:58:01.786583 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 01:58:47.181779 
+
+ dxrkiscomp,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:59:26.519345 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 01:59:31.592258 
+
+ dxrkiscomp,     BO,        <Channel name: clix>,       2024-11-07 01:59:34.315289 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 01:59:40.697303 
+
+ dxrkiscomp,     BOTB,        <Channel name: clix>,       2024-11-07 01:59:45.580391 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 01:59:48.675354 
+
+ dxrkiscomp,     BOT,        <Channel name: clix>,       2024-11-07 02:02:56.498299 
+
+ dxrkiscomp,     BOT BOT,        <Channel name: clix>,       2024-11-07 02:03:05.526318 
+
+ dxrkiscomp,     BOT BOTBOT,        <Channel name: clix>,       2024-11-07 02:03:46.386875 
+
+ dxrkiscomp,     BOTT,        <Channel name: clix>,       2024-11-07 02:03:50.128240 

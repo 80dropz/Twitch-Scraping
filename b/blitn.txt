@@ -1,0 +1,8 @@
+
+ blitn,     cap,        <Channel name: kaicenat>,       2024-11-07 02:36:18.423049 
+
+ blitn,     LOL,        <Channel name: kaicenat>,       2024-11-07 02:39:33.377111 
+
+ blitn,     LOL RIP,        <Channel name: kaicenat>,       2024-11-07 02:39:39.496410 
+
+ blitn,     LOL,        <Channel name: kaicenat>,       2024-11-07 02:40:53.920355 

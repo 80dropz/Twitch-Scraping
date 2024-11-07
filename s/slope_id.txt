@@ -1,0 +1,76 @@
+
+ slope_id,     monkaW,        <Channel name: megalodonvt>,       2024-11-07 01:42:47.764362 
+
+ slope_id,     YEP,        <Channel name: megalodonvt>,       2024-11-07 01:43:24.361540 
+
+ slope_id,     monkaEyes,        <Channel name: megalodonvt>,       2024-11-07 01:44:41.900482 
+
+ slope_id,     ICANT,        <Channel name: megalodonvt>,       2024-11-07 01:45:11.205915 
+
+ slope_id,     HUH smash?,        <Channel name: megalodonvt>,       2024-11-07 01:52:14.414761 
+
+ slope_id,     AINTNOWAY,        <Channel name: megalodonvt>,       2024-11-07 01:54:27.088873 
+
+ slope_id,     hiii raiders,        <Channel name: megalodonvt>,       2024-11-07 01:58:36.707067 
+
+ slope_id,     AYO,        <Channel name: megalodonvt>,       2024-11-07 01:59:46.537745 
+
+ slope_id,     " RIZZ where my cuddle at",        <Channel name: megalodonvt>,       2024-11-07 02:01:19.758147 
+
+ slope_id,     Sadge,        <Channel name: megalodonvt>,       2024-11-07 02:03:20.293245 
+
+ slope_id,     RIZZ,        <Channel name: megalodonvt>,       2024-11-07 02:05:29.767280 
+
+ slope_id,     GokuGriddy withRizz,        <Channel name: megalodonvt>,       2024-11-07 02:08:27.259653 
+
+ slope_id,     HUH,        <Channel name: megalodonvt>,       2024-11-07 02:09:47.046705 
+
+ slope_id,     om,        <Channel name: megalodonvt>,       2024-11-07 02:12:07.656575 
+
+ slope_id,     ICANT,        <Channel name: megalodonvt>,       2024-11-07 02:13:03.507101 
+
+ slope_id,     monkaS,        <Channel name: megalodonvt>,       2024-11-07 02:13:52.403691 
+
+ slope_id,     HAH SHORT,        <Channel name: megalodonvt>,       2024-11-07 02:14:20.292998 
+
+ slope_id,     MrDestructoid he chuckle,        <Channel name: megalodonvt>,       2024-11-07 02:15:38.128441 
+
+ slope_id,     gachiGASM GokuGriddy,        <Channel name: megalodonvt>,       2024-11-07 02:16:00.814301 
+
+ slope_id,     om,        <Channel name: megalodonvt>,       2024-11-07 02:18:33.474887 
+
+ slope_id,     Aware sledgehammer,        <Channel name: megalodonvt>,       2024-11-07 02:31:01.085938 
+
+ slope_id,     om,        <Channel name: megalodonvt>,       2024-11-07 02:31:18.446629 
+
+ slope_id,     Buhh,        <Channel name: megalodonvt>,       2024-11-07 02:32:07.062757 
+
+ slope_id,     HUH,        <Channel name: megalodonvt>,       2024-11-07 02:32:26.209869 
+
+ slope_id,     owoGun,        <Channel name: megalodonvt>,       2024-11-07 02:32:43.038479 
+
+ slope_id,     GIGADEAD,        <Channel name: megalodonvt>,       2024-11-07 02:36:22.900216 
+
+ slope_id,     pedro,        <Channel name: megalodonvt>,       2024-11-07 02:37:30.593727 
+
+ slope_id,     GokuGriddy *in immense pain*,        <Channel name: megalodonvt>,       2024-11-07 02:38:21.184455 
+
+ slope_id,     lebronJAM,        <Channel name: megalodonvt>,       2024-11-07 02:39:07.490384 
+
+ slope_id,     WideAmongUsGaySex,        <Channel name: megalodonvt>,       2024-11-07 02:39:22.471126 
+
+ slope_id,     om,        <Channel name: megalodonvt>,       2024-11-07 02:39:44.306765 
+
+ slope_id,     HUH,        <Channel name: megalodonvt>,       2024-11-07 02:39:53.875210 
+
+ slope_id,     owoClap,        <Channel name: megalodonvt>,       2024-11-07 02:41:49.903080 
+
+ slope_id,     om,        <Channel name: megalodonvt>,       2024-11-07 02:45:43.045232 
+
+ slope_id,     HUH,        <Channel name: megalodonvt>,       2024-11-07 02:48:16.710571 
+
+ slope_id,     l0megaSupercry why?,        <Channel name: megalodonvt>,       2024-11-07 02:50:07.654581 
+
+ slope_id,     ?? <- the ai,        <Channel name: megalodonvt>,       2024-11-07 02:51:25.761015 
+
+ slope_id,     hamsterPwease oh.,        <Channel name: megalodonvt>,       2024-11-07 02:51:40.030896 

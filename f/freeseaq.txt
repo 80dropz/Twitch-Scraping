@@ -1,0 +1,16 @@
+
+ freeseaq,     !duo,        <Channel name: clix>,       2024-11-07 01:40:54.838158 
+
+ freeseaq,     !Duo,        <Channel name: clix>,       2024-11-07 01:41:02.179289 
+
+ freeseaq,     !duo,        <Channel name: clix>,       2024-11-07 01:41:06.689334 
+
+ freeseaq,     !trio,        <Channel name: clix>,       2024-11-07 01:41:15.272389 
+
+ freeseaq,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:51:45.864646 
+
+ freeseaq,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:33.576041 
+
+ freeseaq,     SKIBIDI,        <Channel name: clix>,       2024-11-07 01:53:30.674599 
+
+ freeseaq,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:51.645036 

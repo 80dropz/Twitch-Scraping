@@ -1,0 +1,6 @@
+
+ elcatch1,     No ya no tienes en el inventario,        <Channel name: aldo_geo>,       2024-11-07 02:13:06.877511 
+
+ elcatch1,     Compra daikiri letal,        <Channel name: aldo_geo>,       2024-11-07 02:17:02.778823 
+
+ elcatch1,     Ponle un mod de munición a la pistolita,        <Channel name: aldo_geo>,       2024-11-07 02:39:13.486777 

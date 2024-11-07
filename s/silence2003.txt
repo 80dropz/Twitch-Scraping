@@ -1,0 +1,6 @@
+
+ silence2003,     take off TDM @summit1g,        <Channel name: summit1g>,       2024-11-07 02:06:15.501752 
+
+ silence2003,     get TDM out @summit1g,        <Channel name: summit1g>,       2024-11-07 02:11:59.907499 
+
+ silence2003,     done,        <Channel name: summit1g>,       2024-11-07 02:40:20.471235 

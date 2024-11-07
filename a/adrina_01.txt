@@ -1,0 +1,10 @@
+
+ adrina_01,     Ooop,        <Channel name: megalodonvt>,       2024-11-07 01:42:53.581476 
+
+ adrina_01,     NotLikeThis,        <Channel name: megalodonvt>,       2024-11-07 01:43:23.573253 
+
+ adrina_01,     l0megaWowOK,        <Channel name: megalodonvt>,       2024-11-07 02:06:43.576976 
+
+ adrina_01,     What the,        <Channel name: megalodonvt>,       2024-11-07 02:52:41.762576 
+
+ adrina_01,     NotLikeThis,        <Channel name: megalodonvt>,       2024-11-07 02:53:00.856575 

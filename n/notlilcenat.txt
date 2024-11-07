@@ -1,0 +1,32 @@
+
+ notlilcenat,     DoritosChip DoritosChip StinkyCheese NomNom,        <Channel name: kaicenat>,       2024-11-07 01:56:11.579577 
+
+ notlilcenat,     PopCorn,        <Channel name: kaicenat>,       2024-11-07 01:56:53.002964 
+
+ notlilcenat,     NewRecord,        <Channel name: kaicenat>,       2024-11-07 01:57:19.189572 
+
+ notlilcenat,     AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 01:57:38.144178 
+
+ notlilcenat,     BratChat,        <Channel name: kaicenat>,       2024-11-07 01:57:56.225143 
+
+ notlilcenat,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 02:02:22.728145 
+
+ notlilcenat,     GIFT ME,        <Channel name: plaqueboymax>,       2024-11-07 02:03:56.541577 
+
+ notlilcenat,     gift me,        <Channel name: plaqueboymax>,       2024-11-07 02:04:26.264610 
+
+ notlilcenat,     GIFT MEE,        <Channel name: plaqueboymax>,       2024-11-07 02:04:35.395740 
+
+ notlilcenat,     GIFT ME,        <Channel name: plaqueboymax>,       2024-11-07 02:05:08.399593 
+
+ notlilcenat,     GIFT ME PLS,        <Channel name: plaqueboymax>,       2024-11-07 02:05:23.872354 
+
+ notlilcenat,     PLS GOFT,        <Channel name: plaqueboymax>,       2024-11-07 02:05:57.944214 
+
+ notlilcenat,     PLS GIFT,        <Channel name: plaqueboymax>,       2024-11-07 02:06:07.639741 
+
+ notlilcenat,     GIFT,        <Channel name: plaqueboymax>,       2024-11-07 02:07:05.789283 
+
+ notlilcenat,     GIFT PLS,        <Channel name: plaqueboymax>,       2024-11-07 02:07:22.468360 
+
+ notlilcenat,     PLS GIFT,        <Channel name: plaqueboymax>,       2024-11-07 02:07:34.348352 

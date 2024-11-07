@@ -1,0 +1,14 @@
+
+ ot__1,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:29.042608 
+
+ ot__1,     skibidi/,        <Channel name: clix>,       2024-11-07 01:51:38.001780 
+
+ ot__1,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:41.365579 
+
+ ot__1,     skibidi/,        <Channel name: clix>,       2024-11-07 01:51:42.821735 
+
+ ot__1,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:44.660482 
+
+ ot__1,     skibidi/,        <Channel name: clix>,       2024-11-07 01:51:51.376410 
+
+ ot__1,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:58.210280 

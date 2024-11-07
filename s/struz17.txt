@@ -1,0 +1,4 @@
+
+ struz17,     yes,        <Channel name: clix>,       2024-11-07 02:39:51.866214 
+
+ struz17,     jorkin,        <Channel name: clix>,       2024-11-07 02:41:59.038217 

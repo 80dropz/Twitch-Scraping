@@ -1,0 +1,4 @@
+
+ bound2flop,     heads or tails 20 seconds or 40,        <Channel name: kaicenat>,       2024-11-07 01:44:47.614481 
+
+ bound2flop,     thats not even bad,        <Channel name: kaicenat>,       2024-11-07 01:52:32.045534 

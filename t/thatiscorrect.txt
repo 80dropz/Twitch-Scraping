@@ -1,0 +1,10 @@
+
+ thatiscorrect,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:18.739675 
+
+ thatiscorrect,     lmao same,        <Channel name: caseoh_>,       2024-11-07 01:46:44.846472 
+
+ thatiscorrect,     gg,        <Channel name: caseoh_>,       2024-11-07 01:50:12.191482 
+
+ thatiscorrect,     pause,        <Channel name: caseoh_>,       2024-11-07 01:53:15.925429 
+
+ thatiscorrect,     no way,        <Channel name: caseoh_>,       2024-11-07 01:53:33.829930 

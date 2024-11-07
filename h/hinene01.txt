@@ -1,0 +1,8 @@
+
+ hinene01,     DELAY,        <Channel name: kaicenat>,       2024-11-07 01:41:55.792469 
+
+ hinene01,     w,        <Channel name: kaicenat>,       2024-11-07 01:43:27.658621 
+
+ hinene01,     1 minute,        <Channel name: kaicenat>,       2024-11-07 01:43:50.762031 
+
+ hinene01,     10P,        <Channel name: kaicenat>,       2024-11-07 01:50:09.158029 

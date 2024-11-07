@@ -1,0 +1,4 @@
+
+ baconfry01,     yes,        <Channel name: caseoh_>,       2024-11-07 01:45:49.976432 
+
+ baconfry01,     W,        <Channel name: caseoh_>,       2024-11-07 01:53:41.116790 

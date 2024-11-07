@@ -1,0 +1,2 @@
+
+ itsdc2,     DRILL,        <Channel name: plaqueboymax>,       2024-11-07 01:59:49.466494 

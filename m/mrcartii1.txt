@@ -1,0 +1,6 @@
+
+ mrcartii1,     16,        <Channel name: faxuty>,       2024-11-07 02:37:28.719987 
+
+ mrcartii1,     Y786,        <Channel name: faxuty>,       2024-11-07 02:37:30.024883 
+
+ mrcartii1,     6TTT6TTTYUT,        <Channel name: faxuty>,       2024-11-07 02:37:31.260971 

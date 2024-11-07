@@ -1,0 +1,52 @@
+
+ sp1ral24,     15,        <Channel name: clix>,       2024-11-07 01:39:44.485234 
+
+ sp1ral24,     14,        <Channel name: clix>,       2024-11-07 01:39:45.851929 
+
+ sp1ral24,     13,        <Channel name: clix>,       2024-11-07 01:39:47.948197 
+
+ sp1ral24,     11,        <Channel name: clix>,       2024-11-07 01:39:49.943798 
+
+ sp1ral24,     15,        <Channel name: clix>,       2024-11-07 01:40:05.601663 
+
+ sp1ral24,     14,        <Channel name: clix>,       2024-11-07 01:40:06.689043 
+
+ sp1ral24,     13,        <Channel name: clix>,       2024-11-07 01:40:08.710950 
+
+ sp1ral24,     12,        <Channel name: clix>,       2024-11-07 01:40:10.005803 
+
+ sp1ral24,     10,        <Channel name: clix>,       2024-11-07 01:40:12.044118 
+
+ sp1ral24,     3,        <Channel name: clix>,       2024-11-07 01:40:16.612083 
+
+ sp1ral24,     2,        <Channel name: clix>,       2024-11-07 01:40:18.259114 
+
+ sp1ral24,     WWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:40:22.694353 
+
+ sp1ral24,     S[OM,        <Channel name: clix>,       2024-11-07 01:40:23.953168 
+
+ sp1ral24,     READU,        <Channel name: clix>,       2024-11-07 01:40:31.039293 
+
+ sp1ral24,     BLIUE,        <Channel name: clix>,       2024-11-07 01:40:55.127137 
+
+ sp1ral24,     BLUE,        <Channel name: clix>,       2024-11-07 01:40:57.632962 
+
+ sp1ral24,     STALLING,        <Channel name: clix>,       2024-11-07 01:41:11.229492 
+
+ sp1ral24,     STALLLLINGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG,        <Channel name: clix>,       2024-11-07 01:41:16.399312 
+
+ sp1ral24,     WWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:42:49.900758 
+
+ sp1ral24,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:02:41.656345 
+
+ sp1ral24,     heyy,        <Channel name: clix>,       2024-11-07 02:03:34.126010 
+
+ sp1ral24,     @ScorpyL2 y),        <Channel name: clix>,       2024-11-07 02:09:51.282231 
+
+ sp1ral24,     yO,        <Channel name: clix>,       2024-11-07 02:09:59.085452 
+
+ sp1ral24,     WATCH OUT GUYS THERES A PE                                DO IN CHAT,        <Channel name: clix>,       2024-11-07 02:12:24.581981 
+
+ sp1ral24,     CAP,        <Channel name: clix>,       2024-11-07 02:12:44.565332 
+
+ sp1ral24,     CAPPING,        <Channel name: clix>,       2024-11-07 02:12:47.170085 

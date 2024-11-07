@@ -1,0 +1,22 @@
+
+ user_elvis2,     blue,        <Channel name: clix>,       2024-11-07 01:40:55.262298 
+
+ user_elvis2,     they got scammed,        <Channel name: clix>,       2024-11-07 01:41:07.839289 
+
+ user_elvis2,     skibid,        <Channel name: clix>,       2024-11-07 01:52:19.465641 
+
+ user_elvis2,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:28.202108 
+
+ user_elvis2,     skibid,        <Channel name: clix>,       2024-11-07 01:54:04.728771 
+
+ user_elvis2,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:17.691512 
+
+ user_elvis2,     Skibidi,        <Channel name: clix>,       2024-11-07 01:54:30.411982 
+
+ user_elvis2,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:47.901009 
+
+ user_elvis2,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:23.330194 
+
+ user_elvis2,     scammed,        <Channel name: clix>,       2024-11-07 02:12:42.604935 
+
+ user_elvis2,     scammedddddddddddddddddddddd,        <Channel name: clix>,       2024-11-07 02:12:51.606164 

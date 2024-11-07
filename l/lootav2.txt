@@ -1,0 +1,52 @@
+
+ lootav2,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:40:28.453101 
+
+ lootav2,     READY,        <Channel name: clix>,       2024-11-07 01:40:32.356154 
+
+ lootav2,     FINALLY,        <Channel name: clix>,       2024-11-07 01:40:35.408914 
+
+ lootav2,     mhm,        <Channel name: clix>,       2024-11-07 01:41:23.716282 
+
+ lootav2,     rt,        <Channel name: clix>,       2024-11-07 01:41:52.600639 
+
+ lootav2,     GET OUT,        <Channel name: clix>,       2024-11-07 01:42:07.698452 
+
+ lootav2,     uuh,        <Channel name: clix>,       2024-11-07 01:42:08.904833 
+
+ lootav2,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.709999 
+
+ lootav2,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:47.859110 
+
+ lootav2,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:42:47.936291 
+
+ lootav2,     WWWW,        <Channel name: clix>,       2024-11-07 01:42:47.997441 
+
+ lootav2,     FOCUS,        <Channel name: clix>,       2024-11-07 01:42:48.039929 
+
+ lootav2,     uuh,        <Channel name: clix>,       2024-11-07 01:42:51.701847 
+
+ lootav2,     WW,        <Channel name: clix>,       2024-11-07 01:43:03.546200 
+
+ lootav2,     WW WW,        <Channel name: clix>,       2024-11-07 01:43:06.125326 
+
+ lootav2,     OMG,        <Channel name: clix>,       2024-11-07 01:43:07.686338 
+
+ lootav2,     WWWWWW,        <Channel name: clix>,       2024-11-07 01:43:11.184536 
+
+ lootav2,     WAWWAAA,        <Channel name: clix>,       2024-11-07 01:43:12.773469 
+
+ lootav2,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:43:14.523184 
+
+ lootav2,     WWWWW,        <Channel name: clix>,       2024-11-07 01:43:16.008272 
+
+ lootav2,     NOWAY,        <Channel name: clix>,       2024-11-07 01:43:21.144877 
+
+ lootav2,     WWWW,        <Channel name: clix>,       2024-11-07 01:43:23.483687 
+
+ lootav2,     TAWAY,        <Channel name: clix>,       2024-11-07 01:43:24.731751 
+
+ lootav2,     WWWWWWWWWWW,        <Channel name: clix>,       2024-11-07 01:43:27.224296 
+
+ lootav2,     WW,        <Channel name: clix>,       2024-11-07 01:43:29.744261 
+
+ lootav2,     uuh,        <Channel name: clix>,       2024-11-07 02:48:34.319392 

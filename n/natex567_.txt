@@ -1,0 +1,12 @@
+
+ natex567_,     lma,        <Channel name: caseoh_>,       2024-11-07 01:41:03.464808 
+
+ natex567_,     TRUE,        <Channel name: caseoh_>,       2024-11-07 01:41:06.824732 
+
+ natex567_,     WAIT,        <Channel name: caseoh_>,       2024-11-07 01:53:02.314050 
+
+ natex567_,     PLEASE,        <Channel name: caseoh_>,       2024-11-07 01:53:08.610188 
+
+ natex567_,     WWWWWWWWW,        <Channel name: caseoh_>,       2024-11-07 01:53:48.198256 
+
+ natex567_,     W stream,        <Channel name: caseoh_>,       2024-11-07 01:56:24.759902 

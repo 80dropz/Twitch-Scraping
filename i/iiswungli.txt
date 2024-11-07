@@ -1,0 +1,22 @@
+
+ iiswungli,     Yes,        <Channel name: kaicenat>,       2024-11-07 01:53:04.351728 
+
+ iiswungli,     L,        <Channel name: kaicenat>,       2024-11-07 01:53:17.174807 
+
+ iiswungli,     l,        <Channel name: kaicenat>,       2024-11-07 01:53:23.539039 
+
+ iiswungli,     That's easy,        <Channel name: kaicenat>,       2024-11-07 01:53:50.818979 
+
+ iiswungli,     Yah,        <Channel name: kaicenat>,       2024-11-07 01:54:12.126135 
+
+ iiswungli,     33,        <Channel name: kaicenat>,       2024-11-07 02:01:25.641851 
+
+ iiswungli,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:47.925458 
+
+ iiswungli,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:55.371413 
+
+ iiswungli,     71,        <Channel name: kaicenat>,       2024-11-07 02:04:13.131831 
+
+ iiswungli,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:33.596849 
+
+ iiswungli,     83,        <Channel name: kaicenat>,       2024-11-07 02:07:13.808701 

@@ -1,0 +1,16 @@
+
+ selectmijo,     w 225,        <Channel name: kaicenat>,       2024-11-07 01:41:37.142988 
+
+ selectmijo,     WW,        <Channel name: kaicenat>,       2024-11-07 01:41:59.017150 
+
+ selectmijo,     35,        <Channel name: kaicenat>,       2024-11-07 01:43:27.667464 
+
+ selectmijo,     35s,        <Channel name: kaicenat>,       2024-11-07 01:44:20.044551 
+
+ selectmijo,     35s,        <Channel name: kaicenat>,       2024-11-07 01:44:55.159614 
+
+ selectmijo,     35,        <Channel name: kaicenat>,       2024-11-07 01:45:17.147159 
+
+ selectmijo,     35,        <Channel name: kaicenat>,       2024-11-07 01:46:35.953347 
+
+ selectmijo,     gg,        <Channel name: kaicenat>,       2024-11-07 01:49:41.240794 

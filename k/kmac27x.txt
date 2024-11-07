@@ -1,0 +1,6 @@
+
+ kmac27x,     Tcg,        <Channel name: caseoh_>,       2024-11-07 01:40:51.474853 
+
+ kmac27x,     Bro been gone a month,        <Channel name: caseoh_>,       2024-11-07 01:42:04.082136 
+
+ kmac27x,     Where was pancake,        <Channel name: caseoh_>,       2024-11-07 01:56:14.208057 

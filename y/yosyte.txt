@@ -1,0 +1,24 @@
+
+ yosyte,     ass lokey,        <Channel name: plaqueboymax>,       2024-11-07 01:43:28.518164 
+
+ yosyte,     ass,        <Channel name: plaqueboymax>,       2024-11-07 01:43:31.483321 
+
+ yosyte,     WROMG MIC WOO,        <Channel name: kaicenat>,       2024-11-07 02:19:54.759681 
+
+ yosyte,     WROMG MIC WOO,        <Channel name: kaicenat>,       2024-11-07 02:19:58.488349 
+
+ yosyte,     HEADSET MIC,        <Channel name: kaicenat>,       2024-11-07 02:20:03.792448 
+
+ yosyte,     MMMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:23:47.334336 
+
+ yosyte,     MMMMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:23:49.779575 
+
+ yosyte,     MMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:23:53.047744 
+
+ yosyte,     MMMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:24:10.723804 
+
+ yosyte,     ONG,        <Channel name: kaicenat>,       2024-11-07 02:24:48.317305 
+
+ yosyte,     FAXXXX,        <Channel name: kaicenat>,       2024-11-07 02:24:53.245985 
+
+ yosyte,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 02:24:55.542543 

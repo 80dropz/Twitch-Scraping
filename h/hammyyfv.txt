@@ -1,0 +1,16 @@
+
+ hammyyfv,     ww,        <Channel name: clix>,       2024-11-07 01:41:30.877053 
+
+ hammyyfv,     rt,        <Channel name: clix>,       2024-11-07 01:42:03.025800 
+
+ hammyyfv,     rtt,        <Channel name: clix>,       2024-11-07 01:42:11.413021 
+
+ hammyyfv,     rt,        <Channel name: clix>,       2024-11-07 01:42:14.544121 
+
+ hammyyfv,     mhm,        <Channel name: clix>,       2024-11-07 01:48:01.230367 
+
+ hammyyfv,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:57.074685 
+
+ hammyyfv,     lol,        <Channel name: clix>,       2024-11-07 01:57:52.995223 
+
+ hammyyfv,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:15.508283 

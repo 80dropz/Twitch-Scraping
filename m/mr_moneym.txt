@@ -1,0 +1,12 @@
+
+ mr_moneym,     any healers,        <Channel name: pokelawls>,       2024-11-07 01:56:51.309548 
+
+ mr_moneym,     LUL,        <Channel name: pokelawls>,       2024-11-07 02:00:25.556924 
+
+ mr_moneym,     JAMES,        <Channel name: pokelawls>,       2024-11-07 02:02:36.440246 
+
+ mr_moneym,     in the chat,        <Channel name: pokelawls>,       2024-11-07 02:02:49.604184 
+
+ mr_moneym,     omE,        <Channel name: pokelawls>,       2024-11-07 02:05:10.075645 
+
+ mr_moneym,     lebronJAM,        <Channel name: pokelawls>,       2024-11-07 02:06:13.534085 

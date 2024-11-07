@@ -1,0 +1,18 @@
+
+ icyslump,     dwa,        <Channel name: kaicenat>,       2024-11-07 01:18:17.317010 
+
+ icyslump,     wa,        <Channel name: kaicenat>,       2024-11-07 01:18:19.205929 
+
+ icyslump,     wddw,        <Channel name: kaicenat>,       2024-11-07 01:18:21.000180 
+
+ icyslump,     dwf,        <Channel name: kaicenat>,       2024-11-07 01:18:22.780879 
+
+ icyslump,     g,        <Channel name: kaicenat>,       2024-11-07 01:18:24.000310 
+
+ icyslump,     eswa,        <Channel name: kaicenat>,       2024-11-07 01:18:25.613729 
+
+ icyslump,     ge,        <Channel name: kaicenat>,       2024-11-07 01:18:27.106242 
+
+ icyslump,     hgesf,        <Channel name: kaicenat>,       2024-11-07 01:18:28.978251 
+
+ icyslump,     fes,        <Channel name: kaicenat>,       2024-11-07 01:18:30.206679 

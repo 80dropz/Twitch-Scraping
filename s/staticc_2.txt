@@ -1,0 +1,10 @@
+
+ staticc_2,     rip faze,        <Channel name: plaqueboymax>,       2024-11-07 02:05:11.452902 
+
+ staticc_2,     ??,        <Channel name: plaqueboymax>,       2024-11-07 02:07:31.530370 
+
+ staticc_2,     LOOOOL,        <Channel name: silky>,       2024-11-07 02:10:30.261326 
+
+ staticc_2,     ???,        <Channel name: silky>,       2024-11-07 02:11:06.357611 
+
+ staticc_2,     LMAOOOOO,        <Channel name: silky>,       2024-11-07 02:41:44.618509 

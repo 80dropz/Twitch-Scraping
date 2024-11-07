@@ -1,0 +1,6 @@
+
+ veasybucket,     WE CANT HEAR IT,        <Channel name: plaqueboymax>,       2024-11-07 01:40:50.992103 
+
+ veasybucket,     GOOD NOW WE CANT HEAR U,        <Channel name: plaqueboymax>,       2024-11-07 01:41:09.864348 
+
+ veasybucket,     ur mic muted,        <Channel name: plaqueboymax>,       2024-11-07 01:41:32.940101 

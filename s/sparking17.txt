@@ -1,0 +1,8 @@
+
+ sparking17,     ¿Taco,        <Channel name: vickypalami>,       2024-11-07 02:15:51.335094 
+
+ sparking17,     lookUp,        <Channel name: vickypalami>,       2024-11-07 02:15:58.608938 
+
+ sparking17,     ¿Cdr,        <Channel name: vickypalami>,       2024-11-07 02:16:03.182586 
+
+ sparking17,     ¿Taco,        <Channel name: vickypalami>,       2024-11-07 02:16:16.562840 

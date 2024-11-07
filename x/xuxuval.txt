@@ -1,0 +1,6 @@
+
+ xuxuval,     ready,        <Channel name: clix>,       2024-11-07 01:40:28.622767 
+
+ xuxuval,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:33.919448 
+
+ xuxuval,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:45.835307 

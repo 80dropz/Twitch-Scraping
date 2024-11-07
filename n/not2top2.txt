@@ -1,0 +1,6 @@
+
+ not2top2,     30,        <Channel name: kaicenat>,       2024-11-07 02:38:44.349302 
+
+ not2top2,     gh,        <Channel name: kaicenat>,       2024-11-07 02:39:03.920018 
+
+ not2top2,     gg,        <Channel name: kaicenat>,       2024-11-07 02:39:05.972146 

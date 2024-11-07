@@ -1,0 +1,10 @@
+
+ kesonup,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:29.951518 
+
+ kesonup,     W,        <Channel name: kaicenat>,       2024-11-07 02:08:57.155700 
+
+ kesonup,     Skinny,        <Channel name: kaicenat>,       2024-11-07 02:10:50.205964 
+
+ kesonup,     Stick,        <Channel name: kaicenat>,       2024-11-07 02:11:11.059528 
+
+ kesonup,     Capping,        <Channel name: kaicenat>,       2024-11-07 02:36:39.196233 

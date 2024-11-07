@@ -1,0 +1,32 @@
+
+ yisus_geo_zaza,     He?,        <Channel name: aldo_geo>,       2024-11-07 02:00:48.800988 
+
+ yisus_geo_zaza,     Que paso?,        <Channel name: aldo_geo>,       2024-11-07 02:05:37.621939 
+
+ yisus_geo_zaza,     Gg,        <Channel name: aldo_geo>,       2024-11-07 02:08:40.080502 
+
+ yisus_geo_zaza,     VoteYea VoteYea,        <Channel name: aldo_geo>,       2024-11-07 02:12:46.212391 
+
+ yisus_geo_zaza,     Si duras en el agua sale un boss,        <Channel name: aldo_geo>,       2024-11-07 02:15:35.467708 
+
+ yisus_geo_zaza,     Sal del agua,        <Channel name: aldo_geo>,       2024-11-07 02:16:42.502060 
+
+ yisus_geo_zaza,     XD,        <Channel name: aldo_geo>,       2024-11-07 02:17:31.242849 
+
+ yisus_geo_zaza,     Pistola,        <Channel name: aldo_geo>,       2024-11-07 02:33:19.858065 
+
+ yisus_geo_zaza,     No,        <Channel name: aldo_geo>,       2024-11-07 02:36:29.800019 
+
+ yisus_geo_zaza,     Jalo,        <Channel name: aldo_geo>,       2024-11-07 02:40:22.915283 
+
+ yisus_geo_zaza,     30k,        <Channel name: aldo_geo>,       2024-11-07 02:40:42.507963 
+
+ yisus_geo_zaza,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:42:14.259058 
+
+ yisus_geo_zaza,     Ora,        <Channel name: aldo_geo>,       2024-11-07 02:45:18.578981 
+
+ yisus_geo_zaza,     O7,        <Channel name: aldo_geo>,       2024-11-07 02:46:50.548559 
+
+ yisus_geo_zaza,     Abro ticket,        <Channel name: aldo_geo>,       2024-11-07 02:50:54.114059 
+
+ yisus_geo_zaza,     Si,        <Channel name: aldo_geo>,       2024-11-07 02:52:47.654664 

@@ -1,0 +1,16 @@
+
+ abinpakin,     blue = 2 safe 2 respin,        <Channel name: kaicenat>,       2024-11-07 01:23:06.257128 
+
+ abinpakin,     30secs,        <Channel name: kaicenat>,       2024-11-07 01:42:16.608142 
+
+ abinpakin,     no,        <Channel name: kaicenat>,       2024-11-07 01:43:21.757477 
+
+ abinpakin,     30,        <Channel name: kaicenat>,       2024-11-07 01:44:01.526216 
+
+ abinpakin,     noooo,        <Channel name: kaicenat>,       2024-11-07 01:45:01.422541 
+
+ abinpakin,     nooooo,        <Channel name: kaicenat>,       2024-11-07 01:45:06.996349 
+
+ abinpakin,     poll,        <Channel name: kaicenat>,       2024-11-07 01:45:53.855910 
+
+ abinpakin,     poll up!,        <Channel name: kaicenat>,       2024-11-07 01:46:25.118342 

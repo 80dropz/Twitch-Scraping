@@ -1,0 +1,70 @@
+
+ mutedavinci,     W,        <Channel name: kaicenat>,       2024-11-07 02:08:13.079520 
+
+ mutedavinci,     W W W W,        <Channel name: kaicenat>,       2024-11-07 02:08:15.478672 
+
+ mutedavinci,     W W,        <Channel name: kaicenat>,       2024-11-07 02:08:17.652060 
+
+ mutedavinci,     W W W W,        <Channel name: kaicenat>,       2024-11-07 02:08:21.222570 
+
+ mutedavinci,     W W,        <Channel name: kaicenat>,       2024-11-07 02:08:24.955399 
+
+ mutedavinci,     W,        <Channel name: kaicenat>,       2024-11-07 02:08:29.278401 
+
+ mutedavinci,     W W,        <Channel name: kaicenat>,       2024-11-07 02:08:39.556867 
+
+ mutedavinci,     W W W W,        <Channel name: kaicenat>,       2024-11-07 02:08:43.790696 
+
+ mutedavinci,     W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:01.323075 
+
+ mutedavinci,     W,        <Channel name: kaicenat>,       2024-11-07 02:09:12.858532 
+
+ mutedavinci,     W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:15.530427 
+
+ mutedavinci,     W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:18.860404 
+
+ mutedavinci,     W W W W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:21.836925 
+
+ mutedavinci,     W W,        <Channel name: kaicenat>,       2024-11-07 02:09:27.313911 
+
+ mutedavinci,     W W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:28.561309 
+
+ mutedavinci,     W W W W W W W W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:31.650505 
+
+ mutedavinci,     W,        <Channel name: kaicenat>,       2024-11-07 02:09:34.177547 
+
+ mutedavinci,     W W W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:36.562971 
+
+ mutedavinci,     W W W W W,        <Channel name: kaicenat>,       2024-11-07 02:09:42.241793 
+
+ mutedavinci,     FARMER KAI,        <Channel name: kaicenat>,       2024-11-07 02:34:11.331737 
+
+ mutedavinci,     FARMER KAI FARMER KAI,        <Channel name: kaicenat>,       2024-11-07 02:34:12.978419 
+
+ mutedavinci,     FARMER KAI FARMER KAI FARMER KAI,        <Channel name: kaicenat>,       2024-11-07 02:37:32.814248 
+
+ mutedavinci,     209 MESSAGES IS CRAZY,        <Channel name: kaicenat>,       2024-11-07 02:42:29.554040 
+
+ mutedavinci,     209 MESSAGES IS CRAZY 209 MESSAGES IS CRAZY,        <Channel name: kaicenat>,       2024-11-07 02:42:31.206906 
+
+ mutedavinci,     209 MESSAGES IS CRAZY,        <Channel name: kaicenat>,       2024-11-07 02:42:36.515243 
+
+ mutedavinci,     209 MESSAGES IS CRAZY 209 MESSAGES IS CRAZY,        <Channel name: kaicenat>,       2024-11-07 02:42:37.797448 
+
+ mutedavinci,     209 MESSAGES IS CRAZY,        <Channel name: kaicenat>,       2024-11-07 02:42:42.770484 
+
+ mutedavinci,     GLO PICKED HIM GLO PICKED HIM GLO PICKED HIM,        <Channel name: kaicenat>,       2024-11-07 02:44:39.504678 
+
+ mutedavinci,     GLO PICKED HIM,        <Channel name: kaicenat>,       2024-11-07 02:44:40.738008 
+
+ mutedavinci,     GLO PICKED HIM .,        <Channel name: kaicenat>,       2024-11-07 02:44:43.207684 
+
+ mutedavinci,     GLIT FA DA TWITCH,        <Channel name: kaicenat>,       2024-11-07 02:47:43.235950 
+
+ mutedavinci,     GLIT FA DA TWITCH GLIT FA DA TWITCH,        <Channel name: kaicenat>,       2024-11-07 02:47:44.543696 
+
+ mutedavinci,     GLITCH FA DA TWITCH,        <Channel name: kaicenat>,       2024-11-07 02:47:53.717301 
+
+ mutedavinci,     GLITCH FA DA TWITCH GLITCH FA DA TWITCH,        <Channel name: kaicenat>,       2024-11-07 02:47:56.737516 
+
+ mutedavinci,     GLITCH FA DA TWITCH,        <Channel name: kaicenat>,       2024-11-07 02:47:58.237101 

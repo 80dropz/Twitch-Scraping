@@ -1,0 +1,4 @@
+
+ schmay_,     !trio,        <Channel name: oatley>,       2024-11-07 02:12:44.838886 
+
+ schmay_,     !fill,        <Channel name: oatley>,       2024-11-07 02:12:57.125698 

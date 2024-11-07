@@ -1,0 +1,4 @@
+
+ operationog,     mid,        <Channel name: kaicenat>,       2024-11-07 02:11:13.916665 
+
+ operationog,     join discord,        <Channel name: silky>,       2024-11-07 02:12:11.262108 

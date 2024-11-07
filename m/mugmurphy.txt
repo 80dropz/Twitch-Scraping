@@ -1,0 +1,10 @@
+
+ mugmurphy,     Yes,        <Channel name: caseoh_>,       2024-11-07 01:45:49.632949 
+
+ mugmurphy,     I have,        <Channel name: caseoh_>,       2024-11-07 01:45:54.272659 
+
+ mugmurphy,     You know it,        <Channel name: caseoh_>,       2024-11-07 01:46:16.104884 
+
+ mugmurphy,     W,        <Channel name: caseoh_>,       2024-11-07 01:49:23.886788 
+
+ mugmurphy,     W STREAM,        <Channel name: caseoh_>,       2024-11-07 01:58:32.040481 
