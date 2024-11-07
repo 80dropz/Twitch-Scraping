@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  6swerve,     OATLEYYY WASSUP,        <Channel name: oatley>,       2024-11-07 01:39:41.593819 
+=======
+
+ 6swerve,     OATLEYYY WASSUP,        <Channel name: oatley>,       2024-11-07 01:39:41.593819 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1huntrv,     split or steal i’m out,        <Channel name: kaicenat>,       2024-11-07 01:36:14.546131 
 
@@ -8,3 +9,15 @@
  1huntrv,     kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 01:37:28.250145 
 
  1huntrv,     kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit,        <Channel name: kaicenat>,       2024-11-07 01:37:56.918962 
+=======
+
+ 1huntrv,     split or steal i’m out,        <Channel name: kaicenat>,       2024-11-07 01:36:14.546131 
+
+ 1huntrv,     shiiii i need a car,        <Channel name: kaicenat>,       2024-11-07 01:36:24.935996 
+
+ 1huntrv,     one way to pass time,        <Channel name: kaicenat>,       2024-11-07 01:37:12.748798 
+
+ 1huntrv,     kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 01:37:28.250145 
+
+ 1huntrv,     kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit kaicLovinit,        <Channel name: kaicenat>,       2024-11-07 01:37:56.918962 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

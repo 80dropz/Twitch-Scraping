@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  quail_says_hi,     Just say you suck,        <Channel name: caseoh_>,       2024-11-07 01:41:25.568562 
 
  quail_says_hi,     caseohIswhatitis caseohIswhatitis caseohIswhatitis caseohIswhatitis caseohIswhatitis,        <Channel name: caseoh_>,       2024-11-07 01:52:18.297559 
+=======
+
+ quail_says_hi,     Just say you suck,        <Channel name: caseoh_>,       2024-11-07 01:41:25.568562 
+
+ quail_says_hi,     caseohIswhatitis caseohIswhatitis caseohIswhatitis caseohIswhatitis caseohIswhatitis,        <Channel name: caseoh_>,       2024-11-07 01:52:18.297559 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

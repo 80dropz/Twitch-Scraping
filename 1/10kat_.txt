@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  10kat_,     How does a Nuke work here on B,        <Channel name: swagg>,       2024-11-07 01:52:06.290973 
+=======
+
+ 10kat_,     How does a Nuke work here on B,        <Channel name: swagg>,       2024-11-07 01:52:06.290973 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

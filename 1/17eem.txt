@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  17eem,     FIX RON PART ITS A BIT SHAKYY,        <Channel name: plaqueboymax>,       2024-11-07 01:49:21.303653 
 
@@ -6,3 +7,13 @@
  17eem,     FIX SOME PARTS MAX LIKE RON SHAKING VOICE,        <Channel name: plaqueboymax>,       2024-11-07 01:57:12.935762 
 
  17eem,     silky must be off like 5 gfuels bruh,        <Channel name: plaqueboymax>,       2024-11-07 02:05:55.720458 
+=======
+
+ 17eem,     FIX RON PART ITS A BIT SHAKYY,        <Channel name: plaqueboymax>,       2024-11-07 01:49:21.303653 
+
+ 17eem,     FIX RON PART ITS A BIT SHAKYY  FIX RON PART ITS A BIT SHAKYY.,        <Channel name: plaqueboymax>,       2024-11-07 01:49:24.627776 
+
+ 17eem,     FIX SOME PARTS MAX LIKE RON SHAKING VOICE,        <Channel name: plaqueboymax>,       2024-11-07 01:57:12.935762 
+
+ 17eem,     silky must be off like 5 gfuels bruh,        <Channel name: plaqueboymax>,       2024-11-07 02:05:55.720458 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

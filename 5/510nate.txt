@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  510nate,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:21:34.417581 
 
@@ -74,3 +75,81 @@
  510nate,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 02:52:11.105209 
 
  510nate,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 02:52:14.238892 
+=======
+
+ 510nate,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 02:21:34.417581 
+
+ 510nate,     YURRRRRRR,        <Channel name: kaicenat>,       2024-11-07 02:21:41.904481 
+
+ 510nate,     MMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:22:58.631184 
+
+ 510nate,     SPITTIN,        <Channel name: kaicenat>,       2024-11-07 02:23:03.430056 
+
+ 510nate,     FAXXXXX,        <Channel name: kaicenat>,       2024-11-07 02:23:12.914311 
+
+ 510nate,     MMMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:23:16.725630 
+
+ 510nate,     COOOOOOOK,        <Channel name: kaicenat>,       2024-11-07 02:23:23.566424 
+
+ 510nate,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:25:16.390998 
+
+ 510nate,     SILKYYYYYY,        <Channel name: kaicenat>,       2024-11-07 02:27:18.742573 
+
+ 510nate,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:28:45.718724 
+
+ 510nate,     SPITTTTTTT,        <Channel name: kaicenat>,       2024-11-07 02:28:50.529683 
+
+ 510nate,     ONG,        <Channel name: kaicenat>,       2024-11-07 02:28:56.371445 
+
+ 510nate,     FAXXXX,        <Channel name: kaicenat>,       2024-11-07 02:29:06.786015 
+
+ 510nate,     nahhhhhh,        <Channel name: kaicenat>,       2024-11-07 02:29:58.011844 
+
+ 510nate,     lmaoooo,        <Channel name: kaicenat>,       2024-11-07 02:30:01.007816 
+
+ 510nate,     YOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:30:05.392750 
+
+ 510nate,     LOLLLLL,        <Channel name: kaicenat>,       2024-11-07 02:31:05.543668 
+
+ 510nate,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:31:11.394576 
+
+ 510nate,     NAHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:31:17.025151 
+
+ 510nate,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:34:34.568053 
+
+ 510nate,     YOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:34:38.351244 
+
+ 510nate,     THATS WILLDDDD,        <Channel name: kaicenat>,       2024-11-07 02:34:46.995980 
+
+ 510nate,     YOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:45:33.712839 
+
+ 510nate,     LOLLLLL,        <Channel name: kaicenat>,       2024-11-07 02:48:15.827283 
+
+ 510nate,     YOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:48:18.212628 
+
+ 510nate,     YOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:49:17.068301 
+
+ 510nate,     LMAOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:49:19.835128 
+
+ 510nate,     LOOOOOOOOOLLLL,        <Channel name: kaicenat>,       2024-11-07 02:49:25.193721 
+
+ 510nate,     NAHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:49:26.803376 
+
+ 510nate,     WTFFFFFF,        <Channel name: kaicenat>,       2024-11-07 02:49:30.174544 
+
+ 510nate,     AYOOO,        <Channel name: kaicenat>,       2024-11-07 02:49:42.292511 
+
+ 510nate,     W GIFTERS,        <Channel name: kaicenat>,       2024-11-07 02:50:18.087867 
+
+ 510nate,     W,        <Channel name: kaicenat>,       2024-11-07 02:50:29.315955 
+
+ 510nate,     MMMMM,        <Channel name: kaicenat>,       2024-11-07 02:50:35.766018 
+
+ 510nate,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:50:39.317956 
+
+ 510nate,     YURRRRRR,        <Channel name: kaicenat>,       2024-11-07 02:50:51.614490 
+
+ 510nate,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 02:52:11.105209 
+
+ 510nate,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 02:52:14.238892 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

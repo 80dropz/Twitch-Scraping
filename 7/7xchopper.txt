@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  7xchopper,     libido,        <Channel name: clix>,       2024-11-07 01:52:20.663089 
 
  7xchopper,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:46.369830 
+=======
+
+ 7xchopper,     libido,        <Channel name: clix>,       2024-11-07 01:52:20.663089 
+
+ 7xchopper,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:46.369830 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

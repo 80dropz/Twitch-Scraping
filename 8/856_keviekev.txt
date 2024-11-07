@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  856_keviekev,     Something wrong with it,        <Channel name: kaicenat>,       2024-11-07 01:34:37.220713 
+=======
+
+ 856_keviekev,     Something wrong with it,        <Channel name: kaicenat>,       2024-11-07 01:34:37.220713 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

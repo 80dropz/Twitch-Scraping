@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  2crxzy90,     W,        <Channel name: kaicenat>,       2024-11-07 01:20:08.355949 
+=======
+
+ 2crxzy90,     W,        <Channel name: kaicenat>,       2024-11-07 01:20:08.355949 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

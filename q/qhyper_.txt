@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qhyper_,     REPLACE ITEMS ON THE WHEEL AFTER YOU DO IT,        <Channel name: kaicenat>,       2024-11-07 01:21:14.245340 
 
@@ -16,3 +17,23 @@
  qhyper_,     23,        <Channel name: kaicenat>,       2024-11-07 01:59:33.820839 
 
  qhyper_,     39,        <Channel name: kaicenat>,       2024-11-07 01:59:52.928010 
+=======
+
+ qhyper_,     REPLACE ITEMS ON THE WHEEL AFTER YOU DO IT,        <Channel name: kaicenat>,       2024-11-07 01:21:14.245340 
+
+ qhyper_,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:25.250721 
+
+ qhyper_,     no deal just add new things,        <Channel name: kaicenat>,       2024-11-07 01:23:23.788236 
+
+ qhyper_,     ADD HOT CHIP,        <Channel name: kaicenat>,       2024-11-07 01:23:34.018588 
+
+ qhyper_,     W PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 01:23:57.280856 
+
+ qhyper_,     that shit light,        <Channel name: kaicenat>,       2024-11-07 01:52:08.777768 
+
+ qhyper_,     pull up mod chat logs to track,        <Channel name: kaicenat>,       2024-11-07 01:58:05.958872 
+
+ qhyper_,     23,        <Channel name: kaicenat>,       2024-11-07 01:59:33.820839 
+
+ qhyper_,     39,        <Channel name: kaicenat>,       2024-11-07 01:59:52.928010 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

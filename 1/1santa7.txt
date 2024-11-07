@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1santa7,     3,        <Channel name: kaicenat>,       2024-11-07 01:19:17.874291 
 
@@ -8,3 +9,15 @@
  1santa7,     RESPINNNNNN,        <Channel name: kaicenat>,       2024-11-07 01:22:36.949096 
 
  1santa7,     RGGIED,        <Channel name: kaicenat>,       2024-11-07 01:22:40.828646 
+=======
+
+ 1santa7,     3,        <Channel name: kaicenat>,       2024-11-07 01:19:17.874291 
+
+ 1santa7,     2,        <Channel name: kaicenat>,       2024-11-07 01:19:19.354358 
+
+ 1santa7,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:22:29.350968 
+
+ 1santa7,     RESPINNNNNN,        <Channel name: kaicenat>,       2024-11-07 01:22:36.949096 
+
+ 1santa7,     RGGIED,        <Channel name: kaicenat>,       2024-11-07 01:22:40.828646 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  2wavybby,     yak pt2,        <Channel name: kaicenat>,       2024-11-07 02:24:16.657769 
+=======
+
+ 2wavybby,     yak pt2,        <Channel name: kaicenat>,       2024-11-07 02:24:16.657769 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

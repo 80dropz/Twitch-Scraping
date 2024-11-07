@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qill_qill,     No,        <Channel name: kaicenat>,       2024-11-07 01:21:02.438984 
 
@@ -6,3 +7,13 @@
  qill_qill,     Buried alive,        <Channel name: kaicenat>,       2024-11-07 01:36:48.351201 
 
  qill_qill,     RIP kai,        <Channel name: kaicenat>,       2024-11-07 01:41:40.284613 
+=======
+
+ qill_qill,     No,        <Channel name: kaicenat>,       2024-11-07 01:21:02.438984 
+
+ qill_qill,     Eat cricket,        <Channel name: kaicenat>,       2024-11-07 01:23:35.178051 
+
+ qill_qill,     Buried alive,        <Channel name: kaicenat>,       2024-11-07 01:36:48.351201 
+
+ qill_qill,     RIP kai,        <Channel name: kaicenat>,       2024-11-07 01:41:40.284613 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

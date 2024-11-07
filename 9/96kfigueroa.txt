@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  96kfigueroa,     I’m backshoting while typing this lowti3LIFE,        <Channel name: lowtiergod>,       2024-11-07 01:44:10.058470 
 
  96kfigueroa,     @almightytundra lowti3LIFE,        <Channel name: lowtiergod>,       2024-11-07 01:44:51.659228 
+=======
+
+ 96kfigueroa,     I’m backshoting while typing this lowti3LIFE,        <Channel name: lowtiergod>,       2024-11-07 01:44:10.058470 
+
+ 96kfigueroa,     @almightytundra lowti3LIFE,        <Channel name: lowtiergod>,       2024-11-07 01:44:51.659228 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

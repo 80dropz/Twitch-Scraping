@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  0pogix,     pre scamge,        <Channel name: clix>,       2024-11-07 01:40:14.941858 
 
@@ -76,3 +77,83 @@
  0pogix,     Listening,        <Channel name: clix>,       2024-11-07 02:42:47.963697 
 
  0pogix,     mhm,        <Channel name: clix>,       2024-11-07 02:42:58.562278 
+=======
+
+ 0pogix,     pre scamge,        <Channel name: clix>,       2024-11-07 01:40:14.941858 
+
+ 0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 01:40:24.342591 
+
+ 0pogix,     HYPERCLAP,        <Channel name: clix>,       2024-11-07 01:40:31.911229 
+
+ 0pogix,     Prayge hope i win,        <Channel name: clix>,       2024-11-07 01:41:04.091984 
+
+ 0pogix,     D:,        <Channel name: clix>,       2024-11-07 01:41:50.664649 
+
+ 0pogix,     rt,        <Channel name: clix>,       2024-11-07 01:41:53.380580 
+
+ 0pogix,     scamge,        <Channel name: clix>,       2024-11-07 01:42:47.763364 
+
+ 0pogix,     LETSGO,        <Channel name: clix>,       2024-11-07 01:42:47.940823 
+
+ 0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 01:42:48.623457 
+
+ 0pogix,     me,        <Channel name: clix>,       2024-11-07 01:42:51.128987 
+
+ 0pogix,     LETSGO,        <Channel name: clix>,       2024-11-07 01:42:56.609655 
+
+ 0pogix,     OOOO,        <Channel name: clix>,       2024-11-07 01:43:00.980679 
+
+ 0pogix,     monkaInsane,        <Channel name: clix>,       2024-11-07 01:43:07.029064 
+
+ 0pogix,     ome32,        <Channel name: clix>,       2024-11-07 01:43:27.614632 
+
+ 0pogix,     eww,        <Channel name: clix>,       2024-11-07 01:43:36.407099 
+
+ 0pogix,     WEDIDIT,        <Channel name: clix>,       2024-11-07 01:44:16.928639 
+
+ 0pogix,     NOTED,        <Channel name: clix>,       2024-11-07 01:48:23.087690 
+
+ 0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 01:48:33.684632 
+
+ 0pogix,     i got it,        <Channel name: clix>,       2024-11-07 01:48:38.500916 
+
+ 0pogix,     ApuApproved,        <Channel name: clix>,       2024-11-07 01:48:53.077392 
+
+ 0pogix,     i did,        <Channel name: clix>,       2024-11-07 01:49:14.703630 
+
+ 0pogix,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:35.072060 
+
+ 0pogix,     ome32,        <Channel name: clix>,       2024-11-07 02:36:22.673262 
+
+ 0pogix,     uuh,        <Channel name: clix>,       2024-11-07 02:37:30.912314 
+
+ 0pogix,     GYAAAT,        <Channel name: clix>,       2024-11-07 02:37:37.991646 
+
+ 0pogix,     WW feld carring the stream,        <Channel name: clix>,       2024-11-07 02:37:52.415823 
+
+ 0pogix,     alr chat,        <Channel name: clix>,       2024-11-07 02:37:55.038353 
+
+ 0pogix,     not,        <Channel name: clix>,       2024-11-07 02:38:13.916795 
+
+ 0pogix,     no,        <Channel name: clix>,       2024-11-07 02:38:15.642057 
+
+ 0pogix,     eww,        <Channel name: clix>,       2024-11-07 02:40:38.520389 
+
+ 0pogix,     rt,        <Channel name: clix>,       2024-11-07 02:40:56.142373 
+
+ 0pogix,     fax,        <Channel name: clix>,       2024-11-07 02:41:12.127077 
+
+ 0pogix,     he literally is,        <Channel name: clix>,       2024-11-07 02:41:20.366087 
+
+ 0pogix,     true eww,        <Channel name: clix>,       2024-11-07 02:41:39.425306 
+
+ 0pogix,     jorkin,        <Channel name: clix>,       2024-11-07 02:41:58.514547 
+
+ 0pogix,     SoCute,        <Channel name: clix>,       2024-11-07 02:42:23.614159 
+
+ 0pogix,     ti is,        <Channel name: clix>,       2024-11-07 02:42:42.758463 
+
+ 0pogix,     Listening,        <Channel name: clix>,       2024-11-07 02:42:47.963697 
+
+ 0pogix,     mhm,        <Channel name: clix>,       2024-11-07 02:42:58.562278 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

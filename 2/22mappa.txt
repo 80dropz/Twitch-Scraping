@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  22mappa,     Clix,        <Channel name: clix>,       2024-11-07 02:02:20.319709 
+=======
+
+ 22mappa,     Clix,        <Channel name: clix>,       2024-11-07 02:02:20.319709 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1500black,     LUL "Pls respond",        <Channel name: cooksux>,       2024-11-07 02:39:34.645324 
+=======
+
+ 1500black,     LUL "Pls respond",        <Channel name: cooksux>,       2024-11-07 02:39:34.645324 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:37:52.488989 
 
@@ -20,3 +21,27 @@
  7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:38:00.576790 
 
  7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me .,        <Channel name: noemi>,       2024-11-07 02:38:02.788581 
+=======
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:37:52.488989 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me .,        <Channel name: noemi>,       2024-11-07 02:37:53.098702 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me ..,        <Channel name: noemi>,       2024-11-07 02:37:53.771160 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me ....,        <Channel name: noemi>,       2024-11-07 02:37:54.277432 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me ....@noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:37:56.093264 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:37:56.743222 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me .,        <Channel name: noemi>,       2024-11-07 02:37:57.395094 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me ..,        <Channel name: noemi>,       2024-11-07 02:37:58.524140 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me ....,        <Channel name: noemi>,       2024-11-07 02:37:59.735885 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me,        <Channel name: noemi>,       2024-11-07 02:38:00.576790 
+
+ 7viperz,     @noemi tell ur mod to chill before i get heavy and she ban me .,        <Channel name: noemi>,       2024-11-07 02:38:02.788581 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

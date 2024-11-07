@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  310_daniiel,     it’s your bday and bro looking dusty lmao,        <Channel name: noemi>,       2024-11-07 02:34:17.475974 
+=======
+
+ 310_daniiel,     it’s your bday and bro looking dusty lmao,        <Channel name: noemi>,       2024-11-07 02:34:17.475974 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

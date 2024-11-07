@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  100kkryptic,     yes,        <Channel name: nadeshot>,       2024-11-07 02:38:53.221128 
+=======
+
+ 100kkryptic,     yes,        <Channel name: nadeshot>,       2024-11-07 02:38:53.221128 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

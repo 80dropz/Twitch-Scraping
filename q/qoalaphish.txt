@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qoalaphish,     MONKE,        <Channel name: gigguk>,       2024-11-07 01:43:18.267376 
 
@@ -18,3 +19,25 @@
  qoalaphish,     Yep,        <Channel name: gigguk>,       2024-11-07 02:02:48.726775 
 
  qoalaphish,     Paimons inside voice is someones shouting voice,        <Channel name: gigguk>,       2024-11-07 02:13:18.464943 
+=======
+
+ qoalaphish,     MONKE,        <Channel name: gigguk>,       2024-11-07 01:43:18.267376 
+
+ qoalaphish,     Wow, it was 50/50 for a moment there,        <Channel name: gigguk>,       2024-11-07 01:44:07.051971 
+
+ qoalaphish,     This is like last night all over again,        <Channel name: gigguk>,       2024-11-07 01:44:52.159867 
+
+ qoalaphish,     Democracy is a mistake!,        <Channel name: gigguk>,       2024-11-07 01:45:52.590389 
+
+ qoalaphish,     Nahida b-day is now,        <Channel name: gigguk>,       2024-11-07 01:46:47.011676 
+
+ qoalaphish,     The sound of escapism,        <Channel name: gigguk>,       2024-11-07 01:54:25.177828 
+
+ qoalaphish,     OUI LETSGO,        <Channel name: gigguk>,       2024-11-07 01:58:03.541287 
+
+ qoalaphish,     oui oui puaso,        <Channel name: gigguk>,       2024-11-07 02:01:40.387326 
+
+ qoalaphish,     Yep,        <Channel name: gigguk>,       2024-11-07 02:02:48.726775 
+
+ qoalaphish,     Paimons inside voice is someones shouting voice,        <Channel name: gigguk>,       2024-11-07 02:13:18.464943 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  9javiii,     dtm,        <Channel name: kaicenat>,       2024-11-07 02:18:32.737267 
 
@@ -552,3 +553,559 @@
  9javiii,     @Vaxityy_ tahi,        <Channel name: kaicenat>,       2024-11-07 02:53:23.295254 
 
  9javiii,     JP,        <Channel name: kaicenat>,       2024-11-07 02:53:32.535840 
+=======
+
+ 9javiii,     dtm,        <Channel name: kaicenat>,       2024-11-07 02:18:32.737267 
+
+ 9javiii,     dtmm,        <Channel name: kaicenat>,       2024-11-07 02:18:37.323267 
+
+ 9javiii,     RON AURA,        <Channel name: kaicenat>,       2024-11-07 02:19:59.962362 
+
+ 9javiii,     RON AURA,        <Channel name: kaicenat>,       2024-11-07 02:20:02.705599 
+
+ 9javiii,     RON AURA,        <Channel name: kaicenat>,       2024-11-07 02:20:08.005518 
+
+ 9javiii,     OFC,        <Channel name: kaicenat>,       2024-11-07 02:20:16.114365 
+
+ 9javiii,     OFCC\,        <Channel name: kaicenat>,       2024-11-07 02:20:19.545683 
+
+ 9javiii,     RON THE MAIN CHARATER,        <Channel name: kaicenat>,       2024-11-07 02:20:22.141361 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:20:49.167726 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:20:51.337567 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:03.212455 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:05.585514 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:08.848437 
+
+ 9javiii,     RON AURA,        <Channel name: kaicenat>,       2024-11-07 02:21:16.622928 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:21:38.421372 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:21:40.793034 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:21:46.922604 
+
+ 9javiii,     TAWAY,        <Channel name: kaicenat>,       2024-11-07 02:21:51.470479 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:21:54.395776 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:21:56.628277 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:21:58.774349 
+
+ 9javiii,     tata,        <Channel name: kaicenat>,       2024-11-07 02:22:01.866791 
+
+ 9javiii,     ta ta,        <Channel name: kaicenat>,       2024-11-07 02:22:05.526547 
+
+ 9javiii,     spam ta,        <Channel name: kaicenat>,       2024-11-07 02:22:15.841365 
+
+ 9javiii,     spam ta,        <Channel name: kaicenat>,       2024-11-07 02:22:24.166243 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:22:28.731501 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:22:34.182789 
+
+ 9javiii,     ta,        <Channel name: kaicenat>,       2024-11-07 02:22:40.550521 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:22:51.802128 
+
+ 9javiii,     rt,        <Channel name: kaicenat>,       2024-11-07 02:23:12.303799 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:23:13.739437 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:23:21.486815 
+
+ 9javiii,     dyk PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:23:33.825131 
+
+ 9javiii,     DYK PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:23:39.962616 
+
+ 9javiii,     DYK PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:23:42.700660 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:23:55.706603 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:23:59.849493 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:24:09.731137 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:24:12.328002 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:24:15.772410 
+
+ 9javiii,     uuh pffttt,        <Channel name: kaicenat>,       2024-11-07 02:24:28.237976 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:24:33.365450 
+
+ 9javiii,     uuh\,        <Channel name: kaicenat>,       2024-11-07 02:24:34.921195 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:24:37.282671 
+
+ 9javiii,     uuh silky,        <Channel name: kaicenat>,       2024-11-07 02:24:44.441657 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:25:01.983557 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:25:04.174953 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:25:06.656512 
+
+ 9javiii,     NYC NGS IS CORNY NOW,        <Channel name: kaicenat>,       2024-11-07 02:25:42.821619 
+
+ 9javiii,     NYC NGS IS CORNY NOW,        <Channel name: kaicenat>,       2024-11-07 02:25:47.706182 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:25:58.304193 
+
+ 9javiii,     @fwpoppa BRO I BE AROUND NYC NGS THERE CORNY THATS WHY THEY DONT WANNA ACT NY ANYMORE,        <Channel name: kaicenat>,       2024-11-07 02:26:23.569600 
+
+ 9javiii,     ???????,        <Channel name: kaicenat>,       2024-11-07 02:26:29.551454 
+
+ 9javiii,     GLAZE DONU,        <Channel name: kaicenat>,       2024-11-07 02:26:34.553647 
+
+ 9javiii,     MMMMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:26:42.897384 
+
+ 9javiii,     WWW,        <Channel name: kaicenat>,       2024-11-07 02:26:44.970820 
+
+ 9javiii,     WW,        <Channel name: kaicenat>,       2024-11-07 02:26:46.082120 
+
+ 9javiii,     WW,        <Channel name: kaicenat>,       2024-11-07 02:26:49.227755 
+
+ 9javiii,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:26:55.807394 
+
+ 9javiii,     HE TRIED TO LEAVE 40 TIMES,        <Channel name: kaicenat>,       2024-11-07 02:27:02.596711 
+
+ 9javiii,     HE TRIED TO LEAVE 40 TIMES,        <Channel name: kaicenat>,       2024-11-07 02:27:12.738113 
+
+ 9javiii,     O,        <Channel name: kaicenat>,       2024-11-07 02:27:23.625949 
+
+ 9javiii,     THE OF THOT,        <Channel name: kaicenat>,       2024-11-07 02:27:29.613807 
+
+ 9javiii,     THE OF THOT,        <Channel name: kaicenat>,       2024-11-07 02:27:31.714747 
+
+ 9javiii,     THE OF THOT,        <Channel name: kaicenat>,       2024-11-07 02:27:34.211716 
+
+ 9javiii,     O,        <Channel name: kaicenat>,       2024-11-07 02:27:49.572579 
+
+ 9javiii,     O,        <Channel name: kaicenat>,       2024-11-07 02:27:52.225895 
+
+ 9javiii,     O,        <Channel name: kaicenat>,       2024-11-07 02:27:54.762137 
+
+ 9javiii,     ronCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:27:59.816423 
+
+ 9javiii,     ronCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:28:02.324444 
+
+ 9javiii,     x9javiLaugh x9javiLaugh x9javiLaugh x9javiLaugh,        <Channel name: kaicenat>,       2024-11-07 02:28:09.249842 
+
+ 9javiii,     kaicDYK kaicDYK kaicDYK kaicDYK kaicDYK kaicDYK,        <Channel name: kaicenat>,       2024-11-07 02:28:16.554515 
+
+ 9javiii,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:28:34.094958 
+
+ 9javiii,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:28:36.788372 
+
+ 9javiii,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:28:41.184080 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:28:46.838135 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:28:49.578283 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:28:52.895807 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:28:56.005592 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:12.451694 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:14.819508 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:17.049457 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:19.905681 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:22.215442 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:25.064088 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:31.599671 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:33.973271 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:44.148504 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:51.504656 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:29:56.463146 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:30:07.536190 
+
+ 9javiii,     ASK HIM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:30:11.056565 
+
+ 9javiii,     KRKRK,        <Channel name: kaicenat>,       2024-11-07 02:30:19.444568 
+
+ 9javiii,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:30:20.884280 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:30:29.768421 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:01.560022 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:03.766089 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:18.432090 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:20.064620 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:21.880224 
+
+ 9javiii,     WELL WELL WEL,        <Channel name: kaicenat>,       2024-11-07 02:31:38.519936 
+
+ 9javiii,     WELLL WELL WELLL,        <Channel name: kaicenat>,       2024-11-07 02:31:46.027903 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:31:49.000939 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:32:03.496805 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:32:15.921337 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:32:17.108961 
+
+ 9javiii,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:32:23.583671 
+
+ 9javiii,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:32:52.969908 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:32:54.966280 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:33:06.556917 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:33:13.170092 
+
+ 9javiii,     THE CLAPPING,        <Channel name: kaicenat>,       2024-11-07 02:34:04.669768 
+
+ 9javiii,     ASK EM ABOUT DEMI @KaiCenat,        <Channel name: kaicenat>,       2024-11-07 02:34:10.826308 
+
+ 9javiii,     clap,        <Channel name: kaicenat>,       2024-11-07 02:34:26.669698 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:34:38.071264 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:34:45.432465 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:34:48.697177 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:34:52.250253 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:34:54.974349 
+
+ 9javiii,     Clapayoooooooooo\,        <Channel name: kaicenat>,       2024-11-07 02:35:01.485864 
+
+ 9javiii,     ayooo,        <Channel name: kaicenat>,       2024-11-07 02:35:05.382592 
+
+ 9javiii,     AYOOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:35:10.593155 
+
+ 9javiii,     AYOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:35:16.471811 
+
+ 9javiii,     PAUSE,        <Channel name: kaicenat>,       2024-11-07 02:35:20.582879 
+
+ 9javiii,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:36:16.937571 
+
+ 9javiii,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:36:18.879005 
+
+ 9javiii,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:36:19.808281 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:36:30.566070 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:36:33.158749 
+
+ 9javiii,     Clap,        <Channel name: kaicenat>,       2024-11-07 02:36:36.561943 
+
+ 9javiii,     classic,        <Channel name: kaicenat>,       2024-11-07 02:37:32.692404 
+
+ 9javiii,     classic,        <Channel name: kaicenat>,       2024-11-07 02:37:34.566079 
+
+ 9javiii,     classic,        <Channel name: kaicenat>,       2024-11-07 02:37:42.475698 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:37:56.097312 
+
+ 9javiii,     he know he love them hoes,        <Channel name: kaicenat>,       2024-11-07 02:38:02.890857 
+
+ 9javiii,     he know he love them hoes,        <Channel name: kaicenat>,       2024-11-07 02:38:04.601209 
+
+ 9javiii,     he know he love them hoes,        <Channel name: kaicenat>,       2024-11-07 02:38:06.815210 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:38:18.365905 
+
+ 9javiii,     ???????,        <Channel name: kaicenat>,       2024-11-07 02:38:22.919036 
+
+ 9javiii,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:38:23.935644 
+
+ 9javiii,     Cap,        <Channel name: kaicenat>,       2024-11-07 02:38:26.486667 
+
+ 9javiii,     cap,        <Channel name: kaicenat>,       2024-11-07 02:38:29.027788 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:38:32.764241 
+
+ 9javiii,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:38.840351 
+
+ 9javiii,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:40.948649 
+
+ 9javiii,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:44.345331 
+
+ 9javiii,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:47.134254 
+
+ 9javiii,     DAAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:55.423957 
+
+ 9javiii,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:59.103692 
+
+ 9javiii,     FRIES,        <Channel name: kaicenat>,       2024-11-07 02:39:02.993060 
+
+ 9javiii,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:39:12.835877 
+
+ 9javiii,     LMAO,        <Channel name: kaicenat>,       2024-11-07 02:39:14.521984 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:39:21.046094 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:39:22.640137 
+
+ 9javiii,     ome44 .,        <Channel name: kaicenat>,       2024-11-07 02:39:29.771429 
+
+ 9javiii,     ome44 .,        <Channel name: kaicenat>,       2024-11-07 02:39:32.880149 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:39:41.136459 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:39:48.843712 
+
+ 9javiii,     cap,        <Channel name: kaicenat>,       2024-11-07 02:40:05.505608 
+
+ 9javiii,     cappppppppppppp,        <Channel name: kaicenat>,       2024-11-07 02:40:07.071099 
+
+ 9javiii,     na hes not trolling,        <Channel name: kaicenat>,       2024-11-07 02:40:30.740329 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:40:39.055632 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:40:46.019462 
+
+ 9javiii,     Sus o,        <Channel name: kaicenat>,       2024-11-07 02:40:52.720448 
+
+ 9javiii,     Sus ..,        <Channel name: kaicenat>,       2024-11-07 02:41:03.391704 
+
+ 9javiii,     dtm,        <Channel name: kaicenat>,       2024-11-07 02:41:22.208346 
+
+ 9javiii,     ewwwwwww,        <Channel name: kaicenat>,       2024-11-07 02:41:27.084957 
+
+ 9javiii,     SLEEP TAT,        <Channel name: kaicenat>,       2024-11-07 02:41:32.391188 
+
+ 9javiii,     YES IT IS,        <Channel name: kaicenat>,       2024-11-07 02:41:49.628135 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:41:57.848627 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:42:00.428811 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:42:02.566331 
+
+ 9javiii,     DYK,        <Channel name: kaicenat>,       2024-11-07 02:42:05.799227 
+
+ 9javiii,     kaicDYK kaicDYK kaicDYK kaicDYK,        <Channel name: kaicenat>,       2024-11-07 02:42:11.652793 
+
+ 9javiii,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:42:27.132541 
+
+ 9javiii,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:42:29.552035 
+
+ 9javiii,     SYK,        <Channel name: kaicenat>,       2024-11-07 02:42:32.215302 
+
+ 9javiii,     DYK PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:42:55.060774 
+
+ 9javiii,     DYK PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:42:57.668607 
+
+ 9javiii,     DYK PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:43:00.601592 
+
+ 9javiii,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:43:02.121812 
+
+ 9javiii,     kaicDYK kaicDYK kaicDYK kaicDYK kaicDYK,        <Channel name: kaicenat>,       2024-11-07 02:43:07.121155 
+
+ 9javiii,     kaicDYK SAJ,        <Channel name: kaicenat>,       2024-11-07 02:43:17.063691 
+
+ 9javiii,     kaicDYK kaicDYK SAJ,        <Channel name: kaicenat>,       2024-11-07 02:43:37.495935 
+
+ 9javiii,     THE SPEED SITUATION ThoseWhoKnow,        <Channel name: kaicenat>,       2024-11-07 02:44:46.929007 
+
+ 9javiii,     THE SPEED SITUATION ThoseWhoKnow,        <Channel name: kaicenat>,       2024-11-07 02:44:51.108216 
+
+ 9javiii,     SPEED AND ASHKASH ThoseWhoKnow,        <Channel name: kaicenat>,       2024-11-07 02:45:06.944072 
+
+ 9javiii,     SPEED AND ASHKASH ThoseWhoKnow,        <Channel name: kaicenat>,       2024-11-07 02:45:09.348085 
+
+ 9javiii,     @jystriiii ThoseWhoKnow,        <Channel name: kaicenat>,       2024-11-07 02:45:31.375971 
+
+ 9javiii,     Assept,        <Channel name: kaicenat>,       2024-11-07 02:45:36.629471 
+
+ 9javiii,     Assept ,,        <Channel name: kaicenat>,       2024-11-07 02:45:41.146275 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:45:45.221439 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:45:48.556647 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:45:54.887938 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:45:59.355586 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:06.063368 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:11.981818 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:15.705527 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:19.494229 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:23.683813 
+
+ 9javiii,     Assept .,        <Channel name: kaicenat>,       2024-11-07 02:46:29.305657 
+
+ 9javiii,     NGL ILL DO ANYTHING FOR  kaicDYK TO HAPPENED,        <Channel name: kaicenat>,       2024-11-07 02:46:34.349569 
+
+ 9javiii,     NGL ILL DO ANYTHING FOR  kaicDYK TO HAPPENED,        <Channel name: kaicenat>,       2024-11-07 02:46:36.884848 
+
+ 9javiii,     NGL ILL DO ANYTHING FOR  kaicDYK TO HAPPENED,        <Channel name: kaicenat>,       2024-11-07 02:46:43.397188 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:46:50.021917 
+
+ 9javiii,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:46:52.152973 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:46:54.727768 
+
+ 9javiii,     THATS HOW MAX IS,        <Channel name: kaicenat>,       2024-11-07 02:47:00.180832 
+
+ 9javiii,     THATS HOW MAX IS,        <Channel name: kaicenat>,       2024-11-07 02:47:02.071835 
+
+ 9javiii,     THATS HOW MAX IS,        <Channel name: kaicenat>,       2024-11-07 02:47:04.406504 
+
+ 9javiii,     THATS HOW MAX IS,        <Channel name: kaicenat>,       2024-11-07 02:47:06.560478 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:14.894134 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:17.701225 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:21.821735 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:30.703632 
+
+ 9javiii,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:39.689070 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:47:52.493929 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:48:04.714886 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:48:08.174884 
+
+ 9javiii,     RTLMFAO,        <Channel name: kaicenat>,       2024-11-07 02:48:13.365903 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:48:22.252772 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:48:25.063341 
+
+ 9javiii,     CHAT SPAM ome44,        <Channel name: kaicenat>,       2024-11-07 02:48:31.383632 
+
+ 9javiii,     CHAT SPAM ome44,        <Channel name: kaicenat>,       2024-11-07 02:48:34.155597 
+
+ 9javiii,     ome44,        <Channel name: kaicenat>,       2024-11-07 02:48:46.527878 
+
+ 9javiii,     O,        <Channel name: kaicenat>,       2024-11-07 02:48:58.235177 
+
+ 9javiii,     classic,        <Channel name: kaicenat>,       2024-11-07 02:49:02.370205 
+
+ 9javiii,     classic,        <Channel name: kaicenat>,       2024-11-07 02:49:03.968394 
+
+ 9javiii,     delay,        <Channel name: kaicenat>,       2024-11-07 02:49:08.668330 
+
+ 9javiii,     delay,        <Channel name: kaicenat>,       2024-11-07 02:49:10.038828 
+
+ 9javiii,     delayy,        <Channel name: kaicenat>,       2024-11-07 02:49:14.125673 
+
+ 9javiii,     DELAYED,        <Channel name: kaicenat>,       2024-11-07 02:49:16.967320 
+
+ 9javiii,     gg HES WATCHING,        <Channel name: kaicenat>,       2024-11-07 02:49:39.573837 
+
+ 9javiii,     gg HES WATCHING,        <Channel name: kaicenat>,       2024-11-07 02:49:41.267854 
+
+ 9javiii,     gg HES WATCHING,        <Channel name: kaicenat>,       2024-11-07 02:49:43.121249 
+
+ 9javiii,     gg HES WATCHING,        <Channel name: kaicenat>,       2024-11-07 02:49:45.023948 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:00.319422 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:02.535003 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:04.927362 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:08.660823 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:12.383200 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:20.078937 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:22.022553 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:28.975141 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:32.391994 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:36.896674 
+
+ 9javiii,     Sus,        <Channel name: kaicenat>,       2024-11-07 02:50:39.038131 
+
+ 9javiii,     ww,        <Channel name: kaicenat>,       2024-11-07 02:50:50.102633 
+
+ 9javiii,     WW,        <Channel name: kaicenat>,       2024-11-07 02:50:51.450543 
+
+ 9javiii,     WW,        <Channel name: kaicenat>,       2024-11-07 02:50:54.265389 
+
+ 9javiii,     DICK RIDING,        <Channel name: kaicenat>,       2024-11-07 02:51:01.395092 
+
+ 9javiii,     DICK RIDING,        <Channel name: kaicenat>,       2024-11-07 02:51:04.051969 
+
+ 9javiii,     DICK RIDING,        <Channel name: kaicenat>,       2024-11-07 02:51:05.396518 
+
+ 9javiii,     RIDING,        <Channel name: kaicenat>,       2024-11-07 02:51:15.105291 
+
+ 9javiii,     prePffttt,        <Channel name: kaicenat>,       2024-11-07 02:51:32.107825 
+
+ 9javiii,     prePffttt,        <Channel name: kaicenat>,       2024-11-07 02:51:34.295036 
+
+ 9javiii,     RIDING,        <Channel name: kaicenat>,       2024-11-07 02:51:37.859353 
+
+ 9javiii,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:51:42.484326 
+
+ 9javiii,     SLKY MAD REAL,        <Channel name: kaicenat>,       2024-11-07 02:51:49.380737 
+
+ 9javiii,     SLKY MAD REAL,        <Channel name: kaicenat>,       2024-11-07 02:51:51.164099 
+
+ 9javiii,     BRA SHES A BILLIONARE SHE DONT CARE,        <Channel name: kaicenat>,       2024-11-07 02:52:01.875772 
+
+ 9javiii,     BRA SHES A BILLIONARE SHE DONT CARE,        <Channel name: kaicenat>,       2024-11-07 02:52:03.792024 
+
+ 9javiii,     BRA SHES A BILLIONARE SHE DONT CARE,        <Channel name: kaicenat>,       2024-11-07 02:52:05.614576 
+
+ 9javiii,     BRA SHES A BILLIONARE SHE DONT CARE,        <Channel name: kaicenat>,       2024-11-07 02:52:08.035289 
+
+ 9javiii,     I WAS THERE LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:52:12.754653 
+
+ 9javiii,     I WAS THERE LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:52:15.392647 
+
+ 9javiii,     I WAS THERE LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:52:17.467823 
+
+ 9javiii,     I WAS THERE LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:52:21.800830 
+
+ 9javiii,     I WAS THERE LMFAOO,        <Channel name: kaicenat>,       2024-11-07 02:52:24.856234 
+
+ 9javiii,     SHIT WAS LIT LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:52:36.398686 
+
+ 9javiii,     @JDotTheSage SHUT UP,        <Channel name: kaicenat>,       2024-11-07 02:52:39.526882 
+
+ 9javiii,     RT,        <Channel name: kaicenat>,       2024-11-07 02:52:43.736174 
+
+ 9javiii,     @JDotTheSage EMD,        <Channel name: kaicenat>,       2024-11-07 02:52:56.202187 
+
+ 9javiii,     EXACTLY,        <Channel name: kaicenat>,       2024-11-07 02:53:04.228481 
+
+ 9javiii,     EXACTLY,        <Channel name: kaicenat>,       2024-11-07 02:53:06.168760 
+
+ 9javiii,     @Vaxityy_ tahi,        <Channel name: kaicenat>,       2024-11-07 02:53:23.295254 
+
+ 9javiii,     JP,        <Channel name: kaicenat>,       2024-11-07 02:53:32.535840 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

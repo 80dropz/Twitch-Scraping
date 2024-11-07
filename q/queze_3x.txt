@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  queze_3x,     www,        <Channel name: kaicenat>,       2024-11-07 02:10:40.808490 
+=======
+
+ queze_3x,     www,        <Channel name: kaicenat>,       2024-11-07 02:10:40.808490 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

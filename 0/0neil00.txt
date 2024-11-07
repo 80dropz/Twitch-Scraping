@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  0neil00,     HE WAS CLAPPING,        <Channel name: kaicenat>,       2024-11-07 02:32:41.234140 
+=======
+
+ 0neil00,     HE WAS CLAPPING,        <Channel name: kaicenat>,       2024-11-07 02:32:41.234140 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

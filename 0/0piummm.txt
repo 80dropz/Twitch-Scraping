@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  0piummm,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:15:26.815595 
 
@@ -8,3 +9,15 @@
  0piummm,     NAHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:33:04.447312 
 
  0piummm,     NAHHHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:33:09.218487 
+=======
+
+ 0piummm,     KRKRKR,        <Channel name: kaicenat>,       2024-11-07 02:15:26.815595 
+
+ 0piummm,     cap,        <Channel name: kaicenat>,       2024-11-07 02:17:50.871037 
+
+ 0piummm,     no,        <Channel name: kaicenat>,       2024-11-07 02:18:00.299986 
+
+ 0piummm,     NAHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:33:04.447312 
+
+ 0piummm,     NAHHHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 02:33:09.218487 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

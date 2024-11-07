@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:06.607610 
 
@@ -48,3 +49,55 @@
  100tomanahmadzoghi,     is bot,        <Channel name: clix>,       2024-11-07 02:03:49.924772 
 
  100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:04:30.899604 
+=======
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 01:53:06.607610 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:48.511116 
+
+ 100tomanahmadzoghi,     skibidis,        <Channel name: clix>,       2024-11-07 01:56:25.511248 
+
+ 100tomanahmadzoghi,     yeah,        <Channel name: clix>,       2024-11-07 01:57:01.772284 
+
+ 100tomanahmadzoghi,     yeah 100%,        <Channel name: clix>,       2024-11-07 01:57:33.678020 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:40.894840 
+
+ 100tomanahmadzoghi,     yeah,        <Channel name: clix>,       2024-11-07 01:58:27.014600 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 01:58:57.434865 
+
+ 100tomanahmadzoghi,     no,        <Channel name: clix>,       2024-11-07 01:59:18.373577 
+
+ 100tomanahmadzoghi,     its bot,        <Channel name: clix>,       2024-11-07 01:59:50.139258 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:02.996716 
+
+ 100tomanahmadzoghi,     go again,        <Channel name: clix>,       2024-11-07 02:00:11.418338 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:17.735411 
+
+ 100tomanahmadzoghi,     skibidis,        <Channel name: clix>,       2024-11-07 02:00:44.614343 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:03.383650 
+
+ 100tomanahmadzoghi,     skibidifg,        <Channel name: clix>,       2024-11-07 02:01:09.196745 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:38.066129 
+
+ 100tomanahmadzoghi,     skibidis,        <Channel name: clix>,       2024-11-07 02:01:56.335937 
+
+ 100tomanahmadzoghi,     noooo,        <Channel name: clix>,       2024-11-07 02:02:55.162643 
+
+ 100tomanahmadzoghi,     bot w,        <Channel name: clix>,       2024-11-07 02:03:01.877005 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:03:04.920383 
+
+ 100tomanahmadzoghi,     skibidil,        <Channel name: clix>,       2024-11-07 02:03:38.862099 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:03:41.250721 
+
+ 100tomanahmadzoghi,     is bot,        <Channel name: clix>,       2024-11-07 02:03:49.924772 
+
+ 100tomanahmadzoghi,     skibidi,        <Channel name: clix>,       2024-11-07 02:04:30.899604 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

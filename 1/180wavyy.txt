@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  180wavyy,     DIS BELOW MID,        <Channel name: silky>,       2024-11-07 01:40:42.743902 
 
@@ -28,3 +29,35 @@
  180wavyy,     to throw it all away fax,        <Channel name: silky>,       2024-11-07 02:53:02.841226 
 
  180wavyy,     maturity,        <Channel name: silky>,       2024-11-07 02:53:15.273988 
+=======
+
+ 180wavyy,     DIS BELOW MID,        <Channel name: silky>,       2024-11-07 01:40:42.743902 
+
+ 180wavyy,     KEEP DIS IN THE VAULT,        <Channel name: silky>,       2024-11-07 01:40:47.823030 
+
+ 180wavyy,     RNB,        <Channel name: plaqueboymax>,       2024-11-07 01:59:34.700723 
+
+ 180wavyy,     DRM,        <Channel name: plaqueboymax>,       2024-11-07 02:00:37.030524 
+
+ 180wavyy,     DTM MUD,        <Channel name: plaqueboymax>,       2024-11-07 02:00:45.457980 
+
+ 180wavyy,     biggest country song out is by a nigga dis boul tweaking,        <Channel name: plaqueboymax>,       2024-11-07 02:01:30.215269 
+
+ 180wavyy,     2022,        <Channel name: silky>,       2024-11-07 02:43:19.079108 
+
+ 180wavyy,     IT WAS 2022,        <Channel name: silky>,       2024-11-07 02:43:23.521485 
+
+ 180wavyy,     LMAAOOO,        <Channel name: silky>,       2024-11-07 02:45:31.699105 
+
+ 180wavyy,     LMAAAOOO,        <Channel name: silky>,       2024-11-07 02:45:54.774777 
+
+ 180wavyy,     OH NAAAAAAH,        <Channel name: silky>,       2024-11-07 02:45:57.250507 
+
+ 180wavyy,     NAAAAA MAX,        <Channel name: silky>,       2024-11-07 02:46:00.088201 
+
+ 180wavyy,     nigga dont know what acting mean,        <Channel name: silky>,       2024-11-07 02:51:51.556682 
+
+ 180wavyy,     to throw it all away fax,        <Channel name: silky>,       2024-11-07 02:53:02.841226 
+
+ 180wavyy,     maturity,        <Channel name: silky>,       2024-11-07 02:53:15.273988 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1smallpeace,     why fake fart when you can real fart?,        <Channel name: pokelawls>,       2024-11-07 02:15:54.170100 
+=======
+
+ 1smallpeace,     why fake fart when you can real fart?,        <Channel name: pokelawls>,       2024-11-07 02:15:54.170100 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

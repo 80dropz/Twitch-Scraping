@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1ntroversive,     meant to fukn be,        <Channel name: kaicenat>,       2024-11-07 01:34:37.393397 
 
@@ -10,3 +11,17 @@
  1ntroversive,     SPIN AGAIN!!!!!,        <Channel name: kaicenat>,       2024-11-07 01:40:01.906173 
 
  1ntroversive,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:08:44.280753 
+=======
+
+ 1ntroversive,     meant to fukn be,        <Channel name: kaicenat>,       2024-11-07 01:34:37.393397 
+
+ 1ntroversive,     atp give us the content,        <Channel name: kaicenat>,       2024-11-07 01:34:46.017268 
+
+ 1ntroversive,     WHY WE SPINNING 4X,        <Channel name: kaicenat>,       2024-11-07 01:37:42.623868 
+
+ 1ntroversive,     JUST DO SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:37:48.902946 
+
+ 1ntroversive,     SPIN AGAIN!!!!!,        <Channel name: kaicenat>,       2024-11-07 01:40:01.906173 
+
+ 1ntroversive,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:08:44.280753 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

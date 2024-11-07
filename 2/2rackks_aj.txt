@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  2rackks_aj,     45secs,        <Channel name: kaicenat>,       2024-11-07 01:43:51.697137 
+=======
+
+ 2rackks_aj,     45secs,        <Channel name: kaicenat>,       2024-11-07 01:43:51.697137 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

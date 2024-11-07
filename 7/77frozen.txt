@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  77frozen,     over estimate?,        <Channel name: faxuty>,       2024-11-07 02:34:31.136873 
+=======
+
+ 77frozen,     over estimate?,        <Channel name: faxuty>,       2024-11-07 02:34:31.136873 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

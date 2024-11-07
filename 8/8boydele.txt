@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  8boydele,     don’t be that guy silky. he’s elevating,        <Channel name: kaicenat>,       2024-11-07 02:24:52.165204 
 
  8boydele,     pause,        <Channel name: kaicenat>,       2024-11-07 02:29:27.183993 
+=======
+
+ 8boydele,     don’t be that guy silky. he’s elevating,        <Channel name: kaicenat>,       2024-11-07 02:24:52.165204 
+
+ 8boydele,     pause,        <Channel name: kaicenat>,       2024-11-07 02:29:27.183993 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  q_1of1,     fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:47:22.761921 
+=======
+
+ q_1of1,     fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO fanumLMAOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:47:22.761921 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  222kileyyyy,     WAZUPPPP,        <Channel name: kaicenat>,       2024-11-07 01:23:48.828903 
 
@@ -12,3 +13,19 @@
  222kileyyyy,     NOPE,        <Channel name: kaicenat>,       2024-11-07 02:34:27.967001 
 
  222kileyyyy,     W MAFIA,        <Channel name: kaicenat>,       2024-11-07 02:37:29.395859 
+=======
+
+ 222kileyyyy,     WAZUPPPP,        <Channel name: kaicenat>,       2024-11-07 01:23:48.828903 
+
+ 222kileyyyy,     CLOXK IT,        <Channel name: kaicenat>,       2024-11-07 01:39:44.211233 
+
+ 222kileyyyy,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 02:09:23.996538 
+
+ 222kileyyyy,     NO,        <Channel name: kaicenat>,       2024-11-07 02:24:45.548012 
+
+ 222kileyyyy,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 02:28:35.029779 
+
+ 222kileyyyy,     NOPE,        <Channel name: kaicenat>,       2024-11-07 02:34:27.967001 
+
+ 222kileyyyy,     W MAFIA,        <Channel name: kaicenat>,       2024-11-07 02:37:29.395859 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

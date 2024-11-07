@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1320garciacivic,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:38:13.367200 
 
@@ -18,3 +19,25 @@
  1320garciacivic,     slow,        <Channel name: kaicenat>,       2024-11-07 01:59:47.520966 
 
  1320garciacivic,     slow,        <Channel name: kaicenat>,       2024-11-07 02:01:16.938565 
+=======
+
+ 1320garciacivic,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:38:13.367200 
+
+ 1320garciacivic,     6hrs,        <Channel name: kaicenat>,       2024-11-07 01:40:02.461898 
+
+ 1320garciacivic,     5hra,        <Channel name: kaicenat>,       2024-11-07 01:40:14.663983 
+
+ 1320garciacivic,     6hrs,        <Channel name: kaicenat>,       2024-11-07 01:40:24.518295 
+
+ 1320garciacivic,     hours hours hours hours hours hours,        <Channel name: kaicenat>,       2024-11-07 01:42:20.001684 
+
+ 1320garciacivic,     hours hours hours hours hours hours,        <Channel name: kaicenat>,       2024-11-07 01:42:51.004864 
+
+ 1320garciacivic,     no,        <Channel name: kaicenat>,       2024-11-07 01:43:25.223612 
+
+ 1320garciacivic,     lazy,        <Channel name: kaicenat>,       2024-11-07 01:52:30.797733 
+
+ 1320garciacivic,     slow,        <Channel name: kaicenat>,       2024-11-07 01:59:47.520966 
+
+ 1320garciacivic,     slow,        <Channel name: kaicenat>,       2024-11-07 02:01:16.938565 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

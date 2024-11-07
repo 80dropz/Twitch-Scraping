@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  quedalnothing,     RESPIN SCAM,        <Channel name: kaicenat>,       2024-11-07 01:22:25.566359 
 
@@ -22,3 +23,29 @@
  quedalnothing,     DIAMOND,        <Channel name: kaicenat>,       2024-11-07 02:08:14.955751 
 
  quedalnothing,     NO,        <Channel name: kaicenat>,       2024-11-07 02:10:16.729634 
+=======
+
+ quedalnothing,     RESPIN SCAM,        <Channel name: kaicenat>,       2024-11-07 01:22:25.566359 
+
+ quedalnothing,     DEAL,        <Channel name: kaicenat>,       2024-11-07 01:23:12.776039 
+
+ quedalnothing,     ³ MIN,        <Channel name: kaicenat>,       2024-11-07 01:40:27.511647 
+
+ quedalnothing,     1min,        <Channel name: kaicenat>,       2024-11-07 01:43:57.763197 
+
+ quedalnothing,     1 min,        <Channel name: kaicenat>,       2024-11-07 01:45:01.024947 
+
+ quedalnothing,     A MINUTE,        <Channel name: kaicenat>,       2024-11-07 01:46:22.827497 
+
+ quedalnothing,     YES,        <Channel name: kaicenat>,       2024-11-07 01:57:54.406747 
+
+ quedalnothing,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:41.025202 
+
+ quedalnothing,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:14.598361 
+
+ quedalnothing,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:20.069461 
+
+ quedalnothing,     DIAMOND,        <Channel name: kaicenat>,       2024-11-07 02:08:14.955751 
+
+ quedalnothing,     NO,        <Channel name: kaicenat>,       2024-11-07 02:10:16.729634 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

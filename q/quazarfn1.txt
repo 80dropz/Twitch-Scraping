@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  quazarfn1,     u wouldn’t have dropped out cause of ur family,        <Channel name: faxuty>,       2024-11-07 02:31:16.283496 
 
  quazarfn1,     stretch on liquid,        <Channel name: faxuty>,       2024-11-07 02:50:37.543324 
+=======
+
+ quazarfn1,     u wouldn’t have dropped out cause of ur family,        <Channel name: faxuty>,       2024-11-07 02:31:16.283496 
+
+ quazarfn1,     stretch on liquid,        <Channel name: faxuty>,       2024-11-07 02:50:37.543324 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

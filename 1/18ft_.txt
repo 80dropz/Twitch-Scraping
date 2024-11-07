@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  18ft_,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:22:32.931179 
+=======
+
+ 18ft_,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:22:32.931179 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

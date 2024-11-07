@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  4ndreeewww,     2,        <Channel name: kaicenat>,       2024-11-07 01:45:00.729758 
+=======
+
+ 4ndreeewww,     2,        <Channel name: kaicenat>,       2024-11-07 01:45:00.729758 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  501tyy,     can you buy me a pc please,        <Channel name: kaicenat>,       2024-11-07 01:43:21.781519 
+=======
+
+ 501tyy,     can you buy me a pc please,        <Channel name: kaicenat>,       2024-11-07 01:43:21.781519 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

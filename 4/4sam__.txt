@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  4sam__,     I ACTUALLY HATE HYDRA I CANT,        <Channel name: faxuty>,       2024-11-07 02:08:41.854887 
+=======
+
+ 4sam__,     I ACTUALLY HATE HYDRA I CANT,        <Channel name: faxuty>,       2024-11-07 02:08:41.854887 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

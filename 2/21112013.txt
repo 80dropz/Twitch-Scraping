@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  21112013,     ;,        <Channel name: kaicenat>,       2024-11-07 01:41:36.905481 
 
@@ -10,3 +11,17 @@
  21112013,     we friends tho we friends thowe friends tho,        <Channel name: kaicenat>,       2024-11-07 01:59:56.060742 
 
  21112013,     we friends tho we friends thowe friends tho,        <Channel name: kaicenat>,       2024-11-07 02:01:12.137074 
+=======
+
+ 21112013,     ;,        <Channel name: kaicenat>,       2024-11-07 01:41:36.905481 
+
+ 21112013,     a,        <Channel name: kaicenat>,       2024-11-07 01:41:42.170247 
+
+ 21112013,     so hard,        <Channel name: kaicenat>,       2024-11-07 01:56:38.204952 
+
+ 21112013,     pls,        <Channel name: kaicenat>,       2024-11-07 01:56:49.309123 
+
+ 21112013,     we friends tho we friends thowe friends tho,        <Channel name: kaicenat>,       2024-11-07 01:59:56.060742 
+
+ 21112013,     we friends tho we friends thowe friends tho,        <Channel name: kaicenat>,       2024-11-07 02:01:12.137074 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

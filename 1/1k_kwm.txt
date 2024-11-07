@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1k_kwm,     I did it with you Kai on my life,        <Channel name: kaicenat>,       2024-11-07 02:09:18.854583 
+=======
+
+ 1k_kwm,     I did it with you Kai on my life,        <Channel name: kaicenat>,       2024-11-07 02:09:18.854583 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

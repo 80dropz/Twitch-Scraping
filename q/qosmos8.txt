@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  qosmos8,     Discute pas et joue dragon age chef,        <Channel name: tonton>,       2024-11-07 02:46:01.274843 
+=======
+
+ qosmos8,     Discute pas et joue dragon age chef,        <Channel name: tonton>,       2024-11-07 02:46:01.274843 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

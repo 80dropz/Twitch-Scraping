@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  42069696,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 01:22:04.234695 
 
@@ -6,3 +7,13 @@
  42069696,     thats crazy,        <Channel name: kaicenat>,       2024-11-07 01:31:30.840560 
 
  42069696,     bro your shits so rigged,        <Channel name: kaicenat>,       2024-11-07 01:34:30.896833 
+=======
+
+ 42069696,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 01:22:04.234695 
+
+ 42069696,     thats a respin,        <Channel name: kaicenat>,       2024-11-07 01:22:30.135189 
+
+ 42069696,     thats crazy,        <Channel name: kaicenat>,       2024-11-07 01:31:30.840560 
+
+ 42069696,     bro your shits so rigged,        <Channel name: kaicenat>,       2024-11-07 01:34:30.896833 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

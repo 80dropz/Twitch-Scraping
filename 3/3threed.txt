@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  3threed,     LMAO,        <Channel name: kaicenat>,       2024-11-07 01:39:37.444993 
 
@@ -18,3 +19,25 @@
  3threed,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 02:47:41.100402 
 
  3threed,     WW,        <Channel name: kaicenat>,       2024-11-07 02:50:47.670727 
+=======
+
+ 3threed,     LMAO,        <Channel name: kaicenat>,       2024-11-07 01:39:37.444993 
+
+ 3threed,     do it in a week,        <Channel name: kaicenat>,       2024-11-07 01:41:52.481996 
+
+ 3threed,     yes,        <Channel name: kaicenat>,       2024-11-07 01:44:58.219188 
+
+ 3threed,     ggs,        <Channel name: kaicenat>,       2024-11-07 01:46:44.499351 
+
+ 3threed,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:41.824475 
+
+ 3threed,     WW,        <Channel name: kaicenat>,       2024-11-07 02:09:12.559613 
+
+ 3threed,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 02:34:21.345198 
+
+ 3threed,     LMAOO,        <Channel name: kaicenat>,       2024-11-07 02:41:35.996686 
+
+ 3threed,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 02:47:41.100402 
+
+ 3threed,     WW,        <Channel name: kaicenat>,       2024-11-07 02:50:47.670727 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

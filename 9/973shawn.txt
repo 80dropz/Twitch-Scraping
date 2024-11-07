@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  973shawn,     sub for no ads stop crying,        <Channel name: kaicenat>,       2024-11-07 01:21:09.592447 
 
@@ -8,3 +9,15 @@
  973shawn,     YEAH,        <Channel name: kaicenat>,       2024-11-07 01:54:17.481038 
 
  973shawn,     GET TO IT,        <Channel name: kaicenat>,       2024-11-07 01:54:27.043632 
+=======
+
+ 973shawn,     sub for no ads stop crying,        <Channel name: kaicenat>,       2024-11-07 01:21:09.592447 
+
+ 973shawn,     “GET UPPP”,        <Channel name: kaicenat>,       2024-11-07 01:24:04.344508 
+
+ 973shawn,     can you feel the burn?,        <Channel name: kaicenat>,       2024-11-07 01:53:27.554706 
+
+ 973shawn,     YEAH,        <Channel name: kaicenat>,       2024-11-07 01:54:17.481038 
+
+ 973shawn,     GET TO IT,        <Channel name: kaicenat>,       2024-11-07 01:54:27.043632 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  qqqderek,     just do 5 minutes and do the pushups in sets through a 24 hour period,        <Channel name: kaicenat>,       2024-11-07 01:42:56.760367 
+=======
+
+ qqqderek,     just do 5 minutes and do the pushups in sets through a 24 hour period,        <Channel name: kaicenat>,       2024-11-07 01:42:56.760367 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

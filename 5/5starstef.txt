@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  5starstef,     I was here,        <Channel name: plaqueboymax>,       2024-11-07 01:58:36.528052 
 
@@ -8,3 +9,15 @@
  5starstef,     Silky doing so muchhh,        <Channel name: plaqueboymax>,       2024-11-07 02:04:54.745673 
 
  5starstef,     WWWWWW max,        <Channel name: plaqueboymax>,       2024-11-07 02:06:58.586756 
+=======
+
+ 5starstef,     I was here,        <Channel name: plaqueboymax>,       2024-11-07 01:58:36.528052 
+
+ 5starstef,     fuccc wrong wit emmmmm,        <Channel name: plaqueboymax>,       2024-11-07 01:59:19.892300 
+
+ 5starstef,     SILKY DOOING SO MUUUCH,        <Channel name: plaqueboymax>,       2024-11-07 02:04:36.428622 
+
+ 5starstef,     Silky doing so muchhh,        <Channel name: plaqueboymax>,       2024-11-07 02:04:54.745673 
+
+ 5starstef,     WWWWWW max,        <Channel name: plaqueboymax>,       2024-11-07 02:06:58.586756 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

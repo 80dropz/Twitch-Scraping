@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qsmokeyy,     WAZUUUUUUP,        <Channel name: kaicenat>,       2024-11-07 01:23:55.390921 
 
@@ -6,3 +7,13 @@
  qsmokeyy,     10 years later…,        <Channel name: kaicenat>,       2024-11-07 01:36:14.504739 
 
  qsmokeyy,     wwww,        <Channel name: kaicenat>,       2024-11-07 02:08:57.270814 
+=======
+
+ qsmokeyy,     WAZUUUUUUP,        <Channel name: kaicenat>,       2024-11-07 01:23:55.390921 
+
+ qsmokeyy,     white dot is weighing it down,        <Channel name: kaicenat>,       2024-11-07 01:34:55.865372 
+
+ qsmokeyy,     10 years later…,        <Channel name: kaicenat>,       2024-11-07 01:36:14.504739 
+
+ qsmokeyy,     wwww,        <Channel name: kaicenat>,       2024-11-07 02:08:57.270814 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

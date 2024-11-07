@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  4301gway,     JERRY WOOOO,        <Channel name: kaicenat>,       2024-11-07 02:22:33.470309 
+=======
+
+ 4301gway,     JERRY WOOOO,        <Channel name: kaicenat>,       2024-11-07 02:22:33.470309 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

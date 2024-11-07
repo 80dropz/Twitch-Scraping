@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  024jamal,     we finna beat the record rn,        <Channel name: kaicenat>,       2024-11-07 01:46:33.037741 
 
  024jamal,     WE FINNA BEAT THE RECORD,        <Channel name: kaicenat>,       2024-11-07 01:46:40.244664 
+=======
+
+ 024jamal,     we finna beat the record rn,        <Channel name: kaicenat>,       2024-11-07 01:46:33.037741 
+
+ 024jamal,     WE FINNA BEAT THE RECORD,        <Channel name: kaicenat>,       2024-11-07 01:46:40.244664 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  11ghsts,     7 ads is crazy,        <Channel name: plaqueboymax>,       2024-11-07 02:05:30.975263 
+=======
+
+ 11ghsts,     7 ads is crazy,        <Channel name: plaqueboymax>,       2024-11-07 02:05:30.975263 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

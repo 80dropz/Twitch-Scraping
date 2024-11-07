@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  7angela,     YES,        <Channel name: clix>,       2024-11-07 01:40:20.942338 
 
@@ -44,3 +45,51 @@
  7angela,     w scam,        <Channel name: clix>,       2024-11-07 02:07:22.600676 
 
  7angela,     1,        <Channel name: clix>,       2024-11-07 02:08:14.126922 
+=======
+
+ 7angela,     YES,        <Channel name: clix>,       2024-11-07 01:40:20.942338 
+
+ 7angela,     READY,        <Channel name: clix>,       2024-11-07 01:40:28.013369 
+
+ 7angela,     SPIN THE WHEEL,        <Channel name: clix>,       2024-11-07 01:41:05.972597 
+
+ 7angela,     SPIN,        <Channel name: clix>,       2024-11-07 01:41:44.555491 
+
+ 7angela,     RED,        <Channel name: clix>,       2024-11-07 01:42:18.104597 
+
+ 7angela,     READY,        <Channel name: clix>,       2024-11-07 01:42:47.064493 
+
+ 7angela,     RED,        <Channel name: clix>,       2024-11-07 01:42:47.817040 
+
+ 7angela,     BRO ADS,        <Channel name: clix>,       2024-11-07 01:42:58.431557 
+
+ 7angela,     W PICKL,        <Channel name: clix>,       2024-11-07 01:43:22.822724 
+
+ 7angela,     W,        <Channel name: clix>,       2024-11-07 01:43:58.126227 
+
+ 7angela,     GOODNIGHT,        <Channel name: clix>,       2024-11-07 01:44:37.225996 
+
+ 7angela,     GOODNIGHTTT,        <Channel name: clix>,       2024-11-07 01:44:52.469271 
+
+ 7angela,     W FELDY,        <Channel name: clix>,       2024-11-07 01:45:13.287930 
+
+ 7angela,     skibidiiii,        <Channel name: clix>,       2024-11-07 01:52:04.213693 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:26.910632 
+
+ 7angela,     skibidi..,        <Channel name: clix>,       2024-11-07 01:53:38.816441 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 01:54:05.304433 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 01:57:45.665482 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 01:59:16.055679 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 02:00:13.092824 
+
+ 7angela,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:56.520786 
+
+ 7angela,     w scam,        <Channel name: clix>,       2024-11-07 02:07:22.600676 
+
+ 7angela,     1,        <Channel name: clix>,       2024-11-07 02:08:14.126922 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

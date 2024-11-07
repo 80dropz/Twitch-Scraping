@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1clancy1,     dudes been playing all day relax,        <Channel name: nadeshot>,       2024-11-07 01:58:05.184869 
 
@@ -8,3 +9,15 @@
  1clancy1,     120 IQ,        <Channel name: nadeshot>,       2024-11-07 02:17:21.838916 
 
  1clancy1,     pissed on,        <Channel name: nadeshot>,       2024-11-07 02:17:39.727548 
+=======
+
+ 1clancy1,     dudes been playing all day relax,        <Channel name: nadeshot>,       2024-11-07 01:58:05.184869 
+
+ 1clancy1,     dynamic baby,        <Channel name: nadeshot>,       2024-11-07 02:05:02.663452 
+
+ 1clancy1,     hahahahahahhaha,        <Channel name: nadeshot>,       2024-11-07 02:10:42.855746 
+
+ 1clancy1,     120 IQ,        <Channel name: nadeshot>,       2024-11-07 02:17:21.838916 
+
+ 1clancy1,     pissed on,        <Channel name: nadeshot>,       2024-11-07 02:17:39.727548 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

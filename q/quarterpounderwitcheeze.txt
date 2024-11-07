@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  quarterpounderwitcheeze,     LMFAOOOOOOOOOOOOOOOO,        <Channel name: silky>,       2024-11-07 02:47:36.787948 
+=======
+
+ quarterpounderwitcheeze,     LMFAOOOOOOOOOOOOOOOO,        <Channel name: silky>,       2024-11-07 02:47:36.787948 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

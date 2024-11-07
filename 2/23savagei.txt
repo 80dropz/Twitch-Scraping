@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  23savagei,     !trio,        <Channel name: oatley>,       2024-11-07 02:01:36.620369 
+=======
+
+ 23savagei,     !trio,        <Channel name: oatley>,       2024-11-07 02:01:36.620369 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

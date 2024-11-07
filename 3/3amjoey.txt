@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  3amjoey,     KAI SAID JON CORD,        <Channel name: silky>,       2024-11-07 02:12:21.390730 
 
  3amjoey,     KAI SAID JOIN CORD,        <Channel name: silky>,       2024-11-07 02:12:27.426656 
+=======
+
+ 3amjoey,     KAI SAID JON CORD,        <Channel name: silky>,       2024-11-07 02:12:21.390730 
+
+ 3amjoey,     KAI SAID JOIN CORD,        <Channel name: silky>,       2024-11-07 02:12:27.426656 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

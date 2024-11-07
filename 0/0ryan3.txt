@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  0ryan3,     L silky,        <Channel name: kaicenat>,       2024-11-07 02:21:21.629156 
 
@@ -6,3 +7,13 @@
  0ryan3,     L silky,        <Channel name: kaicenat>,       2024-11-07 02:22:13.250001 
 
  0ryan3,     L sillky,        <Channel name: kaicenat>,       2024-11-07 02:22:20.101760 
+=======
+
+ 0ryan3,     L silky,        <Channel name: kaicenat>,       2024-11-07 02:21:21.629156 
+
+ 0ryan3,     HE ALWAYS DTM,        <Channel name: kaicenat>,       2024-11-07 02:21:38.126184 
+
+ 0ryan3,     L silky,        <Channel name: kaicenat>,       2024-11-07 02:22:13.250001 
+
+ 0ryan3,     L sillky,        <Channel name: kaicenat>,       2024-11-07 02:22:20.101760 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

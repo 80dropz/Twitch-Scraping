@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  585glockchester,     wwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 01:21:23.872907 
 
@@ -14,3 +15,21 @@
  585glockchester,     that ain’t doing nothing,        <Channel name: kaicenat>,       2024-11-07 01:35:59.198271 
 
  585glockchester,     mute,        <Channel name: kaicenat>,       2024-11-07 01:40:27.018523 
+=======
+
+ 585glockchester,     wwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 01:21:23.872907 
+
+ 585glockchester,     split or steal then,        <Channel name: kaicenat>,       2024-11-07 01:22:42.815236 
+
+ 585glockchester,     L,        <Channel name: kaicenat>,       2024-11-07 01:24:06.147377 
+
+ 585glockchester,     LLLLLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 01:24:12.130481 
+
+ 585glockchester,     gone have to jump with it,        <Channel name: kaicenat>,       2024-11-07 01:32:40.105528 
+
+ 585glockchester,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 01:34:52.448520 
+
+ 585glockchester,     that ain’t doing nothing,        <Channel name: kaicenat>,       2024-11-07 01:35:59.198271 
+
+ 585glockchester,     mute,        <Channel name: kaicenat>,       2024-11-07 01:40:27.018523 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

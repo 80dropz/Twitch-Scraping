@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1b5ive,     rakai???,        <Channel name: kaicenat>,       2024-11-07 01:43:18.368216 
 
@@ -8,3 +9,15 @@
  1b5ive,     cooked,        <Channel name: kaicenat>,       2024-11-07 01:50:57.911365 
 
  1b5ive,     rakaii?,        <Channel name: kaicenat>,       2024-11-07 02:11:49.056734 
+=======
+
+ 1b5ive,     rakai???,        <Channel name: kaicenat>,       2024-11-07 01:43:18.368216 
+
+ 1b5ive,     rakaiii?,        <Channel name: kaicenat>,       2024-11-07 01:43:25.158292 
+
+ 1b5ive,     ggg,        <Channel name: kaicenat>,       2024-11-07 01:50:34.058638 
+
+ 1b5ive,     cooked,        <Channel name: kaicenat>,       2024-11-07 01:50:57.911365 
+
+ 1b5ive,     rakaii?,        <Channel name: kaicenat>,       2024-11-07 02:11:49.056734 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

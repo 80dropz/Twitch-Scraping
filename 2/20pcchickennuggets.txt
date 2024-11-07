@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  20pcchickennuggets,     whats the song called???,        <Channel name: caseoh_>,       2024-11-07 01:57:20.269412 
+=======
+
+ 20pcchickennuggets,     whats the song called???,        <Channel name: caseoh_>,       2024-11-07 01:57:20.269412 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

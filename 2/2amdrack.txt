@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  2amdrack,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:55.222315 
 
  2amdrack,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:18.493021 
+=======
+
+ 2amdrack,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:01:55.222315 
+
+ 2amdrack,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:18.493021 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

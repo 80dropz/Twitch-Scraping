@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qisnike,     my boy you look exhausted,        <Channel name: kaicenat>,       2024-11-07 01:39:43.682957 
 
@@ -10,3 +11,17 @@
  qisnike,     56 a day over the next 4 days,        <Channel name: kaicenat>,       2024-11-07 01:43:25.225610 
 
  qisnike,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:18:13.098329 
+=======
+
+ qisnike,     my boy you look exhausted,        <Channel name: kaicenat>,       2024-11-07 01:39:43.682957 
+
+ qisnike,     bro can you break them down through the days you need to finish with in 4 days,        <Channel name: kaicenat>,       2024-11-07 01:41:59.100867 
+
+ qisnike,     we need 56 push ups a day for the next 4 days,        <Channel name: kaicenat>,       2024-11-07 01:42:47.079395 
+
+ qisnike,     do 56 a day for the next 4 days,        <Channel name: kaicenat>,       2024-11-07 01:42:47.806499 
+
+ qisnike,     56 a day over the next 4 days,        <Channel name: kaicenat>,       2024-11-07 01:43:25.225610 
+
+ qisnike,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:18:13.098329 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

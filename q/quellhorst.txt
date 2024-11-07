@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  quellhorst,     Must be a thing to grind soybeans,        <Channel name: cooksux>,       2024-11-07 02:18:42.147595 
 
@@ -14,3 +15,21 @@
  quellhorst,     !weather,        <Channel name: cooksux>,       2024-11-07 02:46:14.093981 
 
  quellhorst,     thugsGun thugsMoney,        <Channel name: cooksux>,       2024-11-07 02:46:33.437065 
+=======
+
+ quellhorst,     Must be a thing to grind soybeans,        <Channel name: cooksux>,       2024-11-07 02:18:42.147595 
+
+ quellhorst,     2000 people in chat, how many sleeping?,        <Channel name: cooksux>,       2024-11-07 02:40:04.209497 
+
+ quellhorst,     175 sleepers?,        <Channel name: cooksux>,       2024-11-07 02:40:20.927394 
+
+ quellhorst,     walking is slow,        <Channel name: cooksux>,       2024-11-07 02:41:28.623238 
+
+ quellhorst,     at least you don't have so much waste heat,        <Channel name: cooksux>,       2024-11-07 02:42:30.448921 
+
+ quellhorst,     after the subsidies were slowed for some exporters started seeing more things made elsewhere,        <Channel name: cooksux>,       2024-11-07 02:45:33.228123 
+
+ quellhorst,     !weather,        <Channel name: cooksux>,       2024-11-07 02:46:14.093981 
+
+ quellhorst,     thugsGun thugsMoney,        <Channel name: cooksux>,       2024-11-07 02:46:33.437065 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

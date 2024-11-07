@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  4eiah,     SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:24:37.116354 
 
@@ -82,3 +83,89 @@
  4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:13:32.520795 
 
  4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:13:40.457948 
+=======
+
+ 4eiah,     SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:24:37.116354 
+
+ 4eiah,     500,        <Channel name: kaicenat>,       2024-11-07 01:24:51.303347 
+
+ 4eiah,     BAND,        <Channel name: kaicenat>,       2024-11-07 01:24:53.025094 
+
+ 4eiah,     JUST DO IT,        <Channel name: kaicenat>,       2024-11-07 01:32:17.976677 
+
+ 4eiah,     JUST DO DA SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:33:06.546863 
+
+ 4eiah,     JUST DO DA SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:34:49.144525 
+
+ 4eiah,     JUST DO DA SPLIT OR STEALL,        <Channel name: kaicenat>,       2024-11-07 01:35:12.345511 
+
+ 4eiah,     WHAT HAPPENED TO SPLIT OR STEALL,        <Channel name: kaicenat>,       2024-11-07 01:47:54.784992 
+
+ 4eiah,     WHAT HAPPENED TO SPLIT OR STEALLl,        <Channel name: kaicenat>,       2024-11-07 01:47:59.624134 
+
+ 4eiah,     WHAT HAPPENED TO SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 01:48:02.880500 
+
+ 4eiah,     WHAT HAPPENED TO SPLIT OR STEALLLL,        <Channel name: kaicenat>,       2024-11-07 01:48:08.518350 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:09:31.636450 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:09:36.003756 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEE,        <Channel name: kaicenat>,       2024-11-07 02:09:43.503515 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEE,        <Channel name: kaicenat>,       2024-11-07 02:09:45.088518 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEEE,        <Channel name: kaicenat>,       2024-11-07 02:09:48.101175 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:09:57.289847 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEEE,        <Channel name: kaicenat>,       2024-11-07 02:10:03.212173 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEE,        <Channel name: kaicenat>,       2024-11-07 02:10:07.516414 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEI EE,        <Channel name: kaicenat>,       2024-11-07 02:10:14.370617 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEEE,        <Channel name: kaicenat>,       2024-11-07 02:10:17.473945 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:10:25.056884 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEE,        <Channel name: kaicenat>,       2024-11-07 02:10:27.726443 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:10:35.161322 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:10:43.649544 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEE,        <Channel name: kaicenat>,       2024-11-07 02:10:48.813415 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:11:00.388700 
+
+ 4eiah,     EFINISH SPLIT OR STEAL PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:11:13.383395 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEE,        <Channel name: kaicenat>,       2024-11-07 02:11:16.658638 
+
+ 4eiah,     FINISH SPLIT OR STEAL PLEASEEEE,        <Channel name: kaicenat>,       2024-11-07 02:11:20.097819 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:11:48.542732 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEeee,        <Channel name: kaicenat>,       2024-11-07 02:11:51.301068 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEEE,        <Channel name: kaicenat>,       2024-11-07 02:11:54.375115 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEDEE,        <Channel name: kaicenat>,       2024-11-07 02:11:56.417256 
+
+ 4eiah,     OH MY FOS SPLIT STEALL,        <Channel name: kaicenat>,       2024-11-07 02:12:06.950246 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEEEE,        <Channel name: kaicenat>,       2024-11-07 02:12:18.970016 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:12:56.401116 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:12:59.765588 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE CMON BRO,        <Channel name: kaicenat>,       2024-11-07 02:13:13.489675 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE ONE MORE ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:13:26.388037 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASE,        <Channel name: kaicenat>,       2024-11-07 02:13:32.520795 
+
+ 4eiah,     ONE MORE ROUND OF SPLIT OR STEAL ONE MORE ROUND PLEASEE,        <Channel name: kaicenat>,       2024-11-07 02:13:40.457948 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

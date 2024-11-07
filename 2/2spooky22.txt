@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  2spooky22,     @turnmeup15 rakai came and left,        <Channel name: kaicenat>,       2024-11-07 01:37:16.307103 
+=======
+
+ 2spooky22,     @turnmeup15 rakai came and left,        <Channel name: kaicenat>,       2024-11-07 01:37:16.307103 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

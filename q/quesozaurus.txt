@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
  quesozaurus,     The making of "Simple and Sweet" was amazing as well,        <Channel name: grizzy>,       2024-11-07 01:50:10.576606 
 
  quesozaurus,     When i first started watching these "making of" videos i watched "Simple and Sweet" and it sent chills down my spine,        <Channel name: grizzy>,       2024-11-07 02:05:36.263648 
 
  quesozaurus,     It depends on what type of metal you pick style wise,        <Channel name: grizzy>,       2024-11-07 02:13:21.825282 
+=======
+
+ quesozaurus,     The making of "Simple and Sweet" was amazing as well,        <Channel name: grizzy>,       2024-11-07 01:50:10.576606 
+
+ quesozaurus,     When i first started watching these "making of" videos i watched "Simple and Sweet" and it sent chills down my spine,        <Channel name: grizzy>,       2024-11-07 02:05:36.263648 
+
+ quesozaurus,     It depends on what type of metal you pick style wise,        <Channel name: grizzy>,       2024-11-07 02:13:21.825282 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

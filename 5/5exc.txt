@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  5exc,     BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:19:03.042241 
 
@@ -20,3 +21,27 @@
  5exc,     Gift me please BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:49:16.408973 
 
  5exc,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 01:50:47.104029 
+=======
+
+ 5exc,     BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:19:03.042241 
+
+ 5exc,     :Z,        <Channel name: kaicenat>,       2024-11-07 01:36:59.768726 
+
+ 5exc,     bruh,        <Channel name: kaicenat>,       2024-11-07 01:40:27.357496 
+
+ 5exc,     kaicScream,        <Channel name: kaicenat>,       2024-11-07 01:42:06.325402 
+
+ 5exc,     BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:42:48.019515 
+
+ 5exc,     NAAH BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:43:04.610358 
+
+ 5exc,     bruh,        <Channel name: kaicenat>,       2024-11-07 01:44:50.746537 
+
+ 5exc,     say dada,        <Channel name: kaicenat>,       2024-11-07 01:45:17.731548 
+
+ 5exc,     kaicScream,        <Channel name: kaicenat>,       2024-11-07 01:46:54.639445 
+
+ 5exc,     Gift me please BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad BigSad,        <Channel name: kaicenat>,       2024-11-07 01:49:16.408973 
+
+ 5exc,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 01:50:47.104029 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

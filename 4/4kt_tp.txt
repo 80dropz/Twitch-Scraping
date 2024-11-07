@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  4kt_tp,     dummyyyy,        <Channel name: meltislive>,       2024-11-07 02:34:48.296377 
 
@@ -6,3 +7,13 @@
  4kt_tp,     there it gooooo,        <Channel name: meltislive>,       2024-11-07 02:36:36.806543 
 
  4kt_tp,     THERE IT GOOOO,        <Channel name: meltislive>,       2024-11-07 02:36:48.297166 
+=======
+
+ 4kt_tp,     dummyyyy,        <Channel name: meltislive>,       2024-11-07 02:34:48.296377 
+
+ 4kt_tp,     o,        <Channel name: meltislive>,       2024-11-07 02:36:32.594229 
+
+ 4kt_tp,     there it gooooo,        <Channel name: meltislive>,       2024-11-07 02:36:36.806543 
+
+ 4kt_tp,     THERE IT GOOOO,        <Channel name: meltislive>,       2024-11-07 02:36:48.297166 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

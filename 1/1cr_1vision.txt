@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1cr_1vision,     elixWave,        <Channel name: nadeshot>,       2024-11-07 02:39:02.631076 
+=======
+
+ 1cr_1vision,     elixWave,        <Channel name: nadeshot>,       2024-11-07 02:39:02.631076 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

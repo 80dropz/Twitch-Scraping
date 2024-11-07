@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  quopbtw,     !commands,        <Channel name: clix>,       2024-11-07 01:50:35.667737 
+=======
+
+ quopbtw,     !commands,        <Channel name: clix>,       2024-11-07 01:50:35.667737 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1800fae,     it’s almost 2 here,        <Channel name: plaqueboymax>,       2024-11-07 01:39:57.492254 
+=======
+
+ 1800fae,     it’s almost 2 here,        <Channel name: plaqueboymax>,       2024-11-07 01:39:57.492254 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

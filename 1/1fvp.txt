@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1fvp,     swtFiggle,        <Channel name: pokelawls>,       2024-11-07 02:02:56.568614 
 
@@ -8,3 +9,15 @@
  1fvp,     swtHappy,        <Channel name: pokelawls>,       2024-11-07 02:17:55.288189 
 
  1fvp,     Buggin,        <Channel name: pokelawls>,       2024-11-07 02:18:34.009943 
+=======
+
+ 1fvp,     swtFiggle,        <Channel name: pokelawls>,       2024-11-07 02:02:56.568614 
+
+ 1fvp,     same 1 fart,        <Channel name: pokelawls>,       2024-11-07 02:06:26.571749 
+
+ 1fvp,     LOL,        <Channel name: pokelawls>,       2024-11-07 02:15:10.257117 
+
+ 1fvp,     swtHappy,        <Channel name: pokelawls>,       2024-11-07 02:17:55.288189 
+
+ 1fvp,     Buggin,        <Channel name: pokelawls>,       2024-11-07 02:18:34.009943 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  0_jordy,     ada on da mic?,        <Channel name: adapt>,       2024-11-07 01:41:08.882272 
 
@@ -10,3 +11,17 @@
  0_jordy,     stabeCAUGHT stabeCAUGHT stabeCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:20:17.694024 
 
  0_jordy,     HE CLAPPING CHEEKS,        <Channel name: kaicenat>,       2024-11-07 02:34:06.465055 
+=======
+
+ 0_jordy,     ada on da mic?,        <Channel name: adapt>,       2024-11-07 01:41:08.882272 
+
+ 0_jordy,     W RANI SANNNN,        <Channel name: kaicenat>,       2024-11-07 02:20:05.565963 
+
+ 0_jordy,     RANI SANNNN,        <Channel name: kaicenat>,       2024-11-07 02:20:10.563535 
+
+ 0_jordy,     stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:20:14.638067 
+
+ 0_jordy,     stabeCAUGHT stabeCAUGHT stabeCAUGHT,        <Channel name: kaicenat>,       2024-11-07 02:20:17.694024 
+
+ 0_jordy,     HE CLAPPING CHEEKS,        <Channel name: kaicenat>,       2024-11-07 02:34:06.465055 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

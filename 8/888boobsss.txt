@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  888boobsss,     i cant get hawk tuah,        <Channel name: silky>,       2024-11-07 01:42:47.725061 
 
@@ -8,3 +9,15 @@
  888boobsss,     JUST MAKE A SONG,        <Channel name: adapt>,       2024-11-07 01:59:24.221279 
 
  888boobsss,     silky never listened to shaboozey,        <Channel name: silky>,       2024-11-07 02:00:55.607325 
+=======
+
+ 888boobsss,     i cant get hawk tuah,        <Channel name: silky>,       2024-11-07 01:42:47.725061 
+
+ 888boobsss,     that keyboard mouse for sure greasy lmao,        <Channel name: silky>,       2024-11-07 01:46:29.066347 
+
+ 888boobsss,     WW RANI SANN,        <Channel name: adapt>,       2024-11-07 01:57:36.955435 
+
+ 888boobsss,     JUST MAKE A SONG,        <Channel name: adapt>,       2024-11-07 01:59:24.221279 
+
+ 888boobsss,     silky never listened to shaboozey,        <Channel name: silky>,       2024-11-07 02:00:55.607325 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

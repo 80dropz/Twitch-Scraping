@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  321nips,     bro needs a second setup outside,        <Channel name: nadeshot>,       2024-11-07 02:14:41.122559 
 
@@ -6,3 +7,13 @@
  321nips,     Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:15.139091 
 
  321nips,     damn,        <Channel name: nadeshot>,       2024-11-07 02:18:29.491114 
+=======
+
+ 321nips,     bro needs a second setup outside,        <Channel name: nadeshot>,       2024-11-07 02:14:41.122559 
+
+ 321nips,     need that papanya brother,        <Channel name: nadeshot>,       2024-11-07 02:16:04.928925 
+
+ 321nips,     Scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:15.139091 
+
+ 321nips,     damn,        <Channel name: nadeshot>,       2024-11-07 02:18:29.491114 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

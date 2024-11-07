@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  queenrandii,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:50.945646 
 
@@ -8,3 +9,15 @@
  queenrandii,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:34.384510 
 
  queenrandii,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:28.250605 
+=======
+
+ queenrandii,     33,        <Channel name: kaicenat>,       2024-11-07 02:00:50.945646 
+
+ queenrandii,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:39.158314 
+
+ queenrandii,     61,        <Channel name: kaicenat>,       2024-11-07 02:03:44.990935 
+
+ queenrandii,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:34.384510 
+
+ queenrandii,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:28.250605 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

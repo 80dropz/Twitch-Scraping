@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1retnuh,     Jax carried hard,        <Channel name: jasontheween>,       2024-11-07 01:43:18.245524 
 
@@ -12,3 +13,19 @@
  1retnuh,     silky dnt shut up,        <Channel name: jasontheween>,       2024-11-07 01:52:41.581703 
 
  1retnuh,     LMAAAPOP,        <Channel name: kaicenat>,       2024-11-07 02:47:28.566859 
+=======
+
+ 1retnuh,     Jax carried hard,        <Channel name: jasontheween>,       2024-11-07 01:43:18.245524 
+
+ 1retnuh,     zz,        <Channel name: jasontheween>,       2024-11-07 01:43:27.367637 
+
+ 1retnuh,     lmsooo,        <Channel name: jasontheween>,       2024-11-07 01:43:30.181454 
+
+ 1retnuh,     ty,        <Channel name: jasontheween>,       2024-11-07 01:46:43.777573 
+
+ 1retnuh,     oh fuck no,        <Channel name: jasontheween>,       2024-11-07 01:49:12.900907 
+
+ 1retnuh,     silky dnt shut up,        <Channel name: jasontheween>,       2024-11-07 01:52:41.581703 
+
+ 1retnuh,     LMAAAPOP,        <Channel name: kaicenat>,       2024-11-07 02:47:28.566859 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

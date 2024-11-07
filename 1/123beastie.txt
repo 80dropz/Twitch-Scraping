@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  123beastie,     YUHHHH,        <Channel name: kaicenat>,       2024-11-07 02:00:15.263627 
 
@@ -14,3 +15,21 @@
  123beastie,     lookin good mr,        <Channel name: kaicenat>,       2024-11-07 02:10:33.767280 
 
  123beastie,     ad,        <Channel name: kaicenat>,       2024-11-07 02:25:44.502682 
+=======
+
+ 123beastie,     YUHHHH,        <Channel name: kaicenat>,       2024-11-07 02:00:15.263627 
+
+ 123beastie,     YOOO,        <Channel name: kaicenat>,       2024-11-07 02:00:27.878154 
+
+ 123beastie,     MMM KAII,        <Channel name: kaicenat>,       2024-11-07 02:05:47.702760 
+
+ 123beastie,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 02:06:12.742929 
+
+ 123beastie,     YESSSIRRRR,        <Channel name: kaicenat>,       2024-11-07 02:06:32.424188 
+
+ 123beastie,     ITS COOOLL KAI,        <Channel name: kaicenat>,       2024-11-07 02:06:57.311763 
+
+ 123beastie,     lookin good mr,        <Channel name: kaicenat>,       2024-11-07 02:10:33.767280 
+
+ 123beastie,     ad,        <Channel name: kaicenat>,       2024-11-07 02:25:44.502682 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

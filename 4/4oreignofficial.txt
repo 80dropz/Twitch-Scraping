@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  4oreignofficial,     L scam,        <Channel name: kaicenat>,       2024-11-07 01:36:00.929897 
 
  4oreignofficial,     25 6x,        <Channel name: kaicenat>,       2024-11-07 01:53:54.331730 
+=======
+
+ 4oreignofficial,     L scam,        <Channel name: kaicenat>,       2024-11-07 01:36:00.929897 
+
+ 4oreignofficial,     25 6x,        <Channel name: kaicenat>,       2024-11-07 01:53:54.331730 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

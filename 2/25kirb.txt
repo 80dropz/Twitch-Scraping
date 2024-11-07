@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  25kirb,     are we gonna get close up of the toyota Binoculars,        <Channel name: cooksux>,       2024-11-07 01:43:29.862278 
 
@@ -14,3 +15,21 @@
  25kirb,     EZ,        <Channel name: cooksux>,       2024-11-07 02:10:25.398468 
 
  25kirb,     LUL,        <Channel name: cooksux>,       2024-11-07 02:15:10.311424 
+=======
+
+ 25kirb,     are we gonna get close up of the toyota Binoculars,        <Channel name: cooksux>,       2024-11-07 01:43:29.862278 
+
+ 25kirb,     i want it in matte black,        <Channel name: cooksux>,       2024-11-07 01:43:46.565378 
+
+ 25kirb,     i think its 70k,        <Channel name: cooksux>,       2024-11-07 01:43:56.321600 
+
+ 25kirb,     LUL,        <Channel name: cooksux>,       2024-11-07 01:48:03.458852 
+
+ 25kirb,     seems like a little quiet,        <Channel name: cooksux>,       2024-11-07 01:49:38.071679 
+
+ 25kirb,     Wokege,        <Channel name: cooksux>,       2024-11-07 02:05:08.126662 
+
+ 25kirb,     EZ,        <Channel name: cooksux>,       2024-11-07 02:10:25.398468 
+
+ 25kirb,     LUL,        <Channel name: cooksux>,       2024-11-07 02:15:10.311424 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  2kbanish,     i invest in BRs with wagering in them,        <Channel name: pokelawls>,       2024-11-07 01:50:02.433692 
 
@@ -6,3 +7,13 @@
  2kbanish,     buh2,        <Channel name: pokelawls>,       2024-11-07 02:17:58.144863 
 
  2kbanish,     holyFuckingshit,        <Channel name: pokelawls>,       2024-11-07 02:18:28.795080 
+=======
+
+ 2kbanish,     i invest in BRs with wagering in them,        <Channel name: pokelawls>,       2024-11-07 01:50:02.433692 
+
+ 2kbanish,     Buggin yeah im on the phone rn,        <Channel name: pokelawls>,       2024-11-07 02:01:35.791307 
+
+ 2kbanish,     buh2,        <Channel name: pokelawls>,       2024-11-07 02:17:58.144863 
+
+ 2kbanish,     holyFuckingshit,        <Channel name: pokelawls>,       2024-11-07 02:18:28.795080 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

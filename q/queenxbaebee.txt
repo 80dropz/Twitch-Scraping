@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  queenxbaebee,     nah,        <Channel name: kaicenat>,       2024-11-07 01:43:36.767232 
 
@@ -8,3 +9,15 @@
  queenxbaebee,     15,        <Channel name: kaicenat>,       2024-11-07 01:46:51.738665 
 
  queenxbaebee,     30secs at most,        <Channel name: kaicenat>,       2024-11-07 01:48:50.442613 
+=======
+
+ queenxbaebee,     nah,        <Channel name: kaicenat>,       2024-11-07 01:43:36.767232 
+
+ queenxbaebee,     no,        <Channel name: kaicenat>,       2024-11-07 01:45:14.348495 
+
+ queenxbaebee,     15 secs,        <Channel name: kaicenat>,       2024-11-07 01:46:00.342622 
+
+ queenxbaebee,     15,        <Channel name: kaicenat>,       2024-11-07 01:46:51.738665 
+
+ queenxbaebee,     30secs at most,        <Channel name: kaicenat>,       2024-11-07 01:48:50.442613 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

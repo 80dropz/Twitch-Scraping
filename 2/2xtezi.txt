@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  2xtezi,     GOODNIGHT,        <Channel name: clix>,       2024-11-07 01:44:44.697592 
 
@@ -14,3 +15,21 @@
  2xtezi,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:21.744631 
 
  2xtezi,     Skibidi,        <Channel name: clix>,       2024-11-07 02:01:33.053470 
+=======
+
+ 2xtezi,     GOODNIGHT,        <Channel name: clix>,       2024-11-07 01:44:44.697592 
+
+ 2xtezi,     NIGHTTTTTTTT,        <Channel name: clix>,       2024-11-07 01:44:55.712357 
+
+ 2xtezi,     GNNNNNNN,        <Channel name: clix>,       2024-11-07 01:45:07.271158 
+
+ 2xtezi,     skibidi,        <Channel name: clix>,       2024-11-07 01:51:56.112541 
+
+ 2xtezi,     Skibiti,        <Channel name: clix>,       2024-11-07 01:52:24.177816 
+
+ 2xtezi,     skibiti,        <Channel name: clix>,       2024-11-07 01:52:48.913301 
+
+ 2xtezi,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:21.744631 
+
+ 2xtezi,     Skibidi,        <Channel name: clix>,       2024-11-07 02:01:33.053470 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

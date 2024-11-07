@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  queencozyyyy,     uptoooooo,        <Channel name: kaicenat>,       2024-11-07 01:53:27.547880 
 
  queencozyyyy,     whats happening,        <Channel name: kaicenat>,       2024-11-07 01:53:45.494943 
+=======
+
+ queencozyyyy,     uptoooooo,        <Channel name: kaicenat>,       2024-11-07 01:53:27.547880 
+
+ queencozyyyy,     whats happening,        <Channel name: kaicenat>,       2024-11-07 01:53:45.494943 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

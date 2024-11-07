@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  00piumx,     where my cousin @feiipee___ at?,        <Channel name: noemi>,       2024-11-07 02:53:01.424176 
+=======
+
+ 00piumx,     where my cousin @feiipee___ at?,        <Channel name: noemi>,       2024-11-07 02:53:01.424176 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

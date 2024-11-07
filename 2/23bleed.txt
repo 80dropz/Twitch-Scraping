@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  23bleed,     doing mukbangs,        <Channel name: faxuty>,       2024-11-07 02:31:35.349907 
 
  23bleed,     what team was he on then,        <Channel name: faxuty>,       2024-11-07 02:51:43.318949 
+=======
+
+ 23bleed,     doing mukbangs,        <Channel name: faxuty>,       2024-11-07 02:31:35.349907 
+
+ 23bleed,     what team was he on then,        <Channel name: faxuty>,       2024-11-07 02:51:43.318949 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

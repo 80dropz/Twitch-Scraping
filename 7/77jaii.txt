@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  77jaii,     yes,        <Channel name: clix>,       2024-11-07 01:48:03.295429 
 
@@ -12,3 +13,19 @@
  77jaii,     say ong we giving away fake giftcards from fans,        <Channel name: clix>,       2024-11-07 02:13:28.473045 
 
  77jaii,     W BANDIES,        <Channel name: clix>,       2024-11-07 02:16:27.715130 
+=======
+
+ 77jaii,     yes,        <Channel name: clix>,       2024-11-07 01:48:03.295429 
+
+ 77jaii,     skibidii,        <Channel name: clix>,       2024-11-07 01:51:39.622309 
+
+ 77jaii,     skibidii,        <Channel name: clix>,       2024-11-07 01:56:29.729208 
+
+ 77jaii,     skibidi,        <Channel name: clix>,       2024-11-07 01:56:39.765030 
+
+ 77jaii,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:42.495760 
+
+ 77jaii,     say ong we giving away fake giftcards from fans,        <Channel name: clix>,       2024-11-07 02:13:28.473045 
+
+ 77jaii,     W BANDIES,        <Channel name: clix>,       2024-11-07 02:16:27.715130 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

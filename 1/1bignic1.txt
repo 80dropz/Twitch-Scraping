@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:38.061280 
 
@@ -46,3 +47,53 @@
  1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:37.444307 
 
  1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:39.205004 
+=======
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:38.061280 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:39.065170 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:41.590099 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:42.657765 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:43.936950 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:45.623330 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:47.973111 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:50.692487 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:52.669720 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:54.669099 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:17:57.974207 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:08.185358 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:16.048075 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:19.544803 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:22.757451 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:24.508929 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:27.636876 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:29.733708 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:31.827373 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:33.319361 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:34.641373 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:36.170293 
+
+ 1bignic1,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:37.444307 
+
+ 1bignic1,     Rakai,        <Channel name: kaicenat>,       2024-11-07 02:18:39.205004 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

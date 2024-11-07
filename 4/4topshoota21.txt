@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  4topshoota21,     do 1000 pushups in 1 day,        <Channel name: kaicenat>,       2024-11-07 01:40:33.121743 
 
@@ -28,3 +29,35 @@
  4topshoota21,     you could of been done alr,        <Channel name: kaicenat>,       2024-11-07 01:48:13.100885 
 
  4topshoota21,     react to fyness2tymes song,        <Channel name: kaicenat>,       2024-11-07 02:10:46.163600 
+=======
+
+ 4topshoota21,     do 1000 pushups in 1 day,        <Channel name: kaicenat>,       2024-11-07 01:40:33.121743 
+
+ 4topshoota21,     do 1000,        <Channel name: kaicenat>,       2024-11-07 01:41:01.307043 
+
+ 4topshoota21,     1000,        <Channel name: kaicenat>,       2024-11-07 01:41:08.512236 
+
+ 4topshoota21,     do 1000 atleast,        <Channel name: kaicenat>,       2024-11-07 01:41:39.058071 
+
+ 4topshoota21,     1000,        <Channel name: kaicenat>,       2024-11-07 01:42:06.977069 
+
+ 4topshoota21,     ray,        <Channel name: kaicenat>,       2024-11-07 01:42:48.123815 
+
+ 4topshoota21,     ray can count,        <Channel name: kaicenat>,       2024-11-07 01:43:09.542962 
+
+ 4topshoota21,     non stop,        <Channel name: kaicenat>,       2024-11-07 01:43:34.457063 
+
+ 4topshoota21,     1min,        <Channel name: kaicenat>,       2024-11-07 01:43:36.946082 
+
+ 4topshoota21,     1min,        <Channel name: kaicenat>,       2024-11-07 01:44:10.017206 
+
+ 4topshoota21,     1min,        <Channel name: kaicenat>,       2024-11-07 01:44:46.212515 
+
+ 4topshoota21,     1min,        <Channel name: kaicenat>,       2024-11-07 01:46:43.847453 
+
+ 4topshoota21,     1min,        <Channel name: kaicenat>,       2024-11-07 01:47:54.522762 
+
+ 4topshoota21,     you could of been done alr,        <Channel name: kaicenat>,       2024-11-07 01:48:13.100885 
+
+ 4topshoota21,     react to fyness2tymes song,        <Channel name: kaicenat>,       2024-11-07 02:10:46.163600 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

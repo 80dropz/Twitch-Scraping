@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  9nivann6,     Dónde compras el bote,        <Channel name: aldo_geo>,       2024-11-07 01:46:22.112698 
 
@@ -42,3 +43,49 @@
  9nivann6,     Puedes guardar y darle después we,        <Channel name: aldo_geo>,       2024-11-07 02:42:59.992040 
 
  9nivann6,     El chopper gunner para la fase 3 we,        <Channel name: aldo_geo>,       2024-11-07 02:45:32.485647 
+=======
+
+ 9nivann6,     Dónde compras el bote,        <Channel name: aldo_geo>,       2024-11-07 01:46:22.112698 
+
+ 9nivann6,     5k de chatarra,        <Channel name: aldo_geo>,       2024-11-07 01:58:20.128133 
+
+ 9nivann6,     Ve el paso después de hackear we,        <Channel name: aldo_geo>,       2024-11-07 02:01:36.618145 
+
+ 9nivann6,     Mira el paso siguiente de hackear las estás we,        <Channel name: aldo_geo>,       2024-11-07 02:03:19.797531 
+
+ 9nivann6,     Mira el siguiente paso por qué se vuelve difícil de repente we,        <Channel name: aldo_geo>,       2024-11-07 02:06:15.021206 
+
+ 9nivann6,     MONKA,        <Channel name: aldo_geo>,       2024-11-07 02:08:40.189576 
+
+ 9nivann6,     Ahora sí a ponerse a full de todo para BOSS we,        <Channel name: aldo_geo>,       2024-11-07 02:09:32.044026 
+
+ 9nivann6,     Lv3 y rareza dorada we,        <Channel name: aldo_geo>,       2024-11-07 02:10:04.855630 
+
+ 9nivann6,     En general se te acabaron los chicles we,        <Channel name: aldo_geo>,       2024-11-07 02:12:41.947259 
+
+ 9nivann6,     a 7 de vida MONKA,        <Channel name: aldo_geo>,       2024-11-07 02:14:41.094390 
+
+ 9nivann6,     Cayeron arriba XDDD,        <Channel name: aldo_geo>,       2024-11-07 02:15:37.115998 
+
+ 9nivann6,     Alv MONKA,        <Channel name: aldo_geo>,       2024-11-07 02:17:26.872160 
+
+ 9nivann6,     Si le pones silenciador a las armas te salen más fragmentos,        <Channel name: aldo_geo>,       2024-11-07 02:32:07.240687 
+
+ 9nivann6,     La pistola we,        <Channel name: aldo_geo>,       2024-11-07 02:32:59.291354 
+
+ 9nivann6,     La Ray gun hace más daño we,        <Channel name: aldo_geo>,       2024-11-07 02:36:37.347965 
+
+ 9nivann6,     Va te da exp si haces la extracción we,        <Channel name: aldo_geo>,       2024-11-07 02:38:26.980315 
+
+ 9nivann6,     Que te den más fragmentos si we,        <Channel name: aldo_geo>,       2024-11-07 02:39:13.119872 
+
+ 9nivann6,     Cierto puedes guardar partida we,        <Channel name: aldo_geo>,       2024-11-07 02:39:36.484000 
+
+ 9nivann6,     Dale a guardar y ya otro día le das we,        <Channel name: aldo_geo>,       2024-11-07 02:40:16.637037 
+
+ 9nivann6,     Sisi,        <Channel name: aldo_geo>,       2024-11-07 02:42:07.071598 
+
+ 9nivann6,     Puedes guardar y darle después we,        <Channel name: aldo_geo>,       2024-11-07 02:42:59.992040 
+
+ 9nivann6,     El chopper gunner para la fase 3 we,        <Channel name: aldo_geo>,       2024-11-07 02:45:32.485647 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

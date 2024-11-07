@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  queezus_christ2,     im smoking a marijuana cigarette,        <Channel name: caseoh_>,       2024-11-07 01:46:36.640404 
+=======
+
+ queezus_christ2,     im smoking a marijuana cigarette,        <Channel name: caseoh_>,       2024-11-07 01:46:36.640404 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  1_treek_1,     Que es Catfinger,        <Channel name: vickypalami>,       2024-11-07 01:42:47.929081 
 
  1_treek_1,     vickyp1Sniper,        <Channel name: vickypalami>,       2024-11-07 01:43:49.472440 
+=======
+
+ 1_treek_1,     Que es Catfinger,        <Channel name: vickypalami>,       2024-11-07 01:42:47.929081 
+
+ 1_treek_1,     vickyp1Sniper,        <Channel name: vickypalami>,       2024-11-07 01:43:49.472440 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

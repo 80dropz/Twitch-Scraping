@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  6ixxalldway,     chat let spam bring shank from Nigeria,        <Channel name: kaicenat>,       2024-11-07 01:41:56.468180 
+=======
+
+ 6ixxalldway,     chat let spam bring shank from Nigeria,        <Channel name: kaicenat>,       2024-11-07 01:41:56.468180 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

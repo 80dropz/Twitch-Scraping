@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  189papo,     YOOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:36:29.155361 
 
@@ -34,3 +35,41 @@
  189papo,     LMFAOOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:52:59.279579 
 
  189papo,     AHHHHHHHHHHHHH MAN,        <Channel name: meltislive>,       2024-11-07 02:53:22.893569 
+=======
+
+ 189papo,     YOOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:36:29.155361 
+
+ 189papo,     O YEAAAAAA,        <Channel name: meltislive>,       2024-11-07 02:42:24.740305 
+
+ 189papo,     YES,        <Channel name: meltislive>,       2024-11-07 02:44:57.510435 
+
+ 189papo,     THE MORE FOR UR STORY THE BETTER,        <Channel name: meltislive>,       2024-11-07 02:45:09.350588 
+
+ 189papo,     mmmm,        <Channel name: meltislive>,       2024-11-07 02:46:43.286126 
+
+ 189papo,     there it go story in order n,        <Channel name: meltislive>,       2024-11-07 02:46:47.420417 
+
+ 189papo,     @thatsmytypa been retarded,        <Channel name: meltislive>,       2024-11-07 02:46:59.041542 
+
+ 189papo,     RICHARD METHOD THERE IT GOOO,        <Channel name: meltislive>,       2024-11-07 02:50:38.800647 
+
+ 189papo,     RICHARD METHOD THERE IT GOOO,        <Channel name: meltislive>,       2024-11-07 02:50:39.059902 
+
+ 189papo,     LMFAOOO,        <Channel name: meltislive>,       2024-11-07 02:50:59.228278 
+
+ 189papo,     ITTY MYERS,        <Channel name: meltislive>,       2024-11-07 02:51:06.028080 
+
+ 189papo,     LMFAOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:51:14.342809 
+
+ 189papo,     ahhhhhhh man,        <Channel name: meltislive>,       2024-11-07 02:51:49.302964 
+
+ 189papo,     LMAOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:52:12.528555 
+
+ 189papo,     W CALL,        <Channel name: meltislive>,       2024-11-07 02:52:20.994661 
+
+ 189papo,     LMAOOOOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:52:51.567429 
+
+ 189papo,     LMFAOOOOOOOOOOOOOOO,        <Channel name: meltislive>,       2024-11-07 02:52:59.279579 
+
+ 189papo,     AHHHHHHHHHHHHH MAN,        <Channel name: meltislive>,       2024-11-07 02:53:22.893569 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

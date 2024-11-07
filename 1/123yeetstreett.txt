@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  123yeetstreett,     forgot timmy,        <Channel name: caseoh_>,       2024-11-07 01:39:47.003554 
+=======
+
+ 123yeetstreett,     forgot timmy,        <Channel name: caseoh_>,       2024-11-07 01:39:47.003554 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

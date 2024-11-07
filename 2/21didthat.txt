@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  21didthat,     l ads,        <Channel name: kaicenat>,       2024-11-07 01:19:57.094198 
+=======
+
+ 21didthat,     l ads,        <Channel name: kaicenat>,       2024-11-07 01:19:57.094198 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

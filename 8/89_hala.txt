@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  89_hala,     FACYS,        <Channel name: kaicenat>,       2024-11-07 02:24:53.478392 
 
@@ -6,3 +7,13 @@
  89_hala,     facts,        <Channel name: kaicenat>,       2024-11-07 02:28:44.842804 
 
  89_hala,     ?,        <Channel name: kaicenat>,       2024-11-07 02:32:47.112475 
+=======
+
+ 89_hala,     FACYS,        <Channel name: kaicenat>,       2024-11-07 02:24:53.478392 
+
+ 89_hala,     FACTS,        <Channel name: kaicenat>,       2024-11-07 02:24:54.747683 
+
+ 89_hala,     facts,        <Channel name: kaicenat>,       2024-11-07 02:28:44.842804 
+
+ 89_hala,     ?,        <Channel name: kaicenat>,       2024-11-07 02:32:47.112475 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  quiet_ambassador_,     Who ever made this wheel needs to fired.,        <Channel name: kaicenat>,       2024-11-07 01:34:46.330240 
+=======
+
+ quiet_ambassador_,     Who ever made this wheel needs to fired.,        <Channel name: kaicenat>,       2024-11-07 01:34:46.330240 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

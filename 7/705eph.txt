@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  705eph,     MELT CMON,        <Channel name: meltislive>,       2024-11-07 02:34:33.073170 
 
@@ -28,3 +29,35 @@
  705eph,     U NIGGAS IN CHAT ARNT TOUGHHH,        <Channel name: meltislive>,       2024-11-07 02:52:45.781534 
 
  705eph,     SMHHHH,        <Channel name: meltislive>,       2024-11-07 02:52:50.119221 
+=======
+
+ 705eph,     MELT CMON,        <Channel name: meltislive>,       2024-11-07 02:34:33.073170 
+
+ 705eph,     @GIOCKIES LMAOOOO,        <Channel name: meltislive>,       2024-11-07 02:36:46.822859 
+
+ 705eph,     IFG,        <Channel name: meltislive>,       2024-11-07 02:37:52.142221 
+
+ 705eph,     LMAOOOO,        <Channel name: meltislive>,       2024-11-07 02:38:07.896902 
+
+ 705eph,     NIGGA LOVES TS,        <Channel name: meltislive>,       2024-11-07 02:38:13.325513 
+
+ 705eph,     OMG,        <Channel name: meltislive>,       2024-11-07 02:39:46.220451 
+
+ 705eph,     FINE SHIT,        <Channel name: meltislive>,       2024-11-07 02:40:00.485400 
+
+ 705eph,     NIGGA MISSES HER,        <Channel name: meltislive>,       2024-11-07 02:40:09.743308 
+
+ 705eph,     THE BAITING U,        <Channel name: meltislive>,       2024-11-07 02:45:10.882322 
+
+ 705eph,     U FALLINGFOR THE BAIT,        <Channel name: meltislive>,       2024-11-07 02:45:16.798933 
+
+ 705eph,     LMAOOOOO,        <Channel name: meltislive>,       2024-11-07 02:51:16.081806 
+
+ 705eph,     U STILL GON BRUSH IT OVER,        <Channel name: meltislive>,       2024-11-07 02:51:48.077008 
+
+ 705eph,     GOOD CALL,        <Channel name: meltislive>,       2024-11-07 02:52:24.258415 
+
+ 705eph,     U NIGGAS IN CHAT ARNT TOUGHHH,        <Channel name: meltislive>,       2024-11-07 02:52:45.781534 
+
+ 705eph,     SMHHHH,        <Channel name: meltislive>,       2024-11-07 02:52:50.119221 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  qecyy,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:10.642191 
+=======
+
+ qecyy,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:10.642191 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

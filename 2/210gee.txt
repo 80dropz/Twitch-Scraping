@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  210gee,     it’s rigged,        <Channel name: kaicenat>,       2024-11-07 01:33:54.498017 
+=======
+
+ 210gee,     it’s rigged,        <Channel name: kaicenat>,       2024-11-07 01:33:54.498017 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  1lorrsean,     kaicSoap kaicSoap kaicSoap,        <Channel name: kaicenat>,       2024-11-07 01:56:28.056809 
 
  1lorrsean,     kaicScream kaicScream kaicScream,        <Channel name: kaicenat>,       2024-11-07 01:57:45.337796 
+=======
+
+ 1lorrsean,     kaicSoap kaicSoap kaicSoap,        <Channel name: kaicenat>,       2024-11-07 01:56:28.056809 
+
+ 1lorrsean,     kaicScream kaicScream kaicScream,        <Channel name: kaicenat>,       2024-11-07 01:57:45.337796 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

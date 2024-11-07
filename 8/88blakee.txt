@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  88blakee,     dad?,        <Channel name: nadeshot>,       2024-11-07 02:34:31.116234 
+=======
+
+ 88blakee,     dad?,        <Channel name: nadeshot>,       2024-11-07 02:34:31.116234 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

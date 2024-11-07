@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1qeace,     kaicCryy kaicCryy,        <Channel name: kaicenat>,       2024-11-07 01:24:16.974097 
+=======
+
+ 1qeace,     kaicCryy kaicCryy,        <Channel name: kaicenat>,       2024-11-07 01:24:16.974097 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

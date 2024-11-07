@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  37_jacob,     PLEASE TAKE THEM OFF,        <Channel name: caseoh_>,       2024-11-07 01:39:37.617328 
 
@@ -10,3 +11,17 @@
  37_jacob,     DEVS ARE PRAYING ON YOUR DOWNFALL,        <Channel name: caseoh_>,       2024-11-07 01:44:34.340685 
 
  37_jacob,     4,        <Channel name: caseoh_>,       2024-11-07 01:44:53.341432 
+=======
+
+ 37_jacob,     PLEASE TAKE THEM OFF,        <Channel name: caseoh_>,       2024-11-07 01:39:37.617328 
+
+ 37_jacob,     ITS SO OVERRRRR,        <Channel name: caseoh_>,       2024-11-07 01:40:40.740149 
+
+ 37_jacob,     ITS OVER,        <Channel name: caseoh_>,       2024-11-07 01:42:49.237637 
+
+ 37_jacob,     GG,        <Channel name: caseoh_>,       2024-11-07 01:42:51.813340 
+
+ 37_jacob,     DEVS ARE PRAYING ON YOUR DOWNFALL,        <Channel name: caseoh_>,       2024-11-07 01:44:34.340685 
+
+ 37_jacob,     4,        <Channel name: caseoh_>,       2024-11-07 01:44:53.341432 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

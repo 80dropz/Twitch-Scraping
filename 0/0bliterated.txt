@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  0bliterated,     jason fix ur hair,        <Channel name: adapt>,       2024-11-07 01:51:35.663361 
 
@@ -20,3 +21,27 @@
  0bliterated,     is clix playing oce?,        <Channel name: clix>,       2024-11-07 02:15:33.045660 
 
  0bliterated,     damn they dropped clix for reet?,        <Channel name: clix>,       2024-11-07 02:17:06.249945 
+=======
+
+ 0bliterated,     jason fix ur hair,        <Channel name: adapt>,       2024-11-07 01:51:35.663361 
+
+ 0bliterated,     damn yall missing lacy,        <Channel name: adapt>,       2024-11-07 01:52:58.514917 
+
+ 0bliterated,     this fake decent,        <Channel name: adapt>,       2024-11-07 01:55:44.592791 
+
+ 0bliterated,     adapt just adlibs???,        <Channel name: adapt>,       2024-11-07 01:57:54.586466 
+
+ 0bliterated,     nah rani san wasnt bad,        <Channel name: adapt>,       2024-11-07 01:59:20.020275 
+
+ 0bliterated,     i think silky’s verse was ass,        <Channel name: adapt>,       2024-11-07 01:59:57.601108 
+
+ 0bliterated,     nah adapt gotta make him clean dat,        <Channel name: adapt>,       2024-11-07 02:05:32.891531 
+
+ 0bliterated,     W UNC,        <Channel name: clix>,       2024-11-07 02:08:34.094749 
+
+ 0bliterated,     can we watch fax,        <Channel name: clix>,       2024-11-07 02:14:06.653857 
+
+ 0bliterated,     is clix playing oce?,        <Channel name: clix>,       2024-11-07 02:15:33.045660 
+
+ 0bliterated,     damn they dropped clix for reet?,        <Channel name: clix>,       2024-11-07 02:17:06.249945 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

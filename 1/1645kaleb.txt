@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  1645kaleb,     this my first time seeing these 2 interact,        <Channel name: kaicenat>,       2024-11-07 02:27:51.734899 
+=======
+
+ 1645kaleb,     this my first time seeing these 2 interact,        <Channel name: kaicenat>,       2024-11-07 02:27:51.734899 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  4thqtrshordie,     kaicCryy,        <Channel name: kaicenat>,       2024-11-07 01:44:23.504993 
+=======
+
+ 4thqtrshordie,     kaicCryy,        <Channel name: kaicenat>,       2024-11-07 01:44:23.504993 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

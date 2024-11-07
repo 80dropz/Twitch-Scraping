@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 
  1023n1ck,     skibidiskibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:52:46.524927 
 
  1023n1ck,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:48.787736 
 
  1023n1ck,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:43.686200 
+=======
+
+ 1023n1ck,     skibidiskibidiskibidiskibidi,        <Channel name: clix>,       2024-11-07 01:52:46.524927 
+
+ 1023n1ck,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:48.787736 
+
+ 1023n1ck,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:43.686200 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

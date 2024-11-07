@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  345sss,     what is your plan for trio if vortex drops u,        <Channel name: oatley>,       2024-11-07 01:42:17.590454 
 
  345sss,     hmm maybe you should go full time content creator instead competitive,        <Channel name: oatley>,       2024-11-07 01:44:16.160534 
+=======
+
+ 345sss,     what is your plan for trio if vortex drops u,        <Channel name: oatley>,       2024-11-07 01:42:17.590454 
+
+ 345sss,     hmm maybe you should go full time content creator instead competitive,        <Channel name: oatley>,       2024-11-07 01:44:16.160534 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  22greennolrish,     FIRE,        <Channel name: plaqueboymax>,       2024-11-07 01:50:51.541616 
 
@@ -22,3 +23,29 @@
  22greennolrish,     GOONER TYPE BEAT,        <Channel name: plaqueboymax>,       2024-11-07 02:00:45.354358 
 
  22greennolrish,     RnB,        <Channel name: plaqueboymax>,       2024-11-07 02:06:49.541401 
+=======
+
+ 22greennolrish,     FIRE,        <Channel name: plaqueboymax>,       2024-11-07 01:50:51.541616 
+
+ 22greennolrish,     RON GET OFF UR PHONE,        <Channel name: plaqueboymax>,       2024-11-07 01:52:29.864697 
+
+ 22greennolrish,     Nah shut up,        <Channel name: plaqueboymax>,       2024-11-07 01:54:46.220866 
+
+ 22greennolrish,     OFF BEAT,        <Channel name: plaqueboymax>,       2024-11-07 01:57:16.942431 
+
+ 22greennolrish,     COUNTRY,        <Channel name: plaqueboymax>,       2024-11-07 01:58:59.111811 
+
+ 22greennolrish,     COUNTRU,        <Channel name: plaqueboymax>,       2024-11-07 01:59:02.687907 
+
+ 22greennolrish,     YES,        <Channel name: plaqueboymax>,       2024-11-07 01:59:07.114325 
+
+ 22greennolrish,     COUNTRY,        <Channel name: plaqueboymax>,       2024-11-07 01:59:11.446009 
+
+ 22greennolrish,     COUNTRY11,        <Channel name: plaqueboymax>,       2024-11-07 01:59:29.911320 
+
+ 22greennolrish,     PLEASE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:34.964921 
+
+ 22greennolrish,     GOONER TYPE BEAT,        <Channel name: plaqueboymax>,       2024-11-07 02:00:45.354358 
+
+ 22greennolrish,     RnB,        <Channel name: plaqueboymax>,       2024-11-07 02:06:49.541401 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

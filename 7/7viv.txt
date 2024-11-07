@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
  7viv,     ayo whats this masterpiece? someone,        <Channel name: pokelawls>,       2024-11-07 02:51:12.848392 
 
  7viv,     @afkbrb w,        <Channel name: pokelawls>,       2024-11-07 02:51:57.212975 
+=======
+
+ 7viv,     ayo whats this masterpiece? someone,        <Channel name: pokelawls>,       2024-11-07 02:51:12.848392 
+
+ 7viv,     @afkbrb w,        <Channel name: pokelawls>,       2024-11-07 02:51:57.212975 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

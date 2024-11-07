@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  queenubia1,     Lol LUL LUL,        <Channel name: kaicenat>,       2024-11-07 01:42:47.905779 
+=======
+
+ queenubia1,     Lol LUL LUL,        <Channel name: kaicenat>,       2024-11-07 01:42:47.905779 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

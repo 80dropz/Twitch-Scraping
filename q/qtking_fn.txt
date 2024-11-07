@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  qtking_fn,     deaal,        <Channel name: kaicenat>,       2024-11-07 01:23:16.562424 
 
@@ -48,3 +49,55 @@
  qtking_fn,     rakia,        <Channel name: kaicenat>,       2024-11-07 02:47:48.712581 
 
  qtking_fn,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:48:09.382584 
+=======
+
+ qtking_fn,     deaal,        <Channel name: kaicenat>,       2024-11-07 01:23:16.562424 
+
+ qtking_fn,     l,        <Channel name: kaicenat>,       2024-11-07 01:23:19.866585 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:23:22.855060 
+
+ qtking_fn,     wwwww,        <Channel name: kaicenat>,       2024-11-07 01:23:24.356070 
+
+ qtking_fn,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 01:23:28.156277 
+
+ qtking_fn,     www,        <Channel name: kaicenat>,       2024-11-07 01:23:29.171331 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:23:30.361090 
+
+ qtking_fn,     www,        <Channel name: kaicenat>,       2024-11-07 01:23:31.391136 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:23:32.652387 
+
+ qtking_fn,     wwwww,        <Channel name: kaicenat>,       2024-11-07 01:23:34.322314 
+
+ qtking_fn,     www,        <Channel name: kaicenat>,       2024-11-07 01:23:35.372719 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:23:36.816851 
+
+ qtking_fn,     www,        <Channel name: kaicenat>,       2024-11-07 01:23:37.888445 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:23:39.318431 
+
+ qtking_fn,     w,        <Channel name: kaicenat>,       2024-11-07 01:23:42.737538 
+
+ qtking_fn,     noononononon,        <Channel name: kaicenat>,       2024-11-07 01:31:40.096393 
+
+ qtking_fn,     onononononononononononononono,        <Channel name: kaicenat>,       2024-11-07 01:31:43.155118 
+
+ qtking_fn,     nononononono,        <Channel name: kaicenat>,       2024-11-07 01:31:46.356813 
+
+ qtking_fn,     nnow,        <Channel name: kaicenat>,       2024-11-07 01:32:37.166872 
+
+ qtking_fn,     w,        <Channel name: kaicenat>,       2024-11-07 01:32:39.722366 
+
+ qtking_fn,     wwww,        <Channel name: kaicenat>,       2024-11-07 01:32:41.005605 
+
+ qtking_fn,     w,        <Channel name: kaicenat>,       2024-11-07 01:32:43.792001 
+
+ qtking_fn,     w spin,        <Channel name: kaicenat>,       2024-11-07 01:32:46.200698 
+
+ qtking_fn,     rakia,        <Channel name: kaicenat>,       2024-11-07 02:47:48.712581 
+
+ qtking_fn,     rakai,        <Channel name: kaicenat>,       2024-11-07 02:48:09.382584 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

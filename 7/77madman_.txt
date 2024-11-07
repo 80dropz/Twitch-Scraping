@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  77madman_,     woah,        <Channel name: cooksux>,       2024-11-07 02:43:23.630211 
+=======
+
+ 77madman_,     woah,        <Channel name: cooksux>,       2024-11-07 02:43:23.630211 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946

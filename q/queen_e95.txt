@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
  queen_e95,     L ADS,        <Channel name: kaicenat>,       2024-11-07 02:50:26.600834 
+=======
+
+ queen_e95,     L ADS,        <Channel name: kaicenat>,       2024-11-07 02:50:26.600834 
+>>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
