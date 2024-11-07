@@ -1,0 +1,42 @@
+
+ nagadroch,     Grecia,        <Channel name: shadowkekw>,       2024-11-07 10:21:35.673239 
+
+ nagadroch,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:21:56.572010 
+
+ nagadroch,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.019794 
+
+ nagadroch,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.562768 
+
+ nagadroch,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:22:55.882533 
+
+ nagadroch,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:06.380472 
+
+ nagadroch,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:23:44.965926 
+
+ nagadroch,     Washington,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.420498 
+
+ nagadroch,     gERMAN,        <Channel name: shadowkekw>,       2024-11-07 10:24:23.258506 
+
+ nagadroch,     gERMANFF,        <Channel name: shadowkekw>,       2024-11-07 10:24:30.524058 
+
+ nagadroch,     Phillipnes,        <Channel name: shadowkekw>,       2024-11-07 10:25:00.679268 
+
+ nagadroch,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:21.382133 
+
+ nagadroch,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:59.432713 
+
+ nagadroch,     Mexicop,        <Channel name: shadowkekw>,       2024-11-07 10:26:27.162173 
+
+ nagadroch,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:26:42.114137 
+
+ nagadroch,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:26:43.541485 
+
+ nagadroch,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:26:52.229119 
+
+ nagadroch,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:26:58.677261 
+
+ nagadroch,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:04.412165 
+
+ nagadroch,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:27:09.626686 
+
+ nagadroch,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.213834 

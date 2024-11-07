@@ -1,0 +1,18 @@
+
+ zed0030,     wtf,        <Channel name: kaicenat>,       2024-11-07 11:23:55.237720 
+
+ zed0030,     miles,        <Channel name: kaicenat>,       2024-11-07 12:10:59.930320 
+
+ zed0030,     W,        <Channel name: kaicenat>,       2024-11-07 12:18:09.074426 
+
+ zed0030,     W,        <Channel name: kaicenat>,       2024-11-07 12:27:19.065064 
+
+ zed0030,     25,        <Channel name: kaicenat>,       2024-11-07 12:31:11.388736 
+
+ zed0030,     110,        <Channel name: kaicenat>,       2024-11-07 12:31:31.323195 
+
+ zed0030,     100,        <Channel name: kaicenat>,       2024-11-07 12:32:10.687407 
+
+ zed0030,     99,        <Channel name: kaicenat>,       2024-11-07 12:32:37.328875 
+
+ zed0030,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:55:56.033913 

@@ -6,3 +6,25 @@
  jd_tank093,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:44:03.999292 
 
  jd_tank093,     No,        <Channel name: kaicenat>,       2024-11-07 01:54:41.996149 
+
+ jd_tank093,     ! time,        <Channel name: kaicenat>,       2024-11-07 11:35:25.692445 
+
+ jd_tank093,     !following,        <Channel name: kaicenat>,       2024-11-07 11:38:39.323674 
+
+ jd_tank093,     !follow,        <Channel name: kaicenat>,       2024-11-07 11:40:40.747771 
+
+ jd_tank093,     !chat,        <Channel name: kaicenat>,       2024-11-07 11:41:35.288622 
+
+ jd_tank093,     !whichtime,        <Channel name: kaicenat>,       2024-11-07 11:42:30.644587 
+
+ jd_tank093,     !Points,        <Channel name: kaicenat>,       2024-11-07 11:44:43.749798 
+
+ jd_tank093,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 11:45:19.245760 
+
+ jd_tank093,     !roulette 104,        <Channel name: kaicenat>,       2024-11-07 11:45:46.288245 
+
+ jd_tank093,     !roulette 108,        <Channel name: kaicenat>,       2024-11-07 11:46:29.011869 
+
+ jd_tank093,     !whichtime,        <Channel name: kaicenat>,       2024-11-07 11:48:34.000446 
+
+ jd_tank093,     No way chat,        <Channel name: kaicenat>,       2024-11-07 13:10:44.495583 

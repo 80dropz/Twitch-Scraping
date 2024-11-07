@@ -42,3 +42,31 @@
  maxthefax89378,     fffffff,        <Channel name: mongraal>,       2024-11-07 09:27:06.169381 
 
  maxthefax89378,     fffffffff,        <Channel name: mongraal>,       2024-11-07 09:27:08.645206 
+
+ maxthefax89378,     !ROULETTE 1,        <Channel name: kaicenat>,       2024-11-07 09:53:36.965433 
+
+ maxthefax89378,     !ROULETTE 2,        <Channel name: kaicenat>,       2024-11-07 09:54:06.679417 
+
+ maxthefax89378,     !ROULETTE 1,        <Channel name: kaicenat>,       2024-11-07 09:54:35.330322 
+
+ maxthefax89378,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:02:11.706030 
+
+ maxthefax89378,     VOICE DELAYED,        <Channel name: kaicenat>,       2024-11-07 10:08:37.419004 
+
+ maxthefax89378,     VOICE DELAYED1,        <Channel name: kaicenat>,       2024-11-07 10:08:54.395089 
+
+ maxthefax89378,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:09:05.053839 
+
+ maxthefax89378,     !ROULETTE 1,        <Channel name: kaicenat>,       2024-11-07 10:09:57.973478 
+
+ maxthefax89378,     !ROULETTE 2,        <Channel name: kaicenat>,       2024-11-07 10:10:30.872631 
+
+ maxthefax89378,     !POINT,        <Channel name: kaicenat>,       2024-11-07 10:11:08.944677 
+
+ maxthefax89378,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:11:17.626216 
+
+ maxthefax89378,     !ROULETTE ALL,        <Channel name: kaicenat>,       2024-11-07 10:11:27.306960 
+
+ maxthefax89378,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:11:44.965990 
+
+ maxthefax89378,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:11:59.000491 

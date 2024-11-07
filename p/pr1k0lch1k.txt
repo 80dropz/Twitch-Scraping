@@ -1,0 +1,46 @@
+
+ pr1k0lch1k,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:12:28.313333 
+
+ pr1k0lch1k,     saudi arabia,        <Channel name: shadowkekw>,       2024-11-07 10:12:49.168087 
+
+ pr1k0lch1k,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.619479 
+
+ pr1k0lch1k,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.568050 
+
+ pr1k0lch1k,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:14:52.025225 
+
+ pr1k0lch1k,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.283638 
+
+ pr1k0lch1k,     algeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:08.089210 
+
+ pr1k0lch1k,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:19:59.279153 
+
+ pr1k0lch1k,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.029508 
+
+ pr1k0lch1k,     myanmar,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.234825 
+
+ pr1k0lch1k,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:23:45.461283 
+
+ pr1k0lch1k,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.248595 
+
+ pr1k0lch1k,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.033467 
+
+ pr1k0lch1k,     slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:24:50.284765 
+
+ pr1k0lch1k,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:25:56.593096 
+
+ pr1k0lch1k,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:26:25.355104 
+
+ pr1k0lch1k,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.297604 
+
+ pr1k0lch1k,     algeria,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.715163 
+
+ pr1k0lch1k,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.618175 
+
+ pr1k0lch1k,     republic of congo,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.836974 
+
+ pr1k0lch1k,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.721613 
+
+ pr1k0lch1k,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:30:56.888175 
+
+ pr1k0lch1k,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.837109 

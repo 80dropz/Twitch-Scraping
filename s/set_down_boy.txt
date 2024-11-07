@@ -20,3 +20,29 @@
  set_down_boy,     LUL LUL LUL LUL LUL LUL LUL,        <Channel name: mongraal>,       2024-11-07 09:43:50.334919 
 
  set_down_boy,     bro thx hes bot,        <Channel name: mongraal>,       2024-11-07 09:43:59.899268 
+
+ set_down_boy,     zesty dogg,        <Channel name: mongraal>,       2024-11-07 09:57:05.736067 
+
+ set_down_boy,     lol,        <Channel name: mongraal>,       2024-11-07 09:59:45.955037 
+
+ set_down_boy,     daddy always better,        <Channel name: mongraal>,       2024-11-07 10:00:27.558092 
+
+ set_down_boy,     i missed the og reload,        <Channel name: mongraal>,       2024-11-07 10:03:31.517546 
+
+ set_down_boy,     woo ah,        <Channel name: mongraal>,       2024-11-07 10:04:04.315175 
+
+ set_down_boy,     lets prank him chat,        <Channel name: mongraal>,       2024-11-07 10:05:08.384104 
+
+ set_down_boy,     @Nightbot SHUT UP,        <Channel name: mongraal>,       2024-11-07 10:06:31.506390 
+
+ set_down_boy,     !sex,        <Channel name: mongraal>,       2024-11-07 10:08:01.469315 
+
+ set_down_boy,     w wo ah,        <Channel name: mongraal>,       2024-11-07 10:08:29.804239 
+
+ set_down_boy,     fr,        <Channel name: mongraal>,       2024-11-07 10:11:44.735719 
+
+ set_down_boy,     l mongy,        <Channel name: mongraal>,       2024-11-07 10:12:01.998272 
+
+ set_down_boy,     ????,        <Channel name: mongraal>,       2024-11-07 10:12:29.153476 
+
+ set_down_boy,     bye,        <Channel name: mongraal>,       2024-11-07 10:12:51.805358 

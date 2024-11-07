@@ -1,0 +1,56 @@
+
+ widelix,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:21.540307 
+
+ widelix,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:49:38.560459 
+
+ widelix,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.559334 
+
+ widelix,     Brasilia,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.276812 
+
+ widelix,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.606267 
+
+ widelix,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.084012 
+
+ widelix,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.172392 
+
+ widelix,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.938597 
+
+ widelix,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:58:54.441871 
+
+ widelix,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:59:48.312773 
+
+ widelix,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.628019 
+
+ widelix,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:12.353179 
+
+ widelix,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:01:45.209793 
+
+ widelix,     au,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.557547 
+
+ widelix,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:04:26.566118 
+
+ widelix,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:04:51.004606 
+
+ widelix,     po,        <Channel name: shadowkekw>,       2024-11-07 11:05:31.440348 
+
+ widelix,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.050307 
+
+ widelix,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:07:00.395062 
+
+ widelix,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:07:56.742088 
+
+ widelix,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:08:19.640484 
+
+ widelix,     ma,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.647015 
+
+ widelix,     laos,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.797417 
+
+ widelix,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.994215 
+
+ widelix,     cuba,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.164376 
+
+ widelix,     saudi arabia,        <Channel name: shadowkekw>,       2024-11-07 11:14:29.893924 
+
+ widelix,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:16:49.385879 
+
+ widelix,     )),        <Channel name: shadowkekw>,       2024-11-07 11:40:19.813128 

@@ -66,3 +66,13 @@
  gearo_,     YESSIR  WW,        <Channel name: kaicenat>,       2024-11-07 02:09:20.219519 
 
  gearo_,     slinky,        <Channel name: kaicenat>,       2024-11-07 02:13:04.369715 
+
+ gearo_,     WW 230k,        <Channel name: kaicenat>,       2024-11-07 12:50:34.553099 
+
+ gearo_,     WW  230k,        <Channel name: kaicenat>,       2024-11-07 12:50:54.001958 
+
+ gearo_,     WW 230k,        <Channel name: kaicenat>,       2024-11-07 12:51:04.253912 
+
+ gearo_,     WW  230k,        <Channel name: kaicenat>,       2024-11-07 12:51:31.438623 
+
+ gearo_,     OOOOO,        <Channel name: kaicenat>,       2024-11-07 13:02:07.911229 

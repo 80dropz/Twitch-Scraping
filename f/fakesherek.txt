@@ -1,0 +1,78 @@
+
+ fakesherek,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:09:53.345139 
+
+ fakesherek,     kanada,        <Channel name: shadowkekw>,       2024-11-07 10:09:58.071036 
+
+ fakesherek,     spanish,        <Channel name: shadowkekw>,       2024-11-07 10:12:01.073836 
+
+ fakesherek,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.247720 
+
+ fakesherek,     russsia,        <Channel name: shadowkekw>,       2024-11-07 10:14:27.869557 
+
+ fakesherek,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.168150 
+
+ fakesherek,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:20:38.577091 
+
+ fakesherek,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:27:48.413292 
+
+ fakesherek,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:28:39.674920 
+
+ fakesherek,     ww,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.774421 
+
+ fakesherek,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.476096 
+
+ fakesherek,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.491747 
+
+ fakesherek,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.532476 
+
+ fakesherek,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:37.305735 
+
+ fakesherek,     rkj,        <Channel name: shadowkekw>,       2024-11-07 10:41:27.676836 
+
+ fakesherek,     fh,        <Channel name: shadowkekw>,       2024-11-07 10:41:31.973716 
+
+ fakesherek,     ho,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.745458 
+
+ fakesherek,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.922596 
+
+ fakesherek,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.684248 
+
+ fakesherek,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:45:11.890576 
+
+ fakesherek,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.465192 
+
+ fakesherek,     hj,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.694147 
+
+ fakesherek,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.050992 
+
+ fakesherek,     dm,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.682486 
+
+ fakesherek,     oe,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.169638 
+
+ fakesherek,     si,        <Channel name: shadowkekw>,       2024-11-07 10:50:12.557461 
+
+ fakesherek,     oe,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.846043 
+
+ fakesherek,     ko,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.501351 
+
+ fakesherek,     id,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.102752 
+
+ fakesherek,     au,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.442694 
+
+ fakesherek,     do,        <Channel name: shadowkekw>,       2024-11-07 10:55:45.430946 
+
+ fakesherek,     kd,        <Channel name: shadowkekw>,       2024-11-07 10:56:09.254777 
+
+ fakesherek,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.882460 
+
+ fakesherek,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.499689 
+
+ fakesherek,     po,        <Channel name: shadowkekw>,       2024-11-07 10:57:27.021453 
+
+ fakesherek,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:58:15.945940 
+
+ fakesherek,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.423591 
+
+ fakesherek,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:48.254257 
+
+ fakesherek,     fs,        <Channel name: shadowkekw>,       2024-11-07 11:00:39.167129 

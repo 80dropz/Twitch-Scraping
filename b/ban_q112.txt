@@ -1,0 +1,20 @@
+
+ ban_q112,     FamilyMan FamilyMan FamilyMan FamilyMan FamilyMan FamilyMan,        <Channel name: kaicenat>,       2024-11-07 12:10:46.374669 
+
+ ban_q112,     FamilyMan FamilyMan FamilyMan FamilyMan,        <Channel name: kaicenat>,       2024-11-07 12:10:49.843063 
+
+ ban_q112,     BangbooBounce BangbooBounce BangbooBounce BangbooBounce,        <Channel name: kaicenat>,       2024-11-07 12:10:51.543499 
+
+ ban_q112,     BangbooBounce,        <Channel name: kaicenat>,       2024-11-07 12:10:53.229306 
+
+ ban_q112,     AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 12:56:18.176167 
+
+ ban_q112,     AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 12:56:21.705315 
+
+ ban_q112,     AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 12:56:27.361504 
+
+ ban_q112,     AnotherRecord BangbooBounce BangbooBounce BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 12:56:47.605873 
+
+ ban_q112,     BratChat BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 12:56:55.587781 
+
+ ban_q112,     BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 12:56:59.068423 

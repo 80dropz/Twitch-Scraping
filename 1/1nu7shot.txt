@@ -1,0 +1,12 @@
+
+ 1nu7shot,     123,        <Channel name: shadowkekw>,       2024-11-07 10:02:08.601059 
+
+ 1nu7shot,     4567,        <Channel name: shadowkekw>,       2024-11-07 10:02:09.885465 
+
+ 1nu7shot,     890-,        <Channel name: shadowkekw>,       2024-11-07 10:02:11.562265 
+
+ 1nu7shot,     1234,        <Channel name: shadowkekw>,       2024-11-07 10:02:12.493052 
+
+ 1nu7shot,     324252345,        <Channel name: shadowkekw>,       2024-11-07 10:02:13.696879 
+
+ 1nu7shot,     3411423,        <Channel name: shadowkekw>,       2024-11-07 10:02:15.106672 

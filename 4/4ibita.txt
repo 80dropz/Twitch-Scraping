@@ -1,0 +1,68 @@
+
+ 4ibita,     Cillie,        <Channel name: shadowkekw>,       2024-11-07 10:07:43.236603 
+
+ 4ibita,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:36.052293 
+
+ 4ibita,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:53.725930 
+
+ 4ibita,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:11:19.819619 
+
+ 4ibita,     mg,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.241206 
+
+ 4ibita,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.105287 
+
+ 4ibita,     su,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.237707 
+
+ 4ibita,     10+,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.876794 
+
+ 4ibita,     ka,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.084829 
+
+ 4ibita,     se,        <Channel name: shadowkekw>,       2024-11-07 10:35:22.332225 
+
+ 4ibita,     is,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.295546 
+
+ 4ibita,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.186628 
+
+ 4ibita,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:41:13.914173 
+
+ 4ibita,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.282030 
+
+ 4ibita,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.967477 
+
+ 4ibita,     su,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.200750 
+
+ 4ibita,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.360417 
+
+ 4ibita,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.310241 
+
+ 4ibita,     tu,        <Channel name: shadowkekw>,       2024-11-07 10:59:56.926692 
+
+ 4ibita,     )),        <Channel name: shadowkekw>,       2024-11-07 11:01:34.699845 
+
+ 4ibita,     fi,        <Channel name: shadowkekw>,       2024-11-07 11:02:45.933438 
+
+ 4ibita,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:04:47.247563 
+
+ 4ibita,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.232603 
+
+ 4ibita,     ve,        <Channel name: shadowkekw>,       2024-11-07 11:05:37.355637 
+
+ 4ibita,     pe,        <Channel name: shadowkekw>,       2024-11-07 11:06:16.966819 
+
+ 4ibita,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.265223 
+
+ 4ibita,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:11.896016 
+
+ 4ibita,     mo,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.532741 
+
+ 4ibita,     but,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.765437 
+
+ 4ibita,     po,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.527988 
+
+ 4ibita,     li,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.197472 
+
+ 4ibita,     zi,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.754587 
+
+ 4ibita,     cr,        <Channel name: shadowkekw>,       2024-11-07 11:14:17.814379 
+
+ 4ibita,     @ranaronx WW,        <Channel name: shadowkekw>,       2024-11-07 11:19:41.321525 

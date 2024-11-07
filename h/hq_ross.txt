@@ -2,3 +2,9 @@
  hq_ross,     TriHard GlitchLit GlitchLit GlitchLit,        <Channel name: nickeh30>,       2024-11-07 09:01:03.306240 
 
  hq_ross,     ehGG,        <Channel name: nickeh30>,       2024-11-07 09:10:56.195684 
+
+ hq_ross,     TriHard,        <Channel name: nickeh30>,       2024-11-07 09:56:58.026448 
+
+ hq_ross,     Sheshhh PowerUpL TriHard PowerUpR,        <Channel name: nickeh30>,       2024-11-07 10:00:57.209814 
+
+ hq_ross,     SingsNote SingsNote SingsNote SingsNote TriHard TriHard TriHard eh1 eh1 eh1 eh1 eh1 eh1 eh1 eh1,        <Channel name: nickeh30>,       2024-11-07 10:03:47.376114 

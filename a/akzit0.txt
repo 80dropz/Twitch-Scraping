@@ -1,0 +1,2 @@
+
+ akzit0,     !nvidia,        <Channel name: clix>,       2024-11-07 11:15:50.489741 

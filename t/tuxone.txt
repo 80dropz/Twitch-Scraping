@@ -1,2 +1,36 @@
 
  tuxone,     Clap,        <Channel name: shadowkekw>,       2024-11-07 09:18:14.303720 
+
+ tuxone,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.137049 
+
+ tuxone,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:46.870158 
+
+ tuxone,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:11.083543 
+
+ tuxone,     bongladesh,        <Channel name: shadowkekw>,       2024-11-07 10:13:29.847128 
+
+ tuxone,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.663456 
+
+ tuxone,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:53.432124 
+
+ tuxone,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:14:54.115983 
+
+ tuxone,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:09.373671 
+
+ tuxone,     afrika,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.138949 
+
+ tuxone,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:07.116208 
+
+ tuxone,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.445282 
+
+ tuxone,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.768000 
+
+ tuxone,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.764991 
+
+ tuxone,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:17:17.972355 
+
+ tuxone,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.229968 
+
+ tuxone,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.777705 
+
+ tuxone,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:28.154891 

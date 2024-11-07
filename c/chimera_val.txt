@@ -1,0 +1,6 @@
+
+ chimera_val,     bro is npc,        <Channel name: kaicenat>,       2024-11-07 11:02:38.753876 
+
+ chimera_val,     !name,        <Channel name: kaicenat>,       2024-11-07 11:03:49.087602 
+
+ chimera_val,     !duo,        <Channel name: kaicenat>,       2024-11-07 11:03:56.642386 

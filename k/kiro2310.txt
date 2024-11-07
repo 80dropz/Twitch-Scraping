@@ -1,0 +1,10 @@
+
+ kiro2310,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:09:19.872093 
+
+ kiro2310,     !roulette 230,        <Channel name: kaicenat>,       2024-11-07 10:09:48.838541 
+
+ kiro2310,     ! roulette 120,        <Channel name: kaicenat>,       2024-11-07 10:10:41.974622 
+
+ kiro2310,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:12:06.281871 
+
+ kiro2310,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:13:15.385806 

@@ -1,0 +1,114 @@
+
+ kaizel1009,     !gamble 20,        <Channel name: kaicenat>,       2024-11-07 10:27:35.003549 
+
+ kaizel1009,     !roulette 109,        <Channel name: kaicenat>,       2024-11-07 10:28:37.522936 
+
+ kaizel1009,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:28:58.684323 
+
+ kaizel1009,     !roulette 109,        <Channel name: kaicenat>,       2024-11-07 10:29:07.904909 
+
+ kaizel1009,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:29:18.219814 
+
+ kaizel1009,     !roulette 9,        <Channel name: kaicenat>,       2024-11-07 10:29:29.145004 
+
+ kaizel1009,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:29:58.431561 
+
+ kaizel1009,     !roulette 9,        <Channel name: kaicenat>,       2024-11-07 10:30:03.884475 
+
+ kaizel1009,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:30:14.003250 
+
+ kaizel1009,     Gluer,        <Channel name: megalodonvt>,       2024-11-07 11:52:19.420250 
+
+ kaizel1009,     lure,        <Channel name: megalodonvt>,       2024-11-07 11:52:53.875355 
+
+ kaizel1009,     !continue,        <Channel name: megalodonvt>,       2024-11-07 11:54:07.075179 
+
+ kaizel1009,     rain,        <Channel name: megalodonvt>,       2024-11-07 11:55:04.724453 
+
+ kaizel1009,     Mint,        <Channel name: megalodonvt>,       2024-11-07 11:55:44.615925 
+
+ kaizel1009,     Trim,        <Channel name: megalodonvt>,       2024-11-07 11:55:58.143345 
+
+ kaizel1009,     Main,        <Channel name: megalodonvt>,       2024-11-07 11:56:26.915984 
+
+ kaizel1009,     Rant,        <Channel name: megalodonvt>,       2024-11-07 11:57:02.681666 
+
+ kaizel1009,     Cigar,        <Channel name: megalodonvt>,       2024-11-07 11:58:47.991650 
+
+ kaizel1009,     Fart,        <Channel name: megalodonvt>,       2024-11-07 11:59:24.393005 
+
+ kaizel1009,     Cigar,        <Channel name: megalodonvt>,       2024-11-07 11:59:44.097230 
+
+ kaizel1009,     Graft,        <Channel name: megalodonvt>,       2024-11-07 12:00:00.321712 
+
+ kaizel1009,     FAir,        <Channel name: megalodonvt>,       2024-11-07 12:00:27.131922 
+
+ kaizel1009,     Cool,        <Channel name: megalodonvt>,       2024-11-07 12:02:39.350467 
+
+ kaizel1009,     Orcs,        <Channel name: megalodonvt>,       2024-11-07 12:03:12.921006 
+
+ kaizel1009,     Solo,        <Channel name: megalodonvt>,       2024-11-07 12:03:49.685765 
+
+ kaizel1009,     Loco,        <Channel name: megalodonvt>,       2024-11-07 12:04:19.963973 
+
+ kaizel1009,     Colors,        <Channel name: megalodonvt>,       2024-11-07 12:04:50.633101 
+
+ kaizel1009,     Rosh,        <Channel name: megalodonvt>,       2024-11-07 12:05:09.118979 
+
+ kaizel1009,     Switch,        <Channel name: megalodonvt>,       2024-11-07 12:06:30.538213 
+
+ kaizel1009,     Stich,        <Channel name: megalodonvt>,       2024-11-07 12:06:41.134733 
+
+ kaizel1009,     Wits,        <Channel name: megalodonvt>,       2024-11-07 12:06:58.434494 
+
+ kaizel1009,     Hits,        <Channel name: megalodonvt>,       2024-11-07 12:07:09.326541 
+
+ kaizel1009,     Zits,        <Channel name: megalodonvt>,       2024-11-07 12:07:29.406586 
+
+ kaizel1009,     Zich,        <Channel name: megalodonvt>,       2024-11-07 12:08:19.754064 
+
+ kaizel1009,     hics,        <Channel name: megalodonvt>,       2024-11-07 12:08:46.054183 
+
+ kaizel1009,     selsoh so good,        <Channel name: megalodonvt>,       2024-11-07 12:09:06.408564 
+
+ kaizel1009,     Tour,        <Channel name: megalodonvt>,       2024-11-07 12:10:02.102671 
+
+ kaizel1009,     Cuet,        <Channel name: megalodonvt>,       2024-11-07 12:10:09.237989 
+
+ kaizel1009,     Duet,        <Channel name: megalodonvt>,       2024-11-07 12:10:12.561688 
+
+ kaizel1009,     Root,        <Channel name: megalodonvt>,       2024-11-07 12:10:32.310241 
+
+ kaizel1009,     Odor,        <Channel name: megalodonvt>,       2024-11-07 12:10:47.325779 
+
+ kaizel1009,     Toed,        <Channel name: megalodonvt>,       2024-11-07 12:11:03.079574 
+
+ kaizel1009,     Doer,        <Channel name: megalodonvt>,       2024-11-07 12:11:15.006955 
+
+ kaizel1009,     Route,        <Channel name: megalodonvt>,       2024-11-07 12:12:08.051489 
+
+ kaizel1009,     Tood,        <Channel name: megalodonvt>,       2024-11-07 12:12:38.289879 
+
+ kaizel1009,     Knee,        <Channel name: megalodonvt>,       2024-11-07 12:14:00.375475 
+
+ kaizel1009,     Tone,        <Channel name: megalodonvt>,       2024-11-07 12:14:03.513734 
+
+ kaizel1009,     Teen,        <Channel name: megalodonvt>,       2024-11-07 12:14:08.128442 
+
+ kaizel1009,     Tune,        <Channel name: megalodonvt>,       2024-11-07 12:14:15.232189 
+
+ kaizel1009,     Yeet,        <Channel name: megalodonvt>,       2024-11-07 12:15:03.173717 
+
+ kaizel1009,     Tent,        <Channel name: megalodonvt>,       2024-11-07 12:15:42.305595 
+
+ kaizel1009,     Yeen,        <Channel name: megalodonvt>,       2024-11-07 12:16:15.202448 
+
+ kaizel1009,     Brand,        <Channel name: megalodonvt>,       2024-11-07 12:17:55.168196 
+
+ kaizel1009,     Bard,        <Channel name: megalodonvt>,       2024-11-07 12:18:38.771887 
+
+ kaizel1009,     Barn,        <Channel name: megalodonvt>,       2024-11-07 12:19:10.127301 
+
+ kaizel1009,     Grand,        <Channel name: megalodonvt>,       2024-11-07 12:20:00.238167 
+
+ kaizel1009,     Brag,        <Channel name: megalodonvt>,       2024-11-07 12:20:08.905829 

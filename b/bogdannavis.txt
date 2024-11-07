@@ -1,0 +1,12 @@
+
+ bogdannavis,     gamburg,        <Channel name: shadowkekw>,       2024-11-07 11:05:13.610851 
+
+ bogdannavis,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:06:18.692002 
+
+ bogdannavis,     chine,        <Channel name: shadowkekw>,       2024-11-07 11:07:04.450262 
+
+ bogdannavis,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:07:16.445465 
+
+ bogdannavis,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:07:45.281660 
+
+ bogdannavis,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:08:03.452649 

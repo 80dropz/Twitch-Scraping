@@ -1,0 +1,6 @@
+
+ mello_gdo,     kaicWAVE kaicWAVE kaicWAVE kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:37:12.838930 
+
+ mello_gdo,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:43:59.189061 
+
+ mello_gdo,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:44:06.517624 

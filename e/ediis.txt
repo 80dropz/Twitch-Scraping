@@ -1,0 +1,236 @@
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.335465 
+
+ ediis,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:07:49.814494 
+
+ ediis,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:08:00.017465 
+
+ ediis,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.152029 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:08:45.316774 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:10:11.819299 
+
+ ediis,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:10:59.143631 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:11:15.912765 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.065154 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:14:17.617063 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:14:38.311607 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:40.395748 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.908326 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.389831 
+
+ ediis,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:16:22.582095 
+
+ ediis,     india,        <Channel name: shadowkekw>,       2024-11-07 10:16:34.048129 
+
+ ediis,     it,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.642893 
+
+ ediis,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:16:58.778345 
+
+ ediis,     ic,        <Channel name: shadowkekw>,       2024-11-07 10:17:03.899312 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:17:15.771291 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:17:51.888324 
+
+ ediis,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.918620 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.540029 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.520489 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:19:14.814549 
+
+ ediis,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.932657 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.000912 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:21:47.945028 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:22:23.926907 
+
+ ediis,     mda,        <Channel name: shadowkekw>,       2024-11-07 10:22:35.244000 
+
+ ediis,     eo,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.424382 
+
+ ediis,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.732854 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.019350 
+
+ ediis,     me,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.212480 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.313093 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:29:10.194896 
+
+ ediis,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.769586 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:29:27.922687 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.992115 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.890102 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.273144 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.045355 
+
+ ediis,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.795433 
+
+ ediis,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.099546 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:34:17.158297 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:34:18.893000 
+
+ ediis,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.432613 
+
+ ediis,     au,        <Channel name: shadowkekw>,       2024-11-07 10:34:48.438723 
+
+ ediis,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.859526 
+
+ ediis,     waiwan,        <Channel name: shadowkekw>,       2024-11-07 10:36:08.975753 
+
+ ediis,     mdfrance,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.696117 
+
+ ediis,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.351903 
+
+ ediis,     tr,        <Channel name: shadowkekw>,       2024-11-07 10:37:56.956750 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.519123 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.309886 
+
+ ediis,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.193898 
+
+ ediis,     ic,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.898145 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:39:25.310553 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.989224 
+
+ ediis,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.057883 
+
+ ediis,     it,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.754793 
+
+ ediis,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.173720 
+
+ ediis,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.752949 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.946493 
+
+ ediis,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:43:34.298517 
+
+ ediis,     ic,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.871746 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:45:09.375317 
+
+ ediis,     it,        <Channel name: shadowkekw>,       2024-11-07 10:45:46.738311 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.590646 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.725210 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:46:45.967900 
+
+ ediis,     it,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.057267 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.984338 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:48:41.579684 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:48:55.639125 
+
+ ediis,     it,        <Channel name: shadowkekw>,       2024-11-07 10:49:13.639339 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.966085 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.940035 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:50:31.767798 
+
+ ediis,     de,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.654190 
+
+ ediis,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.774657 
+
+ ediis,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:52:09.394568 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:52:35.592049 
+
+ ediis,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.437792 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.424664 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.546569 
+
+ ediis,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:54:30.398015 
+
+ ediis,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:55:30.885987 
+
+ ediis,     de,        <Channel name: shadowkekw>,       2024-11-07 10:56:07.980919 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.597958 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.154306 
+
+ ediis,     de,        <Channel name: shadowkekw>,       2024-11-07 10:57:25.589151 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.242034 
+
+ ediis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:08.338426 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 10:59:41.495352 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:00:48.959472 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:26.136065 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:01:45.319373 
+
+ ediis,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:02:50.941073 
+
+ ediis,     india,        <Channel name: shadowkekw>,       2024-11-07 11:03:49.041129 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:04:49.779795 
+
+ ediis,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.124351 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.854757 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 11:07:31.092136 
+
+ ediis,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:07:43.854455 
+
+ ediis,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:07:50.816899 
+
+ ediis,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:08:59.961752 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:09:03.893115 
+
+ ediis,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.161562 
+
+ ediis,     france,        <Channel name: shadowkekw>,       2024-11-07 11:10:53.571250 
+
+ ediis,     iceland,        <Channel name: shadowkekw>,       2024-11-07 11:11:03.863198 
+
+ ediis,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:11:08.693636 
+
+ ediis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:11:57.292186 
+
+ ediis,     sudan,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.215356 
+
+ ediis,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:12:52.536471 
+
+ ediis,     df,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.202482 
+
+ ediis,     md,        <Channel name: shadowkekw>,       2024-11-07 11:14:55.247471 
+
+ ediis,     10,        <Channel name: shadowkekw>,       2024-11-07 11:37:46.269946 

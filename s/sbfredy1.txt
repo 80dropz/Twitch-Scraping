@@ -1,0 +1,24 @@
+
+ sbfredy1,     swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:09:18.379973 
+
+ sbfredy1,     swegJam swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 12:09:35.334992 
+
+ sbfredy1,     swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 12:10:03.318994 
+
+ sbfredy1,     swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:10:13.884077 
+
+ sbfredy1,     swegWiggle swegWiggle swegWiggle swegWiggle swegWiggle swegWiggle,        <Channel name: swagg>,       2024-11-07 12:10:30.929008 
+
+ sbfredy1,     swegStir swegStir swegStir swegStir swegStir,        <Channel name: swagg>,       2024-11-07 12:11:12.403272 
+
+ sbfredy1,     w,        <Channel name: swagg>,       2024-11-07 12:11:50.856838 
+
+ sbfredy1,     ww,        <Channel name: swagg>,       2024-11-07 12:11:54.163618 
+
+ sbfredy1,     w,        <Channel name: swagg>,       2024-11-07 12:17:19.259365 
+
+ sbfredy1,     ww,        <Channel name: swagg>,       2024-11-07 12:17:22.465818 
+
+ sbfredy1,     w,        <Channel name: swagg>,       2024-11-07 12:17:53.862136 
+
+ sbfredy1,     w,        <Channel name: swagg>,       2024-11-07 12:23:34.831900 

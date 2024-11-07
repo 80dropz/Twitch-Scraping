@@ -1,0 +1,8 @@
+
+ qt_dinxcs,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:42:57.611164 
+
+ qt_dinxcs,     !followage,        <Channel name: kaicenat>,       2024-11-07 11:43:49.746460 
+
+ qt_dinxcs,     AO,        <Channel name: kaicenat>,       2024-11-07 11:44:18.466110 
+
+ qt_dinxcs,     !roulette10,        <Channel name: kaicenat>,       2024-11-07 11:45:04.426153 

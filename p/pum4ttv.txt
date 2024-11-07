@@ -1,0 +1,4 @@
+
+ pum4ttv,     !res,        <Channel name: mongraal>,       2024-11-07 11:47:26.352057 
+
+ pum4ttv,     !sens,        <Channel name: mongraal>,       2024-11-07 12:03:26.699453 

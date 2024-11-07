@@ -1,0 +1,4 @@
+
+ annaa25,     WEAK EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:59:10.799955 
+
+ annaa25,     YOU NEED TO SWAP MIC,        <Channel name: kaicenat>,       2024-11-07 13:25:32.508704 

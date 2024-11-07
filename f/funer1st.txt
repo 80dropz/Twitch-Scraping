@@ -1,0 +1,32 @@
+
+ funer1st,     men,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.897252 
+
+ funer1st,     im,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.769029 
+
+ funer1st,     fk,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.514304 
+
+ funer1st,     ue,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.638578 
+
+ funer1st,     hg,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.249973 
+
+ funer1st,     men,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.221032 
+
+ funer1st,     fk,        <Channel name: shadowkekw>,       2024-11-07 10:27:48.898799 
+
+ funer1st,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.112892 
+
+ funer1st,     Ae,        <Channel name: shadowkekw>,       2024-11-07 10:35:09.627016 
+
+ funer1st,     HG,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.598695 
+
+ funer1st,     men,        <Channel name: shadowkekw>,       2024-11-07 10:37:42.542743 
+
+ funer1st,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.777097 
+
+ funer1st,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.888852 
+
+ funer1st,     fk,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.983076 
+
+ funer1st,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:46:22.230960 
+
+ funer1st,     Men,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.381983 

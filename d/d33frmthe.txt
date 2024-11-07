@@ -1,0 +1,18 @@
+
+ d33frmthe,     390,        <Channel name: kaicenat>,       2024-11-07 12:30:34.117645 
+
+ d33frmthe,     113,        <Channel name: kaicenat>,       2024-11-07 12:31:01.045820 
+
+ d33frmthe,     90,        <Channel name: kaicenat>,       2024-11-07 12:33:16.019913 
+
+ d33frmthe,     85,        <Channel name: kaicenat>,       2024-11-07 12:36:23.290681 
+
+ d33frmthe,     2,        <Channel name: kaicenat>,       2024-11-07 12:41:09.808703 
+
+ d33frmthe,     12345678,        <Channel name: kaicenat>,       2024-11-07 12:41:26.405631 
+
+ d33frmthe,     50,        <Channel name: kaicenat>,       2024-11-07 12:43:38.376928 
+
+ d33frmthe,     40,        <Channel name: kaicenat>,       2024-11-07 12:46:18.676027 
+
+ d33frmthe,     bru get uppppp,        <Channel name: kaicenat>,       2024-11-07 12:52:42.516204 

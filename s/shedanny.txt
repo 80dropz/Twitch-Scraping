@@ -1,0 +1,36 @@
+
+ shedanny,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:44:49.539582 
+
+ shedanny,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.703012 
+
+ shedanny,     inida,        <Channel name: shadowkekw>,       2024-11-07 10:45:32.456921 
+
+ shedanny,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:46:04.963919 
+
+ shedanny,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.575692 
+
+ shedanny,     begium,        <Channel name: shadowkekw>,       2024-11-07 10:47:44.115946 
+
+ shedanny,     in donesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.479474 
+
+ shedanny,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:41.775533 
+
+ shedanny,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.572846 
+
+ shedanny,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:49:15.757653 
+
+ shedanny,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.159518 
+
+ shedanny,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.887688 
+
+ shedanny,     albania,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.765327 
+
+ shedanny,     bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.875033 
+
+ shedanny,     chillie,        <Channel name: shadowkekw>,       2024-11-07 10:52:47.145410 
+
+ shedanny,     venin,        <Channel name: shadowkekw>,       2024-11-07 10:53:38.677143 
+
+ shedanny,     india,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.330600 
+
+ shedanny,     burkino faso,        <Channel name: shadowkekw>,       2024-11-07 10:54:41.882382 

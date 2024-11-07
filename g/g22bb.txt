@@ -1,0 +1,16 @@
+
+ g22bb,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.290820 
+
+ g22bb,     CH,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.016840 
+
+ g22bb,     Uk,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.455026 
+
+ g22bb,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:52:20.329648 
+
+ g22bb,     Uk,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.735195 
+
+ g22bb,     CH,        <Channel name: shadowkekw>,       2024-11-07 10:54:03.721545 
+
+ g22bb,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.246869 
+
+ g22bb,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.712372 

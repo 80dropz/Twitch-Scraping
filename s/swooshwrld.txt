@@ -1,0 +1,4 @@
+
+ swooshwrld,     !dropos,        <Channel name: swagg>,       2024-11-07 13:06:36.662079 
+
+ swooshwrld,     !drops,        <Channel name: swagg>,       2024-11-07 13:06:42.942419 

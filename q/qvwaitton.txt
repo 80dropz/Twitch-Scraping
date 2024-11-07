@@ -1,0 +1,18 @@
+
+ qvwaitton,     Shluha,        <Channel name: shadowkekw>,       2024-11-07 10:38:57.562046 
+
+ qvwaitton,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.621082 
+
+ qvwaitton,     SWEDEN,        <Channel name: shadowkekw>,       2024-11-07 10:39:17.979929 
+
+ qvwaitton,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:39:40.377941 
+
+ qvwaitton,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:51.631979 
+
+ qvwaitton,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:49:09.011893 
+
+ qvwaitton,     mercedes,        <Channel name: shadowkekw>,       2024-11-07 10:52:57.213872 
+
+ qvwaitton,     bmw,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.243599 
+
+ qvwaitton,     mercedes,        <Channel name: shadowkekw>,       2024-11-07 10:55:06.854387 

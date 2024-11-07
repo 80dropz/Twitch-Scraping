@@ -1,0 +1,36 @@
+
+ leet2282,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:38:13.159295 
+
+ leet2282,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.025698 
+
+ leet2282,     france,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.321284 
+
+ leet2282,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.092941 
+
+ leet2282,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:15.700195 
+
+ leet2282,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.540141 
+
+ leet2282,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.252985 
+
+ leet2282,     china,        <Channel name: shadowkekw>,       2024-11-07 10:44:37.431010 
+
+ leet2282,     india,        <Channel name: shadowkekw>,       2024-11-07 10:45:55.335733 
+
+ leet2282,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.652740 
+
+ leet2282,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:46:55.987364 
+
+ leet2282,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:47:31.159976 
+
+ leet2282,     netherland,        <Channel name: shadowkekw>,       2024-11-07 10:47:54.439076 
+
+ leet2282,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.969262 
+
+ leet2282,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:30.487458 
+
+ leet2282,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:02.658088 
+
+ leet2282,     india,        <Channel name: shadowkekw>,       2024-11-07 10:52:14.188832 
+
+ leet2282,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.749477 

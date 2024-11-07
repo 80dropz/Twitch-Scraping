@@ -1,0 +1,32 @@
+
+ kjaerestee,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:57:15.480762 
+
+ kjaerestee,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.142579 
+
+ kjaerestee,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:00:11.830134 
+
+ kjaerestee,     mn,        <Channel name: shadowkekw>,       2024-11-07 11:02:09.181813 
+
+ kjaerestee,     ba,        <Channel name: shadowkekw>,       2024-11-07 11:03:13.288189 
+
+ kjaerestee,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:09.066702 
+
+ kjaerestee,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:04:49.945678 
+
+ kjaerestee,     co,        <Channel name: shadowkekw>,       2024-11-07 11:05:09.827215 
+
+ kjaerestee,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:05:54.915128 
+
+ kjaerestee,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:06:32.240180 
+
+ kjaerestee,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:07:12.082379 
+
+ kjaerestee,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:07:44.577230 
+
+ kjaerestee,     po,        <Channel name: shadowkekw>,       2024-11-07 11:08:28.549754 
+
+ kjaerestee,     rw,        <Channel name: shadowkekw>,       2024-11-07 11:09:37.634189 
+
+ kjaerestee,     za,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.734240 
+
+ kjaerestee,     bt,        <Channel name: shadowkekw>,       2024-11-07 11:09:53.784577 

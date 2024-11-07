@@ -1,0 +1,8 @@
+
+ ghoost_official,     -twi,        <Channel name: mongraal>,       2024-11-07 13:07:04.337782 
+
+ ghoost_official,     gg graal,        <Channel name: mongraal>,       2024-11-07 13:10:34.538533 
+
+ ghoost_official,     !p,        <Channel name: mongraal>,       2024-11-07 13:20:28.932343 
+
+ ghoost_official,     !points,        <Channel name: mongraal>,       2024-11-07 13:21:19.332306 

@@ -1,0 +1,40 @@
+
+ da_kollektor_kay,     w KAPOW,        <Channel name: kaicenat>,       2024-11-07 12:04:44.447016 
+
+ da_kollektor_kay,     mcaT,        <Channel name: kaicenat>,       2024-11-07 12:04:52.723585 
+
+ da_kollektor_kay,     mcaT,        <Channel name: kaicenat>,       2024-11-07 12:05:27.328343 
+
+ da_kollektor_kay,     KAPOW,        <Channel name: kaicenat>,       2024-11-07 12:05:29.006148 
+
+ da_kollektor_kay,     FBtouchdown,        <Channel name: kaicenat>,       2024-11-07 12:05:31.294035 
+
+ da_kollektor_kay,     panicBasket,        <Channel name: kaicenat>,       2024-11-07 12:05:33.198950 
+
+ da_kollektor_kay,     KAPOW,        <Channel name: kaicenat>,       2024-11-07 12:05:37.752420 
+
+ da_kollektor_kay,     mcaT mcaT mcaT mcaT,        <Channel name: kaicenat>,       2024-11-07 12:05:40.560665 
+
+ da_kollektor_kay,     FBtouchdown FBtouchdown FBtouchdown FBtouchdown,        <Channel name: kaicenat>,       2024-11-07 12:05:51.192933 
+
+ da_kollektor_kay,     LionOfYara,        <Channel name: kaicenat>,       2024-11-07 12:06:04.550274 
+
+ da_kollektor_kay,     FlawlessVictory,        <Channel name: kaicenat>,       2024-11-07 12:06:10.880732 
+
+ da_kollektor_kay,     DarkKnight HarleyWink,        <Channel name: kaicenat>,       2024-11-07 12:06:18.284788 
+
+ da_kollektor_kay,     WhySoSerious HarleyWink,        <Channel name: kaicenat>,       2024-11-07 12:06:26.307900 
+
+ da_kollektor_kay,     WhySoSerious WhySoSerious WhySoSerious,        <Channel name: kaicenat>,       2024-11-07 12:06:28.604993 
+
+ da_kollektor_kay,     DarkMode DarkMode DarkMode,        <Channel name: kaicenat>,       2024-11-07 12:06:42.610062 
+
+ da_kollektor_kay,     TheIlluminati TheIlluminati TheIlluminati,        <Channel name: kaicenat>,       2024-11-07 12:06:48.731783 
+
+ da_kollektor_kay,     CurseLit CurseLit CurseLit CurseLit CurseLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 12:07:10.205204 
+
+ da_kollektor_kay,     MercyWing2 MercyWing1 MercyWing2 MercyWing1 MercyWing2 MercyWing1 MercyWing2 MercyWing1 MercyWing2 MercyWing1 MercyWing2 MercyWing1 MercyWing2,        <Channel name: kaicenat>,       2024-11-07 12:07:29.513124 
+
+ da_kollektor_kay,     WhySoSerious WhySoSerious WhySoSerious WhySoSerious WhySoSerious WhySoSerious WhySoSerious,        <Channel name: kaicenat>,       2024-11-07 12:07:49.388926 
+
+ da_kollektor_kay,     WhySoSerious WhySoSerious WhySoSerious,        <Channel name: kaicenat>,       2024-11-07 12:07:53.631841 

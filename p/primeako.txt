@@ -1,0 +1,10 @@
+
+ primeako,     !points,        <Channel name: kaicenat>,       2024-11-07 13:10:48.297771 
+
+ primeako,     !roullete 6,        <Channel name: kaicenat>,       2024-11-07 13:11:18.080671 
+
+ primeako,     !points,        <Channel name: kaicenat>,       2024-11-07 13:11:50.195731 
+
+ primeako,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 13:11:59.793429 
+
+ primeako,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 13:12:14.224978 

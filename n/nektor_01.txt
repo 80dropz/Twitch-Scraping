@@ -1,0 +1,42 @@
+
+ nektor_01,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.742138 
+
+ nektor_01,     isa,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.127019 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.349787 
+
+ nektor_01,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:45.268734 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.984876 
+
+ nektor_01,     v,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.417902 
+
+ nektor_01,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:41:27.254177 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.934736 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.654081 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:46:01.446541 
+
+ nektor_01,     US,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.092772 
+
+ nektor_01,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.181523 
+
+ nektor_01,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:59:28.218956 
+
+ nektor_01,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.268778 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:05:31.873279 
+
+ nektor_01,     ER,        <Channel name: shadowkekw>,       2024-11-07 11:07:24.159066 
+
+ nektor_01,     IN,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.729276 
+
+ nektor_01,     KANIA,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.719977 
+
+ nektor_01,     GER,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.825313 
+
+ nektor_01,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.346570 
+
+ nektor_01,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:15:05.669725 

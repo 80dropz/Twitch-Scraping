@@ -1,0 +1,24 @@
+
+ qweestyy,     india,        <Channel name: shadowkekw>,       2024-11-07 10:46:51.757802 
+
+ qweestyy,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.981393 
+
+ qweestyy,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.692681 
+
+ qweestyy,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:49:47.071124 
+
+ qweestyy,     india,        <Channel name: shadowkekw>,       2024-11-07 10:50:09.488995 
+
+ qweestyy,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.563040 
+
+ qweestyy,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.836572 
+
+ qweestyy,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:52:28.680984 
+
+ qweestyy,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.918592 
+
+ qweestyy,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.239796 
+
+ qweestyy,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:59.425257 
+
+ qweestyy,     armenia,        <Channel name: shadowkekw>,       2024-11-07 10:57:44.326916 

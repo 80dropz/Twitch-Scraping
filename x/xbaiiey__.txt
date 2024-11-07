@@ -1,0 +1,12 @@
+
+ xbaiiey__,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:54:49.060473 
+
+ xbaiiey__,     !points,        <Channel name: kaicenat>,       2024-11-07 09:54:57.474866 
+
+ xbaiiey__,     !gamble 7000,        <Channel name: kaicenat>,       2024-11-07 09:55:09.504585 
+
+ xbaiiey__,     !roulette 7000,        <Channel name: kaicenat>,       2024-11-07 09:55:21.546081 
+
+ xbaiiey__,     !roulette 16000,        <Channel name: kaicenat>,       2024-11-07 09:55:42.410571 
+
+ xbaiiey__,     !points,        <Channel name: kaicenat>,       2024-11-07 09:55:56.440134 

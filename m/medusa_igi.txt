@@ -1,0 +1,26 @@
+
+ medusa_igi,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:38.869928 
+
+ medusa_igi,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:07:22.624166 
+
+ medusa_igi,     Turkish,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.824770 
+
+ medusa_igi,     Stambul,        <Channel name: shadowkekw>,       2024-11-07 10:07:40.721897 
+
+ medusa_igi,     Faat,        <Channel name: shadowkekw>,       2024-11-07 10:08:22.451130 
+
+ medusa_igi,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.171885 
+
+ medusa_igi,     Mexic,        <Channel name: shadowkekw>,       2024-11-07 10:13:26.534350 
+
+ medusa_igi,     Shomera,        <Channel name: shadowkekw>,       2024-11-07 10:16:59.596386 
+
+ medusa_igi,     HGomera,        <Channel name: shadowkekw>,       2024-11-07 10:17:03.793264 
+
+ medusa_igi,     AAHAHAHAHA,        <Channel name: shadowkekw>,       2024-11-07 10:18:03.404345 
+
+ medusa_igi,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:53.071727 
+
+ medusa_igi,     Mexica,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.287322 
+
+ medusa_igi,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:28:55.919110 

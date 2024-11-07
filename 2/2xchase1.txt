@@ -1,0 +1,2 @@
+
+ 2xchase1,     command/clip,        <Channel name: kaicenat>,       2024-11-07 13:05:03.527532 

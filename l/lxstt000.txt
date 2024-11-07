@@ -1,0 +1,6 @@
+
+ lxstt000,     !sens,        <Channel name: ricci>,       2024-11-07 10:22:34.855728 
+
+ lxstt000,     !sens,        <Channel name: ricci>,       2024-11-07 10:29:36.093954 
+
+ lxstt000,     is 103 fov comp?,        <Channel name: ricci>,       2024-11-07 11:08:42.477512 

@@ -1,0 +1,32 @@
+
+ r1setlive,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.061689 
+
+ r1setlive,     Venuzuela,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.033714 
+
+ r1setlive,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.982610 
+
+ r1setlive,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.541761 
+
+ r1setlive,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.342761 
+
+ r1setlive,     Combodja,        <Channel name: shadowkekw>,       2024-11-07 10:54:16.845092 
+
+ r1setlive,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.562919 
+
+ r1setlive,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.393189 
+
+ r1setlive,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.435460 
+
+ r1setlive,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:40.867032 
+
+ r1setlive,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.341680 
+
+ r1setlive,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.647113 
+
+ r1setlive,     india,        <Channel name: shadowkekw>,       2024-11-07 11:01:49.285858 
+
+ r1setlive,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:02:50.027274 
+
+ r1setlive,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:03:57.318630 
+
+ r1setlive,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:48:59.673705 

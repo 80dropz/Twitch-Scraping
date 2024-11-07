@@ -1,0 +1,94 @@
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:16:49.949491 
+
+ f1nddyslab,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:20:31.569964 
+
+ f1nddyslab,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:20:56.287512 
+
+ f1nddyslab,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.699634 
+
+ f1nddyslab,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.914798 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:24:44.671486 
+
+ f1nddyslab,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:24:52.448070 
+
+ f1nddyslab,     chille,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.597176 
+
+ f1nddyslab,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.755317 
+
+ f1nddyslab,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.463246 
+
+ f1nddyslab,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:29:13.960520 
+
+ f1nddyslab,     malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.178331 
+
+ f1nddyslab,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:30:20.208982 
+
+ f1nddyslab,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.800242 
+
+ f1nddyslab,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:33:22.652162 
+
+ f1nddyslab,     new zeeland,        <Channel name: shadowkekw>,       2024-11-07 10:34:26.991479 
+
+ f1nddyslab,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:34:58.526460 
+
+ f1nddyslab,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.094976 
+
+ f1nddyslab,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:23.498258 
+
+ f1nddyslab,     india,        <Channel name: shadowkekw>,       2024-11-07 10:41:51.021027 
+
+ f1nddyslab,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.315385 
+
+ f1nddyslab,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:46:51.352819 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:47:31.314832 
+
+ f1nddyslab,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:49:15.528911 
+
+ f1nddyslab,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:49:41.419994 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:51:35.447375 
+
+ f1nddyslab,     indonesya,        <Channel name: shadowkekw>,       2024-11-07 10:52:09.005161 
+
+ f1nddyslab,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:56:57.617463 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.492438 
+
+ f1nddyslab,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:00:15.702373 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:00:48.269470 
+
+ f1nddyslab,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:01:54.671102 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.616242 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.375107 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 11:06:02.230997 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:08:29.981923 
+
+ f1nddyslab,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.526430 
+
+ f1nddyslab,     india,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.414530 
+
+ f1nddyslab,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:09:20.027291 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:09:23.921838 
+
+ f1nddyslab,     greece,        <Channel name: shadowkekw>,       2024-11-07 11:09:38.192742 
+
+ f1nddyslab,     yemen,        <Channel name: shadowkekw>,       2024-11-07 11:09:53.723338 
+
+ f1nddyslab,     uc,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.640954 
+
+ f1nddyslab,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.877737 
+
+ f1nddyslab,     cenegal,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.010999 
+
+ f1nddyslab,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:12:36.915302 
+
+ f1nddyslab,     honduras,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.693941 

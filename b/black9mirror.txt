@@ -1,0 +1,38 @@
+
+ black9mirror,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:41.359158 
+
+ black9mirror,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:06:55.805764 
+
+ black9mirror,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:08:11.426543 
+
+ black9mirror,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:45.050973 
+
+ black9mirror,     India,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.268101 
+
+ black9mirror,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:12:37.190226 
+
+ black9mirror,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.179703 
+
+ black9mirror,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.923218 
+
+ black9mirror,     Litva,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.168665 
+
+ black9mirror,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:19:34.901519 
+
+ black9mirror,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.676171 
+
+ black9mirror,     France,        <Channel name: shadowkekw>,       2024-11-07 10:27:59.246508 
+
+ black9mirror,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.937686 
+
+ black9mirror,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:03.883386 
+
+ black9mirror,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.580091 
+
+ black9mirror,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.206855 
+
+ black9mirror,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.405270 
+
+ black9mirror,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:38:57.473893 
+
+ black9mirror,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:39:18.935830 

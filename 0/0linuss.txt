@@ -1,0 +1,32 @@
+
+ 0linuss,     0,        <Channel name: lacy>,       2024-11-07 12:39:17.333195 
+
+ 0linuss,     -0,        <Channel name: lacy>,       2024-11-07 12:39:28.438571 
+
+ 0linuss,     yes,        <Channel name: lacy>,       2024-11-07 12:45:31.506063 
+
+ 0linuss,     noway,        <Channel name: lacy>,       2024-11-07 12:51:06.201586 
+
+ 0linuss,     ...,        <Channel name: lacy>,       2024-11-07 12:51:27.194022 
+
+ 0linuss,     LLLL,        <Channel name: lacy>,       2024-11-07 12:52:06.684165 
+
+ 0linuss,     LLLLLLL....\,        <Channel name: lacy>,       2024-11-07 12:52:37.402206 
+
+ 0linuss,     clasic,        <Channel name: lacy>,       2024-11-07 12:55:10.184873 
+
+ 0linuss,     yes,        <Channel name: lacy>,       2024-11-07 12:57:07.084023 
+
+ 0linuss,     bye,        <Channel name: lacy>,       2024-11-07 12:57:30.706546 
+
+ 0linuss,     peice,        <Channel name: lacy>,       2024-11-07 12:57:45.413887 
+
+ 0linuss,     bye,        <Channel name: lacy>,       2024-11-07 12:57:51.092576 
+
+ 0linuss,     w stream,        <Channel name: lacy>,       2024-11-07 12:58:00.949843 
+
+ 0linuss,     classic,        <Channel name: lacy>,       2024-11-07 12:59:00.031577 
+
+ 0linuss,     jorkin',        <Channel name: lacy>,       2024-11-07 13:01:44.533469 
+
+ 0linuss,     joikin,        <Channel name: lacy>,       2024-11-07 13:01:58.972490 

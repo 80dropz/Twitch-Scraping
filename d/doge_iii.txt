@@ -2,3 +2,45 @@
  doge_iii,     HUH,        <Channel name: kaicenat>,       2024-11-07 09:04:44.819842 
 
  doge_iii,     45,        <Channel name: shadowkekw>,       2024-11-07 09:05:14.670320 
+
+ doge_iii,     NPC Chel,        <Channel name: shadowkekw>,       2024-11-07 11:24:27.487378 
+
+ doge_iii,     @shadowkekw gandon 900,        <Channel name: kaicenat>,       2024-11-07 11:41:32.899283 
+
+ doge_iii,     50 + 50,        <Channel name: shadowkekw>,       2024-11-07 11:44:11.941205 
+
+ doge_iii,     50 + 50 WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:15.945343 
+
+ doge_iii,     NPC,        <Channel name: shadowkekw>,       2024-11-07 11:46:17.900320 
+
+ doge_iii,     NPC xdd,        <Channel name: shadowkekw>,       2024-11-07 11:46:22.652822 
+
+ doge_iii,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:15.098578 
+
+ doge_iii,     sDR,        <Channel name: shadowkekw>,       2024-11-07 12:08:14.328965 
+
+ doge_iii,     sDR sDR,        <Channel name: shadowkekw>,       2024-11-07 12:08:20.857347 
+
+ doge_iii,     cho,        <Channel name: shadowkekw>,       2024-11-07 12:10:50.711341 
+
+ doge_iii,     CHE CHE XHE,        <Channel name: shadowkekw>,       2024-11-07 12:11:00.898387 
+
+ doge_iii,     okak,        <Channel name: shadowkekw>,       2024-11-07 12:12:37.165533 
+
+ doge_iii,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:12:40.271244 
+
+ doge_iii,     (( ((,        <Channel name: shadowkekw>,       2024-11-07 12:12:44.629896 
+
+ doge_iii,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:12:48.617193 
+
+ doge_iii,     lol,        <Channel name: shadowkekw>,       2024-11-07 12:14:32.948386 
+
+ doge_iii,     LOL,        <Channel name: shadowkekw>,       2024-11-07 12:14:34.828626 
+
+ doge_iii,     D:,        <Channel name: shadowkekw>,       2024-11-07 12:16:07.107948 
+
+ doge_iii,     D: D:,        <Channel name: shadowkekw>,       2024-11-07 12:16:12.166980 
+
+ doge_iii,     D: D: D:,        <Channel name: shadowkekw>,       2024-11-07 12:16:16.242022 
+
+ doge_iii,     LOL,        <Channel name: kaicenat>,       2024-11-07 13:34:56.186790 

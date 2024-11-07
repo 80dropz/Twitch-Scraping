@@ -1,0 +1,12 @@
+
+ barqu1nho,     !comm,        <Channel name: mongraal>,       2024-11-07 12:29:41.177720 
+
+ barqu1nho,     !pc,        <Channel name: mongraal>,       2024-11-07 12:30:00.154580 
+
+ barqu1nho,     !specs,        <Channel name: mongraal>,       2024-11-07 12:30:24.988769 
+
+ barqu1nho,     !commands,        <Channel name: mongraal>,       2024-11-07 12:32:33.424746 
+
+ barqu1nho,     !gpu,        <Channel name: mongraal>,       2024-11-07 12:38:06.166839 
+
+ barqu1nho,     !cpu,        <Channel name: mongraal>,       2024-11-07 12:38:42.332944 

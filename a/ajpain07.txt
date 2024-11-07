@@ -1,0 +1,8 @@
+
+ ajpain07,     50 MEN,        <Channel name: kaicenat>,       2024-11-07 12:44:47.422099 
+
+ ajpain07,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 12:47:12.831963 
+
+ ajpain07,     kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 12:47:48.903311 
+
+ ajpain07,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:54:46.936967 

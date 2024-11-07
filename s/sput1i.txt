@@ -1,0 +1,10 @@
+
+ sput1i,     China,        <Channel name: shadowkekw>,       2024-11-07 10:07:24.868943 
+
+ sput1i,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:52.538024 
+
+ sput1i,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:36.191691 
+
+ sput1i,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:37.387426 
+
+ sput1i,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:13:04.541628 

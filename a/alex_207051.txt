@@ -1,0 +1,14 @@
+
+ alex_207051,     England,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.948425 
+
+ alex_207051,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:20.830207 
+
+ alex_207051,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.679308 
+
+ alex_207051,     Moroco,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.739450 
+
+ alex_207051,     America,        <Channel name: shadowkekw>,       2024-11-07 10:18:31.780774 
+
+ alex_207051,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:30:19.946400 
+
+ alex_207051,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.865707 

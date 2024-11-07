@@ -1,0 +1,78 @@
+
+ kiskindom,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:04.320019 
+
+ kiskindom,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.916343 
+
+ kiskindom,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.386614 
+
+ kiskindom,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.351354 
+
+ kiskindom,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:38:31.342950 
+
+ kiskindom,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.588384 
+
+ kiskindom,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:40:02.075162 
+
+ kiskindom,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.978172 
+
+ kiskindom,     China,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.951071 
+
+ kiskindom,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.572403 
+
+ kiskindom,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.293485 
+
+ kiskindom,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.904476 
+
+ kiskindom,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.875189 
+
+ kiskindom,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.314519 
+
+ kiskindom,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.190464 
+
+ kiskindom,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:44:33.031662 
+
+ kiskindom,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.171129 
+
+ kiskindom,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:45:12.844392 
+
+ kiskindom,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:45:30.326453 
+
+ kiskindom,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:45:50.890471 
+
+ kiskindom,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:46:11.581801 
+
+ kiskindom,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.370978 
+
+ kiskindom,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.864792 
+
+ kiskindom,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:47:08.921019 
+
+ kiskindom,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:39.850559 
+
+ kiskindom,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.359901 
+
+ kiskindom,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:48:49.430073 
+
+ kiskindom,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:49:10.155226 
+
+ kiskindom,     Lativa,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.434594 
+
+ kiskindom,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.939684 
+
+ kiskindom,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.683684 
+
+ kiskindom,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.991831 
+
+ kiskindom,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.631704 
+
+ kiskindom,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:52:05.140918 
+
+ kiskindom,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:04.871602 
+
+ kiskindom,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.756136 
+
+ kiskindom,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.245208 
+
+ kiskindom,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:55:00.606950 
+
+ kiskindom,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.529856 

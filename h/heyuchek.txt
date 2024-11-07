@@ -1,0 +1,14 @@
+
+ heyuchek,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:46:56.579856 
+
+ heyuchek,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:48:46.720273 
+
+ heyuchek,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.969755 
+
+ heyuchek,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:12.760737 
+
+ heyuchek,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.345441 
+
+ heyuchek,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.494762 
+
+ heyuchek,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.723572 

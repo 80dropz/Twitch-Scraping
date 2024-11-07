@@ -1,0 +1,84 @@
+
+ notjekah,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.807328 
+
+ notjekah,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:14:46.479367 
+
+ notjekah,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.860945 
+
+ notjekah,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:19:05.444159 
+
+ notjekah,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.645767 
+
+ notjekah,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.654735 
+
+ notjekah,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.824153 
+
+ notjekah,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:22:38.774129 
+
+ notjekah,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.536710 
+
+ notjekah,     reunion,        <Channel name: shadowkekw>,       2024-11-07 10:26:24.157251 
+
+ notjekah,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:27:00.716693 
+
+ notjekah,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.243333 
+
+ notjekah,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.503999 
+
+ notjekah,     Guam,        <Channel name: shadowkekw>,       2024-11-07 10:28:07.670612 
+
+ notjekah,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.225047 
+
+ notjekah,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.328006 
+
+ notjekah,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.247283 
+
+ notjekah,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:34:50.475496 
+
+ notjekah,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:39:57.791111 
+
+ notjekah,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.118853 
+
+ notjekah,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:27.789382 
+
+ notjekah,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:46:53.201249 
+
+ notjekah,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:15.816193 
+
+ notjekah,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.344846 
+
+ notjekah,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:51:20.281023 
+
+ notjekah,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.943149 
+
+ notjekah,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.750777 
+
+ notjekah,     curacao,        <Channel name: shadowkekw>,       2024-11-07 10:57:19.234926 
+
+ notjekah,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:59:28.338610 
+
+ notjekah,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.713121 
+
+ notjekah,     Panama,        <Channel name: shadowkekw>,       2024-11-07 11:01:02.212347 
+
+ notjekah,     us,        <Channel name: shadowkekw>,       2024-11-07 11:02:26.888263 
+
+ notjekah,     I’m,        <Channel name: shadowkekw>,       2024-11-07 11:03:30.137371 
+
+ notjekah,     curaçao,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.026644 
+
+ notjekah,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.941695 
+
+ notjekah,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.048629 
+
+ notjekah,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.125845 
+
+ notjekah,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.504601 
+
+ notjekah,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.310246 
+
+ notjekah,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:12:48.545517 
+
+ notjekah,     curaçao,        <Channel name: shadowkekw>,       2024-11-07 11:13:29.437859 
+
+ notjekah,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 11:14:54.616852 

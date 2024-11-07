@@ -1,0 +1,6 @@
+
+ verify_ice,     !myd,        <Channel name: nadeshot>,       2024-11-07 09:58:04.941154 
+
+ verify_ice,     !myd,        <Channel name: nadeshot>,       2024-11-07 09:58:50.262191 
+
+ verify_ice,     !fetch,        <Channel name: nadeshot>,       2024-11-07 10:46:58.600040 

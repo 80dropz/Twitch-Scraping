@@ -1,0 +1,14 @@
+
+ xoriek,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:12:08.594195 
+
+ xoriek,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:12:28.010170 
+
+ xoriek,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:12:52.003813 
+
+ xoriek,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 10:13:39.229659 
+
+ xoriek,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:14:04.305487 
+
+ xoriek,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 10:14:28.600610 
+
+ xoriek,     !points,        <Channel name: kaicenat>,       2024-11-07 10:15:42.783096 

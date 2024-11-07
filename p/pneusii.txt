@@ -1,0 +1,8 @@
+
+ pneusii,     gift me,        <Channel name: kaicenat>,       2024-11-07 11:33:34.941606 
+
+ pneusii,     !time,        <Channel name: kaicenat>,       2024-11-07 11:33:43.435708 
+
+ pneusii,     ok,        <Channel name: kaicenat>,       2024-11-07 11:51:59.955972 
+
+ pneusii,     !time,        <Channel name: kaicenat>,       2024-11-07 11:52:13.359244 

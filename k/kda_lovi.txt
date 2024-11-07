@@ -1,0 +1,14 @@
+
+ kda_lovi,     yo,        <Channel name: kaicenat>,       2024-11-07 10:03:34.031328 
+
+ kda_lovi,     to,        <Channel name: kaicenat>,       2024-11-07 10:03:37.289833 
+
+ kda_lovi,     kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:06:27.873493 
+
+ kda_lovi,     kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:06:34.197338 
+
+ kda_lovi,     kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:06:39.452249 
+
+ kda_lovi,     kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:06:43.644058 
+
+ kda_lovi,     kaicStare kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:06:47.227027 

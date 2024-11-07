@@ -1,0 +1,12 @@
+
+ t_huks,     Kai that's Kai snoring,        <Channel name: kaicenat>,       2024-11-07 11:15:43.534278 
+
+ t_huks,     229,        <Channel name: kaicenat>,       2024-11-07 11:31:15.017907 
+
+ t_huks,     Tell him to take a break Kai,        <Channel name: kaicenat>,       2024-11-07 11:32:29.450636 
+
+ t_huks,     Tell him to take a break,        <Channel name: kaicenat>,       2024-11-07 11:33:44.715189 
+
+ t_huks,     Tell him to take a break Kai,        <Channel name: kaicenat>,       2024-11-07 11:34:04.083618 
+
+ t_huks,     Wwwww miles,        <Channel name: kaicenat>,       2024-11-07 11:34:40.046016 

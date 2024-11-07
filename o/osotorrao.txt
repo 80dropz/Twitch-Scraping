@@ -1,0 +1,10 @@
+
+ osotorrao,     !roulette 300000,        <Channel name: kaicenat>,       2024-11-07 10:12:07.178951 
+
+ osotorrao,     !roulette 1580,        <Channel name: kaicenat>,       2024-11-07 10:12:22.561180 
+
+ osotorrao,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:12:33.983963 
+
+ osotorrao,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:58.689103 
+
+ osotorrao,     !roulette 57,        <Channel name: kaicenat>,       2024-11-07 10:13:11.235605 

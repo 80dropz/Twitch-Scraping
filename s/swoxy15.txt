@@ -1,0 +1,2 @@
+
+ swoxy15,     NPC,        <Channel name: kaicenat>,       2024-11-07 12:32:57.968086 

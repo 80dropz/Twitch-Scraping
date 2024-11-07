@@ -1,2 +1,752 @@
 
  yanotenot,     +,        <Channel name: shadowkekw>,       2024-11-07 09:00:34.017692 
+
+ yanotenot,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:21:08.996733 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:21:50.103021 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.473444 
+
+ yanotenot,     pg,        <Channel name: shadowkekw>,       2024-11-07 10:31:32.168465 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:31:53.931007 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.622401 
+
+ yanotenot,     is,        <Channel name: shadowkekw>,       2024-11-07 10:32:49.233483 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:33:17.700572 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:33:36.728900 
+
+ yanotenot,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:33:41.227806 
+
+ yanotenot,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:46.229189 
+
+ yanotenot,     sc,        <Channel name: shadowkekw>,       2024-11-07 10:34:21.574293 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:34:46.390423 
+
+ yanotenot,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.966789 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:34:52.402437 
+
+ yanotenot,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.677145 
+
+ yanotenot,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:35:16.386263 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:35:38.341872 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.951101 
+
+ yanotenot,     ?,        <Channel name: shadowkekw>,       2024-11-07 10:35:53.854100 
+
+ yanotenot,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:06.637255 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 10:36:23.409801 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 10:36:30.681456 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:36:33.552320 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:36:34.401647 
+
+ yanotenot,     sl,        <Channel name: shadowkekw>,       2024-11-07 10:36:38.829417 
+
+ yanotenot,     sv,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.217098 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:36:58.331137 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.049287 
+
+ yanotenot,     o,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.951600 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:18.776812 
+
+ yanotenot,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:37:22.306452 
+
+ yanotenot,     is,        <Channel name: shadowkekw>,       2024-11-07 10:37:34.301511 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.599763 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:37:41.648092 
+
+ yanotenot,     okak,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.211796 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.185032 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:38:03.531031 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:38:21.143750 
+
+ yanotenot,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.918157 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:38:30.785636 
+
+ yanotenot,     it,        <Channel name: shadowkekw>,       2024-11-07 10:38:31.641969 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:38:45.880129 
+
+ yanotenot,     kenia,        <Channel name: shadowkekw>,       2024-11-07 10:38:49.536720 
+
+ yanotenot,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.655753 
+
+ yanotenot,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.180137 
+
+ yanotenot,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.923210 
+
+ yanotenot,     it,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.058949 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.118679 
+
+ yanotenot,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:39:53.270985 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.561679 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:40:16.307130 
+
+ yanotenot,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:40:19.174617 
+
+ yanotenot,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.872236 
+
+ yanotenot,     wtf,        <Channel name: shadowkekw>,       2024-11-07 10:40:33.583619 
+
+ yanotenot,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.449283 
+
+ yanotenot,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:40:44.800245 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:41:00.784639 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.577526 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:41:26.312044 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.729262 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.042964 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.651823 
+
+ yanotenot,     iin,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.330058 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:41:52.392076 
+
+ yanotenot,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:42:27.838436 
+
+ yanotenot,     be,        <Channel name: shadowkekw>,       2024-11-07 10:42:49.350612 
+
+ yanotenot,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:42:53.679129 
+
+ yanotenot,     man,        <Channel name: shadowkekw>,       2024-11-07 10:43:03.806724 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:43:25.232162 
+
+ yanotenot,     kenia,        <Channel name: shadowkekw>,       2024-11-07 10:43:29.283513 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:43:30.851491 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:43:34.572930 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.998368 
+
+ yanotenot,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.860130 
+
+ yanotenot,     tailand,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.529054 
+
+ yanotenot,     is,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.795592 
+
+ yanotenot,     no,        <Channel name: shadowkekw>,       2024-11-07 10:44:49.419306 
+
+ yanotenot,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.227412 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:45:06.893950 
+
+ yanotenot,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:45:09.864705 
+
+ yanotenot,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:45:14.270740 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:28.466205 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:45:36.476154 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:49.440359 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:46:01.639973 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.580141 
+
+ yanotenot,     mt,        <Channel name: shadowkekw>,       2024-11-07 10:46:09.498943 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.072364 
+
+ yanotenot,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:46:27.060544 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.068630 
+
+ yanotenot,     ue,        <Channel name: shadowkekw>,       2024-11-07 10:46:48.123361 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.042939 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.755825 
+
+ yanotenot,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:47:11.840370 
+
+ yanotenot,     da,        <Channel name: shadowkekw>,       2024-11-07 10:47:17.600218 
+
+ yanotenot,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.680117 
+
+ yanotenot,     turley,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.044589 
+
+ yanotenot,     utrkey,        <Channel name: shadowkekw>,       2024-11-07 10:47:47.492064 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 10:48:05.643019 
+
+ yanotenot,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.011326 
+
+ yanotenot,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.956552 
+
+ yanotenot,     li,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.752754 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.832417 
+
+ yanotenot,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.603936 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:48:54.351348 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 10:48:56.085016 
+
+ yanotenot,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:48:56.445082 
+
+ yanotenot,     da,        <Channel name: shadowkekw>,       2024-11-07 10:49:05.869321 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.321295 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.365751 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.911321 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:49:32.758476 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 10:49:35.724108 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.996463 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:49:43.665146 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:49:46.380731 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 10:49:47.246672 
+
+ yanotenot,     ry,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.272408 
+
+ yanotenot,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:49:52.632465 
+
+ yanotenot,     fre,        <Channel name: shadowkekw>,       2024-11-07 10:49:54.242780 
+
+ yanotenot,     fcz,        <Channel name: shadowkekw>,       2024-11-07 10:49:59.434892 
+
+ yanotenot,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:50:03.881270 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:32.322351 
+
+ yanotenot,     eba,        <Channel name: shadowkekw>,       2024-11-07 10:50:37.895807 
+
+ yanotenot,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.004310 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.118849 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:51:13.462036 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.003966 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:51:39.570427 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 10:51:39.834906 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:51:44.249964 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:52:03.325531 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:52:03.758102 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:52:07.057002 
+
+ yanotenot,     peuu,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.616356 
+
+ yanotenot,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:52:11.829173 
+
+ yanotenot,     dominicana,        <Channel name: shadowkekw>,       2024-11-07 10:52:17.141764 
+
+ yanotenot,     rd,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.142963 
+
+ yanotenot,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.712846 
+
+ yanotenot,     br,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.525132 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:52:40.564242 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:52:42.162535 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:52:48.124484 
+
+ yanotenot,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.484454 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.741131 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.668994 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:53:10.118102 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.893765 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.021967 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.943681 
+
+ yanotenot,     gana,        <Channel name: shadowkekw>,       2024-11-07 10:53:38.107296 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.236878 
+
+ yanotenot,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.448409 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:53:46.415454 
+
+ yanotenot,     ya,        <Channel name: shadowkekw>,       2024-11-07 10:53:51.881349 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.773017 
+
+ yanotenot,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:54:54.794775 
+
+ yanotenot,     ko,        <Channel name: shadowkekw>,       2024-11-07 10:54:59.350001 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.206487 
+
+ yanotenot,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:55:04.603181 
+
+ yanotenot,     eba,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.455571 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.145091 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:32.866018 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:55:35.731594 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.970665 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:55:57.978898 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:55:59.659572 
+
+ yanotenot,     be,        <Channel name: shadowkekw>,       2024-11-07 10:56:06.906613 
+
+ yanotenot,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:56:07.320147 
+
+ yanotenot,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:56:08.696738 
+
+ yanotenot,     a,        <Channel name: shadowkekw>,       2024-11-07 10:56:13.106928 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:56:23.460409 
+
+ yanotenot,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:56:26.908002 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:56:29.460269 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.275748 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:48.828256 
+
+ yanotenot,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.067095 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:56:50.779868 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.467675 
+
+ yanotenot,     ze,        <Channel name: shadowkekw>,       2024-11-07 10:56:56.806349 
+
+ yanotenot,     ber,        <Channel name: shadowkekw>,       2024-11-07 10:57:27.742771 
+
+ yanotenot,     br,        <Channel name: shadowkekw>,       2024-11-07 10:57:28.295202 
+
+ yanotenot,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:57:31.460570 
+
+ yanotenot,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:57:35.555836 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.931736 
+
+ yanotenot,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:57:40.033221 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 10:57:43.985979 
+
+ yanotenot,     do,        <Channel name: shadowkekw>,       2024-11-07 10:57:51.530945 
+
+ yanotenot,     JP,        <Channel name: shadowkekw>,       2024-11-07 10:58:07.226671 
+
+ yanotenot,     DE,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.177160 
+
+ yanotenot,     CZ,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.885811 
+
+ yanotenot,     FR,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.976646 
+
+ yanotenot,     BE,        <Channel name: shadowkekw>,       2024-11-07 10:58:28.617036 
+
+ yanotenot,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:58:34.971160 
+
+ yanotenot,     netherland,        <Channel name: shadowkekw>,       2024-11-07 10:58:38.860264 
+
+ yanotenot,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:58:42.630096 
+
+ yanotenot,     [fasd[afsd[fasd[asf,        <Channel name: shadowkekw>,       2024-11-07 10:58:49.636465 
+
+ yanotenot,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.305468 
+
+ yanotenot,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:59:00.218269 
+
+ yanotenot,     is,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.709192 
+
+ yanotenot,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:59:04.397419 
+
+ yanotenot,     denmarl,        <Channel name: shadowkekw>,       2024-11-07 10:59:08.383426 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:21.257661 
+
+ yanotenot,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:59:22.050585 
+
+ yanotenot,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.637681 
+
+ yanotenot,     no,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.025421 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:41.289127 
+
+ yanotenot,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:59:43.115339 
+
+ yanotenot,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:59:44.185626 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.034504 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 10:59:49.963144 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:00:05.309429 
+
+ yanotenot,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:00:07.002545 
+
+ yanotenot,     br,        <Channel name: shadowkekw>,       2024-11-07 11:00:11.004259 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:00:12.376181 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.853839 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.946486 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:33.603492 
+
+ yanotenot,     wideLix,        <Channel name: shadowkekw>,       2024-11-07 11:00:45.708347 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:48.448055 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:00:50.217681 
+
+ yanotenot,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:00:51.862403 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:54.346476 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:00:55.417155 
+
+ yanotenot,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:00:57.800376 
+
+ yanotenot,     no,        <Channel name: shadowkekw>,       2024-11-07 11:01:11.253123 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 11:01:12.452439 
+
+ yanotenot,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.009482 
+
+ yanotenot,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:15.601750 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.926566 
+
+ yanotenot,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:01:26.836085 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:01:28.523087 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:01:30.215978 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 11:01:41.990509 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:01:48.932007 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:01:50.915204 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:02:03.953214 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:02:07.994308 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:02:10.663438 
+
+ yanotenot,     chili,        <Channel name: shadowkekw>,       2024-11-07 11:02:12.166522 
+
+ yanotenot,     uy,        <Channel name: shadowkekw>,       2024-11-07 11:02:13.476983 
+
+ yanotenot,     br,        <Channel name: shadowkekw>,       2024-11-07 11:02:15.087251 
+
+ yanotenot,     o,        <Channel name: shadowkekw>,       2024-11-07 11:02:16.894795 
+
+ yanotenot,     eba,        <Channel name: shadowkekw>,       2024-11-07 11:02:22.629999 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:02:24.655483 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:02:27.626334 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:02:31.119621 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:02:31.978145 
+
+ yanotenot,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:02:34.040487 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:02:37.828511 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:02:39.454776 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:02:41.016314 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 11:02:42.199442 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:02:45.477458 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:03:04.203706 
+
+ yanotenot,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:03:05.315683 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:06.256968 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.806758 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 11:03:10.884998 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:03:26.997140 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:28.752493 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.940257 
+
+ yanotenot,     greece,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.337312 
+
+ yanotenot,     is,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.461842 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:03:46.747911 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 11:03:49.182017 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:50.083600 
+
+ yanotenot,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:03:53.967228 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:55.778523 
+
+ yanotenot,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:03.993889 
+
+ yanotenot,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:04:05.122660 
+
+ yanotenot,     br,        <Channel name: shadowkekw>,       2024-11-07 11:04:08.479870 
+
+ yanotenot,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.651169 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:04:18.585411 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:04:19.653283 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:04:20.919004 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:04:23.828770 
+
+ yanotenot,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.966909 
+
+ yanotenot,     kenia,        <Channel name: shadowkekw>,       2024-11-07 11:04:26.286268 
+
+ yanotenot,     panama,        <Channel name: shadowkekw>,       2024-11-07 11:04:32.937709 
+
+ yanotenot,     do,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.645541 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:04:44.783074 
+
+ yanotenot,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:04:56.266846 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.983469 
+
+ yanotenot,     chili,        <Channel name: shadowkekw>,       2024-11-07 11:05:00.349820 
+
+ yanotenot,     uy,        <Channel name: shadowkekw>,       2024-11-07 11:05:07.307728 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:29.978523 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:05:46.603792 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:05:47.227368 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:05:53.630903 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:05:57.487664 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:05:59.017096 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 11:06:05.123492 
+
+ yanotenot,     kenia,        <Channel name: shadowkekw>,       2024-11-07 11:06:08.712715 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:06:08.940108 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:06:09.453592 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:25.711907 
+
+ yanotenot,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.620796 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:56.208035 
+
+ yanotenot,     li,        <Channel name: shadowkekw>,       2024-11-07 11:07:03.352166 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:07:30.691366 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 11:07:33.346942 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.777587 
+
+ yanotenot,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:07:45.975297 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:07:52.878754 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:08:13.718196 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.763400 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:08:16.057470 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:08:21.610041 
+
+ yanotenot,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:08:25.969577 
+
+ yanotenot,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:08:50.805102 
+
+ yanotenot,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:08:53.141168 
+
+ yanotenot,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:08:56.855973 
+
+ yanotenot,     li,        <Channel name: shadowkekw>,       2024-11-07 11:08:58.557157 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:09:02.408085 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:03.313305 
+
+ yanotenot,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:09:06.105971 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.434410 
+
+ yanotenot,     ugande,        <Channel name: shadowkekw>,       2024-11-07 11:09:48.402359 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:10:08.637015 
+
+ yanotenot,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.158325 
+
+ yanotenot,     li,        <Channel name: shadowkekw>,       2024-11-07 11:10:15.145516 
+
+ yanotenot,     es,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.805786 
+
+ yanotenot,     ee,        <Channel name: shadowkekw>,       2024-11-07 11:10:20.879961 
+
+ yanotenot,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:10:31.068351 
+
+ yanotenot,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:10:33.114597 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.501405 
+
+ yanotenot,     man,        <Channel name: shadowkekw>,       2024-11-07 11:10:44.789785 
+
+ yanotenot,     nio,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.646260 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:10:59.624907 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:04.703170 
+
+ yanotenot,     de,        <Channel name: shadowkekw>,       2024-11-07 11:11:06.610223 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:11:09.076228 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:09.395892 
+
+ yanotenot,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:11:15.595599 
+
+ yanotenot,     id\,        <Channel name: shadowkekw>,       2024-11-07 11:11:20.078150 
+
+ yanotenot,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:11:24.083031 
+
+ yanotenot,     do,        <Channel name: shadowkekw>,       2024-11-07 11:11:28.663381 
+
+ yanotenot,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.211389 
+
+ yanotenot,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:49.928622 
+
+ yanotenot,     no,        <Channel name: shadowkekw>,       2024-11-07 11:11:51.401129 
+
+ yanotenot,     no,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.206292 
+
+ yanotenot,     co,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.149478 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:15.395749 
+
+ yanotenot,     in,        <Channel name: shadowkekw>,       2024-11-07 11:12:15.913372 
+
+ yanotenot,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:12:21.687997 
+
+ yanotenot,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:12:25.960129 
+
+ yanotenot,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:12:30.209023 
+
+ yanotenot,     nghh,        <Channel name: shadowkekw>,       2024-11-07 11:12:30.857781 
+
+ yanotenot,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:12:31.115170 
+
+ yanotenot,     za,        <Channel name: shadowkekw>,       2024-11-07 11:12:36.727061 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:12:39.537447 
+
+ yanotenot,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:12:40.980995 
+
+ yanotenot,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:45.244299 
+
+ yanotenot,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:12:48.285281 
+
+ yanotenot,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:12:49.142604 
+
+ yanotenot,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:12:54.302345 
+
+ yanotenot,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:12:54.707216 
+
+ yanotenot,     au,        <Channel name: shadowkekw>,       2024-11-07 11:12:58.075133 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:13:17.684878 
+
+ yanotenot,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:13:20.799738 
+
+ yanotenot,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:13:23.946102 
+
+ yanotenot,     monako,        <Channel name: shadowkekw>,       2024-11-07 11:15:06.773838 
+
+ yanotenot,     mt,        <Channel name: shadowkekw>,       2024-11-07 11:15:07.836847 
+
+ yanotenot,     jo,        <Channel name: shadowkekw>,       2024-11-07 11:15:09.220948 
+
+ yanotenot,     id,        <Channel name: shadowkekw>,       2024-11-07 11:15:15.548496 
+
+ yanotenot,     greece,        <Channel name: shadowkekw>,       2024-11-07 11:15:21.712217 
+
+ yanotenot,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:52.966027 
+
+ yanotenot,     AG,        <Channel name: shadowkekw>,       2024-11-07 11:16:51.226738 
+
+ yanotenot,     uy,        <Channel name: shadowkekw>,       2024-11-07 11:16:51.942199 
+
+ yanotenot,     do,        <Channel name: shadowkekw>,       2024-11-07 11:16:53.551832 
+
+ yanotenot,     )),        <Channel name: shadowkekw>,       2024-11-07 11:21:49.679004 
+
+ yanotenot,     )),        <Channel name: shadowkekw>,       2024-11-07 11:22:02.407638 
+
+ yanotenot,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:32.100168 

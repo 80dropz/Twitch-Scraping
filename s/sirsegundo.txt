@@ -1,0 +1,6 @@
+
+ sirsegundo,     !keyboard,        <Channel name: mrlust>,       2024-11-07 12:22:51.813300 
+
+ sirsegundo,     !addme,        <Channel name: mrlust>,       2024-11-07 12:23:37.346731 
+
+ sirsegundo,     !crosshair,        <Channel name: mrlust>,       2024-11-07 12:24:13.010719 

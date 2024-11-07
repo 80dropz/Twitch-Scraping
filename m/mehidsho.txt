@@ -1,0 +1,50 @@
+
+ mehidsho,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.242683 
+
+ mehidsho,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:26:53.339307 
+
+ mehidsho,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:27:10.946078 
+
+ mehidsho,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.122145 
+
+ mehidsho,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:27:51.664150 
+
+ mehidsho,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.938195 
+
+ mehidsho,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:24.177834 
+
+ mehidsho,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.605604 
+
+ mehidsho,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:53.328032 
+
+ mehidsho,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:30:55.694935 
+
+ mehidsho,     Velikobritaniya,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.941430 
+
+ mehidsho,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.353933 
+
+ mehidsho,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.831309 
+
+ mehidsho,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.686735 
+
+ mehidsho,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.900832 
+
+ mehidsho,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:32:36.946463 
+
+ mehidsho,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.918348 
+
+ mehidsho,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.140552 
+
+ mehidsho,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:33:09.013721 
+
+ mehidsho,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:33:35.833851 
+
+ mehidsho,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.937033 
+
+ mehidsho,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.300921 
+
+ mehidsho,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:11:33.752496 
+
+ mehidsho,     jjjjjj,        <Channel name: shadowkekw>,       2024-11-07 12:48:19.022146 
+
+ mehidsho,     ww,        <Channel name: shadowkekw>,       2024-11-07 12:51:33.264844 

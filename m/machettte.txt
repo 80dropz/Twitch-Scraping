@@ -1,0 +1,52 @@
+
+ machettte,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:44:49.056102 
+
+ machettte,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:49.482093 
+
+ machettte,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.563496 
+
+ machettte,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:47:51.528852 
+
+ machettte,     Philipines,        <Channel name: shadowkekw>,       2024-11-07 10:48:12.838951 
+
+ machettte,     Philipines,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.091830 
+
+ machettte,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:13.101352 
+
+ machettte,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:58.409008 
+
+ machettte,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:34.334116 
+
+ machettte,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.612660 
+
+ machettte,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.739648 
+
+ machettte,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:55:34.728643 
+
+ machettte,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.466088 
+
+ machettte,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.663912 
+
+ machettte,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:57:34.094590 
+
+ machettte,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.602307 
+
+ machettte,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 11:00:28.091079 
+
+ machettte,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:09:04.901136 
+
+ machettte,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:19.666562 
+
+ machettte,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:09:37.829352 
+
+ machettte,     Panama,        <Channel name: shadowkekw>,       2024-11-07 11:09:50.995492 
+
+ machettte,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.811608 
+
+ machettte,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:11:11.080903 
+
+ machettte,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:11:31.432843 
+
+ machettte,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 11:12:54.740207 
+
+ machettte,     Israel,        <Channel name: shadowkekw>,       2024-11-07 11:14:22.123130 

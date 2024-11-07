@@ -1,0 +1,14 @@
+
+ fafre1,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:07:04.757005 
+
+ fafre1,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:07:52.182199 
+
+ fafre1,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.063168 
+
+ fafre1,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:09:52.256352 
+
+ fafre1,     Gawai,        <Channel name: shadowkekw>,       2024-11-07 10:12:26.487639 
+
+ fafre1,     emirates,        <Channel name: shadowkekw>,       2024-11-07 10:12:47.106106 
+
+ fafre1,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.042127 

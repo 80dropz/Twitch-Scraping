@@ -1,0 +1,4 @@
+
+ mxrphy_93,     LUL LUL LUL LUL LUL,        <Channel name: nadeshot>,       2024-11-07 12:11:37.260031 
+
+ mxrphy_93,     X files theme,        <Channel name: nadeshot>,       2024-11-07 12:15:22.837083 

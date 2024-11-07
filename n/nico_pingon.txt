@@ -1,0 +1,8 @@
+
+ nico_pingon,     !keyboard,        <Channel name: mongraal>,       2024-11-07 10:24:34.246472 
+
+ nico_pingon,     !keyboard,        <Channel name: clix>,       2024-11-07 12:32:21.316376 
+
+ nico_pingon,     !mouse,        <Channel name: clix>,       2024-11-07 12:33:41.529891 
+
+ nico_pingon,     !keyboard,        <Channel name: mongraal>,       2024-11-07 12:34:14.265367 

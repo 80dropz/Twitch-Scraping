@@ -1,0 +1,18 @@
+
+ good3r_r6,     switch it,        <Channel name: kaicenat>,       2024-11-07 10:42:24.029083 
+
+ good3r_r6,     rakai?,        <Channel name: kaicenat>,       2024-11-07 11:18:02.197972 
+
+ good3r_r6,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 12:28:59.830864 
+
+ good3r_r6,     !points,        <Channel name: kaicenat>,       2024-11-07 12:29:26.683455 
+
+ good3r_r6,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 12:30:05.182571 
+
+ good3r_r6,     !points,        <Channel name: kaicenat>,       2024-11-07 12:31:11.314122 
+
+ good3r_r6,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 12:31:50.684719 
+
+ good3r_r6,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 12:32:44.573976 
+
+ good3r_r6,     !points,        <Channel name: kaicenat>,       2024-11-07 12:33:44.661678 

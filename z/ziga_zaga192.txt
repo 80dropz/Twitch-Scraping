@@ -1,2 +1,10 @@
 
  ziga_zaga192,     ?,        <Channel name: shadowkekw>,       2024-11-07 09:25:04.568821 
+
+ ziga_zaga192,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.034946 
+
+ ziga_zaga192,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:57:20.727264 
+
+ ziga_zaga192,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:20.884389 
+
+ ziga_zaga192,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:59:12.149615 

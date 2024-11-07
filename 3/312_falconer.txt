@@ -1,0 +1,2 @@
+
+ 312_falconer,     NPC,        <Channel name: kaicenat>,       2024-11-07 11:28:10.923871 

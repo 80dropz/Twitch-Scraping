@@ -2,3 +2,203 @@
  7kakaoooooo,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:25.528973 
 
  7kakaoooooo,     900,        <Channel name: shadowkekw>,       2024-11-07 09:11:03.066531 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:06:43.372596 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.349208 
+
+ 7kakaoooooo,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.634750 
+
+ 7kakaoooooo,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:10:38.806989 
+
+ 7kakaoooooo,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.647797 
+
+ 7kakaoooooo,     Guyana,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.264540 
+
+ 7kakaoooooo,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:12:24.151106 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:13:19.436200 
+
+ 7kakaoooooo,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:13:29.021135 
+
+ 7kakaoooooo,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:14:50.892914 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.603039 
+
+ 7kakaoooooo,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.217149 
+
+ 7kakaoooooo,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:16:34.728378 
+
+ 7kakaoooooo,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:16:49.360059 
+
+ 7kakaoooooo,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:16:55.725385 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:16:59.002010 
+
+ 7kakaoooooo,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:17:03.895862 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.025892 
+
+ 7kakaoooooo,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:21:13.547882 
+
+ 7kakaoooooo,     Maldives,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.940623 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.669319 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.701341 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.062816 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.079124 
+
+ 7kakaoooooo,     Cote d'Ivoire,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.953127 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:28:52.020388 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.102753 
+
+ 7kakaoooooo,     Guyana,        <Channel name: shadowkekw>,       2024-11-07 10:29:55.825770 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.872514 
+
+ 7kakaoooooo,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.691447 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.604827 
+
+ 7kakaoooooo,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.316015 
+
+ 7kakaoooooo,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:31:08.290547 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.605747 
+
+ 7kakaoooooo,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:31:53.927996 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.206553 
+
+ 7kakaoooooo,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.662539 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.026725 
+
+ 7kakaoooooo,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:33:16.256728 
+
+ 7kakaoooooo,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.347129 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.364869 
+
+ 7kakaoooooo,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.644155 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.706770 
+
+ 7kakaoooooo,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.661264 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.436993 
+
+ 7kakaoooooo,     LUL,        <Channel name: shadowkekw>,       2024-11-07 10:36:28.405679 
+
+ 7kakaoooooo,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.935274 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.368026 
+
+ 7kakaoooooo,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.969018 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.723476 
+
+ 7kakaoooooo,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.509554 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:38:06.920659 
+
+ 7kakaoooooo,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.457146 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.228614 
+
+ 7kakaoooooo,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.337839 
+
+ 7kakaoooooo,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:39:11.070260 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:39:32.274891 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.986163 
+
+ 7kakaoooooo,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.460574 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.142018 
+
+ 7kakaoooooo,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.606550 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.180212 
+
+ 7kakaoooooo,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.705372 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.887193 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.216735 
+
+ 7kakaoooooo,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.090374 
+
+ 7kakaoooooo,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:43:35.855484 
+
+ 7kakaoooooo,     Maldives,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.276309 
+
+ 7kakaoooooo,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:44:34.575472 
+
+ 7kakaoooooo,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:44:56.103988 
+
+ 7kakaoooooo,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:45:13.341866 
+
+ 7kakaoooooo,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.808824 
+
+ 7kakaoooooo,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:50:09.499986 
+
+ 7kakaoooooo,     Palmas,        <Channel name: shadowkekw>,       2024-11-07 10:54:42.855017 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:06.934959 
+
+ 7kakaoooooo,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:01:34.823276 
+
+ 7kakaoooooo,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:02:37.819511 
+
+ 7kakaoooooo,     Kuwait,        <Channel name: shadowkekw>,       2024-11-07 11:09:07.402209 
+
+ 7kakaoooooo,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 11:09:55.248463 
+
+ 7kakaoooooo,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:10:19.061978 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 11:10:37.633634 
+
+ 7kakaoooooo,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:11:05.896405 
+
+ 7kakaoooooo,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.088041 
+
+ 7kakaoooooo,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.064433 
+
+ 7kakaoooooo,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:11:26.697937 
+
+ 7kakaoooooo,     Palau,        <Channel name: shadowkekw>,       2024-11-07 11:11:29.726413 
+
+ 7kakaoooooo,     Seychelles,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.071253 
+
+ 7kakaoooooo,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.195033 
+
+ 7kakaoooooo,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.595230 
+
+ 7kakaoooooo,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 11:12:28.716957 
+
+ 7kakaoooooo,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.982198 
+
+ 7kakaoooooo,     Malta,        <Channel name: shadowkekw>,       2024-11-07 11:13:02.211075 
+
+ 7kakaoooooo,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 11:15:31.141611 
+
+ 7kakaoooooo,     and,        <Channel name: shadowkekw>,       2024-11-07 11:50:25.660335 
+
+ 7kakaoooooo,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:32.839501 
+
+ 7kakaoooooo,     WW WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:38.166223 
+
+ 7kakaoooooo,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:58.204977 
+
+ 7kakaoooooo,     SOSI,        <Channel name: shadowkekw>,       2024-11-07 11:56:32.808500 
+
+ 7kakaoooooo,     SOSI SOSI,        <Channel name: shadowkekw>,       2024-11-07 11:56:44.643346 
+
+ 7kakaoooooo,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:44.425553 

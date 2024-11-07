@@ -1,0 +1,6 @@
+
+ hydr0val,     turn off bro,        <Channel name: mongraal>,       2024-11-07 12:28:52.386751 
+
+ hydr0val,     go sleep,        <Channel name: mongraal>,       2024-11-07 12:28:53.579227 
+
+ hydr0val,     freer,        <Channel name: mongraal>,       2024-11-07 12:28:57.525314 

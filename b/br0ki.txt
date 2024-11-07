@@ -2,3 +2,11 @@
  br0ki,     @followage,        <Channel name: shadowkekw>,       2024-11-07 09:39:40.697585 
 
  br0ki,     @followage,        <Channel name: shadowkekw>,       2024-11-07 09:40:11.773624 
+
+ br0ki,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.278435 
+
+ br0ki,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:09.437228 
+
+ br0ki,     France,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.237351 
+
+ br0ki,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:31:50.901338 

@@ -70,3 +70,127 @@
  clatyyfn,     Listening,        <Channel name: clix>,       2024-11-07 09:41:57.419729 
 
  clatyyfn,     wowie,        <Channel name: clix>,       2024-11-07 09:43:03.415351 
+
+ clatyyfn,     Life,        <Channel name: clix>,       2024-11-07 09:52:23.325747 
+
+ clatyyfn,     ome18,        <Channel name: clix>,       2024-11-07 10:26:33.255000 
+
+ clatyyfn,     NOWAY,        <Channel name: clix>,       2024-11-07 10:27:10.793261 
+
+ clatyyfn,     movement,        <Channel name: clix>,       2024-11-07 10:27:12.682498 
+
+ clatyyfn,     NAHH,        <Channel name: clix>,       2024-11-07 10:27:41.423122 
+
+ clatyyfn,     AURA,        <Channel name: clix>,       2024-11-07 10:29:29.310495 
+
+ clatyyfn,     my turn,        <Channel name: clix>,       2024-11-07 10:29:46.462903 
+
+ clatyyfn,     SILENCE,        <Channel name: clix>,       2024-11-07 10:29:54.499353 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 10:29:58.345946 
+
+ clatyyfn,     Listening,        <Channel name: clix>,       2024-11-07 10:31:38.737043 
+
+ clatyyfn,     eww,        <Channel name: clix>,       2024-11-07 10:31:59.377040 
+
+ clatyyfn,     JohnPork,        <Channel name: clix>,       2024-11-07 10:34:31.187542 
+
+ clatyyfn,     WW Adge,        <Channel name: clix>,       2024-11-07 10:36:22.743940 
+
+ clatyyfn,     DIDSOMEONESAYCOCK,        <Channel name: clix>,       2024-11-07 10:40:55.700819 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 10:42:33.469592 
+
+ clatyyfn,     plz outdoor boys,        <Channel name: clix>,       2024-11-07 10:47:06.258584 
+
+ clatyyfn,     WW,        <Channel name: clix>,       2024-11-07 10:47:32.794605 
+
+ clatyyfn,     NOWAY,        <Channel name: clix>,       2024-11-07 10:48:56.114593 
+
+ clatyyfn,     ome5,        <Channel name: clix>,       2024-11-07 10:49:23.085924 
+
+ clatyyfn,     CAUGHT,        <Channel name: clix>,       2024-11-07 10:53:20.733817 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 10:54:44.981745 
+
+ clatyyfn,     HUH,        <Channel name: clix>,       2024-11-07 10:55:39.860076 
+
+ clatyyfn,     ome44,        <Channel name: clix>,       2024-11-07 10:57:01.624936 
+
+ clatyyfn,     wsg,        <Channel name: clix>,       2024-11-07 10:59:08.894871 
+
+ clatyyfn,     cmonBrug,        <Channel name: clix>,       2024-11-07 11:00:59.999917 
+
+ clatyyfn,     mhm,        <Channel name: clix>,       2024-11-07 11:01:07.685256 
+
+ clatyyfn,     ome32,        <Channel name: clix>,       2024-11-07 11:18:43.775990 
+
+ clatyyfn,     jah,        <Channel name: clix>,       2024-11-07 11:18:47.209542 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 11:19:28.755828 
+
+ clatyyfn,     SAJ,        <Channel name: clix>,       2024-11-07 11:20:04.133979 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 12:23:00.387223 
+
+ clatyyfn,     floppa,        <Channel name: clix>,       2024-11-07 12:24:42.468636 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 12:32:10.938038 
+
+ clatyyfn,     sus,        <Channel name: clix>,       2024-11-07 12:37:45.009428 
+
+ clatyyfn,     Classic,        <Channel name: clix>,       2024-11-07 12:41:55.931495 
+
+ clatyyfn,     NOWAY,        <Channel name: clix>,       2024-11-07 12:42:32.832738 
+
+ clatyyfn,     no,        <Channel name: clix>,       2024-11-07 12:46:08.392191 
+
+ clatyyfn,     NOWAY,        <Channel name: clix>,       2024-11-07 12:51:39.439307 
+
+ clatyyfn,     LL,        <Channel name: clix>,       2024-11-07 12:51:49.208033 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 12:52:09.510726 
+
+ clatyyfn,     LL,        <Channel name: clix>,       2024-11-07 12:53:00.043092 
+
+ clatyyfn,     WW,        <Channel name: clix>,       2024-11-07 12:53:13.477024 
+
+ clatyyfn,     LETSGO,        <Channel name: clix>,       2024-11-07 12:53:17.580743 
+
+ clatyyfn,     icl i hope clix stays asleep,        <Channel name: clix>,       2024-11-07 12:54:33.243513 
+
+ clatyyfn,     ?,        <Channel name: clix>,       2024-11-07 12:55:35.490343 
+
+ clatyyfn,     jorkin,        <Channel name: clix>,       2024-11-07 13:01:05.051816 
+
+ clatyyfn,     mhm,        <Channel name: clix>,       2024-11-07 13:02:50.536644 
+
+ clatyyfn,     Prayge Blue,        <Channel name: clix>,       2024-11-07 13:03:38.865836 
+
+ clatyyfn,     WW,        <Channel name: clix>,       2024-11-07 13:04:29.584739 
+
+ clatyyfn,     ofc,        <Channel name: clix>,       2024-11-07 13:05:25.912731 
+
+ clatyyfn,     mhm,        <Channel name: clix>,       2024-11-07 13:07:55.029395 
+
+ clatyyfn,     WW,        <Channel name: clix>,       2024-11-07 13:08:10.686200 
+
+ clatyyfn,     uuh,        <Channel name: clix>,       2024-11-07 13:09:53.028423 
+
+ clatyyfn,     what u drean abt,        <Channel name: clix>,       2024-11-07 13:11:52.672134 
+
+ clatyyfn,     dream,        <Channel name: clix>,       2024-11-07 13:11:56.219357 
+
+ clatyyfn,     grotto,        <Channel name: clix>,       2024-11-07 13:13:59.717401 
+
+ clatyyfn,     nah,        <Channel name: clix>,       2024-11-07 13:18:42.460079 
+
+ clatyyfn,     same,        <Channel name: clix>,       2024-11-07 13:28:21.314680 
+
+ clatyyfn,     mhm,        <Channel name: clix>,       2024-11-07 13:28:28.944267 
+
+ clatyyfn,     SnoopPls,        <Channel name: clix>,       2024-11-07 13:30:17.361039 
+
+ clatyyfn,     kill boss,        <Channel name: clix>,       2024-11-07 13:32:11.625468 
+
+ clatyyfn,     they  playing pubs,        <Channel name: clix>,       2024-11-07 13:36:17.987544 

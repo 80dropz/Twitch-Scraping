@@ -16,3 +16,7 @@
  nkmzc,     )),        <Channel name: shadowkekw>,       2024-11-07 09:42:17.281017 
 
  nkmzc,     ((,        <Channel name: shadowkekw>,       2024-11-07 09:42:51.495763 
+
+ nkmzc,     Lois,        <Channel name: shadowkekw>,       2024-11-07 09:52:45.517425 
+
+ nkmzc,     fm,        <Channel name: shadowkekw>,       2024-11-07 09:55:52.739417 

@@ -18,3 +18,7 @@
  pedro_a1modovar,     HAPPI,        <Channel name: shadowkekw>,       2024-11-07 09:28:02.546590 
 
  pedro_a1modovar,     )),        <Channel name: shadowkekw>,       2024-11-07 09:34:28.458631 
+
+ pedro_a1modovar,     )),        <Channel name: shadowkekw>,       2024-11-07 11:36:31.463695 
+
+ pedro_a1modovar,     #FREESHADOW,        <Channel name: shadowkekw>,       2024-11-07 11:36:52.917213 

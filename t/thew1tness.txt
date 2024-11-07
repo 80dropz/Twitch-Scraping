@@ -54,3 +54,327 @@
  thew1tness,     pp Loading,        <Channel name: shadowkekw>,       2024-11-07 09:43:09.657071 
 
  thew1tness,     pp Loading pp Loading pp Loading pp Loading pp Loading pp Loading pp Loading,        <Channel name: shadowkekw>,       2024-11-07 09:43:16.110418 
+
+ thew1tness,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:40.710773 
+
+ thew1tness,     fm,        <Channel name: shadowkekw>,       2024-11-07 09:55:51.343827 
+
+ thew1tness,     322,        <Channel name: shadowkekw>,       2024-11-07 09:58:04.770355 
+
+ thew1tness,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.989541 
+
+ thew1tness,     Ciprus,        <Channel name: shadowkekw>,       2024-11-07 10:07:25.630733 
+
+ thew1tness,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:07:42.600926 
+
+ thew1tness,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:08:53.429074 
+
+ thew1tness,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:09:09.307954 
+
+ thew1tness,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.979179 
+
+ thew1tness,     France,        <Channel name: shadowkekw>,       2024-11-07 10:10:03.437929 
+
+ thew1tness,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:10:35.533014 
+
+ thew1tness,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.214986 
+
+ thew1tness,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:25.254100 
+
+ thew1tness,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:30.812912 
+
+ thew1tness,     United states,        <Channel name: shadowkekw>,       2024-11-07 10:11:49.825350 
+
+ thew1tness,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:52.237136 
+
+ thew1tness,     FRANCE,        <Channel name: shadowkekw>,       2024-11-07 10:12:32.257149 
+
+ thew1tness,     52,        <Channel name: shadowkekw>,       2024-11-07 10:12:55.163690 
+
+ thew1tness,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.777377 
+
+ thew1tness,     Ekvador,        <Channel name: shadowkekw>,       2024-11-07 10:13:42.105932 
+
+ thew1tness,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:13:59.525053 
+
+ thew1tness,     FRANCE,        <Channel name: shadowkekw>,       2024-11-07 10:14:11.812110 
+
+ thew1tness,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:14:34.216572 
+
+ thew1tness,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:40.937472 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:15:01.154676 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:15:36.762513 
+
+ thew1tness,     Curusau,        <Channel name: shadowkekw>,       2024-11-07 10:16:53.350239 
+
+ thew1tness,     Curasau,        <Channel name: shadowkekw>,       2024-11-07 10:17:01.728261 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:16.172719 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:17:36.803015 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.621034 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.547000 
+
+ thew1tness,     Algeria * Angola * Benin * Botswana * Burkina Faso * Burundi * Cabo Verde * Cameroon * Central African Republic * Chad * Comoros * Democratic Republic of the Congo * Republic of the Congo * Côte d'Ivoire * Djibouti * Egypt * Equatorial Guinea * Eritrea * Eswatini (formerly Swaziland) * Ethiopia * Gabon * Gambia * Ghana * Guinea * Guinea-Bissau * Kenya * Lesotho * Liberia * Libya * Madagascar * Malawi * Mali * Mauritania * Mauritius * Morocco * Mozambiqu,        <Channel name: shadowkekw>,       2024-11-07 10:18:39.089350 
+
+ thew1tness,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.687858 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.013150 
+
+ thew1tness,     Curacau,        <Channel name: shadowkekw>,       2024-11-07 10:19:11.786773 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:19:26.848335 
+
+ thew1tness,     Greenland,        <Channel name: shadowkekw>,       2024-11-07 10:19:33.701362 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.454669 
+
+ thew1tness,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:19:55.093576 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:20:08.923429 
+
+ thew1tness,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.098579 
+
+ thew1tness,     Curacua,        <Channel name: shadowkekw>,       2024-11-07 10:20:19.177199 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.007149 
+
+ thew1tness,     Curacua,        <Channel name: shadowkekw>,       2024-11-07 10:20:28.283804 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:20:45.141657 
+
+ thew1tness,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.740573 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.638453 
+
+ thew1tness,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.170930 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:21:44.222658 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:21:46.318080 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:22:21.766353 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:22:25.831895 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:22:48.283668 
+
+ thew1tness,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:22:51.019628 
+
+ thew1tness,     Curucau,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.555693 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.312923 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:24:12.153527 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.031334 
+
+ thew1tness,     Hunduras,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.922869 
+
+ thew1tness,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.308143 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.954445 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.817301 
+
+ thew1tness,     Curacua,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.410936 
+
+ thew1tness,     Curacau,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.745973 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:29:42.586873 
+
+ thew1tness,     Sent Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.820395 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.222505 
+
+ thew1tness,     Sent Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.402043 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:31:06.259974 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.498072 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.446799 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.480584 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.498078 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:33:33.229179 
+
+ thew1tness,     St Kitts,        <Channel name: shadowkekw>,       2024-11-07 10:34:22.906053 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.018354 
+
+ thew1tness,     bl,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.599443 
+
+ thew1tness,     Trinidad and Tobago,        <Channel name: shadowkekw>,       2024-11-07 10:35:31.435267 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:35:57.891532 
+
+ thew1tness,     tt,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.255157 
+
+ thew1tness,     Curacau,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.235432 
+
+ thew1tness,     oh,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.913410 
+
+ thew1tness,     tt,        <Channel name: shadowkekw>,       2024-11-07 10:37:18.269990 
+
+ thew1tness,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.606950 
+
+ thew1tness,     ttColumbia,        <Channel name: shadowkekw>,       2024-11-07 10:37:36.096620 
+
+ thew1tness,     tt,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.086409 
+
+ thew1tness,     St Kitts,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.971608 
+
+ thew1tness,     Curacau,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.562064 
+
+ thew1tness,     St Kittis,        <Channel name: shadowkekw>,       2024-11-07 10:38:37.191299 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.414572 
+
+ thew1tness,     St Kitts,        <Channel name: shadowkekw>,       2024-11-07 10:40:13.735350 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.647179 
+
+ thew1tness,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.375673 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:42:22.692048 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.100749 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.752101 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:43:35.658175 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.030471 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.366993 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.876532 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.609846 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:45:05.712044 
+
+ thew1tness,     o,        <Channel name: shadowkekw>,       2024-11-07 10:45:27.450125 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:45:48.281109 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.039597 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.754650 
+
+ thew1tness,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.885720 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.445649 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:47:50.383028 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.661693 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.552482 
+
+ thew1tness,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:49:09.524460 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:49:28.638489 
+
+ thew1tness,     Barbados,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.881934 
+
+ thew1tness,     h,        <Channel name: shadowkekw>,       2024-11-07 10:52:14.411545 
+
+ thew1tness,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 10:52:40.806416 
+
+ thew1tness,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.712249 
+
+ thew1tness,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.300887 
+
+ thew1tness,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.292248 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:55:40.865890 
+
+ thew1tness,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.164341 
+
+ thew1tness,     CUracao,        <Channel name: shadowkekw>,       2024-11-07 10:57:34.494428 
+
+ thew1tness,     tt,        <Channel name: shadowkekw>,       2024-11-07 11:09:35.594085 
+
+ thew1tness,     52,        <Channel name: shadowkekw>,       2024-11-07 11:37:15.859650 
+
+ thew1tness,     SHADOW U R INSANE WW RUSSIAN STONG GUY WW MORE WW YA RUSKIY KSTA,        <Channel name: shadowkekw>,       2024-11-07 11:40:36.530366 
+
+ thew1tness,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:40:59.464403 
+
+ thew1tness,     SHADOW U R INSANE WW RUSSIAN STONG GUY WW MORE WW YA RUSKIY KSTA,        <Channel name: shadowkekw>,       2024-11-07 11:41:19.385994 
+
+ thew1tness,     BOOBA,        <Channel name: shadowkekw>,       2024-11-07 11:45:48.212315 
+
+ thew1tness,     wow,        <Channel name: shadowkekw>,       2024-11-07 11:51:59.829857 
+
+ thew1tness,     mili,        <Channel name: shadowkekw>,       2024-11-07 11:52:09.357404 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:55:17.508713 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:55:24.593705 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:55:31.639508 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:55:42.589128 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:56:11.433001 
+
+ thew1tness,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:56:36.280130 
+
+ thew1tness,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:06:37.833928 
+
+ thew1tness,     sDr,        <Channel name: shadowkekw>,       2024-11-07 12:08:12.903517 
+
+ thew1tness,     sex,        <Channel name: shadowkekw>,       2024-11-07 12:09:04.693332 
+
+ thew1tness,     hi,        <Channel name: shadowkekw>,       2024-11-07 12:10:26.285213 
+
+ thew1tness,     scary,        <Channel name: shadowkekw>,       2024-11-07 12:10:47.954267 
+
+ thew1tness,     scared,        <Channel name: shadowkekw>,       2024-11-07 12:10:58.674188 
+
+ thew1tness,     ZAZA,        <Channel name: shadowkekw>,       2024-11-07 12:11:43.580661 
+
+ thew1tness,     okak,        <Channel name: shadowkekw>,       2024-11-07 12:12:36.148964 
+
+ thew1tness,     aga,        <Channel name: shadowkekw>,       2024-11-07 12:12:46.159008 
+
+ thew1tness,     okak,        <Channel name: shadowkekw>,       2024-11-07 12:14:04.623778 
+
+ thew1tness,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:19:11.203485 
+
+ thew1tness,     dons,        <Channel name: shadowkekw>,       2024-11-07 12:20:40.135462 
+
+ thew1tness,     dons dons dons,        <Channel name: shadowkekw>,       2024-11-07 12:21:02.957719 
+
+ thew1tness,     dons dons dons,        <Channel name: shadowkekw>,       2024-11-07 12:21:57.042357 
+
+ thew1tness,     fact,        <Channel name: shadowkekw>,       2024-11-07 12:22:44.312790 
+
+ thew1tness,     okak,        <Channel name: shadowkekw>,       2024-11-07 12:26:20.460176 
+
+ thew1tness,     dons,        <Channel name: shadowkekw>,       2024-11-07 12:38:33.941286 
+
+ thew1tness,     dons dons dons,        <Channel name: shadowkekw>,       2024-11-07 12:39:25.640935 
+
+ thew1tness,     89,        <Channel name: shadowkekw>,       2024-11-07 12:40:07.566189 
+
+ thew1tness,     okak,        <Channel name: shadowkekw>,       2024-11-07 12:40:40.558584 
+
+ thew1tness,     dons,        <Channel name: shadowkekw>,       2024-11-07 12:45:18.496370 
+
+ thew1tness,     dons dons dons,        <Channel name: shadowkekw>,       2024-11-07 12:45:44.482127 
+
+ thew1tness,     ban,        <Channel name: shadowkekw>,       2024-11-07 12:47:11.966081 
+
+ thew1tness,     bye,        <Channel name: shadowkekw>,       2024-11-07 12:47:44.798595 
+
+ thew1tness,     dons,        <Channel name: shadowkekw>,       2024-11-07 12:53:43.746849 

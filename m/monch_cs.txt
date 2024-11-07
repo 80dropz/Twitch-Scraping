@@ -16,3 +16,5 @@
  monch_cs,     probably certain programs on your pc that don’t open on start up so you gotta manually start them,        <Channel name: nadeshot>,       2024-11-07 02:46:58.956108 
 
  monch_cs,     lmao,        <Channel name: nadeshot>,       2024-11-07 02:49:32.526008 
+
+ monch_cs,     whats up GlizzyShot,        <Channel name: nadeshot>,       2024-11-07 13:27:59.955421 

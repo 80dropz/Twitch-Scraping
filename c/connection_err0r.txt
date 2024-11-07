@@ -1,0 +1,10 @@
+
+ connection_err0r,     lmao,        <Channel name: nadeshot>,       2024-11-07 12:11:39.435812 
+
+ connection_err0r,     DON'T LET ME GOON MURPH,        <Channel name: nadeshot>,       2024-11-07 12:15:26.943740 
+
+ connection_err0r,     hey,        <Channel name: nadeshot>,       2024-11-07 12:16:57.436692 
+
+ connection_err0r,     we need a sleepy Nadeshot emote,        <Channel name: nadeshot>,       2024-11-07 12:17:36.010647 
+
+ connection_err0r,     no,        <Channel name: nadeshot>,       2024-11-07 12:35:36.730945 

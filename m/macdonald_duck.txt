@@ -1,0 +1,4 @@
+
+ macdonald_duck,     +REP,        <Channel name: shadowkekw>,       2024-11-07 12:28:15.752559 
+
+ macdonald_duck,     w,        <Channel name: shadowkekw>,       2024-11-07 12:28:53.079368 

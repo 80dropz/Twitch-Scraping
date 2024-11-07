@@ -1,0 +1,44 @@
+
+ 4exxx_,     china,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.623398 
+
+ 4exxx_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.314323 
+
+ 4exxx_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.690694 
+
+ 4exxx_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.524856 
+
+ 4exxx_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:56:52.250415 
+
+ 4exxx_,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.726355 
+
+ 4exxx_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:59:02.088608 
+
+ 4exxx_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:00:51.893923 
+
+ 4exxx_,     cuba,        <Channel name: shadowkekw>,       2024-11-07 11:01:52.042533 
+
+ 4exxx_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.033263 
+
+ 4exxx_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:05:11.834075 
+
+ 4exxx_,     China,        <Channel name: shadowkekw>,       2024-11-07 11:07:10.222633 
+
+ 4exxx_,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.538736 
+
+ 4exxx_,     France,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.765073 
+
+ 4exxx_,     Czech,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.943458 
+
+ 4exxx_,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:44.822785 
+
+ 4exxx_,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 11:11:29.104157 
+
+ 4exxx_,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.433480 
+
+ 4exxx_,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.416803 
+
+ 4exxx_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.535608 
+
+ 4exxx_,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 11:13:56.122138 
+
+ 4exxx_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:14:14.406565 

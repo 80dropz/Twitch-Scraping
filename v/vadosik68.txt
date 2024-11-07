@@ -1,0 +1,24 @@
+
+ vadosik68,     Miami,        <Channel name: shadowkekw>,       2024-11-07 10:12:52.844739 
+
+ vadosik68,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:13:13.511402 
+
+ vadosik68,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:14:04.056261 
+
+ vadosik68,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:14.636953 
+
+ vadosik68,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:33.057067 
+
+ vadosik68,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:16:27.194993 
+
+ vadosik68,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:17:11.744600 
+
+ vadosik68,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.294618 
+
+ vadosik68,     gc,        <Channel name: shadowkekw>,       2024-11-07 10:18:17.198251 
+
+ vadosik68,     ND,        <Channel name: shadowkekw>,       2024-11-07 10:18:33.704265 
+
+ vadosik68,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:18:34.736655 
+
+ vadosik68,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:19:20.332256 

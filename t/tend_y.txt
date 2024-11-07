@@ -1,0 +1,6 @@
+
+ tend_y,     w,        <Channel name: kaicenat>,       2024-11-07 10:20:03.279923 
+
+ tend_y,     WWW,        <Channel name: kaicenat>,       2024-11-07 10:20:07.914219 
+
+ tend_y,     WWW,        <Channel name: kaicenat>,       2024-11-07 10:33:32.102630 

@@ -1,0 +1,4 @@
+
+ belamira2022,     cell,        <Channel name: megalodonvt>,       2024-11-07 10:38:08.555477 
+
+ belamira2022,     lard,        <Channel name: megalodonvt>,       2024-11-07 10:40:20.734426 

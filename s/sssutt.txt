@@ -1,0 +1,60 @@
+
+ sssutt,     mexica,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.106102 
+
+ sssutt,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:46:41.753816 
+
+ sssutt,     yemen',        <Channel name: shadowkekw>,       2024-11-07 10:47:18.567229 
+
+ sssutt,     netherland,        <Channel name: shadowkekw>,       2024-11-07 10:48:02.320955 
+
+ sssutt,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:48:20.415891 
+
+ sssutt,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:07.497868 
+
+ sssutt,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.442861 
+
+ sssutt,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:49:52.662469 
+
+ sssutt,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:51:05.313163 
+
+ sssutt,     china,        <Channel name: shadowkekw>,       2024-11-07 10:51:58.609813 
+
+ sssutt,     maldivi,        <Channel name: shadowkekw>,       2024-11-07 10:52:21.415165 
+
+ sssutt,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:55.431434 
+
+ sssutt,     huinya,        <Channel name: shadowkekw>,       2024-11-07 10:53:21.418187 
+
+ sssutt,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:54:01.014969 
+
+ sssutt,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:54:47.840483 
+
+ sssutt,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:10.048873 
+
+ sssutt,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.321345 
+
+ sssutt,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:56:13.488386 
+
+ sssutt,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:56:42.228254 
+
+ sssutt,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:57:39.665111 
+
+ sssutt,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:20.216574 
+
+ sssutt,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:59:13.109384 
+
+ sssutt,     bebra,        <Channel name: shadowkekw>,       2024-11-07 11:00:24.854105 
+
+ sssutt,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:01:05.669680 
+
+ sssutt,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:23.476842 
+
+ sssutt,     malta,        <Channel name: shadowkekw>,       2024-11-07 11:02:01.710374 
+
+ sssutt,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:03:20.076860 
+
+ sssutt,     africa,        <Channel name: shadowkekw>,       2024-11-07 11:04:14.298459 
+
+ sssutt,     giorgia,        <Channel name: shadowkekw>,       2024-11-07 11:05:12.914821 
+
+ sssutt,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:05:42.008439 

@@ -1,0 +1,6 @@
+
+ grizzly_fe1,     two fully loaded breakfast burritos,        <Channel name: swagg>,       2024-11-07 12:56:26.381541 
+
+ grizzly_fe1,     fry chicken corn bread,        <Channel name: swagg>,       2024-11-07 13:02:51.929982 
+
+ grizzly_fe1,     kool aid,        <Channel name: swagg>,       2024-11-07 13:03:03.503945 

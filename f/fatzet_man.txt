@@ -1,0 +1,302 @@
+
+ fatzet_man,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.529417 
+
+ fatzet_man,     ew zealand,        <Channel name: shadowkekw>,       2024-11-07 10:09:30.703684 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:47.467661 
+
+ fatzet_man,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:09:53.626415 
+
+ fatzet_man,     agladesh,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.819573 
+
+ fatzet_man,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:11:42.614556 
+
+ fatzet_man,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:26.536236 
+
+ fatzet_man,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:13:08.375779 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:19:47.399625 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.423665 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:20:44.989208 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.067372 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:22:19.021534 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.670877 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:23:11.660011 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:23:31.893843 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:24:11.173874 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:35.882012 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:25:07.976418 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:25:27.303405 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:25:47.697222 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:26:03.883758 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.619790 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:26:32.450822 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:26:47.819411 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.403221 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:27:12.106082 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:27:28.174657 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.082302 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:29:11.032335 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:29:20.719790 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:29:42.993056 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:30:28.330073 
+
+ fatzet_man,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.977526 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:30:42.713793 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.500497 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.305717 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.747456 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:31:23.885714 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.419740 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.359416 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:31:42.142400 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:31:52.079699 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:32:03.025267 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:32:12.614297 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.211469 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.426495 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:32:44.497029 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.722213 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:32:59.818642 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.441173 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:33:03.830306 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:33:05.193440 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:33:29.011720 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:33:31.072500 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.048697 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.531905 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:33:58.924026 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.239256 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.464508 
+
+ fatzet_man,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:04.905267 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:34:12.946108 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.234581 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:34:37.383812 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:40.233342 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.264034 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:35:04.167619 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:35:06.393914 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.601573 
+
+ fatzet_man,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:35:11.080217 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:35:14.930875 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:35:30.848660 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:35:34.544172 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.616128 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:35:53.526543 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:35:55.390938 
+
+ fatzet_man,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.971683 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.869749 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:36:17.552035 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.265415 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.656687 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:36:46.303675 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:36:51.893324 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:36:53.842270 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.651802 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.052340 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.770108 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.499341 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.296224 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:37:31.064632 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.553369 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:37:51.758184 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.019213 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.588204 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:38:16.140215 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:38:17.465072 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:38:42.959222 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.989745 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.490728 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:38:49.280810 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:39:01.137688 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:39:02.507206 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.061958 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:39:15.718432 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:39:17.989956 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.407867 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:39:39.213143 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:39:42.114633 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.398915 
+
+ fatzet_man,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:39:49.444524 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:40:07.949914 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:40:13.646855 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.047460 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.062184 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.572562 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.863750 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:41:20.530148 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.215552 
+
+ fatzet_man,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.428764 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.011713 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.020631 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:42:04.866116 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:42:06.706473 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.555951 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.951083 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:42:42.425150 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:42:44.001627 
+
+ fatzet_man,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:42:45.492831 
+
+ fatzet_man,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:42:46.515799 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:43:17.403237 
+
+ fatzet_man,     no,        <Channel name: shadowkekw>,       2024-11-07 10:44:39.757140 
+
+ fatzet_man,     npec,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.337015 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:45:02.757104 
+
+ fatzet_man,     no,        <Channel name: shadowkekw>,       2024-11-07 10:45:23.989724 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:45:44.720119 
+
+ fatzet_man,     no,        <Channel name: shadowkekw>,       2024-11-07 10:45:58.860058 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.259416 
+
+ fatzet_man,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:46:40.196022 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:46:58.637075 
+
+ fatzet_man,     no,        <Channel name: shadowkekw>,       2024-11-07 10:47:24.223443 
+
+ fatzet_man,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.720493 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:48:00.142324 
+
+ fatzet_man,     np,        <Channel name: shadowkekw>,       2024-11-07 10:49:42.028850 
+
+ fatzet_man,     om,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.018998 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:50:29.937552 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.594939 
+
+ fatzet_man,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:06:13.008835 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 11:06:24.452127 
+
+ fatzet_man,     np,        <Channel name: shadowkekw>,       2024-11-07 11:06:55.143452 
+
+ fatzet_man,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:07:02.315670 
+
+ fatzet_man,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 11:09:24.654889 

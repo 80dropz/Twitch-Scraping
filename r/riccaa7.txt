@@ -1,0 +1,6 @@
+
+ riccaa7,     !orgen,        <Channel name: mongraal>,       2024-11-07 10:01:20.230627 
+
+ riccaa7,     !aggin,        <Channel name: mongraal>,       2024-11-07 10:01:33.119284 
+
+ riccaa7,     hui vrot,        <Channel name: mongraal>,       2024-11-07 10:01:58.945228 

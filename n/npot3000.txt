@@ -1,0 +1,2 @@
+
+ npot3000,     PRE MCL TEAR,        <Channel name: lacy>,       2024-11-07 12:39:17.253597 

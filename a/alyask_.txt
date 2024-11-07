@@ -1,0 +1,44 @@
+
+ alyask_,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:27:51.876899 
+
+ alyask_,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:52.926135 
+
+ alyask_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.439997 
+
+ alyask_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:03.561006 
+
+ alyask_,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:36.780503 
+
+ alyask_,     arabic,        <Channel name: shadowkekw>,       2024-11-07 10:50:13.466287 
+
+ alyask_,     livan,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.245610 
+
+ alyask_,     philipines,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.253331 
+
+ alyask_,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.175449 
+
+ alyask_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:56:09.708562 
+
+ alyask_,     moroco,        <Channel name: shadowkekw>,       2024-11-07 10:57:29.235727 
+
+ alyask_,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:13.875716 
+
+ alyask_,     ai,        <Channel name: shadowkekw>,       2024-11-07 11:02:10.695445 
+
+ alyask_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:04:41.474616 
+
+ alyask_,     dominic republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.899632 
+
+ alyask_,     dominic republic,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.079631 
+
+ alyask_,     fin,        <Channel name: shadowkekw>,       2024-11-07 11:10:19.762128 
+
+ alyask_,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:05.947366 
+
+ alyask_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:12:27.319343 
+
+ alyask_,     morocco,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.109599 
+
+ alyask_,     br,        <Channel name: shadowkekw>,       2024-11-07 11:12:54.936044 
+
+ alyask_,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:13:36.159902 

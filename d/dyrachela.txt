@@ -2,3 +2,225 @@
  dyrachela,     )),        <Channel name: shadowkekw>,       2024-11-07 09:11:31.156529 
 
  dyrachela,     38,        <Channel name: shadowkekw>,       2024-11-07 09:37:23.132758 
+
+ dyrachela,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:48.984612 
+
+ dyrachela,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:06:38.558799 
+
+ dyrachela,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:09:26.869157 
+
+ dyrachela,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:53.317844 
+
+ dyrachela,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:47.564581 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:14:50.338086 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.497128 
+
+ dyrachela,     am,        <Channel name: shadowkekw>,       2024-11-07 10:16:33.002799 
+
+ dyrachela,     et,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.149594 
+
+ dyrachela,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.389525 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.522122 
+
+ dyrachela,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:18:57.772064 
+
+ dyrachela,     au,        <Channel name: shadowkekw>,       2024-11-07 10:19:32.336561 
+
+ dyrachela,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.440859 
+
+ dyrachela,     au,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.835992 
+
+ dyrachela,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.450957 
+
+ dyrachela,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:21:26.873475 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:22:29.510283 
+
+ dyrachela,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:23:36.119718 
+
+ dyrachela,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:24:21.380154 
+
+ dyrachela,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.308345 
+
+ dyrachela,     auco,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.127572 
+
+ dyrachela,     lr,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.592793 
+
+ dyrachela,     la,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.196675 
+
+ dyrachela,     lk,        <Channel name: shadowkekw>,       2024-11-07 10:28:42.738939 
+
+ dyrachela,     lr,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.621441 
+
+ dyrachela,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:28:49.874816 
+
+ dyrachela,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.220573 
+
+ dyrachela,     au,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.294345 
+
+ dyrachela,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.462709 
+
+ dyrachela,     ma,        <Channel name: shadowkekw>,       2024-11-07 10:29:46.042996 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:29:50.592504 
+
+ dyrachela,     dfas][,        <Channel name: shadowkekw>,       2024-11-07 10:30:01.780564 
+
+ dyrachela,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.018585 
+
+ dyrachela,     mp,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.198402 
+
+ dyrachela,     mq,        <Channel name: shadowkekw>,       2024-11-07 10:30:14.924965 
+
+ dyrachela,     mc,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.892340 
+
+ dyrachela,     me,        <Channel name: shadowkekw>,       2024-11-07 10:30:20.801450 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.896265 
+
+ dyrachela,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:50.100540 
+
+ dyrachela,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.418041 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.301296 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:34:47.449117 
+
+ dyrachela,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.078171 
+
+ dyrachela,     au,        <Channel name: shadowkekw>,       2024-11-07 10:37:45.148294 
+
+ dyrachela,     co,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.466523 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:38:31.010159 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.362137 
+
+ dyrachela,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.743556 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.775648 
+
+ dyrachela,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:40:26.146304 
+
+ dyrachela,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.444282 
+
+ dyrachela,     au,        <Channel name: shadowkekw>,       2024-11-07 10:43:00.725765 
+
+ dyrachela,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.700529 
+
+ dyrachela,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.039388 
+
+ dyrachela,     it,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.955554 
+
+ dyrachela,     botswana,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.620455 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.414828 
+
+ dyrachela,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:47:48.958082 
+
+ dyrachela,     id,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.169474 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.806460 
+
+ dyrachela,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.249469 
+
+ dyrachela,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:49:17.401218 
+
+ dyrachela,     ao,        <Channel name: shadowkekw>,       2024-11-07 10:49:42.222024 
+
+ dyrachela,     co,        <Channel name: shadowkekw>,       2024-11-07 10:50:18.676173 
+
+ dyrachela,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:50:56.626337 
+
+ dyrachela,     za,        <Channel name: shadowkekw>,       2024-11-07 10:51:22.838762 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:52:11.422816 
+
+ dyrachela,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.869481 
+
+ dyrachela,     tz,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.180422 
+
+ dyrachela,     no,        <Channel name: shadowkekw>,       2024-11-07 10:56:02.742410 
+
+ dyrachela,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.467243 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:31.022932 
+
+ dyrachela,     no,        <Channel name: shadowkekw>,       2024-11-07 11:01:16.306061 
+
+ dyrachela,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:01:32.736850 
+
+ dyrachela,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:02:36.317242 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:03:49.974182 
+
+ dyrachela,     bw,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.123377 
+
+ dyrachela,     im,        <Channel name: shadowkekw>,       2024-11-07 11:05:09.055462 
+
+ dyrachela,     fi,        <Channel name: shadowkekw>,       2024-11-07 11:06:07.705955 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:07:48.735742 
+
+ dyrachela,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.959584 
+
+ dyrachela,     a,        <Channel name: shadowkekw>,       2024-11-07 11:08:34.348357 
+
+ dyrachela,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:17.616045 
+
+ dyrachela,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:10:30.262932 
+
+ dyrachela,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:11:06.716370 
+
+ dyrachela,     im,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.572874 
+
+ dyrachela,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:11:52.802096 
+
+ dyrachela,     co,        <Channel name: shadowkekw>,       2024-11-07 11:12:24.594374 
+
+ dyrachela,     uy,        <Channel name: shadowkekw>,       2024-11-07 11:12:26.692095 
+
+ dyrachela,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:12:36.974318 
+
+ dyrachela,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.259571 
+
+ dyrachela,     re,        <Channel name: shadowkekw>,       2024-11-07 11:12:45.663858 
+
+ dyrachela,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.327569 
+
+ dyrachela,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:13:22.344717 
+
+ dyrachela,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:13:57.629300 
+
+ dyrachela,     do,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.915351 
+
+ dyrachela,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:16:53.047002 
+
+ dyrachela,     )),        <Channel name: shadowkekw>,       2024-11-07 11:28:12.740876 
+
+ dyrachela,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:35:22.368680 
+
+ dyrachela,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:49:30.306103 
+
+ dyrachela,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:30.613184 
+
+ dyrachela,     as[f][as][asfasf],        <Channel name: shadowkekw>,       2024-11-07 12:01:04.422485 
+
+ dyrachela,     asf][asf][asf][asf][asf][asf][asf][asf][af,        <Channel name: shadowkekw>,       2024-11-07 12:01:06.691659 
+
+ dyrachela,     20:46:26 FeelsSunnyMan: he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:22.035174 
+
+ dyrachela,     20:46:26  FeelsSunnyMan: he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:25.458499 
+
+ dyrachela,     O HET,        <Channel name: shadowkekw>,       2024-11-07 12:09:40.598467 
+
+ dyrachela,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:51.921951 
+
+ dyrachela,     )),        <Channel name: shadowkekw>,       2024-11-07 12:16:32.986042 
+
+ dyrachela,     CLIX,        <Channel name: shadowkekw>,       2024-11-07 12:25:44.437899 
+
+ dyrachela,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:53:54.268557 

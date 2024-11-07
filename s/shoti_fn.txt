@@ -1,0 +1,4 @@
+
+ shoti_fn,     !pc,        <Channel name: mongraal>,       2024-11-07 13:23:26.938629 
+
+ shoti_fn,     !setup,        <Channel name: mongraal>,       2024-11-07 13:24:32.365942 

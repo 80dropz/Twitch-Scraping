@@ -1,0 +1,16 @@
+
+ krispysteez,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:14:30.350001 
+
+ krispysteez,     !roulette 10,000,        <Channel name: kaicenat>,       2024-11-07 10:15:09.811643 
+
+ krispysteez,     !roulette 10k,        <Channel name: kaicenat>,       2024-11-07 10:15:39.290142 
+
+ krispysteez,     !points,        <Channel name: kaicenat>,       2024-11-07 10:16:10.343799 
+
+ krispysteez,     !roulette 2k,        <Channel name: kaicenat>,       2024-11-07 10:16:24.674343 
+
+ krispysteez,     !roulette 2k,        <Channel name: kaicenat>,       2024-11-07 10:17:12.193143 
+
+ krispysteez,     !followage,        <Channel name: kaicenat>,       2024-11-07 10:17:24.053680 
+
+ krispysteez,     !roulette 2k,        <Channel name: kaicenat>,       2024-11-07 10:17:56.369346 

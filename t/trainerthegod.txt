@@ -1,0 +1,12 @@
+
+ trainerthegod,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:52:04.248849 
+
+ trainerthegod,     !roulette10,        <Channel name: kaicenat>,       2024-11-07 09:52:08.543622 
+
+ trainerthegod,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:52:14.248265 
+
+ trainerthegod,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:23:35.636134 
+
+ trainerthegod,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:24:02.090818 
+
+ trainerthegod,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:24:10.505241 

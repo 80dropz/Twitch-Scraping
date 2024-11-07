@@ -38,3 +38,35 @@
  fake_jaedyn,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:48:14.060196 
 
  fake_jaedyn,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:49:05.982374 
+
+ fake_jaedyn,     WW 229K,        <Channel name: kaicenat>,       2024-11-07 11:30:41.137478 
+
+ fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 11:31:19.049549 
+
+ fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 11:45:40.461946 
+
+ fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 11:47:02.708610 
+
+ fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 12:47:23.004723 
+
+ fake_jaedyn,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:48:54.652858 
+
+ fake_jaedyn,     WW 230k kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 12:49:25.858260 
+
+ fake_jaedyn,     OMG,        <Channel name: kaicenat>,       2024-11-07 13:00:39.606779 
+
+ fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 13:06:17.364725 
+
+ fake_jaedyn,     gg,        <Channel name: kaicenat>,       2024-11-07 13:06:24.480198 
+
+ fake_jaedyn,     get the mic and his phone,        <Channel name: kaicenat>,       2024-11-07 13:16:33.785882 
+
+ fake_jaedyn,     sold,        <Channel name: kaicenat>,       2024-11-07 13:24:22.465299 
+
+ fake_jaedyn,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:57.408047 
+
+ fake_jaedyn,     WW 230k,        <Channel name: kaicenat>,       2024-11-07 13:30:18.336129 
+
+ fake_jaedyn,     WW 230K kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:30:53.201864 
+
+ fake_jaedyn,     WW 230k kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:31:32.945060 

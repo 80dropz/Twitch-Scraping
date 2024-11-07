@@ -1,2 +1,10 @@
 
  roflanl_,     900,        <Channel name: shadowkekw>,       2024-11-07 09:10:51.837630 
+
+ roflanl_,     322,        <Channel name: shadowkekw>,       2024-11-07 09:58:58.757280 
+
+ roflanl_,     US,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.333785 
+
+ roflanl_,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:35:28.120632 
+
+ roflanl_,     BI,        <Channel name: shadowkekw>,       2024-11-07 10:36:12.000409 

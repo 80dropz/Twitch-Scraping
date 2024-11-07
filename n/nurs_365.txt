@@ -1,0 +1,16 @@
+
+ nurs_365,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.939642 
+
+ nurs_365,     Maiami,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.139665 
+
+ nurs_365,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.482720 
+
+ nurs_365,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.596375 
+
+ nurs_365,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.424613 
+
+ nurs_365,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.367432 
+
+ nurs_365,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.561711 
+
+ nurs_365,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.896923 

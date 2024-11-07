@@ -8,3 +8,7 @@
  isaa2021,     wwwww,        <Channel name: clix>,       2024-11-07 02:39:08.055907 
 
  isaa2021,     full cammm,        <Channel name: clix>,       2024-11-07 02:42:53.155462 
+
+ isaa2021,     Ripglases,        <Channel name: clix>,       2024-11-07 10:20:13.036301 
+
+ isaa2021,     Nooo,        <Channel name: clix>,       2024-11-07 12:45:55.639221 

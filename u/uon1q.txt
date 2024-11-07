@@ -1,0 +1,16 @@
+
+ uon1q,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:06:42.839221 
+
+ uon1q,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:07:01.399970 
+
+ uon1q,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:07:22.155468 
+
+ uon1q,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:33.164166 
+
+ uon1q,     FInland,        <Channel name: shadowkekw>,       2024-11-07 10:09:28.097111 
+
+ uon1q,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.047989 
+
+ uon1q,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:12:42.428657 
+
+ uon1q,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.645490 

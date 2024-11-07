@@ -1,0 +1,4 @@
+
+ miliwave,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 10:15:52.883405 
+
+ miliwave,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 10:19:39.833527 

@@ -1,0 +1,22 @@
+
+ sqdlleer,     vatikan,        <Channel name: shadowkekw>,       2024-11-07 10:19:21.883780 
+
+ sqdlleer,     vaticam,        <Channel name: shadowkekw>,       2024-11-07 10:19:24.137324 
+
+ sqdlleer,     europe,        <Channel name: shadowkekw>,       2024-11-07 10:35:45.736531 
+
+ sqdlleer,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.871624 
+
+ sqdlleer,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.557469 
+
+ sqdlleer,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:37:43.090826 
+
+ sqdlleer,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.523091 
+
+ sqdlleer,     china,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.284710 
+
+ sqdlleer,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.660714 
+
+ sqdlleer,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.820704 
+
+ sqdlleer,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.353700 

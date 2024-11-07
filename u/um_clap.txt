@@ -1,0 +1,4 @@
+
+ um_clap,     !res,        <Channel name: mongraal>,       2024-11-07 11:25:59.571570 
+
+ um_clap,     !res,        <Channel name: clix>,       2024-11-07 11:26:20.419903 

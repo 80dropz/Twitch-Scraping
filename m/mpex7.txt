@@ -1,0 +1,6 @@
+
+ mpex7,     !watchtime @value1x,        <Channel name: clix>,       2024-11-07 11:02:29.667858 
+
+ mpex7,     !watchtime value1x,        <Channel name: clix>,       2024-11-07 11:02:40.384658 
+
+ mpex7,     @value1x oh ok,        <Channel name: clix>,       2024-11-07 11:02:51.531037 

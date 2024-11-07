@@ -1,0 +1,6 @@
+
+ yarik2266,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:52:14.991341 
+
+ yarik2266,     !roulette 50000,        <Channel name: kaicenat>,       2024-11-07 09:52:24.193882 
+
+ yarik2266,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:52:37.885700 

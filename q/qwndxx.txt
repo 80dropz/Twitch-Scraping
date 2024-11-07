@@ -1,2 +1,30 @@
 
  qwndxx,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:32:44.186082 
+
+ qwndxx,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:06:35.037668 
+
+ qwndxx,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:06:39.760463 
+
+ qwndxx,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:06:56.988554 
+
+ qwndxx,     us,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.661101 
+
+ qwndxx,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.181292 
+
+ qwndxx,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.436842 
+
+ qwndxx,     us,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.274884 
+
+ qwndxx,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:10:38.841542 
+
+ qwndxx,     us,        <Channel name: shadowkekw>,       2024-11-07 10:12:37.979383 
+
+ qwndxx,     3,        <Channel name: shadowkekw>,       2024-11-07 10:13:37.561768 
+
+ qwndxx,     au,        <Channel name: shadowkekw>,       2024-11-07 10:17:55.457096 
+
+ qwndxx,     us,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.510473 
+
+ qwndxx,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.601178 
+
+ qwndxx,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.716987 

@@ -1,0 +1,52 @@
+
+ fanavangardtv,     1,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.444416 
+
+ fanavangardtv,     2,        <Channel name: shadowkekw>,       2024-11-07 10:27:31.080494 
+
+ fanavangardtv,     3,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.306971 
+
+ fanavangardtv,     4,        <Channel name: shadowkekw>,       2024-11-07 10:27:34.550967 
+
+ fanavangardtv,     5,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.599125 
+
+ fanavangardtv,     6,        <Channel name: shadowkekw>,       2024-11-07 10:27:42.941367 
+
+ fanavangardtv,     12,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.913103 
+
+ fanavangardtv,     13,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.992091 
+
+ fanavangardtv,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:29:37.376209 
+
+ fanavangardtv,     ukraina,        <Channel name: shadowkekw>,       2024-11-07 10:29:54.648919 
+
+ fanavangardtv,     cina,        <Channel name: shadowkekw>,       2024-11-07 10:30:01.963328 
+
+ fanavangardtv,     swiden,        <Channel name: shadowkekw>,       2024-11-07 10:30:25.666289 
+
+ fanavangardtv,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:41.812077 
+
+ fanavangardtv,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:59.032431 
+
+ fanavangardtv,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:18.203395 
+
+ fanavangardtv,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:40.307151 
+
+ fanavangardtv,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.278184 
+
+ fanavangardtv,     cina,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.224636 
+
+ fanavangardtv,     kiev,        <Channel name: shadowkekw>,       2024-11-07 10:33:23.034282 
+
+ fanavangardtv,     ukraina,        <Channel name: shadowkekw>,       2024-11-07 10:33:27.988625 
+
+ fanavangardtv,     berlin,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.833811 
+
+ fanavangardtv,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.770280 
+
+ fanavangardtv,     france,        <Channel name: shadowkekw>,       2024-11-07 10:34:34.275966 
+
+ fanavangardtv,     kingo,        <Channel name: shadowkekw>,       2024-11-07 10:35:00.742824 
+
+ fanavangardtv,     en,        <Channel name: shadowkekw>,       2024-11-07 10:35:22.732570 
+
+ fanavangardtv,     cina,        <Channel name: shadowkekw>,       2024-11-07 10:36:10.491405 

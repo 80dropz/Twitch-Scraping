@@ -2,3 +2,7 @@
  rosliktopchel,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:32:56.803759 
 
  rosliktopchel,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:33:16.346464 
+
+ rosliktopchel,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:53:23.901559 
+
+ rosliktopchel,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:21.349070 

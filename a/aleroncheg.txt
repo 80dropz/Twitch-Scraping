@@ -1,0 +1,16 @@
+
+ aleroncheg,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:07:49.602647 
+
+ aleroncheg,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:39.260366 
+
+ aleroncheg,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:53.946805 
+
+ aleroncheg,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.111187 
+
+ aleroncheg,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:00.673783 
+
+ aleroncheg,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:25.373628 
+
+ aleroncheg,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:44.494119 
+
+ aleroncheg,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:47.373538 

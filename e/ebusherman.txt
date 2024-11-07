@@ -1,0 +1,30 @@
+
+ ebusherman,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.785811 
+
+ ebusherman,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:08:52.093616 
+
+ ebusherman,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:30.359936 
+
+ ebusherman,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:23.021134 
+
+ ebusherman,     czech,        <Channel name: shadowkekw>,       2024-11-07 10:11:09.670310 
+
+ ebusherman,     Moldavia,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.980439 
+
+ ebusherman,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:12:27.529492 
+
+ ebusherman,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:42.441657 
+
+ ebusherman,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:12:47.277313 
+
+ ebusherman,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:13:52.716447 
+
+ ebusherman,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:14:30.191275 
+
+ ebusherman,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.765525 
+
+ ebusherman,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.830782 
+
+ ebusherman,     mali,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.209652 
+
+ ebusherman,     kirgizstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:29.495306 

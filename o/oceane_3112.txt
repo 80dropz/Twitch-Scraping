@@ -1,0 +1,8 @@
+
+ oceane_3112,     !time,        <Channel name: kaicenat>,       2024-11-07 10:08:35.325099 
+
+ oceane_3112,     !time,        <Channel name: kaicenat>,       2024-11-07 11:26:50.747672 
+
+ oceane_3112,     lets goo,        <Channel name: kaicenat>,       2024-11-07 11:28:16.625173 
+
+ oceane_3112,     !time,        <Channel name: kaicenat>,       2024-11-07 13:24:47.310410 

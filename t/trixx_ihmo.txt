@@ -1,0 +1,2 @@
+
+ trixx_ihmo,     !trio,        <Channel name: mongraal>,       2024-11-07 11:51:03.084074 

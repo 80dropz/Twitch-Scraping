@@ -1,0 +1,38 @@
+
+ joyka_1337,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:12.979140 
+
+ joyka_1337,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:09:56.327679 
+
+ joyka_1337,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:45.104611 
+
+ joyka_1337,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:11:02.841929 
+
+ joyka_1337,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:11:20.760931 
+
+ joyka_1337,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.661356 
+
+ joyka_1337,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:00.475667 
+
+ joyka_1337,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.661772 
+
+ joyka_1337,     Ua,        <Channel name: shadowkekw>,       2024-11-07 10:12:21.275550 
+
+ joyka_1337,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:12:29.391676 
+
+ joyka_1337,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.702770 
+
+ joyka_1337,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:32.934624 
+
+ joyka_1337,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:15:00.355672 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:16:14.120563 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:17:42.160642 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.709475 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.806800 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:19:33.917082 
+
+ joyka_1337,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.406868 

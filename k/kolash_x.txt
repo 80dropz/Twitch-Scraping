@@ -1,0 +1,96 @@
+
+ kolash_x,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:31:20.792061 
+
+ kolash_x,     India,        <Channel name: shadowkekw>,       2024-11-07 10:31:39.564292 
+
+ kolash_x,     india,        <Channel name: shadowkekw>,       2024-11-07 10:32:38.619620 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:32:56.991376 
+
+ kolash_x,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.416258 
+
+ kolash_x,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:33.110719 
+
+ kolash_x,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:35:49.814337 
+
+ kolash_x,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.324736 
+
+ kolash_x,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.834881 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.131172 
+
+ kolash_x,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:38:38.426736 
+
+ kolash_x,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:40:30.026434 
+
+ kolash_x,     South Africa’s,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.066785 
+
+ kolash_x,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.577044 
+
+ kolash_x,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:43:10.431264 
+
+ kolash_x,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.279313 
+
+ kolash_x,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:44:12.148629 
+
+ kolash_x,     South Africa’s,        <Channel name: shadowkekw>,       2024-11-07 10:44:37.704962 
+
+ kolash_x,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:46:57.862506 
+
+ kolash_x,     India,        <Channel name: shadowkekw>,       2024-11-07 10:48:49.754408 
+
+ kolash_x,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:49:25.945647 
+
+ kolash_x,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:50:18.891078 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:50:43.907853 
+
+ kolash_x,     india,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.346542 
+
+ kolash_x,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:52:30.402720 
+
+ kolash_x,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:52:50.996302 
+
+ kolash_x,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:15.771536 
+
+ kolash_x,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:53:53.201285 
+
+ kolash_x,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.106760 
+
+ kolash_x,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:12.688619 
+
+ kolash_x,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:56:39.008499 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:57:19.295496 
+
+ kolash_x,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 10:58:01.944743 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:59:12.274710 
+
+ kolash_x,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:01:36.076469 
+
+ kolash_x,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:02:40.582923 
+
+ kolash_x,     india,        <Channel name: shadowkekw>,       2024-11-07 11:04:00.272779 
+
+ kolash_x,     Lithuanian,        <Channel name: shadowkekw>,       2024-11-07 11:05:14.952781 
+
+ kolash_x,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:06:20.750281 
+
+ kolash_x,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:07:11.680371 
+
+ kolash_x,     italia,        <Channel name: shadowkekw>,       2024-11-07 11:08:04.632619 
+
+ kolash_x,     Lithuanian,        <Channel name: shadowkekw>,       2024-11-07 11:08:40.622348 
+
+ kolash_x,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:09:59.301127 
+
+ kolash_x,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.433800 
+
+ kolash_x,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:12:44.036224 
+
+ kolash_x,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:13:03.084918 
+
+ kolash_x,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:13:34.429649 
+
+ kolash_x,     France,        <Channel name: shadowkekw>,       2024-11-07 11:14:38.380662 

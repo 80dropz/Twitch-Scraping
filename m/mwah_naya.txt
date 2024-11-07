@@ -1,0 +1,226 @@
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 10:20:45.434274 
+
+ mwah_naya,     BratChat,        <Channel name: kaicenat>,       2024-11-07 10:22:10.399945 
+
+ mwah_naya,     SUBtember,        <Channel name: kaicenat>,       2024-11-07 10:22:13.395991 
+
+ mwah_naya,     AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 10:22:15.859902 
+
+ mwah_naya,     BangbooBounce,        <Channel name: kaicenat>,       2024-11-07 10:22:16.923680 
+
+ mwah_naya,     PopGhost,        <Channel name: kaicenat>,       2024-11-07 10:22:19.189225 
+
+ mwah_naya,     Lechonk,        <Channel name: kaicenat>,       2024-11-07 10:22:26.998875 
+
+ mwah_naya,     NewRecord,        <Channel name: kaicenat>,       2024-11-07 10:22:27.673685 
+
+ mwah_naya,     SUBtember,        <Channel name: kaicenat>,       2024-11-07 10:22:29.074369 
+
+ mwah_naya,     DinoDance,        <Channel name: kaicenat>,       2024-11-07 10:22:32.980526 
+
+ mwah_naya,     AndalusianCrush,        <Channel name: kaicenat>,       2024-11-07 10:22:34.458375 
+
+ mwah_naya,     BigSad,        <Channel name: kaicenat>,       2024-11-07 10:22:37.130536 
+
+ mwah_naya,     HolidaySanta,        <Channel name: kaicenat>,       2024-11-07 10:22:41.368230 
+
+ mwah_naya,     PowerUpR,        <Channel name: kaicenat>,       2024-11-07 10:22:42.246505 
+
+ mwah_naya,     LUL,        <Channel name: kaicenat>,       2024-11-07 10:22:43.039804 
+
+ mwah_naya,     EntropyWins,        <Channel name: kaicenat>,       2024-11-07 10:22:44.469320 
+
+ mwah_naya,     TwitchUnity,        <Channel name: kaicenat>,       2024-11-07 10:22:45.294642 
+
+ mwah_naya,     Squid4,        <Channel name: kaicenat>,       2024-11-07 10:22:48.091587 
+
+ mwah_naya,     SingsNote SingsNote SingsNote,        <Channel name: kaicenat>,       2024-11-07 10:23:28.934540 
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 10:24:06.993757 
+
+ mwah_naya,     HELPPP,        <Channel name: kaicenat>,       2024-11-07 10:24:14.351350 
+
+ mwah_naya,     W GULPSSS,        <Channel name: kaicenat>,       2024-11-07 10:24:31.759552 
+
+ mwah_naya,     W GULPS,        <Channel name: kaicenat>,       2024-11-07 10:24:35.482729 
+
+ mwah_naya,     help,        <Channel name: kaicenat>,       2024-11-07 10:26:13.852940 
+
+ mwah_naya,     LMAO,        <Channel name: kaicenat>,       2024-11-07 10:26:17.805971 
+
+ mwah_naya,     WAKE THESE BLACKIES UP (I’m black),        <Channel name: kaicenat>,       2024-11-07 10:27:25.058407 
+
+ mwah_naya,     W GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:28:10.357191 
+
+ mwah_naya,     nah I’d win  face ass,        <Channel name: kaicenat>,       2024-11-07 10:29:55.567331 
+
+ mwah_naya,     WAKE UPP,        <Channel name: kaicenat>,       2024-11-07 10:30:04.528069 
+
+ mwah_naya,     WAKE UP,        <Channel name: kaicenat>,       2024-11-07 10:30:08.558874 
+
+ mwah_naya,     WAKE THE FLUCK UP,        <Channel name: kaicenat>,       2024-11-07 10:30:19.751568 
+
+ mwah_naya,     bro tired of this shit,        <Channel name: kaicenat>,       2024-11-07 10:31:13.280590 
+
+ mwah_naya,     can someone gift me please,        <Channel name: kaicenat>,       2024-11-07 10:33:00.336181 
+
+ mwah_naya,     bro left,        <Channel name: kaicenat>,       2024-11-07 10:34:41.958130 
+
+ mwah_naya,     he had to shit,        <Channel name: kaicenat>,       2024-11-07 10:34:51.412525 
+
+ mwah_naya,     STINKY ASS FEET,        <Channel name: kaicenat>,       2024-11-07 10:35:08.722269 
+
+ mwah_naya,     2,        <Channel name: kaicenat>,       2024-11-07 10:35:30.959929 
+
+ mwah_naya,     cam 2,        <Channel name: kaicenat>,       2024-11-07 10:35:54.635068 
+
+ mwah_naya,     he took a shit,        <Channel name: kaicenat>,       2024-11-07 10:39:39.593713 
+
+ mwah_naya,     HE TOOK A SHIT,        <Channel name: kaicenat>,       2024-11-07 10:39:46.735609 
+
+ mwah_naya,     wake Kai up,        <Channel name: kaicenat>,       2024-11-07 10:42:10.715038 
+
+ mwah_naya,     L CAM,        <Channel name: kaicenat>,       2024-11-07 10:42:36.899621 
+
+ mwah_naya,     WE FRIENDS THOO,        <Channel name: kaicenat>,       2024-11-07 10:43:30.377359 
+
+ mwah_naya,     Bro change camera we staring at you butt,        <Channel name: kaicenat>,       2024-11-07 10:45:04.220619 
+
+ mwah_naya,     CHANGE THE CAMERA ALL WE SEE IS YOUR GYATTTT,        <Channel name: kaicenat>,       2024-11-07 10:45:17.746708 
+
+ mwah_naya,     CHANGE THE CAMERA ALL I SEE IS YOUR GYATT,        <Channel name: kaicenat>,       2024-11-07 10:45:35.287970 
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 10:52:52.540061 
+
+ mwah_naya,     WAKE THEM UP BRO,        <Channel name: kaicenat>,       2024-11-07 10:52:58.337685 
+
+ mwah_naya,     WAKE THEM UPPP,        <Channel name: kaicenat>,       2024-11-07 10:53:12.636726 
+
+ mwah_naya,     WAKE THEM BROOOO,        <Channel name: kaicenat>,       2024-11-07 10:53:31.010743 
+
+ mwah_naya,     bro,        <Channel name: kaicenat>,       2024-11-07 10:56:55.724077 
+
+ mwah_naya,     wake him up,        <Channel name: kaicenat>,       2024-11-07 10:57:05.351606 
+
+ mwah_naya,     that’s not,        <Channel name: kaicenat>,       2024-11-07 11:00:19.465611 
+
+ mwah_naya,     WAKE THEM UPPP,        <Channel name: kaicenat>,       2024-11-07 11:00:32.384979 
+
+ mwah_naya,     WHAT,        <Channel name: kaicenat>,       2024-11-07 11:07:59.166285 
+
+ mwah_naya,     THE,        <Channel name: kaicenat>,       2024-11-07 11:08:01.792646 
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 11:08:06.114806 
+
+ mwah_naya,     YESSS WAKE THEM UPPP,        <Channel name: kaicenat>,       2024-11-07 11:08:37.734764 
+
+ mwah_naya,     WAKE THEM UPPP,        <Channel name: kaicenat>,       2024-11-07 11:08:59.768980 
+
+ mwah_naya,     W MILES,        <Channel name: kaicenat>,       2024-11-07 11:09:09.165242 
+
+ mwah_naya,     DO IT AGAIN,        <Channel name: kaicenat>,       2024-11-07 11:09:49.554655 
+
+ mwah_naya,     DO ITTT,        <Channel name: kaicenat>,       2024-11-07 11:10:07.966235 
+
+ mwah_naya,     please,        <Channel name: kaicenat>,       2024-11-07 11:10:17.245359 
+
+ mwah_naya,     BRO DO IT,        <Channel name: kaicenat>,       2024-11-07 11:10:24.528882 
+
+ mwah_naya,     WAKE UPPPPP,        <Channel name: kaicenat>,       2024-11-07 11:15:02.585868 
+
+ mwah_naya,     WAKKE UPPP,        <Channel name: kaicenat>,       2024-11-07 11:15:05.732344 
+
+ mwah_naya,     WAKE UPPP,        <Channel name: kaicenat>,       2024-11-07 11:15:08.233782 
+
+ mwah_naya,     WAKE UPP,        <Channel name: kaicenat>,       2024-11-07 11:15:11.580374 
+
+ mwah_naya,     oh,        <Channel name: kaicenat>,       2024-11-07 11:16:22.160804 
+
+ mwah_naya,     WAKE THEM UP,        <Channel name: kaicenat>,       2024-11-07 11:16:39.622157 
+
+ mwah_naya,     KAIII,        <Channel name: kaicenat>,       2024-11-07 11:19:46.663985 
+
+ mwah_naya,     get uppp,        <Channel name: kaicenat>,       2024-11-07 11:20:01.635208 
+
+ mwah_naya,     BRO,        <Channel name: kaicenat>,       2024-11-07 11:20:04.426457 
+
+ mwah_naya,     wake up beo,        <Channel name: kaicenat>,       2024-11-07 11:23:20.458851 
+
+ mwah_naya,     ITS BEEN FOREVER,        <Channel name: kaicenat>,       2024-11-07 11:23:27.098259 
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 11:23:44.835080 
+
+ mwah_naya,     GRAVE ?!?!?!,        <Channel name: kaicenat>,       2024-11-07 11:24:26.152654 
+
+ mwah_naya,     GRAVE?!?!,        <Channel name: kaicenat>,       2024-11-07 11:24:32.672151 
+
+ mwah_naya,     WAKE UP,        <Channel name: kaicenat>,       2024-11-07 11:25:08.825092 
+
+ mwah_naya,     YESSSS,        <Channel name: kaicenat>,       2024-11-07 11:25:26.023668 
+
+ mwah_naya,     YESS WAKE UP,        <Channel name: kaicenat>,       2024-11-07 11:25:29.380799 
+
+ mwah_naya,     CHAT WAKE UP,        <Channel name: kaicenat>,       2024-11-07 11:26:28.994582 
+
+ mwah_naya,     WAKE UP,        <Channel name: kaicenat>,       2024-11-07 11:27:09.546585 
+
+ mwah_naya,     FINALLY,        <Channel name: kaicenat>,       2024-11-07 11:27:23.730329 
+
+ mwah_naya,     WAKE KAI NOW,        <Channel name: kaicenat>,       2024-11-07 11:28:19.426522 
+
+ mwah_naya,     YESSS,        <Channel name: kaicenat>,       2024-11-07 11:28:36.458439 
+
+ mwah_naya,     W SHADOW,        <Channel name: kaicenat>,       2024-11-07 11:30:09.303116 
+
+ mwah_naya,     W,        <Channel name: kaicenat>,       2024-11-07 11:30:22.179141 
+
+ mwah_naya,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:38.949904 
+
+ mwah_naya,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:42.738773 
+
+ mwah_naya,     W,        <Channel name: kaicenat>,       2024-11-07 11:31:06.458288 
+
+ mwah_naya,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:31:10.384940 
+
+ mwah_naya,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:31:13.015279 
+
+ mwah_naya,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:31:29.389027 
+
+ mwah_naya,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:31:33.504313 
+
+ mwah_naya,     WAW,        <Channel name: kaicenat>,       2024-11-07 11:31:35.452044 
+
+ mwah_naya,     WW,        <Channel name: kaicenat>,       2024-11-07 11:31:38.276964 
+
+ mwah_naya,     WWW,        <Channel name: kaicenat>,       2024-11-07 11:31:40.696200 
+
+ mwah_naya,     WW,        <Channel name: kaicenat>,       2024-11-07 11:31:55.103044 
+
+ mwah_naya,     W,        <Channel name: kaicenat>,       2024-11-07 11:31:58.950446 
+
+ mwah_naya,     WWW,        <Channel name: kaicenat>,       2024-11-07 11:32:43.192511 
+
+ mwah_naya,     W,        <Channel name: kaicenat>,       2024-11-07 11:33:37.939465 
+
+ mwah_naya,     kaicScaredd kaicScaredd kaicScaredd kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 11:34:12.228884 
+
+ mwah_naya,     O,        <Channel name: kaicenat>,       2024-11-07 11:35:12.185756 
+
+ mwah_naya,     LMAO,        <Channel name: kaicenat>,       2024-11-07 11:35:28.024727 
+
+ mwah_naya,     HELP,        <Channel name: kaicenat>,       2024-11-07 11:35:32.438630 
+
+ mwah_naya,     get the nigga put my face,        <Channel name: kaicenat>,       2024-11-07 11:36:35.477523 
+
+ mwah_naya,     …,        <Channel name: kaicenat>,       2024-11-07 11:36:51.919148 
+
+ mwah_naya,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 11:37:22.904008 
+
+ mwah_naya,     wake up,        <Channel name: kaicenat>,       2024-11-07 11:37:49.281254 
+
+ mwah_naya,     why is he staring at me,        <Channel name: kaicenat>,       2024-11-07 11:38:11.506789 
+
+ mwah_naya,     kaicScaredd kaicScaredd kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 11:38:32.835000 
+
+ mwah_naya,     wake up kai,        <Channel name: kaicenat>,       2024-11-07 11:39:25.921166 

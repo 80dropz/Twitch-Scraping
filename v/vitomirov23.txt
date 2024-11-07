@@ -1,0 +1,8 @@
+
+ vitomirov23,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:52:49.904034 
+
+ vitomirov23,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 09:53:19.198035 
+
+ vitomirov23,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:53:47.914943 
+
+ vitomirov23,     !roulette 71,        <Channel name: kaicenat>,       2024-11-07 09:54:31.084145 

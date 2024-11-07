@@ -1,0 +1,2 @@
+
+ ifg_ares_i5,     what is going on in here,        <Channel name: nadeshot>,       2024-11-07 12:07:51.394229 

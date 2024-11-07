@@ -1,0 +1,4 @@
+
+ ar_bandit,     hot dog day, yes,        <Channel name: nadeshot>,       2024-11-07 12:05:59.160877 
+
+ ar_bandit,     nade are you one of those families that just skip thanksgiving and go straight to Xmas?,        <Channel name: nadeshot>,       2024-11-07 12:27:56.951064 

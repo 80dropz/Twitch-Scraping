@@ -1,2 +1,4 @@
 
  dork_g,     L SCAM,        <Channel name: clix>,       2024-11-07 02:07:14.689510 
+
+ dork_g,     DansGame,        <Channel name: shadowkekw>,       2024-11-07 11:17:17.931541 

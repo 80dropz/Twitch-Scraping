@@ -1,0 +1,104 @@
+
+ tiabeanie_dl,     dear,        <Channel name: megalodonvt>,       2024-11-07 10:03:00.649472 
+
+ tiabeanie_dl,     yard,        <Channel name: megalodonvt>,       2024-11-07 10:03:12.598640 
+
+ tiabeanie_dl,     lear,        <Channel name: megalodonvt>,       2024-11-07 10:04:19.884283 
+
+ tiabeanie_dl,     nope,        <Channel name: megalodonvt>,       2024-11-07 10:05:57.118248 
+
+ tiabeanie_dl,     genip,        <Channel name: megalodonvt>,       2024-11-07 10:07:28.021759 
+
+ tiabeanie_dl,     free,        <Channel name: megalodonvt>,       2024-11-07 10:08:34.095754 
+
+ tiabeanie_dl,     rodeo,        <Channel name: megalodonvt>,       2024-11-07 10:08:38.967349 
+
+ tiabeanie_dl,     rode,        <Channel name: megalodonvt>,       2024-11-07 10:09:33.958463 
+
+ tiabeanie_dl,     reed,        <Channel name: megalodonvt>,       2024-11-07 10:09:41.738845 
+
+ tiabeanie_dl,     feed,        <Channel name: megalodonvt>,       2024-11-07 10:10:00.068319 
+
+ tiabeanie_dl,     bone,        <Channel name: megalodonvt>,       2024-11-07 10:11:36.553540 
+
+ tiabeanie_dl,     drab,        <Channel name: megalodonvt>,       2024-11-07 10:13:07.346433 
+
+ tiabeanie_dl,     bard,        <Channel name: megalodonvt>,       2024-11-07 10:13:38.104016 
+
+ tiabeanie_dl,     leap,        <Channel name: megalodonvt>,       2024-11-07 10:16:05.649856 
+
+ tiabeanie_dl,     slap,        <Channel name: megalodonvt>,       2024-11-07 10:16:18.462564 
+
+ tiabeanie_dl,     peap,        <Channel name: megalodonvt>,       2024-11-07 10:17:27.115788 
+
+ tiabeanie_dl,     clue,        <Channel name: megalodonvt>,       2024-11-07 10:18:41.100047 
+
+ tiabeanie_dl,     ques,        <Channel name: megalodonvt>,       2024-11-07 10:18:55.508699 
+
+ tiabeanie_dl,     sequel,        <Channel name: megalodonvt>,       2024-11-07 10:19:32.114898 
+
+ tiabeanie_dl,     soda,        <Channel name: megalodonvt>,       2024-11-07 10:22:00.997735 
+
+ tiabeanie_dl,     nods,        <Channel name: megalodonvt>,       2024-11-07 10:22:54.634484 
+
+ tiabeanie_dl,     walk,        <Channel name: megalodonvt>,       2024-11-07 10:24:36.073723 
+
+ tiabeanie_dl,     claw,        <Channel name: megalodonvt>,       2024-11-07 10:24:55.209642 
+
+ tiabeanie_dl,     vinal,        <Channel name: megalodonvt>,       2024-11-07 10:27:37.876716 
+
+ tiabeanie_dl,     alive,        <Channel name: megalodonvt>,       2024-11-07 10:28:09.561598 
+
+ tiabeanie_dl,     vanilla,        <Channel name: megalodonvt>,       2024-11-07 10:28:22.112185 
+
+ tiabeanie_dl,     aval,        <Channel name: megalodonvt>,       2024-11-07 10:29:19.897458 
+
+ tiabeanie_dl,     escort,        <Channel name: megalodonvt>,       2024-11-07 10:34:22.809479 
+
+ tiabeanie_dl,     soccer,        <Channel name: megalodonvt>,       2024-11-07 10:34:31.575436 
+
+ tiabeanie_dl,     toner,        <Channel name: megalodonvt>,       2024-11-07 10:35:02.935311 
+
+ tiabeanie_dl,     tenor,        <Channel name: megalodonvt>,       2024-11-07 10:35:08.501167 
+
+ tiabeanie_dl,     once,        <Channel name: megalodonvt>,       2024-11-07 10:35:29.762195 
+
+ tiabeanie_dl,     rent,        <Channel name: megalodonvt>,       2024-11-07 10:35:42.712300 
+
+ tiabeanie_dl,     call,        <Channel name: megalodonvt>,       2024-11-07 10:36:49.748549 
+
+ tiabeanie_dl,     caller,        <Channel name: megalodonvt>,       2024-11-07 10:36:56.579734 
+
+ tiabeanie_dl,     recall,        <Channel name: megalodonvt>,       2024-11-07 10:37:07.274912 
+
+ tiabeanie_dl,     dare,        <Channel name: megalodonvt>,       2024-11-07 10:37:11.303584 
+
+ tiabeanie_dl,     care,        <Channel name: megalodonvt>,       2024-11-07 10:37:51.469608 
+
+ tiabeanie_dl,     lear,        <Channel name: megalodonvt>,       2024-11-07 10:38:31.817006 
+
+ tiabeanie_dl,     hardly,        <Channel name: megalodonvt>,       2024-11-07 10:39:52.968716 
+
+ tiabeanie_dl,     lard,        <Channel name: megalodonvt>,       2024-11-07 10:40:14.500344 
+
+ tiabeanie_dl,     dahl,        <Channel name: megalodonvt>,       2024-11-07 10:41:54.938537 
+
+ tiabeanie_dl,     duce,        <Channel name: megalodonvt>,       2024-11-07 10:44:10.192158 
+
+ tiabeanie_dl,     equal,        <Channel name: megalodonvt>,       2024-11-07 10:46:26.916452 
+
+ tiabeanie_dl,     quail,        <Channel name: megalodonvt>,       2024-11-07 10:46:36.129357 
+
+ tiabeanie_dl,     leaf,        <Channel name: megalodonvt>,       2024-11-07 10:46:55.285947 
+
+ tiabeanie_dl,     scare,        <Channel name: megalodonvt>,       2024-11-07 10:49:41.927634 
+
+ tiabeanie_dl,     arcs,        <Channel name: megalodonvt>,       2024-11-07 10:50:42.374294 
+
+ tiabeanie_dl,     benefit,        <Channel name: megalodonvt>,       2024-11-07 10:52:50.217628 
+
+ tiabeanie_dl,     been,        <Channel name: megalodonvt>,       2024-11-07 10:53:09.956136 
+
+ tiabeanie_dl,     king,        <Channel name: megalodonvt>,       2024-11-07 11:25:55.719698 
+
+ tiabeanie_dl,     ping,        <Channel name: megalodonvt>,       2024-11-07 11:26:06.174548 

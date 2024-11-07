@@ -1,0 +1,4 @@
+
+ saint_fantasy,     when is the World Cup,        <Channel name: ricci>,       2024-11-07 12:20:05.771956 
+
+ saint_fantasy,     is the World Cup tomorrow?,        <Channel name: ricci>,       2024-11-07 12:20:35.568792 

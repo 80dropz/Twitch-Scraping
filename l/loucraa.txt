@@ -1,0 +1,20 @@
+
+ loucraa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:14:12.881625 
+
+ loucraa,     !gamble 102,        <Channel name: kaicenat>,       2024-11-07 10:14:24.316066 
+
+ loucraa,     !roulette 102,        <Channel name: kaicenat>,       2024-11-07 10:14:31.005629 
+
+ loucraa,     !roulette 102,        <Channel name: kaicenat>,       2024-11-07 10:14:36.831535 
+
+ loucraa,     !roulette 102,        <Channel name: kaicenat>,       2024-11-07 10:14:40.727031 
+
+ loucraa,     !roulette 102,        <Channel name: kaicenat>,       2024-11-07 10:14:44.877737 
+
+ loucraa,     !roulette 102,        <Channel name: kaicenat>,       2024-11-07 10:14:49.959928 
+
+ loucraa,     205,        <Channel name: kaicenat>,       2024-11-07 10:14:56.057376 
+
+ loucraa,     !roulette 205,        <Channel name: kaicenat>,       2024-11-07 10:15:53.917540 
+
+ loucraa,     !roulette 205,        <Channel name: kaicenat>,       2024-11-07 10:15:58.944232 

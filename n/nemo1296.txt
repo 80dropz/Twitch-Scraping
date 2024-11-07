@@ -1,0 +1,28 @@
+
+ nemo1296,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:17:37.020744 
+
+ nemo1296,     China,        <Channel name: shadowkekw>,       2024-11-07 10:17:44.424909 
+
+ nemo1296,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.231693 
+
+ nemo1296,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:18:13.026766 
+
+ nemo1296,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.625371 
+
+ nemo1296,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:19:15.850564 
+
+ nemo1296,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:19:28.215498 
+
+ nemo1296,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:19:45.926679 
+
+ nemo1296,     France,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.109303 
+
+ nemo1296,     g,        <Channel name: shadowkekw>,       2024-11-07 10:20:20.987858 
+
+ nemo1296,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.021469 
+
+ nemo1296,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:21.454942 
+
+ nemo1296,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:22:29.658215 
+
+ nemo1296,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:48.689453 

@@ -1,0 +1,32 @@
+
+ pivokami,     ..,        <Channel name: shadowkekw>,       2024-11-07 10:49:24.866191 
+
+ pivokami,     England,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.564358 
+
+ pivokami,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:51:13.843521 
+
+ pivokami,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.034411 
+
+ pivokami,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.529734 
+
+ pivokami,     America,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.890998 
+
+ pivokami,     France,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.087220 
+
+ pivokami,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:55:35.673474 
+
+ pivokami,     Grecia,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.242988 
+
+ pivokami,     France,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.021701 
+
+ pivokami,     Florida,        <Channel name: shadowkekw>,       2024-11-07 11:01:30.247980 
+
+ pivokami,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.057821 
+
+ pivokami,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:09:13.982458 
+
+ pivokami,     France,        <Channel name: shadowkekw>,       2024-11-07 11:11:06.444999 
+
+ pivokami,     China,        <Channel name: shadowkekw>,       2024-11-07 11:12:43.553198 
+
+ pivokami,     Check Republic,        <Channel name: shadowkekw>,       2024-11-07 11:14:57.371644 

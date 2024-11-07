@@ -1,0 +1,4 @@
+
+ mx2000xr,     !points,        <Channel name: kaicenat>,       2024-11-07 12:09:51.777476 
+
+ mx2000xr,     !roulette 9000,        <Channel name: kaicenat>,       2024-11-07 12:10:29.024899 

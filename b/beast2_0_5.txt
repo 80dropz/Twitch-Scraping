@@ -1,0 +1,4 @@
+
+ beast2_0_5,     W,        <Channel name: lacy>,       2024-11-07 12:36:25.087382 
+
+ beast2_0_5,     bye,        <Channel name: lacy>,       2024-11-07 12:49:11.660759 

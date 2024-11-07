@@ -4,3 +4,29 @@
  gromik_24,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:03:05.350319 
 
  gromik_24,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 09:03:38.863032 
+
+ gromik_24,     TAKE MIC,        <Channel name: kaicenat>,       2024-11-07 13:04:46.096350 
+
+ gromik_24,     MIC,        <Channel name: kaicenat>,       2024-11-07 13:04:56.238505 
+
+ gromik_24,     BER,        <Channel name: kaicenat>,       2024-11-07 13:05:12.264241 
+
+ gromik_24,     LOL,        <Channel name: kaicenat>,       2024-11-07 13:05:36.365698 
+
+ gromik_24,     WW,        <Channel name: kaicenat>,       2024-11-07 13:05:51.778138 
+
+ gromik_24,     XD,        <Channel name: kaicenat>,       2024-11-07 13:06:06.600096 
+
+ gromik_24,     WTF,        <Channel name: kaicenat>,       2024-11-07 13:06:56.120049 
+
+ gromik_24,     nah,        <Channel name: kaicenat>,       2024-11-07 13:07:22.707037 
+
+ gromik_24,     water,        <Channel name: kaicenat>,       2024-11-07 13:08:00.688421 
+
+ gromik_24,     fake sleep,        <Channel name: kaicenat>,       2024-11-07 13:08:12.498212 
+
+ gromik_24,     ah he knows,        <Channel name: kaicenat>,       2024-11-07 13:28:42.739626 
+
+ gromik_24,     take the mic off,        <Channel name: kaicenat>,       2024-11-07 13:30:07.147729 
+
+ gromik_24,     ww 230k,        <Channel name: kaicenat>,       2024-11-07 13:30:42.399151 

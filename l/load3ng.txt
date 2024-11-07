@@ -1,0 +1,16 @@
+
+ load3ng,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:47.884050 
+
+ load3ng,     Undia,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.830603 
+
+ load3ng,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:24:24.873565 
+
+ load3ng,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:24:30.111949 
+
+ load3ng,     France,        <Channel name: shadowkekw>,       2024-11-07 10:25:01.361589 
+
+ load3ng,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:25:17.452843 
+
+ load3ng,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.066891 
+
+ load3ng,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.636846 

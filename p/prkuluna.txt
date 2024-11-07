@@ -1,0 +1,4 @@
+
+ prkuluna,     !spec,        <Channel name: nadeshot>,       2024-11-07 13:24:37.460744 
+
+ prkuluna,     !setup,        <Channel name: nadeshot>,       2024-11-07 13:24:39.370962 

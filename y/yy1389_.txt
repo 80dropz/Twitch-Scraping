@@ -1,0 +1,10 @@
+
+ yy1389_,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:52:35.237375 
+
+ yy1389_,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:54:27.588831 
+
+ yy1389_,     noo,        <Channel name: kaicenat>,       2024-11-07 09:56:26.553176 
+
+ yy1389_,     !time,        <Channel name: kaicenat>,       2024-11-07 11:37:21.663840 
+
+ yy1389_,     wake up bro,        <Channel name: kaicenat>,       2024-11-07 12:05:19.957157 

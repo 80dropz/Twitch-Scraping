@@ -1,0 +1,60 @@
+
+ washingtong4,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:07:30.616987 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:54.638146 
+
+ washingtong4,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:13:41.423565 
+
+ washingtong4,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:02.905211 
+
+ washingtong4,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:15:20.127863 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:45:26.619603 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.471465 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:47:03.263945 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.442654 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:38.198713 
+
+ washingtong4,     CANADA,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.044280 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:26.647951 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.562288 
+
+ washingtong4,     Coca Cola,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.552503 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 10:52:34.295482 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:52:58.454225 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.308305 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:55:30.208415 
+
+ washingtong4,     COca cola,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.850997 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.671929 
+
+ washingtong4,     coca cola,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.798433 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 11:04:46.806679 
+
+ washingtong4,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:05:25.771592 
+
+ washingtong4,     Magadarskar,        <Channel name: shadowkekw>,       2024-11-07 11:05:53.160558 
+
+ washingtong4,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.167377 
+
+ washingtong4,     Tynis,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.512616 
+
+ washingtong4,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.229715 
+
+ washingtong4,     mag,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.190022 
+
+ washingtong4,     France,        <Channel name: shadowkekw>,       2024-11-07 11:12:35.514080 
+
+ washingtong4,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.892196 

@@ -12,3 +12,17 @@
  cuxoy_pinpanjhon,     6,        <Channel name: shadowkekw>,       2024-11-07 09:25:05.756513 
 
  cuxoy_pinpanjhon,     4,        <Channel name: shadowkekw>,       2024-11-07 09:25:09.395758 
+
+ cuxoy_pinpanjhon,     russi,        <Channel name: shadowkekw>,       2024-11-07 10:11:43.976037 
+
+ cuxoy_pinpanjhon,     banglades\,        <Channel name: shadowkekw>,       2024-11-07 10:13:35.061334 
+
+ cuxoy_pinpanjhon,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:44.299291 
+
+ cuxoy_pinpanjhon,     gahna,        <Channel name: shadowkekw>,       2024-11-07 10:14:54.966716 
+
+ cuxoy_pinpanjhon,     chine\,        <Channel name: shadowkekw>,       2024-11-07 10:15:11.231080 
+
+ cuxoy_pinpanjhon,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:14.494314 
+
+ cuxoy_pinpanjhon,     Azerbailan,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.285321 

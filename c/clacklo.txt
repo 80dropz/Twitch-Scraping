@@ -1,0 +1,2 @@
+
+ clacklo,     !movement,        <Channel name: clix>,       2024-11-07 12:01:22.504626 

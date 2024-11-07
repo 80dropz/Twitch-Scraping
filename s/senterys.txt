@@ -6,3 +6,21 @@
  senterys,     https://www.twitch.tv/evelone2004/clip/IntelligentBeautifulDinosaurTBTacoLeft-HY6WBK2N3atrM8Vp @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 09:30:30.178429 
 
  senterys,     https://www.twitch.tv/evelone2004/clip/IntelligentBeautifulDinosaurTBTacoLeft-HY6WBK2N3atrM8Vp,        <Channel name: shadowkekw>,       2024-11-07 09:31:05.677211 
+
+ senterys,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:08:16.187855 
+
+ senterys,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:08:50.050003 
+
+ senterys,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:12:21.838008 
+
+ senterys,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:12:27.722729 
+
+ senterys,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:16:49.513172 
+
+ senterys,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.237186 
+
+ senterys,     SHADOW WW  SHADOW WW SHADOW WW SHADOW WW,        <Channel name: kaicenat>,       2024-11-07 11:23:07.159676 
+
+ senterys,     NPC,        <Channel name: shadowkekw>,       2024-11-07 11:24:21.312870 
+
+ senterys,     oh,        <Channel name: shadowkekw>,       2024-11-07 11:46:38.750681 

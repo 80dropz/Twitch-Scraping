@@ -1,0 +1,12 @@
+
+ deformh,     hot diggity dog,        <Channel name: nadeshot>,       2024-11-07 11:55:45.696472 
+
+ deformh,     lol,        <Channel name: nadeshot>,       2024-11-07 11:59:54.988443 
+
+ deformh,     hey,        <Channel name: nadeshot>,       2024-11-07 12:03:21.541474 
+
+ deformh,     goonmas vibes,        <Channel name: nadeshot>,       2024-11-07 12:06:36.424281 
+
+ deformh,     ahah,        <Channel name: nadeshot>,       2024-11-07 12:08:11.237023 
+
+ deformh,     i was here,        <Channel name: nadeshot>,       2024-11-07 12:20:30.702240 

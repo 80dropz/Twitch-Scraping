@@ -1,0 +1,76 @@
+
+ n1roxx,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.110083 
+
+ n1roxx,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:24:53.311279 
+
+ n1roxx,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:25:17.140122 
+
+ n1roxx,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:25:21.699511 
+
+ n1roxx,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.237076 
+
+ n1roxx,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.495217 
+
+ n1roxx,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:41.030700 
+
+ n1roxx,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:26:50.579570 
+
+ n1roxx,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.708422 
+
+ n1roxx,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:27:53.298152 
+
+ n1roxx,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.966466 
+
+ n1roxx,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.285340 
+
+ n1roxx,     bosnia,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.515280 
+
+ n1roxx,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.193042 
+
+ n1roxx,     india,        <Channel name: shadowkekw>,       2024-11-07 10:29:59.042298 
+
+ n1roxx,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.414668 
+
+ n1roxx,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:30:41.322224 
+
+ n1roxx,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.475440 
+
+ n1roxx,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:31:25.374984 
+
+ n1roxx,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.780476 
+
+ n1roxx,     South Ossetia,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.941095 
+
+ n1roxx,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:32:05.524834 
+
+ n1roxx,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:32:25.429902 
+
+ n1roxx,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.632317 
+
+ n1roxx,     us,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.912538 
+
+ n1roxx,     Marshall Islands,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.526162 
+
+ n1roxx,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:43.018769 
+
+ n1roxx,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.975506 
+
+ n1roxx,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.469958 
+
+ n1roxx,     Pitcairn Islands,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.964639 
+
+ n1roxx,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:35:19.200075 
+
+ n1roxx,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.039865 
+
+ n1roxx,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:35:58.502060 
+
+ n1roxx,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.622778 
+
+ n1roxx,     Sri Lanka,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.595054 
+
+ n1roxx,     São Tomé and Príncipe,        <Channel name: shadowkekw>,       2024-11-07 10:37:17.920456 
+
+ n1roxx,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.347549 
+
+ n1roxx,     dn,        <Channel name: shadowkekw>,       2024-11-07 10:37:35.875155 

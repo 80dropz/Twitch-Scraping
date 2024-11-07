@@ -1,0 +1,48 @@
+
+ spacefall656,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:24:21.620250 
+
+ spacefall656,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.558761 
+
+ spacefall656,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:29:05.879258 
+
+ spacefall656,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.449756 
+
+ spacefall656,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.160055 
+
+ spacefall656,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:37:05.079205 
+
+ spacefall656,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:18.902319 
+
+ spacefall656,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:39:22.507201 
+
+ spacefall656,     andorra,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.182174 
+
+ spacefall656,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:45:33.870901 
+
+ spacefall656,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:46:45.162653 
+
+ spacefall656,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:47:40.788543 
+
+ spacefall656,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.423849 
+
+ spacefall656,     us,        <Channel name: shadowkekw>,       2024-11-07 10:49:09.848760 
+
+ spacefall656,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:31.820354 
+
+ spacefall656,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.667688 
+
+ spacefall656,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.111024 
+
+ spacefall656,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.669163 
+
+ spacefall656,     thailand,        <Channel name: shadowkekw>,       2024-11-07 11:00:52.763903 
+
+ spacefall656,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:27.062860 
+
+ spacefall656,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:02:43.522305 
+
+ spacefall656,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:09:03.652427 
+
+ spacefall656,     at,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.600292 
+
+ spacefall656,     singapore,        <Channel name: shadowkekw>,       2024-11-07 11:15:03.503868 

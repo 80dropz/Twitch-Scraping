@@ -1,0 +1,22 @@
+
+ mulkbl,     Brasilia,        <Channel name: shadowkekw>,       2024-11-07 10:31:38.629755 
+
+ mulkbl,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:16.907555 
+
+ mulkbl,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.932876 
+
+ mulkbl,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:33:23.734505 
+
+ mulkbl,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:33:52.135103 
+
+ mulkbl,     Livia,        <Channel name: shadowkekw>,       2024-11-07 10:34:27.294907 
+
+ mulkbl,     New zealand,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.278323 
+
+ mulkbl,     ind,        <Channel name: shadowkekw>,       2024-11-07 10:40:49.389920 
+
+ mulkbl,     thai,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.595730 
+
+ mulkbl,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.906526 
+
+ mulkbl,     hawai,        <Channel name: shadowkekw>,       2024-11-07 10:42:34.201588 

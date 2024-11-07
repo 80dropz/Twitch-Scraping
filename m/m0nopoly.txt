@@ -6,3 +6,7 @@
  m0nopoly,     ome44,        <Channel name: kaicenat>,       2024-11-07 09:43:18.082315 
 
  m0nopoly,     LOL,        <Channel name: kaicenat>,       2024-11-07 09:43:21.405533 
+
+ m0nopoly,     Pffttt,        <Channel name: lacy>,       2024-11-07 13:11:01.961494 
+
+ m0nopoly,     gg,        <Channel name: lacy>,       2024-11-07 13:22:47.370486 

@@ -1,0 +1,104 @@
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:23:51.243517 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:23:52.111465 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:23:53.148518 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:24:01.600860 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:24:06.536102 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 12:25:30.508708 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 12:25:34.181364 
+
+ 3jcs,     oldest lacy viewer,        <Channel name: lacy>,       2024-11-07 12:25:51.453399 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:27:12.137717 
+
+ 3jcs,     so much motion,        <Channel name: lacy>,       2024-11-07 12:31:09.522048 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:40.724536 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:42.463908 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:44.379623 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:46.848321 
+
+ 3jcs,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:50.032238 
+
+ 3jcs,     retire him,        <Channel name: lacy>,       2024-11-07 12:32:15.344834 
+
+ 3jcs,     @sayluhh ur 30,        <Channel name: lacy>,       2024-11-07 12:36:01.170274 
+
+ 3jcs,     @sayluhh ig i’m 30?????,        <Channel name: lacy>,       2024-11-07 12:36:31.661739 
+
+ 3jcs,     sus,        <Channel name: lacy>,       2024-11-07 12:36:59.349110 
+
+ 3jcs,     CAUGHT,        <Channel name: lacy>,       2024-11-07 12:37:19.756041 
+
+ 3jcs,     sus,        <Channel name: lacy>,       2024-11-07 12:37:30.505676 
+
+ 3jcs,     WHAT,        <Channel name: lacy>,       2024-11-07 12:37:49.963164 
+
+ 3jcs,     WHAT,        <Channel name: lacy>,       2024-11-07 12:37:52.243354 
+
+ 3jcs,     WHAT,        <Channel name: lacy>,       2024-11-07 12:37:55.033455 
+
+ 3jcs,     classic,        <Channel name: lacy>,       2024-11-07 12:38:04.890229 
+
+ 3jcs,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:38:23.770319 
+
+ 3jcs,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:38:28.296002 
+
+ 3jcs,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:38:36.924202 
+
+ 3jcs,     0,        <Channel name: lacy>,       2024-11-07 12:39:22.007307 
+
+ 3jcs,     he is,        <Channel name: lacy>,       2024-11-07 12:39:51.706361 
+
+ 3jcs,     that’s normal,        <Channel name: lacy>,       2024-11-07 12:46:11.742575 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:47.869904 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:48.140439 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:48.465583 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:50.394596 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:52.581939 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 12:51:57.978097 
+
+ 3jcs,     cmonBruh,        <Channel name: lacy>,       2024-11-07 12:55:41.448552 
+
+ 3jcs,     cmonBruh,        <Channel name: lacy>,       2024-11-07 12:55:47.440900 
+
+ 3jcs,     bye,        <Channel name: lacy>,       2024-11-07 12:57:39.134992 
+
+ 3jcs,     bye,        <Channel name: lacy>,       2024-11-07 12:57:45.160474 
+
+ 3jcs,     peace,        <Channel name: lacy>,       2024-11-07 12:57:50.181975 
+
+ 3jcs,     u not rice gum,        <Channel name: lacy>,       2024-11-07 13:00:00.077176 
+
+ 3jcs,     yes,        <Channel name: lacy>,       2024-11-07 13:02:48.236973 
+
+ 3jcs,     naked,        <Channel name: lacy>,       2024-11-07 13:02:52.010992 
+
+ 3jcs,     naked,        <Channel name: lacy>,       2024-11-07 13:02:58.174387 
+
+ 3jcs,     naked,        <Channel name: lacy>,       2024-11-07 13:03:07.041222 
+
+ 3jcs,     gg,        <Channel name: lacy>,       2024-11-07 13:08:54.545490 
+
+ 3jcs,     cuck,        <Channel name: lacy>,       2024-11-07 13:24:04.118630 
+
+ 3jcs,     nice,        <Channel name: lacy>,       2024-11-07 13:24:54.566840 
+
+ 3jcs,     good job drew,        <Channel name: lacy>,       2024-11-07 13:26:07.879436 
+
+ 3jcs,     drew ur cooking this stream ngl,        <Channel name: lacy>,       2024-11-07 13:35:13.868702 

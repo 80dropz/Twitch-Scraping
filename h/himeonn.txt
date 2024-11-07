@@ -1,0 +1,18 @@
+
+ himeonn,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:28:32.382700 
+
+ himeonn,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:28:53.835261 
+
+ himeonn,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:29:07.494700 
+
+ himeonn,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:29:36.417216 
+
+ himeonn,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:30:10.806459 
+
+ himeonn,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:30:41.766077 
+
+ himeonn,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:34:01.935442 
+
+ himeonn,     gift 100,        <Channel name: kaicenat>,       2024-11-07 12:17:14.333411 
+
+ himeonn,     180,        <Channel name: kaicenat>,       2024-11-07 12:17:56.032789 

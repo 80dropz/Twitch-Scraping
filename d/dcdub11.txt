@@ -1,0 +1,14 @@
+
+ dcdub11,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:26:48.051841 
+
+ dcdub11,     !roulette 20000,        <Channel name: kaicenat>,       2024-11-07 10:27:07.012873 
+
+ dcdub11,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 10:28:11.331326 
+
+ dcdub11,     !roulette 9999,        <Channel name: kaicenat>,       2024-11-07 10:28:22.416932 
+
+ dcdub11,     !roulette 19999,        <Channel name: kaicenat>,       2024-11-07 10:28:34.593158 
+
+ dcdub11,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:28:42.536632 
+
+ dcdub11,     !points,        <Channel name: kaicenat>,       2024-11-07 10:29:37.804251 

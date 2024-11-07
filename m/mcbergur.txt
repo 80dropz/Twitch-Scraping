@@ -10,3 +10,5 @@
  mcbergur,     EARTHQUAKE NOW,        <Channel name: kaicenat>,       2024-11-07 09:40:15.013275 
 
  mcbergur,     2K MORE,        <Channel name: kaicenat>,       2024-11-07 09:40:56.379944 
+
+ mcbergur,     500 AWAY,        <Channel name: kaicenat>,       2024-11-07 10:55:18.765318 

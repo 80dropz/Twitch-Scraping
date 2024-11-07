@@ -1,0 +1,66 @@
+
+ merkonuz,     sri lanka,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.865509 
+
+ merkonuz,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.510520 
+
+ merkonuz,     za,        <Channel name: shadowkekw>,       2024-11-07 10:19:03.264813 
+
+ merkonuz,     za,        <Channel name: shadowkekw>,       2024-11-07 10:25:42.062024 
+
+ merkonuz,     it,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.845765 
+
+ merkonuz,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:27:53.634459 
+
+ merkonuz,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.302597 
+
+ merkonuz,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.906996 
+
+ merkonuz,     us,        <Channel name: shadowkekw>,       2024-11-07 10:37:36.383176 
+
+ merkonuz,     is,        <Channel name: shadowkekw>,       2024-11-07 10:37:38.388782 
+
+ merkonuz,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:38:33.130976 
+
+ merkonuz,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.352175 
+
+ merkonuz,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:50.973007 
+
+ merkonuz,     om,        <Channel name: shadowkekw>,       2024-11-07 10:46:51.905000 
+
+ merkonuz,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:47:29.281467 
+
+ merkonuz,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.436136 
+
+ merkonuz,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.277142 
+
+ merkonuz,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:12.751335 
+
+ merkonuz,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.461177 
+
+ merkonuz,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.564840 
+
+ merkonuz,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:55:59.340541 
+
+ merkonuz,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.861051 
+
+ merkonuz,     th,        <Channel name: shadowkekw>,       2024-11-07 10:57:11.234197 
+
+ merkonuz,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:57:58.032559 
+
+ merkonuz,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.477554 
+
+ merkonuz,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:01:16.510267 
+
+ merkonuz,     us,        <Channel name: shadowkekw>,       2024-11-07 11:02:25.778164 
+
+ merkonuz,     do,        <Channel name: shadowkekw>,       2024-11-07 11:03:51.371308 
+
+ merkonuz,     gh,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.759627 
+
+ merkonuz,     do,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.429515 
+
+ merkonuz,     fi,        <Channel name: shadowkekw>,       2024-11-07 11:10:24.048714 
+
+ merkonuz,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:26.994032 
+
+ merkonuz,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:11:34.553103 

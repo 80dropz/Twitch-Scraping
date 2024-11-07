@@ -1,0 +1,126 @@
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.376253 
+
+ 1mpact100,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.629104 
+
+ 1mpact100,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:19:06.365976 
+
+ 1mpact100,     Ausria,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.585708 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.058607 
+
+ 1mpact100,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:50.304741 
+
+ 1mpact100,     Katar,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.639813 
+
+ 1mpact100,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.076400 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.036996 
+
+ 1mpact100,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.284633 
+
+ 1mpact100,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.546655 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.474666 
+
+ 1mpact100,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:23:23.255602 
+
+ 1mpact100,     )),        <Channel name: shadowkekw>,       2024-11-07 10:23:26.451749 
+
+ 1mpact100,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.278896 
+
+ 1mpact100,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 10:23:36.835129 
+
+ 1mpact100,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.290846 
+
+ 1mpact100,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:25:18.084300 
+
+ 1mpact100,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:31.577962 
+
+ 1mpact100,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.755188 
+
+ 1mpact100,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:26:40.137265 
+
+ 1mpact100,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.728357 
+
+ 1mpact100,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:27:02.213577 
+
+ 1mpact100,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:27:19.200932 
+
+ 1mpact100,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.326306 
+
+ 1mpact100,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.337829 
+
+ 1mpact100,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:28:05.970276 
+
+ 1mpact100,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.875620 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:28:39.069816 
+
+ 1mpact100,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.440452 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.140688 
+
+ 1mpact100,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.817208 
+
+ 1mpact100,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.686786 
+
+ 1mpact100,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.959945 
+
+ 1mpact100,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.167227 
+
+ 1mpact100,     Lathvia,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.219991 
+
+ 1mpact100,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.372386 
+
+ 1mpact100,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.040178 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.704870 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.552911 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.229255 
+
+ 1mpact100,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:34:27.404025 
+
+ 1mpact100,     qgypt,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.331153 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:06.860791 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.844556 
+
+ 1mpact100,     India,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.642259 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.611772 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:36:23.331220 
+
+ 1mpact100,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:36:40.650902 
+
+ 1mpact100,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:37:03.137904 
+
+ 1mpact100,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:37:05.771276 
+
+ 1mpact100,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.875211 
+
+ 1mpact100,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.707900 
+
+ 1mpact100,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.330341 
+
+ 1mpact100,     Pr,        <Channel name: shadowkekw>,       2024-11-07 10:38:06.586277 
+
+ 1mpact100,     France,        <Channel name: shadowkekw>,       2024-11-07 10:39:22.979965 
+
+ 1mpact100,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.057795 
+
+ 1mpact100,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:02.798999 
+
+ 1mpact100,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:42:50.174217 
+
+ 1mpact100,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.501255 
+
+ 1mpact100,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.086414 
+
+ 1mpact100,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:45:16.829932 
+
+ 1mpact100,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.427922 

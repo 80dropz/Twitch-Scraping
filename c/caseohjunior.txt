@@ -22,3 +22,13 @@
  caseohjunior,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 09:13:45.137790 
 
  caseohjunior,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:14:00.867414 
+
+ caseohjunior,     gift me,        <Channel name: kaicenat>,       2024-11-07 12:11:51.281641 
+
+ caseohjunior,     AM BROKE,        <Channel name: kaicenat>,       2024-11-07 12:12:01.455907 
+
+ caseohjunior,     AM BROKE POOR AND SAD,        <Channel name: kaicenat>,       2024-11-07 12:12:07.796806 
+
+ caseohjunior,     AM LONELY HUNGRY AND STARVING,        <Channel name: kaicenat>,       2024-11-07 12:12:19.018497 
+
+ caseohjunior,     GIMME MY MONEYYY,        <Channel name: kaicenat>,       2024-11-07 12:12:54.455781 

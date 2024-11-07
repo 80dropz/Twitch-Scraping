@@ -1,0 +1,22 @@
+
+ monster_rod,     Where is he? Pooping?,        <Channel name: nadeshot>,       2024-11-07 11:19:23.833880 
+
+ monster_rod,     ohhh didnt see him lol,        <Channel name: nadeshot>,       2024-11-07 11:20:13.758522 
+
+ monster_rod,     W glizzy,        <Channel name: nadeshot>,       2024-11-07 11:54:37.486563 
+
+ monster_rod,     Echo,        <Channel name: nadeshot>,       2024-11-07 11:55:25.620497 
+
+ monster_rod,     WTFFFFFFFFF,        <Channel name: nadeshot>,       2024-11-07 11:59:43.755245 
+
+ monster_rod,     Sub-a-Tweak,        <Channel name: nadeshot>,       2024-11-07 12:00:19.570235 
+
+ monster_rod,     Plug it into the Cybertruck,        <Channel name: nadeshot>,       2024-11-07 12:41:55.112621 
+
+ monster_rod,     FULL,        <Channel name: nadeshot>,       2024-11-07 12:43:03.832824 
+
+ monster_rod,     FFull,        <Channel name: nadeshot>,       2024-11-07 12:43:32.008821 
+
+ monster_rod,     wwwwwwwww,        <Channel name: nadeshot>,       2024-11-07 12:47:50.903871 
+
+ monster_rod,     ayo,        <Channel name: nadeshot>,       2024-11-07 12:48:40.719471 

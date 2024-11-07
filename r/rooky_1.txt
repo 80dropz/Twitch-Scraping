@@ -8,3 +8,21 @@
  rooky_1,     SYK OOOO SYK OOOO,        <Channel name: kaicenat>,       2024-11-07 02:42:51.637459 
 
  rooky_1,     SYK OOOO,        <Channel name: silky>,       2024-11-07 02:43:07.472808 
+
+ rooky_1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:13:41.703710 
+
+ rooky_1,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 10:13:50.502965 
+
+ rooky_1,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 10:13:55.424825 
+
+ rooky_1,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:13:58.620775 
+
+ rooky_1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:14:07.924823 
+
+ rooky_1,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 10:14:10.509964 
+
+ rooky_1,     !roulette 74,        <Channel name: kaicenat>,       2024-11-07 10:14:13.068030 
+
+ rooky_1,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 10:14:23.668918 
+
+ rooky_1,     !roulette 144,        <Channel name: kaicenat>,       2024-11-07 10:14:29.034590 

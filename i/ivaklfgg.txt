@@ -1,0 +1,14 @@
+
+ ivaklfgg,     !trio,        <Channel name: mongraal>,       2024-11-07 12:20:20.226485 
+
+ ivaklfgg,     !trios,        <Channel name: mongraal>,       2024-11-07 12:20:25.187686 
+
+ ivaklfgg,     !trio,        <Channel name: mongraal>,       2024-11-07 12:20:26.902588 
+
+ ivaklfgg,     !trigas,        <Channel name: mongraal>,       2024-11-07 12:20:30.616944 
+
+ ivaklfgg,     !trio,        <Channel name: mongraal>,       2024-11-07 12:20:31.902612 
+
+ ivaklfgg,     !trios,        <Channel name: mongraal>,       2024-11-07 12:20:35.906853 
+
+ ivaklfgg,     !squad,        <Channel name: mongraal>,       2024-11-07 12:20:37.710718 

@@ -1,0 +1,2 @@
+
+ french_555,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:18:45.887319 

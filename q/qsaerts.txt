@@ -1,0 +1,12 @@
+
+ qsaerts,     !time,        <Channel name: kaicenat>,       2024-11-07 12:05:02.728706 
+
+ qsaerts,     !subs,        <Channel name: kaicenat>,       2024-11-07 12:06:10.512287 
+
+ qsaerts,     earthquake,        <Channel name: kaicenat>,       2024-11-07 12:06:25.715150 
+
+ qsaerts,     earthqueake plsdf,        <Channel name: kaicenat>,       2024-11-07 12:23:22.843447 
+
+ qsaerts,     !points,        <Channel name: kaicenat>,       2024-11-07 12:26:45.863565 
+
+ qsaerts,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:26:54.593492 

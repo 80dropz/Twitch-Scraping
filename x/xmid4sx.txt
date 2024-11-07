@@ -1,0 +1,8 @@
+
+ xmid4sx,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:21.048680 
+
+ xmid4sx,     no,        <Channel name: shadowkekw>,       2024-11-07 12:00:22.253321 
+
+ xmid4sx,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:39.384107 
+
+ xmid4sx,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:51:05.627380 

@@ -1,0 +1,8 @@
+
+ jonatan_lbk,     wake Kai up,        <Channel name: kaicenat>,       2024-11-07 10:00:56.301991 
+
+ jonatan_lbk,     he up,        <Channel name: kaicenat>,       2024-11-07 10:01:25.709771 
+
+ jonatan_lbk,     sub,        <Channel name: kaicenat>,       2024-11-07 10:03:26.031000 
+
+ jonatan_lbk,     www,        <Channel name: kaicenat>,       2024-11-07 10:07:34.187119 

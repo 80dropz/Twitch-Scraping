@@ -1,0 +1,30 @@
+
+ bamm3x,     switch cam,        <Channel name: kaicenat>,       2024-11-07 10:41:48.879234 
+
+ bamm3x,     production,        <Channel name: kaicenat>,       2024-11-07 10:42:13.842398 
+
+ bamm3x,     production switch cam,        <Channel name: kaicenat>,       2024-11-07 10:42:27.870441 
+
+ bamm3x,     production sleep,        <Channel name: kaicenat>,       2024-11-07 10:42:54.569600 
+
+ bamm3x,     switch cam production,        <Channel name: kaicenat>,       2024-11-07 10:43:29.478254 
+
+ bamm3x,     production is asleep,        <Channel name: kaicenat>,       2024-11-07 10:44:00.351740 
+
+ bamm3x,     production switch camera,        <Channel name: kaicenat>,       2024-11-07 10:44:20.439081 
+
+ bamm3x,     switch to miles cam,        <Channel name: kaicenat>,       2024-11-07 10:44:30.741251 
+
+ bamm3x,     production,        <Channel name: kaicenat>,       2024-11-07 10:44:52.584363 
+
+ bamm3x,     l cam,        <Channel name: kaicenat>,       2024-11-07 10:45:00.259907 
+
+ bamm3x,     production switch camera,        <Channel name: kaicenat>,       2024-11-07 10:45:29.668729 
+
+ bamm3x,     miles,        <Channel name: kaicenat>,       2024-11-07 10:46:01.049464 
+
+ bamm3x,     production is getting fired,        <Channel name: kaicenat>,       2024-11-07 10:46:16.226428 
+
+ bamm3x,     production,        <Channel name: kaicenat>,       2024-11-07 10:46:53.825167 
+
+ bamm3x,     w,        <Channel name: kaicenat>,       2024-11-07 10:47:56.115110 

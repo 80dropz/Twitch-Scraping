@@ -1,0 +1,10 @@
+
+ ontheutter,     !points,        <Channel name: kaicenat>,       2024-11-07 09:54:15.202756 
+
+ ontheutter,     !roulette 210,        <Channel name: kaicenat>,       2024-11-07 09:54:44.670863 
+
+ ontheutter,     !join,        <Channel name: kaicenat>,       2024-11-07 09:55:35.386749 
+
+ ontheutter,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 09:56:15.729818 
+
+ ontheutter,     I'm at a points,        <Channel name: kaicenat>,       2024-11-07 09:56:39.772377 

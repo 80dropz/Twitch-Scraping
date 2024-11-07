@@ -1,0 +1,8 @@
+
+ shums1,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:21:47.277285 
+
+ shums1,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.859240 
+
+ shums1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.023946 
+
+ shums1,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.599658 

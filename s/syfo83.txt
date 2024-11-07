@@ -4,3 +4,9 @@
  syfo83,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:05:37.322059 
 
  syfo83,     @Nightbot huh,        <Channel name: kaicenat>,       2024-11-07 09:06:06.806356 
+
+ syfo83,     WW,        <Channel name: kaicenat>,       2024-11-07 11:01:51.066845 
+
+ syfo83,     @fishyfish_143 ban,        <Channel name: kaicenat>,       2024-11-07 11:04:05.400632 
+
+ syfo83,     where the flipp at?,        <Channel name: kaicenat>,       2024-11-07 13:01:38.317693 

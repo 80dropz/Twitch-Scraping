@@ -1,0 +1,4 @@
+
+ anuggit,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 12:27:36.417861 
+
+ anuggit,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 12:27:59.086256 

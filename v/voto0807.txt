@@ -1,0 +1,8 @@
+
+ voto0807,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:53:39.836084 
+
+ voto0807,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:53:52.127846 
+
+ voto0807,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:54:01.663614 
+
+ voto0807,     !sub,        <Channel name: kaicenat>,       2024-11-07 09:54:29.624534 

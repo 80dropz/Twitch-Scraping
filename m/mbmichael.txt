@@ -1,0 +1,4 @@
+
+ mbmichael,     !maus,        <Channel name: clix>,       2024-11-07 11:20:06.480745 
+
+ mbmichael,     !mouse,        <Channel name: clix>,       2024-11-07 11:20:14.140836 

@@ -1,0 +1,336 @@
+
+ krystalik_1337,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:43.626820 
+
+ krystalik_1337,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:55.843268 
+
+ krystalik_1337,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.541032 
+
+ krystalik_1337,     portogal,        <Channel name: shadowkekw>,       2024-11-07 10:11:36.065738 
+
+ krystalik_1337,     @rawleeuw  ),        <Channel name: shadowkekw>,       2024-11-07 10:13:18.072603 
+
+ krystalik_1337,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:17.148587 
+
+ krystalik_1337,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.762968 
+
+ krystalik_1337,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:38.656676 
+
+ krystalik_1337,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.158805 
+
+ krystalik_1337,     brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:14:56.170759 
+
+ krystalik_1337,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:15:22.559521 
+
+ krystalik_1337,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.241257 
+
+ krystalik_1337,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.777473 
+
+ krystalik_1337,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:17:18.934671 
+
+ krystalik_1337,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.806380 
+
+ krystalik_1337,     france,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.256307 
+
+ krystalik_1337,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:45.958913 
+
+ krystalik_1337,     brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:19:01.813219 
+
+ krystalik_1337,     in,        <Channel name: shadowkekw>,       2024-11-07 10:20:22.692064 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.910005 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:20:28.986227 
+
+ krystalik_1337,     qa,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.384435 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.584644 
+
+ krystalik_1337,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.703226 
+
+ krystalik_1337,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.750923 
+
+ krystalik_1337,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:21:48.833615 
+
+ krystalik_1337,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.281416 
+
+ krystalik_1337,     tl,        <Channel name: shadowkekw>,       2024-11-07 10:21:59.065210 
+
+ krystalik_1337,     vo,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.711038 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.559697 
+
+ krystalik_1337,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:24:31.075472 
+
+ krystalik_1337,     th,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.001737 
+
+ krystalik_1337,     no,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.029563 
+
+ krystalik_1337,     norwey,        <Channel name: shadowkekw>,       2024-11-07 10:24:48.365164 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.996663 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.770126 
+
+ krystalik_1337,     qa,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.977144 
+
+ krystalik_1337,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.087909 
+
+ krystalik_1337,     th,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.489635 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.395305 
+
+ krystalik_1337,     no,        <Channel name: shadowkekw>,       2024-11-07 10:25:56.673657 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:27:16.525083 
+
+ krystalik_1337,     de,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.913533 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.095990 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 10:27:44.640227 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.324446 
+
+ krystalik_1337,     so,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.771268 
+
+ krystalik_1337,     th,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.994196 
+
+ krystalik_1337,     se,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.850688 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:28:35.300625 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.044530 
+
+ krystalik_1337,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:28:42.630289 
+
+ krystalik_1337,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:28:49.968434 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:29:17.402394 
+
+ krystalik_1337,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.226746 
+
+ krystalik_1337,     de,        <Channel name: shadowkekw>,       2024-11-07 10:29:49.164149 
+
+ krystalik_1337,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.323959 
+
+ krystalik_1337,     qa,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.963933 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:31:12.331364 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 10:31:48.808845 
+
+ krystalik_1337,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.130212 
+
+ krystalik_1337,     in,        <Channel name: shadowkekw>,       2024-11-07 10:31:59.990393 
+
+ krystalik_1337,     iq,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.609309 
+
+ krystalik_1337,     it,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.493494 
+
+ krystalik_1337,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:32:31.262435 
+
+ krystalik_1337,     au,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.600439 
+
+ krystalik_1337,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:33:22.137983 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:33:47.660020 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.994416 
+
+ krystalik_1337,     in,        <Channel name: shadowkekw>,       2024-11-07 10:34:30.058287 
+
+ krystalik_1337,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.287772 
+
+ krystalik_1337,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.131997 
+
+ krystalik_1337,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.322872 
+
+ krystalik_1337,     in,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.798279 
+
+ krystalik_1337,     it,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.433302 
+
+ krystalik_1337,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.275868 
+
+ krystalik_1337,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:01.010169 
+
+ krystalik_1337,     lr,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.159480 
+
+ krystalik_1337,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:36:11.785381 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.428765 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.008017 
+
+ krystalik_1337,     il,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.684232 
+
+ krystalik_1337,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.101479 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.747551 
+
+ krystalik_1337,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:38:38.506280 
+
+ krystalik_1337,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.311443 
+
+ krystalik_1337,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:38:57.193554 
+
+ krystalik_1337,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.631961 
+
+ krystalik_1337,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.580235 
+
+ krystalik_1337,     de,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.779866 
+
+ krystalik_1337,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:39:26.858005 
+
+ krystalik_1337,     fl,        <Channel name: shadowkekw>,       2024-11-07 10:39:57.849945 
+
+ krystalik_1337,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.233292 
+
+ krystalik_1337,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:32.963264 
+
+ krystalik_1337,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:40:45.380651 
+
+ krystalik_1337,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.201554 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:41:25.088028 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.812516 
+
+ krystalik_1337,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.216728 
+
+ krystalik_1337,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.264997 
+
+ krystalik_1337,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.896925 
+
+ krystalik_1337,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:42:23.328060 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.213437 
+
+ krystalik_1337,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.363651 
+
+ krystalik_1337,     il,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.422278 
+
+ krystalik_1337,     co,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.886998 
+
+ krystalik_1337,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.556485 
+
+ krystalik_1337,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.528386 
+
+ krystalik_1337,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.957773 
+
+ krystalik_1337,     it,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.531271 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.396087 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:46:08.427224 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.399252 
+
+ krystalik_1337,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:46:45.720241 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:47:07.901227 
+
+ krystalik_1337,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.121259 
+
+ krystalik_1337,     au,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.894405 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.792730 
+
+ krystalik_1337,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.597443 
+
+ krystalik_1337,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.726209 
+
+ krystalik_1337,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.993804 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 10:55:35.893013 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.705754 
+
+ krystalik_1337,     de,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.780163 
+
+ krystalik_1337,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:57:16.414070 
+
+ krystalik_1337,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:57:57.020374 
+
+ krystalik_1337,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.792473 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.359808 
+
+ krystalik_1337,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:40.705772 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:00:26.885164 
+
+ krystalik_1337,     no,        <Channel name: shadowkekw>,       2024-11-07 11:01:15.900096 
+
+ krystalik_1337,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:26.048901 
+
+ krystalik_1337,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:01:42.503703 
+
+ krystalik_1337,     sr,        <Channel name: shadowkekw>,       2024-11-07 11:02:46.619333 
+
+ krystalik_1337,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:03:48.400649 
+
+ krystalik_1337,     fi,        <Channel name: shadowkekw>,       2024-11-07 11:04:46.845677 
+
+ krystalik_1337,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.989031 
+
+ krystalik_1337,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.046572 
+
+ krystalik_1337,     mn,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.969566 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.265212 
+
+ krystalik_1337,     do,        <Channel name: shadowkekw>,       2024-11-07 11:06:26.731603 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:06:29.563900 
+
+ krystalik_1337,     do,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.009897 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:07:52.430860 
+
+ krystalik_1337,     br,        <Channel name: shadowkekw>,       2024-11-07 11:08:19.390560 
+
+ krystalik_1337,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.573360 
+
+ krystalik_1337,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.644728 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:10:12.046393 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:10:27.693667 
+
+ krystalik_1337,     do,        <Channel name: shadowkekw>,       2024-11-07 11:10:50.621297 
+
+ krystalik_1337,     th,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.666762 
+
+ krystalik_1337,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.567030 
+
+ krystalik_1337,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:11:21.875739 
+
+ krystalik_1337,     no,        <Channel name: shadowkekw>,       2024-11-07 11:11:27.228016 
+
+ krystalik_1337,     de,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.936514 
+
+ krystalik_1337,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:11:50.449076 
+
+ krystalik_1337,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.057186 
+
+ krystalik_1337,     it,        <Channel name: shadowkekw>,       2024-11-07 11:12:15.045237 
+
+ krystalik_1337,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.944592 
+
+ krystalik_1337,     vn,        <Channel name: shadowkekw>,       2024-11-07 11:12:26.218683 
+
+ krystalik_1337,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.762237 
+
+ krystalik_1337,     do,        <Channel name: shadowkekw>,       2024-11-07 11:12:44.126235 
+
+ krystalik_1337,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.670335 
+
+ krystalik_1337,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:13:25.809086 
+
+ krystalik_1337,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:13:36.069344 
+
+ krystalik_1337,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.569089 
+
+ krystalik_1337,     @shadowkekw KY NIGGA @shadowkekw KY NIGGA @shadowkekw KY NIGGA @shadowkekw KY NIGGA,        <Channel name: kaicenat>,       2024-11-07 11:44:28.598275 
+
+ krystalik_1337,     @shadowkekw  SOSI,        <Channel name: kaicenat>,       2024-11-07 11:45:45.895403 

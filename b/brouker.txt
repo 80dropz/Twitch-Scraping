@@ -1,0 +1,32 @@
+
+ brouker,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.875203 
+
+ brouker,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.864010 
+
+ brouker,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:02:13.912717 
+
+ brouker,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 11:03:39.917241 
+
+ brouker,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:04:35.389918 
+
+ brouker,     palestine,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.698098 
+
+ brouker,     israel,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.461982 
+
+ brouker,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:06:59.006586 
+
+ brouker,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:07:50.609697 
+
+ brouker,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.842646 
+
+ brouker,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.581833 
+
+ brouker,     south africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:38.366123 
+
+ brouker,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:12:27.666609 
+
+ brouker,     bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:13:29.338662 
+
+ brouker,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.470508 
+
+ brouker,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:16:52.728593 

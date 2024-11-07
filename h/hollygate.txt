@@ -1,0 +1,10 @@
+
+ hollygate,     95,        <Channel name: kaicenat>,       2024-11-07 12:33:07.041924 
+
+ hollygate,     93,        <Channel name: kaicenat>,       2024-11-07 12:33:41.017269 
+
+ hollygate,     100,        <Channel name: kaicenat>,       2024-11-07 12:48:54.304932 
+
+ hollygate,     gift 100,        <Channel name: kaicenat>,       2024-11-07 12:51:19.713628 
+
+ hollygate,     W,        <Channel name: kaicenat>,       2024-11-07 13:00:05.906454 

@@ -1,0 +1,16 @@
+
+ missyourage2,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:10.926039 
+
+ missyourage2,     morway,        <Channel name: shadowkekw>,       2024-11-07 10:10:47.979738 
+
+ missyourage2,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:24.332018 
+
+ missyourage2,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:12:50.663147 
+
+ missyourage2,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:12:53.158599 
+
+ missyourage2,     turkey    .,        <Channel name: shadowkekw>,       2024-11-07 10:13:14.538193 
+
+ missyourage2,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:08.751326 
+
+ missyourage2,     ukraime,        <Channel name: shadowkekw>,       2024-11-07 10:14:28.285095 

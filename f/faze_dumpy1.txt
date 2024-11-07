@@ -1,0 +1,54 @@
+
+ faze_dumpy1,     kiss me thru the phone,        <Channel name: swagg>,       2024-11-07 11:55:21.568300 
+
+ faze_dumpy1,     play kiss me thru the phone,        <Channel name: swagg>,       2024-11-07 11:55:55.181336 
+
+ faze_dumpy1,     play sum Keith sweat,        <Channel name: swagg>,       2024-11-07 11:57:54.281944 
+
+ faze_dumpy1,     …..,        <Channel name: swagg>,       2024-11-07 12:02:02.525300 
+
+ faze_dumpy1,     ………,        <Channel name: swagg>,       2024-11-07 12:02:13.454975 
+
+ faze_dumpy1,     ……….,        <Channel name: swagg>,       2024-11-07 12:02:22.431664 
+
+ faze_dumpy1,     ………..,        <Channel name: swagg>,       2024-11-07 12:02:27.467092 
+
+ faze_dumpy1,     ……..,        <Channel name: swagg>,       2024-11-07 12:02:33.056539 
+
+ faze_dumpy1,     ………,        <Channel name: swagg>,       2024-11-07 12:02:38.741465 
+
+ faze_dumpy1,     ……..,        <Channel name: swagg>,       2024-11-07 12:02:51.640393 
+
+ faze_dumpy1,     …………,        <Channel name: swagg>,       2024-11-07 12:02:58.400594 
+
+ faze_dumpy1,     zzzzz,        <Channel name: swagg>,       2024-11-07 12:03:07.000545 
+
+ faze_dumpy1,     ………,        <Channel name: swagg>,       2024-11-07 12:03:22.521551 
+
+ faze_dumpy1,     …………,        <Channel name: swagg>,       2024-11-07 12:03:32.861545 
+
+ faze_dumpy1,     ….,        <Channel name: swagg>,       2024-11-07 12:03:41.719140 
+
+ faze_dumpy1,     what’s swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 12:09:41.203371 
+
+ faze_dumpy1,     swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 12:09:48.230682 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:09:57.065225 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:10:05.867783 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:10:10.595465 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegDex swegJam swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 12:10:17.322832 
+
+ faze_dumpy1,     swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam swegDex swegJam,        <Channel name: swagg>,       2024-11-07 12:10:28.313051 
+
+ faze_dumpy1,     swegRun swegJam swegRun swegJam swegRun swegJam swegRun,        <Channel name: swagg>,       2024-11-07 12:10:51.431168 
+
+ faze_dumpy1,     swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:10:57.186629 
+
+ faze_dumpy1,     swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup,        <Channel name: swagg>,       2024-11-07 12:11:11.018834 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:11:16.589983 
+
+ faze_dumpy1,     swegDex swegDex swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 12:11:21.705673 

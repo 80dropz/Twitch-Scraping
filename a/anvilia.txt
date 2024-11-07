@@ -2,3 +2,309 @@
  anvilia,     ((,        <Channel name: shadowkekw>,       2024-11-07 09:09:54.681759 
 
  anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 09:24:06.158492 
+
+ anvilia,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:49.188232 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:23:29.237579 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:24:05.735561 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:27:43.641927 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:30:27.449652 
+
+ anvilia,     england,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.151814 
+
+ anvilia,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:56.898734 
+
+ anvilia,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:56.248098 
+
+ anvilia,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:38:13.604743 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:38:39.012083 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:38:42.714100 
+
+ anvilia,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:57.375772 
+
+ anvilia,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:42:34.541448 
+
+ anvilia,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:43:01.690684 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 10:44:12.304840 
+
+ anvilia,     england,        <Channel name: shadowkekw>,       2024-11-07 10:45:16.733322 
+
+ anvilia,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.642583 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 10:45:55.887529 
+
+ anvilia,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:46:09.559432 
+
+ anvilia,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:14.490436 
+
+ anvilia,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:47:12.842770 
+
+ anvilia,     tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:47:14.792844 
+
+ anvilia,     tanzanioa,        <Channel name: shadowkekw>,       2024-11-07 10:47:31.683936 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 10:47:32.998228 
+
+ anvilia,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:47:52.469715 
+
+ anvilia,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.471642 
+
+ anvilia,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:48:17.319909 
+
+ anvilia,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:48:30.560464 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.291811 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.490298 
+
+ anvilia,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:49:02.730784 
+
+ anvilia,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:49:15.584944 
+
+ anvilia,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:20.030577 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.130786 
+
+ anvilia,     Tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:50:14.842499 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:50:19.887970 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:38.308725 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.737249 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:51:21.963721 
+
+ anvilia,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.754658 
+
+ anvilia,     HK,        <Channel name: shadowkekw>,       2024-11-07 10:52:17.380013 
+
+ anvilia,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:52:50.671782 
+
+ anvilia,     Tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:53:33.973740 
+
+ anvilia,     Myanma,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.760548 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 10:54:24.202725 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.440144 
+
+ anvilia,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:54:31.911972 
+
+ anvilia,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:54:36.678568 
+
+ anvilia,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:54:39.662467 
+
+ anvilia,     Nowray,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.885542 
+
+ anvilia,     Findland,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.584551 
+
+ anvilia,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.019278 
+
+ anvilia,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.381023 
+
+ anvilia,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:56:04.589630 
+
+ anvilia,     France,        <Channel name: shadowkekw>,       2024-11-07 10:56:09.311688 
+
+ anvilia,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:56:13.773677 
+
+ anvilia,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:56:35.499547 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:57:21.268388 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.061858 
+
+ anvilia,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:59:11.697984 
+
+ anvilia,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:59:29.836663 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.553899 
+
+ anvilia,     li,        <Channel name: shadowkekw>,       2024-11-07 10:59:51.318942 
+
+ anvilia,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:59:57.005791 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:00:12.995244 
+
+ anvilia,     tanzania,        <Channel name: shadowkekw>,       2024-11-07 11:00:16.994230 
+
+ anvilia,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:00:38.431803 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:40.216139 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:00:57.140774 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:58.333981 
+
+ anvilia,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:01:01.031808 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:01:16.834990 
+
+ anvilia,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:01:19.001692 
+
+ anvilia,     England,        <Channel name: shadowkekw>,       2024-11-07 11:01:20.524608 
+
+ anvilia,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:01:21.444418 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 11:01:51.836097 
+
+ anvilia,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:01:56.107098 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:02:10.002069 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:02:14.105425 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:02:16.927780 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:02:28.336959 
+
+ anvilia,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:02:31.015058 
+
+ anvilia,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:02:33.066040 
+
+ anvilia,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 11:02:36.645791 
+
+ anvilia,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:02:38.373443 
+
+ anvilia,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:02:41.352418 
+
+ anvilia,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:02:45.250849 
+
+ anvilia,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 11:02:50.837867 
+
+ anvilia,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:02:54.533984 
+
+ anvilia,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:03:12.566329 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:03:15.065879 
+
+ anvilia,     Tanzania,        <Channel name: shadowkekw>,       2024-11-07 11:03:21.506495 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:03:32.309749 
+
+ anvilia,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:03:37.237048 
+
+ anvilia,     de,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.750964 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:03:40.499810 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:03:55.095633 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:03:57.526813 
+
+ anvilia,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:03:59.284642 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:04:08.277044 
+
+ anvilia,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:04:11.436499 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.325467 
+
+ anvilia,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:04:27.901165 
+
+ anvilia,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:04:30.717324 
+
+ anvilia,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:04:36.430527 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.400248 
+
+ anvilia,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.514759 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.192849 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:33.473338 
+
+ anvilia,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:06:35.292694 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:06:43.531989 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.407502 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 11:07:11.368459 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:07:24.220066 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:07:50.863905 
+
+ anvilia,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:08:09.195775 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.329859 
+
+ anvilia,     Lesotto,        <Channel name: shadowkekw>,       2024-11-07 11:09:35.969818 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.032441 
+
+ anvilia,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:10:24.170318 
+
+ anvilia,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.806092 
+
+ anvilia,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:11:02.044154 
+
+ anvilia,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:11:26.576931 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 11:12:02.693532 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:19.950332 
+
+ anvilia,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.210533 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:28.320235 
+
+ anvilia,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.165817 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 11:13:06.579598 
+
+ anvilia,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:13:39.770101 
+
+ anvilia,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:13:58.313638 
+
+ anvilia,     th,        <Channel name: shadowkekw>,       2024-11-07 11:14:28.052119 
+
+ anvilia,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:14:32.491664 
+
+ anvilia,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:14:34.772745 
+
+ anvilia,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:14:38.745500 
+
+ anvilia,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:14:39.961312 
+
+ anvilia,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:14:44.834020 
+
+ anvilia,     id,        <Channel name: shadowkekw>,       2024-11-07 11:14:49.798262 
+
+ anvilia,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:14:52.825487 
+
+ anvilia,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 11:15:04.259519 
+
+ anvilia,     New zealand,        <Channel name: shadowkekw>,       2024-11-07 11:15:09.582328 
+
+ anvilia,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:15:12.746949 
+
+ anvilia,     im,        <Channel name: shadowkekw>,       2024-11-07 11:15:16.281055 
+
+ anvilia,     za,        <Channel name: shadowkekw>,       2024-11-07 11:15:20.475868 
+
+ anvilia,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:15:22.408899 
+
+ anvilia,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:15:24.020198 
+
+ anvilia,     UAE,        <Channel name: shadowkekw>,       2024-11-07 11:15:29.110791 
+
+ anvilia,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:15:40.035874 
+
+ anvilia,     900,        <Channel name: shadowkekw>,       2024-11-07 11:18:44.691626 
+
+ anvilia,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:19:42.265060 
+
+ anvilia,     )),        <Channel name: shadowkekw>,       2024-11-07 11:19:46.077872 
+
+ anvilia,     900,        <Channel name: shadowkekw>,       2024-11-07 12:40:08.724539 
+
+ anvilia,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:40:57.253513 

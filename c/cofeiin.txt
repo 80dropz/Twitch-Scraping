@@ -1,0 +1,8 @@
+
+ cofeiin,     W wi ngman,        <Channel name: lacy>,       2024-11-07 13:18:27.091259 
+
+ cofeiin,     f,        <Channel name: lacy>,       2024-11-07 13:22:47.125761 
+
+ cofeiin,     f,        <Channel name: lacy>,       2024-11-07 13:24:58.765066 
+
+ cofeiin,     FFFF,        <Channel name: lacy>,       2024-11-07 13:30:49.116355 

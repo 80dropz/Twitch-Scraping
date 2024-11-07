@@ -1,0 +1,76 @@
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.005699 
+
+ designer3228,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:49.802189 
+
+ designer3228,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:41.449763 
+
+ designer3228,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.047433 
+
+ designer3228,     Giorgia,        <Channel name: shadowkekw>,       2024-11-07 10:16:57.296698 
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.793640 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:39.478632 
+
+ designer3228,     Kaz,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.654462 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.735394 
+
+ designer3228,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.149490 
+
+ designer3228,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:37.850752 
+
+ designer3228,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.770679 
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.784430 
+
+ designer3228,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.828077 
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.815013 
+
+ designer3228,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.792978 
+
+ designer3228,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:24:18.371465 
+
+ designer3228,     Kuba,        <Channel name: shadowkekw>,       2024-11-07 10:24:27.679425 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.250837 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:07.045097 
+
+ designer3228,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.233550 
+
+ designer3228,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.822457 
+
+ designer3228,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.255440 
+
+ designer3228,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:55.089122 
+
+ designer3228,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.476624 
+
+ designer3228,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.459500 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.162131 
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:32:13.169678 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.458925 
+
+ designer3228,     Greenkand,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.108349 
+
+ designer3228,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.536303 
+
+ designer3228,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.036790 
+
+ designer3228,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.589335 
+
+ designer3228,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.246876 
+
+ designer3228,     China,        <Channel name: shadowkekw>,       2024-11-07 10:36:13.150909 
+
+ designer3228,     KAZAKHSTAN,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.191414 
+
+ designer3228,     Greenland,        <Channel name: shadowkekw>,       2024-11-07 10:37:48.358935 
+
+ designer3228,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.103737 

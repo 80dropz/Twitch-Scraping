@@ -1,0 +1,28 @@
+
+ sccpa,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 10:18:16.141819 
+
+ sccpa,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:18:32.115447 
+
+ sccpa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:18:59.515596 
+
+ sccpa,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:19:23.012147 
+
+ sccpa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:19:43.938284 
+
+ sccpa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:20:48.142165 
+
+ sccpa,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:21:20.814467 
+
+ sccpa,     !roulette 14,        <Channel name: kaicenat>,       2024-11-07 10:21:36.371670 
+
+ sccpa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:26:31.340297 
+
+ sccpa,     !points,        <Channel name: kaicenat>,       2024-11-07 10:55:34.570594 
+
+ sccpa,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:55:45.721288 
+
+ sccpa,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 10:55:54.881733 
+
+ sccpa,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 10:56:10.155486 
+
+ sccpa,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:56:15.594516 

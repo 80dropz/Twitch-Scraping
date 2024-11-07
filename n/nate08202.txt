@@ -1,0 +1,6 @@
+
+ nate08202,     !time,        <Channel name: kaicenat>,       2024-11-07 11:26:51.480177 
+
+ nate08202,     !times,        <Channel name: kaicenat>,       2024-11-07 11:27:04.515186 
+
+ nate08202,     !time,        <Channel name: kaicenat>,       2024-11-07 11:27:07.534139 

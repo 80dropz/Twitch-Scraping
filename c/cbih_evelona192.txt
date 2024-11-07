@@ -1,0 +1,22 @@
+
+ cbih_evelona192,     !start,        <Channel name: shadowkekw>,       2024-11-07 10:06:27.993078 
+
+ cbih_evelona192,     !join,        <Channel name: shadowkekw>,       2024-11-07 10:06:30.719732 
+
+ cbih_evelona192,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:07:01.319411 
+
+ cbih_evelona192,     italia,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.774035 
+
+ cbih_evelona192,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.123230 
+
+ cbih_evelona192,     morocco,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.324918 
+
+ cbih_evelona192,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.629268 
+
+ cbih_evelona192,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:35.796663 
+
+ cbih_evelona192,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.526775 
+
+ cbih_evelona192,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:12.859402 
+
+ cbih_evelona192,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.537678 

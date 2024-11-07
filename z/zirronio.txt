@@ -1,0 +1,26 @@
+
+ zirronio,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.810785 
+
+ zirronio,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.772854 
+
+ zirronio,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.966944 
+
+ zirronio,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:27:04.230465 
+
+ zirronio,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:32.758076 
+
+ zirronio,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:29:54.162062 
+
+ zirronio,     India,        <Channel name: shadowkekw>,       2024-11-07 10:30:24.379543 
+
+ zirronio,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.719570 
+
+ zirronio,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.514090 
+
+ zirronio,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.646328 
+
+ zirronio,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:08.094573 
+
+ zirronio,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.871884 
+
+ zirronio,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.202892 

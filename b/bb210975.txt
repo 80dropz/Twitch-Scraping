@@ -150,3 +150,187 @@
  bb210975,     glair,        <Channel name: megalodonvt>,       2024-11-07 09:42:30.689628 
 
  bb210975,     rial,        <Channel name: megalodonvt>,       2024-11-07 09:43:07.578881 
+
+ bb210975,     deni,        <Channel name: megalodonvt>,       2024-11-07 09:52:03.076282 
+
+ bb210975,     amused,        <Channel name: megalodonvt>,       2024-11-07 09:53:16.223841 
+
+ bb210975,     made,        <Channel name: megalodonvt>,       2024-11-07 09:53:44.367929 
+
+ bb210975,     mead,        <Channel name: megalodonvt>,       2024-11-07 09:53:49.505464 
+
+ bb210975,     same,        <Channel name: megalodonvt>,       2024-11-07 09:53:57.339246 
+
+ bb210975,     sued,        <Channel name: megalodonvt>,       2024-11-07 09:54:00.992373 
+
+ bb210975,     used,        <Channel name: megalodonvt>,       2024-11-07 09:54:03.823056 
+
+ bb210975,     meds,        <Channel name: megalodonvt>,       2024-11-07 09:54:19.956043 
+
+ bb210975,     colt,        <Channel name: megalodonvt>,       2024-11-07 09:56:09.283099 
+
+ bb210975,     cyst,        <Channel name: megalodonvt>,       2024-11-07 09:56:18.983074 
+
+ bb210975,     lost,        <Channel name: megalodonvt>,       2024-11-07 09:56:22.623240 
+
+ bb210975,     lots,        <Channel name: megalodonvt>,       2024-11-07 09:56:26.867568 
+
+ bb210975,     slot,        <Channel name: megalodonvt>,       2024-11-07 09:56:30.525329 
+
+ bb210975,     toys,        <Channel name: megalodonvt>,       2024-11-07 09:56:33.337054 
+
+ bb210975,     clot,        <Channel name: megalodonvt>,       2024-11-07 09:56:36.740475 
+
+ bb210975,     cosy,        <Channel name: megalodonvt>,       2024-11-07 09:57:17.928058 
+
+ bb210975,     helm,        <Channel name: megalodonvt>,       2024-11-07 09:59:00.253388 
+
+ bb210975,     limiting,        <Channel name: megalodonvt>,       2024-11-07 10:00:07.881773 
+
+ bb210975,     mini,        <Channel name: megalodonvt>,       2024-11-07 10:00:40.437855 
+
+ bb210975,     aery,        <Channel name: megalodonvt>,       2024-11-07 10:03:01.766912 
+
+ bb210975,     ready,        <Channel name: megalodonvt>,       2024-11-07 10:03:06.145104 
+
+ bb210975,     dare,        <Channel name: megalodonvt>,       2024-11-07 10:03:16.379419 
+
+ bb210975,     dear,        <Channel name: megalodonvt>,       2024-11-07 10:03:19.567539 
+
+ bb210975,     read,        <Channel name: megalodonvt>,       2024-11-07 10:03:24.639899 
+
+ bb210975,     yard,        <Channel name: megalodonvt>,       2024-11-07 10:03:36.392981 
+
+ bb210975,     dare,        <Channel name: megalodonvt>,       2024-11-07 10:04:00.457156 
+
+ bb210975,     deny,        <Channel name: megalodonvt>,       2024-11-07 10:04:12.739337 
+
+ bb210975,     lyre,        <Channel name: megalodonvt>,       2024-11-07 10:04:27.433833 
+
+ bb210975,     aery,        <Channel name: megalodonvt>,       2024-11-07 10:04:36.285735 
+
+ bb210975,     pigeon,        <Channel name: megalodonvt>,       2024-11-07 10:06:07.234645 
+
+ bb210975,     peon,        <Channel name: megalodonvt>,       2024-11-07 10:06:31.980653 
+
+ bb210975,     pong,        <Channel name: megalodonvt>,       2024-11-07 10:07:26.378337 
+
+ bb210975,     feed,        <Channel name: megalodonvt>,       2024-11-07 10:08:50.646830 
+
+ bb210975,     redo,        <Channel name: megalodonvt>,       2024-11-07 10:09:01.907625 
+
+ bb210975,     reef,        <Channel name: megalodonvt>,       2024-11-07 10:09:13.708260 
+
+ bb210975,     zero,        <Channel name: megalodonvt>,       2024-11-07 10:11:46.875909 
+
+ bb210975,     robe,        <Channel name: megalodonvt>,       2024-11-07 10:11:53.496910 
+
+ bb210975,     boner,        <Channel name: megalodonvt>,       2024-11-07 10:12:03.373413 
+
+ bb210975,     board,        <Channel name: megalodonvt>,       2024-11-07 10:13:20.069860 
+
+ bb210975,     chord,        <Channel name: megalodonvt>,       2024-11-07 10:13:29.673470 
+
+ bb210975,     roach,        <Channel name: megalodonvt>,       2024-11-07 10:13:39.729907 
+
+ bb210975,     hoard,        <Channel name: megalodonvt>,       2024-11-07 10:13:50.743009 
+
+ bb210975,     roar,        <Channel name: megalodonvt>,       2024-11-07 10:14:11.728099 
+
+ bb210975,     chad,        <Channel name: megalodonvt>,       2024-11-07 10:14:24.233073 
+
+ bb210975,     papa,        <Channel name: megalodonvt>,       2024-11-07 10:16:56.174970 
+
+ bb210975,     appel,        <Channel name: megalodonvt>,       2024-11-07 10:17:31.669786 
+
+ bb210975,     aces,        <Channel name: megalodonvt>,       2024-11-07 10:19:32.949357 
+
+ bb210975,     seek,        <Channel name: megalodonvt>,       2024-11-07 10:20:02.847595 
+
+ bb210975,     such,        <Channel name: megalodonvt>,       2024-11-07 10:20:10.797639 
+
+ bb210975,     tenor,        <Channel name: megalodonvt>,       2024-11-07 10:35:55.754286 
+
+ bb210975,     called,        <Channel name: megalodonvt>,       2024-11-07 10:37:13.755695 
+
+ bb210975,     recall,        <Channel name: megalodonvt>,       2024-11-07 10:37:26.603303 
+
+ bb210975,     acre,        <Channel name: megalodonvt>,       2024-11-07 10:38:16.050700 
+
+ bb210975,     earl,        <Channel name: megalodonvt>,       2024-11-07 10:38:43.835268 
+
+ bb210975,     badly,        <Channel name: megalodonvt>,       2024-11-07 10:40:12.608886 
+
+ bb210975,     deuce,        <Channel name: megalodonvt>,       2024-11-07 10:43:22.100262 
+
+ bb210975,     exclude,        <Channel name: megalodonvt>,       2024-11-07 10:44:05.572855 
+
+ bb210975,     feed,        <Channel name: megalodonvt>,       2024-11-07 10:44:33.112697 
+
+ bb210975,     equal,        <Channel name: megalodonvt>,       2024-11-07 10:46:24.201909 
+
+ bb210975,     equals,        <Channel name: megalodonvt>,       2024-11-07 10:46:54.867741 
+
+ bb210975,     flare,        <Channel name: megalodonvt>,       2024-11-07 10:47:36.238288 
+
+ bb210975,     ariel,        <Channel name: megalodonvt>,       2024-11-07 10:48:12.268185 
+
+ bb210975,     flare,        <Channel name: megalodonvt>,       2024-11-07 10:48:19.049796 
+
+ bb210975,     rifle,        <Channel name: megalodonvt>,       2024-11-07 10:48:23.813285 
+
+ bb210975,     aces,        <Channel name: megalodonvt>,       2024-11-07 10:49:36.631325 
+
+ bb210975,     cars,        <Channel name: megalodonvt>,       2024-11-07 10:50:21.727072 
+
+ bb210975,     ears,        <Channel name: megalodonvt>,       2024-11-07 10:50:25.108439 
+
+ bb210975,     sear,        <Channel name: megalodonvt>,       2024-11-07 10:51:25.684285 
+
+ bb210975,     arse,        <Channel name: megalodonvt>,       2024-11-07 10:51:55.212817 
+
+ bb210975,     feint,        <Channel name: megalodonvt>,       2024-11-07 10:53:03.289207 
+
+ bb210975,     bet,        <Channel name: megalodonvt>,       2024-11-07 10:53:19.678579 
+
+ bb210975,     nite,        <Channel name: megalodonvt>,       2024-11-07 10:53:35.548729 
+
+ bb210975,     been,        <Channel name: megalodonvt>,       2024-11-07 10:53:50.883398 
+
+ bb210975,     center,        <Channel name: megalodonvt>,       2024-11-07 10:55:50.058489 
+
+ bb210975,     rent,        <Channel name: megalodonvt>,       2024-11-07 10:56:29.368712 
+
+ bb210975,     tree,        <Channel name: megalodonvt>,       2024-11-07 10:56:37.510024 
+
+ bb210975,     enter,        <Channel name: megalodonvt>,       2024-11-07 10:56:45.828610 
+
+ bb210975,     cones,        <Channel name: megalodonvt>,       2024-11-07 10:58:49.968335 
+
+ bb210975,     scone,        <Channel name: megalodonvt>,       2024-11-07 10:59:00.118070 
+
+ bb210975,     eons,        <Channel name: megalodonvt>,       2024-11-07 10:59:30.776481 
+
+ bb210975,     once,        <Channel name: megalodonvt>,       2024-11-07 10:59:48.128016 
+
+ bb210975,     clip,        <Channel name: megalodonvt>,       2024-11-07 11:02:02.177102 
+
+ bb210975,     grip,        <Channel name: megalodonvt>,       2024-11-07 11:02:14.008340 
+
+ bb210975,     frog,        <Channel name: megalodonvt>,       2024-11-07 11:03:00.267554 
+
+ bb210975,     girl,        <Channel name: megalodonvt>,       2024-11-07 11:03:05.144151 
+
+ bb210975,     slice,        <Channel name: megalodonvt>,       2024-11-07 11:04:44.816646 
+
+ bb210975,     isle,        <Channel name: megalodonvt>,       2024-11-07 11:05:11.910769 
+
+ bb210975,     heil,        <Channel name: megalodonvt>,       2024-11-07 11:07:06.368495 
+
+ bb210975,     area,        <Channel name: megalodonvt>,       2024-11-07 11:09:15.496301 
+
+ bb210975,     read,        <Channel name: megalodonvt>,       2024-11-07 11:09:28.639230 
+
+ bb210975,     reappear,        <Channel name: megalodonvt>,       2024-11-07 11:09:36.763162 
+
+ bb210975,     padre,        <Channel name: megalodonvt>,       2024-11-07 11:10:15.630462 

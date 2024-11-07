@@ -1,0 +1,64 @@
+
+ badabam0,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:33.688159 
+
+ badabam0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:34:59.745014 
+
+ badabam0,     BangbooBounce BangbooBounce,        <Channel name: shadowkekw>,       2024-11-07 10:36:27.846281 
+
+ badabam0,     NotLikeThis,        <Channel name: shadowkekw>,       2024-11-07 10:36:32.161968 
+
+ badabam0,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:51.355802 
+
+ badabam0,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.350229 
+
+ badabam0,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.262338 
+
+ badabam0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:38:04.336864 
+
+ badabam0,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:38:12.707886 
+
+ badabam0,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:15.202798 
+
+ badabam0,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:40:33.990933 
+
+ badabam0,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.904214 
+
+ badabam0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.813677 
+
+ badabam0,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.054062 
+
+ badabam0,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.107411 
+
+ badabam0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:31.028878 
+
+ badabam0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.380363 
+
+ badabam0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:41:59.453457 
+
+ badabam0,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.698166 
+
+ badabam0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:42:40.166573 
+
+ badabam0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:43:16.917847 
+
+ badabam0,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.609623 
+
+ badabam0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:43:45.180694 
+
+ badabam0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:43:49.642813 
+
+ badabam0,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:44:07.762647 
+
+ badabam0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:44:10.884260 
+
+ badabam0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:44:13.052077 
+
+ badabam0,     Morroco,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.163540 
+
+ badabam0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:44:37.169146 
+
+ badabam0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.677962 
+
+ badabam0,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:44:55.625391 
+
+ badabam0,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:45:21.264756 

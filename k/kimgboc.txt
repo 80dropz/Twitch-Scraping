@@ -1,0 +1,20 @@
+
+ kimgboc,     Yo,        <Channel name: kaicenat>,       2024-11-07 10:20:19.716011 
+
+ kimgboc,     Wwww,        <Channel name: kaicenat>,       2024-11-07 10:20:24.212632 
+
+ kimgboc,     Www,        <Channel name: kaicenat>,       2024-11-07 10:20:35.677073 
+
+ kimgboc,     Ww,        <Channel name: kaicenat>,       2024-11-07 10:20:47.956441 
+
+ kimgboc,     Stop,        <Channel name: kaicenat>,       2024-11-07 10:20:59.253628 
+
+ kimgboc,     W,        <Channel name: kaicenat>,       2024-11-07 10:21:24.845030 
+
+ kimgboc,     What time is ti,        <Channel name: kaicenat>,       2024-11-07 10:21:48.675944 
+
+ kimgboc,     What time is it,        <Channel name: kaicenat>,       2024-11-07 10:21:59.140217 
+
+ kimgboc,     What time is it,        <Channel name: kaicenat>,       2024-11-07 10:22:46.416104 
+
+ kimgboc,     What time is it,        <Channel name: kaicenat>,       2024-11-07 10:25:44.566109 

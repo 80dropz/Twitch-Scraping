@@ -1,2 +1,24 @@
 
  nempul,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:31.750848 
+
+ nempul,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:04.012008 
+
+ nempul,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:45:12.443944 
+
+ nempul,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:46:11.814660 
+
+ nempul,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:29.500611 
+
+ nempul,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:47:39.930249 
+
+ nempul,     Dania,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.074597 
+
+ nempul,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.671895 
+
+ nempul,     )),        <Channel name: shadowkekw>,       2024-11-07 10:51:49.124768 
+
+ nempul,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:53:11.678536 
+
+ nempul,     322,        <Channel name: shadowkekw>,       2024-11-07 10:54:04.797571 
+
+ nempul,     India,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.912246 

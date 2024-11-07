@@ -1,0 +1,18 @@
+
+ cob41n,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:52:38.421477 
+
+ cob41n,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:53:11.482845 
+
+ cob41n,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.092408 
+
+ cob41n,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:54:54.186207 
+
+ cob41n,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.009901 
+
+ cob41n,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.415073 
+
+ cob41n,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:57:40.342423 
+
+ cob41n,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.710576 
+
+ cob41n,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.971076 

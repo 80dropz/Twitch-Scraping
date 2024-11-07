@@ -1,0 +1,92 @@
+
+ rinnetense1,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:22:33.229720 
+
+ rinnetense1,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:23:54.390727 
+
+ rinnetense1,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.312506 
+
+ rinnetense1,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:24:52.113825 
+
+ rinnetense1,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.244706 
+
+ rinnetense1,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.673252 
+
+ rinnetense1,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.958867 
+
+ rinnetense1,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.403972 
+
+ rinnetense1,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:30:23.026149 
+
+ rinnetense1,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.863418 
+
+ rinnetense1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.777202 
+
+ rinnetense1,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:31:33.733687 
+
+ rinnetense1,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.034111 
+
+ rinnetense1,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.681055 
+
+ rinnetense1,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.095478 
+
+ rinnetense1,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:38:21.492520 
+
+ rinnetense1,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:38:52.355047 
+
+ rinnetense1,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:38:56.470011 
+
+ rinnetense1,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:21.851005 
+
+ rinnetense1,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.288111 
+
+ rinnetense1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.450444 
+
+ rinnetense1,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.642772 
+
+ rinnetense1,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:40:19.342169 
+
+ rinnetense1,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.098777 
+
+ rinnetense1,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.208217 
+
+ rinnetense1,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:43:09.990432 
+
+ rinnetense1,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.543017 
+
+ rinnetense1,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.260160 
+
+ rinnetense1,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:44:43.864072 
+
+ rinnetense1,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:45:18.661912 
+
+ rinnetense1,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:52:27.745275 
+
+ rinnetense1,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:09.722103 
+
+ rinnetense1,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:59:02.094734 
+
+ rinnetense1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:59:44.500988 
+
+ rinnetense1,     Gana,        <Channel name: shadowkekw>,       2024-11-07 11:00:32.099011 
+
+ rinnetense1,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.212837 
+
+ rinnetense1,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 11:02:06.769345 
+
+ rinnetense1,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.021073 
+
+ rinnetense1,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.099143 
+
+ rinnetense1,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.891919 
+
+ rinnetense1,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.247702 
+
+ rinnetense1,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 11:07:57.055464 
+
+ rinnetense1,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.852811 
+
+ rinnetense1,     Dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:11:30.608281 
+
+ rinnetense1,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:12:19.439622 
+
+ rinnetense1,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.458009 

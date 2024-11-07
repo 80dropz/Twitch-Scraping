@@ -1,0 +1,10 @@
+
+ stinger_6,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:53:31.184870 
+
+ stinger_6,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:54:06.324643 
+
+ stinger_6,     !rouletteall,        <Channel name: kaicenat>,       2024-11-07 09:54:39.662674 
+
+ stinger_6,     !roulette230,        <Channel name: kaicenat>,       2024-11-07 09:54:59.296627 
+
+ stinger_6,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:55:08.112743 

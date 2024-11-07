@@ -1,0 +1,8 @@
+
+ im_vvitorr,     emp,        <Channel name: lacy>,       2024-11-07 13:25:40.668967 
+
+ im_vvitorr,     emp,        <Channel name: lacy>,       2024-11-07 13:30:12.113230 
+
+ im_vvitorr,     emp,        <Channel name: lacy>,       2024-11-07 13:33:19.239243 
+
+ im_vvitorr,     biiig emp,        <Channel name: lacy>,       2024-11-07 13:33:31.921435 

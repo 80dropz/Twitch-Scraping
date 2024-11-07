@@ -1,0 +1,12 @@
+
+ k0ve_fnn,     PopNemo PopNemo PopNemo PopNemo,        <Channel name: mongraal>,       2024-11-07 10:48:48.488465 
+
+ k0ve_fnn,     Yo mongral,        <Channel name: mongraal>,       2024-11-07 10:49:15.280146 
+
+ k0ve_fnn,     !trio,        <Channel name: mongraal>,       2024-11-07 10:51:55.462237 
+
+ k0ve_fnn,     !trio,        <Channel name: mongraal>,       2024-11-07 10:55:06.677486 
+
+ k0ve_fnn,     mongraal use edit on realise?,        <Channel name: mongraal>,       2024-11-07 11:01:54.584432 
+
+ k0ve_fnn,     @rosoek thanks,        <Channel name: mongraal>,       2024-11-07 11:02:21.253530 

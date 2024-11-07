@@ -1,0 +1,6 @@
+
+ shotschoked,     200 deal or no deal,        <Channel name: nadeshot>,       2024-11-07 12:35:53.153237 
+
+ shotschoked,     200,        <Channel name: nadeshot>,       2024-11-07 12:36:03.722276 
+
+ shotschoked,     200.,        <Channel name: nadeshot>,       2024-11-07 12:36:19.437241 

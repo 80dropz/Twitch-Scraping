@@ -1,0 +1,10 @@
+
+ beerstain,     Cheer100,        <Channel name: kaicenat>,       2024-11-07 11:38:30.253467 
+
+ beerstain,     GoodOne,        <Channel name: kaicenat>,       2024-11-07 11:51:04.562727 
+
+ beerstain,     kastaBrows,        <Channel name: kaicenat>,       2024-11-07 11:51:14.686472 
+
+ beerstain,     Choo Chooo HeyHeyGuys,        <Channel name: kaicenat>,       2024-11-07 11:55:12.284543 
+
+ beerstain,     ButtonMash ButtonMash ButtonMash ButtonMash,        <Channel name: kaicenat>,       2024-11-07 11:56:25.709232 

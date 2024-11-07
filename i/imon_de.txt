@@ -1,0 +1,12 @@
+
+ imon_de,     hey,        <Channel name: nadeshot>,       2024-11-07 12:03:24.919454 
+
+ imon_de,     lmao,        <Channel name: nadeshot>,       2024-11-07 12:08:06.677277 
+
+ imon_de,     AINTNOWAY,        <Channel name: nadeshot>,       2024-11-07 12:09:29.524980 
+
+ imon_de,     hey,        <Channel name: nadeshot>,       2024-11-07 12:11:25.900404 
+
+ imon_de,     LMAOOOO,        <Channel name: nadeshot>,       2024-11-07 12:13:01.649220 
+
+ imon_de,     KEKW,        <Channel name: nadeshot>,       2024-11-07 12:15:14.368692 

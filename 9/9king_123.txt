@@ -1,0 +1,6 @@
+
+ 9king_123,     1v1,        <Channel name: mrlust>,       2024-11-07 12:44:52.989487 
+
+ 9king_123,     play 1v1 s,        <Channel name: mrlust>,       2024-11-07 12:45:10.791357 
+
+ 9king_123,     not battle royale,        <Channel name: mrlust>,       2024-11-07 12:45:27.999791 

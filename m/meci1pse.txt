@@ -1,0 +1,198 @@
+
+ meci1pse,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:43.614619 
+
+ meci1pse,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:18:02.217847 
+
+ meci1pse,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.607814 
+
+ meci1pse,     Swi,        <Channel name: shadowkekw>,       2024-11-07 10:18:22.992917 
+
+ meci1pse,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:18:33.545131 
+
+ meci1pse,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.675479 
+
+ meci1pse,     Swirzerland,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.886419 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:34:11.577120 
+
+ meci1pse,     icelamd,        <Channel name: shadowkekw>,       2024-11-07 10:34:32.923650 
+
+ meci1pse,     as,        <Channel name: shadowkekw>,       2024-11-07 10:35:23.463598 
+
+ meci1pse,     Jebaited,        <Channel name: shadowkekw>,       2024-11-07 10:36:27.935086 
+
+ meci1pse,     NotLikeThis,        <Channel name: shadowkekw>,       2024-11-07 10:36:29.798229 
+
+ meci1pse,     VoHiYo,        <Channel name: shadowkekw>,       2024-11-07 10:36:30.942164 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:36:53.214791 
+
+ meci1pse,     97,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.515381 
+
+ meci1pse,     Thailnad,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.543197 
+
+ meci1pse,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.753381 
+
+ meci1pse,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.886107 
+
+ meci1pse,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.755610 
+
+ meci1pse,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:15.973695 
+
+ meci1pse,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:39:31.593285 
+
+ meci1pse,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.088209 
+
+ meci1pse,     Roumaina,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.855107 
+
+ meci1pse,     Roumania,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.305878 
+
+ meci1pse,     LL,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.350899 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.464884 
+
+ meci1pse,     South Corea,        <Channel name: shadowkekw>,       2024-11-07 10:44:33.457081 
+
+ meci1pse,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:41.952786 
+
+ meci1pse,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:52.989674 
+
+ meci1pse,     o,        <Channel name: shadowkekw>,       2024-11-07 10:48:33.323002 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:02.245782 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.658900 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:52:41.092822 
+
+ meci1pse,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:53:33.471950 
+
+ meci1pse,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.519627 
+
+ meci1pse,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:20.718723 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.857237 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:55:35.164062 
+
+ meci1pse,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:06.435211 
+
+ meci1pse,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.730736 
+
+ meci1pse,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.910646 
+
+ meci1pse,     China,        <Channel name: shadowkekw>,       2024-11-07 11:00:58.521457 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:01:48.812725 
+
+ meci1pse,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:04:19.925140 
+
+ meci1pse,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:04:52.694218 
+
+ meci1pse,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 11:05:06.056395 
+
+ meci1pse,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 11:05:19.967938 
+
+ meci1pse,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:05:33.001701 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:05:36.962511 
+
+ meci1pse,     China,        <Channel name: shadowkekw>,       2024-11-07 11:07:41.498944 
+
+ meci1pse,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:16.749996 
+
+ meci1pse,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:11:53.384615 
+
+ meci1pse,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.774071 
+
+ meci1pse,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:13:44.362344 
+
+ meci1pse,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:54.276885 
+
+ meci1pse,     hz,        <Channel name: shadowkekw>,       2024-11-07 11:16:03.148077 
+
+ meci1pse,     F5,        <Channel name: shadowkekw>,       2024-11-07 11:16:13.184404 
+
+ meci1pse,     )),        <Channel name: shadowkekw>,       2024-11-07 11:20:19.106719 
+
+ meci1pse,     Clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:37.504558 
+
+ meci1pse,     [pfdsfdp[pf[sd\],        <Channel name: shadowkekw>,       2024-11-07 11:21:47.111005 
+
+ meci1pse,     )),        <Channel name: shadowkekw>,       2024-11-07 11:25:59.002301 
+
+ meci1pse,     Em,        <Channel name: shadowkekw>,       2024-11-07 11:26:38.929088 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:11.873796 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:59.371774 
+
+ meci1pse,     O,        <Channel name: shadowkekw>,       2024-11-07 11:40:51.415956 
+
+ meci1pse,     @shadowkekw MAKC TI KAKOI PEDORAS,        <Channel name: shadowkekw>,       2024-11-07 11:41:53.540675 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:44.137736 
+
+ meci1pse,     WW .,        <Channel name: shadowkekw>,       2024-11-07 11:44:56.775591 
+
+ meci1pse,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:10.224206 
+
+ meci1pse,     ej,        <Channel name: shadowkekw>,       2024-11-07 11:49:29.424417 
+
+ meci1pse,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:31.808469 
+
+ meci1pse,     ej,        <Channel name: shadowkekw>,       2024-11-07 11:49:36.342578 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:25.664340 
+
+ meci1pse,     WWWWWWWWWWWWWWW,        <Channel name: shadowkekw>,       2024-11-07 11:50:32.552625 
+
+ meci1pse,     O,        <Channel name: shadowkekw>,       2024-11-07 11:50:46.554975 
+
+ meci1pse,     70,        <Channel name: shadowkekw>,       2024-11-07 11:50:57.860848 
+
+ meci1pse,     65-70,        <Channel name: shadowkekw>,       2024-11-07 11:51:02.235089 
+
+ meci1pse,     65 70,        <Channel name: shadowkekw>,       2024-11-07 11:51:12.983554 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:11.241709 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:35.345033 
+
+ meci1pse,     <3 <3 <3 <3 <3 <3 <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:40.797470 
+
+ meci1pse,     fdsdf[]fd][dsf][,        <Channel name: shadowkekw>,       2024-11-07 11:58:29.903452 
+
+ meci1pse,     +60,        <Channel name: shadowkekw>,       2024-11-07 11:58:56.037562 
+
+ meci1pse,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:39.309380 
+
+ meci1pse,     <3,        <Channel name: shadowkekw>,       2024-11-07 12:00:57.287630 
+
+ meci1pse,     O,        <Channel name: shadowkekw>,       2024-11-07 12:01:41.696869 
+
+ meci1pse,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:57.906456 
+
+ meci1pse,     EZ,        <Channel name: shadowkekw>,       2024-11-07 12:04:09.138306 
+
+ meci1pse,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:06:33.554061 
+
+ meci1pse,     DFSLP[;SDFPOFDSP,        <Channel name: shadowkekw>,       2024-11-07 12:06:49.448889 
+
+ meci1pse,     )),        <Channel name: shadowkekw>,       2024-11-07 12:07:08.108056 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:07:30.727107 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:08:24.121786 
+
+ meci1pse,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:10:07.768865 
+
+ meci1pse,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:10:54.771755 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:20:51.127800 
+
+ meci1pse,     WWWWWWWW,        <Channel name: shadowkekw>,       2024-11-07 12:20:54.828904 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:20:57.338198 
+
+ meci1pse,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:28:05.842792 

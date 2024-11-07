@@ -1,0 +1,26 @@
+
+ sutemi6,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.210358 
+
+ sutemi6,     slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.286722 
+
+ sutemi6,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.944976 
+
+ sutemi6,     france,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.689356 
+
+ sutemi6,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.695694 
+
+ sutemi6,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:57.593573 
+
+ sutemi6,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:56:58.032085 
+
+ sutemi6,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:57:30.582079 
+
+ sutemi6,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:59:02.601561 
+
+ sutemi6,     france,        <Channel name: shadowkekw>,       2024-11-07 10:59:48.968737 
+
+ sutemi6,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:00:32.786445 
+
+ sutemi6,     france,        <Channel name: shadowkekw>,       2024-11-07 11:01:47.756527 
+
+ sutemi6,     france,        <Channel name: shadowkekw>,       2024-11-07 11:02:53.501439 

@@ -1,0 +1,4 @@
+
+ n0f4c3_2,     w,        <Channel name: kaicenat>,       2024-11-07 12:01:38.285634 
+
+ n0f4c3_2,     !gamble 320,        <Channel name: kaicenat>,       2024-11-07 12:02:01.145865 

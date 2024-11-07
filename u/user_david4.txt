@@ -1,0 +1,64 @@
+
+ user_david4,     !time,        <Channel name: kaicenat>,       2024-11-07 11:18:41.423756 
+
+ user_david4,     !time,        <Channel name: kaicenat>,       2024-11-07 11:21:11.466652 
+
+ user_david4,     BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:22:23.177631 
+
+ user_david4,     wwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:30:18.872767 
+
+ user_david4,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:24.871210 
+
+ user_david4,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:27.575854 
+
+ user_david4,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:44.686774 
+
+ user_david4,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:32:36.262141 
+
+ user_david4,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:32:40.233215 
+
+ user_david4,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:33:12.691960 
+
+ user_david4,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:33:16.621667 
+
+ user_david4,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:33:20.625567 
+
+ user_david4,     wwwww,        <Channel name: kaicenat>,       2024-11-07 11:34:18.829850 
+
+ user_david4,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:34:20.285955 
+
+ user_david4,     wwwww,        <Channel name: kaicenat>,       2024-11-07 11:34:22.440702 
+
+ user_david4,     WWWW BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:35:29.347660 
+
+ user_david4,     WWWWW BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:39:39.934468 
+
+ user_david4,     700 BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:40:20.530684 
+
+ user_david4,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:45:39.923838 
+
+ user_david4,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:46:59.792236 
+
+ user_david4,     Wwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:47:09.406033 
+
+ user_david4,     Wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:47:36.302362 
+
+ user_david4,     WWWWWWWW BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:48:31.624401 
+
+ user_david4,     GIFT MEEEEE,        <Channel name: kaicenat>,       2024-11-07 11:51:28.135620 
+
+ user_david4,     GIFT MEEE,        <Channel name: kaicenat>,       2024-11-07 11:51:38.411331 
+
+ user_david4,     GIFT ME,        <Channel name: kaicenat>,       2024-11-07 11:51:54.588928 
+
+ user_david4,     GIFT MEE,        <Channel name: kaicenat>,       2024-11-07 11:52:03.966013 
+
+ user_david4,     GIFT MEEEE BratChat,        <Channel name: kaicenat>,       2024-11-07 12:19:32.878759 
+
+ user_david4,     FREE MILES YA HEARD,        <Channel name: kaicenat>,       2024-11-07 12:27:56.354515 
+
+ user_david4,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 12:28:16.395737 
+
+ user_david4,     !time,        <Channel name: kaicenat>,       2024-11-07 12:32:27.365947 
+
+ user_david4,     BratChat,        <Channel name: kaicenat>,       2024-11-07 12:34:33.753235 

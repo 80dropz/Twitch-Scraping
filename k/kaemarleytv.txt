@@ -12,3 +12,13 @@
  kaemarleytv,     the time i counting down,        <Channel name: kaicenat>,       2024-11-07 01:47:58.728755 
 
  kaemarleytv,     poll,        <Channel name: kaicenat>,       2024-11-07 01:48:26.516600 
+
+ kaemarleytv,     lets gooooo,        <Channel name: kaicenat>,       2024-11-07 11:48:43.640929 
+
+ kaemarleytv,     500 moreeeee,        <Channel name: kaicenat>,       2024-11-07 11:50:17.701740 
+
+ kaemarleytv,     yooooo,        <Channel name: kaicenat>,       2024-11-07 12:12:34.050553 
+
+ kaemarleytv,     230000,        <Channel name: kaicenat>,       2024-11-07 12:48:03.898694 
+
+ kaemarleytv,     w 230000,        <Channel name: kaicenat>,       2024-11-07 12:52:23.296297 

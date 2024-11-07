@@ -1,0 +1,6 @@
+
+ tno_sab,     NOOO,        <Channel name: kaicenat>,       2024-11-07 13:22:43.871803 
+
+ tno_sab,     DAMN,        <Channel name: kaicenat>,       2024-11-07 13:23:58.269366 
+
+ tno_sab,     aDo it,        <Channel name: kaicenat>,       2024-11-07 13:32:01.817442 

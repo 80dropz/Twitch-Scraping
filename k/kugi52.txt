@@ -2,3 +2,9 @@
  kugi52,     54,        <Channel name: shadowkekw>,       2024-11-07 09:00:48.484638 
 
  kugi52,     110,        <Channel name: shadowkekw>,       2024-11-07 09:04:11.967816 
+
+ kugi52,     )),        <Channel name: shadowkekw>,       2024-11-07 11:28:10.978063 
+
+ kugi52,     shadow WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:48.470076 
+
+ kugi52,     )),        <Channel name: shadowkekw>,       2024-11-07 12:08:33.812623 

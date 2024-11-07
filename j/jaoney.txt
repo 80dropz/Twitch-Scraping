@@ -1,0 +1,162 @@
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:04.376280 
+
+ jaoney,     Miami,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.472127 
+
+ jaoney,     Kipr,        <Channel name: shadowkekw>,       2024-11-07 10:12:33.551345 
+
+ jaoney,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:13:32.647053 
+
+ jaoney,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:13:40.183771 
+
+ jaoney,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:58.957907 
+
+ jaoney,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.687983 
+
+ jaoney,     Japon,        <Channel name: shadowkekw>,       2024-11-07 10:15:09.269058 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:15:39.050883 
+
+ jaoney,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:15:58.521684 
+
+ jaoney,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.168705 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:16:12.508978 
+
+ jaoney,     China,        <Channel name: shadowkekw>,       2024-11-07 10:16:39.160843 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.774065 
+
+ jaoney,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:18:05.517038 
+
+ jaoney,     Pepu,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.135606 
+
+ jaoney,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:18:54.202374 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:19:14.854115 
+
+ jaoney,     New Ziland,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.073699 
+
+ jaoney,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.381661 
+
+ jaoney,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.163317 
+
+ jaoney,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.680851 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:21:04.055504 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:21:44.642653 
+
+ jaoney,     Spanish,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.835839 
+
+ jaoney,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.964740 
+
+ jaoney,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.611184 
+
+ jaoney,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.047869 
+
+ jaoney,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.644011 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.979471 
+
+ jaoney,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:31.000818 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.274519 
+
+ jaoney,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:25:41.786655 
+
+ jaoney,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:25:47.261586 
+
+ jaoney,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:26:43.309522 
+
+ jaoney,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.838816 
+
+ jaoney,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.264220 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:28:23.664325 
+
+ jaoney,     Serb,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.366759 
+
+ jaoney,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:29:23.349488 
+
+ jaoney,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.244964 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.813165 
+
+ jaoney,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.063349 
+
+ jaoney,     France,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.321755 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.180044 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.898351 
+
+ jaoney,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.290958 
+
+ jaoney,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:33.110482 
+
+ jaoney,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.009778 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:34:18.614685 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.752817 
+
+ jaoney,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.235346 
+
+ jaoney,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:35:34.375589 
+
+ jaoney,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.711294 
+
+ jaoney,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.739124 
+
+ jaoney,     Bangladés,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.805895 
+
+ jaoney,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:38:19.163668 
+
+ jaoney,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.145105 
+
+ jaoney,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:39:14.634564 
+
+ jaoney,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.152689 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.570824 
+
+ jaoney,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.241181 
+
+ jaoney,     India,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.315068 
+
+ jaoney,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.742971 
+
+ jaoney,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.236529 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:42:22.199377 
+
+ jaoney,     Rio de Janeiro,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.314908 
+
+ jaoney,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.014187 
+
+ jaoney,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.498241 
+
+ jaoney,     China,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.192765 
+
+ jaoney,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.236196 
+
+ jaoney,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:45:37.544462 
+
+ jaoney,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:46:00.419080 
+
+ jaoney,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:40.664501 
+
+ jaoney,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.911316 
+
+ jaoney,     Spanish,        <Channel name: shadowkekw>,       2024-11-07 10:47:21.162125 
+
+ jaoney,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:48:04.506807 
+
+ jaoney,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.743160 
+
+ jaoney,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:09.446950 
+
+ jaoney,     GTA 5,        <Channel name: shadowkekw>,       2024-11-07 10:50:19.475522 
+
+ jaoney,     DUBLVI DUBLVI MAKSUSHA DUBLVI,        <Channel name: kaicenat>,       2024-11-07 11:41:43.470497 

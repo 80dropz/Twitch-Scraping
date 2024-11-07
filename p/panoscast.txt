@@ -1,0 +1,10 @@
+
+ panoscast,     hes here,        <Channel name: lacy>,       2024-11-07 12:41:56.052126 
+
+ panoscast,     CLITT,        <Channel name: lacy>,       2024-11-07 12:44:40.751487 
+
+ panoscast,     BYE,        <Channel name: lacy>,       2024-11-07 12:49:20.302677 
+
+ panoscast,     GG,        <Channel name: lacy>,       2024-11-07 13:20:41.873238 
+
+ panoscast,     go pick her up dumbass,        <Channel name: lacy>,       2024-11-07 13:23:55.892357 

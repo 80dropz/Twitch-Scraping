@@ -2,3 +2,7 @@
  verjagter,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:41:28.814591 
 
  verjagter,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:41:41.959056 
+
+ verjagter,     !addme,        <Channel name: mrlust>,       2024-11-07 12:08:37.241779 
+
+ verjagter,     !rank,        <Channel name: mrlust>,       2024-11-07 12:14:23.823180 

@@ -2,3 +2,523 @@
  knoffik,     and,        <Channel name: shadowkekw>,       2024-11-07 09:06:59.277929 
 
  knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:09:09.156690 
+
+ knoffik,     PEru,        <Channel name: shadowkekw>,       2024-11-07 10:15:19.463648 
+
+ knoffik,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:16:27.459542 
+
+ knoffik,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.384132 
+
+ knoffik,     US,        <Channel name: shadowkekw>,       2024-11-07 10:23:47.810486 
+
+ knoffik,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.345502 
+
+ knoffik,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.532041 
+
+ knoffik,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.555975 
+
+ knoffik,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.017097 
+
+ knoffik,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.365765 
+
+ knoffik,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.769846 
+
+ knoffik,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:27:00.887937 
+
+ knoffik,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:27:38.522452 
+
+ knoffik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:00.922883 
+
+ knoffik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:39.859194 
+
+ knoffik,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.290530 
+
+ knoffik,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:28:55.702302 
+
+ knoffik,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.299104 
+
+ knoffik,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:29:10.617305 
+
+ knoffik,     Th,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.079865 
+
+ knoffik,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.736459 
+
+ knoffik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.536111 
+
+ knoffik,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.567037 
+
+ knoffik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.458066 
+
+ knoffik,     Jp,        <Channel name: shadowkekw>,       2024-11-07 10:30:22.688372 
+
+ knoffik,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.473793 
+
+ knoffik,     ac,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.436917 
+
+ knoffik,     Ph,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.636579 
+
+ knoffik,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.543847 
+
+ knoffik,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.893173 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:36:18.209512 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.690941 
+
+ knoffik,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.885522 
+
+ knoffik,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:38:04.574048 
+
+ knoffik,     ri,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.966572 
+
+ knoffik,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.612227 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.105110 
+
+ knoffik,     Vt,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.723588 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:40:40.014545 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:40:41.601880 
+
+ knoffik,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:40:47.403323 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.172368 
+
+ knoffik,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:25.744823 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.318252 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.219734 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:43:29.110304 
+
+ knoffik,     leron,        <Channel name: shadowkekw>,       2024-11-07 10:43:48.710896 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.271024 
+
+ knoffik,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:45:27.852620 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.411774 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.126735 
+
+ knoffik,     thai,        <Channel name: shadowkekw>,       2024-11-07 10:45:51.239743 
+
+ knoffik,     o,        <Channel name: shadowkekw>,       2024-11-07 10:45:58.014895 
+
+ knoffik,     )),        <Channel name: shadowkekw>,       2024-11-07 10:45:58.915670 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.419952 
+
+ knoffik,     is,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.366876 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.072986 
+
+ knoffik,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.785841 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 10:49:08.662046 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.614179 
+
+ knoffik,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:49:17.962425 
+
+ knoffik,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.014848 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.566448 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.855041 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.509071 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:49:58.327698 
+
+ knoffik,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.857193 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:50:06.754535 
+
+ knoffik,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:50:13.012004 
+
+ knoffik,     india,        <Channel name: shadowkekw>,       2024-11-07 10:50:17.778798 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.012048 
+
+ knoffik,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:51:18.713501 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:51:23.129216 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:51:35.270736 
+
+ knoffik,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.747831 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:51:49.042184 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.387972 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:52:06.199711 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:52:12.599300 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:52:47.454954 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:52:59.337276 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.412159 
+
+ knoffik,     do,        <Channel name: shadowkekw>,       2024-11-07 10:53:02.997671 
+
+ knoffik,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.838746 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:54:17.803759 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:54:51.363024 
+
+ knoffik,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:55:01.909613 
+
+ knoffik,     br,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.500551 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.431346 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:55:32.944571 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.297231 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:55:54.726452 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.106887 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.425253 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:56:09.410862 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:21.643766 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.792743 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.520364 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 10:56:52.365410 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:57:09.922133 
+
+ knoffik,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.660064 
+
+ knoffik,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:57:15.855438 
+
+ knoffik,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:57:20.381098 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 10:57:24.498388 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:57:33.373202 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.848144 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:58:54.260119 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.481361 
+
+ knoffik,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:59:06.929393 
+
+ knoffik,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:59:09.617744 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.475967 
+
+ knoffik,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:59:29.598883 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:59:39.372827 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:59:41.708610 
+
+ knoffik,     br,        <Channel name: shadowkekw>,       2024-11-07 10:59:52.512781 
+
+ knoffik,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:07.152450 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:00:11.035830 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.116541 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:00:24.708301 
+
+ knoffik,     thai,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.978492 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:00:32.539243 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:00:44.789562 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:00:50.323258 
+
+ knoffik,     in,        <Channel name: shadowkekw>,       2024-11-07 11:00:56.657883 
+
+ knoffik,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:01:01.658836 
+
+ knoffik,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:01:12.691224 
+
+ knoffik,     qu,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.041483 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:01:16.059227 
+
+ knoffik,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:01:17.473513 
+
+ knoffik,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.326541 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:26.241072 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:01:41.903969 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:01:43.936343 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:02:02.677465 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:02:04.421341 
+
+ knoffik,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:02:05.841879 
+
+ knoffik,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:02:09.501299 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:02:12.020338 
+
+ knoffik,     )),        <Channel name: shadowkekw>,       2024-11-07 11:02:13.826557 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:02:23.870927 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:02:28.091734 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:02:29.883664 
+
+ knoffik,     hg,        <Channel name: shadowkekw>,       2024-11-07 11:02:32.352480 
+
+ knoffik,     pz,        <Channel name: shadowkekw>,       2024-11-07 11:02:39.593020 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:02:42.111881 
+
+ knoffik,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.197740 
+
+ knoffik,     br,        <Channel name: shadowkekw>,       2024-11-07 11:02:53.126657 
+
+ knoffik,     bs,        <Channel name: shadowkekw>,       2024-11-07 11:02:54.637275 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:03:04.297483 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:03:08.643580 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.338695 
+
+ knoffik,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:03:15.345632 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.451052 
+
+ knoffik,     gh,        <Channel name: shadowkekw>,       2024-11-07 11:03:21.157461 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:03:26.425513 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:03:27.609574 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.119146 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:03:32.473760 
+
+ knoffik,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:03:33.078357 
+
+ knoffik,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.407230 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:37.339575 
+
+ knoffik,     id,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.663453 
+
+ knoffik,     do,        <Channel name: shadowkekw>,       2024-11-07 11:03:39.828688 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:03:46.149924 
+
+ knoffik,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:03:48.954513 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:03:50.501822 
+
+ knoffik,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:03:54.058752 
+
+ knoffik,     th,        <Channel name: shadowkekw>,       2024-11-07 11:03:54.552074 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:05.155296 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:04:08.597747 
+
+ knoffik,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:04:09.665738 
+
+ knoffik,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:04:11.024302 
+
+ knoffik,     greece,        <Channel name: shadowkekw>,       2024-11-07 11:04:16.940965 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.563599 
+
+ knoffik,     az,        <Channel name: shadowkekw>,       2024-11-07 11:04:19.388981 
+
+ knoffik,     za,        <Channel name: shadowkekw>,       2024-11-07 11:04:22.491944 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.428042 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 11:04:29.124187 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.791022 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:04:37.490028 
+
+ knoffik,     oae,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.550745 
+
+ knoffik,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:04:45.529410 
+
+ knoffik,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.238986 
+
+ knoffik,     za,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.803578 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:05:25.142918 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:05:29.727498 
+
+ knoffik,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.491176 
+
+ knoffik,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:05:42.725921 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.376765 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:06:26.479713 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:06:57.513519 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.761027 
+
+ knoffik,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:07:08.728804 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:07:29.082893 
+
+ knoffik,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.550805 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.501627 
+
+ knoffik,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:08:17.373700 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 11:08:24.864839 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:08:50.507763 
+
+ knoffik,     do,        <Channel name: shadowkekw>,       2024-11-07 11:09:00.153321 
+
+ knoffik,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:03.563900 
+
+ knoffik,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:09:07.897736 
+
+ knoffik,     ci,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.302526 
+
+ knoffik,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:34.721978 
+
+ knoffik,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:09:51.273658 
+
+ knoffik,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:10:11.725646 
+
+ knoffik,     pn,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.008129 
+
+ knoffik,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:10:28.491141 
+
+ knoffik,     )),        <Channel name: shadowkekw>,       2024-11-07 11:10:48.684953 
+
+ knoffik,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:10:57.517824 
+
+ knoffik,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:08.011693 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.817759 
+
+ knoffik,     za,        <Channel name: shadowkekw>,       2024-11-07 11:11:25.469611 
+
+ knoffik,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:11:30.857988 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.697361 
+
+ knoffik,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.254572 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:12:10.588763 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 11:12:26.307167 
+
+ knoffik,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.765454 
+
+ knoffik,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.855782 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:13:14.097626 
+
+ knoffik,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:13:58.224055 
+
+ knoffik,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:14:14.582504 
+
+ knoffik,     us,        <Channel name: shadowkekw>,       2024-11-07 11:14:17.182358 
+
+ knoffik,     za,        <Channel name: shadowkekw>,       2024-11-07 11:14:19.784407 
+
+ knoffik,     ci,        <Channel name: shadowkekw>,       2024-11-07 11:14:26.017992 
+
+ knoffik,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:14:28.337002 
+
+ knoffik,     co,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.926468 
+
+ knoffik,     do,        <Channel name: shadowkekw>,       2024-11-07 11:14:33.458404 
+
+ knoffik,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:14:38.851986 
+
+ knoffik,     br,        <Channel name: shadowkekw>,       2024-11-07 11:14:40.190883 
+
+ knoffik,     om,        <Channel name: shadowkekw>,       2024-11-07 11:14:45.218777 
+
+ knoffik,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:14:48.394269 
+
+ knoffik,     au,        <Channel name: shadowkekw>,       2024-11-07 11:14:50.181259 
+
+ knoffik,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:14:51.234227 
+
+ knoffik,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:14:52.153013 
+
+ knoffik,     br,        <Channel name: shadowkekw>,       2024-11-07 11:14:54.044342 
+
+ knoffik,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:14:56.625791 
+
+ knoffik,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:15:08.356333 
+
+ knoffik,     ice of man,        <Channel name: shadowkekw>,       2024-11-07 11:15:12.392503 
+
+ knoffik,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:15:16.190481 
+
+ knoffik,     jp\,        <Channel name: shadowkekw>,       2024-11-07 11:15:21.129867 
+
+ knoffik,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:15:22.546111 
+
+ knoffik,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:15:23.659823 
+
+ knoffik,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:15:25.026520 
+
+ knoffik,     j,        <Channel name: shadowkekw>,       2024-11-07 11:21:58.055017 
+
+ knoffik,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:24:19.792847 
+
+ knoffik,     WW SHADOW,        <Channel name: shadowkekw>,       2024-11-07 11:25:37.232848 
+
+ knoffik,     SHADOW WW,        <Channel name: shadowkekw>,       2024-11-07 11:28:38.812846 
+
+ knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:47.417844 
+
+ knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:31:26.486500 
+
+ knoffik,     +,        <Channel name: shadowkekw>,       2024-11-07 11:35:01.152376 
+
+ knoffik,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:35:58.727193 
+
+ knoffik,     SHADOOOOW,        <Channel name: shadowkekw>,       2024-11-07 11:38:53.352963 
+
+ knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:11.827078 
+
+ knoffik,     o,        <Channel name: shadowkekw>,       2024-11-07 11:40:54.102141 
+
+ knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:55.948874 
+
+ knoffik,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:31.498384 
+
+ knoffik,     )),        <Channel name: shadowkekw>,       2024-11-07 12:04:47.677157 
+
+ knoffik,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:17:30.650779 
+
+ knoffik,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:56:05.267619 

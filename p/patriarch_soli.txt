@@ -1,0 +1,48 @@
+
+ patriarch_soli,     kepr,        <Channel name: shadowkekw>,       2024-11-07 10:46:53.552605 
+
+ patriarch_soli,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:47:12.561494 
+
+ patriarch_soli,     franche,        <Channel name: shadowkekw>,       2024-11-07 10:49:18.123064 
+
+ patriarch_soli,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:01.538437 
+
+ patriarch_soli,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.648420 
+
+ patriarch_soli,     armenia,        <Channel name: shadowkekw>,       2024-11-07 10:56:30.391026 
+
+ patriarch_soli,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.182853 
+
+ patriarch_soli,     french,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.059130 
+
+ patriarch_soli,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:51.522966 
+
+ patriarch_soli,     turkey,        <Channel name: shadowkekw>,       2024-11-07 11:02:10.798042 
+
+ patriarch_soli,     france,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.025450 
+
+ patriarch_soli,     gana,        <Channel name: shadowkekw>,       2024-11-07 11:04:37.371901 
+
+ patriarch_soli,     kongo,        <Channel name: shadowkekw>,       2024-11-07 11:06:14.725862 
+
+ patriarch_soli,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:06:34.218306 
+
+ patriarch_soli,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:07:37.250116 
+
+ patriarch_soli,     philipine,        <Channel name: shadowkekw>,       2024-11-07 11:07:55.083195 
+
+ patriarch_soli,     england,        <Channel name: shadowkekw>,       2024-11-07 11:11:10.824513 
+
+ patriarch_soli,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.605085 
+
+ patriarch_soli,     france,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.373846 
+
+ patriarch_soli,     romania,        <Channel name: shadowkekw>,       2024-11-07 11:12:35.353495 
+
+ patriarch_soli,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:12:52.400961 
+
+ patriarch_soli,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:20.737739 
+
+ patriarch_soli,     south korea,        <Channel name: shadowkekw>,       2024-11-07 11:13:35.378139 
+
+ patriarch_soli,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:16:50.303759 

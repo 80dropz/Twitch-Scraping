@@ -4,3 +4,33 @@
  nandisession,     kaicPrime kaicPrime,        <Channel name: kaicenat>,       2024-11-07 09:11:44.737411 
 
  nandisession,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:11:46.426017 
+
+ nandisession,     please sub me,        <Channel name: kaicenat>,       2024-11-07 11:37:12.020878 
+
+ nandisession,     kaicHeart_HF kaicHeart_HF kaicHeart_HF,        <Channel name: kaicenat>,       2024-11-07 11:52:06.043428 
+
+ nandisession,     kaicPrime kaicPrime,        <Channel name: kaicenat>,       2024-11-07 11:52:08.987545 
+
+ nandisession,     kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 11:52:10.742734 
+
+ nandisession,     kaicSHOOK kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 11:52:12.587794 
+
+ nandisession,     kaicHeart_HF kaicHeart_HF kaicHeart_HF,        <Channel name: kaicenat>,       2024-11-07 11:52:14.248539 
+
+ nandisession,     kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 11:52:16.926255 
+
+ nandisession,     kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 11:52:18.499896 
+
+ nandisession,     kaicHeart_HF kaicHeart_HF,        <Channel name: kaicenat>,       2024-11-07 11:52:21.612958 
+
+ nandisession,     kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 11:52:22.822784 
+
+ nandisession,     kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 11:52:25.163135 
+
+ nandisession,     kaicHeart_HF kaicHeart_HF kaicHeart_HF kaicHeart_HF kaicHeart_HF,        <Channel name: kaicenat>,       2024-11-07 11:52:28.341572 
+
+ nandisession,     s as one one sub me please,        <Channel name: kaicenat>,       2024-11-07 11:53:03.731601 
+
+ nandisession,     someone sub me please,        <Channel name: kaicenat>,       2024-11-07 11:53:14.307332 
+
+ nandisession,     kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime kaicPrime,        <Channel name: kaicenat>,       2024-11-07 12:12:12.949672 

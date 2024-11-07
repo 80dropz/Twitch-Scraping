@@ -1,0 +1,10 @@
+
+ sheed3700,     100,        <Channel name: kaicenat>,       2024-11-07 12:10:43.355288 
+
+ sheed3700,     Yo 100,        <Channel name: kaicenat>,       2024-11-07 12:11:48.204356 
+
+ sheed3700,     100,        <Channel name: kaicenat>,       2024-11-07 12:25:16.202284 
+
+ sheed3700,     100,        <Channel name: kaicenat>,       2024-11-07 12:32:36.238570 
+
+ sheed3700,     Gg,        <Channel name: kaicenat>,       2024-11-07 13:24:16.869898 

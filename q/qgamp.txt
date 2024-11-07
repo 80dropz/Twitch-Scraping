@@ -1,0 +1,10 @@
+
+ qgamp,     PL,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.013921 
+
+ qgamp,     PL,        <Channel name: shadowkekw>,       2024-11-07 10:59:44.489982 
+
+ qgamp,     PL,        <Channel name: shadowkekw>,       2024-11-07 11:06:25.275429 
+
+ qgamp,     PL,        <Channel name: shadowkekw>,       2024-11-07 11:07:27.753372 
+
+ qgamp,     PL,        <Channel name: shadowkekw>,       2024-11-07 11:10:05.248258 

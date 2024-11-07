@@ -1,0 +1,14 @@
+
+ jay_187,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:53:46.709688 
+
+ jay_187,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:54:23.528704 
+
+ jay_187,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:54:47.904749 
+
+ jay_187,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:55:32.148762 
+
+ jay_187,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:56:16.201058 
+
+ jay_187,     !subscribe,        <Channel name: kaicenat>,       2024-11-07 09:57:18.457965 
+
+ jay_187,     !followage,        <Channel name: kaicenat>,       2024-11-07 09:58:12.399620 

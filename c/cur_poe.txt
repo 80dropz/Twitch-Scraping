@@ -1,0 +1,10 @@
+
+ cur_poe,     KEKW,        <Channel name: kaicenat>,       2024-11-07 11:14:41.039624 
+
+ cur_poe,     Nice fart,        <Channel name: kaicenat>,       2024-11-07 11:14:48.559856 
+
+ cur_poe,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:56:48.512725 
+
+ cur_poe,     SCAM,        <Channel name: kaicenat>,       2024-11-07 13:01:09.234482 
+
+ cur_poe,     SCAM L,        <Channel name: kaicenat>,       2024-11-07 13:02:04.929085 

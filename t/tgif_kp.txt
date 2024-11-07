@@ -1,0 +1,28 @@
+
+ tgif_kp,     move phone,        <Channel name: kaicenat>,       2024-11-07 13:05:16.482697 
+
+ tgif_kp,     gg,        <Channel name: kaicenat>,       2024-11-07 13:06:54.772403 
+
+ tgif_kp,     w,        <Channel name: kaicenat>,       2024-11-07 13:08:21.789973 
+
+ tgif_kp,     we,        <Channel name: kaicenat>,       2024-11-07 13:08:27.503426 
+
+ tgif_kp,     ww,        <Channel name: kaicenat>,       2024-11-07 13:08:32.234337 
+
+ tgif_kp,     I love you,        <Channel name: kaicenat>,       2024-11-07 13:09:41.217794 
+
+ tgif_kp,     hey,        <Channel name: kaicenat>,       2024-11-07 13:09:48.060310 
+
+ tgif_kp,     I live you,        <Channel name: kaicenat>,       2024-11-07 13:10:26.905512 
+
+ tgif_kp,     let’s fight,        <Channel name: kaicenat>,       2024-11-07 13:11:29.718820 
+
+ tgif_kp,     it’s water proof,        <Channel name: kaicenat>,       2024-11-07 13:20:54.261265 
+
+ tgif_kp,     it’s waterproof,        <Channel name: kaicenat>,       2024-11-07 13:21:50.756660 
+
+ tgif_kp,     it’s water proof,        <Channel name: kaicenat>,       2024-11-07 13:23:23.557700 
+
+ tgif_kp,     sold,        <Channel name: kaicenat>,       2024-11-07 13:25:59.099216 
+
+ tgif_kp,     Kai wtf,        <Channel name: kaicenat>,       2024-11-07 13:33:56.665071 

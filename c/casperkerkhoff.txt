@@ -1,0 +1,4 @@
+
+ casperkerkhoff,     !sense,        <Channel name: mrlust>,       2024-11-07 10:18:13.740932 
+
+ casperkerkhoff,     !sens,        <Channel name: mrlust>,       2024-11-07 10:18:19.743889 

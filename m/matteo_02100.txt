@@ -1,0 +1,10 @@
+
+ matteo_02100,     nadeMeat nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 11:37:00.053985 
+
+ matteo_02100,     https://clips.twitch.tv/LightShinyMetalBatChest-yzc2BgmcTNCWrEj_,        <Channel name: nadeshot>,       2024-11-07 11:52:20.425197 
+
+ matteo_02100,     @opticdevin815 no Hector has it,        <Channel name: nadeshot>,       2024-11-07 12:30:06.189395 
+
+ matteo_02100,     @opticdevin815 no he sold it to Hecz,        <Channel name: nadeshot>,       2024-11-07 12:30:56.862599 
+
+ matteo_02100,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 12:31:43.678569 

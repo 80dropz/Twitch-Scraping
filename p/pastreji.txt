@@ -6,3 +6,7 @@
  pastreji,     XD,        <Channel name: shadowkekw>,       2024-11-07 09:35:22.038930 
 
  pastreji,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:39:03.323780 
+
+ pastreji,     ky,        <Channel name: shadowkekw>,       2024-11-07 09:55:34.956476 
+
+ pastreji,     fm,        <Channel name: shadowkekw>,       2024-11-07 09:55:54.362052 

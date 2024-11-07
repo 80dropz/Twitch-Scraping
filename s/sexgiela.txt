@@ -1,2 +1,14 @@
 
  sexgiela,     plaqueboyTA,        <Channel name: kaicenat>,       2024-11-07 09:41:15.926359 
+
+ sexgiela,     i barely see the sub count,        <Channel name: kaicenat>,       2024-11-07 09:59:41.822486 
+
+ sexgiela,     !points,        <Channel name: kaicenat>,       2024-11-07 10:11:44.367098 
+
+ sexgiela,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:12:20.714879 
+
+ sexgiela,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 10:12:35.356686 
+
+ sexgiela,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 10:13:26.665014 
+
+ sexgiela,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:13:59.262109 

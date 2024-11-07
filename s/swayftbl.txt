@@ -1,0 +1,6 @@
+
+ swayftbl,     !sens,        <Channel name: mongraal>,       2024-11-07 12:11:24.952203 
+
+ swayftbl,     !dpi,        <Channel name: mongraal>,       2024-11-07 12:11:41.735318 
+
+ swayftbl,     !dpi,        <Channel name: mongraal>,       2024-11-07 12:12:35.871186 

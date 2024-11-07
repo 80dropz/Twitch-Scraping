@@ -1,0 +1,22 @@
+
+ swamp9,     france,        <Channel name: shadowkekw>,       2024-11-07 10:49:57.011533 
+
+ swamp9,     h,        <Channel name: shadowkekw>,       2024-11-07 10:51:06.887850 
+
+ swamp9,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:54:20.085072 
+
+ swamp9,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:54:43.931830 
+
+ swamp9,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.187815 
+
+ swamp9,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:57.231807 
+
+ swamp9,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:57:48.566237 
+
+ swamp9,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:32.165599 
+
+ swamp9,     south korea,        <Channel name: shadowkekw>,       2024-11-07 11:01:02.279912 
+
+ swamp9,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:41.783480 
+
+ swamp9,     Congo,        <Channel name: shadowkekw>,       2024-11-07 11:06:20.010595 

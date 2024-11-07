@@ -1,0 +1,4 @@
+
+ 313_alba,     do u get percentage for kills?,        <Channel name: mongraal>,       2024-11-07 11:25:37.108254 
+
+ 313_alba,     do u get percentage for kils,        <Channel name: mongraal>,       2024-11-07 11:26:01.726677 

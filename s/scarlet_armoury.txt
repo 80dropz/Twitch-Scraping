@@ -6,3 +6,7 @@
  scarlet_armoury,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:44:00.997131 
 
  scarlet_armoury,     60 sec,        <Channel name: kaicenat>,       2024-11-07 01:45:07.146575 
+
+ scarlet_armoury,     does he ever have to go to the bathroom,        <Channel name: kaicenat>,       2024-11-07 11:43:30.127949 
+
+ scarlet_armoury,     Working hard spiderman,        <Channel name: kaicenat>,       2024-11-07 11:51:31.397733 

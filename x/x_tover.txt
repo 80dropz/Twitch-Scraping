@@ -14,3 +14,129 @@
  x_tover,     sad,        <Channel name: shadowkekw>,       2024-11-07 09:20:11.605220 
 
  x_tover,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:42:53.518968 
+
+ x_tover,     :),        <Channel name: shadowkekw>,       2024-11-07 09:52:49.474358 
+
+ x_tover,     makaka,        <Channel name: shadowkekw>,       2024-11-07 09:58:52.905076 
+
+ x_tover,     )),        <Channel name: shadowkekw>,       2024-11-07 10:00:21.631376 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:05.320502 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:52.511947 
+
+ x_tover,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:02.242761 
+
+ x_tover,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.941953 
+
+ x_tover,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:13:06.067205 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.293442 
+
+ x_tover,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:14:42.337830 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.407352 
+
+ x_tover,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.074695 
+
+ x_tover,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:16:43.044699 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.766632 
+
+ x_tover,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:32.251023 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:19:32.583601 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:20:12.125129 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:20:48.115550 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.287962 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.421179 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.468823 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:28:42.831571 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.302371 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.059943 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.039344 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:46.285493 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:32:25.198932 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:33:34.410673 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.990631 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.022395 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.300929 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.587588 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:38:20.668327 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.024267 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:39:46.127220 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.261208 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:42:08.952233 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:42:47.596821 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.851185 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.432128 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:45:27.932939 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:46:01.745639 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.867642 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:47:22.658027 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:05.555364 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:49:21.135965 
+
+ x_tover,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.800259 
+
+ x_tover,     UJ,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.719567 
+
+ x_tover,     Tapung,        <Channel name: shadowkekw>,       2024-11-07 10:53:12.866807 
+
+ x_tover,     Tarlac,        <Channel name: shadowkekw>,       2024-11-07 10:54:41.498273 
+
+ x_tover,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.684062 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.884400 
+
+ x_tover,     France,        <Channel name: shadowkekw>,       2024-11-07 10:57:57.322153 
+
+ x_tover,     Bangi,        <Channel name: shadowkekw>,       2024-11-07 11:01:00.681955 
+
+ x_tover,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 11:02:17.695203 
+
+ x_tover,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:03:30.770175 
+
+ x_tover,     )),        <Channel name: shadowkekw>,       2024-11-07 11:16:38.082102 
+
+ x_tover,     196-198,        <Channel name: shadowkekw>,       2024-11-07 11:18:44.407822 
+
+ x_tover,     cmonBruh cmonBruh cmonBruh cmonBruh,        <Channel name: shadowkekw>,       2024-11-07 11:24:01.778639 
+
+ x_tover,     Hello,        <Channel name: shadowkekw>,       2024-11-07 12:02:56.751992 
+
+ x_tover,     AGOJGDGJEGNOERNOBAROAR,        <Channel name: shadowkekw>,       2024-11-07 12:04:18.629689 
+
+ x_tover,     Fact,        <Channel name: shadowkekw>,       2024-11-07 12:04:47.063220 
+
+ x_tover,     )),        <Channel name: shadowkekw>,       2024-11-07 12:24:29.624703 

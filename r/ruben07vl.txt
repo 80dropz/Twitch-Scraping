@@ -1,0 +1,4 @@
+
+ ruben07vl,     !res,        <Channel name: mongraal>,       2024-11-07 10:38:12.154399 
+
+ ruben07vl,     !res,        <Channel name: clix>,       2024-11-07 10:38:25.708965 

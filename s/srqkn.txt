@@ -1,0 +1,26 @@
+
+ srqkn,     0,        <Channel name: lacy>,       2024-11-07 12:39:30.784909 
+
+ srqkn,     0000,        <Channel name: lacy>,       2024-11-07 12:39:33.824858 
+
+ srqkn,     000000,        <Channel name: lacy>,       2024-11-07 12:39:36.174057 
+
+ srqkn,     0000,        <Channel name: lacy>,       2024-11-07 12:39:38.042349 
+
+ srqkn,     00000,        <Channel name: lacy>,       2024-11-07 12:39:40.557006 
+
+ srqkn,     0,        <Channel name: lacy>,       2024-11-07 12:39:55.764296 
+
+ srqkn,     bye,        <Channel name: lacy>,       2024-11-07 12:49:54.404212 
+
+ srqkn,     l,        <Channel name: lacy>,       2024-11-07 12:51:41.744514 
+
+ srqkn,     she cheasted on u,        <Channel name: lacy>,       2024-11-07 12:52:03.153671 
+
+ srqkn,     she cheated on u dumbass,        <Channel name: lacy>,       2024-11-07 12:52:58.780775 
+
+ srqkn,     f u,        <Channel name: lacy>,       2024-11-07 12:53:25.086336 
+
+ srqkn,     bettttt,        <Channel name: lacy>,       2024-11-07 13:01:40.198322 
+
+ srqkn,     jorkin,        <Channel name: lacy>,       2024-11-07 13:02:10.333295 

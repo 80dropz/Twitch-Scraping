@@ -1,0 +1,4 @@
+
+ otto_0808,     !time,        <Channel name: clix>,       2024-11-07 10:57:27.708128 
+
+ otto_0808,     wsg,        <Channel name: clix>,       2024-11-07 10:59:27.606663 

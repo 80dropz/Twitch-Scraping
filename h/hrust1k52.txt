@@ -1,0 +1,64 @@
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:14.310406 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:40:03.266294 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.724267 
+
+ hrust1k52,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.705375 
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.372264 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:41:36.730517 
+
+ hrust1k52,     per,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.535483 
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.661199 
+
+ hrust1k52,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.002906 
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.391381 
+
+ hrust1k52,     tur,        <Channel name: shadowkekw>,       2024-11-07 10:42:41.664777 
+
+ hrust1k52,     dn,        <Channel name: shadowkekw>,       2024-11-07 10:43:17.106956 
+
+ hrust1k52,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.746296 
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:41.675279 
+
+ hrust1k52,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.913237 
+
+ hrust1k52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:44:09.368348 
+
+ hrust1k52,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:44:57.810413 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.655429 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.362062 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:46:34.715355 
+
+ hrust1k52,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:46:53.777162 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:47:16.901352 
+
+ hrust1k52,     Swe,        <Channel name: shadowkekw>,       2024-11-07 10:47:32.592773 
+
+ hrust1k52,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:48:12.787950 
+
+ hrust1k52,     Fin,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.239224 
+
+ hrust1k52,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.584914 
+
+ hrust1k52,     irak,        <Channel name: shadowkekw>,       2024-11-07 10:50:21.321084 
+
+ hrust1k52,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:50:39.811556 
+
+ hrust1k52,     c,        <Channel name: shadowkekw>,       2024-11-07 10:51:31.767158 
+
+ hrust1k52,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:51:49.635065 
+
+ hrust1k52,     china,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.483485 
+
+ hrust1k52,     fin,        <Channel name: shadowkekw>,       2024-11-07 10:56:41.748321 

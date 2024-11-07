@@ -1,0 +1,54 @@
+
+ xqcsayingl,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.575096 
+
+ xqcsayingl,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:47:07.511115 
+
+ xqcsayingl,     it,        <Channel name: shadowkekw>,       2024-11-07 10:47:40.184549 
+
+ xqcsayingl,     in,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.901971 
+
+ xqcsayingl,     me,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.164519 
+
+ xqcsayingl,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.428832 
+
+ xqcsayingl,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:48:55.509936 
+
+ xqcsayingl,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.152659 
+
+ xqcsayingl,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.628068 
+
+ xqcsayingl,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.044101 
+
+ xqcsayingl,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:51:21.624455 
+
+ xqcsayingl,     me,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.155988 
+
+ xqcsayingl,     ta,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.266314 
+
+ xqcsayingl,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:52:26.270189 
+
+ xqcsayingl,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.353544 
+
+ xqcsayingl,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.114317 
+
+ xqcsayingl,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.861600 
+
+ xqcsayingl,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:02.365946 
+
+ xqcsayingl,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.070261 
+
+ xqcsayingl,     me,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.557397 
+
+ xqcsayingl,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:56:06.066219 
+
+ xqcsayingl,     hi,        <Channel name: shadowkekw>,       2024-11-07 10:56:22.361189 
+
+ xqcsayingl,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:56:56.440993 
+
+ xqcsayingl,     do,        <Channel name: shadowkekw>,       2024-11-07 10:57:32.519434 
+
+ xqcsayingl,     d,        <Channel name: shadowkekw>,       2024-11-07 10:58:03.949393 
+
+ xqcsayingl,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:58:43.516651 
+
+ xqcsayingl,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.685128 

@@ -1,0 +1,128 @@
+
+ armagedon_48,     sps,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.806559 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 10:27:16.804883 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 10:29:01.719220 
+
+ armagedon_48,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.548231 
+
+ armagedon_48,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.936978 
+
+ armagedon_48,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:31:28.329329 
+
+ armagedon_48,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.369099 
+
+ armagedon_48,     CHILIE,        <Channel name: shadowkekw>,       2024-11-07 10:34:18.935996 
+
+ armagedon_48,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:44.316507 
+
+ armagedon_48,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.659756 
+
+ armagedon_48,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.520660 
+
+ armagedon_48,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.683513 
+
+ armagedon_48,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:38:58.555894 
+
+ armagedon_48,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:39:22.368582 
+
+ armagedon_48,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:15.884332 
+
+ armagedon_48,     India,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.475474 
+
+ armagedon_48,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.468045 
+
+ armagedon_48,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.280575 
+
+ armagedon_48,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.656053 
+
+ armagedon_48,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:44:20.981797 
+
+ armagedon_48,     china,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.083285 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 10:44:55.270952 
+
+ armagedon_48,     china,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.298697 
+
+ armagedon_48,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:45:28.061651 
+
+ armagedon_48,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:45:49.343763 
+
+ armagedon_48,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.869808 
+
+ armagedon_48,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.568380 
+
+ armagedon_48,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:47:22.687029 
+
+ armagedon_48,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:44.669623 
+
+ armagedon_48,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.605034 
+
+ armagedon_48,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.364875 
+
+ armagedon_48,     grece,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.624179 
+
+ armagedon_48,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:48:54.382339 
+
+ armagedon_48,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.671913 
+
+ armagedon_48,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.075154 
+
+ armagedon_48,     german,        <Channel name: shadowkekw>,       2024-11-07 10:51:13.276784 
+
+ armagedon_48,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.525183 
+
+ armagedon_48,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.756425 
+
+ armagedon_48,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:35.974597 
+
+ armagedon_48,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.874558 
+
+ armagedon_48,     france,        <Channel name: shadowkekw>,       2024-11-07 10:54:54.470040 
+
+ armagedon_48,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:57:53.757265 
+
+ armagedon_48,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.876061 
+
+ armagedon_48,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:59:21.157031 
+
+ armagedon_48,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:00:07.239961 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 11:00:42.330276 
+
+ armagedon_48,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 11:01:55.367810 
+
+ armagedon_48,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.614254 
+
+ armagedon_48,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 11:04:04.572518 
+
+ armagedon_48,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:04:59.485092 
+
+ armagedon_48,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:05:28.185661 
+
+ armagedon_48,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.741940 
+
+ armagedon_48,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:08:15.534913 
+
+ armagedon_48,     Panama,        <Channel name: shadowkekw>,       2024-11-07 11:08:53.342272 
+
+ armagedon_48,     angola,        <Channel name: shadowkekw>,       2024-11-07 11:10:07.741061 
+
+ armagedon_48,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:45.736571 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 11:10:54.363236 
+
+ armagedon_48,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.392113 
+
+ armagedon_48,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:15:25.227732 
+
+ armagedon_48,     ez,        <Channel name: shadowkekw>,       2024-11-07 11:15:46.153834 
+
+ armagedon_48,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:55.169457 
+
+ armagedon_48,     oh,        <Channel name: shadowkekw>,       2024-11-07 11:17:29.509432 
+
+ armagedon_48,     322,        <Channel name: shadowkekw>,       2024-11-07 11:17:48.696847 
+
+ armagedon_48,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:13.574494 

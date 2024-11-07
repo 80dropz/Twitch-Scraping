@@ -25,3 +25,9 @@
 
  3lsaa__,     do 30 or 33 secs,        <Channel name: kaicenat>,       2024-11-07 01:43:45.497301 
 >>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
+
+ 3lsaa__,     oh fuck,        <Channel name: kaicenat>,       2024-11-07 13:15:38.466544 
+
+ 3lsaa__,     GET MIC AND PHONE,        <Channel name: kaicenat>,       2024-11-07 13:16:36.466430 
+
+ 3lsaa__,     no,        <Channel name: kaicenat>,       2024-11-07 13:19:04.941564 

@@ -1,0 +1,6 @@
+
+ hom1x1deg,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:43:14.917980 
+
+ hom1x1deg,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:28.385698 
+
+ hom1x1deg,     )),        <Channel name: shadowkekw>,       2024-11-07 11:57:44.791613 

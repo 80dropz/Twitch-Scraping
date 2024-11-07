@@ -1,0 +1,90 @@
+
+ doom_latveria,     Russian Russian Russian Russian,        <Channel name: shadowkekw>,       2024-11-07 10:31:38.194788 
+
+ doom_latveria,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:31:41.465510 
+
+ doom_latveria,     Russian Russian Russian Russian Russian Russian Russian Russian Russian Russian Russian Russian Russian,        <Channel name: shadowkekw>,       2024-11-07 10:32:06.359509 
+
+ doom_latveria,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:32:44.784527 
+
+ doom_latveria,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:34:14.732540 
+
+ doom_latveria,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.746098 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.027461 
+
+ doom_latveria,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.927926 
+
+ doom_latveria,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.946629 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.149477 
+
+ doom_latveria,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:50.359422 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:38:22.360319 
+
+ doom_latveria,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.740369 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.684296 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.287551 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.713797 
+
+ doom_latveria,     Italian,        <Channel name: shadowkekw>,       2024-11-07 10:42:48.556875 
+
+ doom_latveria,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:43:07.440918 
+
+ doom_latveria,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.432088 
+
+ doom_latveria,     Canada USA,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.793967 
+
+ doom_latveria,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:43:49.281342 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:44:19.941967 
+
+ doom_latveria,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.741328 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.021220 
+
+ doom_latveria,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.879018 
+
+ doom_latveria,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.554102 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:47:11.046780 
+
+ doom_latveria,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:47:37.101719 
+
+ doom_latveria,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:06.744150 
+
+ doom_latveria,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:48:41.933654 
+
+ doom_latveria,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:49:17.860817 
+
+ doom_latveria,     True,        <Channel name: shadowkekw>,       2024-11-07 10:49:59.960402 
+
+ doom_latveria,     Italian,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.615385 
+
+ doom_latveria,     Spain Italian Italian Argentina Germany Spain USA,        <Channel name: shadowkekw>,       2024-11-07 10:51:36.598911 
+
+ doom_latveria,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.906779 
+
+ doom_latveria,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:26.141769 
+
+ doom_latveria,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:25.428439 
+
+ doom_latveria,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:01:10.651193 
+
+ doom_latveria,     Us,        <Channel name: shadowkekw>,       2024-11-07 11:02:03.004564 
+
+ doom_latveria,     Us,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.662466 
+
+ doom_latveria,     French,        <Channel name: shadowkekw>,       2024-11-07 11:04:09.561131 
+
+ doom_latveria,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.011655 
+
+ doom_latveria,     Ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:30.329355 
+
+ doom_latveria,     French,        <Channel name: shadowkekw>,       2024-11-07 11:05:40.637148 
+
+ doom_latveria,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:05:41.804627 

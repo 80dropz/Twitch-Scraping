@@ -1,0 +1,6 @@
+
+ vinny_30000,     !points,        <Channel name: kaicenat>,       2024-11-07 11:57:54.980377 
+
+ vinny_30000,     ! watchtime,        <Channel name: kaicenat>,       2024-11-07 11:58:23.699553 
+
+ vinny_30000,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:58:42.882025 

@@ -1,0 +1,68 @@
+
+ eternal1hub,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.696952 
+
+ eternal1hub,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.181367 
+
+ eternal1hub,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:28:49.081887 
+
+ eternal1hub,     argenita,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.889553 
+
+ eternal1hub,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.529063 
+
+ eternal1hub,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:31:15.230022 
+
+ eternal1hub,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.513226 
+
+ eternal1hub,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.148181 
+
+ eternal1hub,     grece,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.623463 
+
+ eternal1hub,     chin,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.842649 
+
+ eternal1hub,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:33:06.540044 
+
+ eternal1hub,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.141478 
+
+ eternal1hub,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.967777 
+
+ eternal1hub,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:47.737282 
+
+ eternal1hub,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.784897 
+
+ eternal1hub,     monaco,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.614125 
+
+ eternal1hub,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:46.420015 
+
+ eternal1hub,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.888097 
+
+ eternal1hub,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:35:57.238071 
+
+ eternal1hub,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:36:01.087241 
+
+ eternal1hub,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.697900 
+
+ eternal1hub,     bz,        <Channel name: shadowkekw>,       2024-11-07 10:36:22.894021 
+
+ eternal1hub,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:36:34.915729 
+
+ eternal1hub,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:36:54.760687 
+
+ eternal1hub,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.795798 
+
+ eternal1hub,     it,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.429513 
+
+ eternal1hub,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.807827 
+
+ eternal1hub,     au,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.338498 
+
+ eternal1hub,     lx,        <Channel name: shadowkekw>,       2024-11-07 10:38:20.911749 
+
+ eternal1hub,     br,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.600127 
+
+ eternal1hub,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.057002 
+
+ eternal1hub,     bz,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.018510 
+
+ eternal1hub,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:57:22.193108 
+
+ eternal1hub,     +,        <Channel name: shadowkekw>,       2024-11-07 11:17:42.070514 

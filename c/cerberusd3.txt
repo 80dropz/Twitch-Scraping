@@ -1,0 +1,20 @@
+
+ cerberusd3,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:46.575277 
+
+ cerberusd3,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:16:08.681904 
+
+ cerberusd3,     !points,        <Channel name: kaicenat>,       2024-11-07 10:16:50.000003 
+
+ cerberusd3,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:17:09.793559 
+
+ cerberusd3,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:17:29.332666 
+
+ cerberusd3,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:17:32.979749 
+
+ cerberusd3,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:18:14.863153 
+
+ cerberusd3,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:19:10.437084 
+
+ cerberusd3,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:19:11.879363 
+
+ cerberusd3,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:20:01.386021 

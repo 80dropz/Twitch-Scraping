@@ -1,0 +1,30 @@
+
+ mmvgxhs,     india,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.381595 
+
+ mmvgxhs,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.306751 
+
+ mmvgxhs,     uta,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.582534 
+
+ mmvgxhs,     adler,        <Channel name: shadowkekw>,       2024-11-07 10:47:17.980293 
+
+ mmvgxhs,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:47:47.790405 
+
+ mmvgxhs,     texas,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.092395 
+
+ mmvgxhs,     kansas,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.338875 
+
+ mmvgxhs,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:52:11.305501 
+
+ mmvgxhs,     kavkaz,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.702799 
+
+ mmvgxhs,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:54:20.599574 
+
+ mmvgxhs,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.102745 
+
+ mmvgxhs,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.863879 
+
+ mmvgxhs,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.449519 
+
+ mmvgxhs,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:00:53.507532 
+
+ mmvgxhs,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:34.105050 

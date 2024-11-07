@@ -1,0 +1,10 @@
+
+ mar5119,     KEKWAAA,        <Channel name: clix>,       2024-11-07 11:20:05.497935 
+
+ mar5119,     KEKWA,        <Channel name: clix>,       2024-11-07 11:20:07.078264 
+
+ mar5119,     L print,        <Channel name: clix>,       2024-11-07 12:11:09.862220 
+
+ mar5119,     clixWave clixWave,        <Channel name: clix>,       2024-11-07 12:12:08.583964 
+
+ mar5119,     close,        <Channel name: clix>,       2024-11-07 12:12:31.668884 

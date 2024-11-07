@@ -1,2 +1,8 @@
 
  sedin03,     xd,        <Channel name: shadowkekw>,       2024-11-07 09:35:40.355535 
+
+ sedin03,     India,        <Channel name: shadowkekw>,       2024-11-07 10:07:25.009173 
+
+ sedin03,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:08:02.879358 
+
+ sedin03,     0,        <Channel name: shadowkekw>,       2024-11-07 10:12:03.900967 

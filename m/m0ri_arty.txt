@@ -18,3 +18,393 @@
  m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 09:43:11.755696 
 
  m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 09:43:52.315644 
+
+ m0ri_arty,     2K,        <Channel name: kaicenat>,       2024-11-07 09:52:07.474366 
+
+ m0ri_arty,     2K MORE CHAT,        <Channel name: kaicenat>,       2024-11-07 09:52:14.002595 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 09:52:53.928580 
+
+ m0ri_arty,     2K CHAT!   LATS GO!,        <Channel name: kaicenat>,       2024-11-07 09:53:37.249297 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 09:54:32.141842 
+
+ m0ri_arty,     ——— GET TO 230,000,        <Channel name: kaicenat>,       2024-11-07 09:55:12.667249 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 09:56:51.732500 
+
+ m0ri_arty,     2K MORE SUBS TO DROWN,        <Channel name: kaicenat>,       2024-11-07 09:57:30.478264 
+
+ m0ri_arty,     2K MORE SUBS TO DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 09:57:48.141936 
+
+ m0ri_arty,     2K MORE TO DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 09:58:19.736205 
+
+ m0ri_arty,     HIT THE GOAL FOR MILES,        <Channel name: kaicenat>,       2024-11-07 09:59:12.818720 
+
+ m0ri_arty,     HIT THE GOAL!! DO IT FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:00:12.578836 
+
+ m0ri_arty,     THE SUBS ARE WHITE ON A WHITE BACKGROUND,        <Channel name: kaicenat>,       2024-11-07 10:00:36.923554 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:00:55.181343 
+
+ m0ri_arty,     WE GOOD,        <Channel name: kaicenat>,       2024-11-07 10:01:03.490260 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:01:13.137401 
+
+ m0ri_arty,     HIT THE GOAL FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:01:21.382565 
+
+ m0ri_arty,     DROWN KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:01:54.703598 
+
+ m0ri_arty,     DROWN KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:02:26.329524 
+
+ m0ri_arty,     2K MORE TO DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 10:03:17.499791 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:03:32.289278 
+
+ m0ri_arty,     AND DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 10:04:04.527002 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:04:22.903619 
+
+ m0ri_arty,     2K MORE FOR EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 10:04:59.871417 
+
+ m0ri_arty,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 10:05:06.377338 
+
+ m0ri_arty,     TURN UP GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:05:14.902172 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:05:46.180833 
+
+ m0ri_arty,     GET MILES THE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 10:06:01.773988 
+
+ m0ri_arty,     ANY FLEXERS IN CHAT. WHOS GOT THOSE GIFTS,        <Channel name: kaicenat>,       2024-11-07 10:06:38.299755 
+
+ m0ri_arty,     WE ALMOST THERE CHAT,        <Channel name: kaicenat>,       2024-11-07 10:06:57.462678 
+
+ m0ri_arty,     WE ALMOST AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:07:10.813870 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:07:39.426912 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:07:53.011585 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:08:12.165041 
+
+ m0ri_arty,     2K MORE,        <Channel name: kaicenat>,       2024-11-07 10:08:24.127457 
+
+ m0ri_arty,     TURN UP CHAT!!! LETS GO!!!,        <Channel name: kaicenat>,       2024-11-07 10:08:57.795713 
+
+ m0ri_arty,     DROWN KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:09:16.337990 
+
+ m0ri_arty,     COME ON CHAT,        <Channel name: kaicenat>,       2024-11-07 10:10:15.261715 
+
+ m0ri_arty,     GET HYPE CHAT,        <Channel name: kaicenat>,       2024-11-07 10:10:26.928497 
+
+ m0ri_arty,     WWWWWW GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:10:41.703464 
+
+ m0ri_arty,     GET THE GOAL FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:10:59.791959 
+
+ m0ri_arty,     GET THE EARTHQUAKE UNLOCKED,        <Channel name: kaicenat>,       2024-11-07 10:11:19.123377 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:11:24.938613 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:11:33.227016 
+
+ m0ri_arty,     1.8K MORE TO DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 10:12:29.956738 
+
+ m0ri_arty,     WWWWWW GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:12:50.438158 
+
+ m0ri_arty,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 10:13:06.311595 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:13:13.820040 
+
+ m0ri_arty,     WWWWWWW GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:13:46.946475 
+
+ m0ri_arty,     LETS GO CHAT! TURN UP!!,        <Channel name: kaicenat>,       2024-11-07 10:14:29.472316 
+
+ m0ri_arty,     TIRN UP CHAT! LETS GO!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 10:14:53.523810 
+
+ m0ri_arty,     TIRN UP FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:15:20.655549 
+
+ m0ri_arty,     TURN UP FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:15:32.255064 
+
+ m0ri_arty,     GIFT SUBS FOR CLOCK TO GO UP,        <Channel name: kaicenat>,       2024-11-07 10:16:05.906186 
+
+ m0ri_arty,     230,000 MILES WILL DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 10:17:08.557771 
+
+ m0ri_arty,     230K      MOLES WILL DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 10:17:31.103851 
+
+ m0ri_arty,     COME ON CHAT! TURN UP,        <Channel name: kaicenat>,       2024-11-07 10:18:49.981153 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:26:34.226550 
+
+ m0ri_arty,     LESS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:26:42.921571 
+
+ m0ri_arty,     GET THAT SHIT CHAT,        <Channel name: kaicenat>,       2024-11-07 10:26:51.988420 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:27:03.874086 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:27:16.118643 
+
+ m0ri_arty,     EVRYONE GIFT A SUB IF YOU CAN,        <Channel name: kaicenat>,       2024-11-07 10:28:04.753910 
+
+ m0ri_arty,     WWWWWW GFTERS,        <Channel name: kaicenat>,       2024-11-07 10:28:46.732668 
+
+ m0ri_arty,     LETS GO GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:29:01.535478 
+
+ m0ri_arty,     GET THE GOAL GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:29:15.746770 
+
+ m0ri_arty,     GET THIS GOAL FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:29:37.896760 
+
+ m0ri_arty,     TURN UP FOR MILES,        <Channel name: kaicenat>,       2024-11-07 10:30:01.347593 
+
+ m0ri_arty,     2K MORE SUBS CHAT,        <Channel name: kaicenat>,       2024-11-07 10:30:27.135239 
+
+ m0ri_arty,     COOOOMMMMEEE OOOONNN CHAT,        <Channel name: kaicenat>,       2024-11-07 10:33:41.453631 
+
+ m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:34:12.356351 
+
+ m0ri_arty,     HIT THE BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:34:26.422240 
+
+ m0ri_arty,     COVER KAI IN BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:34:48.072760 
+
+ m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:34:58.065534 
+
+ m0ri_arty,     1.7K MORE CHAT,        <Channel name: kaicenat>,       2024-11-07 10:41:26.199435 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:42:13.198173 
+
+ m0ri_arty,     THEY SWITCHED CAMS,        <Channel name: kaicenat>,       2024-11-07 10:42:39.579222 
+
+ m0ri_arty,     COME ON CHAT!!!!! TUUURRRNNN UUUPPP,        <Channel name: kaicenat>,       2024-11-07 10:43:30.162588 
+
+ m0ri_arty,     MILES TELL EM YOU WILL UT WATER ON THEM AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:44:51.973570 
+
+ m0ri_arty,     MILES PUT WATER ON THEM AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:45:39.884769 
+
+ m0ri_arty,     MILES PUT WATER ON THEM AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:46:19.379593 
+
+ m0ri_arty,     MILES PUT WATER ON THEM AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:46:57.652242 
+
+ m0ri_arty,     —— WATER ON KAI AT 230,000 ——-,        <Channel name: kaicenat>,       2024-11-07 10:47:30.425626 
+
+ m0ri_arty,     WATER ON KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:47:48.311113 
+
+ m0ri_arty,     —————WATER ON KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:48:04.584999 
+
+ m0ri_arty,     WATER ON KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:48:25.542514 
+
+ m0ri_arty,     PUT WATER ON KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:48:48.339888 
+
+ m0ri_arty,     WATER ON KAI AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:49:05.184831 
+
+ m0ri_arty,     ——- POUR WATER ON KAI AT 230,000 ——-,        <Channel name: kaicenat>,       2024-11-07 10:49:42.480441 
+
+ m0ri_arty,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:50:31.978865 
+
+ m0ri_arty,     WWWWWWW GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:50:41.356730 
+
+ m0ri_arty,     WWWWWW GIFTES,        <Channel name: kaicenat>,       2024-11-07 10:50:50.225998 
+
+ m0ri_arty,     WWWWWWW GIFTERS,        <Channel name: kaicenat>,       2024-11-07 10:51:05.468262 
+
+ m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:51:29.762494 
+
+ m0ri_arty,     DO THE BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:51:48.422417 
+
+ m0ri_arty,     LESS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:52:50.102800 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:52:57.792131 
+
+ m0ri_arty,     COME ON CHAT,        <Channel name: kaicenat>,       2024-11-07 10:53:06.846239 
+
+ m0ri_arty,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 10:53:13.628350 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:53:30.897108 
+
+ m0ri_arty,     LETS GO CHAT TURN UUPP,        <Channel name: kaicenat>,       2024-11-07 10:53:42.497256 
+
+ m0ri_arty,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:53:53.285861 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 10:53:54.696638 
+
+ m0ri_arty,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:53:58.228401 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 10:54:00.326361 
+
+ m0ri_arty,     UNLOCK THE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 10:55:07.234670 
+
+ m0ri_arty,     UNLOCK THE EARTHHQUAKE AT 230,000,        <Channel name: kaicenat>,       2024-11-07 10:55:32.017033 
+
+ m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 10:57:09.734106 
+
+ m0ri_arty,     GIFT 25,        <Channel name: kaicenat>,       2024-11-07 10:57:24.904658 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:58:47.018808 
+
+ m0ri_arty,     MAFIA METHOD,        <Channel name: kaicenat>,       2024-11-07 10:58:52.708184 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:59:05.978015 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 10:59:14.578150 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 10:59:21.601036 
+
+ m0ri_arty,     foxyannikaHype foxyannikaHype foxyannikaHype,        <Channel name: kaicenat>,       2024-11-07 10:59:43.599194 
+
+ m0ri_arty,     foxyannikaHype foxyannikaHype foxyannikaHype foxyannikaHype foxyannikaHype,        <Channel name: kaicenat>,       2024-11-07 10:59:52.729048 
+
+ m0ri_arty,     foxyannikaHype foxyannikaHype,        <Channel name: kaicenat>,       2024-11-07 10:59:57.416299 
+
+ m0ri_arty,     foxyannikaHype foxyannikaHype foxyannikaHype foxyannikaHype foxyannikaHype,        <Channel name: kaicenat>,       2024-11-07 11:00:40.096517 
+
+ m0ri_arty,     HolidayPresent HolidayPresent HolidayPresent HolidayPresent,        <Channel name: kaicenat>,       2024-11-07 11:00:58.106222 
+
+ m0ri_arty,     BUBBBLLLEEEES,        <Channel name: kaicenat>,       2024-11-07 11:02:19.254458 
+
+ m0ri_arty,     BUBBLESS,        <Channel name: kaicenat>,       2024-11-07 11:02:21.930551 
+
+ m0ri_arty,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 11:02:25.159847 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:13.841776 
+
+ m0ri_arty,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:15.969847 
+
+ m0ri_arty,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:19.830772 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:20.794864 
+
+ m0ri_arty,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:22.190659 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:24.035746 
+
+ m0ri_arty,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:28.065061 
+
+ m0ri_arty,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:45.617511 
+
+ m0ri_arty,     1.5 K,        <Channel name: kaicenat>,       2024-11-07 11:05:53.773991 
+
+ m0ri_arty,     1,5 K MORE,        <Channel name: kaicenat>,       2024-11-07 11:06:17.383576 
+
+ m0ri_arty,     ANOTHER 100,        <Channel name: kaicenat>,       2024-11-07 11:06:36.134509 
+
+ m0ri_arty,     ANOTHER 100,        <Channel name: kaicenat>,       2024-11-07 11:08:10.089423 
+
+ m0ri_arty,     HAHAHAHAHAAH,        <Channel name: kaicenat>,       2024-11-07 11:08:46.086432 
+
+ m0ri_arty,     HAHAHAHAHA,        <Channel name: kaicenat>,       2024-11-07 11:08:48.327476 
+
+ m0ri_arty,     WATER,        <Channel name: kaicenat>,       2024-11-07 11:09:11.049407 
+
+ m0ri_arty,     WE NEED WATER,        <Channel name: kaicenat>,       2024-11-07 11:09:40.244184 
+
+ m0ri_arty,     WATER ON THEM,        <Channel name: kaicenat>,       2024-11-07 11:10:31.731368 
+
+ m0ri_arty,     DROWN KAI,        <Channel name: kaicenat>,       2024-11-07 11:10:43.112224 
+
+ m0ri_arty,     PUT WATER ON KAI,        <Channel name: kaicenat>,       2024-11-07 11:10:57.909117 
+
+ m0ri_arty,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:20.246402 
+
+ m0ri_arty,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:23.690704 
+
+ m0ri_arty,     WWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:27.803845 
+
+ m0ri_arty,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:31.284405 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:32.793458 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:34.878354 
+
+ m0ri_arty,     WWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:39.002884 
+
+ m0ri_arty,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:42.108820 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:43.383860 
+
+ m0ri_arty,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:45.734945 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:14:46.973596 
+
+ m0ri_arty,     ANOTHER 50,        <Channel name: kaicenat>,       2024-11-07 11:16:22.419993 
+
+ m0ri_arty,     LETS GO CHAT,        <Channel name: kaicenat>,       2024-11-07 11:16:30.850975 
+
+ m0ri_arty,     WWWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:16:43.900517 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:17:01.756185 
+
+ m0ri_arty,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:17:03.595744 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:17:08.602015 
+
+ m0ri_arty,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:17:10.023720 
+
+ m0ri_arty,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:17:12.071834 
+
+ m0ri_arty,     WE SO CLOSE CHAT,        <Channel name: kaicenat>,       2024-11-07 11:17:28.296132 
+
+ m0ri_arty,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 11:17:37.656193 
+
+ m0ri_arty,     GET HYPE,        <Channel name: kaicenat>,       2024-11-07 11:17:46.350358 
+
+ m0ri_arty,     TURN UP CHAT,        <Channel name: kaicenat>,       2024-11-07 11:17:53.275378 
+
+ m0ri_arty,     WWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:25:32.127513 
+
+ m0ri_arty,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:25:37.410744 
+
+ m0ri_arty,     WWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:25:41.745618 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:28:02.133776 
+
+ m0ri_arty,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:28:05.029401 
+
+ m0ri_arty,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:28:12.011569 
+
+ m0ri_arty,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:28:18.069022 
+
+ m0ri_arty,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:28:22.980189 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:29:09.855012 
+
+ m0ri_arty,     WWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:29:18.245615 
+
+ m0ri_arty,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:29:23.382748 
+
+ m0ri_arty,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:00.303172 
+
+ m0ri_arty,     WWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:05.108114 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:06.556015 
+
+ m0ri_arty,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:12.726556 
+
+ m0ri_arty,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:30:16.103416 
+
+ m0ri_arty,     GET HYPE CHAT,        <Channel name: kaicenat>,       2024-11-07 11:43:37.253580 
+
+ m0ri_arty,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 11:43:43.937297 
+
+ m0ri_arty,     EARTH QUAKE,        <Channel name: kaicenat>,       2024-11-07 11:46:48.558051 
+
+ m0ri_arty,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:46:57.581865 
+
+ m0ri_arty,     EARTH QUAKE,        <Channel name: kaicenat>,       2024-11-07 11:47:04.590998 
+
+ m0ri_arty,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:47:11.783689 
+
+ m0ri_arty,     500,        <Channel name: kaicenat>,       2024-11-07 11:48:09.665151 
+
+ m0ri_arty,     500 MORE,        <Channel name: kaicenat>,       2024-11-07 11:48:15.967242 
+
+ m0ri_arty,     ONLY 500 LEFT,        <Channel name: kaicenat>,       2024-11-07 11:48:31.271637 
+
+ m0ri_arty,     EARHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:49:30.955198 
+
+ m0ri_arty,     EARTH QUAKE,        <Channel name: kaicenat>,       2024-11-07 11:49:46.320170 
+
+ m0ri_arty,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:50:03.450714 
+
+ m0ri_arty,     100 more!!!!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 12:32:59.487742 
+
+ m0ri_arty,     WAKE UP KAI AND PRAMK RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:14:29.165725 
+
+ m0ri_arty,     WAKE UP KAI AND PRANK RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:15:01.132965 

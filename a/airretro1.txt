@@ -1,0 +1,16 @@
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:01:01.404154 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:04:21.625865 
+
+ airretro1,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:06:25.025226 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:06:46.381723 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:07:55.702315 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:09:22.202338 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:11:00.275230 
+
+ airretro1,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:28:31.724932 

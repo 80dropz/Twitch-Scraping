@@ -1,0 +1,14 @@
+
+ datstockfb2,     W,        <Channel name: kaicenat>,       2024-11-07 11:15:58.016746 
+
+ datstockfb2,     W,        <Channel name: kaicenat>,       2024-11-07 11:16:39.366024 
+
+ datstockfb2,     GIFT POR FAVOR,        <Channel name: kaicenat>,       2024-11-07 11:17:07.045361 
+
+ datstockfb2,     W,        <Channel name: kaicenat>,       2024-11-07 11:17:12.368183 
+
+ datstockfb2,     SOMEONE 100 GIFT,        <Channel name: kaicenat>,       2024-11-07 11:17:31.720759 
+
+ datstockfb2,     SOMEONE DO A 100,        <Channel name: kaicenat>,       2024-11-07 11:17:36.752320 
+
+ datstockfb2,     SOMEONE DO 100,        <Channel name: kaicenat>,       2024-11-07 11:18:01.443776 

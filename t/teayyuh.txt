@@ -18,3 +18,47 @@
  teayyuh,     W,        <Channel name: kaicenat>,       2024-11-07 09:38:55.491708 
 
  teayyuh,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 09:43:23.408272 
+
+ teayyuh,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:52:07.048574 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:52:22.433916 
+
+ teayyuh,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:34.156012 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:53:14.528652 
+
+ teayyuh,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:53:52.879732 
+
+ teayyuh,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:09.803962 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:54:23.657172 
+
+ teayyuh,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:46.566422 
+
+ teayyuh,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 09:55:11.758239 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:55:30.452934 
+
+ teayyuh,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:56:43.827117 
+
+ teayyuh,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:57:02.813993 
+
+ teayyuh,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:57:23.877986 
+
+ teayyuh,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:57:31.617178 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:57:45.331744 
+
+ teayyuh,     W MILES MORALES,        <Channel name: kaicenat>,       2024-11-07 09:58:24.820667 
+
+ teayyuh,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:58:51.014237 
+
+ teayyuh,     WWW,        <Channel name: kaicenat>,       2024-11-07 10:00:20.425639 
+
+ teayyuh,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:01:50.984409 
+
+ teayyuh,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:02:00.781538 
+
+ teayyuh,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:02:12.341073 
+
+ teayyuh,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:02:19.752831 

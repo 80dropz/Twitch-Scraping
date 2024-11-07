@@ -1,0 +1,22 @@
+
+ rnjke,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.193063 
+
+ rnjke,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:43.166551 
+
+ rnjke,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:11:37.703292 
+
+ rnjke,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:13:47.798355 
+
+ rnjke,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:14:09.997100 
+
+ rnjke,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:42.363368 
+
+ rnjke,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:15:07.021398 
+
+ rnjke,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.470281 
+
+ rnjke,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:16:53.889910 
+
+ rnjke,     ecvador,        <Channel name: shadowkekw>,       2024-11-07 10:16:57.636188 
+
+ rnjke,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:17:05.776214 

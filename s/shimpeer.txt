@@ -1,0 +1,246 @@
+
+ shimpeer,     wow,        <Channel name: shadowkekw>,       2024-11-07 09:52:34.825034 
+
+ shimpeer,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:00:15.163229 
+
+ shimpeer,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:08:59.513285 
+
+ shimpeer,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:09:47.546196 
+
+ shimpeer,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:24.479186 
+
+ shimpeer,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:13:39.097050 
+
+ shimpeer,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:34.934708 
+
+ shimpeer,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:15:01.334461 
+
+ shimpeer,     Malasya,        <Channel name: shadowkekw>,       2024-11-07 10:17:47.962527 
+
+ shimpeer,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:18:23.159032 
+
+ shimpeer,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:18:52.687543 
+
+ shimpeer,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.177915 
+
+ shimpeer,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.471261 
+
+ shimpeer,     Palau,        <Channel name: shadowkekw>,       2024-11-07 10:20:24.462820 
+
+ shimpeer,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 10:20:45.296223 
+
+ shimpeer,     DC Congo,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.756665 
+
+ shimpeer,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.292017 
+
+ shimpeer,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.150142 
+
+ shimpeer,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.117982 
+
+ shimpeer,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.727052 
+
+ shimpeer,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.722874 
+
+ shimpeer,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.444716 
+
+ shimpeer,     Czehia,        <Channel name: shadowkekw>,       2024-11-07 10:24:10.906509 
+
+ shimpeer,     DR Congo,        <Channel name: shadowkekw>,       2024-11-07 10:24:36.751607 
+
+ shimpeer,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:25:09.984887 
+
+ shimpeer,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.112643 
+
+ shimpeer,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.982492 
+
+ shimpeer,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.606009 
+
+ shimpeer,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.204713 
+
+ shimpeer,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:25:49.668786 
+
+ shimpeer,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:26:05.328045 
+
+ shimpeer,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:26:35.486859 
+
+ shimpeer,     Saint Vincent,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.042774 
+
+ shimpeer,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:27:04.467788 
+
+ shimpeer,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.923574 
+
+ shimpeer,     Vatican City,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.590532 
+
+ shimpeer,     Timor-Leste,        <Channel name: shadowkekw>,       2024-11-07 10:28:22.924783 
+
+ shimpeer,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.992020 
+
+ shimpeer,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:29:22.640084 
+
+ shimpeer,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:29:26.487914 
+
+ shimpeer,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:29:27.777073 
+
+ shimpeer,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:29:42.681936 
+
+ shimpeer,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:30:05.599708 
+
+ shimpeer,     Burundi,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.689983 
+
+ shimpeer,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:30:29.720115 
+
+ shimpeer,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.004319 
+
+ shimpeer,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:30:44.388966 
+
+ shimpeer,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.163954 
+
+ shimpeer,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:31:28.184701 
+
+ shimpeer,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:32:02.040581 
+
+ shimpeer,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:22.969735 
+
+ shimpeer,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:32:44.142976 
+
+ shimpeer,     Guyana,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.090077 
+
+ shimpeer,     Azerbaijan,        <Channel name: shadowkekw>,       2024-11-07 10:33:33.717577 
+
+ shimpeer,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.044789 
+
+ shimpeer,     Comoros,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.462347 
+
+ shimpeer,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.090415 
+
+ shimpeer,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.638212 
+
+ shimpeer,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.353783 
+
+ shimpeer,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:35:09.020696 
+
+ shimpeer,     Cape Verde,        <Channel name: shadowkekw>,       2024-11-07 10:35:32.637422 
+
+ shimpeer,     Vatican City,        <Channel name: shadowkekw>,       2024-11-07 10:36:18.454669 
+
+ shimpeer,     Belize,        <Channel name: shadowkekw>,       2024-11-07 10:37:17.775253 
+
+ shimpeer,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:37:40.999753 
+
+ shimpeer,     Costa Rica,        <Channel name: shadowkekw>,       2024-11-07 10:39:06.030814 
+
+ shimpeer,     San Marino,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.183715 
+
+ shimpeer,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:40:13.047665 
+
+ shimpeer,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.270770 
+
+ shimpeer,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.779153 
+
+ shimpeer,     Saudi Arabia,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.417229 
+
+ shimpeer,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:42:22.049245 
+
+ shimpeer,     Saint Lucia,        <Channel name: shadowkekw>,       2024-11-07 10:42:47.446532 
+
+ shimpeer,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:42:55.155198 
+
+ shimpeer,     Suriname,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.328539 
+
+ shimpeer,     South Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.250413 
+
+ shimpeer,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:44:19.227968 
+
+ shimpeer,     Saint Lucia,        <Channel name: shadowkekw>,       2024-11-07 10:44:47.768245 
+
+ shimpeer,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:45:04.795468 
+
+ shimpeer,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:45:28.495748 
+
+ shimpeer,     North Macedonia,        <Channel name: shadowkekw>,       2024-11-07 10:45:48.034855 
+
+ shimpeer,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:46:22.897439 
+
+ shimpeer,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:47:39.596948 
+
+ shimpeer,     Vatican,        <Channel name: shadowkekw>,       2024-11-07 10:48:04.825251 
+
+ shimpeer,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.119582 
+
+ shimpeer,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.139050 
+
+ shimpeer,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:49:10.002001 
+
+ shimpeer,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:49:42.326248 
+
+ shimpeer,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.563269 
+
+ shimpeer,     Palau,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.855548 
+
+ shimpeer,     Syria,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.782732 
+
+ shimpeer,     Somalia,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.357952 
+
+ shimpeer,     Brunei,        <Channel name: shadowkekw>,       2024-11-07 10:51:36.748149 
+
+ shimpeer,     New Caledonia,        <Channel name: shadowkekw>,       2024-11-07 10:52:36.389078 
+
+ shimpeer,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.689450 
+
+ shimpeer,     reunion,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.441540 
+
+ shimpeer,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:54:04.169723 
+
+ shimpeer,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:54:39.449172 
+
+ shimpeer,     Gibraltar,        <Channel name: shadowkekw>,       2024-11-07 10:55:01.352821 
+
+ shimpeer,     Caribbean Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:55:33.386626 
+
+ shimpeer,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:56:02.381660 
+
+ shimpeer,     St Helena, Ascension and Tristan da Cunha,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.309370 
+
+ shimpeer,     Caribbean Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:58:12.651468 
+
+ shimpeer,     Sint Maarten,        <Channel name: shadowkekw>,       2024-11-07 11:00:06.433220 
+
+ shimpeer,     Mozambique,        <Channel name: shadowkekw>,       2024-11-07 11:02:28.177356 
+
+ shimpeer,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.317337 
+
+ shimpeer,     Laos,        <Channel name: shadowkekw>,       2024-11-07 11:05:27.394897 
+
+ shimpeer,     Sri Lanka,        <Channel name: shadowkekw>,       2024-11-07 11:05:50.615107 
+
+ shimpeer,     Mauritania,        <Channel name: shadowkekw>,       2024-11-07 11:06:57.953082 
+
+ shimpeer,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 11:07:37.611135 
+
+ shimpeer,     French Polynesia,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.939827 
+
+ shimpeer,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 11:08:34.456868 
+
+ shimpeer,     Federated States of Micronesia,        <Channel name: shadowkekw>,       2024-11-07 11:08:54.679336 
+
+ shimpeer,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 11:09:42.590225 
+
+ shimpeer,     Niue,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.776267 
+
+ shimpeer,     Federated States of Micronesia,        <Channel name: shadowkekw>,       2024-11-07 11:11:25.206293 
+
+ shimpeer,     Aruba,        <Channel name: shadowkekw>,       2024-11-07 11:11:56.233922 
+
+ shimpeer,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:12:19.233509 
+
+ shimpeer,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:12:56.070893 
+
+ shimpeer,     Wallis and Futuna,        <Channel name: shadowkekw>,       2024-11-07 11:13:14.998604 
+
+ shimpeer,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 11:13:36.264286 
+
+ shimpeer,     San Marino,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.370559 
+
+ shimpeer,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:14:14.974867 
+
+ shimpeer,     )),        <Channel name: shadowkekw>,       2024-11-07 11:16:00.326481 

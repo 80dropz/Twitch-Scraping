@@ -1,0 +1,4 @@
+
+ xflofish,     !points,        <Channel name: kaicenat>,       2024-11-07 12:25:28.776920 
+
+ xflofish,     !roulette 823,        <Channel name: kaicenat>,       2024-11-07 12:26:05.117097 

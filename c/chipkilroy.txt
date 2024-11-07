@@ -1,2 +1,4 @@
 
  chipkilroy,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:28.440135 
+
+ chipkilroy,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 13:33:34.668044 

@@ -53,3 +53,7 @@
  quedalnothing,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:04:26.514865 
 
  quedalnothing,     MILES,        <Channel name: kaicenat>,       2024-11-07 09:13:52.642070 
+
+ quedalnothing,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:52:02.106061 
+
+ quedalnothing,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:59:30.200241 

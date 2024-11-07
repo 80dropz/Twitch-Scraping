@@ -1,0 +1,12 @@
+
+ standupcomic,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:08:19.890530 
+
+ standupcomic,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:11:41.857860 
+
+ standupcomic,     Katar,        <Channel name: shadowkekw>,       2024-11-07 10:12:30.498795 
+
+ standupcomic,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:13:33.980837 
+
+ standupcomic,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:17:08.687415 
+
+ standupcomic,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:17:30.239639 

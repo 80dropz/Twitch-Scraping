@@ -8,3 +8,5 @@
  xshlerb,     https://www.twitch.tv/adapt/clip/HumblePlainSnoodGrammarKing-lm0SDRSqd-Xk5S7V,        <Channel name: adapt>,       2024-11-07 02:05:32.183064 
 
  xshlerb,     https://www.twitch.tv/adapt/clip/HumblePlainSnoodGrammarKing-lm0SDRSqd-Xk5S7V,        <Channel name: adapt>,       2024-11-07 02:06:40.726609 
+
+ xshlerb,     Go 2 bed,        <Channel name: swagg>,       2024-11-07 09:52:16.285638 

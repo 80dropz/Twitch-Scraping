@@ -1,0 +1,118 @@
+
+ ihbajlid,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.976232 
+
+ ihbajlid,     Ua,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.649904 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:38:19.724280 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.453118 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:38:40.425697 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:38:43.225957 
+
+ ihbajlid,     Ua,        <Channel name: shadowkekw>,       2024-11-07 10:38:49.565790 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:38:50.780708 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.219080 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.932686 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.242228 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.849627 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.989413 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:41:00.641497 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.127561 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.296551 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.343802 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.626579 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.678482 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.559900 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.506341 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:43:22.191096 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.781530 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:45:06.726686 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:45:28.738497 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.939375 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:46:31.444702 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.373684 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.147073 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:48:08.024631 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.907495 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:48:46.054228 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.002041 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.778922 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.640738 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:51:39.047666 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.397408 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.127552 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.642906 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:53:25.918448 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.155142 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.077980 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.576130 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.988816 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 10:59:39.913691 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:00:26.424659 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:01:12.008119 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:01:30.145467 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:03:04.566631 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:04:04.025929 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:05:27.042542 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.889978 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:07:31.748371 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.619100 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:08:52.331440 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:10:06.986742 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.241472 
+
+ ihbajlid,     RU,        <Channel name: shadowkekw>,       2024-11-07 11:11:49.752434 
+
+ ihbajlid,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:12:08.317755 

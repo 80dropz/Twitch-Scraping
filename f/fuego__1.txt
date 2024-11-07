@@ -1,0 +1,8 @@
+
+ fuego__1,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:59.190140 
+
+ fuego__1,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:53:20.884627 
+
+ fuego__1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:53:56.143727 
+
+ fuego__1,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:28:18.479532 

@@ -1,2 +1,22 @@
 
  reason_bic,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:45.616347 
+
+ reason_bic,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.136979 
+
+ reason_bic,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:06:07.058154 
+
+ reason_bic,     it,        <Channel name: shadowkekw>,       2024-11-07 11:08:00.076046 
+
+ reason_bic,     mg,        <Channel name: shadowkekw>,       2024-11-07 11:08:33.320653 
+
+ reason_bic,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.436982 
+
+ reason_bic,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.639023 
+
+ reason_bic,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:10:27.783308 
+
+ reason_bic,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.984212 
+
+ reason_bic,     ly,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.636096 
+
+ reason_bic,     lv,        <Channel name: shadowkekw>,       2024-11-07 11:13:34.947722 

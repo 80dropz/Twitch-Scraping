@@ -1,0 +1,108 @@
+
+ cyki_vbl,     dybai,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.543675 
+
+ cyki_vbl,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:12:27.448912 
+
+ cyki_vbl,     indomez,        <Channel name: shadowkekw>,       2024-11-07 10:20:58.515707 
+
+ cyki_vbl,     texa,        <Channel name: shadowkekw>,       2024-11-07 10:21:15.665242 
+
+ cyki_vbl,     bangla,        <Channel name: shadowkekw>,       2024-11-07 10:22:14.639494 
+
+ cyki_vbl,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.103364 
+
+ cyki_vbl,     North Korea,        <Channel name: shadowkekw>,       2024-11-07 10:24:44.150418 
+
+ cyki_vbl,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.610821 
+
+ cyki_vbl,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.349560 
+
+ cyki_vbl,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:25:45.777112 
+
+ cyki_vbl,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.237448 
+
+ cyki_vbl,     Somalia,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.560577 
+
+ cyki_vbl,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.222729 
+
+ cyki_vbl,     Samoa,        <Channel name: shadowkekw>,       2024-11-07 10:28:16.302301 
+
+ cyki_vbl,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:28:35.719135 
+
+ cyki_vbl,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.297615 
+
+ cyki_vbl,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.406701 
+
+ cyki_vbl,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:34:46.559577 
+
+ cyki_vbl,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.616850 
+
+ cyki_vbl,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:41:06.497439 
+
+ cyki_vbl,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:41:40.199813 
+
+ cyki_vbl,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.872431 
+
+ cyki_vbl,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.600851 
+
+ cyki_vbl,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:42:40.258082 
+
+ cyki_vbl,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:42:43.903030 
+
+ cyki_vbl,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.119752 
+
+ cyki_vbl,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.031943 
+
+ cyki_vbl,     rass,        <Channel name: shadowkekw>,       2024-11-07 10:45:12.977914 
+
+ cyki_vbl,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:45:49.471327 
+
+ cyki_vbl,     Saudi Arabia,        <Channel name: shadowkekw>,       2024-11-07 10:46:11.873204 
+
+ cyki_vbl,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.618458 
+
+ cyki_vbl,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:48:46.631759 
+
+ cyki_vbl,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:49:20.578231 
+
+ cyki_vbl,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.109068 
+
+ cyki_vbl,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:50:56.762840 
+
+ cyki_vbl,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.668841 
+
+ cyki_vbl,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:52:29.678722 
+
+ cyki_vbl,     Kosovo,        <Channel name: shadowkekw>,       2024-11-07 10:53:12.547200 
+
+ cyki_vbl,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:53:31.328934 
+
+ cyki_vbl,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:54:13.678489 
+
+ cyki_vbl,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:55:06.037682 
+
+ cyki_vbl,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:55:21.087128 
+
+ cyki_vbl,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.714761 
+
+ cyki_vbl,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.599754 
+
+ cyki_vbl,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:57:16.593030 
+
+ cyki_vbl,     United States of America\,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.506435 
+
+ cyki_vbl,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:58:52.614602 
+
+ cyki_vbl,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:59:30.517192 
+
+ cyki_vbl,     urug,        <Channel name: shadowkekw>,       2024-11-07 11:02:42.397211 
+
+ cyki_vbl,     J,        <Channel name: shadowkekw>,       2024-11-07 11:26:27.172710 
+
+ cyki_vbl,     https://www.twitch.tv/shadowkekw/clip/DifferentHungryHumanSuperVinlin-ET5HiSXA8glRbn_C,        <Channel name: shadowkekw>,       2024-11-07 11:38:15.198327 
+
+ cyki_vbl,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:37.157577 
+
+ cyki_vbl,     https://www.twitch.tv/feelssunnyman/clip/FairGentlePidgeonPeteZarollTie-ZwVs8D3yNemB-RGN,        <Channel name: shadowkekw>,       2024-11-07 12:00:10.106232 
+
+ cyki_vbl,     https://www.twitch.tv/feelssunnyman/clip/FairGentlePidgeonPeteZarollTie-ZwVs8D3yNemB-RGN https://www.twitch.tv/feelssunnyman/clip/FairGentlePidgeonPeteZarollTie-ZwVs8D3yNemB-RGN,        <Channel name: shadowkekw>,       2024-11-07 12:00:16.552419 

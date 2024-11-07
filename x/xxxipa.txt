@@ -1,0 +1,42 @@
+
+ xxxipa,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:15.188860 
+
+ xxxipa,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:58.179393 
+
+ xxxipa,     kuba,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.617351 
+
+ xxxipa,     nitherland,        <Channel name: shadowkekw>,       2024-11-07 10:10:49.481355 
+
+ xxxipa,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:11:09.498208 
+
+ xxxipa,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:12:01.725499 
+
+ xxxipa,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:12:29.930736 
+
+ xxxipa,     uar,        <Channel name: shadowkekw>,       2024-11-07 10:12:51.778358 
+
+ xxxipa,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:13:10.140531 
+
+ xxxipa,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:53.490423 
+
+ xxxipa,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:09.881952 
+
+ xxxipa,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:26.206475 
+
+ xxxipa,     south korea\,        <Channel name: shadowkekw>,       2024-11-07 10:15:15.501222 
+
+ xxxipa,     kenia,        <Channel name: shadowkekw>,       2024-11-07 10:15:32.632904 
+
+ xxxipa,     uar,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.142705 
+
+ xxxipa,     urugway,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.740240 
+
+ xxxipa,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:16:55.699372 
+
+ xxxipa,     bosnia gerzegovina,        <Channel name: shadowkekw>,       2024-11-07 10:17:09.519461 
+
+ xxxipa,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:34.170072 
+
+ xxxipa,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:18:49.136354 
+
+ xxxipa,     tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:19:22.018389 

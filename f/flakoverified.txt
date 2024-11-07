@@ -1,0 +1,4 @@
+
+ flakoverified,     !uptime,        <Channel name: kaicenat>,       2024-11-07 12:38:26.335591 
+
+ flakoverified,     !downtime,        <Channel name: kaicenat>,       2024-11-07 12:38:58.900327 

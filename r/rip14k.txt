@@ -1,0 +1,16 @@
+
+ rip14k,     MercyWing1 TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE MercyWing2,        <Channel name: kaicenat>,       2024-11-07 11:20:45.193827 
+
+ rip14k,     Squid3 Squid4 Squid2,        <Channel name: kaicenat>,       2024-11-07 11:21:08.235852 
+
+ rip14k,     MercyWing1 MercyWing2,        <Channel name: kaicenat>,       2024-11-07 11:21:10.426841 
+
+ rip14k,     MercyWing2 MercyWing1 MercyWing2 MercyWing2,        <Channel name: kaicenat>,       2024-11-07 11:21:11.714821 
+
+ rip14k,     MercyWing1,        <Channel name: kaicenat>,       2024-11-07 11:21:13.755524 
+
+ rip14k,     TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 11:21:15.313871 
+
+ rip14k,     Wtw,        <Channel name: kaicenat>,       2024-11-07 11:21:26.763734 
+
+ rip14k,     it’s hot today,        <Channel name: kaicenat>,       2024-11-07 11:21:30.662437 

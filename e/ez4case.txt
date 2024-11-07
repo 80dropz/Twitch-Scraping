@@ -1,0 +1,2 @@
+
+ ez4case,     !sens,        <Channel name: mongraal>,       2024-11-07 11:49:16.214809 

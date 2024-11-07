@@ -1,0 +1,12 @@
+
+ miguel_sr08,     !crosshair,        <Channel name: mrlust>,       2024-11-07 10:08:25.451726 
+
+ miguel_sr08,     !crosshair,        <Channel name: mongraal>,       2024-11-07 10:09:14.010041 
+
+ miguel_sr08,     !crosshair,        <Channel name: mongraal>,       2024-11-07 10:09:53.946165 
+
+ miguel_sr08,     !sens,        <Channel name: mrlust>,       2024-11-07 10:20:22.840525 
+
+ miguel_sr08,     !hours,        <Channel name: mrlust>,       2024-11-07 11:24:18.449433 
+
+ miguel_sr08,     !watchtime,        <Channel name: mrlust>,       2024-11-07 11:24:26.592153 

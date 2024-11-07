@@ -14,3 +14,7 @@
  xen0iz,     W FELDY,        <Channel name: clix>,       2024-11-07 01:43:58.867215 
 
  xen0iz,     mero's about to air out,        <Channel name: faxuty>,       2024-11-07 02:10:34.545541 
+
+ xen0iz,     he will only play zero builds,        <Channel name: clix>,       2024-11-07 13:24:48.567071 
+
+ xen0iz,     he won't touch builds,        <Channel name: clix>,       2024-11-07 13:26:09.355094 

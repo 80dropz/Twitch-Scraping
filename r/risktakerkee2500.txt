@@ -30,3 +30,43 @@
  risktakerkee2500,     Add maxx,        <Channel name: kaicenat>,       2024-11-07 02:52:01.451010 
 
  risktakerkee2500,     No Cap,        <Channel name: kaicenat>,       2024-11-07 02:52:58.129259 
+
+ risktakerkee2500,     W,        <Channel name: kaicenat>,       2024-11-07 11:47:38.452272 
+
+ risktakerkee2500,     Yopp,        <Channel name: kaicenat>,       2024-11-07 11:50:23.022533 
+
+ risktakerkee2500,     Goodmorning,        <Channel name: kaicenat>,       2024-11-07 11:51:37.353098 
+
+ risktakerkee2500,     250 more chat,        <Channel name: kaicenat>,       2024-11-07 12:08:28.449893 
+
+ risktakerkee2500,     224,        <Channel name: kaicenat>,       2024-11-07 12:11:38.339317 
+
+ risktakerkee2500,     200,        <Channel name: kaicenat>,       2024-11-07 12:14:37.067601 
+
+ risktakerkee2500,     195,        <Channel name: kaicenat>,       2024-11-07 12:16:37.803011 
+
+ risktakerkee2500,     178,        <Channel name: kaicenat>,       2024-11-07 12:18:59.401722 
+
+ risktakerkee2500,     175,        <Channel name: kaicenat>,       2024-11-07 12:20:02.685226 
+
+ risktakerkee2500,     100,        <Channel name: kaicenat>,       2024-11-07 12:32:23.114926 
+
+ risktakerkee2500,     36,        <Channel name: kaicenat>,       2024-11-07 12:46:14.073065 
+
+ risktakerkee2500,     33,        <Channel name: kaicenat>,       2024-11-07 12:46:38.820730 
+
+ risktakerkee2500,     25,        <Channel name: kaicenat>,       2024-11-07 12:47:37.946080 
+
+ risktakerkee2500,     W,        <Channel name: kaicenat>,       2024-11-07 12:47:52.462650 
+
+ risktakerkee2500,     W,        <Channel name: kaicenat>,       2024-11-07 12:59:43.285126 
+
+ risktakerkee2500,     Imaoo,        <Channel name: kaicenat>,       2024-11-07 13:01:45.624481 
+
+ risktakerkee2500,     DON'T EVEN DO IT NOMO ATP,        <Channel name: kaicenat>,       2024-11-07 13:13:30.315777 
+
+ risktakerkee2500,     Don't do it,        <Channel name: kaicenat>,       2024-11-07 13:20:09.416984 
+
+ risktakerkee2500,     Ggs,        <Channel name: kaicenat>,       2024-11-07 13:23:53.978962 
+
+ risktakerkee2500,     Got it,        <Channel name: kaicenat>,       2024-11-07 13:30:53.931874 

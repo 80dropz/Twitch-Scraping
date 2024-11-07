@@ -1,0 +1,16 @@
+
+ lnemo04,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:10.850459 
+
+ lnemo04,     !gamble 150,        <Channel name: kaicenat>,       2024-11-07 09:52:14.572358 
+
+ lnemo04,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:52:30.555687 
+
+ lnemo04,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:41.129638 
+
+ lnemo04,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:53:07.586853 
+
+ lnemo04,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:53:21.420882 
+
+ lnemo04,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:53:28.242628 
+
+ lnemo04,     !points add1936,        <Channel name: kaicenat>,       2024-11-07 09:53:40.103317 

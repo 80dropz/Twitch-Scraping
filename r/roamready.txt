@@ -1,0 +1,18 @@
+
+ roamready,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:36:24.174101 
+
+ roamready,     !gamble 221,        <Channel name: kaicenat>,       2024-11-07 10:36:53.681145 
+
+ roamready,     !flip a coin,        <Channel name: kaicenat>,       2024-11-07 10:37:17.613536 
+
+ roamready,     !gift 5,        <Channel name: kaicenat>,       2024-11-07 10:37:56.512347 
+
+ roamready,     Where miles,        <Channel name: kaicenat>,       2024-11-07 10:38:29.824309 
+
+ roamready,     Wheres miles,        <Channel name: kaicenat>,       2024-11-07 10:38:35.317593 
+
+ roamready,     WHERES MILES,        <Channel name: kaicenat>,       2024-11-07 10:38:43.379310 
+
+ roamready,     @feelssunnyman gift 100,        <Channel name: kaicenat>,       2024-11-07 12:57:58.926141 
+
+ roamready,     @feelssunnyman gift a 100 u got the money,        <Channel name: kaicenat>,       2024-11-07 12:59:17.049704 

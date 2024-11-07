@@ -1,0 +1,8 @@
+
+ kkcai34,     !perks,        <Channel name: swagg>,       2024-11-07 12:31:18.501221 
+
+ kkcai34,     !perk,        <Channel name: swagg>,       2024-11-07 12:31:31.656983 
+
+ kkcai34,     !settings,        <Channel name: swagg>,       2024-11-07 12:31:56.039152 
+
+ kkcai34,     how do you level up so fast?,        <Channel name: swagg>,       2024-11-07 12:45:20.227041 

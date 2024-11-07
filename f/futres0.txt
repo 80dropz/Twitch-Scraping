@@ -1,0 +1,4 @@
+
+ futres0,     he had a bug probabily,        <Channel name: mongraal>,       2024-11-07 13:07:57.823411 
+
+ futres0,     bug,        <Channel name: mongraal>,       2024-11-07 13:08:49.482719 

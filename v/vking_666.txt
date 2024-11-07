@@ -1,0 +1,8 @@
+
+ vking_666,     npc,        <Channel name: kaicenat>,       2024-11-07 10:03:20.038502 
+
+ vking_666,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:03:37.459891 
+
+ vking_666,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:04:23.001342 
+
+ vking_666,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:04:50.942804 

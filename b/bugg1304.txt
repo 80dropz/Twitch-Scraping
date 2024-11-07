@@ -28,3 +28,13 @@
  bugg1304,     FAX,        <Channel name: kaicenat>,       2024-11-07 02:51:24.097133 
 
  bugg1304,     FAXXXXX,        <Channel name: kaicenat>,       2024-11-07 02:51:26.209486 
+
+ bugg1304,     MORNING MILES,        <Channel name: kaicenat>,       2024-11-07 10:53:35.739282 
+
+ bugg1304,     Lag,        <Channel name: kaicenat>,       2024-11-07 10:54:37.085784 
+
+ bugg1304,     WWWWWWWW SHADOW BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:29:49.752980 
+
+ bugg1304,     WWWWWWWWW INSIDER INNN BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:30:35.060175 
+
+ bugg1304,     WWWWWWWW SHADOW,        <Channel name: kaicenat>,       2024-11-07 11:32:05.303371 

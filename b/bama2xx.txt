@@ -1,0 +1,10 @@
+
+ bama2xx,     !fc,        <Channel name: kaicenat>,       2024-11-07 10:26:44.721701 
+
+ bama2xx,     !myuptime,        <Channel name: kaicenat>,       2024-11-07 10:26:52.951241 
+
+ bama2xx,     !myuptime,        <Channel name: kaicenat>,       2024-11-07 10:28:31.884489 
+
+ bama2xx,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:28:41.595405 
+
+ bama2xx,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 10:29:20.199379 

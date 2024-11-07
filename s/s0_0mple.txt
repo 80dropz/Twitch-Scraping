@@ -1,0 +1,18 @@
+
+ s0_0mple,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:03.051549 
+
+ s0_0mple,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.710010 
+
+ s0_0mple,     France,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.263568 
+
+ s0_0mple,     Luxemburg,        <Channel name: shadowkekw>,       2024-11-07 10:22:40.256353 
+
+ s0_0mple,     iRELAND,        <Channel name: shadowkekw>,       2024-11-07 10:24:44.338586 
+
+ s0_0mple,     Boulivia,        <Channel name: shadowkekw>,       2024-11-07 10:25:44.369916 
+
+ s0_0mple,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:26:42.286938 
+
+ s0_0mple,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:27:47.572342 
+
+ s0_0mple,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.448812 

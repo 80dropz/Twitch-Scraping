@@ -2,3 +2,17 @@
  freequel,     112,        <Channel name: shadowkekw>,       2024-11-07 09:04:26.980962 
 
  freequel,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:17:25.958815 
+
+ freequel,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:31.967204 
+
+ freequel,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:07:51.368464 
+
+ freequel,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.458133 
+
+ freequel,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:45.788368 
+
+ freequel,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:08:51.711115 
+
+ freequel,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.280860 
+
+ freequel,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.753366 

@@ -1,0 +1,4 @@
+
+ uzzinv,     !class,        <Channel name: swagg>,       2024-11-07 10:38:49.787513 
+
+ uzzinv,     !XM4,        <Channel name: swagg>,       2024-11-07 10:39:14.564104 

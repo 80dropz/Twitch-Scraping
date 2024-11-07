@@ -4,3 +4,573 @@
  lesord,     ))))))),        <Channel name: shadowkekw>,       2024-11-07 09:30:07.889977 
 
  lesord,     FASF{AS{FAS{F,        <Channel name: shadowkekw>,       2024-11-07 09:35:36.786793 
+
+ lesord,     ),        <Channel name: shadowkekw>,       2024-11-07 09:58:50.659516 
+
+ lesord,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:06:56.380243 
+
+ lesord,     Kz,        <Channel name: shadowkekw>,       2024-11-07 10:07:24.803946 
+
+ lesord,     France,        <Channel name: shadowkekw>,       2024-11-07 10:08:59.353073 
+
+ lesord,     KW,        <Channel name: shadowkekw>,       2024-11-07 10:22:19.869336 
+
+ lesord,     KG,        <Channel name: shadowkekw>,       2024-11-07 10:22:22.176408 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.330592 
+
+ lesord,     CG,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.439151 
+
+ lesord,     KZ,        <Channel name: shadowkekw>,       2024-11-07 10:22:36.976292 
+
+ lesord,     GR,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.573287 
+
+ lesord,     GP,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.742488 
+
+ lesord,     GH,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.594613 
+
+ lesord,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.440510 
+
+ lesord,     HG,        <Channel name: shadowkekw>,       2024-11-07 10:23:25.754086 
+
+ lesord,     KZ,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.217789 
+
+ lesord,     GE,        <Channel name: shadowkekw>,       2024-11-07 10:23:46.246290 
+
+ lesord,     IE,        <Channel name: shadowkekw>,       2024-11-07 10:23:49.052957 
+
+ lesord,     KE,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.773716 
+
+ lesord,     CY,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.481571 
+
+ lesord,     KW,        <Channel name: shadowkekw>,       2024-11-07 10:24:10.437735 
+
+ lesord,     Kh,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.581441 
+
+ lesord,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.289533 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:25:52.325810 
+
+ lesord,     CU,        <Channel name: shadowkekw>,       2024-11-07 10:26:05.165489 
+
+ lesord,     CI,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.551792 
+
+ lesord,     KR,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.523087 
+
+ lesord,     CD,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.369256 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.740522 
+
+ lesord,     IN,        <Channel name: shadowkekw>,       2024-11-07 10:26:34.159925 
+
+ lesord,     IN,        <Channel name: shadowkekw>,       2024-11-07 10:26:49.450496 
+
+ lesord,     ID,        <Channel name: shadowkekw>,       2024-11-07 10:26:50.977863 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 10:26:58.067233 
+
+ lesord,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.669044 
+
+ lesord,     GR,        <Channel name: shadowkekw>,       2024-11-07 10:27:14.823407 
+
+ lesord,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.810623 
+
+ lesord,     ZW,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.134928 
+
+ lesord,     ZM,        <Channel name: shadowkekw>,       2024-11-07 10:27:30.338891 
+
+ lesord,     IN,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.217520 
+
+ lesord,     ID,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.177542 
+
+ lesord,     LD,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.002278 
+
+ lesord,     DO,        <Channel name: shadowkekw>,       2024-11-07 10:27:50.175789 
+
+ lesord,     DJ,        <Channel name: shadowkekw>,       2024-11-07 10:27:51.595085 
+
+ lesord,     HK,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.701261 
+
+ lesord,     QA,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.154739 
+
+ lesord,     KZ,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.567094 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 10:28:10.977958 
+
+ lesord,     LV,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.111004 
+
+ lesord,     KW,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.571306 
+
+ lesord,     CU,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.236008 
+
+ lesord,     LS,        <Channel name: shadowkekw>,       2024-11-07 10:29:23.110713 
+
+ lesord,     UZ,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.553025 
+
+ lesord,     UG,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.671798 
+
+ lesord,     TR,        <Channel name: shadowkekw>,       2024-11-07 10:29:41.574208 
+
+ lesord,     TV,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.105838 
+
+ lesord,     TT,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.364093 
+
+ lesord,     TL,        <Channel name: shadowkekw>,       2024-11-07 10:29:50.885910 
+
+ lesord,     CZ,        <Channel name: shadowkekw>,       2024-11-07 10:30:06.182345 
+
+ lesord,     SE,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.460192 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 10:30:43.664562 
+
+ lesord,     FM,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.331446 
+
+ lesord,     MD,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.296910 
+
+ lesord,     MR,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.433071 
+
+ lesord,     ML,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.988293 
+
+ lesord,     MT,        <Channel name: shadowkekw>,       2024-11-07 10:31:38.287919 
+
+ lesord,     FM,        <Channel name: shadowkekw>,       2024-11-07 10:31:39.750485 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 10:31:42.688567 
+
+ lesord,     FM,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.500512 
+
+ lesord,     ITMA,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.990774 
+
+ lesord,     MT,        <Channel name: shadowkekw>,       2024-11-07 10:31:53.687283 
+
+ lesord,     PO,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.204351 
+
+ lesord,     NW,        <Channel name: shadowkekw>,       2024-11-07 10:32:12.451685 
+
+ lesord,     NR,        <Channel name: shadowkekw>,       2024-11-07 10:32:15.334886 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:32:22.584107 
+
+ lesord,     SE,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.077353 
+
+ lesord,     MR,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.743929 
+
+ lesord,     MA,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.277517 
+
+ lesord,     LA,        <Channel name: shadowkekw>,       2024-11-07 10:32:39.688822 
+
+ lesord,     LV,        <Channel name: shadowkekw>,       2024-11-07 10:32:44.949599 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.427506 
+
+ lesord,     NZ,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.610152 
+
+ lesord,     MY,        <Channel name: shadowkekw>,       2024-11-07 10:33:00.974617 
+
+ lesord,     ML,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.852597 
+
+ lesord,     MU,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.464146 
+
+ lesord,     LR,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.930830 
+
+ lesord,     TC,        <Channel name: shadowkekw>,       2024-11-07 10:33:31.347883 
+
+ lesord,     PK,        <Channel name: shadowkekw>,       2024-11-07 10:33:33.931583 
+
+ lesord,     NF,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.331068 
+
+ lesord,     CL,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.638475 
+
+ lesord,     IM,        <Channel name: shadowkekw>,       2024-11-07 10:34:01.486552 
+
+ lesord,     PS,        <Channel name: shadowkekw>,       2024-11-07 10:34:14.077156 
+
+ lesord,     PW,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.324234 
+
+ lesord,     PK,        <Channel name: shadowkekw>,       2024-11-07 10:34:17.596182 
+
+ lesord,     TC,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.774765 
+
+ lesord,     NF,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.361992 
+
+ lesord,     BV,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.284664 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 10:34:43.128809 
+
+ lesord,     LT,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.399403 
+
+ lesord,     LR,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.546846 
+
+ lesord,     VI,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.276204 
+
+ lesord,     VN,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.420409 
+
+ lesord,     GY,        <Channel name: shadowkekw>,       2024-11-07 10:35:10.956675 
+
+ lesord,     GH,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.764267 
+
+ lesord,     DO,        <Channel name: shadowkekw>,       2024-11-07 10:35:32.213072 
+
+ lesord,     DM,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.326674 
+
+ lesord,     DK,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.227653 
+
+ lesord,     GE,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.844693 
+
+ lesord,     GR,        <Channel name: shadowkekw>,       2024-11-07 10:35:46.326244 
+
+ lesord,     ZM,        <Channel name: shadowkekw>,       2024-11-07 10:35:57.821067 
+
+ lesord,     JP,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.605499 
+
+ lesord,     GU,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.191141 
+
+ lesord,     lesordBig,        <Channel name: shadowkekw>,       2024-11-07 10:36:28.043732 
+
+ lesord,     lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig lesordBig,        <Channel name: shadowkekw>,       2024-11-07 10:36:29.640044 
+
+ lesord,     DO,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.366131 
+
+ lesord,     GE,        <Channel name: shadowkekw>,       2024-11-07 10:37:30.413224 
+
+ lesord,     GR,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.081093 
+
+ lesord,     ZM,        <Channel name: shadowkekw>,       2024-11-07 10:37:38.497551 
+
+ lesord,     EH,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.652636 
+
+ lesord,     DE,        <Channel name: shadowkekw>,       2024-11-07 10:37:48.838638 
+
+ lesord,     EH,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.024895 
+
+ lesord,     DK,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.539662 
+
+ lesord,     RL,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.266261 
+
+ lesord,     HK,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.006510 
+
+ lesord,     KR,        <Channel name: shadowkekw>,       2024-11-07 10:39:03.741287 
+
+ lesord,     CC,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.052796 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.550449 
+
+ lesord,     O,        <Channel name: shadowkekw>,       2024-11-07 10:39:13.352361 
+
+ lesord,     ),        <Channel name: shadowkekw>,       2024-11-07 10:39:14.368065 
+
+ lesord,     CN,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.722651 
+
+ lesord,     NE,        <Channel name: shadowkekw>,       2024-11-07 10:39:46.324809 
+
+ lesord,     ITALY,        <Channel name: shadowkekw>,       2024-11-07 10:39:50.043539 
+
+ lesord,     TJ,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.244235 
+
+ lesord,     CU,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.358100 
+
+ lesord,     LI,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.864044 
+
+ lesord,     KR,        <Channel name: shadowkekw>,       2024-11-07 10:40:48.198430 
+
+ lesord,     KP,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.667009 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.779140 
+
+ lesord,     AS,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.114628 
+
+ lesord,     SU,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.633374 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.635677 
+
+ lesord,     KT,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.960518 
+
+ lesord,     ZA,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.661095 
+
+ lesord,     AR,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.758038 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:42:33.037588 
+
+ lesord,     FR,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.360031 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.171631 
+
+ lesord,     KZ,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.625798 
+
+ lesord,     YE,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.179171 
+
+ lesord,     CV,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.891205 
+
+ lesord,     ZA,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.336365 
+
+ lesord,     TW,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.440539 
+
+ lesord,     AD,        <Channel name: shadowkekw>,       2024-11-07 10:45:00.349026 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:45:09.301710 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.866748 
+
+ lesord,     LT,        <Channel name: shadowkekw>,       2024-11-07 10:46:03.917210 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:46:08.295643 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:46:23.616239 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.481339 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.996111 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.446098 
+
+ lesord,     LT,        <Channel name: shadowkekw>,       2024-11-07 10:48:19.226961 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.271234 
+
+ lesord,     AR,        <Channel name: shadowkekw>,       2024-11-07 10:48:29.855960 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:48:35.824427 
+
+ lesord,     LT,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.921683 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:48:55.044183 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.508383 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.923890 
+
+ lesord,     AR,        <Channel name: shadowkekw>,       2024-11-07 10:49:47.082126 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.493001 
+
+ lesord,     LU,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.760877 
+
+ lesord,     ZA,        <Channel name: shadowkekw>,       2024-11-07 10:50:03.021292 
+
+ lesord,     LB,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.058324 
+
+ lesord,     PA,        <Channel name: shadowkekw>,       2024-11-07 10:50:15.601335 
+
+ lesord,     JO,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.415176 
+
+ lesord,     OM,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.588585 
+
+ lesord,     AU,        <Channel name: shadowkekw>,       2024-11-07 10:50:56.882111 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.770575 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:51:18.129342 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:51:22.212927 
+
+ lesord,     LU,        <Channel name: shadowkekw>,       2024-11-07 10:51:34.590736 
+
+ lesord,     YU,        <Channel name: shadowkekw>,       2024-11-07 10:51:38.905014 
+
+ lesord,     HK,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.340167 
+
+ lesord,     AD,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.709125 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:52:01.209599 
+
+ lesord,     CO,        <Channel name: shadowkekw>,       2024-11-07 10:52:06.125636 
+
+ lesord,     AR,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.687789 
+
+ lesord,     OM,        <Channel name: shadowkekw>,       2024-11-07 10:52:21.151766 
+
+ lesord,     AR,        <Channel name: shadowkekw>,       2024-11-07 10:53:04.011914 
+
+ lesord,     LU,        <Channel name: shadowkekw>,       2024-11-07 10:53:25.844781 
+
+ lesord,     UY,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.143043 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:54:24.305246 
+
+ lesord,     AD,        <Channel name: shadowkekw>,       2024-11-07 10:54:31.013907 
+
+ lesord,     NG,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.522523 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.870163 
+
+ lesord,     PH,        <Channel name: shadowkekw>,       2024-11-07 10:57:44.145799 
+
+ lesord,     TW,        <Channel name: shadowkekw>,       2024-11-07 10:57:46.969680 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 10:57:53.936796 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:58:09.589486 
+
+ lesord,     GE,        <Channel name: shadowkekw>,       2024-11-07 10:58:31.037274 
+
+ lesord,     LU,        <Channel name: shadowkekw>,       2024-11-07 10:58:37.196211 
+
+ lesord,     ES,        <Channel name: shadowkekw>,       2024-11-07 10:58:43.126792 
+
+ lesord,     OH,        <Channel name: shadowkekw>,       2024-11-07 10:58:46.478123 
+
+ lesord,     TW,        <Channel name: shadowkekw>,       2024-11-07 10:58:54.559487 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.791233 
+
+ lesord,     SW,        <Channel name: shadowkekw>,       2024-11-07 10:59:40.454912 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 11:00:05.401454 
+
+ lesord,     MX,        <Channel name: shadowkekw>,       2024-11-07 11:00:10.769581 
+
+ lesord,     TW,        <Channel name: shadowkekw>,       2024-11-07 11:00:26.494247 
+
+ lesord,     KA,        <Channel name: shadowkekw>,       2024-11-07 11:00:47.585816 
+
+ lesord,     PE,        <Channel name: shadowkekw>,       2024-11-07 11:00:54.038138 
+
+ lesord,     PU,        <Channel name: shadowkekw>,       2024-11-07 11:00:56.581837 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 11:01:00.150496 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 11:01:42.590258 
+
+ lesord,     KH,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.535658 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 11:03:40.327267 
+
+ lesord,     TH,        <Channel name: shadowkekw>,       2024-11-07 11:04:22.735156 
+
+ lesord,     LI,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.763072 
+
+ lesord,     LT,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.637304 
+
+ lesord,     IN,        <Channel name: shadowkekw>,       2024-11-07 11:04:44.247377 
+
+ lesord,     SW,        <Channel name: shadowkekw>,       2024-11-07 11:04:47.252752 
+
+ lesord,     GN,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.026444 
+
+ lesord,     SO,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.397323 
+
+ lesord,     RW,        <Channel name: shadowkekw>,       2024-11-07 11:06:33.665945 
+
+ lesord,     MU,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.621898 
+
+ lesord,     TZ,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.330999 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.418915 
+
+ lesord,     BJ,        <Channel name: shadowkekw>,       2024-11-07 11:08:27.874094 
+
+ lesord,     NL,        <Channel name: shadowkekw>,       2024-11-07 11:08:52.402497 
+
+ lesord,     GH,        <Channel name: shadowkekw>,       2024-11-07 11:08:57.701027 
+
+ lesord,     GW,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.189352 
+
+ lesord,     OM,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.849139 
+
+ lesord,     IL,        <Channel name: shadowkekw>,       2024-11-07 11:09:41.152472 
+
+ lesord,     GE,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.673665 
+
+ lesord,     MU,        <Channel name: shadowkekw>,       2024-11-07 11:10:08.670015 
+
+ lesord,     KM,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.007087 
+
+ lesord,     OK,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.105114 
+
+ lesord,     BG,        <Channel name: shadowkekw>,       2024-11-07 11:10:27.402258 
+
+ lesord,     UA,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.029773 
+
+ lesord,     BG,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.755289 
+
+ lesord,     LU,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.429775 
+
+ lesord,     NL,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.666819 
+
+ lesord,     IO,        <Channel name: shadowkekw>,       2024-11-07 11:11:31.560457 
+
+ lesord,     GW,        <Channel name: shadowkekw>,       2024-11-07 11:11:49.509656 
+
+ lesord,     GH,        <Channel name: shadowkekw>,       2024-11-07 11:11:56.044718 
+
+ lesord,     CY,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.695455 
+
+ lesord,     MD,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.837206 
+
+ lesord,     BG,        <Channel name: shadowkekw>,       2024-11-07 11:12:36.504890 
+
+ lesord,     AZ,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.086804 
+
+ lesord,     QA,        <Channel name: shadowkekw>,       2024-11-07 11:13:01.939220 
+
+ lesord,     IT,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.711920 
+
+ lesord,     KE,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.306345 
+
+ lesord,     ZM,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.797908 
+
+ lesord,     25+25,        <Channel name: shadowkekw>,       2024-11-07 11:20:57.164207 
+
+ lesord,     Clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:41.709269 
+
+ lesord,     Clap Clap Clap Clap Clap Clap Clap Clap Clap Clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:42.825075 
+
+ lesord,     Clap Clap Clap Clap Clap Clap Clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:45.690693 
+
+ lesord,     Clap Clap Clap Clap Clap Clap Clap Clap Clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:48.025857 
+
+ lesord,     CLAP CLAP CLAP CLAP CLAP CLAP CLAP CLAP CLAP,        <Channel name: shadowkekw>,       2024-11-07 11:21:52.164893 
+
+ lesord,     @shadowkekw EBALAI HAH,        <Channel name: kaicenat>,       2024-11-07 11:47:38.114455 
+
+ lesord,     HAH,        <Channel name: shadowkekw>,       2024-11-07 11:48:16.896535 
+
+ lesord,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:46.049546 
+
+ lesord,     HEY,        <Channel name: shadowkekw>,       2024-11-07 11:54:50.763687 
+
+ lesord,     @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN,        <Channel name: shadowkekw>,       2024-11-07 12:00:54.508481 
+
+ lesord,     @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN,        <Channel name: shadowkekw>,       2024-11-07 12:00:58.747015 
+
+ lesord,     @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN,        <Channel name: shadowkekw>,       2024-11-07 12:01:08.751422 
+
+ lesord,     @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN,        <Channel name: shadowkekw>,       2024-11-07 12:01:15.653810 
+
+ lesord,     @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN @shadowkekw https://imgur.com/sXulhHN,        <Channel name: shadowkekw>,       2024-11-07 12:01:19.108585 
+
+ lesord,     he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:34.382012 
+
+ lesord,     Aunkere Aunkere Aunkere Aunkere Aunkere Aunkere Aunkere Aunkere,        <Channel name: shadowkekw>,       2024-11-07 12:05:09.233645 
+
+ lesord,     Aunkere Aunkere,        <Channel name: shadowkekw>,       2024-11-07 12:05:19.267067 
+
+ lesord,     aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere,        <Channel name: shadowkekw>,       2024-11-07 12:05:25.802043 
+
+ lesord,     aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere aunkere,        <Channel name: shadowkekw>,       2024-11-07 12:05:27.080835 
+
+ lesord,     HAH,        <Channel name: shadowkekw>,       2024-11-07 12:07:12.407677 
+
+ lesord,     HAH,        <Channel name: shadowkekw>,       2024-11-07 12:09:21.579698 
+
+ lesord,     HAH HAH HAH HAH HAH HAH HAH HAH,        <Channel name: shadowkekw>,       2024-11-07 12:09:23.418436 
+
+ lesord,     pizdec,        <Channel name: shadowkekw>,       2024-11-07 12:14:40.260044 
+
+ lesord,     Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec,        <Channel name: shadowkekw>,       2024-11-07 12:14:45.395973 
+
+ lesord,     Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec,        <Channel name: shadowkekw>,       2024-11-07 12:14:52.380725 
+
+ lesord,     Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec,        <Channel name: shadowkekw>,       2024-11-07 12:14:55.627708 
+
+ lesord,     Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec Pizdec,        <Channel name: shadowkekw>,       2024-11-07 12:15:00.435428 
+
+ lesord,     !vanish,        <Channel name: shadowkekw>,       2024-11-07 12:18:31.109489 
+
+ lesord,     2000-st,        <Channel name: shadowkekw>,       2024-11-07 12:20:53.806145 
+
+ lesord,     ),        <Channel name: shadowkekw>,       2024-11-07 12:22:36.689101 
+
+ lesord,     364,        <Channel name: shadowkekw>,       2024-11-07 12:30:10.746589 
+
+ lesord,     CKTDF,        <Channel name: shadowkekw>,       2024-11-07 12:31:17.774130 

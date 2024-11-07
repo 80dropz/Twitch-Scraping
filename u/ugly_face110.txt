@@ -1,0 +1,56 @@
+
+ ugly_face110,     India,        <Channel name: shadowkekw>,       2024-11-07 10:52:17.365007 
+
+ ugly_face110,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:52:47.678738 
+
+ ugly_face110,     Cina,        <Channel name: shadowkekw>,       2024-11-07 10:54:13.923472 
+
+ ugly_face110,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.722915 
+
+ ugly_face110,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:57.074740 
+
+ ugly_face110,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:57:29.337339 
+
+ ugly_face110,     Czechia,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.848940 
+
+ ugly_face110,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 11:02:28.770064 
+
+ ugly_face110,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.702306 
+
+ ugly_face110,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:04:21.268277 
+
+ ugly_face110,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 11:04:53.718143 
+
+ ugly_face110,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.460557 
+
+ ugly_face110,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 11:06:02.911471 
+
+ ugly_face110,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:06:16.134136 
+
+ ugly_face110,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.266634 
+
+ ugly_face110,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:10:23.757516 
+
+ ugly_face110,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:10:37.982114 
+
+ ugly_face110,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.377434 
+
+ ugly_face110,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:11:26.682636 
+
+ ugly_face110,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:12:00.470933 
+
+ ugly_face110,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.843192 
+
+ ugly_face110,     Czechia,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.124487 
+
+ ugly_face110,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:13:52.002526 
+
+ ugly_face110,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:14:26.510529 
+
+ ugly_face110,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 11:15:48.185292 
+
+ ugly_face110,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:18:32.648277 
+
+ ugly_face110,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:19:38.436182 
+
+ ugly_face110,     123,        <Channel name: shadowkekw>,       2024-11-07 11:21:43.162127 

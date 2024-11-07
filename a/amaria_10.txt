@@ -1,0 +1,8 @@
+
+ amaria_10,     !gmable 50,        <Channel name: kaicenat>,       2024-11-07 10:14:36.389101 
+
+ amaria_10,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:15:14.407290 
+
+ amaria_10,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:15:37.024631 
+
+ amaria_10,     JUST DO IT MILES,        <Channel name: kaicenat>,       2024-11-07 13:20:44.172457 

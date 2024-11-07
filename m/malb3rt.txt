@@ -1,0 +1,104 @@
+
+ malb3rt,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:33.083263 
+
+ malb3rt,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.423520 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:22:35.139399 
+
+ malb3rt,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:22:56.305535 
+
+ malb3rt,     Kosovo,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.351962 
+
+ malb3rt,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:24:48.439718 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.564782 
+
+ malb3rt,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.539363 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:06.657470 
+
+ malb3rt,     Urugay,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.567754 
+
+ malb3rt,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.237949 
+
+ malb3rt,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.682178 
+
+ malb3rt,     Sebia,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.430965 
+
+ malb3rt,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.303988 
+
+ malb3rt,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:29:54.701569 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.354449 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:30:16.436919 
+
+ malb3rt,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:30:20.597279 
+
+ malb3rt,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.954432 
+
+ malb3rt,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.251520 
+
+ malb3rt,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.439976 
+
+ malb3rt,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.674089 
+
+ malb3rt,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.655329 
+
+ malb3rt,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:33:46.965657 
+
+ malb3rt,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.727646 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.640220 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:04.959277 
+
+ malb3rt,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.944783 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.411019 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.769369 
+
+ malb3rt,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.414265 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.135756 
+
+ malb3rt,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:36:40.721909 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.070851 
+
+ malb3rt,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.018135 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.351884 
+
+ malb3rt,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.381565 
+
+ malb3rt,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.292952 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.253598 
+
+ malb3rt,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.083102 
+
+ malb3rt,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.764393 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.628492 
+
+ malb3rt,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.869195 
+
+ malb3rt,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.668536 
+
+ malb3rt,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.682991 
+
+ malb3rt,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:43:21.091751 
+
+ malb3rt,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.978823 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:37.666186 
+
+ malb3rt,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.865020 
+
+ malb3rt,     Ph,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.466785 
+
+ malb3rt,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.254490 
+
+ malb3rt,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:44:43.147476 

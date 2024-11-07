@@ -1,0 +1,22 @@
+
+ pika_pichu,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:06:59.583423 
+
+ pika_pichu,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.547070 
+
+ pika_pichu,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.173970 
+
+ pika_pichu,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:57:28.339637 
+
+ pika_pichu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:58:41.636882 
+
+ pika_pichu,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 11:01:02.525264 
+
+ pika_pichu,     NOrway,        <Channel name: shadowkekw>,       2024-11-07 11:02:11.746915 
+
+ pika_pichu,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.752861 
+
+ pika_pichu,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.849859 
+
+ pika_pichu,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.171351 
+
+ pika_pichu,     Israel,        <Channel name: shadowkekw>,       2024-11-07 11:14:57.895068 

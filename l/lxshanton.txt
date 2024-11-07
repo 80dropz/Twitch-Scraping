@@ -1,0 +1,34 @@
+
+ lxshanton,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.928498 
+
+ lxshanton,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:09:43.781961 
+
+ lxshanton,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:10:06.399849 
+
+ lxshanton,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.387622 
+
+ lxshanton,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:34.396471 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:55.004283 
+
+ lxshanton,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:11:49.283417 
+
+ lxshanton,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.218880 
+
+ lxshanton,     Kazakhsta,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.459235 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:13:40.983044 
+
+ lxshanton,     m,        <Channel name: shadowkekw>,       2024-11-07 10:13:57.919787 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.353331 
+
+ lxshanton,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.848329 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.094632 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.609040 
+
+ lxshanton,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.320403 
+
+ lxshanton,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:37.624541 

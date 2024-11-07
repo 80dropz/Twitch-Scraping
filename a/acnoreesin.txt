@@ -1,0 +1,28 @@
+
+ acnoreesin,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:13:36.730512 
+
+ acnoreesin,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:14:14.151817 
+
+ acnoreesin,     Albania,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.180099 
+
+ acnoreesin,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 11:14:35.551458 
+
+ acnoreesin,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:14:41.241406 
+
+ acnoreesin,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:14:45.941490 
+
+ acnoreesin,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 11:14:49.494723 
+
+ acnoreesin,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:14:54.194499 
+
+ acnoreesin,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:14:57.580402 
+
+ acnoreesin,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 11:15:01.039910 
+
+ acnoreesin,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 11:15:05.414834 
+
+ acnoreesin,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:15:11.473103 
+
+ acnoreesin,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:15:20.137800 
+
+ acnoreesin,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:15:24.921295 

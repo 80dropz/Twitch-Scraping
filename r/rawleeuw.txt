@@ -1,0 +1,228 @@
+
+ rawleeuw,     North macedonia,        <Channel name: shadowkekw>,       2024-11-07 10:08:20.832538 
+
+ rawleeuw,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:10.285361 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:11.023638 
+
+ rawleeuw,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:10:18.226906 
+
+ rawleeuw,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.315022 
+
+ rawleeuw,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:12:36.995908 
+
+ rawleeuw,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.482172 
+
+ rawleeuw,     Butan,        <Channel name: shadowkekw>,       2024-11-07 10:13:02.695972 
+
+ rawleeuw,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:17:24.878464 
+
+ rawleeuw,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:19:05.858413 
+
+ rawleeuw,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.900591 
+
+ rawleeuw,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.933762 
+
+ rawleeuw,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.927637 
+
+ rawleeuw,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.354406 
+
+ rawleeuw,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.949717 
+
+ rawleeuw,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:53.224885 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:22:52.661587 
+
+ rawleeuw,     AUSTRALIA Russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.996168 
+
+ rawleeuw,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.185824 
+
+ rawleeuw,     South korea,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.996101 
+
+ rawleeuw,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:23:49.892112 
+
+ rawleeuw,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:23:54.326723 
+
+ rawleeuw,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.899000 
+
+ rawleeuw,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.865049 
+
+ rawleeuw,     France,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.827194 
+
+ rawleeuw,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:26:58.304950 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:19.705170 
+
+ rawleeuw,     France,        <Channel name: shadowkekw>,       2024-11-07 10:27:37.362516 
+
+ rawleeuw,     Italu,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.337317 
+
+ rawleeuw,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.532023 
+
+ rawleeuw,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.506002 
+
+ rawleeuw,     Guam,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.982749 
+
+ rawleeuw,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.701195 
+
+ rawleeuw,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:30:10.069513 
+
+ rawleeuw,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:30:14.078859 
+
+ rawleeuw,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.663421 
+
+ rawleeuw,     France,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.629372 
+
+ rawleeuw,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.423611 
+
+ rawleeuw,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.092589 
+
+ rawleeuw,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.969091 
+
+ rawleeuw,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.003193 
+
+ rawleeuw,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:34:47.019160 
+
+ rawleeuw,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:34:55.085612 
+
+ rawleeuw,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.845502 
+
+ rawleeuw,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.315659 
+
+ rawleeuw,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.597531 
+
+ rawleeuw,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:42.012216 
+
+ rawleeuw,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.085356 
+
+ rawleeuw,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.245696 
+
+ rawleeuw,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.321707 
+
+ rawleeuw,     Eswatini,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.920575 
+
+ rawleeuw,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.017563 
+
+ rawleeuw,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.353812 
+
+ rawleeuw,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.020723 
+
+ rawleeuw,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.141081 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.644953 
+
+ rawleeuw,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.948459 
+
+ rawleeuw,     Germay,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.022223 
+
+ rawleeuw,     lx,        <Channel name: shadowkekw>,       2024-11-07 10:42:55.445086 
+
+ rawleeuw,     luxembourh,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.403081 
+
+ rawleeuw,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.623692 
+
+ rawleeuw,     Hongkong,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.298570 
+
+ rawleeuw,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.494113 
+
+ rawleeuw,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:45:16.897454 
+
+ rawleeuw,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.277595 
+
+ rawleeuw,     Nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.670129 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.717060 
+
+ rawleeuw,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:46:49.414497 
+
+ rawleeuw,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:47:06.643378 
+
+ rawleeuw,     REunion,        <Channel name: shadowkekw>,       2024-11-07 10:47:47.286007 
+
+ rawleeuw,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:11.122149 
+
+ rawleeuw,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.379447 
+
+ rawleeuw,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.591114 
+
+ rawleeuw,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.730107 
+
+ rawleeuw,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.933316 
+
+ rawleeuw,     sri lanka,        <Channel name: shadowkekw>,       2024-11-07 10:52:21.346156 
+
+ rawleeuw,     botswana,        <Channel name: shadowkekw>,       2024-11-07 10:52:40.958210 
+
+ rawleeuw,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.278212 
+
+ rawleeuw,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.740320 
+
+ rawleeuw,     dominican repiblic,        <Channel name: shadowkekw>,       2024-11-07 10:54:23.415133 
+
+ rawleeuw,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.918812 
+
+ rawleeuw,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:55:57.910337 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:26.940007 
+
+ rawleeuw,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:57:21.771021 
+
+ rawleeuw,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:08.968383 
+
+ rawleeuw,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:56.133375 
+
+ rawleeuw,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:59:54.821490 
+
+ rawleeuw,     Hongkong,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.556865 
+
+ rawleeuw,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.575541 
+
+ rawleeuw,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:01:27.963689 
+
+ rawleeuw,     France,        <Channel name: shadowkekw>,       2024-11-07 11:02:27.799528 
+
+ rawleeuw,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.205304 
+
+ rawleeuw,     India,        <Channel name: shadowkekw>,       2024-11-07 11:04:31.419787 
+
+ rawleeuw,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.550616 
+
+ rawleeuw,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 11:04:52.622214 
+
+ rawleeuw,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:05:05.839639 
+
+ rawleeuw,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:05:34.280098 
+
+ rawleeuw,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:05:57.126541 
+
+ rawleeuw,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:07:03.281245 
+
+ rawleeuw,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:07:33.196454 
+
+ rawleeuw,     panama,        <Channel name: shadowkekw>,       2024-11-07 11:07:42.209137 
+
+ rawleeuw,     bangladesh,        <Channel name: shadowkekw>,       2024-11-07 11:08:33.471823 
+
+ rawleeuw,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 11:08:58.215107 
+
+ rawleeuw,     South africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.187410 
+
+ rawleeuw,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.567911 
+
+ rawleeuw,     do,        <Channel name: shadowkekw>,       2024-11-07 11:09:50.920485 
+
+ rawleeuw,     netherlands,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.536792 
+
+ rawleeuw,     hongkong,        <Channel name: shadowkekw>,       2024-11-07 11:10:19.190139 
+
+ rawleeuw,     newzealnd,        <Channel name: shadowkekw>,       2024-11-07 11:11:25.980079 
+
+ rawleeuw,     singapore,        <Channel name: shadowkekw>,       2024-11-07 11:11:31.146294 
+
+ rawleeuw,     latvia,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.181661 
+
+ rawleeuw,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:12:45.865753 
+
+ rawleeuw,     bangladesh,        <Channel name: shadowkekw>,       2024-11-07 11:13:22.271193 
+
+ rawleeuw,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:14:26.525521 

@@ -1,0 +1,6 @@
+
+ wolfnfps,     how hours left,        <Channel name: mongraal>,       2024-11-07 12:58:30.287436 
+
+ wolfnfps,     !hours,        <Channel name: mongraal>,       2024-11-07 12:59:44.138128 
+
+ wolfnfps,     !timer,        <Channel name: mongraal>,       2024-11-07 13:00:14.733707 

@@ -1,0 +1,12 @@
+
+ bigmaccrush,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:18:48.023515 
+
+ bigmaccrush,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:19:17.406510 
+
+ bigmaccrush,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:22:04.570988 
+
+ bigmaccrush,     !points,        <Channel name: kaicenat>,       2024-11-07 10:22:28.270546 
+
+ bigmaccrush,     !roulette 6 points,        <Channel name: kaicenat>,       2024-11-07 10:22:46.488651 
+
+ bigmaccrush,     !points,        <Channel name: kaicenat>,       2024-11-07 10:29:23.890178 

@@ -1,0 +1,6 @@
+
+ bereborn_,     !time,        <Channel name: kaicenat>,       2024-11-07 10:21:37.262248 
+
+ bereborn_,     !points,        <Channel name: kaicenat>,       2024-11-07 10:21:57.844223 
+
+ bereborn_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:22:11.127926 

@@ -1,0 +1,4 @@
+
+ maitrog,     hello,        <Channel name: kaicenat>,       2024-11-07 11:45:50.697326 
+
+ maitrog,     ww,        <Channel name: kaicenat>,       2024-11-07 11:46:39.284233 

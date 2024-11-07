@@ -1,0 +1,160 @@
+
+ malfato0,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:25:21.755088 
+
+ malfato0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:21.624634 
+
+ malfato0,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:26:40.479939 
+
+ malfato0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.946630 
+
+ malfato0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.165367 
+
+ malfato0,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:42.062055 
+
+ malfato0,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:27:42.751359 
+
+ malfato0,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:27:59.567648 
+
+ malfato0,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.498161 
+
+ malfato0,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.345512 
+
+ malfato0,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.970777 
+
+ malfato0,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.522425 
+
+ malfato0,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.200195 
+
+ malfato0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:49.862115 
+
+ malfato0,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.879590 
+
+ malfato0,     Costa Rica,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.640755 
+
+ malfato0,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.686519 
+
+ malfato0,     Sri Lanka,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.889798 
+
+ malfato0,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.118986 
+
+ malfato0,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:32:12.194968 
+
+ malfato0,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.190577 
+
+ malfato0,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.328350 
+
+ malfato0,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:33:13.664501 
+
+ malfato0,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.694980 
+
+ malfato0,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.846479 
+
+ malfato0,     France,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.466576 
+
+ malfato0,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:34:30.541077 
+
+ malfato0,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:34:46.282722 
+
+ malfato0,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.670716 
+
+ malfato0,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:37:03.941629 
+
+ malfato0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.278698 
+
+ malfato0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:46.160470 
+
+ malfato0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:37:58.437967 
+
+ malfato0,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:38:21.732066 
+
+ malfato0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.143068 
+
+ malfato0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.502813 
+
+ malfato0,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.432907 
+
+ malfato0,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:40:26.518208 
+
+ malfato0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.739097 
+
+ malfato0,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.758611 
+
+ malfato0,     india,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.071134 
+
+ malfato0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.488431 
+
+ malfato0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:42:29.203653 
+
+ malfato0,     NL,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.613384 
+
+ malfato0,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.355272 
+
+ malfato0,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.096469 
+
+ malfato0,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.283326 
+
+ malfato0,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.811356 
+
+ malfato0,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.629708 
+
+ malfato0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:29.870457 
+
+ malfato0,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:46:45.801103 
+
+ malfato0,     Cz,        <Channel name: shadowkekw>,       2024-11-07 10:47:43.158619 
+
+ malfato0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.093479 
+
+ malfato0,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.614929 
+
+ malfato0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.905106 
+
+ malfato0,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:07.955928 
+
+ malfato0,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:31.492034 
+
+ malfato0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.789748 
+
+ malfato0,     wwMexico,        <Channel name: shadowkekw>,       2024-11-07 10:52:06.432450 
+
+ malfato0,     US,        <Channel name: shadowkekw>,       2024-11-07 10:52:38.145992 
+
+ malfato0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:25.728408 
+
+ malfato0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:54:40.132905 
+
+ malfato0,     EE,        <Channel name: shadowkekw>,       2024-11-07 10:56:03.965618 
+
+ malfato0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.461382 
+
+ malfato0,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:03:50.116633 
+
+ malfato0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:07:44.382530 
+
+ malfato0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:08:19.168462 
+
+ malfato0,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.392037 
+
+ malfato0,     South africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:30.019045 
+
+ malfato0,     Swaziland,        <Channel name: shadowkekw>,       2024-11-07 11:09:35.472869 
+
+ malfato0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:10:23.337483 
+
+ malfato0,     France,        <Channel name: shadowkekw>,       2024-11-07 11:11:30.449097 
+
+ malfato0,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:12:38.121484 
+
+ malfato0,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:12:48.359790 
+
+ malfato0,     brasil,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.203953 
+
+ malfato0,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:12:58.521565 
+
+ malfato0,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:13:33.985936 
+
+ malfato0,     china,        <Channel name: shadowkekw>,       2024-11-07 11:13:58.938497 
+
+ malfato0,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:14:22.846833 
+
+ malfato0,     @shadowkekw 3DapoBa MakcoH,        <Channel name: kaicenat>,       2024-11-07 11:42:04.033094 

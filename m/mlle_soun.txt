@@ -22,3 +22,31 @@
  mlle_soun,     BUBBLES GUYS,        <Channel name: kaicenat>,       2024-11-07 09:41:22.657291 
 
  mlle_soun,     GO FOR BUBBLES,        <Channel name: kaicenat>,       2024-11-07 09:41:30.002529 
+
+ mlle_soun,     GO FOR BUBBLES !,        <Channel name: kaicenat>,       2024-11-07 09:52:29.906157 
+
+ mlle_soun,     BUBBLES GUYS,        <Channel name: kaicenat>,       2024-11-07 09:52:32.108794 
+
+ mlle_soun,     GO FOR BUBBLES !,        <Channel name: kaicenat>,       2024-11-07 09:52:33.863020 
+
+ mlle_soun,     BUBBLES GUYS,        <Channel name: kaicenat>,       2024-11-07 09:52:35.147797 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 10:36:28.296311 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UUP,        <Channel name: kaicenat>,       2024-11-07 10:36:33.241915 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 10:36:41.918835 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UUP,        <Channel name: kaicenat>,       2024-11-07 10:36:47.663031 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 10:36:50.921839 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UUP,        <Channel name: kaicenat>,       2024-11-07 10:36:59.522550 
+
+ mlle_soun,     HIT BUBBLES TO WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 10:37:12.850310 
+
+ mlle_soun,     WE NEED BUBBLES,        <Channel name: kaicenat>,       2024-11-07 11:09:20.981181 
+
+ mlle_soun,     25 GITS FOR BUBBLES THEY WAKES HIM UP !,        <Channel name: kaicenat>,       2024-11-07 11:10:20.954548 
+
+ mlle_soun,     YOU KNOWS BUBBLES IS BETTER TO WAKE THERE UP GUYYYS USE YOUR BRAIIIN,        <Channel name: kaicenat>,       2024-11-07 11:15:51.135382 

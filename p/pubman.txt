@@ -1,0 +1,6 @@
+
+ pubman,     we need earthquake,        <Channel name: kaicenat>,       2024-11-07 11:44:56.603065 
+
+ pubman,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:47:03.194092 
+
+ pubman,     kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 11:47:19.737520 

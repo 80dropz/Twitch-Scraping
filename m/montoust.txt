@@ -1,2 +1,30 @@
 
  montoust,     )),        <Channel name: shadowkekw>,       2024-11-07 09:19:26.260082 
+
+ montoust,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:28.671771 
+
+ montoust,     Xd,        <Channel name: shadowkekw>,       2024-11-07 10:13:17.221185 
+
+ montoust,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:14:15.833645 
+
+ montoust,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:40.208875 
+
+ montoust,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:48.056381 
+
+ montoust,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.343891 
+
+ montoust,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:16:44.804264 
+
+ montoust,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:18:08.855099 
+
+ montoust,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:18:58.806297 
+
+ montoust,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.040968 
+
+ montoust,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.310131 
+
+ montoust,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.941165 
+
+ montoust,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.430289 
+
+ montoust,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:23:57.697680 

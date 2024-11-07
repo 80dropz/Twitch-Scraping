@@ -4,3 +4,5 @@
  matt0_fn,     ...,        <Channel name: clix>,       2024-11-07 09:04:05.481359 
 
  matt0_fn,     Noted,        <Channel name: clix>,       2024-11-07 09:04:46.955302 
+
+ matt0_fn,     Wake up it's 11 am,        <Channel name: clix>,       2024-11-07 12:23:57.210619 

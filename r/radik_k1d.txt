@@ -1,0 +1,22 @@
+
+ radik_k1d,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:33.658590 
+
+ radik_k1d,     China,        <Channel name: shadowkekw>,       2024-11-07 10:54:04.857250 
+
+ radik_k1d,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:54:28.837736 
+
+ radik_k1d,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.139731 
+
+ radik_k1d,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:56:08.182122 
+
+ radik_k1d,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.789715 
+
+ radik_k1d,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 11:05:57.520660 
+
+ radik_k1d,     Kolumbif,        <Channel name: shadowkekw>,       2024-11-07 11:09:25.594912 
+
+ radik_k1d,     Kolumbia,        <Channel name: shadowkekw>,       2024-11-07 11:09:49.069621 
+
+ radik_k1d,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 11:12:42.873748 
+
+ radik_k1d,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:15:25.151686 

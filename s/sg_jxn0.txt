@@ -1,0 +1,4 @@
+
+ sg_jxn0,     hello guys,        <Channel name: mongraal>,       2024-11-07 12:04:57.924697 
+
+ sg_jxn0,     !trio,        <Channel name: mongraal>,       2024-11-07 12:11:48.406237 

@@ -1,0 +1,114 @@
+
+ spaceeou,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.064690 
+
+ spaceeou,     tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:16:19.849266 
+
+ spaceeou,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:32.163309 
+
+ spaceeou,     kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:41.602364 
+
+ spaceeou,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.000737 
+
+ spaceeou,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.949462 
+
+ spaceeou,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:19:48.566192 
+
+ spaceeou,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:20:27.408871 
+
+ spaceeou,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:20:35.259801 
+
+ spaceeou,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:20:48.571623 
+
+ spaceeou,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:21:29.114458 
+
+ spaceeou,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:21:55.734057 
+
+ spaceeou,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:59.739392 
+
+ spaceeou,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.405618 
+
+ spaceeou,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:57.800191 
+
+ spaceeou,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:24:18.779797 
+
+ spaceeou,     switzeland,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.155474 
+
+ spaceeou,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.340955 
+
+ spaceeou,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:27.632892 
+
+ spaceeou,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:30:20.453638 
+
+ spaceeou,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.002563 
+
+ spaceeou,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.757274 
+
+ spaceeou,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.900138 
+
+ spaceeou,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.498480 
+
+ spaceeou,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.129685 
+
+ spaceeou,     hp,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.315285 
+
+ spaceeou,     thai,        <Channel name: shadowkekw>,       2024-11-07 10:38:21.884244 
+
+ spaceeou,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.546017 
+
+ spaceeou,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:39:52.379257 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:40:15.150996 
+
+ spaceeou,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:40:25.492580 
+
+ spaceeou,     th,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.547859 
+
+ spaceeou,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:45.037177 
+
+ spaceeou,     hp,        <Channel name: shadowkekw>,       2024-11-07 10:41:00.982398 
+
+ spaceeou,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.015054 
+
+ spaceeou,     in,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.243608 
+
+ spaceeou,     is,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.731014 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.989276 
+
+ spaceeou,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:45:33.494440 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.270883 
+
+ spaceeou,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:31.911952 
+
+ spaceeou,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.153529 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:48:05.291142 
+
+ spaceeou,     th,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.942640 
+
+ spaceeou,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.649378 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:49:09.695531 
+
+ spaceeou,     cy,        <Channel name: shadowkekw>,       2024-11-07 10:49:26.928943 
+
+ spaceeou,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.245004 
+
+ spaceeou,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:31.279319 
+
+ spaceeou,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.587219 
+
+ spaceeou,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.956202 
+
+ spaceeou,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:52:36.232806 
+
+ spaceeou,     in,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.841675 
+
+ spaceeou,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:53:26.342301 
+
+ spaceeou,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.888292 
+
+ spaceeou,     jus,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.643158 
+
+ spaceeou,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.635366 

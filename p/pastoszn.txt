@@ -1,0 +1,4 @@
+
+ pastoszn,     he had a bug,        <Channel name: mongraal>,       2024-11-07 13:09:52.939729 
+
+ pastoszn,     they had running bug,        <Channel name: mongraal>,       2024-11-07 13:10:10.416875 

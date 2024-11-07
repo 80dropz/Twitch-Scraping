@@ -14,3 +14,99 @@
  jessiewynner,     !commands,        <Channel name: kaicenat>,       2024-11-07 09:36:53.641487 
 
  jessiewynner,     !dickride,        <Channel name: kaicenat>,       2024-11-07 09:39:51.528802 
+
+ jessiewynner,     !uptime,        <Channel name: kaicenat>,       2024-11-07 09:59:06.328531 
+
+ jessiewynner,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:59:22.610973 
+
+ jessiewynner,     !commands,        <Channel name: kaicenat>,       2024-11-07 09:59:36.635717 
+
+ jessiewynner,     !fight,        <Channel name: kaicenat>,       2024-11-07 10:00:26.952835 
+
+ jessiewynner,     !gambaaddict,        <Channel name: kaicenat>,       2024-11-07 10:00:42.837263 
+
+ jessiewynner,     !gamble 18,        <Channel name: kaicenat>,       2024-11-07 10:01:02.222149 
+
+ jessiewynner,     !roulette 18,        <Channel name: kaicenat>,       2024-11-07 10:02:36.695375 
+
+ jessiewynner,     !roulette 42,        <Channel name: kaicenat>,       2024-11-07 10:02:48.103096 
+
+ jessiewynner,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 10:02:59.997577 
+
+ jessiewynner,     !roulette 160,        <Channel name: kaicenat>,       2024-11-07 10:03:07.234071 
+
+ jessiewynner,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:03:45.510233 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:03:52.231108 
+
+ jessiewynner,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:04:00.344844 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:04:08.236954 
+
+ jessiewynner,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:04:17.233743 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:04:31.351516 
+
+ jessiewynner,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:04:43.133167 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:04:51.378993 
+
+ jessiewynner,     !earn points,        <Channel name: kaicenat>,       2024-11-07 10:04:58.602428 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:06:14.797308 
+
+ jessiewynner,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 10:06:55.349801 
+
+ jessiewynner,     !time,        <Channel name: kaicenat>,       2024-11-07 10:10:36.410055 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:13:35.139080 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:13:45.684397 
+
+ jessiewynner,     …,        <Channel name: kaicenat>,       2024-11-07 10:14:10.057541 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:14:16.055756 
+
+ jessiewynner,     free miles!,        <Channel name: kaicenat>,       2024-11-07 10:14:37.136574 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:14:42.968954 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:21:33.333457 
+
+ jessiewynner,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:21:38.867149 
+
+ jessiewynner,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:21:52.732433 
+
+ jessiewynner,     !roulette 7,        <Channel name: kaicenat>,       2024-11-07 10:21:58.713105 
+
+ jessiewynner,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:22:07.240201 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:22:16.498854 
+
+ jessiewynner,     !poinrs,        <Channel name: kaicenat>,       2024-11-07 10:22:27.423953 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 10:22:33.889949 
+
+ jessiewynner,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:22:40.780597 
+
+ jessiewynner,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:29:43.553559 
+
+ jessiewynner,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:30:32.784684 
+
+ jessiewynner,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:30:40.664625 
+
+ jessiewynner,     !uptime,        <Channel name: kaicenat>,       2024-11-07 10:31:10.571071 
+
+ jessiewynner,     !time,        <Channel name: kaicenat>,       2024-11-07 11:18:34.247313 
+
+ jessiewynner,     !points,        <Channel name: kaicenat>,       2024-11-07 11:18:54.353466 
+
+ jessiewynner,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 11:19:02.683116 
+
+ jessiewynner,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 11:19:12.893963 
+
+ jessiewynner,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 11:19:22.305013 
+
+ jessiewynner,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 11:31:51.883659 
+
+ jessiewynner,     !time,        <Channel name: kaicenat>,       2024-11-07 11:53:06.195239 

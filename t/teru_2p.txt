@@ -10,3 +10,7 @@
  teru_2p,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:14.837263 
 
  teru_2p,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:20.837447 
+
+ teru_2p,     stuck on champs? tips for unreal? i heard elims give no percent,        <Channel name: clix>,       2024-11-07 13:20:21.973281 
+
+ teru_2p,     r u in a game,        <Channel name: clix>,       2024-11-07 13:26:20.095587 

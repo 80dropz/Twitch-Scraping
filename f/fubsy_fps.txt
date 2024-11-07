@@ -1,0 +1,16 @@
+
+ fubsy_fps,     W,        <Channel name: nadeshot>,       2024-11-07 11:12:53.768264 
+
+ fubsy_fps,     T2G,        <Channel name: nadeshot>,       2024-11-07 11:31:48.278635 
+
+ fubsy_fps,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 11:34:02.536173 
+
+ fubsy_fps,     nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 11:38:03.245507 
+
+ fubsy_fps,     !SUB,        <Channel name: nadeshot>,       2024-11-07 11:38:46.373997 
+
+ fubsy_fps,     PUASE,        <Channel name: nadeshot>,       2024-11-07 11:39:22.908856 
+
+ fubsy_fps,     PAUSE,        <Channel name: nadeshot>,       2024-11-07 11:39:33.093836 
+
+ fubsy_fps,     ECHO,        <Channel name: nadeshot>,       2024-11-07 11:56:32.558777 

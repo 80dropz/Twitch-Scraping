@@ -1,0 +1,12 @@
+
+ zeroralentir,     bug npc,        <Channel name: kaicenat>,       2024-11-07 09:58:17.236272 
+
+ zeroralentir,     bug,        <Channel name: kaicenat>,       2024-11-07 09:58:20.567002 
+
+ zeroralentir,     npc bugging,        <Channel name: kaicenat>,       2024-11-07 09:58:29.386962 
+
+ zeroralentir,     what ?,        <Channel name: kaicenat>,       2024-11-07 09:58:36.620245 
+
+ zeroralentir,     Miles ?,        <Channel name: kaicenat>,       2024-11-07 09:58:40.208526 
+
+ zeroralentir,     sleeping at 11 is CRAZY,        <Channel name: kaicenat>,       2024-11-07 10:57:18.754796 

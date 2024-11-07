@@ -1,0 +1,178 @@
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.381129 
+
+ hashish29,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:16:58.382649 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:16.128584 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.173643 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:18:25.585028 
+
+ hashish29,     Argentina/,        <Channel name: shadowkekw>,       2024-11-07 10:18:35.047101 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:18:39.725400 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.609709 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:20:46.410059 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.532238 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.867814 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:22:56.262515 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.755057 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.142437 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:24:12.808332 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.941078 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:25:01.737113 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.726106 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.358781 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:26:07.636905 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.911808 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.653795 
+
+ hashish29,     Argentina\,        <Channel name: shadowkekw>,       2024-11-07 10:27:30.589925 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.870066 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.346954 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.521413 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.071482 
+
+ hashish29,     laos\,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.736317 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:28:49.037012 
+
+ hashish29,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.938656 
+
+ hashish29,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:05.729075 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:29:09.105471 
+
+ hashish29,     Argentina',        <Channel name: shadowkekw>,       2024-11-07 10:30:05.742812 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.860271 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.371872 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.251424 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.594591 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:31:46.767198 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.035609 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.576258 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:31:56.131722 
+
+ hashish29,     Argentina/,        <Channel name: shadowkekw>,       2024-11-07 10:32:45.573280 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.521569 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:33:01.838591 
+
+ hashish29,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.222314 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.802560 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.468893 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:34:12.772733 
+
+ hashish29,     Argentina/,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.044192 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.279377 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:35:14.591830 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.227454 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:35:38.874454 
+
+ hashish29,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:51.276460 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.347122 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.169920 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:37:16.416356 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.637162 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:37:42.227412 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.562446 
+
+ hashish29,     ;aos,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.083106 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.861938 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:39:11.024260 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.246142 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.896799 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.501441 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.135201 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.054174 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:41:51.492068 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:42:14.041626 
+
+ hashish29,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.224929 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.830331 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:43:31.865237 
+
+ hashish29,     salvador,        <Channel name: shadowkekw>,       2024-11-07 10:46:04.278089 
+
+ hashish29,     lao,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.133916 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.906771 
+
+ hashish29,     lao,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.734785 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:48:46.529117 
+
+ hashish29,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.751668 
+
+ hashish29,     Argentina/,        <Channel name: shadowkekw>,       2024-11-07 10:50:46.815890 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:51:38.266234 
+
+ hashish29,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.987870 
+
+ hashish29,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:40.910061 
+
+ hashish29,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:53:02.579331 
+
+ hashish29,     El Salvador,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.295014 
+
+ hashish29,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:37.019446 
+
+ hashish29,     and,        <Channel name: shadowkekw>,       2024-11-07 11:50:09.950336 
+
+ hashish29,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:14.032381 
+
+ hashish29,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:53.935266 

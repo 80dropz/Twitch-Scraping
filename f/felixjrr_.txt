@@ -1,0 +1,6 @@
+
+ felixjrr_,     !eor,        <Channel name: mongraal>,       2024-11-07 12:03:42.832974 
+
+ felixjrr_,     !PC,        <Channel name: mongraal>,       2024-11-07 12:44:32.049532 
+
+ felixjrr_,     !build,        <Channel name: mongraal>,       2024-11-07 12:44:44.273309 

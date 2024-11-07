@@ -8,3 +8,5 @@
  netxv_,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:41:39.771130 
 
  netxv_,     FREE MILE,        <Channel name: kaicenat>,       2024-11-07 09:43:01.392829 
+
+ netxv_,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:52:11.188871 

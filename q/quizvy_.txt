@@ -1,0 +1,8 @@
+
+ quizvy_,     FFFF,        <Channel name: lacy>,       2024-11-07 13:26:05.159990 
+
+ quizvy_,     FFFFFFFFFF,        <Channel name: lacy>,       2024-11-07 13:26:11.550553 
+
+ quizvy_,     FFFFFF,        <Channel name: lacy>,       2024-11-07 13:26:17.835252 
+
+ quizvy_,     FFFFFFFFFFFFF,        <Channel name: lacy>,       2024-11-07 13:26:21.504209 

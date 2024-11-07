@@ -1,0 +1,36 @@
+
+ leviqqe,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:46:34.483319 
+
+ leviqqe,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:47:12.619255 
+
+ leviqqe,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:30.219623 
+
+ leviqqe,     azerbaijan,        <Channel name: shadowkekw>,       2024-11-07 10:49:39.745017 
+
+ leviqqe,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:07.036453 
+
+ leviqqe,     venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:51:20.397720 
+
+ leviqqe,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:07.905923 
+
+ leviqqe,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.500243 
+
+ leviqqe,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:53:13.140406 
+
+ leviqqe,     angola,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.326469 
+
+ leviqqe,     togo,        <Channel name: shadowkekw>,       2024-11-07 10:54:30.937716 
+
+ leviqqe,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.262673 
+
+ leviqqe,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:55:40.592357 
+
+ leviqqe,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:52.447380 
+
+ leviqqe,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:57:53.859062 
+
+ leviqqe,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:59:20.070977 
+
+ leviqqe,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.027999 
+
+ leviqqe,     Azerbaijan,        <Channel name: shadowkekw>,       2024-11-07 11:15:13.137439 

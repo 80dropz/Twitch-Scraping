@@ -50,3 +50,13 @@
  fwtx_guero,     kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 02:47:46.073697 
 
  fwtx_guero,     kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 02:47:51.007718 
+
+ fwtx_guero,     WERE IS THE EARTH QUAKE BRU,        <Channel name: kaicenat>,       2024-11-07 12:50:44.744019 
+
+ fwtx_guero,     AINT NO FUCKING EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:51:14.523380 
+
+ fwtx_guero,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 13:01:13.316792 
+
+ fwtx_guero,     BRO,        <Channel name: kaicenat>,       2024-11-07 13:02:24.769178 
+
+ fwtx_guero,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:02:33.038063 

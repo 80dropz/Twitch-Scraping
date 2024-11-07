@@ -1,0 +1,4 @@
+
+ puku_fn,     !Join,        <Channel name: kaicenat>,       2024-11-07 09:52:04.768254 
+
+ puku_fn,     !Join,        <Channel name: kaicenat>,       2024-11-07 09:52:36.049633 

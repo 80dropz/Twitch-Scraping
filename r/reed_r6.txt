@@ -1,0 +1,8 @@
+
+ reed_r6,     yes,        <Channel name: lacy>,       2024-11-07 12:46:04.038483 
+
+ reed_r6,     ew,        <Channel name: lacy>,       2024-11-07 12:52:04.655392 
+
+ reed_r6,     El oh el,        <Channel name: lacy>,       2024-11-07 12:52:56.786991 
+
+ reed_r6,     bye,        <Channel name: lacy>,       2024-11-07 12:53:36.029605 

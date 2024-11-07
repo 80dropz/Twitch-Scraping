@@ -2,3 +2,5 @@
  dmvii,     !points,        <Channel name: kaicenat>,       2024-11-07 09:04:42.926403 
 
  dmvii,     !roulette 600,        <Channel name: kaicenat>,       2024-11-07 09:04:55.848884 
+
+ dmvii,     kaicStare kaicStare kaicStare,        <Channel name: kaicenat>,       2024-11-07 10:44:52.398631 

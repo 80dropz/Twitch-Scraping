@@ -1,0 +1,4 @@
+
+ voice_tw,     lamequake,        <Channel name: kaicenat>,       2024-11-07 13:03:20.116789 
+
+ voice_tw,     OMG,        <Channel name: kaicenat>,       2024-11-07 13:03:46.495071 

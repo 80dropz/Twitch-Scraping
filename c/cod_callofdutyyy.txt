@@ -1,0 +1,8 @@
+
+ cod_callofdutyyy,     !trio,        <Channel name: mongraal>,       2024-11-07 11:51:08.657431 
+
+ cod_callofdutyyy,     When is finals??,        <Channel name: mongraal>,       2024-11-07 12:25:46.922298 
+
+ cod_callofdutyyy,     !delay,        <Channel name: mongraal>,       2024-11-07 12:27:22.676359 
+
+ cod_callofdutyyy,     Maveyyy,        <Channel name: mongraal>,       2024-11-07 13:10:04.771137 

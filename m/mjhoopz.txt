@@ -4,3 +4,7 @@
  mjhoopz,     !paddles,        <Channel name: ricci>,       2024-11-07 01:50:13.998812 
 
  mjhoopz,     nt <3,        <Channel name: ricci>,       2024-11-07 02:01:33.523207 
+
+ mjhoopz,     when does bo6 battle pass comes out,        <Channel name: ricci>,       2024-11-07 12:20:55.240001 
+
+ mjhoopz,     !followage,        <Channel name: ricci>,       2024-11-07 13:22:58.492878 

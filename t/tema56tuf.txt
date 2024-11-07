@@ -1,0 +1,24 @@
+
+ tema56tuf,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:44.336565 
+
+ tema56tuf,     he,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.712887 
+
+ tema56tuf,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.709240 
+
+ tema56tuf,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:42:11.830809 
+
+ tema56tuf,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.585537 
+
+ tema56tuf,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:47:14.062167 
+
+ tema56tuf,     pi,        <Channel name: shadowkekw>,       2024-11-07 10:51:22.734121 
+
+ tema56tuf,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:51:49.682568 
+
+ tema56tuf,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:03.819943 
+
+ tema56tuf,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:52:25.308450 
+
+ tema56tuf,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:52:36.857411 
+
+ tema56tuf,     900,        <Channel name: shadowkekw>,       2024-11-07 11:41:46.215426 

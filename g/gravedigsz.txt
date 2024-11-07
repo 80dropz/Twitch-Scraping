@@ -1,0 +1,12 @@
+
+ gravedigsz,     turn aeound,        <Channel name: kaicenat>,       2024-11-07 13:10:56.887948 
+
+ gravedigsz,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 13:12:17.877254 
+
+ gravedigsz,     !followage,        <Channel name: kaicenat>,       2024-11-07 13:13:18.992410 
+
+ gravedigsz,     mods poll,        <Channel name: kaicenat>,       2024-11-07 13:16:55.088217 
+
+ gravedigsz,     you got the money rakai,        <Channel name: kaicenat>,       2024-11-07 13:19:47.606997 
+
+ gravedigsz,     you rich lil bro,        <Channel name: kaicenat>,       2024-11-07 13:20:18.380686 

@@ -1,0 +1,2 @@
+
+ slip56k,     !settings,        <Channel name: swagg>,       2024-11-07 11:16:05.877776 

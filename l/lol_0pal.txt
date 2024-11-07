@@ -1,0 +1,10 @@
+
+ lol_0pal,     sub?,        <Channel name: kaicenat>,       2024-11-07 11:44:06.203708 
+
+ lol_0pal,     sub',        <Channel name: kaicenat>,       2024-11-07 11:44:35.255239 
+
+ lol_0pal,     i want sub,        <Channel name: kaicenat>,       2024-11-07 11:46:44.333106 
+
+ lol_0pal,     i want sub,        <Channel name: kaicenat>,       2024-11-07 11:49:18.895304 
+
+ lol_0pal,     i want sub,        <Channel name: kaicenat>,       2024-11-07 11:57:56.216362 

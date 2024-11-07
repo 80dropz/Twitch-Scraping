@@ -30,3 +30,9 @@
  nottvw,     you can’t count,        <Channel name: kaicenat>,       2024-11-07 02:05:47.945422 
 
  nottvw,     it was 69,        <Channel name: kaicenat>,       2024-11-07 02:06:00.097294 
+
+ nottvw,     l,        <Channel name: kaicenat>,       2024-11-07 12:57:34.853734 
+
+ nottvw,     L,        <Channel name: kaicenat>,       2024-11-07 12:57:50.594191 
+
+ nottvw,     GIFT100,        <Channel name: kaicenat>,       2024-11-07 12:58:42.619617 

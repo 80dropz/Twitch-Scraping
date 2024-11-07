@@ -1,0 +1,28 @@
+
+ ekelone192,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:01.855017 
+
+ ekelone192,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:12:16.978403 
+
+ ekelone192,     Italia,        <Channel name: shadowkekw>,       2024-11-07 10:15:21.392051 
+
+ ekelone192,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.495483 
+
+ ekelone192,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.859642 
+
+ ekelone192,     Ger,amy,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.376227 
+
+ ekelone192,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.052359 
+
+ ekelone192,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.386305 
+
+ ekelone192,     Itali,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.026578 
+
+ ekelone192,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:44.218566 
+
+ ekelone192,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.005158 
+
+ ekelone192,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:33.122423 
+
+ ekelone192,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:21.067387 
+
+ ekelone192,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.191505 

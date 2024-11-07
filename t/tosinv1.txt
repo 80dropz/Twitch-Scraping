@@ -1,0 +1,4 @@
+
+ tosinv1,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:11.014301 
+
+ tosinv1,     SCA;,        <Channel name: kaicenat>,       2024-11-07 13:03:12.719001 

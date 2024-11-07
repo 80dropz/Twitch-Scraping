@@ -1,0 +1,14 @@
+
+ ginaa_11__,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:44:49.265624 
+
+ ginaa_11__,     !roulette 6,        <Channel name: kaicenat>,       2024-11-07 10:45:53.342557 
+
+ ginaa_11__,     !roulette 255,        <Channel name: kaicenat>,       2024-11-07 10:47:10.934166 
+
+ ginaa_11__,     !roulette 819,        <Channel name: kaicenat>,       2024-11-07 10:47:46.291368 
+
+ ginaa_11__,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:19:06.565891 
+
+ ginaa_11__,     !time,        <Channel name: kaicenat>,       2024-11-07 11:21:24.743145 
+
+ ginaa_11__,     !followage,        <Channel name: kaicenat>,       2024-11-07 11:42:55.814247 

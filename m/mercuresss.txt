@@ -1,0 +1,54 @@
+
+ mercuresss,     India,        <Channel name: shadowkekw>,       2024-11-07 10:30:23.873792 
+
+ mercuresss,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:12.078526 
+
+ mercuresss,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.660920 
+
+ mercuresss,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.112573 
+
+ mercuresss,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.184243 
+
+ mercuresss,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.008491 
+
+ mercuresss,     JAPAn,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.524108 
+
+ mercuresss,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.628965 
+
+ mercuresss,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:13.290704 
+
+ mercuresss,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.628955 
+
+ mercuresss,     Neatherlands,        <Channel name: shadowkekw>,       2024-11-07 10:35:45.390148 
+
+ mercuresss,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.005280 
+
+ mercuresss,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.939801 
+
+ mercuresss,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:42:50.625829 
+
+ mercuresss,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:43:37.389226 
+
+ mercuresss,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.119522 
+
+ mercuresss,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.681458 
+
+ mercuresss,     Argentina\,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.582046 
+
+ mercuresss,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.063950 
+
+ mercuresss,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.054841 
+
+ mercuresss,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:51:42.569727 
+
+ mercuresss,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.574889 
+
+ mercuresss,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.324493 
+
+ mercuresss,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:56:02.266040 
+
+ mercuresss,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:30.670351 
+
+ mercuresss,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:57:10.949772 
+
+ mercuresss,     New zealands,        <Channel name: shadowkekw>,       2024-11-07 10:57:52.733734 

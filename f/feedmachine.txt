@@ -1,0 +1,10 @@
+
+ feedmachine,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:50:03.824356 
+
+ feedmachine,     CYPRUS,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.591769 
+
+ feedmachine,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.562415 
+
+ feedmachine,     philippines,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.183354 
+
+ feedmachine,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:35.660050 

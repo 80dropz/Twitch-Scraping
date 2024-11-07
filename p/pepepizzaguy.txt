@@ -1,2 +1,4 @@
 
  pepepizzaguy,     EarthQUAKE,        <Channel name: kaicenat>,       2024-11-07 09:06:37.690448 
+
+ pepepizzaguy,     earthquake,        <Channel name: kaicenat>,       2024-11-07 12:55:29.768042 

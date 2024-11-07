@@ -1,2 +1,164 @@
 
  raptar21,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:28:51.520266 
+
+ raptar21,     o,        <Channel name: shadowkekw>,       2024-11-07 10:05:51.026119 
+
+ raptar21,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:07:25.571150 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:44.516660 
+
+ raptar21,     Austalia,        <Channel name: shadowkekw>,       2024-11-07 10:10:13.971356 
+
+ raptar21,     Malazia,        <Channel name: shadowkekw>,       2024-11-07 10:11:03.117087 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.458063 
+
+ raptar21,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.027891 
+
+ raptar21,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:13:26.931714 
+
+ raptar21,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:14:20.632569 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.910457 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:35.020021 
+
+ raptar21,     Czech,        <Channel name: shadowkekw>,       2024-11-07 10:18:14.514357 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:18:57.520279 
+
+ raptar21,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.562318 
+
+ raptar21,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:21:28.809929 
+
+ raptar21,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:21:34.902331 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:22:34.921542 
+
+ raptar21,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:23:38.582748 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.692555 
+
+ raptar21,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:26:23.314386 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.622474 
+
+ raptar21,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.239985 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:27:43.427787 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.220925 
+
+ raptar21,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.888841 
+
+ raptar21,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.765530 
+
+ raptar21,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.988380 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.526214 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.111591 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.156655 
+
+ raptar21,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.482147 
+
+ raptar21,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.606627 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.511246 
+
+ raptar21,     ok,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.744299 
+
+ raptar21,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.035000 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.377139 
+
+ raptar21,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.715085 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.359932 
+
+ raptar21,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.568676 
+
+ raptar21,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.513937 
+
+ raptar21,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.684639 
+
+ raptar21,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:43:34.173851 
+
+ raptar21,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:45:17.156702 
+
+ raptar21,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.343172 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:45:51.416784 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:46:27.721833 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:46:49.054818 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.126923 
+
+ raptar21,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:50:06.197988 
+
+ raptar21,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.065256 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.226420 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:52:41.025209 
+
+ raptar21,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.996852 
+
+ raptar21,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.198843 
+
+ raptar21,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.874937 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:50.630711 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:57:46.695234 
+
+ raptar21,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.772256 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:59:52.933150 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 11:02:05.591385 
+
+ raptar21,     India,        <Channel name: shadowkekw>,       2024-11-07 11:03:10.741732 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:04:20.280349 
+
+ raptar21,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 11:04:55.813567 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.559590 
+
+ raptar21,     Dominicana,        <Channel name: shadowkekw>,       2024-11-07 11:05:13.199921 
+
+ raptar21,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:05:56.407876 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.975086 
+
+ raptar21,     322,        <Channel name: shadowkekw>,       2024-11-07 11:06:52.172013 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:04.766619 
+
+ raptar21,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:24.878394 
+
+ raptar21,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.599497 
+
+ raptar21,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:49.176170 
+
+ raptar21,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.854152 
+
+ raptar21,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.780947 
+
+ raptar21,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:12:24.010463 
+
+ raptar21,     Reunion,        <Channel name: shadowkekw>,       2024-11-07 11:12:43.309636 
+
+ raptar21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.756960 
+
+ raptar21,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:13:00.790854 
+
+ raptar21,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:13:29.816764 
+
+ raptar21,     brp,        <Channel name: shadowkekw>,       2024-11-07 11:55:29.287650 
+
+ raptar21,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:26.229835 

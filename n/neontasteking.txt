@@ -6,3 +6,7 @@
  neontasteking,     Drummer,        <Channel name: kaicenat>,       2024-11-07 09:37:41.730802 
 
  neontasteking,     Drumer,        <Channel name: kaicenat>,       2024-11-07 09:37:44.213524 
+
+ neontasteking,     WHERE DRUMMER,        <Channel name: kaicenat>,       2024-11-07 11:43:44.073364 
+
+ neontasteking,     WHERE DRUMMER,        <Channel name: kaicenat>,       2024-11-07 13:35:17.855872 

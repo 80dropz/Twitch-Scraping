@@ -14,3 +14,39 @@
  wtylur,     SLOWDOWN,        <Channel name: jasontheween>,       2024-11-07 02:05:10.634920 
 
  wtylur,     slowdown,        <Channel name: jasontheween>,       2024-11-07 02:05:15.122996 
+
+ wtylur,     230,        <Channel name: kaicenat>,       2024-11-07 11:15:23.100777 
+
+ wtylur,     chat we need 230000,        <Channel name: kaicenat>,       2024-11-07 11:15:30.895778 
+
+ wtylur,     lol,        <Channel name: kaicenat>,       2024-11-07 11:15:57.664948 
+
+ wtylur,     #freemiles,        <Channel name: kaicenat>,       2024-11-07 11:21:35.792894 
+
+ wtylur,     charge up your aura,        <Channel name: kaicenat>,       2024-11-07 11:21:59.452208 
+
+ wtylur,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 11:23:55.271763 
+
+ wtylur,     LMFAO THOSE,        <Channel name: kaicenat>,       2024-11-07 11:24:00.153899 
+
+ wtylur,     LMFAOOOO,        <Channel name: kaicenat>,       2024-11-07 11:24:04.239227 
+
+ wtylur,     MILES YOU HIM BRO,        <Channel name: kaicenat>,       2024-11-07 11:24:08.249225 
+
+ wtylur,     EW,        <Channel name: kaicenat>,       2024-11-07 11:46:52.209428 
+
+ wtylur,     BRO YOU SO NASTY,        <Channel name: kaicenat>,       2024-11-07 11:46:55.988938 
+
+ wtylur,     KAI YOU NASTY,        <Channel name: kaicenat>,       2024-11-07 11:47:00.438506 
+
+ wtylur,     mmmmmmmm,        <Channel name: lacy>,       2024-11-07 13:04:49.740201 
+
+ wtylur,     AURA rizz,        <Channel name: lacy>,       2024-11-07 13:05:53.417508 
+
+ wtylur,     DREW A MOVIE,        <Channel name: lacy>,       2024-11-07 13:10:24.807154 
+
+ wtylur,     we're f ing,        <Channel name: lacy>,       2024-11-07 13:11:22.341266 
+
+ wtylur,     WE BACK,        <Channel name: lacy>,       2024-11-07 13:13:21.714691 
+
+ wtylur,     WE BACK BRUH,        <Channel name: lacy>,       2024-11-07 13:13:31.154768 

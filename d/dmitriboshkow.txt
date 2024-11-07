@@ -1,0 +1,240 @@
+
+ dmitriboshkow,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:07:46.993034 
+
+ dmitriboshkow,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:07:56.376255 
+
+ dmitriboshkow,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:08:11.761215 
+
+ dmitriboshkow,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:09:29.421665 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 10:10:38.110298 
+
+ dmitriboshkow,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.983665 
+
+ dmitriboshkow,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.381391 
+
+ dmitriboshkow,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:16:54.368015 
+
+ dmitriboshkow,     Ungary,        <Channel name: shadowkekw>,       2024-11-07 10:17:30.861474 
+
+ dmitriboshkow,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.578036 
+
+ dmitriboshkow,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:17:57.613261 
+
+ dmitriboshkow,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:18:06.015646 
+
+ dmitriboshkow,     JApan,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.655669 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 10:18:46.588856 
+
+ dmitriboshkow,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:19:02.943706 
+
+ dmitriboshkow,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:19:28.270284 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:19:34.145984 
+
+ dmitriboshkow,     Balai,        <Channel name: shadowkekw>,       2024-11-07 10:20:19.928002 
+
+ dmitriboshkow,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.309357 
+
+ dmitriboshkow,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:30.818440 
+
+ dmitriboshkow,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.707444 
+
+ dmitriboshkow,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.913801 
+
+ dmitriboshkow,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.105057 
+
+ dmitriboshkow,     Chezk,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.484701 
+
+ dmitriboshkow,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.293831 
+
+ dmitriboshkow,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:51.451483 
+
+ dmitriboshkow,     F5rance,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.773497 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.850470 
+
+ dmitriboshkow,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:25:41.696167 
+
+ dmitriboshkow,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.830774 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.306341 
+
+ dmitriboshkow,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.643243 
+
+ dmitriboshkow,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.441426 
+
+ dmitriboshkow,     Grece,        <Channel name: shadowkekw>,       2024-11-07 10:28:13.956137 
+
+ dmitriboshkow,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:28:33.045575 
+
+ dmitriboshkow,     Polonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:52.186948 
+
+ dmitriboshkow,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.162995 
+
+ dmitriboshkow,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:29:24.816186 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.546696 
+
+ dmitriboshkow,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.814898 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.455332 
+
+ dmitriboshkow,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.572115 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:30:53.436916 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.249626 
+
+ dmitriboshkow,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:31:46.584000 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.287797 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.366491 
+
+ dmitriboshkow,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.387544 
+
+ dmitriboshkow,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 10:33:16.259778 
+
+ dmitriboshkow,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:34.657415 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.588948 
+
+ dmitriboshkow,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:52.241852 
+
+ dmitriboshkow,     Urugway,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.841422 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.209900 
+
+ dmitriboshkow,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:34:59.134235 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.744026 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.084958 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.438246 
+
+ dmitriboshkow,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:37:05.604615 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.242647 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.967429 
+
+ dmitriboshkow,     Grece,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.213902 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:38:52.061194 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.376378 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.251129 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:39:52.527595 
+
+ dmitriboshkow,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:29.863001 
+
+ dmitriboshkow,     Mexic,        <Channel name: shadowkekw>,       2024-11-07 10:40:35.515397 
+
+ dmitriboshkow,     Urugwai,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.100182 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 10:41:32.810417 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.748182 
+
+ dmitriboshkow,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:42:29.796064 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:42:48.114823 
+
+ dmitriboshkow,     Grece,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.098430 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:21.793637 
+
+ dmitriboshkow,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:49.926154 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.938749 
+
+ dmitriboshkow,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:36.850453 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.409665 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.103365 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.764606 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.173508 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:49.954131 
+
+ dmitriboshkow,     Romany,        <Channel name: shadowkekw>,       2024-11-07 10:50:25.580880 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:51:29.150099 
+
+ dmitriboshkow,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:56.509446 
+
+ dmitriboshkow,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:52:29.156730 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.012482 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.066166 
+
+ dmitriboshkow,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.809830 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 10:55:12.841635 
+
+ dmitriboshkow,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:37.603647 
+
+ dmitriboshkow,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:57:13.365314 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:58:10.470221 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 10:58:46.693051 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.079050 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:00:31.657950 
+
+ dmitriboshkow,     Bali,        <Channel name: shadowkekw>,       2024-11-07 11:01:03.686230 
+
+ dmitriboshkow,     GermanyIceland,        <Channel name: shadowkekw>,       2024-11-07 11:02:35.279763 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:03:36.399863 
+
+ dmitriboshkow,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:04:27.037051 
+
+ dmitriboshkow,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:05:37.359897 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:06:33.367765 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:07:41.620578 
+
+ dmitriboshkow,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:08:03.348069 
+
+ dmitriboshkow,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:08:33.544338 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:07.162946 
+
+ dmitriboshkow,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:09:13.753273 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.560168 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.712117 
+
+ dmitriboshkow,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.660604 
+
+ dmitriboshkow,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:12:02.585853 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.831551 
+
+ dmitriboshkow,     France,        <Channel name: shadowkekw>,       2024-11-07 11:12:56.688494 
+
+ dmitriboshkow,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:13:00.621182 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.529293 
+
+ dmitriboshkow,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:13:26.309885 
+
+ dmitriboshkow,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:13:35.605369 
+
+ dmitriboshkow,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:13:58.418241 
+
+ dmitriboshkow,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:14:02.600846 

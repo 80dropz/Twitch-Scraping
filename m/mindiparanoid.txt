@@ -2,3 +2,85 @@
  mindiparanoid,     0-0,        <Channel name: shadowkekw>,       2024-11-07 09:38:13.521795 
 
  mindiparanoid,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:42:27.676924 
+
+ mindiparanoid,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:08:19.354144 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:13:09.541709 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:14:05.761538 
+
+ mindiparanoid,     0___0,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.215809 
+
+ mindiparanoid,     America,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.896663 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:57.112250 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:19:32.014309 
+
+ mindiparanoid,     0___0,        <Channel name: shadowkekw>,       2024-11-07 10:20:05.074058 
+
+ mindiparanoid,     Germany Germany,        <Channel name: shadowkekw>,       2024-11-07 10:20:50.318306 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.482087 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:21:58.787068 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.153821 
+
+ mindiparanoid,     Germany Germany,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.752198 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.495008 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.335362 
+
+ mindiparanoid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.000029 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.801731 
+
+ mindiparanoid,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:02.576702 
+
+ mindiparanoid,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:31.824546 
+
+ mindiparanoid,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:25:52.219170 
+
+ mindiparanoid,     0___0,        <Channel name: shadowkekw>,       2024-11-07 10:26:03.982762 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.342407 
+
+ mindiparanoid,     0___0,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.828877 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:00.133325 
+
+ mindiparanoid,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:27:18.703911 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.360508 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.070281 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:28:31.351660 
+
+ mindiparanoid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.184412 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:28:52.078895 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.536391 
+
+ mindiparanoid,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:20.390602 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.829211 
+
+ mindiparanoid,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:29:39.651291 
+
+ mindiparanoid,     Thailand Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:30:24.731933 
+
+ mindiparanoid,     Russ,        <Channel name: shadowkekw>,       2024-11-07 10:30:58.350418 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.745371 
+
+ mindiparanoid,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.702751 
+
+ mindiparanoid,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:47:12.938381 
+
+ mindiparanoid,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.374994 
+
+ mindiparanoid,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:14:00.932404 

@@ -1,2 +1,16 @@
 
  kotishka,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:39:58.663615 
+
+ kotishka,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:57.798395 
+
+ kotishka,     Norwegy,        <Channel name: shadowkekw>,       2024-11-07 10:17:02.587461 
+
+ kotishka,     US,        <Channel name: shadowkekw>,       2024-11-07 10:18:25.692398 
+
+ kotishka,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:26.458923 
+
+ kotishka,     hi hi,        <Channel name: shadowkekw>,       2024-11-07 10:56:42.682621 
+
+ kotishka,     es,        <Channel name: shadowkekw>,       2024-11-07 10:57:44.705425 
+
+ kotishka,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:59:22.480918 

@@ -1,0 +1,4 @@
+
+ omarcossdattebayoamaseios,     hi,        <Channel name: kaicenat>,       2024-11-07 11:40:50.767518 
+
+ omarcossdattebayoamaseios,     hello,        <Channel name: kaicenat>,       2024-11-07 11:40:55.248761 

@@ -1,0 +1,10 @@
+
+ dougwillett,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:29:07.403225 
+
+ dougwillett,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:29:59.305826 
+
+ dougwillett,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:33:14.090003 
+
+ dougwillett,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:33:34.117138 
+
+ dougwillett,     !roulette 3532,        <Channel name: kaicenat>,       2024-11-07 10:34:36.810090 

@@ -1,0 +1,36 @@
+
+ chilyxa_,     zimbabve,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.267523 
+
+ chilyxa_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:04:06.239035 
+
+ chilyxa_,     zimbabve,        <Channel name: shadowkekw>,       2024-11-07 11:04:28.670806 
+
+ chilyxa_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.879573 
+
+ chilyxa_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:05:27.805989 
+
+ chilyxa_,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.304278 
+
+ chilyxa_,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 11:07:08.148134 
+
+ chilyxa_,     argentina,        <Channel name: shadowkekw>,       2024-11-07 11:08:09.980795 
+
+ chilyxa_,     zimbabve,        <Channel name: shadowkekw>,       2024-11-07 11:08:21.944868 
+
+ chilyxa_,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:08:46.819460 
+
+ chilyxa_,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.256998 
+
+ chilyxa_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:11:45.127311 
+
+ chilyxa_,     zimbabve,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.795653 
+
+ chilyxa_,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:13:11.351861 
+
+ chilyxa_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:14:09.951770 
+
+ chilyxa_,     ecuaor,        <Channel name: shadowkekw>,       2024-11-07 11:14:47.916188 
+
+ chilyxa_,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 11:14:53.094673 
+
+ chilyxa_,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:15:01.821799 

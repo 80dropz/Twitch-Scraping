@@ -1,0 +1,410 @@
+
+ louger__,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:07:47.969552 
+
+ louger__,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:08:11.363526 
+
+ louger__,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.867891 
+
+ louger__,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.616108 
+
+ louger__,     UAS,        <Channel name: shadowkekw>,       2024-11-07 10:09:49.739675 
+
+ louger__,     Czech Rebuplic,        <Channel name: shadowkekw>,       2024-11-07 10:10:57.776524 
+
+ louger__,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.044724 
+
+ louger__,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:13:38.195555 
+
+ louger__,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:13:44.310952 
+
+ louger__,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:00.264310 
+
+ louger__,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:14:46.868601 
+
+ louger__,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:15:01.009084 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.404563 
+
+ louger__,     Cambogo,        <Channel name: shadowkekw>,       2024-11-07 10:16:49.649684 
+
+ louger__,     Sri-lankla,        <Channel name: shadowkekw>,       2024-11-07 10:17:02.389639 
+
+ louger__,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:15.902830 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:18:04.324713 
+
+ louger__,     Gana,        <Channel name: shadowkekw>,       2024-11-07 10:18:08.739489 
+
+ louger__,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:18:23.093063 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:18:25.765369 
+
+ louger__,     OAE,        <Channel name: shadowkekw>,       2024-11-07 10:18:41.910658 
+
+ louger__,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:18:54.689081 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.784629 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:19:14.420536 
+
+ louger__,     Eganda,        <Channel name: shadowkekw>,       2024-11-07 10:19:28.057291 
+
+ louger__,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:51.313069 
+
+ louger__,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:20:07.609435 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.704643 
+
+ louger__,     OAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:48.279783 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:21:04.782071 
+
+ louger__,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.223688 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:21:50.455367 
+
+ louger__,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:22:20.984559 
+
+ louger__,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.226293 
+
+ louger__,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.989201 
+
+ louger__,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.181809 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.929564 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.992294 
+
+ louger__,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.300513 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:11.044492 
+
+ louger__,     Mozambique,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.645398 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.483715 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.999184 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.157457 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.763486 
+
+ louger__,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.067173 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.654392 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:26:35.841483 
+
+ louger__,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.607048 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:27:14.684766 
+
+ louger__,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.456648 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:36.022877 
+
+ louger__,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.966482 
+
+ louger__,     Somalia,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.054711 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.275174 
+
+ louger__,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 10:29:23.015581 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:24.671589 
+
+ louger__,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.033153 
+
+ louger__,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:29:52.066465 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:29:54.860945 
+
+ louger__,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.690708 
+
+ louger__,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.184698 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.867595 
+
+ louger__,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.101595 
+
+ louger__,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:24.446652 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:31:28.421597 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.236377 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.794125 
+
+ louger__,     India,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.273108 
+
+ louger__,     Russa,        <Channel name: shadowkekw>,       2024-11-07 10:32:07.926365 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.116697 
+
+ louger__,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.569429 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:32:43.211402 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:33:03.311501 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.547042 
+
+ louger__,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.883835 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:33:48.226680 
+
+ louger__,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.964428 
+
+ louger__,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.822238 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.511233 
+
+ louger__,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.894043 
+
+ louger__,     Eritrea,        <Channel name: shadowkekw>,       2024-11-07 10:34:41.595148 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.205502 
+
+ louger__,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:35:13.695701 
+
+ louger__,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:35:33.232533 
+
+ louger__,     USa,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.256687 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.437763 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:36:18.287528 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.511719 
+
+ louger__,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:36:21.818554 
+
+ louger__,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:36:54.690033 
+
+ louger__,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.212710 
+
+ louger__,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:37:05.927504 
+
+ louger__,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.207076 
+
+ louger__,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:37:31.560021 
+
+ louger__,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.669278 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.578674 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.578232 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:38:20.773081 
+
+ louger__,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:38:22.030929 
+
+ louger__,     Eritrea,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.498545 
+
+ louger__,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.840251 
+
+ louger__,     Tanzai,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.110557 
+
+ louger__,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.222724 
+
+ louger__,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:22.990138 
+
+ louger__,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.990173 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:40:12.698440 
+
+ louger__,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:40:26.073727 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:40:38.621209 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:39.739024 
+
+ louger__,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.557878 
+
+ louger__,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.497986 
+
+ louger__,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.146063 
+
+ louger__,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:42:06.912719 
+
+ louger__,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.825711 
+
+ louger__,     New zeland,        <Channel name: shadowkekw>,       2024-11-07 10:42:24.948016 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:45.090712 
+
+ louger__,     austalia,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.101556 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.066843 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.513114 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.969413 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:44:21.506361 
+
+ louger__,     Japabn,        <Channel name: shadowkekw>,       2024-11-07 10:44:26.638925 
+
+ louger__,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.917029 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:45:04.331665 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:45:26.033981 
+
+ louger__,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:45:46.636803 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.749942 
+
+ louger__,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.543596 
+
+ louger__,     France,        <Channel name: shadowkekw>,       2024-11-07 10:46:41.281805 
+
+ louger__,     Paragua,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.735765 
+
+ louger__,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.646469 
+
+ louger__,     ChileMOnaco,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.735678 
+
+ louger__,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.116465 
+
+ louger__,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:48:38.365912 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.475514 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:07.826810 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.872567 
+
+ louger__,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.331925 
+
+ louger__,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:27.913796 
+
+ louger__,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:50:46.666126 
+
+ louger__,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.813814 
+
+ louger__,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.035928 
+
+ louger__,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.356111 
+
+ louger__,     Myanmar,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.682231 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:52:34.217879 
+
+ louger__,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.100299 
+
+ louger__,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:53:22.725794 
+
+ louger__,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:53:38.510148 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:03.255464 
+
+ louger__,     USa,        <Channel name: shadowkekw>,       2024-11-07 10:54:53.146006 
+
+ louger__,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.794599 
+
+ louger__,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:55:32.389465 
+
+ louger__,     USa,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.518095 
+
+ louger__,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.814054 
+
+ louger__,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:57:42.741840 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:23.683972 
+
+ louger__,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.704265 
+
+ louger__,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:59:38.505654 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:00:24.333641 
+
+ louger__,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.594932 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.895259 
+
+ louger__,     Uk,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.480756 
+
+ louger__,     India,        <Channel name: shadowkekw>,       2024-11-07 11:03:47.807105 
+
+ louger__,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:04:43.805987 
+
+ louger__,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.618385 
+
+ louger__,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:05:06.211979 
+
+ louger__,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:05:23.264285 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:05:47.560718 
+
+ louger__,     Russa,        <Channel name: shadowkekw>,       2024-11-07 11:05:50.978322 
+
+ louger__,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.981005 
+
+ louger__,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:05:59.967921 
+
+ louger__,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:06:04.610851 
+
+ louger__,     Pery,        <Channel name: shadowkekw>,       2024-11-07 11:06:24.625601 
+
+ louger__,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.186091 
+
+ louger__,     Uk,        <Channel name: shadowkekw>,       2024-11-07 11:06:50.992033 
+
+ louger__,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:56.459233 
+
+ louger__,     chili,        <Channel name: shadowkekw>,       2024-11-07 11:06:58.405845 
+
+ louger__,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:07:26.449340 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.270224 
+
+ louger__,     Suriname,        <Channel name: shadowkekw>,       2024-11-07 11:07:52.199142 
+
+ louger__,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:08:12.117614 
+
+ louger__,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:08:49.493270 
+
+ louger__,     Mali,        <Channel name: shadowkekw>,       2024-11-07 11:08:57.105565 
+
+ louger__,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.335742 
+
+ louger__,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:23.705986 
+
+ louger__,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 11:09:33.660896 
+
+ louger__,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 11:09:48.991471 
+
+ louger__,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:10:04.029634 
+
+ louger__,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:10:11.812708 
+
+ louger__,     France,        <Channel name: shadowkekw>,       2024-11-07 11:10:15.056013 
+
+ louger__,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:29.202360 
+
+ louger__,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:10:50.250765 
+
+ louger__,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:11:49.127001 
+
+ louger__,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:09.395510 
+
+ louger__,     Uzvekistan,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.742829 
+
+ louger__,     monaco,        <Channel name: shadowkekw>,       2024-11-07 11:13:13.250185 
+
+ louger__,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:13:31.783509 
+
+ louger__,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:13:49.987522 
+
+ louger__,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:13:55.690315 
+
+ louger__,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:14:12.666530 
+
+ louger__,     lmao,        <Channel name: kaicenat>,       2024-11-07 11:24:03.858896 
+
+ louger__,     yooo,        <Channel name: kaicenat>,       2024-11-07 11:24:12.354120 
+
+ louger__,     ogo,        <Channel name: kaicenat>,       2024-11-07 11:24:23.396864 
+
+ louger__,     o,        <Channel name: kaicenat>,       2024-11-07 11:24:35.971886 

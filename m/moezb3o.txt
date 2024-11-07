@@ -6,3 +6,5 @@
  moezb3o,     skibidi,        <Channel name: clix>,       2024-11-07 01:55:38.759497 
 
  moezb3o,     hi,        <Channel name: oatley>,       2024-11-07 02:11:58.287610 
+
+ moezb3o,     !game,        <Channel name: mongraal>,       2024-11-07 12:47:31.323058 

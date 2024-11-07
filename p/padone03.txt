@@ -1,2 +1,6 @@
 
  padone03,     W drone,        <Channel name: ricci>,       2024-11-07 02:12:05.970793 
+
+ padone03,     No part timer round here,        <Channel name: ricci>,       2024-11-07 12:13:18.770968 
+
+ padone03,     U see when he broke character had me dieing,        <Channel name: ricci>,       2024-11-07 12:20:15.763046 

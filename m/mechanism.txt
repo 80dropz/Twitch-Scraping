@@ -2,3 +2,9 @@
  mechanism,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 09:28:13.138681 
 
  mechanism,     LUL,        <Channel name: kaicenat>,       2024-11-07 09:35:05.037380 
+
+ mechanism,     can’t read sub count,        <Channel name: kaicenat>,       2024-11-07 09:52:51.045254 
+
+ mechanism,     W,        <Channel name: kaicenat>,       2024-11-07 10:50:28.281827 
+
+ mechanism,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:26:39.264908 

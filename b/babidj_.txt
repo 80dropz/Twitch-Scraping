@@ -1,0 +1,116 @@
+
+ babidj_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.013634 
+
+ babidj_,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:08:00.673595 
+
+ babidj_,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.474650 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:08:11.843829 
+
+ babidj_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:03.181424 
+
+ babidj_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:47.329157 
+
+ babidj_,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:09:52.044825 
+
+ babidj_,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:10:02.508058 
+
+ babidj_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:10.470201 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:25.182478 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:29.705614 
+
+ babidj_,     NigeriaNigeriaNigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:40.856879 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:41.993669 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:43.598694 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.143210 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.904052 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:35.090708 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:46.838551 
+
+ babidj_,     NigeriaNigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:50.862548 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:07.151578 
+
+ babidj_,     Chaina,        <Channel name: shadowkekw>,       2024-11-07 10:21:42.352916 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.964157 
+
+ babidj_,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:21:59.957278 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:23:02.188607 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:23:12.637148 
+
+ babidj_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.265899 
+
+ babidj_,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.815494 
+
+ babidj_,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.890645 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:24:12.279728 
+
+ babidj_,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:15.943847 
+
+ babidj_,     India,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.442156 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:24:48.629491 
+
+ babidj_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.777996 
+
+ babidj_,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:25:43.844955 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:25:49.221870 
+
+ babidj_,     America,        <Channel name: shadowkekw>,       2024-11-07 10:26:13.053505 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.567852 
+
+ babidj_,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:26:25.617909 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:26:46.259277 
+
+ babidj_,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.115836 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.473000 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:27:50.575304 
+
+ babidj_,     turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.708209 
+
+ babidj_,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.632453 
+
+ babidj_,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.927300 
+
+ babidj_,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.375639 
+
+ babidj_,     Lavtia,        <Channel name: shadowkekw>,       2024-11-07 10:29:10.799406 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:30:19.289309 
+
+ babidj_,     irak,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.520010 
+
+ babidj_,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.550973 
+
+ babidj_,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:32:14.289491 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:32:26.711390 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:33:05.246024 
+
+ babidj_,     Turkemenistan,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.462586 
+
+ babidj_,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:34:04.722079 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:34:11.077440 
+
+ babidj_,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.886954 
+
+ babidj_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.257504 

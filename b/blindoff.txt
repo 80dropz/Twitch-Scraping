@@ -2,3 +2,57 @@
  blindoff,     23243343,        <Channel name: shadowkekw>,       2024-11-07 09:29:53.088928 
 
  blindoff,     52,        <Channel name: shadowkekw>,       2024-11-07 09:44:03.187538 
+
+ blindoff,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:36:14.104974 
+
+ blindoff,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:38:52.604776 
+
+ blindoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:40:20.825977 
+
+ blindoff,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:47.286115 
+
+ blindoff,     us,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.999353 
+
+ blindoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.146824 
+
+ blindoff,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.011948 
+
+ blindoff,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:43:58.123430 
+
+ blindoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:44:20.618636 
+
+ blindoff,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:45:47.591350 
+
+ blindoff,     france,        <Channel name: shadowkekw>,       2024-11-07 10:47:20.243299 
+
+ blindoff,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.256093 
+
+ blindoff,     france,        <Channel name: shadowkekw>,       2024-11-07 10:48:38.800497 
+
+ blindoff,     itqly,        <Channel name: shadowkekw>,       2024-11-07 10:51:18.882696 
+
+ blindoff,     china,        <Channel name: shadowkekw>,       2024-11-07 10:51:35.703361 
+
+ blindoff,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.102131 
+
+ blindoff,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.701390 
+
+ blindoff,     brazila,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.463840 
+
+ blindoff,     chilli,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.987693 
+
+ blindoff,     france,        <Channel name: shadowkekw>,       2024-11-07 10:58:23.203444 
+
+ blindoff,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.550570 
+
+ blindoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:59:53.146177 
+
+ blindoff,     france,        <Channel name: shadowkekw>,       2024-11-07 11:00:50.466442 
+
+ blindoff,     france,        <Channel name: shadowkekw>,       2024-11-07 11:02:29.570386 
+
+ blindoff,     china,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.439093 
+
+ blindoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 11:06:16.384848 
+
+ blindoff,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:14:18.557485 

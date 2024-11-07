@@ -1,0 +1,4 @@
+
+ kapioks,     !SENS,        <Channel name: mongraal>,       2024-11-07 12:03:12.060046 
+
+ kapioks,     !dpi,        <Channel name: mongraal>,       2024-11-07 12:03:21.240657 

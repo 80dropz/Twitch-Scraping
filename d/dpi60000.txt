@@ -1,2 +1,14 @@
 
  dpi60000,     W MILES,        <Channel name: kaicenat>,       2024-11-07 09:01:31.796257 
+
+ dpi60000,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:04.186647 
+
+ dpi60000,     @kawesome1_ rakai,        <Channel name: kaicenat>,       2024-11-07 10:19:25.455407 
+
+ dpi60000,     !time,        <Channel name: kaicenat>,       2024-11-07 12:01:17.292681 
+
+ dpi60000,     pause,        <Channel name: kaicenat>,       2024-11-07 12:01:43.317286 
+
+ dpi60000,     why are people giving bits when thy could buy subs instead and help the goal,        <Channel name: kaicenat>,       2024-11-07 12:17:09.436005 
+
+ dpi60000,     @hashsteve facts,        <Channel name: kaicenat>,       2024-11-07 12:19:11.069449 

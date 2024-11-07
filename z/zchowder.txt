@@ -1,0 +1,16 @@
+
+ zchowder,     goodmorning,        <Channel name: nadeshot>,       2024-11-07 11:31:33.691724 
+
+ zchowder,     500,        <Channel name: nadeshot>,       2024-11-07 12:35:53.504059 
+
+ zchowder,     poll,        <Channel name: nadeshot>,       2024-11-07 12:35:57.129638 
+
+ zchowder,     250,        <Channel name: nadeshot>,       2024-11-07 12:36:02.359003 
+
+ zchowder,     500,        <Channel name: nadeshot>,       2024-11-07 12:36:13.737702 
+
+ zchowder,     300,        <Channel name: nadeshot>,       2024-11-07 12:36:18.576806 
+
+ zchowder,     400,        <Channel name: nadeshot>,       2024-11-07 12:36:19.732041 
+
+ zchowder,     500,        <Channel name: nadeshot>,       2024-11-07 12:36:22.905373 

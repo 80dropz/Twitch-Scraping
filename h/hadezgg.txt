@@ -1,2 +1,6 @@
 
  hadezgg,     !followage,        <Channel name: stableronaldo>,       2024-11-07 02:00:29.166004 
+
+ hadezgg,     !followage,        <Channel name: kaicenat>,       2024-11-07 11:59:56.432086 
+
+ hadezgg,     !followage,        <Channel name: clix>,       2024-11-07 12:00:31.340581 

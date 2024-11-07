@@ -1,0 +1,60 @@
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 10:39:00.382514 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 10:39:34.825817 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:55:38.544138 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:56:36.521533 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:57:28.580572 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:14.449727 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:20.447960 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:25.464548 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:29.415852 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:34.854430 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:41.195766 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:49.571573 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:58:55.013722 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:00.941009 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:04.455702 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:12.321343 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:18.747550 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:28.163624 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:36.032984 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 11:59:46.848446 
+
+ a_bucky,     WW,        <Channel name: kaicenat>,       2024-11-07 12:06:55.601235 
+
+ a_bucky,     weegDance weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:07:14.859464 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:17:17.189958 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:17:27.152365 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:17:36.347403 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:17:50.491499 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:18:07.831807 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:19:40.309470 
+
+ a_bucky,     WW miles weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:19:49.674548 
+
+ a_bucky,     WW miles weegDance weegDance weegDance,        <Channel name: kaicenat>,       2024-11-07 12:19:53.312535 

@@ -1,0 +1,6 @@
+
+ arroz_cabidelaa,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:52:11.107526 
+
+ arroz_cabidelaa,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:16.172103 
+
+ arroz_cabidelaa,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:52:27.832789 

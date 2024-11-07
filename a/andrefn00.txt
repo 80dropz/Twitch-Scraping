@@ -1,0 +1,6 @@
+
+ andrefn00,     WAKEUPPP,        <Channel name: kaicenat>,       2024-11-07 11:45:52.715709 
+
+ andrefn00,     WTF,        <Channel name: kaicenat>,       2024-11-07 11:46:18.458748 
+
+ andrefn00,     REST,        <Channel name: kaicenat>,       2024-11-07 11:50:51.413108 

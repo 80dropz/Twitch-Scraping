@@ -1,0 +1,4 @@
+
+ gnomeoszn,     T2G,        <Channel name: nadeshot>,       2024-11-07 11:31:17.752865 
+
+ gnomeoszn,     YESSIR,        <Channel name: nadeshot>,       2024-11-07 11:31:42.576738 

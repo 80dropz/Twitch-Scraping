@@ -50,3 +50,405 @@
  zell0wr,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:43:15.522268 
 
  zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:44:05.766901 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:52:24.866113 
+
+ zell0wr,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:44.647552 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:53:31.506344 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:11.514912 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:55:20.555670 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:56:35.541043 
+
+ zell0wr,     322,        <Channel name: shadowkekw>,       2024-11-07 09:58:08.384609 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 09:59:58.950823 
+
+ zell0wr,     28,        <Channel name: shadowkekw>,       2024-11-07 10:00:29.664381 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:00:47.658015 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:01:03.466246 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:01:09.030522 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:03:03.657777 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:04:35.305974 
+
+ zell0wr,     LOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:09.610070 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:05:15.226141 
+
+ zell0wr,     NELOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:20.192752 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:05:50.871072 
+
+ zell0wr,     LF,        <Channel name: shadowkekw>,       2024-11-07 10:06:02.067795 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:06:11.566322 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:06:55.711531 
+
+ zell0wr,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:07:00.731223 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:07:42.077310 
+
+ zell0wr,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:08:02.855408 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:09:18.606989 
+
+ zell0wr,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:09:26.175848 
+
+ zell0wr,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:11:37.822834 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:11:47.157018 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:12:01.186931 
+
+ zell0wr,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.505164 
+
+ zell0wr,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:12:21.346068 
+
+ zell0wr,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:12:38.261280 
+
+ zell0wr,     fm,        <Channel name: shadowkekw>,       2024-11-07 10:12:54.994772 
+
+ zell0wr,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.474463 
+
+ zell0wr,     us,        <Channel name: shadowkekw>,       2024-11-07 10:14:53.230315 
+
+ zell0wr,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.345963 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:15:54.857620 
+
+ zell0wr,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.250435 
+
+ zell0wr,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.466832 
+
+ zell0wr,     us,        <Channel name: shadowkekw>,       2024-11-07 10:17:39.330786 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:17:52.285598 
+
+ zell0wr,     lebronJAM,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.246298 
+
+ zell0wr,     US,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.555114 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:18:39.768396 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:19:25.972312 
+
+ zell0wr,     100,        <Channel name: shadowkekw>,       2024-11-07 10:19:41.885681 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.009296 
+
+ zell0wr,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.789102 
+
+ zell0wr,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.264231 
+
+ zell0wr,     o,        <Channel name: shadowkekw>,       2024-11-07 10:21:16.656786 
+
+ zell0wr,     us,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.725151 
+
+ zell0wr,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:21:56.129475 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:21:57.644937 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:23:11.351065 
+
+ zell0wr,     10,        <Channel name: shadowkekw>,       2024-11-07 10:23:12.284362 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:23:26.424758 
+
+ zell0wr,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.251864 
+
+ zell0wr,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.435367 
+
+ zell0wr,     da,        <Channel name: shadowkekw>,       2024-11-07 10:24:08.196310 
+
+ zell0wr,     China,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.802649 
+
+ zell0wr,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:24:48.872148 
+
+ zell0wr,     SFP}{SDPF{S}DF,        <Channel name: shadowkekw>,       2024-11-07 10:26:00.060150 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:27:28.807139 
+
+ zell0wr,     ICELAND,        <Channel name: shadowkekw>,       2024-11-07 10:29:11.413400 
+
+ zell0wr,     PF[SD]PFS[D]FPSD[]F,        <Channel name: shadowkekw>,       2024-11-07 10:30:02.220701 
+
+ zell0wr,     iNDIA,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.577316 
+
+ zell0wr,     IRAQ,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.551831 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.402061 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:31:57.847980 
+
+ zell0wr,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:49.685489 
+
+ zell0wr,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:33:06.095283 
+
+ zell0wr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.096001 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:33:31.708261 
+
+ zell0wr,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.303048 
+
+ zell0wr,     Nrway,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.344337 
+
+ zell0wr,     O,        <Channel name: shadowkekw>,       2024-11-07 10:34:35.250037 
+
+ zell0wr,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:35:09.451217 
+
+ zell0wr,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:50.693519 
+
+ zell0wr,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.300320 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:36:14.398353 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.910150 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:36:50.043331 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.247018 
+
+ zell0wr,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.129136 
+
+ zell0wr,     o,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.806888 
+
+ zell0wr,     hz,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.937804 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.717906 
+
+ zell0wr,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.761064 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.440703 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:38:16.195252 
+
+ zell0wr,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:38:35.057760 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:38:43.445847 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:38:59.521967 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.772135 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.776031 
+
+ zell0wr,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:39:52.198030 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.617907 
+
+ zell0wr,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.093902 
+
+ zell0wr,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.301071 
+
+ zell0wr,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.806218 
+
+ zell0wr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:51.601763 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:43:21.662185 
+
+ zell0wr,     NU DA,        <Channel name: shadowkekw>,       2024-11-07 10:44:15.612778 
+
+ zell0wr,     INDIA,        <Channel name: shadowkekw>,       2024-11-07 10:44:26.418331 
+
+ zell0wr,     sps,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.887034 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:44:43.596801 
+
+ zell0wr,     India,        <Channel name: shadowkekw>,       2024-11-07 10:45:33.829901 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:45:48.005842 
+
+ zell0wr,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:47:24.987277 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:47:40.722537 
+
+ zell0wr,     o,        <Channel name: shadowkekw>,       2024-11-07 10:48:32.981533 
+
+ zell0wr,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.542025 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.386680 
+
+ zell0wr,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.893977 
+
+ zell0wr,     da,        <Channel name: shadowkekw>,       2024-11-07 10:51:13.132602 
+
+ zell0wr,     Hong-Kong,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.543314 
+
+ zell0wr,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:53:25.000354 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 10:54:00.761144 
+
+ zell0wr,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.287921 
+
+ zell0wr,     dsa,        <Channel name: shadowkekw>,       2024-11-07 10:56:40.603536 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:58:08.394708 
+
+ zell0wr,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:00:37.049000 
+
+ zell0wr,     idia,        <Channel name: shadowkekw>,       2024-11-07 11:01:49.650073 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 11:03:27.836782 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 11:05:29.145632 
+
+ zell0wr,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.652808 
+
+ zell0wr,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.589205 
+
+ zell0wr,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.979102 
+
+ zell0wr,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:14:32.395132 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:48.739686 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:18:39.889515 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:21:47.495593 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:22:04.847531 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:46.344507 
+
+ zell0wr,     +rep,        <Channel name: shadowkekw>,       2024-11-07 11:23:10.118034 
+
+ zell0wr,     O,        <Channel name: shadowkekw>,       2024-11-07 11:23:54.475549 
+
+ zell0wr,     0-0,        <Channel name: shadowkekw>,       2024-11-07 11:23:57.279315 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:24:31.970877 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:03.735463 
+
+ zell0wr,     O,        <Channel name: shadowkekw>,       2024-11-07 11:25:07.907308 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:12.808915 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:45.604230 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:18.887825 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:31:18.745728 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:32:18.164343 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:28.365287 
+
+ zell0wr,     O ((,        <Channel name: shadowkekw>,       2024-11-07 11:32:38.595579 
+
+ zell0wr,     +,        <Channel name: shadowkekw>,       2024-11-07 11:34:57.586941 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:35:16.928943 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:35:58.111959 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:37:29.397278 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:37:41.059849 
+
+ zell0wr,     O,        <Channel name: shadowkekw>,       2024-11-07 11:37:56.623125 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:06.172301 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:39:53.195552 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:39:58.386573 
+
+ zell0wr,     @shadowkekw Maksbls, ne nado,        <Channel name: kaicenat>,       2024-11-07 11:44:08.344196 
+
+ zell0wr,     @shadowkekw Just wait a little,        <Channel name: kaicenat>,       2024-11-07 11:44:39.369596 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:47:24.769864 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:31.686494 
+
+ zell0wr,     and 2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:49.097593 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:13.294955 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:51:49.795663 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:24.510041 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:36.754565 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:41.958421 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 11:57:35.187427 
+
+ zell0wr,     O,        <Channel name: shadowkekw>,       2024-11-07 11:59:30.318919 
+
+ zell0wr,     200,        <Channel name: shadowkekw>,       2024-11-07 11:59:55.813274 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:45.493259 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:48.099644 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:54.220007 
+
+ zell0wr,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:20.890486 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:11.909427 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:24.972880 
+
+ zell0wr,     28,        <Channel name: shadowkekw>,       2024-11-07 12:06:02.749802 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:48.328791 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:19.402780 
+
+ zell0wr,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:37.698021 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:16:32.900907 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:18:34.794622 
+
+ zell0wr,     RM,        <Channel name: shadowkekw>,       2024-11-07 12:21:37.402149 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:27:34.973331 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:29:54.859334 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:31:53.720894 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:33:40.821648 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:34:17.263788 
+
+ zell0wr,     +,        <Channel name: shadowkekw>,       2024-11-07 12:35:01.232973 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:35:30.175213 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:36:02.126202 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:36:24.503189 
+
+ zell0wr,     189,        <Channel name: shadowkekw>,       2024-11-07 12:40:12.320964 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:40:39.828060 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:43:03.711301 
+
+ zell0wr,     )),        <Channel name: shadowkekw>,       2024-11-07 12:45:08.082288 
+
+ zell0wr,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:48:28.929429 
+
+ zell0wr,     bb bye,        <Channel name: shadowkekw>,       2024-11-07 12:54:10.546125 
+
+ zell0wr,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:54:51.953756 
+
+ zell0wr,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:55:28.454064 
+
+ zell0wr,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:55:46.820663 
+
+ zell0wr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:56:50.389505 

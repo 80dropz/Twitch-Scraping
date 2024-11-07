@@ -1,2 +1,4 @@
 
  tdog1449,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:05:01.648229 
+
+ tdog1449,     Cam 1,        <Channel name: kaicenat>,       2024-11-07 10:41:35.574645 

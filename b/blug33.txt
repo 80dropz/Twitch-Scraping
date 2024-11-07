@@ -1,0 +1,4 @@
+
+ blug33,     EARTHQUAKE CASE0H JUMPED,        <Channel name: kaicenat>,       2024-11-07 12:54:17.769957 
+
+ blug33,     CASE0H JUMPED EARTHQUAKE EARTHQUAKE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 13:02:06.888901 

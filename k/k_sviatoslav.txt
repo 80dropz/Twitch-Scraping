@@ -1,0 +1,116 @@
+
+ k_sviatoslav,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.229924 
+
+ k_sviatoslav,     islandia,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.911651 
+
+ k_sviatoslav,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.310502 
+
+ k_sviatoslav,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.515212 
+
+ k_sviatoslav,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:07.383261 
+
+ k_sviatoslav,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.723327 
+
+ k_sviatoslav,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.379435 
+
+ k_sviatoslav,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:13:26.463828 
+
+ k_sviatoslav,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:13:48.257406 
+
+ k_sviatoslav,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:15:43.018072 
+
+ k_sviatoslav,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.881503 
+
+ k_sviatoslav,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.571740 
+
+ k_sviatoslav,     butan,        <Channel name: shadowkekw>,       2024-11-07 10:20:11.819894 
+
+ k_sviatoslav,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.409508 
+
+ k_sviatoslav,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:28.378190 
+
+ k_sviatoslav,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.456535 
+
+ k_sviatoslav,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.437097 
+
+ k_sviatoslav,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:28.372927 
+
+ k_sviatoslav,     hungry,        <Channel name: shadowkekw>,       2024-11-07 10:27:47.714767 
+
+ k_sviatoslav,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:27:57.584417 
+
+ k_sviatoslav,     guam,        <Channel name: shadowkekw>,       2024-11-07 10:28:19.985505 
+
+ k_sviatoslav,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.739973 
+
+ k_sviatoslav,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.874737 
+
+ k_sviatoslav,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:30:36.927002 
+
+ k_sviatoslav,     butan,        <Channel name: shadowkekw>,       2024-11-07 10:31:47.357184 
+
+ k_sviatoslav,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.884259 
+
+ k_sviatoslav,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:06.581050 
+
+ k_sviatoslav,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.843321 
+
+ k_sviatoslav,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.856494 
+
+ k_sviatoslav,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.829690 
+
+ k_sviatoslav,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.181362 
+
+ k_sviatoslav,     france,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.837862 
+
+ k_sviatoslav,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:45:31.089998 
+
+ k_sviatoslav,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:46:27.413235 
+
+ k_sviatoslav,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:47:26.360715 
+
+ k_sviatoslav,     france,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.169870 
+
+ k_sviatoslav,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.404314 
+
+ k_sviatoslav,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:48:55.348951 
+
+ k_sviatoslav,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:13.751972 
+
+ k_sviatoslav,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:49:44.068606 
+
+ k_sviatoslav,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.335611 
+
+ k_sviatoslav,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.499304 
+
+ k_sviatoslav,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.110137 
+
+ k_sviatoslav,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:52:41.591605 
+
+ k_sviatoslav,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.597217 
+
+ k_sviatoslav,     butan,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.011684 
+
+ k_sviatoslav,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:58:12.117286 
+
+ k_sviatoslav,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.761520 
+
+ k_sviatoslav,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:59:46.917914 
+
+ k_sviatoslav,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.891926 
+
+ k_sviatoslav,     iceland,        <Channel name: shadowkekw>,       2024-11-07 11:02:07.426519 
+
+ k_sviatoslav,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:03:30.527156 
+
+ k_sviatoslav,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.110809 
+
+ k_sviatoslav,     Dominica republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:55.562166 
+
+ k_sviatoslav,     estonia,        <Channel name: shadowkekw>,       2024-11-07 11:05:30.595778 
+
+ k_sviatoslav,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:06:29.354752 
+
+ k_sviatoslav,     uganda,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.964202 
+
+ k_sviatoslav,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:14:40.067834 

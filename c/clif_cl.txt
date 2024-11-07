@@ -1,0 +1,26 @@
+
+ clif_cl,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.097417 
+
+ clif_cl,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:09:21.338716 
+
+ clif_cl,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:10:54.671139 
+
+ clif_cl,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:10:57.994560 
+
+ clif_cl,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:11:15.330679 
+
+ clif_cl,     RussiaRussia,        <Channel name: shadowkekw>,       2024-11-07 10:11:17.315692 
+
+ clif_cl,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.741030 
+
+ clif_cl,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.634445 
+
+ clif_cl,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:32.433911 
+
+ clif_cl,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.165721 
+
+ clif_cl,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:13:50.287500 
+
+ clif_cl,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:01.243997 
+
+ clif_cl,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.398948 

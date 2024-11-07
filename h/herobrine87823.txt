@@ -1,2 +1,10 @@
 
  herobrine87823,     !points,        <Channel name: kaicenat>,       2024-11-07 09:36:10.397426 
+
+ herobrine87823,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:42.487509 
+
+ herobrine87823,     !points,        <Channel name: kaicenat>,       2024-11-07 09:54:13.165070 
+
+ herobrine87823,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:54.956803 
+
+ herobrine87823,     !points,        <Channel name: kaicenat>,       2024-11-07 09:56:54.930855 

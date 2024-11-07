@@ -1,0 +1,306 @@
+
+ nuzar228,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:07:17.486685 
+
+ nuzar228,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:30.566359 
+
+ nuzar228,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:07:39.706064 
+
+ nuzar228,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:08:02.611304 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.013406 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.809538 
+
+ nuzar228,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:09:32.943312 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:38.804612 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.191413 
+
+ nuzar228,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.782379 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.925206 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:43.480995 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.579368 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.513221 
+
+ nuzar228,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.632294 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:17:37.300118 
+
+ nuzar228,     isa,        <Channel name: shadowkekw>,       2024-11-07 10:17:41.158131 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.061966 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.985520 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.965995 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:19:29.151732 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.335607 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.995764 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.330497 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:20:27.549042 
+
+ nuzar228,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:55.505725 
+
+ nuzar228,     322,        <Channel name: shadowkekw>,       2024-11-07 10:20:59.582436 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.205306 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.868736 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.108945 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.463257 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.052186 
+
+ nuzar228,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.140889 
+
+ nuzar228,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:22:36.734815 
+
+ nuzar228,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.483222 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.461002 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.122031 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.995109 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.552603 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:23:49.745521 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:24:21.470800 
+
+ nuzar228,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:24:27.780534 
+
+ nuzar228,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.630945 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:33.063614 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:25:52.619154 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:26:36.582898 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.911330 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.740215 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.701880 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.651013 
+
+ nuzar228,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:27:54.478435 
+
+ nuzar228,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.284813 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.942901 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.128371 
+
+ nuzar228,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.575587 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.140852 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.612712 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.589828 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:29:52.425041 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.503335 
+
+ nuzar228,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:30:53.238441 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.672191 
+
+ nuzar228,     Switzerlandindia,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.502911 
+
+ nuzar228,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.996437 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:32:05.954741 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.952491 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:32:25.373637 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:33:03.743601 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.714475 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.035510 
+
+ nuzar228,     inia,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.571914 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.846362 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.581692 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.648142 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.505306 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.907991 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:35:58.304360 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:05.988345 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.740431 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.525377 
+
+ nuzar228,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.205764 
+
+ nuzar228,     irak,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.050727 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:39:45.471580 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:50.186067 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.843415 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.163847 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:59.182678 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.502727 
+
+ nuzar228,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.657804 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.697901 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.812006 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.882802 
+
+ nuzar228,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:42:08.544074 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.199867 
+
+ nuzar228,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.068062 
+
+ nuzar228,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:43:31.325853 
+
+ nuzar228,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.500423 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.423075 
+
+ nuzar228,     kolambia,        <Channel name: shadowkekw>,       2024-11-07 10:44:21.348174 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.832255 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:48:06.685102 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.710712 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.359121 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:49:14.581775 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.525897 
+
+ nuzar228,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:16.671886 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.616047 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.901749 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.113149 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.532076 
+
+ nuzar228,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:53:02.131467 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:53:26.084592 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:42.839470 
+
+ nuzar228,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.184513 
+
+ nuzar228,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.045350 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.950742 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.100504 
+
+ nuzar228,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.857440 
+
+ nuzar228,     colambia,        <Channel name: shadowkekw>,       2024-11-07 10:57:08.108939 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.235196 
+
+ nuzar228,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:59:00.989009 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:59:41.429777 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.794078 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:01:11.887608 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:28.741817 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:02:30.031083 
+
+ nuzar228,     indonasia,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.495821 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.163314 
+
+ nuzar228,     urugay,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.837635 
+
+ nuzar228,     oae,        <Channel name: shadowkekw>,       2024-11-07 11:05:01.761106 
+
+ nuzar228,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:05:53.036183 
+
+ nuzar228,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:06.887318 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.985128 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:06:34.002170 
+
+ nuzar228,     indonasia,        <Channel name: shadowkekw>,       2024-11-07 11:07:37.312628 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:07:41.805166 
+
+ nuzar228,     colambia,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.801797 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.355719 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:08:52.044673 
+
+ nuzar228,     south afrika,        <Channel name: shadowkekw>,       2024-11-07 11:09:34.570570 
+
+ nuzar228,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:37.466037 
+
+ nuzar228,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.585226 
+
+ nuzar228,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.316361 
+
+ nuzar228,     indonasia,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.967494 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:11:53.582713 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:12:00.595565 
+
+ nuzar228,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:12:36.662511 
+
+ nuzar228,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:39.952812 
+
+ nuzar228,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.792979 
+
+ nuzar228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:13:39.035586 
+
+ nuzar228,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:13:52.519748 
+
+ nuzar228,     india,        <Channel name: shadowkekw>,       2024-11-07 11:14:02.996704 
+
+ nuzar228,     c,        <Channel name: shadowkekw>,       2024-11-07 11:16:58.981079 

@@ -6,3 +6,5 @@
  snottytooohotty,     ITS WEIGHED DOWN ON THE BACK LOOK,        <Channel name: kaicenat>,       2024-11-07 01:32:49.453778 
 
  snottytooohotty,     ITS WEIGHED DOWN,        <Channel name: kaicenat>,       2024-11-07 01:32:54.223313 
+
+ snottytooohotty,     !join,        <Channel name: kaicenat>,       2024-11-07 10:05:25.501633 

@@ -2,3 +2,35 @@
  yondaaqq,     [FAS {FAS [FAS [FAS,        <Channel name: shadowkekw>,       2024-11-07 09:04:05.627089 
 
  yondaaqq,     fas[ FAS [fas [fas [FGA S[\rAsw,        <Channel name: shadowkekw>,       2024-11-07 09:04:06.786161 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:14.204512 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:47.987666 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:05.654060 
+
+ yondaaqq,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:56.917687 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:17.749663 
+
+ yondaaqq,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:38.831822 
+
+ yondaaqq,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:09.507443 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:10.130121 
+
+ yondaaqq,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:14:34.612917 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.573127 
+
+ yondaaqq,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.187151 
+
+ yondaaqq,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.798575 
+
+ yondaaqq,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.936249 
+
+ yondaaqq,     uar,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.648820 
+
+ yondaaqq,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.533677 
+
+ yondaaqq,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.997380 

@@ -1,0 +1,8 @@
+
+ jerry_nyc,     9,        <Channel name: lacy>,       2024-11-07 12:39:20.260436 
+
+ jerry_nyc,     bull,        <Channel name: lacy>,       2024-11-07 12:49:46.628126 
+
+ jerry_nyc,     bs,        <Channel name: lacy>,       2024-11-07 12:50:11.439730 
+
+ jerry_nyc,     blue leggings,        <Channel name: lacy>,       2024-11-07 13:02:59.847902 

@@ -1,0 +1,298 @@
+
+ shoma2006,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:12.152363 
+
+ shoma2006,     shweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:32.813191 
+
+ shoma2006,     germania,        <Channel name: shadowkekw>,       2024-11-07 10:10:58.827831 
+
+ shoma2006,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.928550 
+
+ shoma2006,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:15:57.211252 
+
+ shoma2006,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:17:34.601104 
+
+ shoma2006,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:18:39.179590 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.313006 
+
+ shoma2006,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:19:45.321327 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:20:08.588506 
+
+ shoma2006,     Austalia,        <Channel name: shadowkekw>,       2024-11-07 10:20:22.379548 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:20:43.117068 
+
+ shoma2006,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:21:05.595218 
+
+ shoma2006,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:22:20.225744 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:22:47.316675 
+
+ shoma2006,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:23:30.389931 
+
+ shoma2006,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.821329 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.807137 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:37.963801 
+
+ shoma2006,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:09.496020 
+
+ shoma2006,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.343273 
+
+ shoma2006,     shweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:03.549751 
+
+ shoma2006,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:26:49.142595 
+
+ shoma2006,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:26:56.887757 
+
+ shoma2006,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:27:30.146107 
+
+ shoma2006,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.635570 
+
+ shoma2006,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:28:22.565484 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:41.182307 
+
+ shoma2006,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:22.271870 
+
+ shoma2006,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:29:38.795564 
+
+ shoma2006,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:29:43.905007 
+
+ shoma2006,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:30:04.991418 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.828574 
+
+ shoma2006,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.899695 
+
+ shoma2006,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:30:43.894583 
+
+ shoma2006,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.276664 
+
+ shoma2006,     united ststes,        <Channel name: shadowkekw>,       2024-11-07 10:31:15.463018 
+
+ shoma2006,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:31:20.178261 
+
+ shoma2006,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:31:24.660909 
+
+ shoma2006,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.236624 
+
+ shoma2006,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:31:43.837179 
+
+ shoma2006,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:31:59.637608 
+
+ shoma2006,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.609801 
+
+ shoma2006,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.640378 
+
+ shoma2006,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.727910 
+
+ shoma2006,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:01.199993 
+
+ shoma2006,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:31.563046 
+
+ shoma2006,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.556645 
+
+ shoma2006,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.610561 
+
+ shoma2006,     south afrika,        <Channel name: shadowkekw>,       2024-11-07 10:34:43.304895 
+
+ shoma2006,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.025504 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.414863 
+
+ shoma2006,     au,        <Channel name: shadowkekw>,       2024-11-07 10:35:19.053478 
+
+ shoma2006,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:35:31.968334 
+
+ shoma2006,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:35:56.984445 
+
+ shoma2006,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:05.384287 
+
+ shoma2006,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.857878 
+
+ shoma2006,     th,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.466170 
+
+ shoma2006,     it,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.307998 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:37:05.781888 
+
+ shoma2006,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.876866 
+
+ shoma2006,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.655703 
+
+ shoma2006,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:37:47.617033 
+
+ shoma2006,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.967924 
+
+ shoma2006,     us,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.841404 
+
+ shoma2006,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.826443 
+
+ shoma2006,     au,        <Channel name: shadowkekw>,       2024-11-07 10:38:22.459087 
+
+ shoma2006,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.651883 
+
+ shoma2006,     br,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.912539 
+
+ shoma2006,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:39:06.557454 
+
+ shoma2006,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.666925 
+
+ shoma2006,     lesord ww,        <Channel name: shadowkekw>,       2024-11-07 10:39:18.431297 
+
+ shoma2006,     su,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.997244 
+
+ shoma2006,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.099043 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:39:32.864102 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:00.291980 
+
+ shoma2006,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:40:03.961562 
+
+ shoma2006,     cuil,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.628631 
+
+ shoma2006,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:40:39.589414 
+
+ shoma2006,     br,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.370820 
+
+ shoma2006,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.850981 
+
+ shoma2006,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.524468 
+
+ shoma2006,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:41:48.231675 
+
+ shoma2006,     su,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.273678 
+
+ shoma2006,     au,        <Channel name: shadowkekw>,       2024-11-07 10:42:29.644415 
+
+ shoma2006,     us,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.462054 
+
+ shoma2006,     su,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.388299 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.877807 
+
+ shoma2006,     it,        <Channel name: shadowkekw>,       2024-11-07 10:44:22.008639 
+
+ shoma2006,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.709086 
+
+ shoma2006,     th,        <Channel name: shadowkekw>,       2024-11-07 10:44:34.102717 
+
+ shoma2006,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.513178 
+
+ shoma2006,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:44:48.698814 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.769224 
+
+ shoma2006,     su,        <Channel name: shadowkekw>,       2024-11-07 10:45:07.476671 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 10:47:03.833655 
+
+ shoma2006,     it,        <Channel name: shadowkekw>,       2024-11-07 10:47:21.008873 
+
+ shoma2006,     om,        <Channel name: shadowkekw>,       2024-11-07 10:47:39.219003 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:58.174581 
+
+ shoma2006,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:50:49.766062 
+
+ shoma2006,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:24.665545 
+
+ shoma2006,     cocu,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.848582 
+
+ shoma2006,     co,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.335766 
+
+ shoma2006,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:53:42.899176 
+
+ shoma2006,     es,        <Channel name: shadowkekw>,       2024-11-07 10:55:04.959448 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 10:55:21.289739 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.429491 
+
+ shoma2006,     do,        <Channel name: shadowkekw>,       2024-11-07 10:57:30.960178 
+
+ shoma2006,     dm,        <Channel name: shadowkekw>,       2024-11-07 10:58:41.950837 
+
+ shoma2006,     om,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.339941 
+
+ shoma2006,     do,        <Channel name: shadowkekw>,       2024-11-07 11:05:08.372204 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 11:05:24.872442 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:05:31.602969 
+
+ shoma2006,     es,        <Channel name: shadowkekw>,       2024-11-07 11:05:48.088612 
+
+ shoma2006,     co,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.654681 
+
+ shoma2006,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:06:12.844528 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 11:06:53.806404 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:07:26.640476 
+
+ shoma2006,     br,        <Channel name: shadowkekw>,       2024-11-07 11:07:43.972197 
+
+ shoma2006,     co,        <Channel name: shadowkekw>,       2024-11-07 11:08:12.636133 
+
+ shoma2006,     do,        <Channel name: shadowkekw>,       2024-11-07 11:08:16.555541 
+
+ shoma2006,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:08:49.205347 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 11:08:53.731876 
+
+ shoma2006,     br,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.898514 
+
+ shoma2006,     tunis,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.272825 
+
+ shoma2006,     th,        <Channel name: shadowkekw>,       2024-11-07 11:10:04.764506 
+
+ shoma2006,     za,        <Channel name: shadowkekw>,       2024-11-07 11:10:12.685317 
+
+ shoma2006,     as,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.452964 
+
+ shoma2006,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:11.935008 
+
+ shoma2006,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:23.125929 
+
+ shoma2006,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:11:49.588317 
+
+ shoma2006,     co,        <Channel name: shadowkekw>,       2024-11-07 11:11:53.890500 
+
+ shoma2006,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:11:57.799070 
+
+ shoma2006,     us,        <Channel name: shadowkekw>,       2024-11-07 11:12:14.006229 
+
+ shoma2006,     es,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.496409 
+
+ shoma2006,     th,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.932736 
+
+ shoma2006,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:14:19.873440 
+
+ shoma2006,     clap,        <Channel name: shadowkekw>,       2024-11-07 11:21:42.265209 
+
+ shoma2006,     vo,        <Channel name: shadowkekw>,       2024-11-07 11:21:48.669374 
+
+ shoma2006,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:22:03.573304 
+
+ shoma2006,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:36.378619 
+
+ shoma2006,     -rep )),        <Channel name: shadowkekw>,       2024-11-07 11:23:06.185382 
+
+ shoma2006,     Loodomanych,        <Channel name: shadowkekw>,       2024-11-07 11:24:31.340091 
+
+ shoma2006,     Loodomanych,        <Channel name: shadowkekw>,       2024-11-07 11:24:59.864534 
+
+ shoma2006,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:26.935845 
+
+ shoma2006,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:21.531564 
+
+ shoma2006,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:46.818626 
+
+ shoma2006,     genbycrbt,        <Channel name: shadowkekw>,       2024-11-07 12:21:25.802047 
+
+ shoma2006,     BB,        <Channel name: shadowkekw>,       2024-11-07 12:52:22.015577 

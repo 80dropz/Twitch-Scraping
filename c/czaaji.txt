@@ -1,0 +1,30 @@
+
+ czaaji,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:06:57.783172 
+
+ czaaji,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:19.377811 
+
+ czaaji,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:08:14.937201 
+
+ czaaji,     Russa,        <Channel name: shadowkekw>,       2024-11-07 10:08:43.969979 
+
+ czaaji,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.587359 
+
+ czaaji,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:08.543863 
+
+ czaaji,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:33.601364 
+
+ czaaji,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:39.704246 
+
+ czaaji,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:13:04.930067 
+
+ czaaji,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:14:25.347411 
+
+ czaaji,     New zeland,        <Channel name: shadowkekw>,       2024-11-07 10:14:40.792614 
+
+ czaaji,     China,        <Channel name: shadowkekw>,       2024-11-07 10:15:04.936124 
+
+ czaaji,     vena,        <Channel name: shadowkekw>,       2024-11-07 10:15:28.220824 
+
+ czaaji,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.746317 
+
+ czaaji,     +,        <Channel name: shadowkekw>,       2024-11-07 12:35:06.738998 

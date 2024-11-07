@@ -1,0 +1,24 @@
+
+ dopey_sith,     catJAM,        <Channel name: megalodonvt>,       2024-11-07 11:48:01.729940 
+
+ dopey_sith,     regal,        <Channel name: megalodonvt>,       2024-11-07 11:48:27.324216 
+
+ dopey_sith,     glare,        <Channel name: megalodonvt>,       2024-11-07 11:48:47.869940 
+
+ dopey_sith,     clean,        <Channel name: megalodonvt>,       2024-11-07 11:49:11.812576 
+
+ dopey_sith,     catDisco,        <Channel name: megalodonvt>,       2024-11-07 11:51:13.807803 
+
+ dopey_sith,     jule,        <Channel name: megalodonvt>,       2024-11-07 11:51:37.727670 
+
+ dopey_sith,     glu,        <Channel name: megalodonvt>,       2024-11-07 11:51:41.630943 
+
+ dopey_sith,     glue,        <Channel name: megalodonvt>,       2024-11-07 11:51:46.922460 
+
+ dopey_sith,     juggler,        <Channel name: megalodonvt>,       2024-11-07 11:52:09.607659 
+
+ dopey_sith,     rule,        <Channel name: megalodonvt>,       2024-11-07 11:52:40.172964 
+
+ dopey_sith,     grule,        <Channel name: megalodonvt>,       2024-11-07 11:53:10.225311 
+
+ dopey_sith,     gruel,        <Channel name: megalodonvt>,       2024-11-07 11:53:20.912855 

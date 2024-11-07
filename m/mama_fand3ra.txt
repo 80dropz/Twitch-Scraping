@@ -1,0 +1,46 @@
+
+ mama_fand3ra,     120,        <Channel name: shadowkekw>,       2024-11-07 10:24:34.565780 
+
+ mama_fand3ra,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:05.772651 
+
+ mama_fand3ra,     Nairobi,        <Channel name: shadowkekw>,       2024-11-07 10:29:09.851053 
+
+ mama_fand3ra,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:34:50.708696 
+
+ mama_fand3ra,     Nairobi,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.737594 
+
+ mama_fand3ra,     tk,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.305576 
+
+ mama_fand3ra,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.951221 
+
+ mama_fand3ra,     228,        <Channel name: shadowkekw>,       2024-11-07 10:37:12.595087 
+
+ mama_fand3ra,     tu,        <Channel name: shadowkekw>,       2024-11-07 10:37:58.093114 
+
+ mama_fand3ra,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:02.085759 
+
+ mama_fand3ra,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.877816 
+
+ mama_fand3ra,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.102049 
+
+ mama_fand3ra,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.779933 
+
+ mama_fand3ra,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.173396 
+
+ mama_fand3ra,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:43:00.474529 
+
+ mama_fand3ra,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.228607 
+
+ mama_fand3ra,     se,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.196081 
+
+ mama_fand3ra,     it,        <Channel name: shadowkekw>,       2024-11-07 10:44:43.483513 
+
+ mama_fand3ra,     om,        <Channel name: shadowkekw>,       2024-11-07 10:47:00.949380 
+
+ mama_fand3ra,     NDORRa,        <Channel name: shadowkekw>,       2024-11-07 10:47:51.974304 
+
+ mama_fand3ra,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:52:11.525245 
+
+ mama_fand3ra,     52,        <Channel name: shadowkekw>,       2024-11-07 10:52:51.927943 
+
+ mama_fand3ra,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.698596 

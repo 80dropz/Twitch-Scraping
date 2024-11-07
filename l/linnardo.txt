@@ -8,3 +8,55 @@
  linnardo,     O,        <Channel name: shadowkekw>,       2024-11-07 09:06:39.599653 
 
  linnardo,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:33.654606 
+
+ linnardo,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.584431 
+
+ linnardo,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:49:21.061348 
+
+ linnardo,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.818670 
+
+ linnardo,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.589112 
+
+ linnardo,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:15.942617 
+
+ linnardo,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:54:59.471185 
+
+ linnardo,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.817350 
+
+ linnardo,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:56:59.146652 
+
+ linnardo,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:57:33.954576 
+
+ linnardo,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:58:32.128411 
+
+ linnardo,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:06.703810 
+
+ linnardo,     iran,        <Channel name: shadowkekw>,       2024-11-07 11:01:52.895834 
+
+ linnardo,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:40.894481 
+
+ linnardo,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.223458 
+
+ linnardo,     tr,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.889765 
+
+ linnardo,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:07:04.006204 
+
+ linnardo,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.652572 
+
+ linnardo,     botswana,        <Channel name: shadowkekw>,       2024-11-07 11:08:33.392240 
+
+ linnardo,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:23.784597 
+
+ linnardo,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:10:07.662008 
+
+ linnardo,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:30.488372 
+
+ linnardo,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.423791 
+
+ linnardo,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:11:03.536760 
+
+ linnardo,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:11:50.892673 
+
+ linnardo,     bs,        <Channel name: shadowkekw>,       2024-11-07 11:12:59.323620 
+
+ linnardo,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:15:13.949406 

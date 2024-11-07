@@ -18,3 +18,9 @@
  damnrazza,     Bedge,        <Channel name: clix>,       2024-11-07 02:42:12.583118 
 
  damnrazza,     floppy,        <Channel name: clix>,       2024-11-07 09:13:01.459105 
+
+ damnrazza,     modCheck,        <Channel name: clix>,       2024-11-07 10:14:35.162162 
+
+ damnrazza,     @ViseZd wsg,        <Channel name: clix>,       2024-11-07 10:15:09.720132 
+
+ damnrazza,     @nourrbtw wsg,        <Channel name: clix>,       2024-11-07 10:15:31.622259 

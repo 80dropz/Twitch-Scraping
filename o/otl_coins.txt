@@ -1,2 +1,54 @@
 
  otl_coins,     yhoooooo,        <Channel name: kaicenat>,       2024-11-07 09:42:46.819263 
+
+ otl_coins,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:07.760168 
+
+ otl_coins,     hey,        <Channel name: kaicenat>,       2024-11-07 09:52:09.035171 
+
+ otl_coins,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:37.986568 
+
+ otl_coins,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:54:07.711837 
+
+ otl_coins,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 09:54:39.271198 
+
+ otl_coins,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:58:12.187971 
+
+ otl_coins,     yhoo,        <Channel name: kaicenat>,       2024-11-07 09:58:23.107113 
+
+ otl_coins,     you good,        <Channel name: kaicenat>,       2024-11-07 09:58:27.199582 
+
+ otl_coins,     !roulette 6000,        <Channel name: kaicenat>,       2024-11-07 10:07:12.489143 
+
+ otl_coins,     #reminder @noodles where you at bro.,        <Channel name: kaicenat>,       2024-11-07 10:08:46.623629 
+
+ otl_coins,     #riminder,        <Channel name: kaicenat>,       2024-11-07 10:09:13.979526 
+
+ otl_coins,     #setreminder,        <Channel name: kaicenat>,       2024-11-07 10:09:23.951172 
+
+ otl_coins,     #reminder @amykey yhoo,        <Channel name: kaicenat>,       2024-11-07 10:10:31.924542 
+
+ otl_coins,     !roulette 6000,        <Channel name: kaicenat>,       2024-11-07 10:11:27.405580 
+
+ otl_coins,     !p @amykey,        <Channel name: kaicenat>,       2024-11-07 10:11:50.754786 
+
+ otl_coins,     !time,        <Channel name: kaicenat>,       2024-11-07 11:12:17.171971 
+
+ otl_coins,     !time,        <Channel name: kaicenat>,       2024-11-07 11:15:53.484239 
+
+ otl_coins,     bru,        <Channel name: kaicenat>,       2024-11-07 11:16:20.218429 
+
+ otl_coins,     !time,        <Channel name: kaicenat>,       2024-11-07 11:16:26.901364 
+
+ otl_coins,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 11:17:14.416719 
+
+ otl_coins,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 11:17:56.200862 
+
+ otl_coins,     yho meeeeeeeeeeeeeeeeeeeeeeee,        <Channel name: kaicenat>,       2024-11-07 11:18:10.882452 
+
+ otl_coins,     damn,        <Channel name: kaicenat>,       2024-11-07 11:18:33.248616 
+
+ otl_coins,     damn im sleeping,        <Channel name: kaicenat>,       2024-11-07 11:19:08.046138 
+
+ otl_coins,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 11:21:45.140770 
+
+ otl_coins,     yhooooooooooooooooooooooooo,        <Channel name: kaicenat>,       2024-11-07 11:22:25.632984 

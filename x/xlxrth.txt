@@ -1,0 +1,12 @@
+
+ xlxrth,     KEKW,        <Channel name: lacy>,       2024-11-07 12:28:07.540257 
+
+ xlxrth,     L,        <Channel name: lacy>,       2024-11-07 12:50:27.480767 
+
+ xlxrth,     LLLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:48.355742 
+
+ xlxrth,     LL,        <Channel name: lacy>,       2024-11-07 12:52:56.142152 
+
+ xlxrth,     WW,        <Channel name: lacy>,       2024-11-07 12:54:13.791301 
+
+ xlxrth,     WW,        <Channel name: lacy>,       2024-11-07 12:57:47.319791 

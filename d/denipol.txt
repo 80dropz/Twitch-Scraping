@@ -1,0 +1,12 @@
+
+ denipol,     fact,        <Channel name: shadowkekw>,       2024-11-07 10:05:26.287347 
+
+ denipol,     Insonedia,        <Channel name: shadowkekw>,       2024-11-07 10:07:42.222483 
+
+ denipol,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:34.781577 
+
+ denipol,     Russia /,        <Channel name: shadowkekw>,       2024-11-07 10:08:52.130608 
+
+ denipol,     ww,        <Channel name: shadowkekw>,       2024-11-07 10:08:58.042447 
+
+ denipol,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:09:50.489146 

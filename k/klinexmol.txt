@@ -1,0 +1,64 @@
+
+ klinexmol,     UDA,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.107633 
+
+ klinexmol,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:21:38.246613 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:21:55.485351 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.210024 
+
+ klinexmol,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:23:40.323794 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.722163 
+
+ klinexmol,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:24:25.350466 
+
+ klinexmol,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.922600 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:25:16.621368 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.026733 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:26:59.801386 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.070008 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:28:50.682451 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:28:57.134476 
+
+ klinexmol,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.850318 
+
+ klinexmol,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:29:55.327458 
+
+ klinexmol,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.041214 
+
+ klinexmol,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.086893 
+
+ klinexmol,     mONGOLIA,        <Channel name: shadowkekw>,       2024-11-07 10:31:38.118751 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:33:09.121289 
+
+ klinexmol,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.952342 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:38:03.731963 
+
+ klinexmol,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.202468 
+
+ klinexmol,     France,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.984780 
+
+ klinexmol,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.035029 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.040851 
+
+ klinexmol,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.084561 
+
+ klinexmol,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.810191 
+
+ klinexmol,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:50:06.266055 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:54:40.462915 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:57:01.127420 
+
+ klinexmol,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:07:09.954317 

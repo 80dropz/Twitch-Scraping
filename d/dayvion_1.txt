@@ -2,3 +2,7 @@
  dayvion_1,     !roulette 250,        <Channel name: kaicenat>,       2024-11-07 09:06:26.708361 
 
  dayvion_1,     !roulette 773,        <Channel name: kaicenat>,       2024-11-07 09:06:51.619794 
+
+ dayvion_1,     yooo,        <Channel name: kaicenat>,       2024-11-07 11:17:51.237801 
+
+ dayvion_1,     kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs,        <Channel name: kaicenat>,       2024-11-07 12:13:45.699811 

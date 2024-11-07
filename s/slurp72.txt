@@ -1,0 +1,22 @@
+
+ slurp72,     Riga,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.963461 
+
+ slurp72,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:16:33.657081 
+
+ slurp72,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.428472 
+
+ slurp72,     Indah Suara,        <Channel name: shadowkekw>,       2024-11-07 10:19:15.109461 
+
+ slurp72,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:22:29.817086 
+
+ slurp72,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.673858 
+
+ slurp72,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.409572 
+
+ slurp72,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.945181 
+
+ slurp72,     India,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.962309 
+
+ slurp72,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:24:26.975668 
+
+ slurp72,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.303222 

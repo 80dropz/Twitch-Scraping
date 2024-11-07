@@ -1,0 +1,12 @@
+
+ donker_00_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:07:30.790242 
+
+ donker_00_,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.028317 
+
+ donker_00_,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.705076 
+
+ donker_00_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.651802 
+
+ donker_00_,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.857019 
+
+ donker_00_,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:13:42.347717 

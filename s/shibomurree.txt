@@ -1,0 +1,12 @@
+
+ shibomurree,     !sensz,        <Channel name: mongraal>,       2024-11-07 12:05:44.494643 
+
+ shibomurree,     !sens,        <Channel name: mongraal>,       2024-11-07 12:05:46.865126 
+
+ shibomurree,     !dpi,        <Channel name: mongraal>,       2024-11-07 12:06:08.568084 
+
+ shibomurree,     !scope,        <Channel name: mongraal>,       2024-11-07 12:06:27.014160 
+
+ shibomurree,     !sens,        <Channel name: clix>,       2024-11-07 12:41:11.963879 
+
+ shibomurree,     !dpi,        <Channel name: clix>,       2024-11-07 12:41:33.679745 

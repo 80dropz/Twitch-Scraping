@@ -1,0 +1,6 @@
+
+ akulsats,     unlock at Earth,        <Channel name: kaicenat>,       2024-11-07 10:55:29.080671 
+
+ akulsats,     earthquake,        <Channel name: kaicenat>,       2024-11-07 10:55:39.606553 
+
+ akulsats,     Earthquake,        <Channel name: kaicenat>,       2024-11-07 10:55:54.061266 

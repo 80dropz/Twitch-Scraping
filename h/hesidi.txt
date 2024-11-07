@@ -2,3 +2,21 @@
  hesidi,     ....,        <Channel name: shadowkekw>,       2024-11-07 09:42:42.765543 
 
  hesidi,     Loading,        <Channel name: shadowkekw>,       2024-11-07 09:42:44.261913 
+
+ hesidi,     !vanish,        <Channel name: shadowkekw>,       2024-11-07 09:52:46.761881 
+
+ hesidi,     !vanish !vanish !vanish !vanish !vanish !vanish !vanish !vanish !vanish !vanish !vanish !vanish,        <Channel name: shadowkekw>,       2024-11-07 09:53:00.362216 
+
+ hesidi,     riga,        <Channel name: shadowkekw>,       2024-11-07 10:09:29.700760 
+
+ hesidi,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:09.991474 
+
+ hesidi,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.979940 
+
+ hesidi,     br,        <Channel name: shadowkekw>,       2024-11-07 10:35:58.455473 
+
+ hesidi,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.736073 
+
+ hesidi,     @Dmitry_Lixxx mion,        <Channel name: shadowkekw>,       2024-11-07 10:45:03.210008 
+
+ hesidi,     mion mion,        <Channel name: shadowkekw>,       2024-11-07 12:07:15.831193 

@@ -21,3 +21,5 @@
 
  1b5ive,     rakaii?,        <Channel name: kaicenat>,       2024-11-07 02:11:49.056734 
 >>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
+
+ 1b5ive,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:29.495975 

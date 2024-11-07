@@ -1,0 +1,30 @@
+
+ s3m1xxxx,     italia,        <Channel name: shadowkekw>,       2024-11-07 11:06:12.077009 
+
+ s3m1xxxx,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.659947 
+
+ s3m1xxxx,     mexico,        <Channel name: shadowkekw>,       2024-11-07 11:08:29.272873 
+
+ s3m1xxxx,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:08.084516 
+
+ s3m1xxxx,     mexico,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.199031 
+
+ s3m1xxxx,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.853992 
+
+ s3m1xxxx,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:13:20.376792 
+
+ s3m1xxxx,     mexico,        <Channel name: shadowkekw>,       2024-11-07 11:14:14.671052 
+
+ s3m1xxxx,     MY N,        <Channel name: shadowkekw>,       2024-11-07 11:32:29.567536 
+
+ s3m1xxxx,     Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!!,        <Channel name: kaicenat>,       2024-11-07 11:35:55.318931 
+
+ s3m1xxxx,     Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!!,        <Channel name: kaicenat>,       2024-11-07 11:37:07.271245 
+
+ s3m1xxxx,     RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW,        <Channel name: kaicenat>,       2024-11-07 11:38:34.305946 
+
+ s3m1xxxx,     angel,        <Channel name: shadowkekw>,       2024-11-07 11:40:34.188411 
+
+ s3m1xxxx,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:36.112694 
+
+ s3m1xxxx,     HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi HI PENDOS hi,        <Channel name: shadowkekw>,       2024-11-07 11:56:29.637595 

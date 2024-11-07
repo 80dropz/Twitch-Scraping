@@ -1,0 +1,4 @@
+
+ protein_deficient,     LUL,        <Channel name: kaicenat>,       2024-11-07 10:50:44.454978 
+
+ protein_deficient,     LMAOO,        <Channel name: kaicenat>,       2024-11-07 10:54:20.394051 

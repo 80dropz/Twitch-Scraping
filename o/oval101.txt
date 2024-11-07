@@ -1,0 +1,2 @@
+
+ oval101,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:01:09.132843 

@@ -1,0 +1,12 @@
+
+ r1kkio,     -,        <Channel name: shadowkekw>,       2024-11-07 11:44:09.083768 
+
+ r1kkio,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:23.710493 
+
+ r1kkio,     <3,        <Channel name: shadowkekw>,       2024-11-07 12:01:48.592402 
+
+ r1kkio,     ::,        <Channel name: shadowkekw>,       2024-11-07 12:08:53.384725 
+
+ r1kkio,     ??,        <Channel name: shadowkekw>,       2024-11-07 12:08:55.156435 
+
+ r1kkio,     +,        <Channel name: shadowkekw>,       2024-11-07 12:24:28.026619 

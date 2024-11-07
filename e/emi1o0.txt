@@ -1,0 +1,34 @@
+
+ emi1o0,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.264499 
+
+ emi1o0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:13.069243 
+
+ emi1o0,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.586497 
+
+ emi1o0,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.490912 
+
+ emi1o0,     kuba,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.228337 
+
+ emi1o0,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.307668 
+
+ emi1o0,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:14:35.095004 
+
+ emi1o0,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.173009 
+
+ emi1o0,     urugvay,        <Channel name: shadowkekw>,       2024-11-07 10:18:46.103037 
+
+ emi1o0,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:18:54.300952 
+
+ emi1o0,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:19:10.251059 
+
+ emi1o0,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.749726 
+
+ emi1o0,     kuba,        <Channel name: shadowkekw>,       2024-11-07 10:52:01.879420 
+
+ emi1o0,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.249818 
+
+ emi1o0,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:51.758820 
+
+ emi1o0,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.681747 
+
+ emi1o0,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:58:52.483374 

@@ -1,0 +1,316 @@
+
+ zenkuu0,     china,        <Channel name: shadowkekw>,       2024-11-07 10:07:00.785134 
+
+ zenkuu0,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:07:13.717117 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:08:42.559110 
+
+ zenkuu0,     italY,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.778558 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:09:19.271182 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:09:42.693235 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:04.696091 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:31.952549 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.557868 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:13.929331 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:26.977690 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:49.347416 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.192880 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.418972 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:12:58.324848 
+
+ zenkuu0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:13:18.143644 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:13:40.064198 
+
+ zenkuu0,     kanada,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.068423 
+
+ zenkuu0,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:14:35.136014 
+
+ zenkuu0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:01.469693 
+
+ zenkuu0,     china,        <Channel name: shadowkekw>,       2024-11-07 10:15:19.436689 
+
+ zenkuu0,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.290956 
+
+ zenkuu0,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.809071 
+
+ zenkuu0,     bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:17:14.321455 
+
+ zenkuu0,     france,        <Channel name: shadowkekw>,       2024-11-07 10:17:34.925748 
+
+ zenkuu0,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.899394 
+
+ zenkuu0,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:18:38.497115 
+
+ zenkuu0,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:18:54.273980 
+
+ zenkuu0,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:45.982460 
+
+ zenkuu0,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.457362 
+
+ zenkuu0,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.474665 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:20:45.675462 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.185426 
+
+ zenkuu0,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.138131 
+
+ zenkuu0,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:21:53.288888 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:22:02.603697 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:22:21.889260 
+
+ zenkuu0,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.107416 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.388104 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:22:49.025310 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.712345 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.092026 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:23:30.300747 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.644827 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:24:10.232459 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:24:37.840765 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:25:10.269300 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.578357 
+
+ zenkuu0,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:25:37.619970 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.648853 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:07.821061 
+
+ zenkuu0,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.639100 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:26:35.140742 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.536990 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:27:14.906235 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.459686 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:27:30.956937 
+
+ zenkuu0,     qatarperu,        <Channel name: shadowkekw>,       2024-11-07 10:27:44.047807 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:28:22.388426 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.999823 
+
+ zenkuu0,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.135153 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:29:23.425034 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:26.163699 
+
+ zenkuu0,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.707489 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:29:41.643720 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.431152 
+
+ zenkuu0,     guana,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.461369 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:30:05.263444 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.246209 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:30:29.034182 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.749969 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:30:43.863583 
+
+ zenkuu0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.533821 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.405056 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.208725 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.513242 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.237313 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:32:45.251479 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.524913 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.368850 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:34:01.204866 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.555438 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:34:40.930348 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.012313 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:35:34.347083 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:36:18.972331 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.081572 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:37:16.463402 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:37:31.727192 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.403987 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.314227 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:38:43.291327 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.462877 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:40:12.910087 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:40:38.695761 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.527867 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.371979 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:41:42.130853 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.841136 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.571341 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:42:45.546450 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.197678 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:43:52.081721 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.468600 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.092154 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:45:05.277567 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:45:26.193652 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:45:46.708311 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:46:03.515244 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.442467 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:46:41.555982 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.988926 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:20.214327 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.776692 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:48:04.796191 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.189082 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.182175 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.821397 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:49:08.235821 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:50:26.776167 
+
+ zenkuu0,     Qatar222,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.753727 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.888176 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:51:34.852479 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.166811 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:52:34.367786 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:52:58.154502 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:53:22.021235 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:53:38.077686 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:54:03.691533 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:54:50.080985 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:55:17.808376 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.292346 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.299357 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.326879 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:58:03.745870 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:58:39.905575 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:59:19.817830 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:00:02.946387 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:00:44.759561 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:01:22.441197 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:01:27.822506 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:02:26.857995 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:03:27.867775 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.452352 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:05:23.736243 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:05:46.922584 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:06:24.421122 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:06:49.166962 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:07:26.134614 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:08:11.090998 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:08:48.173310 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:10:03.414673 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:10:48.427728 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:11:45.326607 
+
+ zenkuu0,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:12:08.883262 
+
+ zenkuu0,     qatar,        <Channel name: shadowkekw>,       2024-11-07 11:13:12.587655 
+
+ zenkuu0,     [fhggffg,        <Channel name: shadowkekw>,       2024-11-07 11:53:26.945017 
+
+ zenkuu0,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:47:44.015227 

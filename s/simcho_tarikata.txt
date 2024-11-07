@@ -1,0 +1,2 @@
+
+ simcho_tarikata,     !crosshair,        <Channel name: mongraal>,       2024-11-07 12:08:33.572074 

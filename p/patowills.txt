@@ -1,0 +1,10 @@
+
+ patowills,     …,        <Channel name: lacy>,       2024-11-07 12:46:59.851115 
+
+ patowills,     BYE,        <Channel name: lacy>,       2024-11-07 12:49:09.355170 
+
+ patowills,     IDC BYE,        <Channel name: lacy>,       2024-11-07 12:50:38.890932 
+
+ patowills,     BYE,        <Channel name: lacy>,       2024-11-07 12:50:45.663186 
+
+ patowills,     F OF DESTRUCTION,        <Channel name: lacy>,       2024-11-07 13:31:04.085265 

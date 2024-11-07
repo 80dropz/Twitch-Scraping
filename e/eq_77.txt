@@ -1,0 +1,6 @@
+
+ eq_77,     MILES have you slept anything?,        <Channel name: kaicenat>,       2024-11-07 11:37:57.989263 
+
+ eq_77,     MILES THIRSTY,        <Channel name: kaicenat>,       2024-11-07 11:42:52.106690 
+
+ eq_77,     kaicGimmegold,        <Channel name: kaicenat>,       2024-11-07 11:48:04.961977 

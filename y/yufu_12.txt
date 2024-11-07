@@ -1,0 +1,10 @@
+
+ yufu_12,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:54:47.679885 
+
+ yufu_12,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.746954 
+
+ yufu_12,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:02:25.455499 
+
+ yufu_12,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:04:35.608144 
+
+ yufu_12,     The Republic of South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:15:10.009928 

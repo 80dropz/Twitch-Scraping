@@ -1,0 +1,6 @@
+
+ a7med587,     !coulorblind,        <Channel name: mongraal>,       2024-11-07 10:06:19.083552 
+
+ a7med587,     !colorblind,        <Channel name: mongraal>,       2024-11-07 10:06:33.775750 
+
+ a7med587,     !doublemovement,        <Channel name: mongraal>,       2024-11-07 10:06:56.231195 

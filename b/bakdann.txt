@@ -1,0 +1,6 @@
+
+ bakdann,     !sensd,        <Channel name: mongraal>,       2024-11-07 11:01:10.872723 
+
+ bakdann,     !sens,        <Channel name: mongraal>,       2024-11-07 11:01:13.671408 
+
+ bakdann,     !mouse,        <Channel name: mongraal>,       2024-11-07 11:01:19.325832 

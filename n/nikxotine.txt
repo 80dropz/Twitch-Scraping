@@ -1,0 +1,6 @@
+
+ nikxotine,     WEAK ASF,        <Channel name: lacy>,       2024-11-07 12:44:13.126260 
+
+ nikxotine,     WW,        <Channel name: lacy>,       2024-11-07 13:04:46.550854 
+
+ nikxotine,     hop,        <Channel name: lacy>,       2024-11-07 13:24:12.981890 

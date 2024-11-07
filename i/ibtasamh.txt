@@ -14,3 +14,31 @@
  ibtasamh,     wheres my sub,        <Channel name: mongraal>,       2024-11-07 09:37:36.730185 
 
  ibtasamh,     wwwww,        <Channel name: mongraal>,       2024-11-07 09:37:45.359703 
+
+ ibtasamh,     2 hours or 3 hours mongrall,        <Channel name: mongraal>,       2024-11-07 10:02:04.143002 
+
+ ibtasamh,     !time,        <Channel name: clix>,       2024-11-07 10:07:02.358966 
+
+ ibtasamh,     uhhhhhhh,        <Channel name: clix>,       2024-11-07 10:07:55.643449 
+
+ ibtasamh,     what deja vu,        <Channel name: mongraal>,       2024-11-07 10:58:48.334711 
+
+ ibtasamh,     @NotMarkX fr,        <Channel name: clix>,       2024-11-07 11:31:31.902307 
+
+ ibtasamh,     lol,        <Channel name: clix>,       2024-11-07 11:34:08.112188 
+
+ ibtasamh,     ok,        <Channel name: clix>,       2024-11-07 11:44:23.047214 
+
+ ibtasamh,     cooking,        <Channel name: clix>,       2024-11-07 11:47:00.240309 
+
+ ibtasamh,     kids a savage,        <Channel name: clix>,       2024-11-07 11:55:43.683644 
+
+ ibtasamh,     uh,        <Channel name: clix>,       2024-11-07 11:57:35.063823 
+
+ ibtasamh,     wheres your timer,        <Channel name: clix>,       2024-11-07 13:04:50.943780 
+
+ ibtasamh,     so shes a karen,        <Channel name: clix>,       2024-11-07 13:22:20.416750 
+
+ ibtasamh,     so shes basically a karen clix,        <Channel name: clix>,       2024-11-07 13:23:06.530134 
+
+ ibtasamh,     he said yesterday that he has a special guest so.,        <Channel name: clix>,       2024-11-07 13:24:12.882295 

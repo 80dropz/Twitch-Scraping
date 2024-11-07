@@ -12,3 +12,7 @@
  japanesedenim_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:05:45.579747 
 
  japanesedenim_,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:06:05.269234 
+
+ japanesedenim_,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:05.976960 
+
+ japanesedenim_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:54:17.779401 

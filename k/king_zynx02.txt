@@ -1,0 +1,6 @@
+
+ king_zynx02,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:35:21.307665 
+
+ king_zynx02,     !time,        <Channel name: kaicenat>,       2024-11-07 12:36:17.908695 
+
+ king_zynx02,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:36:33.790315 

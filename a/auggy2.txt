@@ -1,0 +1,18 @@
+
+ auggy2,     180,        <Channel name: kaicenat>,       2024-11-07 12:18:05.981398 
+
+ auggy2,     180,        <Channel name: kaicenat>,       2024-11-07 12:19:00.070966 
+
+ auggy2,     !commands,        <Channel name: kaicenat>,       2024-11-07 12:19:34.432021 
+
+ auggy2,     !follow,        <Channel name: kaicenat>,       2024-11-07 12:21:39.758970 
+
+ auggy2,     !follow time,        <Channel name: kaicenat>,       2024-11-07 12:21:52.208281 
+
+ auggy2,     !height,        <Channel name: kaicenat>,       2024-11-07 12:29:11.889827 
+
+ auggy2,     !watch time,        <Channel name: kaicenat>,       2024-11-07 12:30:22.272728 
+
+ auggy2,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:30:36.658857 
+
+ auggy2,     100,        <Channel name: kaicenat>,       2024-11-07 12:32:49.333755 

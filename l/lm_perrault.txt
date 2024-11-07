@@ -1,0 +1,54 @@
+
+ lm_perrault,     NBP,        <Channel name: kaicenat>,       2024-11-07 12:22:08.716106 
+
+ lm_perrault,     NOC,        <Channel name: kaicenat>,       2024-11-07 12:22:11.962760 
+
+ lm_perrault,     NPC,        <Channel name: kaicenat>,       2024-11-07 12:22:15.541647 
+
+ lm_perrault,     Kaiiiiiiii Wake uppppppppppppppp,        <Channel name: kaicenat>,       2024-11-07 12:23:34.664734 
+
+ lm_perrault,     Wake up,        <Channel name: kaicenat>,       2024-11-07 12:23:44.794351 
+
+ lm_perrault,     Wake up wake up,        <Channel name: kaicenat>,       2024-11-07 12:23:57.927896 
+
+ lm_perrault,     wake up,        <Channel name: kaicenat>,       2024-11-07 12:24:05.182460 
+
+ lm_perrault,     suiiii,        <Channel name: kaicenat>,       2024-11-07 12:24:25.481159 
+
+ lm_perrault,     suiiiiiiii,        <Channel name: kaicenat>,       2024-11-07 12:24:29.424174 
+
+ lm_perrault,     suiii,        <Channel name: kaicenat>,       2024-11-07 12:24:31.432051 
+
+ lm_perrault,     suuii,        <Channel name: kaicenat>,       2024-11-07 12:24:33.231910 
+
+ lm_perrault,     siiii,        <Channel name: kaicenat>,       2024-11-07 12:24:34.476524 
+
+ lm_perrault,     yesss dadddy,        <Channel name: kaicenat>,       2024-11-07 12:24:39.696151 
+
+ lm_perrault,     ouiii,        <Channel name: kaicenat>,       2024-11-07 12:24:41.756850 
+
+ lm_perrault,     papa,        <Channel name: kaicenat>,       2024-11-07 12:24:49.622859 
+
+ lm_perrault,     stop actin myles,        <Channel name: kaicenat>,       2024-11-07 12:25:15.810959 
+
+ lm_perrault,     ww,        <Channel name: kaicenat>,       2024-11-07 12:25:23.332181 
+
+ lm_perrault,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:24.941538 
+
+ lm_perrault,     www,        <Channel name: kaicenat>,       2024-11-07 12:25:25.865384 
+
+ lm_perrault,     wwww,        <Channel name: kaicenat>,       2024-11-07 12:25:27.460668 
+
+ lm_perrault,     www,        <Channel name: kaicenat>,       2024-11-07 12:25:30.108746 
+
+ lm_perrault,     wwww,        <Channel name: kaicenat>,       2024-11-07 12:25:30.886282 
+
+ lm_perrault,     wwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:32.088806 
+
+ lm_perrault,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:35.133985 
+
+ lm_perrault,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:36.883038 
+
+ lm_perrault,     wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:38.687276 
+
+ lm_perrault,     wwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:25:39.962972 

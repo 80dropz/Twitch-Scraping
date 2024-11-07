@@ -1,0 +1,8 @@
+
+ fhrise,     F,        <Channel name: lacy>,       2024-11-07 13:12:14.057675 
+
+ fhrise,     f,        <Channel name: lacy>,       2024-11-07 13:24:47.867029 
+
+ fhrise,     ffff,        <Channel name: lacy>,       2024-11-07 13:25:55.784098 
+
+ fhrise,     FFFFFFFFF,        <Channel name: lacy>,       2024-11-07 13:29:56.725131 

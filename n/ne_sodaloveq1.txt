@@ -1,2 +1,18 @@
 
  ne_sodaloveq1,     o7,        <Channel name: shadowkekw>,       2024-11-07 09:13:50.160059 
+
+ ne_sodaloveq1,     new zieland,        <Channel name: shadowkekw>,       2024-11-07 10:16:51.629932 
+
+ ne_sodaloveq1,     es,        <Channel name: shadowkekw>,       2024-11-07 10:35:51.322971 
+
+ ne_sodaloveq1,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.910927 
+
+ ne_sodaloveq1,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:57.208660 
+
+ ne_sodaloveq1,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:00.440181 
+
+ ne_sodaloveq1,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:40:03.061041 
+
+ ne_sodaloveq1,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:07.319272 
+
+ ne_sodaloveq1,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:40:08.827664 

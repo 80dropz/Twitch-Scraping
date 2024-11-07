@@ -2,3 +2,55 @@
  povik00,     900,        <Channel name: shadowkekw>,       2024-11-07 09:05:44.317375 
 
  povik00,     52,        <Channel name: shadowkekw>,       2024-11-07 09:08:31.416491 
+
+ povik00,     rUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:06:43.258956 
+
+ povik00,     AJapan,        <Channel name: shadowkekw>,       2024-11-07 10:06:58.188646 
+
+ povik00,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:08:59.641470 
+
+ povik00,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.383849 
+
+ povik00,     Egipt,        <Channel name: shadowkekw>,       2024-11-07 10:10:33.406299 
+
+ povik00,     egipt,        <Channel name: shadowkekw>,       2024-11-07 10:11:51.571096 
+
+ povik00,     India,        <Channel name: shadowkekw>,       2024-11-07 10:12:07.986970 
+
+ povik00,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:20.637727 
+
+ povik00,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.467588 
+
+ povik00,     KOREA,        <Channel name: shadowkekw>,       2024-11-07 10:15:06.915656 
+
+ povik00,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.914528 
+
+ povik00,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.471887 
+
+ povik00,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:16:33.793407 
+
+ povik00,     pOLAND,        <Channel name: shadowkekw>,       2024-11-07 10:17:20.549820 
+
+ povik00,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.149667 
+
+ povik00,     Guru,        <Channel name: shadowkekw>,       2024-11-07 10:18:04.843599 
+
+ povik00,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.869668 
+
+ povik00,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:18:22.706031 
+
+ povik00,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:45.694774 
+
+ povik00,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:51.123925 
+
+ povik00,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:20:42.818012 
+
+ povik00,     aFRICA,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.585020 
+
+ povik00,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.233445 
+
+ povik00,     ukrain,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.164130 
+
+ povik00,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:22:05.624649 
+
+ povik00,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:25:09.733139 

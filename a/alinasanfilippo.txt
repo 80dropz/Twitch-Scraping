@@ -1,0 +1,14 @@
+
+ alinasanfilippo,     !points,        <Channel name: kaicenat>,       2024-11-07 10:11:09.859016 
+
+ alinasanfilippo,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:11:20.901174 
+
+ alinasanfilippo,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:11:49.676791 
+
+ alinasanfilippo,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:12:00.672785 
+
+ alinasanfilippo,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:12:44.685897 
+
+ alinasanfilippo,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:14:19.201259 
+
+ alinasanfilippo,     !points,        <Channel name: kaicenat>,       2024-11-07 10:16:24.297798 

@@ -1,0 +1,6 @@
+
+ metamgd,     earthquake???,        <Channel name: kaicenat>,       2024-11-07 12:05:01.965158 
+
+ metamgd,     almost 230k,        <Channel name: kaicenat>,       2024-11-07 12:06:56.230175 
+
+ metamgd,     SUB UPP,        <Channel name: kaicenat>,       2024-11-07 12:08:47.157514 

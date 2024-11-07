@@ -1,0 +1,8 @@
+
+ lexicoengin,     LUL,        <Channel name: kaicenat>,       2024-11-07 11:19:31.465921 
+
+ lexicoengin,     HYDRATE,        <Channel name: kaicenat>,       2024-11-07 11:42:48.626556 
+
+ lexicoengin,     250 wideFireTime,        <Channel name: kaicenat>,       2024-11-07 12:03:12.710794 
+
+ lexicoengin,     MILES spider,        <Channel name: kaicenat>,       2024-11-07 12:09:19.587093 

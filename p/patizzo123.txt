@@ -1,0 +1,6 @@
+
+ patizzo123,     !roulette50,        <Channel name: kaicenat>,       2024-11-07 09:52:13.115736 
+
+ patizzo123,     !roulette100,        <Channel name: kaicenat>,       2024-11-07 09:52:24.554336 
+
+ patizzo123,     !roulette5000,        <Channel name: kaicenat>,       2024-11-07 09:52:39.966467 

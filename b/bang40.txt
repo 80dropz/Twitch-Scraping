@@ -1,0 +1,14 @@
+
+ bang40,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:43:31.798056 
+
+ bang40,     EARTHQUAKE EARTHQUAKE EARTHQUAKE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:43:42.950100 
+
+ bang40,     EARTHQUAKE EARTHQUAKE EARTHQUAKE EARTHQUAKE EARTHQUAKE EARTHQUAKE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:43:46.492173 
+
+ bang40,     EARTHQUAKE  monkaLaugh EARTHQUAKE  monkaLaugh EARTHQUAKE  monkaLaugh EARTHQUAKE  monkaLaugh EARTHQUAKE  monkaLaugh EARTHQUAKE  monkaLaugh,        <Channel name: kaicenat>,       2024-11-07 12:44:17.078862 
+
+ bang40,     EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh,        <Channel name: kaicenat>,       2024-11-07 12:45:54.233611 
+
+ bang40,     EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh EaRTHQUAKE monkaLaugh,        <Channel name: kaicenat>,       2024-11-07 12:46:03.615029 
+
+ bang40,     27,        <Channel name: kaicenat>,       2024-11-07 12:47:37.293556 

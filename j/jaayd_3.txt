@@ -1,0 +1,4 @@
+
+ jaayd_3,     !gamble 250,        <Channel name: kaicenat>,       2024-11-07 12:05:16.759005 
+
+ jaayd_3,     ! commands,        <Channel name: kaicenat>,       2024-11-07 12:05:42.595686 

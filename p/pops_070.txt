@@ -6,3 +6,11 @@
  pops_070,     330?,        <Channel name: kaicenat>,       2024-11-07 09:28:10.550300 
 
  pops_070,     330,        <Channel name: kaicenat>,       2024-11-07 09:28:23.820464 
+
+ pops_070,     W miles,        <Channel name: kaicenat>,       2024-11-07 12:02:13.525571 
+
+ pops_070,     Free miles,        <Channel name: kaicenat>,       2024-11-07 12:22:10.344764 
+
+ pops_070,     KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype,        <Channel name: kaicenat>,       2024-11-07 12:23:06.166571 
+
+ pops_070,     WutFace WutFace,        <Channel name: kaicenat>,       2024-11-07 12:37:49.218735 

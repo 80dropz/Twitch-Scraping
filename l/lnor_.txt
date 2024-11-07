@@ -1,0 +1,12 @@
+
+ lnor_,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.681230 
+
+ lnor_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:47:44.597112 
+
+ lnor_,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.096012 
+
+ lnor_,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.263099 
+
+ lnor_,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.454628 
+
+ lnor_,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.627077 

@@ -1,0 +1,40 @@
+
+ sigmadno112,     BULGARIA,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.119125 
+
+ sigmadno112,     CHILIE,        <Channel name: shadowkekw>,       2024-11-07 10:34:05.180642 
+
+ sigmadno112,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.560813 
+
+ sigmadno112,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.160879 
+
+ sigmadno112,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.944684 
+
+ sigmadno112,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.608459 
+
+ sigmadno112,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:38:06.666871 
+
+ sigmadno112,     bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:38:22.919624 
+
+ sigmadno112,     ARGENTINA,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.672778 
+
+ sigmadno112,     TUNIS,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.026586 
+
+ sigmadno112,     luxembrug,        <Channel name: shadowkekw>,       2024-11-07 10:43:10.782894 
+
+ sigmadno112,     ARGENTINA,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.140401 
+
+ sigmadno112,     TAIWAN,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.023803 
+
+ sigmadno112,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.914671 
+
+ sigmadno112,     bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:45:11.217497 
+
+ sigmadno112,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.769324 
+
+ sigmadno112,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 10:47:03.299824 
+
+ sigmadno112,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:47:21.526004 
+
+ sigmadno112,     bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.897255 
+
+ sigmadno112,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:47:59.540309 

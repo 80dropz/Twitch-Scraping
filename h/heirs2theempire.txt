@@ -1,0 +1,26 @@
+
+ heirs2theempire,     CRASH OUT,        <Channel name: kaicenat>,       2024-11-07 11:11:41.301446 
+
+ heirs2theempire,     !points,        <Channel name: kaicenat>,       2024-11-07 11:15:52.242416 
+
+ heirs2theempire,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 11:16:22.544609 
+
+ heirs2theempire,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:17:07.930986 
+
+ heirs2theempire,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 11:17:23.700565 
+
+ heirs2theempire,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:17:49.762141 
+
+ heirs2theempire,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:20:10.578678 
+
+ heirs2theempire,     !points,        <Channel name: kaicenat>,       2024-11-07 11:20:22.508478 
+
+ heirs2theempire,     !points,        <Channel name: kaicenat>,       2024-11-07 11:30:01.487261 
+
+ heirs2theempire,     !roulette 7,        <Channel name: kaicenat>,       2024-11-07 11:30:22.938222 
+
+ heirs2theempire,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 11:31:09.711790 
+
+ heirs2theempire,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:32:17.263520 
+
+ heirs2theempire,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:34:02.602184 

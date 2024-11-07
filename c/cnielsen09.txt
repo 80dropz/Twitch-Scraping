@@ -1,0 +1,8 @@
+
+ cnielsen09,     !petmax,        <Channel name: nickeh30>,       2024-11-07 10:30:28.621406 
+
+ cnielsen09,     !mouse,        <Channel name: nickeh30>,       2024-11-07 12:25:07.339510 
+
+ cnielsen09,     !commands,        <Channel name: nickeh30>,       2024-11-07 12:25:49.163375 
+
+ cnielsen09,     !petmax,        <Channel name: nickeh30>,       2024-11-07 12:28:06.885264 

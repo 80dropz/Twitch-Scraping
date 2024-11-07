@@ -1,0 +1,24 @@
+
+ edeko333,     l,        <Channel name: kaicenat>,       2024-11-07 10:21:39.497167 
+
+ edeko333,     !gamble 399,        <Channel name: kaicenat>,       2024-11-07 10:24:48.233030 
+
+ edeko333,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 10:25:03.569840 
+
+ edeko333,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:28:15.635853 
+
+ edeko333,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:28:24.188958 
+
+ edeko333,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 10:28:45.714662 
+
+ edeko333,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:29:18.587721 
+
+ edeko333,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:40:59.761361 
+
+ edeko333,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:41:10.145344 
+
+ edeko333,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:41:17.650410 
+
+ edeko333,     !roulette 23,        <Channel name: kaicenat>,       2024-11-07 10:41:31.687372 
+
+ edeko333,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:41:39.671029 

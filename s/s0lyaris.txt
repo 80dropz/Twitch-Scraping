@@ -1,2 +1,88 @@
 
  s0lyaris,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:28.828781 
+
+ s0lyaris,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:12.641207 
+
+ s0lyaris,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.866836 
+
+ s0lyaris,     co,        <Channel name: shadowkekw>,       2024-11-07 10:40:56.205004 
+
+ s0lyaris,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.401983 
+
+ s0lyaris,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:41:33.849357 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:41:38.032075 
+
+ s0lyaris,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:41:57.623831 
+
+ s0lyaris,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:58.964815 
+
+ s0lyaris,     ma',        <Channel name: shadowkekw>,       2024-11-07 10:42:32.596408 
+
+ s0lyaris,     th,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.507335 
+
+ s0lyaris,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.285423 
+
+ s0lyaris,     au,        <Channel name: shadowkekw>,       2024-11-07 10:43:00.070955 
+
+ s0lyaris,     as,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.011182 
+
+ s0lyaris,     bn,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.286290 
+
+ s0lyaris,     th,        <Channel name: shadowkekw>,       2024-11-07 10:45:50.648534 
+
+ s0lyaris,     th,        <Channel name: shadowkekw>,       2024-11-07 10:49:02.827344 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:49:05.298489 
+
+ s0lyaris,     no,        <Channel name: shadowkekw>,       2024-11-07 10:49:50.811307 
+
+ s0lyaris,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.364871 
+
+ s0lyaris,     me,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.285505 
+
+ s0lyaris,     c,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.676031 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:51:01.436228 
+
+ s0lyaris,     za,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.618901 
+
+ s0lyaris,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:51:53.868331 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:52:49.565708 
+
+ s0lyaris,     co,        <Channel name: shadowkekw>,       2024-11-07 10:53:07.878466 
+
+ s0lyaris,     bu,        <Channel name: shadowkekw>,       2024-11-07 10:53:15.135385 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.929915 
+
+ s0lyaris,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.597125 
+
+ s0lyaris,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.426798 
+
+ s0lyaris,     ur,        <Channel name: shadowkekw>,       2024-11-07 10:55:45.876178 
+
+ s0lyaris,     ta,        <Channel name: shadowkekw>,       2024-11-07 10:58:15.782740 
+
+ s0lyaris,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:00:15.905121 
+
+ s0lyaris,     br,        <Channel name: shadowkekw>,       2024-11-07 11:00:35.049379 
+
+ s0lyaris,     zaeb,        <Channel name: shadowkekw>,       2024-11-07 11:01:06.978431 
+
+ s0lyaris,     bg,        <Channel name: shadowkekw>,       2024-11-07 11:03:56.737406 
+
+ s0lyaris,     cr,        <Channel name: shadowkekw>,       2024-11-07 11:05:08.118214 
+
+ s0lyaris,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:14.713145 
+
+ s0lyaris,     Ura,        <Channel name: shadowkekw>,       2024-11-07 11:15:30.155404 
+
+ s0lyaris,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:39.818080 
+
+ s0lyaris,     SHADOW IN THE CHAT WW,        <Channel name: kaicenat>,       2024-11-07 11:23:57.908899 
+
+ s0lyaris,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:34:23.534082 
+
+ s0lyaris,     o7,        <Channel name: shadowkekw>,       2024-11-07 11:36:26.775808 

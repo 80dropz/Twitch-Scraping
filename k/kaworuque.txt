@@ -1,2 +1,22 @@
 
  kaworuque,     1212121,        <Channel name: shadowkekw>,       2024-11-07 09:28:23.025006 
+
+ kaworuque,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:27.338080 
+
+ kaworuque,     india,        <Channel name: shadowkekw>,       2024-11-07 10:14:52.980737 
+
+ kaworuque,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:10:52.013186 
+
+ kaworuque,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:11:01.458497 
+
+ kaworuque,     gr',        <Channel name: shadowkekw>,       2024-11-07 11:11:22.230599 
+
+ kaworuque,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:11:25.557809 
+
+ kaworuque,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.025132 
+
+ kaworuque,     china,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.970510 
+
+ kaworuque,     gb,        <Channel name: shadowkekw>,       2024-11-07 11:14:52.339321 
+
+ kaworuque,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:22.158303 

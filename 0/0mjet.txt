@@ -1,0 +1,12 @@
+
+ 0mjet,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:52:36.960792 
+
+ 0mjet,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:53:26.079910 
+
+ 0mjet,     go,        <Channel name: shadowkekw>,       2024-11-07 10:55:00.736181 
+
+ 0mjet,     shto,        <Channel name: shadowkekw>,       2024-11-07 10:59:20.354751 
+
+ 0mjet,     0,        <Channel name: shadowkekw>,       2024-11-07 11:14:44.228149 
+
+ 0mjet,     dog,        <Channel name: shadowkekw>,       2024-11-07 11:24:01.626541 

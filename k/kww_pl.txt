@@ -1,0 +1,22 @@
+
+ kww_pl,     50000000,        <Channel name: kaicenat>,       2024-11-07 12:42:42.316358 
+
+ kww_pl,     50,        <Channel name: kaicenat>,       2024-11-07 12:43:29.148981 
+
+ kww_pl,     !time,        <Channel name: kaicenat>,       2024-11-07 12:43:42.652825 
+
+ kww_pl,     WWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:47:27.583668 
+
+ kww_pl,     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:47:51.511632 
+
+ kww_pl,     gift 100,        <Channel name: kaicenat>,       2024-11-07 12:49:15.752660 
+
+ kww_pl,     gift 100,        <Channel name: kaicenat>,       2024-11-07 12:59:15.995683 
+
+ kww_pl,     WWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:59:44.192732 
+
+ kww_pl,     this fake af,        <Channel name: kaicenat>,       2024-11-07 13:02:04.375503 
+
+ kww_pl,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:03:43.385955 
+
+ kww_pl,     NOOOOOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:05:15.999016 

@@ -1,0 +1,6 @@
+
+ sniperwest09,     www,        <Channel name: mongraal>,       2024-11-07 09:52:25.905257 
+
+ sniperwest09,     w,        <Channel name: mongraal>,       2024-11-07 09:52:26.977763 
+
+ sniperwest09,     no,        <Channel name: mongraal>,       2024-11-07 12:30:34.813703 

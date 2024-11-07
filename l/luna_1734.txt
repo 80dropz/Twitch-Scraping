@@ -1,0 +1,52 @@
+
+ luna_1734,     india,        <Channel name: shadowkekw>,       2024-11-07 10:07:47.741761 
+
+ luna_1734,     india,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.070946 
+
+ luna_1734,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:18.644136 
+
+ luna_1734,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:41.097507 
+
+ luna_1734,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:42.234785 
+
+ luna_1734,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.379593 
+
+ luna_1734,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.722540 
+
+ luna_1734,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:41:38.436209 
+
+ luna_1734,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:41:54.377882 
+
+ luna_1734,     Syria,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.210321 
+
+ luna_1734,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:42:05.630888 
+
+ luna_1734,     Tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.485898 
+
+ luna_1734,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:42:14.944769 
+
+ luna_1734,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.592448 
+
+ luna_1734,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:42:25.169238 
+
+ luna_1734,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:42:37.315988 
+
+ luna_1734,     Bahrain,,        <Channel name: shadowkekw>,       2024-11-07 10:43:12.998446 
+
+ luna_1734,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:43:16.844249 
+
+ luna_1734,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:43:19.728660 
+
+ luna_1734,     Belize,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.736931 
+
+ luna_1734,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:44:11.097685 
+
+ luna_1734,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:44:15.919461 
+
+ luna_1734,     Burkina Faso,        <Channel name: shadowkekw>,       2024-11-07 10:44:20.708627 
+
+ luna_1734,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.466680 
+
+ luna_1734,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:44:35.647024 
+
+ luna_1734,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:44:39.652494 

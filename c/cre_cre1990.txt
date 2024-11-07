@@ -1,0 +1,6 @@
+
+ cre_cre1990,     !Roulette 360,        <Channel name: kaicenat>,       2024-11-07 12:21:37.938768 
+
+ cre_cre1990,     !Roulette 310,        <Channel name: kaicenat>,       2024-11-07 12:24:33.916354 
+
+ cre_cre1990,     !Roulette 200,        <Channel name: kaicenat>,       2024-11-07 12:27:16.270897 

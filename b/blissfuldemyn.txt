@@ -1,0 +1,40 @@
+
+ blissfuldemyn,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:52:54.275570 
+
+ blissfuldemyn,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:58:40.125437 
+
+ blissfuldemyn,     !gamble 5,        <Channel name: kaicenat>,       2024-11-07 10:03:16.535745 
+
+ blissfuldemyn,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:53.638616 
+
+ blissfuldemyn,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:15:02.700554 
+
+ blissfuldemyn,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 10:16:23.619130 
+
+ blissfuldemyn,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 10:17:48.613894 
+
+ blissfuldemyn,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:18:29.894521 
+
+ blissfuldemyn,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:19:24.053234 
+
+ blissfuldemyn,     !points,        <Channel name: kaicenat>,       2024-11-07 10:20:39.690318 
+
+ blissfuldemyn,     !points,        <Channel name: kaicenat>,       2024-11-07 10:22:28.045976 
+
+ blissfuldemyn,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:22:44.384210 
+
+ blissfuldemyn,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:23:02.367315 
+
+ blissfuldemyn,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:23:29.828839 
+
+ blissfuldemyn,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:24:18.639729 
+
+ blissfuldemyn,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:27:55.132654 
+
+ blissfuldemyn,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:28:21.394954 
+
+ blissfuldemyn,     !gamble 10000,        <Channel name: kaicenat>,       2024-11-07 10:29:58.118380 
+
+ blissfuldemyn,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:33:31.896386 
+
+ blissfuldemyn,     !points,        <Channel name: kaicenat>,       2024-11-07 10:35:30.131309 

@@ -1,0 +1,2 @@
+
+ ovalkite_off,     !time,        <Channel name: kaicenat>,       2024-11-07 12:14:27.536805 

@@ -1,0 +1,8 @@
+
+ gaseqw,     kaicPray kaicPray kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 11:15:30.320033 
+
+ gaseqw,     kaicForhead kaicForhead kaicForhead kaicForhead kaicForhead,        <Channel name: kaicenat>,       2024-11-07 11:16:04.323652 
+
+ gaseqw,     90,        <Channel name: kaicenat>,       2024-11-07 12:34:16.876455 
+
+ gaseqw,     90.,        <Channel name: kaicenat>,       2024-11-07 12:34:28.493789 

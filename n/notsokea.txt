@@ -1,0 +1,10 @@
+
+ notsokea,     !points,        <Channel name: kaicenat>,       2024-11-07 12:16:46.829578 
+
+ notsokea,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 12:17:03.671248 
+
+ notsokea,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 12:17:27.990997 
+
+ notsokea,     !roulette 16,        <Channel name: kaicenat>,       2024-11-07 12:17:55.092623 
+
+ notsokea,     !roulette 32,        <Channel name: kaicenat>,       2024-11-07 12:18:11.689584 

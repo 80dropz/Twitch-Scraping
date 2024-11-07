@@ -1,0 +1,12 @@
+
+ bixboit,     !mouse,        <Channel name: clix>,       2024-11-07 12:14:04.499178 
+
+ bixboit,     its 11,        <Channel name: clix>,       2024-11-07 12:21:35.223171 
+
+ bixboit,     its 11:00,        <Channel name: clix>,       2024-11-07 12:21:46.616164 
+
+ bixboit,     oldest lacy thugs,        <Channel name: lacy>,       2024-11-07 12:26:54.468969 
+
+ bixboit,     l glaze,        <Channel name: lacy>,       2024-11-07 12:35:12.297980 
+
+ bixboit,     oldest lacy veiwers,        <Channel name: lacy>,       2024-11-07 12:44:10.075868 

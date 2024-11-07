@@ -1,0 +1,10 @@
+
+ gagespot,     morning,        <Channel name: nadeshot>,       2024-11-07 11:30:39.471799 
+
+ gagespot,     hey,        <Channel name: nadeshot>,       2024-11-07 12:03:23.222683 
+
+ gagespot,     hey,        <Channel name: nadeshot>,       2024-11-07 12:11:19.872290 
+
+ gagespot,     HEY,        <Channel name: nadeshot>,       2024-11-07 12:16:46.552896 
+
+ gagespot,     poll not needed. the chat has spoken,        <Channel name: nadeshot>,       2024-11-07 12:43:46.728471 

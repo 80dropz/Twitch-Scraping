@@ -14,3 +14,7 @@
  charles_dmx711,     PIN,        <Channel name: kaicenat>,       2024-11-07 02:32:18.170592 
 
  charles_dmx711,     4,        <Channel name: kaicenat>,       2024-11-07 02:40:44.607581 
+
+ charles_dmx711,     TAKE MIC,        <Channel name: kaicenat>,       2024-11-07 13:04:51.421332 
+
+ charles_dmx711,     LMAO,        <Channel name: kaicenat>,       2024-11-07 13:05:54.394894 

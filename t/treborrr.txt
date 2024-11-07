@@ -28,3 +28,103 @@
  treborrr,     boje,        <Channel name: shadowkekw>,       2024-11-07 09:23:10.730903 
 
  treborrr,     ---,        <Channel name: shadowkekw>,       2024-11-07 09:23:18.525854 
+
+ treborrr,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.899009 
+
+ treborrr,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:08:29.357933 
+
+ treborrr,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.647714 
+
+ treborrr,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:09:26.015828 
+
+ treborrr,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:36.320825 
+
+ treborrr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:11:53.821970 
+
+ treborrr,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:22.418647 
+
+ treborrr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:13:02.429203 
+
+ treborrr,     China,        <Channel name: shadowkekw>,       2024-11-07 10:14:13.922826 
+
+ treborrr,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:14:53.339499 
+
+ treborrr,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:15:41.574302 
+
+ treborrr,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.523144 
+
+ treborrr,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.203241 
+
+ treborrr,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.244872 
+
+ treborrr,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:16:27.368493 
+
+ treborrr,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:16:44.994067 
+
+ treborrr,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:16:58.425209 
+
+ treborrr,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:17:35.430419 
+
+ treborrr,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.311596 
+
+ treborrr,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.422256 
+
+ treborrr,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:18:54.931811 
+
+ treborrr,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:19:02.058701 
+
+ treborrr,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.768279 
+
+ treborrr,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.703822 
+
+ treborrr,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:20:36.696431 
+
+ treborrr,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:21:17.210465 
+
+ treborrr,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:21:46.125893 
+
+ treborrr,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:21:54.174121 
+
+ treborrr,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.944652 
+
+ treborrr,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:22:23.428201 
+
+ treborrr,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:22:33.084273 
+
+ treborrr,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:22:38.628963 
+
+ treborrr,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.203867 
+
+ treborrr,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:23:26.461749 
+
+ treborrr,     Saudi Arabia,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.434220 
+
+ treborrr,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.868140 
+
+ treborrr,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:31.875896 
+
+ treborrr,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.116184 
+
+ treborrr,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.162408 
+
+ treborrr,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.747075 
+
+ treborrr,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:29:52.544437 
+
+ treborrr,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.628930 
+
+ treborrr,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.549829 
+
+ treborrr,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.032550 
+
+ treborrr,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:06.845589 
+
+ treborrr,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:31:26.682137 
+
+ treborrr,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.146942 
+
+ treborrr,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.047984 
+
+ treborrr,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:44:16.853340 
+
+ treborrr,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.539001 

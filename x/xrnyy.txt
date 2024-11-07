@@ -1,0 +1,78 @@
+
+ xrnyy,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:22:39.085067 
+
+ xrnyy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.967037 
+
+ xrnyy,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.682759 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.757188 
+
+ xrnyy,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.531755 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.647709 
+
+ xrnyy,     de,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.814823 
+
+ xrnyy,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.672723 
+
+ xrnyy,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:29:09.077614 
+
+ xrnyy,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.878001 
+
+ xrnyy,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:30:57.149822 
+
+ xrnyy,     ko,        <Channel name: shadowkekw>,       2024-11-07 10:31:15.872338 
+
+ xrnyy,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.422115 
+
+ xrnyy,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.717898 
+
+ xrnyy,     br,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.025807 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.457806 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.799956 
+
+ xrnyy,     za,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.608532 
+
+ xrnyy,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:35:42.026946 
+
+ xrnyy,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.400534 
+
+ xrnyy,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.694275 
+
+ xrnyy,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.884255 
+
+ xrnyy,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.220207 
+
+ xrnyy,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.757919 
+
+ xrnyy,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.712986 
+
+ xrnyy,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.501978 
+
+ xrnyy,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:40:12.567894 
+
+ xrnyy,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.099957 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.968092 
+
+ xrnyy,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:42:08.067672 
+
+ xrnyy,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.975926 
+
+ xrnyy,     plus,        <Channel name: shadowkekw>,       2024-11-07 10:42:24.406662 
+
+ xrnyy,     au,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.049072 
+
+ xrnyy,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.652774 
+
+ xrnyy,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:43:58.852763 
+
+ xrnyy,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.254532 
+
+ xrnyy,     co,        <Channel name: shadowkekw>,       2024-11-07 10:45:29.347775 
+
+ xrnyy,     mg,        <Channel name: shadowkekw>,       2024-11-07 10:46:11.785606 
+
+ xrnyy,     co,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.839456 

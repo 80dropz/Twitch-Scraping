@@ -1,0 +1,10 @@
+
+ veliznoob,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:36:25.031624 
+
+ veliznoob,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:36:44.934925 
+
+ veliznoob,     !points,        <Channel name: kaicenat>,       2024-11-07 10:36:54.102891 
+
+ veliznoob,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:37:07.373510 
+
+ veliznoob,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:37:46.511650 

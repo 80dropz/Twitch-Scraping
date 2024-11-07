@@ -1,0 +1,40 @@
+
+ svnero3,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:11:07.750532 
+
+ svnero3,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:14:45.604512 
+
+ svnero3,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:15.100007 
+
+ svnero3,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.389254 
+
+ svnero3,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:17:39.904659 
+
+ svnero3,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:17:44.229187 
+
+ svnero3,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.374626 
+
+ svnero3,     Uae,        <Channel name: shadowkekw>,       2024-11-07 10:21:02.418778 
+
+ svnero3,     france,        <Channel name: shadowkekw>,       2024-11-07 10:21:42.212321 
+
+ svnero3,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:25:24.610812 
+
+ svnero3,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:33.206191 
+
+ svnero3,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:26:04.853928 
+
+ svnero3,     esvatini,        <Channel name: shadowkekw>,       2024-11-07 10:26:30.955196 
+
+ svnero3,     tunis,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.717848 
+
+ svnero3,     timor,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.290808 
+
+ svnero3,     singapore,        <Channel name: shadowkekw>,       2024-11-07 10:28:20.060604 
+
+ svnero3,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:13.220336 
+
+ svnero3,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:17.831903 
+
+ svnero3,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:31:24.516312 
+
+ svnero3,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.166479 

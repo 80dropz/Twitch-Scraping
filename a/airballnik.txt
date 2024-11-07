@@ -1,0 +1,4 @@
+
+ airballnik,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 12:29:00.050790 
+
+ airballnik,     !roulette 519,        <Channel name: kaicenat>,       2024-11-07 12:29:30.553839 

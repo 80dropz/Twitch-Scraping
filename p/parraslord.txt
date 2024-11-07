@@ -1,0 +1,8 @@
+
+ parraslord,     play some zone wars,        <Channel name: mongraal>,       2024-11-07 09:55:46.584715 
+
+ parraslord,     or 11 against pro player,        <Channel name: mongraal>,       2024-11-07 09:55:56.781785 
+
+ parraslord,     leaderboard!,        <Channel name: mongraal>,       2024-11-07 13:11:55.289867 
+
+ parraslord,     !leaderboard,        <Channel name: mongraal>,       2024-11-07 13:12:09.362465 

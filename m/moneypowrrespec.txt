@@ -1,0 +1,2 @@
+
+ moneypowrrespec,     Fixed counter cant see what the number is because of the white background,        <Channel name: kaicenat>,       2024-11-07 09:53:52.603478 

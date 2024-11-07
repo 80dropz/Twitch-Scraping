@@ -1,0 +1,2 @@
+
+ rgt_alpaca,     www pickle,        <Channel name: clix>,       2024-11-07 13:06:04.387756 

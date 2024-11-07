@@ -2,3 +2,7 @@
  mmercy_,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:18:09.187882 
 
  mmercy_,     ???????,        <Channel name: kaicenat>,       2024-11-07 02:18:37.666315 
+
+ mmercy_,     everything,        <Channel name: swagg>,       2024-11-07 12:55:00.803396 
+
+ mmercy_,     lmfaooo,        <Channel name: swagg>,       2024-11-07 12:57:03.123911 

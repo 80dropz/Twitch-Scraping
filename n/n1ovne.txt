@@ -1,0 +1,8 @@
+
+ n1ovne,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:09:32.993313 
+
+ n1ovne,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:15.708017 
+
+ n1ovne,     Norwey,        <Channel name: shadowkekw>,       2024-11-07 10:10:48.079296 
+
+ n1ovne,     OE,        <Channel name: shadowkekw>,       2024-11-07 10:13:47.511545 

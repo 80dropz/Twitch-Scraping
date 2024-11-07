@@ -1,0 +1,12 @@
+
+ adhdmajo,     please gift sub,        <Channel name: kaicenat>,       2024-11-07 09:52:16.649271 
+
+ adhdmajo,     rulet! 100,        <Channel name: kaicenat>,       2024-11-07 09:52:48.338464 
+
+ adhdmajo,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:53:09.389718 
+
+ adhdmajo,     !roulette 208,        <Channel name: kaicenat>,       2024-11-07 09:53:38.533048 
+
+ adhdmajo,     !roulette 100,        <Channel name: mongraal>,       2024-11-07 09:55:04.807214 
+
+ adhdmajo,     !benchpr,        <Channel name: mongraal>,       2024-11-07 09:57:10.420536 

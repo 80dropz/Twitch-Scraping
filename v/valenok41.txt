@@ -1,2 +1,34 @@
 
  valenok41,     <3,        <Channel name: shadowkekw>,       2024-11-07 09:34:27.419246 
+
+ valenok41,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:54.864731 
+
+ valenok41,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:18:02.601834 
+
+ valenok41,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:18:38.310485 
+
+ valenok41,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.250058 
+
+ valenok41,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.553182 
+
+ valenok41,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:20:24.600584 
+
+ valenok41,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.650938 
+
+ valenok41,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:22:22.041399 
+
+ valenok41,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:22:57.294673 
+
+ valenok41,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.920301 
+
+ valenok41,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:24:10.728254 
+
+ valenok41,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.504328 
+
+ valenok41,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:21.411360 
+
+ valenok41,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.687248 
+
+ valenok41,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.183308 
+
+ valenok41,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:27:19.769553 

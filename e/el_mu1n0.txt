@@ -1,0 +1,34 @@
+
+ el_mu1n0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.078122 
+
+ el_mu1n0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.284065 
+
+ el_mu1n0,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.706104 
+
+ el_mu1n0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.462301 
+
+ el_mu1n0,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.156943 
+
+ el_mu1n0,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.653661 
+
+ el_mu1n0,     russua,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.960877 
+
+ el_mu1n0,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.429022 
+
+ el_mu1n0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.165292 
+
+ el_mu1n0,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:26.646409 
+
+ el_mu1n0,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:39:30.541013 
+
+ el_mu1n0,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.035664 
+
+ el_mu1n0,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:44:04.537718 
+
+ el_mu1n0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.663788 
+
+ el_mu1n0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.643770 
+
+ el_mu1n0,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.938814 
+
+ el_mu1n0,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.976731 

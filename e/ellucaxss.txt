@@ -1,0 +1,32 @@
+
+ ellucaxss,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:16.982528 
+
+ ellucaxss,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:18:45.918945 
+
+ ellucaxss,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:18:51.702063 
+
+ ellucaxss,     Hey Miles!,        <Channel name: kaicenat>,       2024-11-07 10:19:11.080586 
+
+ ellucaxss,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:21:24.602874 
+
+ ellucaxss,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:30:27.407036 
+
+ ellucaxss,     s,        <Channel name: kaicenat>,       2024-11-07 10:30:36.682771 
+
+ ellucaxss,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:30:41.568944 
+
+ ellucaxss,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:32:19.528432 
+
+ ellucaxss,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 10:32:34.932089 
+
+ ellucaxss,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:35:13.281677 
+
+ ellucaxss,     !rouletee 10,        <Channel name: kaicenat>,       2024-11-07 10:35:22.401434 
+
+ ellucaxss,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:35:31.625444 
+
+ ellucaxss,     A,        <Channel name: kaicenat>,       2024-11-07 10:35:42.291231 
+
+ ellucaxss,     !ROULETTE 100,        <Channel name: kaicenat>,       2024-11-07 10:35:50.207674 
+
+ ellucaxss,     !ROULETTE 200,        <Channel name: kaicenat>,       2024-11-07 10:35:58.560254 

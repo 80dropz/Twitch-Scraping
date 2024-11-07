@@ -2,3 +2,21 @@
  luffydmonkie,     !time,        <Channel name: kaicenat>,       2024-11-07 09:31:58.298429 
 
  luffydmonkie,     !time,        <Channel name: kaicenat>,       2024-11-07 09:32:40.847637 
+
+ luffydmonkie,     !gamble 10,        <Channel name: kaicenat>,       2024-11-07 10:13:14.203404 
+
+ luffydmonkie,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:13:59.392935 
+
+ luffydmonkie,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:14:33.572975 
+
+ luffydmonkie,     !roulette 13.5,        <Channel name: kaicenat>,       2024-11-07 10:15:12.492238 
+
+ luffydmonkie,     !roulette 20.5,        <Channel name: kaicenat>,       2024-11-07 10:15:43.719054 
+
+ luffydmonkie,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:16:02.224330 
+
+ luffydmonkie,     Hii,        <Channel name: kaicenat>,       2024-11-07 11:49:43.489761 
+
+ luffydmonkie,     5Head 5Head 5Head,        <Channel name: kaicenat>,       2024-11-07 11:52:11.242165 
+
+ luffydmonkie,     BLM BLM BLM BLM,        <Channel name: kaicenat>,       2024-11-07 11:52:41.595246 

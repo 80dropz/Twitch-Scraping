@@ -1,0 +1,22 @@
+
+ relayyyz,     TOKIO,        <Channel name: shadowkekw>,       2024-11-07 10:07:19.868298 
+
+ relayyyz,     ISPANIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.571224 
+
+ relayyyz,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.393898 
+
+ relayyyz,     DERMAK,        <Channel name: shadowkekw>,       2024-11-07 10:08:22.547099 
+
+ relayyyz,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:52.743747 
+
+ relayyyz,     POLAND,        <Channel name: shadowkekw>,       2024-11-07 10:09:36.264746 
+
+ relayyyz,     MOGOLIA,        <Channel name: shadowkekw>,       2024-11-07 10:09:42.950909 
+
+ relayyyz,     HORVATIA,        <Channel name: shadowkekw>,       2024-11-07 10:10:28.223155 
+
+ relayyyz,     DERMAK,        <Channel name: shadowkekw>,       2024-11-07 10:10:30.740783 
+
+ relayyyz,     MONGOL,        <Channel name: shadowkekw>,       2024-11-07 10:10:51.576800 
+
+ relayyyz,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:11:11.063846 

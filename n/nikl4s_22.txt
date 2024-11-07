@@ -1,0 +1,56 @@
+
+ nikl4s_22,     112,        <Channel name: kaicenat>,       2024-11-07 12:31:09.527057 
+
+ nikl4s_22,     112!,        <Channel name: kaicenat>,       2024-11-07 12:31:20.742295 
+
+ nikl4s_22,     108,        <Channel name: kaicenat>,       2024-11-07 12:31:31.066997 
+
+ nikl4s_22,     108!,        <Channel name: kaicenat>,       2024-11-07 12:31:38.187677 
+
+ nikl4s_22,     108,        <Channel name: kaicenat>,       2024-11-07 12:31:44.532760 
+
+ nikl4s_22,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:32:58.355809 
+
+ nikl4s_22,     96,        <Channel name: kaicenat>,       2024-11-07 12:33:03.539163 
+
+ nikl4s_22,     96!,        <Channel name: kaicenat>,       2024-11-07 12:33:09.097239 
+
+ nikl4s_22,     95,        <Channel name: kaicenat>,       2024-11-07 12:33:15.940531 
+
+ nikl4s_22,     84,        <Channel name: kaicenat>,       2024-11-07 12:35:47.063591 
+
+ nikl4s_22,     78,        <Channel name: kaicenat>,       2024-11-07 12:36:59.797245 
+
+ nikl4s_22,     83,        <Channel name: kaicenat>,       2024-11-07 12:38:34.600275 
+
+ nikl4s_22,     73,        <Channel name: kaicenat>,       2024-11-07 12:39:26.827491 
+
+ nikl4s_22,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:33.576517 
+
+ nikl4s_22,     45,        <Channel name: kaicenat>,       2024-11-07 12:45:07.222833 
+
+ nikl4s_22,     40,        <Channel name: kaicenat>,       2024-11-07 12:45:44.400536 
+
+ nikl4s_22,     35,        <Channel name: kaicenat>,       2024-11-07 12:46:45.693173 
+
+ nikl4s_22,     34,        <Channel name: kaicenat>,       2024-11-07 12:47:04.166520 
+
+ nikl4s_22,     28,        <Channel name: kaicenat>,       2024-11-07 12:47:18.997667 
+
+ nikl4s_22,     wwwwwwwwwwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:47:59.537452 
+
+ nikl4s_22,     wwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:49:13.512695 
+
+ nikl4s_22,     wwwwwwwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 12:49:27.077912 
+
+ nikl4s_22,     230k,        <Channel name: kaicenat>,       2024-11-07 12:49:42.209645 
+
+ nikl4s_22,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:50:34.467972 
+
+ nikl4s_22,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:52:36.693511 
+
+ nikl4s_22,     W230k,        <Channel name: kaicenat>,       2024-11-07 12:53:04.701777 
+
+ nikl4s_22,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:53:39.767960 
+
+ nikl4s_22,     scam,        <Channel name: kaicenat>,       2024-11-07 12:53:54.103087 

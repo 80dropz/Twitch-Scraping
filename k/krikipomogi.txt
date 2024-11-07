@@ -1,0 +1,120 @@
+
+ krikipomogi,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:06.263020 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:41.469755 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.620958 
+
+ krikipomogi,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.676162 
+
+ krikipomogi,     lesoto,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.958249 
+
+ krikipomogi,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:14.943664 
+
+ krikipomogi,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:28.990530 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:18:58.733297 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:19:13.564893 
+
+ krikipomogi,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:37.777680 
+
+ krikipomogi,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:53.042989 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.865561 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:15.161041 
+
+ krikipomogi,     maldives,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.064369 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:24:27.974882 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.565893 
+
+ krikipomogi,     united kindom,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.415735 
+
+ krikipomogi,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.162087 
+
+ krikipomogi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.726638 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.964100 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.893252 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.213543 
+
+ krikipomogi,     guam,        <Channel name: shadowkekw>,       2024-11-07 10:29:13.059123 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.477526 
+
+ krikipomogi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:33.787292 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.032835 
+
+ krikipomogi,     kazahstan,        <Channel name: shadowkekw>,       2024-11-07 10:30:14.250560 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.881651 
+
+ krikipomogi,     united states,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.977633 
+
+ krikipomogi,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.610061 
+
+ krikipomogi,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.135743 
+
+ krikipomogi,     lessotho,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.745975 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:32:26.592256 
+
+ krikipomogi,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.118768 
+
+ krikipomogi,     guam,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.257196 
+
+ krikipomogi,     united states,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.247834 
+
+ krikipomogi,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.042337 
+
+ krikipomogi,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.201317 
+
+ krikipomogi,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.675879 
+
+ krikipomogi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:34:59.958965 
+
+ krikipomogi,     kazahstan,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.386183 
+
+ krikipomogi,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.628141 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:37:07.688544 
+
+ krikipomogi,     rusiisa,        <Channel name: shadowkekw>,       2024-11-07 10:37:25.958146 
+
+ krikipomogi,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:37:42.921239 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.667228 
+
+ krikipomogi,     guam,        <Channel name: shadowkekw>,       2024-11-07 10:38:37.495048 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:38:49.631336 
+
+ krikipomogi,     iraland,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.375874 
+
+ krikipomogi,     czech republic,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.710761 
+
+ krikipomogi,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:40:02.199741 
+
+ krikipomogi,     lessotho,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.869532 
+
+ krikipomogi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:40:26.908035 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:40:45.188497 
+
+ krikipomogi,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:41:00.903384 
+
+ krikipomogi,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:15.642234 
+
+ krikipomogi,     brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.013302 
+
+ krikipomogi,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:42:24.531786 
+
+ krikipomogi,     kenya canada,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.235589 
+
+ krikipomogi,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.611545 

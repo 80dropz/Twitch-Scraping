@@ -1,0 +1,6 @@
+
+ cat0_p3s,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:18:36.584254 
+
+ cat0_p3s,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.490464 
+
+ cat0_p3s,     322,        <Channel name: shadowkekw>,       2024-11-07 10:21:02.040284 

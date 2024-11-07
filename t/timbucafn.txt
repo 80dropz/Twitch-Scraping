@@ -1,0 +1,6 @@
+
+ timbucafn,     yes,        <Channel name: mongraal>,       2024-11-07 10:19:08.399476 
+
+ timbucafn,     When will you do the gym stream,        <Channel name: mongraal>,       2024-11-07 10:26:17.616866 
+
+ timbucafn,     !delay,        <Channel name: mongraal>,       2024-11-07 12:26:49.341789 

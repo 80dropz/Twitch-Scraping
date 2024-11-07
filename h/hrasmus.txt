@@ -1,0 +1,32 @@
+
+ hrasmus,     pike,        <Channel name: megalodonvt>,       2024-11-07 11:27:08.547350 
+
+ hrasmus,     decided,        <Channel name: megalodonvt>,       2024-11-07 11:28:13.737279 
+
+ hrasmus,     admire,        <Channel name: megalodonvt>,       2024-11-07 11:32:44.442446 
+
+ hrasmus,     gird,        <Channel name: megalodonvt>,       2024-11-07 11:34:05.644367 
+
+ hrasmus,     magi,        <Channel name: megalodonvt>,       2024-11-07 11:34:20.658757 
+
+ hrasmus,     coop,        <Channel name: megalodonvt>,       2024-11-07 11:35:57.771183 
+
+ hrasmus,     cord,        <Channel name: megalodonvt>,       2024-11-07 11:36:08.353325 
+
+ hrasmus,     coke,        <Channel name: megalodonvt>,       2024-11-07 11:38:49.724739 
+
+ hrasmus,     lice,        <Channel name: megalodonvt>,       2024-11-07 11:41:05.899809 
+
+ hrasmus,     liced,        <Channel name: megalodonvt>,       2024-11-07 11:41:47.754230 
+
+ hrasmus,     faze,        <Channel name: megalodonvt>,       2024-11-07 11:44:18.253216 
+
+ hrasmus,     fate,        <Channel name: megalodonvt>,       2024-11-07 11:44:31.391063 
+
+ hrasmus,     taze,        <Channel name: megalodonvt>,       2024-11-07 11:45:26.153490 
+
+ hrasmus,     clear,        <Channel name: megalodonvt>,       2024-11-07 11:46:47.993415 
+
+ hrasmus,     glare,        <Channel name: megalodonvt>,       2024-11-07 11:47:17.638978 
+
+ hrasmus,     greet,        <Channel name: megalodonvt>,       2024-11-07 11:48:06.705510 

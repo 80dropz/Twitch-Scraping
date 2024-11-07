@@ -1,0 +1,80 @@
+
+ cklever,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:39:50.996047 
+
+ cklever,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.781917 
+
+ cklever,     in,        <Channel name: shadowkekw>,       2024-11-07 10:41:07.025017 
+
+ cklever,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.893634 
+
+ cklever,     my,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.085865 
+
+ cklever,     au,        <Channel name: shadowkekw>,       2024-11-07 10:42:47.208781 
+
+ cklever,     gw,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.228352 
+
+ cklever,     eq,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.093374 
+
+ cklever,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.162845 
+
+ cklever,     bw,        <Channel name: shadowkekw>,       2024-11-07 10:45:10.771451 
+
+ cklever,     au,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.023960 
+
+ cklever,     mk,        <Channel name: shadowkekw>,       2024-11-07 10:46:51.451454 
+
+ cklever,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:47:10.088986 
+
+ cklever,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.216626 
+
+ cklever,     ]fr,        <Channel name: shadowkekw>,       2024-11-07 10:47:42.785752 
+
+ cklever,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.331192 
+
+ cklever,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.403263 
+
+ cklever,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:49:00.324371 
+
+ cklever,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:49:14.005165 
+
+ cklever,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.228913 
+
+ cklever,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.572682 
+
+ cklever,     in,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.295984 
+
+ cklever,     co,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.426175 
+
+ cklever,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:53:04.625738 
+
+ cklever,     kn,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.136168 
+
+ cklever,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:54:24.879504 
+
+ cklever,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:55:41.642476 
+
+ cklever,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.720931 
+
+ cklever,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:56:29.022250 
+
+ cklever,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.568444 
+
+ cklever,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:58:07.130063 
+
+ cklever,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:58:56.966532 
+
+ cklever,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:59:51.744751 
+
+ cklever,     macao,        <Channel name: shadowkekw>,       2024-11-07 11:00:55.660973 
+
+ cklever,     bw,        <Channel name: shadowkekw>,       2024-11-07 11:01:48.328979 
+
+ cklever,     is,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.435608 
+
+ cklever,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.730128 
+
+ cklever,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:13:22.061623 
+
+ cklever,     columbia,        <Channel name: shadowkekw>,       2024-11-07 11:13:26.417540 
+
+ cklever,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:14:28.803393 

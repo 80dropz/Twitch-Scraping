@@ -1,0 +1,12 @@
+
+ sage_999v,     230,        <Channel name: kaicenat>,       2024-11-07 12:30:22.758879 
+
+ sage_999v,     240,        <Channel name: kaicenat>,       2024-11-07 12:30:35.334530 
+
+ sage_999v,     340,        <Channel name: kaicenat>,       2024-11-07 12:30:38.225168 
+
+ sage_999v,     230,        <Channel name: kaicenat>,       2024-11-07 12:30:40.754185 
+
+ sage_999v,     230,        <Channel name: kaicenat>,       2024-11-07 12:31:23.381831 
+
+ sage_999v,     230,        <Channel name: kaicenat>,       2024-11-07 12:32:14.402307 

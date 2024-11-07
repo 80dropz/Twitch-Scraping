@@ -12,3 +12,15 @@
  onethetwitch,     W STREAM,        <Channel name: caseoh_>,       2024-11-07 01:56:55.951628 
 
  onethetwitch,     W CASEOH,        <Channel name: caseoh_>,       2024-11-07 01:57:05.554597 
+
+ onethetwitch,     AYE KAI IS GONNA WAKE UP,        <Channel name: kaicenat>,       2024-11-07 12:12:37.974359 
+
+ onethetwitch,     caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy,        <Channel name: kaicenat>,       2024-11-07 12:14:02.837391 
+
+ onethetwitch,     caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy,        <Channel name: kaicenat>,       2024-11-07 12:14:52.168194 
+
+ onethetwitch,     caseohKittyyy caseohKittyyy caseohKittyyy,        <Channel name: kaicenat>,       2024-11-07 12:15:40.256330 
+
+ onethetwitch,     caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy caseohKittyyy,        <Channel name: kaicenat>,       2024-11-07 12:16:45.275804 
+
+ onethetwitch,     caseohWiijams caseohWiijams caseohWiijams caseohWiijams caseohWiijams caseohWiijams caseohWiijams caseohWiijams caseohWiijams,        <Channel name: kaicenat>,       2024-11-07 12:16:48.732861 

@@ -1,0 +1,12 @@
+
+ evanc20000,     ranked play drops the 21st,        <Channel name: nadeshot>,       2024-11-07 13:06:03.026085 
+
+ evanc20000,     ranked on the 21st,        <Channel name: nadeshot>,       2024-11-07 13:06:36.503881 
+
+ evanc20000,     ranked drops 21st,        <Channel name: nadeshot>,       2024-11-07 13:07:09.428788 
+
+ evanc20000,     ranked play drops 21st,        <Channel name: nadeshot>,       2024-11-07 13:11:16.974179 
+
+ evanc20000,     ranked play the 21st,        <Channel name: nadeshot>,       2024-11-07 13:17:38.453166 
+
+ evanc20000,     RANKED PLAY ON THE 21ST,        <Channel name: nadeshot>,       2024-11-07 13:20:04.512305 

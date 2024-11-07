@@ -6,3 +6,7 @@
  capupdate,     yess,        <Channel name: kaicenat>,       2024-11-07 09:39:29.869007 
 
  capupdate,     kaicCryscared kaicCryscared kaicCryscared kaicCryscared kaicCryscared kaicCryscared kaicCryscared,        <Channel name: kaicenat>,       2024-11-07 09:40:09.077257 
+
+ capupdate,     gife me one pplsss,        <Channel name: kaicenat>,       2024-11-07 09:55:21.781689 
+
+ capupdate,     kaicCryscared kaicCryscared,        <Channel name: kaicenat>,       2024-11-07 09:55:46.817735 

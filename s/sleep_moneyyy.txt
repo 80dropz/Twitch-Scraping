@@ -14,3 +14,9 @@
  sleep_moneyyy,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:41:56.985451 
 
  sleep_moneyyy,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:44:03.885128 
+
+ sleep_moneyyy,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:49.781577 
+
+ sleep_moneyyy,     )),        <Channel name: shadowkekw>,       2024-11-07 09:56:22.779823 
+
+ sleep_moneyyy,     )),        <Channel name: shadowkekw>,       2024-11-07 10:04:00.751327 

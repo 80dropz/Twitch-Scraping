@@ -6,3 +6,19 @@
  denyiai,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:32.441520 
 
  denyiai,     DAMN,        <Channel name: kaicenat>,       2024-11-07 02:38:45.442478 
+
+ denyiai,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:08.378396 
+
+ denyiai,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:30.692491 
+
+ denyiai,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:54.239920 
+
+ denyiai,     uuh,        <Channel name: lacy>,       2024-11-07 12:27:35.998998 
+
+ denyiai,     uuh,        <Channel name: lacy>,       2024-11-07 12:34:51.603301 
+
+ denyiai,     uuh,        <Channel name: lacy>,       2024-11-07 12:46:54.285160 
+
+ denyiai,     WW,        <Channel name: kaicenat>,       2024-11-07 12:59:48.808159 
+
+ denyiai,     gg,        <Channel name: lacy>,       2024-11-07 13:19:22.392209 

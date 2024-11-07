@@ -2,3 +2,65 @@
  dark_bon_,     wow,        <Channel name: shadowkekw>,       2024-11-07 09:37:04.887753 
 
  dark_bon_,     o,        <Channel name: shadowkekw>,       2024-11-07 09:39:04.588445 
+
+ dark_bon_,     CANADA,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.160480 
+
+ dark_bon_,     POLSKA,        <Channel name: shadowkekw>,       2024-11-07 10:10:45.668799 
+
+ dark_bon_,     UKRAINE,        <Channel name: shadowkekw>,       2024-11-07 10:16:34.732383 
+
+ dark_bon_,     BRITAN,        <Channel name: shadowkekw>,       2024-11-07 10:21:35.875882 
+
+ dark_bon_,     CHINA,        <Channel name: shadowkekw>,       2024-11-07 10:28:03.687391 
+
+ dark_bon_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:55.949341 
+
+ dark_bon_,     paris,        <Channel name: shadowkekw>,       2024-11-07 10:31:48.229336 
+
+ dark_bon_,     cnina,        <Channel name: shadowkekw>,       2024-11-07 10:32:31.526638 
+
+ dark_bon_,     gemany,        <Channel name: shadowkekw>,       2024-11-07 10:35:45.993508 
+
+ dark_bon_,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:55.190653 
+
+ dark_bon_,     polska,        <Channel name: shadowkekw>,       2024-11-07 10:36:36.208986 
+
+ dark_bon_,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:25.495036 
+
+ dark_bon_,     us,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.226103 
+
+ dark_bon_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:33.764207 
+
+ dark_bon_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:45:40.152487 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.149025 
+
+ dark_bon_,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:46:52.249842 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:49:14.094112 
+
+ dark_bon_,     honduras,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.590504 
+
+ dark_bon_,     honduras,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.931378 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:56:01.039053 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:57:11.594146 
+
+ dark_bon_,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:57:55.545368 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:58:30.429330 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:59:27.887949 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:00:11.914757 
+
+ dark_bon_,     honduras,        <Channel name: shadowkekw>,       2024-11-07 11:01:54.221732 
+
+ dark_bon_,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:07:51.058464 
+
+ dark_bon_,     moroco,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.657649 
+
+ dark_bon_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:11:12.939995 
+
+ dark_bon_,     france,        <Channel name: shadowkekw>,       2024-11-07 11:14:28.585132 

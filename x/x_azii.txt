@@ -1,0 +1,8 @@
+
+ x_azii,     how is your day,        <Channel name: mongraal>,       2024-11-07 09:55:01.717662 
+
+ x_azii,     no you are,        <Channel name: mongraal>,       2024-11-07 11:28:01.972470 
+
+ x_azii,     no,        <Channel name: mongraal>,       2024-11-07 11:41:58.046398 
+
+ x_azii,     he got 16th @Mongraal,        <Channel name: mongraal>,       2024-11-07 11:43:46.799541 

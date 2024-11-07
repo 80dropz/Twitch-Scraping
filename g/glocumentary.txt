@@ -1,0 +1,8 @@
+
+ glocumentary,     kaicNOTE,        <Channel name: kaicenat>,       2024-11-07 11:52:30.883558 
+
+ glocumentary,     AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 11:52:48.105793 
+
+ glocumentary,     kaicNOTE kaicNOTE kaicNOTE kaicNOTE,        <Channel name: kaicenat>,       2024-11-07 11:52:59.204228 
+
+ glocumentary,     kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE kaicNOTE,        <Channel name: kaicenat>,       2024-11-07 11:53:17.618266 

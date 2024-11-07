@@ -1,0 +1,4 @@
+
+ remainbold,     Earthquake,        <Channel name: kaicenat>,       2024-11-07 10:55:14.456534 
+
+ remainbold,     Yuno Miles?,        <Channel name: kaicenat>,       2024-11-07 11:18:50.673130 

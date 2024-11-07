@@ -1,0 +1,20 @@
+
+ fange17,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:19.336910 
+
+ fange17,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:39:43.985867 
+
+ fange17,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.678758 
+
+ fange17,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.334639 
+
+ fange17,     af,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.257778 
+
+ fange17,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.676208 
+
+ fange17,     in,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.926384 
+
+ fange17,     arg,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.618913 
+
+ fange17,     af,        <Channel name: shadowkekw>,       2024-11-07 10:43:25.079541 
+
+ fange17,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.768562 

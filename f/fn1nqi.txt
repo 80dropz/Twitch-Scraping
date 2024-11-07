@@ -1,0 +1,18 @@
+
+ fn1nqi,     Norwey,        <Channel name: shadowkekw>,       2024-11-07 10:25:04.756985 
+
+ fn1nqi,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:59.487276 
+
+ fn1nqi,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.561738 
+
+ fn1nqi,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:28:16.812436 
+
+ fn1nqi,     France,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.913044 
+
+ fn1nqi,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.341607 
+
+ fn1nqi,     Laos\,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.026875 
+
+ fn1nqi,     rUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:30:57.315475 
+
+ fn1nqi,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.183894 

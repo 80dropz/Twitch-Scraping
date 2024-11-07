@@ -1,0 +1,6 @@
+
+ rxchtray,     W230,        <Channel name: kaicenat>,       2024-11-07 12:53:12.318755 
+
+ rxchtray,     w 230,        <Channel name: kaicenat>,       2024-11-07 12:53:18.628539 
+
+ rxchtray,     230,        <Channel name: kaicenat>,       2024-11-07 12:53:35.308389 

@@ -1,0 +1,32 @@
+
+ cocokokoc,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.621302 
+
+ cocokokoc,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:29:38.709859 
+
+ cocokokoc,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:30:44.035099 
+
+ cocokokoc,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:50:22.523379 
+
+ cocokokoc,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.919019 
+
+ cocokokoc,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.501166 
+
+ cocokokoc,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.728839 
+
+ cocokokoc,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:52:31.385074 
+
+ cocokokoc,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:53:53.913178 
+
+ cocokokoc,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:14.196994 
+
+ cocokokoc,     england,        <Channel name: shadowkekw>,       2024-11-07 10:59:17.949802 
+
+ cocokokoc,     us,        <Channel name: shadowkekw>,       2024-11-07 11:02:17.725218 
+
+ cocokokoc,     dr,        <Channel name: shadowkekw>,       2024-11-07 11:12:58.231930 
+
+ cocokokoc,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:13:05.258303 
+
+ cocokokoc,     po,        <Channel name: shadowkekw>,       2024-11-07 11:13:09.566528 
+
+ cocokokoc,     sk,        <Channel name: shadowkekw>,       2024-11-07 11:15:21.572603 

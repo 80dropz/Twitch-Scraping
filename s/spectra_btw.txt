@@ -1,0 +1,22 @@
+
+ spectra_btw,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:48:18.125976 
+
+ spectra_btw,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:48:37.617342 
+
+ spectra_btw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.322918 
+
+ spectra_btw,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:49:43.883847 
+
+ spectra_btw,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.029152 
+
+ spectra_btw,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.776721 
+
+ spectra_btw,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:54:36.521342 
+
+ spectra_btw,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:55:01.719380 
+
+ spectra_btw,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:31.906579 
+
+ spectra_btw,     dr,        <Channel name: shadowkekw>,       2024-11-07 11:00:38.272188 
+
+ spectra_btw,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:19.661719 

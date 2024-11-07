@@ -1,0 +1,4 @@
+
+ wrax24,     !trio,        <Channel name: clix>,       2024-11-07 13:11:13.013103 
+
+ wrax24,     grotto,        <Channel name: clix>,       2024-11-07 13:14:01.920489 

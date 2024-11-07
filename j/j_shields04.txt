@@ -2,3 +2,9 @@
  j_shields04,     old clix tages,        <Channel name: clix>,       2024-11-07 02:45:22.621411 
 
  j_shields04,     old clix tages,        <Channel name: clix>,       2024-11-07 02:46:12.276929 
+
+ j_shields04,     how much time was on the timer when he went to sleep?,        <Channel name: clix>,       2024-11-07 12:38:27.202273 
+
+ j_shields04,     so how many trio cups are you missing?,        <Channel name: clix>,       2024-11-07 13:09:13.306555 
+
+ j_shields04,     how many trio cups are you missing @clix,        <Channel name: clix>,       2024-11-07 13:15:50.287946 

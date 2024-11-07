@@ -2,3 +2,19 @@
  kehouk,     !game,        <Channel name: kaicenat>,       2024-11-07 09:23:51.527501 
 
  kehouk,     ??,        <Channel name: kaicenat>,       2024-11-07 09:29:03.983875 
+
+ kehouk,     yo,        <Channel name: kaicenat>,       2024-11-07 11:51:01.260041 
+
+ kehouk,     Yo,        <Channel name: kaicenat>,       2024-11-07 11:51:03.682040 
+
+ kehouk,     Yo,        <Channel name: kaicenat>,       2024-11-07 11:51:07.541545 
+
+ kehouk,     !roulette 1k,        <Channel name: kaicenat>,       2024-11-07 11:51:17.243049 
+
+ kehouk,     !p,        <Channel name: kaicenat>,       2024-11-07 11:51:25.266015 
+
+ kehouk,     !roulette 10k,        <Channel name: kaicenat>,       2024-11-07 11:55:13.089335 
+
+ kehouk,     !roulette  10k,        <Channel name: kaicenat>,       2024-11-07 11:55:20.470626 
+
+ kehouk,     !roulette 20k,        <Channel name: kaicenat>,       2024-11-07 11:55:32.114618 

@@ -1,0 +1,32 @@
+
+ adil005,     PauseChamp,        <Channel name: kaicenat>,       2024-11-07 12:15:41.858731 
+
+ adil005,     PauseChamp 198,        <Channel name: kaicenat>,       2024-11-07 12:15:52.007661 
+
+ adil005,     PauseChamp 197,        <Channel name: kaicenat>,       2024-11-07 12:16:04.287458 
+
+ adil005,     PauseChamp 197,        <Channel name: kaicenat>,       2024-11-07 12:16:10.631115 
+
+ adil005,     PauseChamp 196,        <Channel name: kaicenat>,       2024-11-07 12:16:19.141695 
+
+ adil005,     HUH,        <Channel name: kaicenat>,       2024-11-07 12:16:29.138437 
+
+ adil005,     PauseChamp 196,        <Channel name: kaicenat>,       2024-11-07 12:16:36.564425 
+
+ adil005,     PauseChamp 195,        <Channel name: kaicenat>,       2024-11-07 12:16:43.262415 
+
+ adil005,     PauseChamp 194,        <Channel name: kaicenat>,       2024-11-07 12:16:57.549807 
+
+ adil005,     PauseChamp 175,        <Channel name: kaicenat>,       2024-11-07 12:19:15.457897 
+
+ adil005,     PauseChamp 175,        <Channel name: kaicenat>,       2024-11-07 12:19:28.126782 
+
+ adil005,     PauseChamp 30,        <Channel name: kaicenat>,       2024-11-07 12:39:17.853871 
+
+ adil005,     PauseChamp 70,        <Channel name: kaicenat>,       2024-11-07 12:39:41.828850 
+
+ adil005,     an,        <Channel name: kaicenat>,       2024-11-07 12:40:50.971005 
+
+ adil005,     FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE  FAKE,        <Channel name: kaicenat>,       2024-11-07 13:01:38.069986 
+
+ adil005,     FAKE LOL,        <Channel name: kaicenat>,       2024-11-07 13:02:52.830342 

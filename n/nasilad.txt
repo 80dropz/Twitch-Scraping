@@ -1,0 +1,12 @@
+
+ nasilad,     sii,        <Channel name: kaicenat>,       2024-11-07 12:13:40.926664 
+
+ nasilad,     w,        <Channel name: kaicenat>,       2024-11-07 12:13:42.831151 
+
+ nasilad,     ww,        <Channel name: kaicenat>,       2024-11-07 12:13:52.640341 
+
+ nasilad,     www,        <Channel name: kaicenat>,       2024-11-07 12:13:54.151144 
+
+ nasilad,     wx,        <Channel name: kaicenat>,       2024-11-07 12:14:00.910264 
+
+ nasilad,     ww,        <Channel name: kaicenat>,       2024-11-07 12:14:01.741716 

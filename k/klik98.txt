@@ -1,0 +1,20 @@
+
+ klik98,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:36:40.457657 
+
+ klik98,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:30.567851 
+
+ klik98,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.181747 
+
+ klik98,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.419698 
+
+ klik98,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.243374 
+
+ klik98,     franch,        <Channel name: shadowkekw>,       2024-11-07 10:50:22.962430 
+
+ klik98,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:51.794301 
+
+ klik98,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:07.407719 
+
+ klik98,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:25.792823 
+
+ klik98,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:57:18.978941 

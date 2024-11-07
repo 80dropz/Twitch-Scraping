@@ -16,3 +16,5 @@
  moazk,     !roulette All,        <Channel name: kaicenat>,       2024-11-07 09:13:51.906727 
 
  moazk,     !roulette All,        <Channel name: kaicenat>,       2024-11-07 09:14:56.589131 
+
+ moazk,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:32:17.417597 

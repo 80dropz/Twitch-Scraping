@@ -1,2 +1,10 @@
 
  vontetheroyal,     !points,        <Channel name: kaicenat>,       2024-11-07 09:31:50.852864 
+
+ vontetheroyal,     where is miles,        <Channel name: kaicenat>,       2024-11-07 10:33:45.508985 
+
+ vontetheroyal,     where tf miles at,        <Channel name: kaicenat>,       2024-11-07 10:34:11.959185 
+
+ vontetheroyal,     !points,        <Channel name: kaicenat>,       2024-11-07 10:35:05.782949 
+
+ vontetheroyal,     !slotmachine 620,        <Channel name: kaicenat>,       2024-11-07 10:35:23.830002 

@@ -1,0 +1,56 @@
+
+ 619dima,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.397233 
+
+ 619dima,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:30:19.286315 
+
+ 619dima,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.961927 
+
+ 619dima,     Gayana,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.930103 
+
+ 619dima,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:33:35.177973 
+
+ 619dima,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.832517 
+
+ 619dima,     us,        <Channel name: shadowkekw>,       2024-11-07 10:36:22.633767 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.643163 
+
+ 619dima,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.960022 
+
+ 619dima,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:08.387363 
+
+ 619dima,     In,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.267739 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.934597 
+
+ 619dima,     Oma,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.919854 
+
+ 619dima,     o,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.568249 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.197903 
+
+ 619dima,     O,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.162694 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.952918 
+
+ 619dima,     o,        <Channel name: shadowkekw>,       2024-11-07 10:42:15.584992 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:42:24.721750 
+
+ 619dima,     oma,        <Channel name: shadowkekw>,       2024-11-07 10:42:39.019571 
+
+ 619dima,     o,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.156575 
+
+ 619dima,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:44:09.126352 
+
+ 619dima,     o,        <Channel name: shadowkekw>,       2024-11-07 10:45:00.134725 
+
+ 619dima,     Omans,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.639588 
+
+ 619dima,     omsn,        <Channel name: shadowkekw>,       2024-11-07 10:47:12.190325 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:51:01.592812 
+
+ 619dima,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:05:08.370196 
+
+ 619dima,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:06:13.067875 

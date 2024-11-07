@@ -1,0 +1,114 @@
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:07:37.697561 
+
+ myasnoy_sharik,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:10:20.124319 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:10:38.480447 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:11:18.046418 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:11:48.908887 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:14:16.916832 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:16:32.029621 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:20:31.621398 
+
+ myasnoy_sharik,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:13.444380 
+
+ myasnoy_sharik,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:21:56.395794 
+
+ myasnoy_sharik,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.443461 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:25:53.952635 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:26:24.607938 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.639322 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.842053 
+
+ myasnoy_sharik,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.883888 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:32:26.892619 
+
+ myasnoy_sharik,     Libya,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.608393 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:33:41.971473 
+
+ myasnoy_sharik,     Libya,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.619826 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.934051 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.795455 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.294167 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.761763 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.558353 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.356608 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:39:49.904495 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:40:05.409936 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.311965 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.046011 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.062020 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.024721 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:42:11.721220 
+
+ myasnoy_sharik,     us   f,        <Channel name: shadowkekw>,       2024-11-07 10:42:29.344262 
+
+ myasnoy_sharik,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.918405 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:45:35.069096 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.237858 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.499792 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.420882 
+
+ myasnoy_sharik,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:14.650729 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:53:10.726628 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.440048 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.540217 
+
+ myasnoy_sharik,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:06.999153 
+
+ myasnoy_sharik,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.540712 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.446521 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:57:54.180736 
+
+ myasnoy_sharik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.657768 
+
+ myasnoy_sharik,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:59:22.363019 
+
+ myasnoy_sharik,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:00:52.157329 
+
+ myasnoy_sharik,     do,        <Channel name: shadowkekw>,       2024-11-07 11:01:44.210956 
+
+ myasnoy_sharik,     Mali,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.686946 
+
+ myasnoy_sharik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:04:10.357842 
+
+ myasnoy_sharik,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.639994 
+
+ myasnoy_sharik,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:05:17.744303 
+
+ myasnoy_sharik,     opa,        <Channel name: shadowkekw>,       2024-11-07 11:53:31.511624 
+
+ myasnoy_sharik,     opaa,        <Channel name: shadowkekw>,       2024-11-07 11:54:08.031577 

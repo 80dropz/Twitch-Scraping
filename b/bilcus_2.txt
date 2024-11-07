@@ -1,0 +1,8 @@
+
+ bilcus_2,     230,        <Channel name: kaicenat>,       2024-11-07 12:55:14.419355 
+
+ bilcus_2,     230,        <Channel name: kaicenat>,       2024-11-07 12:56:43.864304 
+
+ bilcus_2,     Earthquake,        <Channel name: kaicenat>,       2024-11-07 13:00:21.432799 
+
+ bilcus_2,     W,        <Channel name: kaicenat>,       2024-11-07 13:01:46.141521 

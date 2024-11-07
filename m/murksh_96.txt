@@ -1,0 +1,48 @@
+
+ murksh_96,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:31:56.273924 
+
+ murksh_96,     Texas,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.325818 
+
+ murksh_96,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.420960 
+
+ murksh_96,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:46:08.126433 
+
+ murksh_96,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.237522 
+
+ murksh_96,     Texas,        <Channel name: shadowkekw>,       2024-11-07 10:49:01.597575 
+
+ murksh_96,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:50:01.903678 
+
+ murksh_96,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:51:45.784271 
+
+ murksh_96,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:17.277250 
+
+ murksh_96,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.020050 
+
+ murksh_96,     Frankfurt,        <Channel name: shadowkekw>,       2024-11-07 10:56:30.028965 
+
+ murksh_96,     Florida,        <Channel name: shadowkekw>,       2024-11-07 11:00:57.923988 
+
+ murksh_96,     Texas,        <Channel name: shadowkekw>,       2024-11-07 11:01:33.567478 
+
+ murksh_96,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 11:02:45.354502 
+
+ murksh_96,     India,        <Channel name: shadowkekw>,       2024-11-07 11:03:52.329026 
+
+ murksh_96,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.912351 
+
+ murksh_96,     France,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.088082 
+
+ murksh_96,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:07:03.632309 
+
+ murksh_96,     Praha,        <Channel name: shadowkekw>,       2024-11-07 11:07:50.101658 
+
+ murksh_96,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 11:14:42.352529 
+
+ murksh_96,     )),        <Channel name: shadowkekw>,       2024-11-07 11:24:46.040359 
+
+ murksh_96,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:50.172894 
+
+ murksh_96,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:31:58.825295 
+
+ murksh_96,     )),        <Channel name: shadowkekw>,       2024-11-07 12:41:37.338004 

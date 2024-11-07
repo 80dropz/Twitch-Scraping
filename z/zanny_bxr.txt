@@ -1,0 +1,8 @@
+
+ zanny_bxr,     !resolution,        <Channel name: mrlust>,       2024-11-07 10:00:20.957613 
+
+ zanny_bxr,     does anyone know what his res is?,        <Channel name: mrlust>,       2024-11-07 10:01:00.297321 
+
+ zanny_bxr,     !res,        <Channel name: mrlust>,       2024-11-07 10:01:17.399041 
+
+ zanny_bxr,     !crosshair,        <Channel name: mrlust>,       2024-11-07 10:17:13.270791 

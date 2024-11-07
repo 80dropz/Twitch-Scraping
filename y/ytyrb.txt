@@ -1,0 +1,48 @@
+
+ ytyrb,     atl jacbob atl jacob,        <Channel name: kaicenat>,       2024-11-07 11:47:53.819973 
+
+ ytyrb,     WW,        <Channel name: kaicenat>,       2024-11-07 13:29:04.721335 
+
+ ytyrb,     W,        <Channel name: kaicenat>,       2024-11-07 13:29:12.214504 
+
+ ytyrb,     WWWW,        <Channel name: kaicenat>,       2024-11-07 13:29:23.971355 
+
+ ytyrb,     W,        <Channel name: kaicenat>,       2024-11-07 13:29:30.206223 
+
+ ytyrb,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:29:37.136498 
+
+ ytyrb,     WAWWW,        <Channel name: kaicenat>,       2024-11-07 13:29:44.540811 
+
+ ytyrb,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:30:03.259729 
+
+ ytyrb,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:30:11.120320 
+
+ ytyrb,     WWWW,        <Channel name: kaicenat>,       2024-11-07 13:30:14.880115 
+
+ ytyrb,     WWWW 230,        <Channel name: kaicenat>,       2024-11-07 13:30:25.419034 
+
+ ytyrb,     WWWWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:30:45.911640 
+
+ ytyrb,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:30:57.642399 
+
+ ytyrb,     WWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:13.064262 
+
+ ytyrb,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:31:22.453820 
+
+ ytyrb,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:31:53.441141 
+
+ ytyrb,     W,        <Channel name: kaicenat>,       2024-11-07 13:31:58.310543 
+
+ ytyrb,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:32:12.935273 
+
+ ytyrb,     WWWWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:32.708671 
+
+ ytyrb,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:33:16.326292 
+
+ ytyrb,     W,        <Channel name: kaicenat>,       2024-11-07 13:33:20.691392 
+
+ ytyrb,     230K W,        <Channel name: kaicenat>,       2024-11-07 13:33:35.702943 
+
+ ytyrb,     W,        <Channel name: kaicenat>,       2024-11-07 13:33:55.970583 
+
+ ytyrb,     WWWW,        <Channel name: kaicenat>,       2024-11-07 13:34:04.051209 

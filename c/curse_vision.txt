@@ -1,0 +1,52 @@
+
+ curse_vision,     CHANGE CAM,        <Channel name: kaicenat>,       2024-11-07 10:44:33.852540 
+
+ curse_vision,     L CAM,        <Channel name: kaicenat>,       2024-11-07 10:45:23.700004 
+
+ curse_vision,     W GIFTED,        <Channel name: kaicenat>,       2024-11-07 10:50:32.355368 
+
+ curse_vision,     somone do 100 for an earthquake,        <Channel name: kaicenat>,       2024-11-07 10:51:31.059268 
+
+ curse_vision,     @rickydudeXO oh i see i missread,        <Channel name: kaicenat>,       2024-11-07 10:52:12.680697 
+
+ curse_vision,     BRO IS WINDED,        <Channel name: kaicenat>,       2024-11-07 10:54:33.201861 
+
+ curse_vision,     somone hit a 10 gifted,        <Channel name: kaicenat>,       2024-11-07 10:58:32.840791 
+
+ curse_vision,     somone drop 10 subs,        <Channel name: kaicenat>,       2024-11-07 11:05:00.382820 
+
+ curse_vision,     HIT EM WITH THE BUBBLES,        <Channel name: kaicenat>,       2024-11-07 11:09:38.719335 
+
+ curse_vision,     SOMEBODY SAVE THIS MAN,        <Channel name: kaicenat>,       2024-11-07 11:11:09.945783 
+
+ curse_vision,     QUICK WHILE HE HAL;F AWAKE,        <Channel name: kaicenat>,       2024-11-07 11:16:03.275645 
+
+ curse_vision,     #free miles,        <Channel name: kaicenat>,       2024-11-07 11:21:10.257804 
+
+ curse_vision,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 11:21:18.181573 
+
+ curse_vision,     #FREEMILES,        <Channel name: kaicenat>,       2024-11-07 11:21:29.351283 
+
+ curse_vision,     bro gonna pass out too much longer,        <Channel name: kaicenat>,       2024-11-07 11:24:48.410915 
+
+ curse_vision,     200 MORE GIFTED WE CAN DROP EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:26:09.214014 
+
+ curse_vision,     so close we got 1 tho!!!!,        <Channel name: kaicenat>,       2024-11-07 11:27:07.234349 
+
+ curse_vision,     GOT EEEEEEEM,        <Channel name: kaicenat>,       2024-11-07 11:27:36.847317 
+
+ curse_vision,     WE NEED A 100 BOMB,        <Channel name: kaicenat>,       2024-11-07 11:27:54.243930 
+
+ curse_vision,     LOLOLOLOL,        <Channel name: kaicenat>,       2024-11-07 11:28:33.479707 
+
+ curse_vision,     CMON WE NEED EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:29:34.461056 
+
+ curse_vision,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:31:07.077879 
+
+ curse_vision,     DROP 100,        <Channel name: kaicenat>,       2024-11-07 11:33:14.909245 
+
+ curse_vision,     DROP THE EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:38:02.488045 
+
+ curse_vision,     earthquake,        <Channel name: kaicenat>,       2024-11-07 12:52:30.525117 
+
+ curse_vision,     100,        <Channel name: kaicenat>,       2024-11-07 12:56:06.062669 

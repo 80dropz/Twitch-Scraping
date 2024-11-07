@@ -1,0 +1,4 @@
+
+ audax03,     !sens,        <Channel name: mongraal>,       2024-11-07 11:01:17.883196 
+
+ audax03,     !dpi,        <Channel name: mongraal>,       2024-11-07 11:01:23.820541 

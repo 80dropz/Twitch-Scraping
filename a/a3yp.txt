@@ -1,0 +1,38 @@
+
+ a3yp,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:13:06.488222 
+
+ a3yp,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:13:10.238170 
+
+ a3yp,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.269008 
+
+ a3yp,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:15:30.228170 
+
+ a3yp,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:15:42.608944 
+
+ a3yp,     rm,        <Channel name: shadowkekw>,       2024-11-07 10:15:47.832614 
+
+ a3yp,     us,        <Channel name: shadowkekw>,       2024-11-07 10:16:03.698097 
+
+ a3yp,     au,        <Channel name: shadowkekw>,       2024-11-07 10:16:12.421468 
+
+ a3yp,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:19:49.915276 
+
+ a3yp,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.698898 
+
+ a3yp,     bu,        <Channel name: shadowkekw>,       2024-11-07 10:23:20.105766 
+
+ a3yp,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:23:21.992674 
+
+ a3yp,     tu,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.081014 
+
+ a3yp,     th,        <Channel name: shadowkekw>,       2024-11-07 10:23:38.301875 
+
+ a3yp,     cm,        <Channel name: shadowkekw>,       2024-11-07 10:23:49.801517 
+
+ a3yp,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:24:29.434519 
+
+ a3yp,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:24:55.118617 
+
+ a3yp,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.720804 
+
+ a3yp,     th,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.231308 

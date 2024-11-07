@@ -1,0 +1,6 @@
+
+ nlved,     !crosshaiir,        <Channel name: mongraal>,       2024-11-07 10:20:24.156893 
+
+ nlved,     !crosshari,        <Channel name: mongraal>,       2024-11-07 10:20:26.989686 
+
+ nlved,     !crosshair,        <Channel name: mongraal>,       2024-11-07 10:20:32.518758 

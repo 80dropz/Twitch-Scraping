@@ -1,0 +1,98 @@
+
+ kybae1,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:08:04.409208 
+
+ kybae1,     FInland,        <Channel name: shadowkekw>,       2024-11-07 10:11:31.747517 
+
+ kybae1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:11:52.095494 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.319483 
+
+ kybae1,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:14:50.896924 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.744284 
+
+ kybae1,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.219930 
+
+ kybae1,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.537270 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:16.513029 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.252542 
+
+ kybae1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.488840 
+
+ kybae1,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.782986 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.579678 
+
+ kybae1,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.044430 
+
+ kybae1,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:05.065123 
+
+ kybae1,     thaiwan,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.007412 
+
+ kybae1,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.680018 
+
+ kybae1,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:53.400560 
+
+ kybae1,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:09.951347 
+
+ kybae1,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:21:14.850185 
+
+ kybae1,     o,        <Channel name: shadowkekw>,       2024-11-07 10:21:18.171373 
+
+ kybae1,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.562492 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.590917 
+
+ kybae1,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:22:55.408682 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.875144 
+
+ kybae1,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:23:40.759348 
+
+ kybae1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:54.454370 
+
+ kybae1,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.361450 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.029181 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.217402 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:52.464350 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:31.470348 
+
+ kybae1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.570052 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.027510 
+
+ kybae1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:39.783528 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:29:24.129333 
+
+ kybae1,     mexuci,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.437081 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.641600 
+
+ kybae1,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.063483 
+
+ kybae1,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.169345 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.581920 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.648570 
+
+ kybae1,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:31:52.225921 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:03.650851 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.889851 
+
+ kybae1,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:13.586871 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:33:34.578777 
+
+ kybae1,     inceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.765706 
+
+ kybae1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.388479 

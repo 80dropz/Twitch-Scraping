@@ -1,0 +1,2 @@
+
+ ynstaurus,     earthquake,        <Channel name: kaicenat>,       2024-11-07 11:33:53.873537 

@@ -1,0 +1,22 @@
+
+ sour_monky,     wake up,        <Channel name: clix>,       2024-11-07 11:06:18.789623 
+
+ sour_monky,     wake up clix,        <Channel name: clix>,       2024-11-07 11:06:22.298149 
+
+ sour_monky,     wake uP,        <Channel name: clix>,       2024-11-07 11:06:42.594815 
+
+ sour_monky,     wake IP,        <Channel name: clix>,       2024-11-07 11:07:05.374198 
+
+ sour_monky,     WAKE UPPPPPPPPP,        <Channel name: clix>,       2024-11-07 11:07:23.348829 
+
+ sour_monky,     WAKE UPP,        <Channel name: clix>,       2024-11-07 11:07:42.045901 
+
+ sour_monky,     WALE UP BIG SHITER,        <Channel name: clix>,       2024-11-07 11:08:31.574869 
+
+ sour_monky,     LAZY WAKE UP,        <Channel name: clix>,       2024-11-07 11:09:23.336320 
+
+ sour_monky,     THE RIG IS NOT GONE,        <Channel name: clix>,       2024-11-07 11:20:50.503314 
+
+ sour_monky,     AND THE MINI GUN IS BROKEN,        <Channel name: clix>,       2024-11-07 11:21:02.902181 
+
+ sour_monky,     you need to play ranked,        <Channel name: mongraal>,       2024-11-07 11:26:28.465558 

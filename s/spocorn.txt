@@ -1,0 +1,8 @@
+
+ spocorn,     who are you,        <Channel name: kaicenat>,       2024-11-07 10:48:30.715668 
+
+ spocorn,     !delay,        <Channel name: kaicenat>,       2024-11-07 10:53:15.408518 
+
+ spocorn,     !time,        <Channel name: kaicenat>,       2024-11-07 11:14:51.069529 
+
+ spocorn,     !prime,        <Channel name: mongraal>,       2024-11-07 11:16:28.241642 

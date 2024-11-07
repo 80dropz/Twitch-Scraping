@@ -1,0 +1,6 @@
+
+ wanoyee,     Covid,        <Channel name: kaicenat>,       2024-11-07 09:53:44.869558 
+
+ wanoyee,     !join,        <Channel name: kaicenat>,       2024-11-07 09:53:59.534959 
+
+ wanoyee,     !join,        <Channel name: kaicenat>,       2024-11-07 09:55:33.646245 

@@ -74,3 +74,7 @@
  slope_id,     ?? <- the ai,        <Channel name: megalodonvt>,       2024-11-07 02:51:25.761015 
 
  slope_id,     hamsterPwease oh.,        <Channel name: megalodonvt>,       2024-11-07 02:51:40.030896 
+
+ slope_id,     GM shorkies,        <Channel name: megalodonvt>,       2024-11-07 10:36:25.207225 
+
+ slope_id,     ShorkieMeAndYall,        <Channel name: megalodonvt>,       2024-11-07 10:36:27.168791 

@@ -1,0 +1,14 @@
+
+ amov11,     Irn,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.360804 
+
+ amov11,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.130972 
+
+ amov11,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.897944 
+
+ amov11,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.846243 
+
+ amov11,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.748910 
+
+ amov11,     OM OM,        <Channel name: shadowkekw>,       2024-11-07 10:35:02.567680 
+
+ amov11,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.449034 

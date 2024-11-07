@@ -28,3 +28,13 @@
  smo_salmon,     PoroSad PoroSad,        <Channel name: waterlynn>,       2024-11-07 02:53:11.522108 
 
  smo_salmon,     NotLikeThis,        <Channel name: waterlynn>,       2024-11-07 02:53:26.648759 
+
+ smo_salmon,     shuteyDance1 shuteyDance1 shuteyDance1,        <Channel name: kaicenat>,       2024-11-07 12:20:21.465775 
+
+ smo_salmon,     shuteyNinja shuteySHAKE shuteyNinja shuteySHAKE,        <Channel name: kaicenat>,       2024-11-07 12:20:26.693862 
+
+ smo_salmon,     shuteyDance1 shuteyDance1 shuteyZk,        <Channel name: kaicenat>,       2024-11-07 12:20:33.565453 
+
+ smo_salmon,     TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 12:20:39.089261 
+
+ smo_salmon,     TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 12:20:44.039635 

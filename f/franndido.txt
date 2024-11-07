@@ -1,0 +1,8 @@
+
+ franndido,     !movement,        <Channel name: mongraal>,       2024-11-07 10:00:13.559964 
+
+ franndido,     !movemenyt,        <Channel name: clix>,       2024-11-07 10:03:41.783808 
+
+ franndido,     !movement,        <Channel name: clix>,       2024-11-07 10:03:47.326600 
+
+ franndido,     !doublemovement,        <Channel name: clix>,       2024-11-07 10:04:03.854505 

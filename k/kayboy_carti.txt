@@ -1,2 +1,6 @@
 
  kayboy_carti,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:32:00.365590 
+
+ kayboy_carti,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:24:21.959467 
+
+ kayboy_carti,     !followage,        <Channel name: kaicenat>,       2024-11-07 12:31:36.478003 

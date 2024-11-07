@@ -1,0 +1,8 @@
+
+ the1vis,     wake up,        <Channel name: nadeshot>,       2024-11-07 10:56:19.642457 
+
+ the1vis,     bro jus doesn’t have curtains,        <Channel name: nadeshot>,       2024-11-07 10:57:59.642305 
+
+ the1vis,     pause zurx,        <Channel name: nadeshot>,       2024-11-07 10:58:32.732653 
+
+ the1vis,     both,        <Channel name: nadeshot>,       2024-11-07 12:44:06.145957 

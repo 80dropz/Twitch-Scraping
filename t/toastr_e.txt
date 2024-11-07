@@ -1,0 +1,10 @@
+
+ toastr_e,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 11:16:11.413464 
+
+ toastr_e,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:16:28.567587 
+
+ toastr_e,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 11:16:35.827041 
+
+ toastr_e,     !roulette 101,        <Channel name: kaicenat>,       2024-11-07 11:16:42.752506 
+
+ toastr_e,     !roulette 205,        <Channel name: kaicenat>,       2024-11-07 11:16:51.832303 

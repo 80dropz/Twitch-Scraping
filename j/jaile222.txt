@@ -1,0 +1,24 @@
+
+ jaile222,     230,        <Channel name: kaicenat>,       2024-11-07 13:11:12.897809 
+
+ jaile222,     230k,        <Channel name: kaicenat>,       2024-11-07 13:11:31.538333 
+
+ jaile222,     no,        <Channel name: kaicenat>,       2024-11-07 13:16:49.448930 
+
+ jaile222,     VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:17:48.993679 
+
+ jaile222,     VoteNay VoteNay VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:18:08.184619 
+
+ jaile222,     VoteNay VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:18:30.703802 
+
+ jaile222,     VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:19:24.258680 
+
+ jaile222,     VoteNay VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:19:58.042153 
+
+ jaile222,     VoteNay VoteNay VoteNay VoteNay VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:20:17.748073 
+
+ jaile222,     VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay,        <Channel name: kaicenat>,       2024-11-07 13:21:08.005606 
+
+ jaile222,     miles funny,        <Channel name: kaicenat>,       2024-11-07 13:26:01.621904 
+
+ jaile222,     noo,        <Channel name: kaicenat>,       2024-11-07 13:27:23.572343 

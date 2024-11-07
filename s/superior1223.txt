@@ -1,0 +1,72 @@
+
+ superior1223,     miami,        <Channel name: shadowkekw>,       2024-11-07 10:12:31.665458 
+
+ superior1223,     dubay,        <Channel name: shadowkekw>,       2024-11-07 10:12:59.388198 
+
+ superior1223,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:34.640526 
+
+ superior1223,     italia,        <Channel name: shadowkekw>,       2024-11-07 10:15:35.829946 
+
+ superior1223,     nigetia,        <Channel name: shadowkekw>,       2024-11-07 10:15:54.516453 
+
+ superior1223,     india,        <Channel name: shadowkekw>,       2024-11-07 10:16:15.972972 
+
+ superior1223,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:18:18.518925 
+
+ superior1223,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:18:50.656207 
+
+ superior1223,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:09.082567 
+
+ superior1223,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:05.871070 
+
+ superior1223,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:23:26.216804 
+
+ superior1223,     Dominicana,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.888520 
+
+ superior1223,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:27:09.015626 
+
+ superior1223,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:25.338626 
+
+ superior1223,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.543452 
+
+ superior1223,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.700710 
+
+ superior1223,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:30:14.521897 
+
+ superior1223,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:34:05.565125 
+
+ superior1223,     thai,        <Channel name: shadowkekw>,       2024-11-07 10:35:12.261055 
+
+ superior1223,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:37:35.454737 
+
+ superior1223,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.818303 
+
+ superior1223,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.744761 
+
+ superior1223,     monaco,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.064243 
+
+ superior1223,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.493536 
+
+ superior1223,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.021129 
+
+ superior1223,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:47:06.493025 
+
+ superior1223,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:47:43.583216 
+
+ superior1223,     france,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.829166 
+
+ superior1223,     co,        <Channel name: shadowkekw>,       2024-11-07 10:52:41.908524 
+
+ superior1223,     neoal,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.781595 
+
+ superior1223,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:57:51.885268 
+
+ superior1223,     est,        <Channel name: shadowkekw>,       2024-11-07 10:58:28.240084 
+
+ superior1223,     sc,        <Channel name: shadowkekw>,       2024-11-07 10:59:10.710253 
+
+ superior1223,     bl,        <Channel name: shadowkekw>,       2024-11-07 11:00:48.109492 
+
+ superior1223,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.999765 
+
+ superior1223,     bu,        <Channel name: shadowkekw>,       2024-11-07 11:05:31.271113 

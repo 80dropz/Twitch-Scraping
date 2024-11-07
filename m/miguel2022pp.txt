@@ -6,3 +6,7 @@
  miguel2022pp,     ohhhh,        <Channel name: clix>,       2024-11-07 01:43:23.315638 
 
  miguel2022pp,     jorkin,        <Channel name: clix>,       2024-11-07 01:44:38.680315 
+
+ miguel2022pp,     jorkib,        <Channel name: clix>,       2024-11-07 11:43:58.710773 
+
+ miguel2022pp,     jorkin,        <Channel name: clix>,       2024-11-07 11:44:04.659998 

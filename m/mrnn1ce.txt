@@ -1,0 +1,18 @@
+
+ mrnn1ce,     AU,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.644215 
+
+ mrnn1ce,     ARG,        <Channel name: shadowkekw>,       2024-11-07 10:55:48.330340 
+
+ mrnn1ce,     China,        <Channel name: shadowkekw>,       2024-11-07 10:57:23.959719 
+
+ mrnn1ce,     th,        <Channel name: shadowkekw>,       2024-11-07 10:58:16.339767 
+
+ mrnn1ce,     co,        <Channel name: shadowkekw>,       2024-11-07 11:00:38.913369 
+
+ mrnn1ce,     iceland,        <Channel name: shadowkekw>,       2024-11-07 11:01:20.625246 
+
+ mrnn1ce,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:33.334402 
+
+ mrnn1ce,     au,        <Channel name: shadowkekw>,       2024-11-07 11:02:34.480057 
+
+ mrnn1ce,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:03:37.426523 

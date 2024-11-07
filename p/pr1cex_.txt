@@ -1,0 +1,12 @@
+
+ pr1cex_,     wake up little boy,        <Channel name: clix>,       2024-11-07 12:22:37.596975 
+
+ pr1cex_,     i’m gonna touch you,        <Channel name: clix>,       2024-11-07 12:22:48.005034 
+
+ pr1cex_,     !time,        <Channel name: clix>,       2024-11-07 12:23:13.705456 
+
+ pr1cex_,     clixHyper,        <Channel name: clix>,       2024-11-07 12:24:00.731180 
+
+ pr1cex_,     clixPop,        <Channel name: clix>,       2024-11-07 12:24:01.945200 
+
+ pr1cex_,     clixCap,        <Channel name: clix>,       2024-11-07 12:24:04.222916 

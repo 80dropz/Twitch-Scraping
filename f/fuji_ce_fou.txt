@@ -1,0 +1,2 @@
+
+ fuji_ce_fou,     !keyboard,        <Channel name: mongraal>,       2024-11-07 13:21:40.661982 

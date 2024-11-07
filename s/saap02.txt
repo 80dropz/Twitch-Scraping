@@ -1,0 +1,14 @@
+
+ saap02,     WW,        <Channel name: kaicenat>,       2024-11-07 10:47:58.417110 
+
+ saap02,     WW,        <Channel name: kaicenat>,       2024-11-07 10:48:36.561870 
+
+ saap02,     WW,        <Channel name: kaicenat>,       2024-11-07 11:14:17.270244 
+
+ saap02,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:23:00.631908 
+
+ saap02,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:24:29.183982 
+
+ saap02,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:03.258904 
+
+ saap02,     shadow,        <Channel name: shadowkekw>,       2024-11-07 11:25:26.807059 

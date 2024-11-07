@@ -1,2 +1,74 @@
 
  rakich_red,     34,        <Channel name: shadowkekw>,       2024-11-07 09:44:07.106156 
+
+ rakich_red,     AAAAA,        <Channel name: shadowkekw>,       2024-11-07 09:58:05.526470 
+
+ rakich_red,     38 38 38,        <Channel name: shadowkekw>,       2024-11-07 10:00:11.903155 
+
+ rakich_red,     Em,        <Channel name: shadowkekw>,       2024-11-07 10:03:21.770415 
+
+ rakich_red,     FYYYY,        <Channel name: shadowkekw>,       2024-11-07 10:04:04.170262 
+
+ rakich_red,     WW WW,        <Channel name: shadowkekw>,       2024-11-07 10:05:49.926156 
+
+ rakich_red,     WW WW,        <Channel name: shadowkekw>,       2024-11-07 10:06:48.053730 
+
+ rakich_red,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.962038 
+
+ rakich_red,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:15.872787 
+
+ rakich_red,     shina,        <Channel name: shadowkekw>,       2024-11-07 10:11:42.233582 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:22.059601 
+
+ rakich_red,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:14:27.920240 
+
+ rakich_red,     Cholie,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.619063 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.881709 
+
+ rakich_red,     USA /,        <Channel name: shadowkekw>,       2024-11-07 10:15:30.315337 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:35.192363 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:16:17.542212 
+
+ rakich_red,     Benin,        <Channel name: shadowkekw>,       2024-11-07 10:18:51.741311 
+
+ rakich_red,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:23:25.691503 
+
+ rakich_red,     Russian Federation .,        <Channel name: shadowkekw>,       2024-11-07 10:25:46.164061 
+
+ rakich_red,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:26:43.854920 
+
+ rakich_red,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.967871 
+
+ rakich_red,     Russian Federation .,        <Channel name: shadowkekw>,       2024-11-07 10:27:46.292506 
+
+ rakich_red,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.775629 
+
+ rakich_red,     jAPAN,        <Channel name: shadowkekw>,       2024-11-07 10:29:35.127687 
+
+ rakich_red,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.753559 
+
+ rakich_red,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:31:22.789734 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.526564 
+
+ rakich_red,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:35:45.212620 
+
+ rakich_red,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:27.284526 
+
+ rakich_red,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:37:38.051530 
+
+ rakich_red,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.206889 
+
+ rakich_red,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.586412 
+
+ rakich_red,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:35.081620 
+
+ rakich_red,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:57:16.079513 
+
+ rakich_red,     ww,        <Channel name: shadowkekw>,       2024-11-07 10:58:22.976583 
+
+ rakich_red,     ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW ct0m WW,        <Channel name: shadowkekw>,       2024-11-07 12:51:33.073397 

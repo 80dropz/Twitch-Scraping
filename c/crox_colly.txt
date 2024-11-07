@@ -1,0 +1,40 @@
+
+ crox_colly,     AWWW,        <Channel name: lacy>,       2024-11-07 13:04:38.915095 
+
+ crox_colly,     TAWWWW,        <Channel name: lacy>,       2024-11-07 13:04:43.328618 
+
+ crox_colly,     TAWWWWWWWWW,        <Channel name: lacy>,       2024-11-07 13:04:49.613586 
+
+ crox_colly,     AWWWWWWWW,        <Channel name: lacy>,       2024-11-07 13:05:25.560962 
+
+ crox_colly,     GG,        <Channel name: lacy>,       2024-11-07 13:11:04.581598 
+
+ crox_colly,     GGGG,        <Channel name: lacy>,       2024-11-07 13:11:06.347010 
+
+ crox_colly,     LMAOOO,        <Channel name: lacy>,       2024-11-07 13:11:08.646529 
+
+ crox_colly,     NOT BADD,        <Channel name: lacy>,       2024-11-07 13:23:21.398490 
+
+ crox_colly,     NOT BADDDDD,        <Channel name: lacy>,       2024-11-07 13:23:28.532207 
+
+ crox_colly,     LAG,        <Channel name: lacy>,       2024-11-07 13:24:47.951643 
+
+ crox_colly,     WWWWWW,        <Channel name: lacy>,       2024-11-07 13:28:03.942252 
+
+ crox_colly,     gg,        <Channel name: lacy>,       2024-11-07 13:28:45.961193 
+
+ crox_colly,     GGGGG,        <Channel name: lacy>,       2024-11-07 13:28:49.128624 
+
+ crox_colly,     PRE AVALANCHEEE,        <Channel name: lacy>,       2024-11-07 13:29:22.901005 
+
+ crox_colly,     PRE AVANLANCHEEEE,        <Channel name: lacy>,       2024-11-07 13:29:31.920009 
+
+ crox_colly,     LMAOOOO,        <Channel name: lacy>,       2024-11-07 13:32:30.855042 
+
+ crox_colly,     HAH,        <Channel name: lacy>,       2024-11-07 13:32:40.450863 
+
+ crox_colly,     HAHAH,        <Channel name: lacy>,       2024-11-07 13:32:45.953372 
+
+ crox_colly,     HAHAHAHHAHAAH,        <Channel name: lacy>,       2024-11-07 13:32:48.154104 
+
+ crox_colly,     yes,        <Channel name: lacy>,       2024-11-07 13:36:39.272827 

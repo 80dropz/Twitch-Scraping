@@ -1,2 +1,30 @@
 
  ya_fanat_sisek,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:42:34.881252 
+
+ ya_fanat_sisek,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:12.428299 
+
+ ya_fanat_sisek,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:57:44.557962 
+
+ ya_fanat_sisek,     322,        <Channel name: shadowkekw>,       2024-11-07 09:58:01.476617 
+
+ ya_fanat_sisek,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:41.526746 
+
+ ya_fanat_sisek,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:06:58.241645 
+
+ ya_fanat_sisek,     india,        <Channel name: shadowkekw>,       2024-11-07 10:07:31.453099 
+
+ ya_fanat_sisek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:06.985893 
+
+ ya_fanat_sisek,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:10:11.636629 
+
+ ya_fanat_sisek,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.621464 
+
+ ya_fanat_sisek,     322,        <Channel name: shadowkekw>,       2024-11-07 10:13:17.477670 
+
+ ya_fanat_sisek,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.486504 
+
+ ya_fanat_sisek,     Belarussia,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.131788 
+
+ ya_fanat_sisek,     Belguim,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.101236 
+
+ ya_fanat_sisek,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.048609 

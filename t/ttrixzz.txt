@@ -1,0 +1,8 @@
+
+ ttrixzz,     fff,        <Channel name: lacy>,       2024-11-07 13:33:56.497916 
+
+ ttrixzz,     fffff,        <Channel name: lacy>,       2024-11-07 13:33:59.939742 
+
+ ttrixzz,     ffff,        <Channel name: lacy>,       2024-11-07 13:34:02.812751 
+
+ ttrixzz,     f,        <Channel name: lacy>,       2024-11-07 13:34:07.992201 

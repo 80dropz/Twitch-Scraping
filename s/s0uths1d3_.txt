@@ -1,0 +1,82 @@
+
+ s0uths1d3_,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:08:10.174832 
+
+ s0uths1d3_,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.310608 
+
+ s0uths1d3_,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.443963 
+
+ s0uths1d3_,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:10:58.206471 
+
+ s0uths1d3_,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:11:03.886299 
+
+ s0uths1d3_,     Neth,        <Channel name: shadowkekw>,       2024-11-07 10:11:31.909229 
+
+ s0uths1d3_,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:11:36.166305 
+
+ s0uths1d3_,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:11:50.166267 
+
+ s0uths1d3_,     Auistria,        <Channel name: shadowkekw>,       2024-11-07 10:12:24.631427 
+
+ s0uths1d3_,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:13:47.859377 
+
+ s0uths1d3_,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.584526 
+
+ s0uths1d3_,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:14:45.870305 
+
+ s0uths1d3_,     Singapure,        <Channel name: shadowkekw>,       2024-11-07 10:15:07.840178 
+
+ s0uths1d3_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:19.726558 
+
+ s0uths1d3_,     cHINA,        <Channel name: shadowkekw>,       2024-11-07 10:15:22.892950 
+
+ s0uths1d3_,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:15:58.684823 
+
+ s0uths1d3_,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.041469 
+
+ s0uths1d3_,     Singapure,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.530109 
+
+ s0uths1d3_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:44.507131 
+
+ s0uths1d3_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:46.820285 
+
+ s0uths1d3_,     Sri lanka,        <Channel name: shadowkekw>,       2024-11-07 10:22:04.432309 
+
+ s0uths1d3_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:23.520480 
+
+ s0uths1d3_,     Argentin,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.002108 
+
+ s0uths1d3_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:22:49.164071 
+
+ s0uths1d3_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.228498 
+
+ s0uths1d3_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.511610 
+
+ s0uths1d3_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.185128 
+
+ s0uths1d3_,     AU,        <Channel name: shadowkekw>,       2024-11-07 10:24:42.890369 
+
+ s0uths1d3_,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.747942 
+
+ s0uths1d3_,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.304580 
+
+ s0uths1d3_,     si,        <Channel name: shadowkekw>,       2024-11-07 10:25:17.760477 
+
+ s0uths1d3_,     ka,        <Channel name: shadowkekw>,       2024-11-07 10:25:31.346695 
+
+ s0uths1d3_,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.354896 
+
+ s0uths1d3_,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.998950 
+
+ s0uths1d3_,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:25:53.353741 
+
+ s0uths1d3_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:26:10.042938 
+
+ s0uths1d3_,     us,        <Channel name: shadowkekw>,       2024-11-07 10:26:14.897992 
+
+ s0uths1d3_,     puhr,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.434368 
+
+ s0uths1d3_,     it,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.720865 
+
+ s0uths1d3_,     is,        <Channel name: shadowkekw>,       2024-11-07 10:26:53.830641 
+
+ s0uths1d3_,     ur,        <Channel name: shadowkekw>,       2024-11-07 10:27:00.482401 

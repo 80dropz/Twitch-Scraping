@@ -1,0 +1,10 @@
+
+ witvels,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.819977 
+
+ witvels,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:55.180073 
+
+ witvels,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:16:35.300248 
+
+ witvels,     Wales,        <Channel name: shadowkekw>,       2024-11-07 10:16:55.574483 
+
+ witvels,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:17:01.819906 

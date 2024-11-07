@@ -1,0 +1,62 @@
+
+ ches2107,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:43.449516 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.705379 
+
+ ches2107,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:12:22.121117 
+
+ ches2107,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:14:12.522693 
+
+ ches2107,     China,        <Channel name: shadowkekw>,       2024-11-07 10:15:11.897200 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.524529 
+
+ ches2107,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:16:36.504040 
+
+ ches2107,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:16:48.242723 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:18:45.625310 
+
+ ches2107,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:19:01.053261 
+
+ ches2107,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.478371 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.753814 
+
+ ches2107,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:20:52.844198 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.577334 
+
+ ches2107,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.120032 
+
+ ches2107,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:24:03.092901 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.943790 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.591088 
+
+ ches2107,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.350736 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:27:02.024384 
+
+ ches2107,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.630102 
+
+ ches2107,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.145392 
+
+ ches2107,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.608914 
+
+ ches2107,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:37.075884 
+
+ ches2107,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:33:16.799590 
+
+ ches2107,     X3,        <Channel name: shadowkekw>,       2024-11-07 11:39:41.692110 
+
+ ches2107,     CHMO,        <Channel name: shadowkekw>,       2024-11-07 11:40:49.975952 
+
+ ches2107,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:35.790662 
+
+ ches2107,     https://www.twitch.tv/feelssunnyman/clip/PrettiestOptimisticLionPMSTwin-Nx6es-FNDA4wvqJF,        <Channel name: shadowkekw>,       2024-11-07 12:00:17.383789 
+
+ ches2107,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:37.770320 
+
+ ches2107,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:33:12.060419 

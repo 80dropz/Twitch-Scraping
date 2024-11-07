@@ -4,3 +4,7 @@
  doituzi,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:22.178593 
 
  doituzi,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:34.734046 
+
+ doituzi,     WW,        <Channel name: kaicenat>,       2024-11-07 13:07:29.295911 
+
+ doituzi,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:07:50.510604 

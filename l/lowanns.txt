@@ -1,0 +1,132 @@
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.262185 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:28:53.707206 
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.383041 
+
+ lowanns,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.369565 
+
+ lowanns,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.721247 
+
+ lowanns,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.928401 
+
+ lowanns,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:33:27.345497 
+
+ lowanns,     Swaziland,        <Channel name: shadowkekw>,       2024-11-07 10:33:51.393690 
+
+ lowanns,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:33:56.121606 
+
+ lowanns,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:37.199072 
+
+ lowanns,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:35:01.269606 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:35:29.293495 
+
+ lowanns,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:35:50.557238 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:36:11.929408 
+
+ lowanns,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:37:10.407116 
+
+ lowanns,     new Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.698525 
+
+ lowanns,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:38:10.273795 
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:39:37.563386 
+
+ lowanns,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:40:04.653620 
+
+ lowanns,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:10.717649 
+
+ lowanns,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:40:25.640964 
+
+ lowanns,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.985301 
+
+ lowanns,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.461478 
+
+ lowanns,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.995570 
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:42:02.505422 
+
+ lowanns,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:42:14.872166 
+
+ lowanns,     Swaziland,        <Channel name: shadowkekw>,       2024-11-07 10:42:34.314742 
+
+ lowanns,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:43:16.374070 
+
+ lowanns,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.126057 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.896954 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:43:52.110684 
+
+ lowanns,     Myanmar,        <Channel name: shadowkekw>,       2024-11-07 10:44:08.468410 
+
+ lowanns,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.583075 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:44:35.986961 
+
+ lowanns,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:45:00.724381 
+
+ lowanns,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 10:45:20.460249 
+
+ lowanns,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:45:39.075572 
+
+ lowanns,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:46:03.618939 
+
+ lowanns,     Benin,        <Channel name: shadowkekw>,       2024-11-07 10:46:20.958932 
+
+ lowanns,     Togo,        <Channel name: shadowkekw>,       2024-11-07 10:46:39.666827 
+
+ lowanns,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:46:58.527270 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:47:17.525360 
+
+ lowanns,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:47:52.609932 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:48:33.833786 
+
+ lowanns,     Benin,        <Channel name: shadowkekw>,       2024-11-07 10:48:47.706184 
+
+ lowanns,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:49:03.858967 
+
+ lowanns,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:49:21.350568 
+
+ lowanns,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:49:56.607055 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:50:19.400489 
+
+ lowanns,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:51:04.608925 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:51:28.764154 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.185893 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.800427 
+
+ lowanns,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:52:52.820448 
+
+ lowanns,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:53:16.721377 
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:54:20.995034 
+
+ lowanns,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:54:44.553566 
+
+ lowanns,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:55:12.246298 
+
+ lowanns,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:56:07.691538 
+
+ lowanns,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.403392 
+
+ lowanns,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:56:50.701752 
+
+ lowanns,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:57:32.825030 
+
+ lowanns,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:58:36.798464 
+
+ lowanns,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:59:09.862144 
+
+ lowanns,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:00:02.570071 
+
+ lowanns,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:00:39.091549 

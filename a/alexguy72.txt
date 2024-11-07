@@ -1,0 +1,6 @@
+
+ alexguy72,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:22:50.007485 
+
+ alexguy72,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:23:51.628612 
+
+ alexguy72,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:24:09.928302 

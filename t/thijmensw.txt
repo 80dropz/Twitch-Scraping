@@ -4,3 +4,7 @@
  thijmensw,     !specs,        <Channel name: mongraal>,       2024-11-07 09:34:16.892390 
 
  thijmensw,     !crosshair,        <Channel name: mongraal>,       2024-11-07 09:34:39.378750 
+
+ thijmensw,     !sens,        <Channel name: mongraal>,       2024-11-07 12:09:15.216562 
+
+ thijmensw,     !pc,        <Channel name: mongraal>,       2024-11-07 12:09:34.169869 

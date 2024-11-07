@@ -1,0 +1,16 @@
+
+ voixwo,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:54:11.704245 
+
+ voixwo,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.020013 
+
+ voixwo,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:08.931327 
+
+ voixwo,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:30.672116 
+
+ voixwo,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:02:38.200093 
+
+ voixwo,     india,        <Channel name: shadowkekw>,       2024-11-07 11:03:53.630143 
+
+ voixwo,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:07:45.548970 
+
+ voixwo,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.515383 

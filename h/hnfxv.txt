@@ -1,0 +1,26 @@
+
+ hnfxv,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.455883 
+
+ hnfxv,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.279797 
+
+ hnfxv,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:49.697826 
+
+ hnfxv,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.036472 
+
+ hnfxv,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.400315 
+
+ hnfxv,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:25:39.072780 
+
+ hnfxv,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.593839 
+
+ hnfxv,     francwe,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.325195 
+
+ hnfxv,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.638962 
+
+ hnfxv,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.557522 
+
+ hnfxv,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.857829 
+
+ hnfxv,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.074994 
+
+ hnfxv,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.059036 

@@ -1,0 +1,8 @@
+
+ xyzczu,     has the earthquake happened yet,        <Channel name: ricci>,       2024-11-07 13:20:31.840205 
+
+ xyzczu,     !wager,        <Channel name: ricci>,       2024-11-07 13:28:43.639141 
+
+ xyzczu,     !xm4,        <Channel name: ricci>,       2024-11-07 13:29:23.194979 
+
+ xyzczu,     ricci turned cod stream,        <Channel name: ricci>,       2024-11-07 13:29:53.622161 

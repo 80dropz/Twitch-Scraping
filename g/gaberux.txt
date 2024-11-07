@@ -1,0 +1,14 @@
+
+ gaberux,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:40:56.865761 
+
+ gaberux,     W 230K,        <Channel name: kaicenat>,       2024-11-07 12:49:42.740003 
+
+ gaberux,     100,        <Channel name: kaicenat>,       2024-11-07 12:50:54.222432 
+
+ gaberux,     someone do 100,        <Channel name: kaicenat>,       2024-11-07 12:51:00.582136 
+
+ gaberux,     WTFFFF,        <Channel name: kaicenat>,       2024-11-07 13:00:35.702905 
+
+ gaberux,     YO HOW LOL,        <Channel name: kaicenat>,       2024-11-07 13:01:21.086437 
+
+ gaberux,     LMAOOO HOW,        <Channel name: kaicenat>,       2024-11-07 13:02:07.180342 

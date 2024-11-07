@@ -6,3 +6,57 @@
  jekich144,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:28:48.365608 
 
  jekich144,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:37:05.661020 
+
+ jekich144,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:08.471853 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.667494 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.141775 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:22:53.643668 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.520188 
+
+ jekich144,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.261272 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:24:37.766355 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:24:51.798846 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.645523 
+
+ jekich144,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.413878 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.705360 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.251583 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.453179 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:26:50.432006 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.575523 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.288262 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.124615 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.732781 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:31:43.697005 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:31:47.605728 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.155963 
+
+ jekich144,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.238692 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:32:45.401201 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:34:02.161063 
+
+ jekich144,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.685025 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.623764 
+
+ jekich144,     India,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.342501 

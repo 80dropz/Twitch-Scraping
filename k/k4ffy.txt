@@ -1,2 +1,18 @@
 
  k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:01:38.510169 
+
+ k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:17:57.034827 
+
+ k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:18:30.374177 
+
+ k4ffy,     !time,        <Channel name: kaicenat>,       2024-11-07 12:19:22.351223 
+
+ k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:28:10.713085 
+
+ k4ffy,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 12:28:25.077445 
+
+ k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:28:30.957903 
+
+ k4ffy,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:42:58.231962 
+
+ k4ffy,     AHAHAHAHAHAHAHA,        <Channel name: kaicenat>,       2024-11-07 13:01:57.584822 

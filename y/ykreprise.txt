@@ -52,3 +52,5 @@
  ykreprise,     skibidi,        <Channel name: clix>,       2024-11-07 02:03:37.514130 
 
  ykreprise,     nah ts gotta be raw,        <Channel name: clix>,       2024-11-07 02:33:04.053811 
+
+ ykreprise,     FLOPPPER,        <Channel name: clix>,       2024-11-07 12:12:37.296384 

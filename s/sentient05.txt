@@ -1,0 +1,10 @@
+
+ sentient05,     @mira how is your cat so happy with new place? cats don't like new places,        <Channel name: mira>,       2024-11-07 13:04:47.176950 
+
+ sentient05,     filtered,        <Channel name: mira>,       2024-11-07 13:20:14.365404 
+
+ sentient05,     litterbox,        <Channel name: mira>,       2024-11-07 13:30:25.584086 
+
+ sentient05,     not shitterbox,        <Channel name: mira>,       2024-11-07 13:30:53.286429 
+
+ sentient05,     NotLikeThis NotLikeThis,        <Channel name: mira>,       2024-11-07 13:31:23.214750 

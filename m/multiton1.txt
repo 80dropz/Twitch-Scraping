@@ -4,3 +4,75 @@
  multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:36:18.849838 
 
  multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:36:42.380579 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:53:52.023544 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:44.698379 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:56:18.826989 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:56:45.867489 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 10:46:01.944579 
+
+ multiton1,     LL,        <Channel name: shadowkekw>,       2024-11-07 10:50:24.495761 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.279503 
+
+ multiton1,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:05:21.442733 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:34.055039 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:17:59.095248 
+
+ multiton1,     @ranaronx ww,        <Channel name: shadowkekw>,       2024-11-07 11:19:14.508094 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 11:19:48.444914 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:20:43.406237 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:22:12.432736 
+
+ multiton1,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:38.683029 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:24:35.406463 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:24.649916 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:27:48.498374 
+
+ multiton1,     100 WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:45.425162 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:31:01.277252 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:34:31.146914 
+
+ multiton1,     J,        <Channel name: shadowkekw>,       2024-11-07 11:36:18.601456 
+
+ multiton1,     100,        <Channel name: shadowkekw>,       2024-11-07 11:37:54.437151 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:16.190063 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:20.698835 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:54.449922 
+
+ multiton1,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:02.728272 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:05:11.140416 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:38.793650 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:58.713706 
+
+ multiton1,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:37.445851 
+
+ multiton1,     O,        <Channel name: shadowkekw>,       2024-11-07 12:16:14.173126 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 12:16:32.545518 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 12:29:38.691986 
+
+ multiton1,     )),        <Channel name: shadowkekw>,       2024-11-07 12:36:07.777560 
+
+ multiton1,     O,        <Channel name: shadowkekw>,       2024-11-07 12:37:27.414038 

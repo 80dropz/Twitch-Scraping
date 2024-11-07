@@ -1,0 +1,6 @@
+
+ mypendied,     GET HIS MIC,        <Channel name: kaicenat>,       2024-11-07 13:15:33.748436 
+
+ mypendied,     THE MUC,        <Channel name: kaicenat>,       2024-11-07 13:15:43.164380 
+
+ mypendied,     HIS MIC,        <Channel name: kaicenat>,       2024-11-07 13:15:56.982750 

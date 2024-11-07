@@ -1,0 +1,10 @@
+
+ maxdtank_,     WW Waley,        <Channel name: nadeshot>,       2024-11-07 12:56:29.731512 
+
+ maxdtank_,     F,        <Channel name: lacy>,       2024-11-07 13:11:31.369453 
+
+ maxdtank_,     WE GOOD,        <Channel name: lacy>,       2024-11-07 13:14:07.940545 
+
+ maxdtank_,     YEAH,        <Channel name: lacy>,       2024-11-07 13:17:29.624830 
+
+ maxdtank_,     LMAOO,        <Channel name: lacy>,       2024-11-07 13:32:36.868362 

@@ -1,0 +1,6 @@
+
+ a_barath,     wake up times up,        <Channel name: clix>,       2024-11-07 11:08:41.307194 
+
+ a_barath,     wake tf up,        <Channel name: clix>,       2024-11-07 12:31:14.615356 
+
+ a_barath,     eminent poi,        <Channel name: clix>,       2024-11-07 13:14:35.025805 

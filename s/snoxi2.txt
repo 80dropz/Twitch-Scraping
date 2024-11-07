@@ -1,0 +1,26 @@
+
+ snoxi2,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:08:12.306565 
+
+ snoxi2,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:09:30.752046 
+
+ snoxi2,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:10.251031 
+
+ snoxi2,     United States,        <Channel name: shadowkekw>,       2024-11-07 10:10:29.310604 
+
+ snoxi2,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:39.452489 
+
+ snoxi2,     America,        <Channel name: shadowkekw>,       2024-11-07 10:10:46.801742 
+
+ snoxi2,     South America,        <Channel name: shadowkekw>,       2024-11-07 10:11:01.464787 
+
+ snoxi2,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:22:26.744765 
+
+ snoxi2,     Makc,        <Channel name: shadowkekw>,       2024-11-07 11:41:32.371639 
+
+ snoxi2,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:45:06.853692 
+
+ snoxi2,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:53:53.289713 
+
+ snoxi2,     LL,        <Channel name: shadowkekw>,       2024-11-07 12:15:45.332488 
+
+ snoxi2,     G,        <Channel name: kaicenat>,       2024-11-07 12:18:17.666664 

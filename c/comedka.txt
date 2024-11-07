@@ -36,3 +36,21 @@
  comedka,     )),        <Channel name: shadowkekw>,       2024-11-07 09:42:58.780606 
 
  comedka,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:44:08.353185 
+
+ comedka,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:04:06.673636 
+
+ comedka,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:33.386688 
+
+ comedka,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:46.695765 
+
+ comedka,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:34.522808 
+
+ comedka,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:32:08.149818 
+
+ comedka,     )),        <Channel name: shadowkekw>,       2024-11-07 12:36:11.307695 
+
+ comedka,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:40:52.296655 
+
+ comedka,     o,        <Channel name: shadowkekw>,       2024-11-07 12:41:01.451131 
+
+ comedka,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:47:33.262753 

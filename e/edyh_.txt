@@ -1,0 +1,4 @@
+
+ edyh_,     !sens,        <Channel name: mongraal>,       2024-11-07 09:56:04.371520 
+
+ edyh_,     !settings,        <Channel name: mongraal>,       2024-11-07 10:21:20.385245 

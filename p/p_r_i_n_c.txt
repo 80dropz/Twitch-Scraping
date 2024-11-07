@@ -1,0 +1,52 @@
+
+ p_r_i_n_c,     !time,        <Channel name: kaicenat>,       2024-11-07 12:28:32.228355 
+
+ p_r_i_n_c,     yoo,        <Channel name: kaicenat>,       2024-11-07 12:33:29.058438 
+
+ p_r_i_n_c,     yo,        <Channel name: kaicenat>,       2024-11-07 12:33:38.810063 
+
+ p_r_i_n_c,     yoyo honey singh,        <Channel name: kaicenat>,       2024-11-07 12:34:01.148867 
+
+ p_r_i_n_c,     yooooooooooooo,        <Channel name: kaicenat>,       2024-11-07 12:35:24.598851 
+
+ p_r_i_n_c,     82,        <Channel name: kaicenat>,       2024-11-07 12:36:38.866853 
+
+ p_r_i_n_c,     81,        <Channel name: kaicenat>,       2024-11-07 12:36:48.635869 
+
+ p_r_i_n_c,     88,        <Channel name: kaicenat>,       2024-11-07 12:37:24.977633 
+
+ p_r_i_n_c,     86,        <Channel name: kaicenat>,       2024-11-07 12:37:40.551455 
+
+ p_r_i_n_c,     83,        <Channel name: kaicenat>,       2024-11-07 12:38:08.161080 
+
+ p_r_i_n_c,     80,        <Channel name: kaicenat>,       2024-11-07 12:38:38.732636 
+
+ p_r_i_n_c,     75,        <Channel name: kaicenat>,       2024-11-07 12:38:49.045036 
+
+ p_r_i_n_c,     73,        <Channel name: kaicenat>,       2024-11-07 12:39:01.173877 
+
+ p_r_i_n_c,     72,        <Channel name: kaicenat>,       2024-11-07 12:39:35.722125 
+
+ p_r_i_n_c,     71,        <Channel name: kaicenat>,       2024-11-07 12:39:59.655045 
+
+ p_r_i_n_c,     59,        <Channel name: kaicenat>,       2024-11-07 12:40:16.195252 
+
+ p_r_i_n_c,     68,        <Channel name: kaicenat>,       2024-11-07 12:40:25.856962 
+
+ p_r_i_n_c,     67,        <Channel name: kaicenat>,       2024-11-07 12:40:33.243630 
+
+ p_r_i_n_c,     66,        <Channel name: kaicenat>,       2024-11-07 12:40:51.722895 
+
+ p_r_i_n_c,     65,        <Channel name: kaicenat>,       2024-11-07 12:40:59.117190 
+
+ p_r_i_n_c,     63,        <Channel name: kaicenat>,       2024-11-07 12:41:08.663657 
+
+ p_r_i_n_c,     62,        <Channel name: kaicenat>,       2024-11-07 12:41:14.146844 
+
+ p_r_i_n_c,     61,        <Channel name: kaicenat>,       2024-11-07 12:41:23.862293 
+
+ p_r_i_n_c,     60,        <Channel name: kaicenat>,       2024-11-07 12:41:40.564140 
+
+ p_r_i_n_c,     w,        <Channel name: kaicenat>,       2024-11-07 12:50:35.133211 
+
+ p_r_i_n_c,     scammed,        <Channel name: kaicenat>,       2024-11-07 12:55:17.793477 

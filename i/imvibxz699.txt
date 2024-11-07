@@ -1,0 +1,8 @@
+
+ imvibxz699,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:34:52.591693 
+
+ imvibxz699,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:35:12.076747 
+
+ imvibxz699,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:35:42.984741 
+
+ imvibxz699,     !gamble 20,        <Channel name: kaicenat>,       2024-11-07 10:35:56.561135 

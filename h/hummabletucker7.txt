@@ -1,0 +1,16 @@
+
+ hummabletucker7,     !trio,        <Channel name: mongraal>,       2024-11-07 10:42:29.892643 
+
+ hummabletucker7,     !duo,        <Channel name: mongraal>,       2024-11-07 10:42:40.024990 
+
+ hummabletucker7,     !trio,        <Channel name: mongraal>,       2024-11-07 10:42:48.850277 
+
+ hummabletucker7,     !trio,        <Channel name: mongraal>,       2024-11-07 10:43:48.146622 
+
+ hummabletucker7,     !duo,        <Channel name: mongraal>,       2024-11-07 10:43:55.132118 
+
+ hummabletucker7,     !mrsavage,        <Channel name: mongraal>,       2024-11-07 10:44:05.523614 
+
+ hummabletucker7,     !savage,        <Channel name: mongraal>,       2024-11-07 10:44:13.189692 
+
+ hummabletucker7,     !duo,        <Channel name: mongraal>,       2024-11-07 10:44:17.510797 

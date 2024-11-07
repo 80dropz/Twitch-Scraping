@@ -1,0 +1,12 @@
+
+ a1wayssleep,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:17.070146 
+
+ a1wayssleep,     Iram,        <Channel name: shadowkekw>,       2024-11-07 10:07:59.078808 
+
+ a1wayssleep,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.932856 
+
+ a1wayssleep,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:09:29.256001 
+
+ a1wayssleep,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:05.421145 
+
+ a1wayssleep,     Irak,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.399143 

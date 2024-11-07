@@ -4,3 +4,11 @@
  cepoxx,     chat when start cc?,        <Channel name: mongraal>,       2024-11-07 09:32:45.284180 
 
  cepoxx,     !cc,        <Channel name: mongraal>,       2024-11-07 09:33:20.732915 
+
+ cepoxx,     chat when cc start?,        <Channel name: mongraal>,       2024-11-07 11:05:09.629441 
+
+ cepoxx,     upgrade to scar,        <Channel name: mongraal>,       2024-11-07 12:58:11.682514 
+
+ cepoxx,     upgrade to scarr,        <Channel name: mongraal>,       2024-11-07 12:59:02.404181 
+
+ cepoxx,     spaz scar,        <Channel name: mongraal>,       2024-11-07 13:00:07.727678 

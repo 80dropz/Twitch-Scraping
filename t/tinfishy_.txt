@@ -1,0 +1,12 @@
+
+ tinfishy_,     gg,        <Channel name: lacy>,       2024-11-07 13:19:20.802845 
+
+ tinfishy_,     gg,        <Channel name: lacy>,       2024-11-07 13:19:23.539997 
+
+ tinfishy_,     OV,        <Channel name: lacy>,       2024-11-07 13:19:44.472035 
+
+ tinfishy_,     gg,        <Channel name: lacy>,       2024-11-07 13:28:55.145526 
+
+ tinfishy_,     ta,        <Channel name: lacy>,       2024-11-07 13:30:59.907303 
+
+ tinfishy_,     gg,        <Channel name: lacy>,       2024-11-07 13:31:59.476264 

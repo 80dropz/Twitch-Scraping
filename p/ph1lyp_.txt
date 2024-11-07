@@ -1,0 +1,42 @@
+
+ ph1lyp_,     hungery,        <Channel name: shadowkekw>,       2024-11-07 10:10:23.136630 
+
+ ph1lyp_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:10:46.932388 
+
+ ph1lyp_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.121990 
+
+ ph1lyp_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.558773 
+
+ ph1lyp_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:11:59.538732 
+
+ ph1lyp_,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:13:09.105338 
+
+ ph1lyp_,     Texas,        <Channel name: shadowkekw>,       2024-11-07 10:13:49.036112 
+
+ ph1lyp_,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.495768 
+
+ ph1lyp_,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:14:50.286533 
+
+ ph1lyp_,     China,        <Channel name: shadowkekw>,       2024-11-07 10:15:13.157693 
+
+ ph1lyp_,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.632970 
+
+ ph1lyp_,     Figi,        <Channel name: shadowkekw>,       2024-11-07 10:16:14.068568 
+
+ ph1lyp_,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.369547 
+
+ ph1lyp_,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:16:36.721641 
+
+ ph1lyp_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:48.702110 
+
+ ph1lyp_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.096659 
+
+ ph1lyp_,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:19:09.980304 
+
+ ph1lyp_,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:19:14.041452 
+
+ ph1lyp_,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.032504 
+
+ ph1lyp_,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:20:59.326663 
+
+ ph1lyp_,     ZA ZA STAN,        <Channel name: shadowkekw>,       2024-11-07 11:05:22.001355 

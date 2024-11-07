@@ -1,0 +1,4 @@
+
+ gbnos,     was he awake or asleep during this chat,        <Channel name: nadeshot>,       2024-11-07 12:05:07.026514 
+
+ gbnos,     what was the tattoo that chat chose?,        <Channel name: nadeshot>,       2024-11-07 12:28:22.593396 

@@ -6,3 +6,251 @@
  avtop9,     Clap /,        <Channel name: shadowkekw>,       2024-11-07 09:18:10.470525 
 
  avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 09:42:16.409852 
+
+ avtop9,     ((,        <Channel name: shadowkekw>,       2024-11-07 09:52:12.295087 
+
+ avtop9,     (( .,        <Channel name: shadowkekw>,       2024-11-07 09:52:18.594545 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 09:53:32.447374 
+
+ avtop9,     )) .,        <Channel name: shadowkekw>,       2024-11-07 09:53:59.374363 
+
+ avtop9,     nyama,        <Channel name: shadowkekw>,       2024-11-07 10:01:49.792824 
+
+ avtop9,     nyama,        <Channel name: shadowkekw>,       2024-11-07 10:02:29.143121 
+
+ avtop9,     uz,        <Channel name: shadowkekw>,       2024-11-07 10:08:04.944253 
+
+ avtop9,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:09:11.126942 
+
+ avtop9,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.595523 
+
+ avtop9,     en,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.641427 
+
+ avtop9,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:11:09.524246 
+
+ avtop9,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:11:29.453671 
+
+ avtop9,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.919748 
+
+ avtop9,     @VLOVEVS,        <Channel name: shadowkekw>,       2024-11-07 10:13:59.176665 
+
+ avtop9,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.614810 
+
+ avtop9,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.025684 
+
+ avtop9,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:16:28.838493 
+
+ avtop9,     mw,        <Channel name: shadowkekw>,       2024-11-07 10:16:34.130597 
+
+ avtop9,     gi,        <Channel name: shadowkekw>,       2024-11-07 10:16:42.378709 
+
+ avtop9,     uc,        <Channel name: shadowkekw>,       2024-11-07 10:16:55.728378 
+
+ avtop9,     uz,        <Channel name: shadowkekw>,       2024-11-07 10:17:04.520974 
+
+ avtop9,     bf,        <Channel name: shadowkekw>,       2024-11-07 10:19:41.238392 
+
+ avtop9,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.557506 
+
+ avtop9,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.984683 
+
+ avtop9,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:22:55.686403 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:23:27.442486 
+
+ avtop9,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.191079 
+
+ avtop9,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:25:21.524875 
+
+ avtop9,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.802393 
+
+ avtop9,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:26:41.438594 
+
+ avtop9,     eu /,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.200038 
+
+ avtop9,     gd,        <Channel name: shadowkekw>,       2024-11-07 10:27:06.922311 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:27:11.773170 
+
+ avtop9,     it,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.779446 
+
+ avtop9,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.220830 
+
+ avtop9,     ur,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.520833 
+
+ avtop9,     lg,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.127047 
+
+ avtop9,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.341778 
+
+ avtop9,     es,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.930621 
+
+ avtop9,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.550634 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:29:17.666630 
+
+ avtop9,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.759236 
+
+ avtop9,     hz,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.808590 
+
+ avtop9,     jd,        <Channel name: shadowkekw>,       2024-11-07 10:30:16.343269 
+
+ avtop9,     mi,        <Channel name: shadowkekw>,       2024-11-07 10:30:22.079040 
+
+ avtop9,     si,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.319983 
+
+ avtop9,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.492236 
+
+ avtop9,     o,        <Channel name: shadowkekw>,       2024-11-07 10:31:19.054284 
+
+ avtop9,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.483933 
+
+ avtop9,     kn,        <Channel name: shadowkekw>,       2024-11-07 10:33:20.803132 
+
+ avtop9,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.882177 
+
+ avtop9,     9000,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.403851 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:35:57.282600 
+
+ avtop9,     en,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.932505 
+
+ avtop9,     us,        <Channel name: shadowkekw>,       2024-11-07 10:37:03.226552 
+
+ avtop9,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.270963 
+
+ avtop9,     kl,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.310499 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:38:42.436902 
+
+ avtop9,     gs,        <Channel name: shadowkekw>,       2024-11-07 10:39:17.230749 
+
+ avtop9,     it,        <Channel name: shadowkekw>,       2024-11-07 10:39:31.702995 
+
+ avtop9,     uz,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.461103 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:40:08.885288 
+
+ avtop9,     dk,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.312610 
+
+ avtop9,     os,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.327092 
+
+ avtop9,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:41:27.159456 
+
+ avtop9,     Em,        <Channel name: shadowkekw>,       2024-11-07 10:41:42.348892 
+
+ avtop9,     bi,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.585061 
+
+ avtop9,     bn,        <Channel name: shadowkekw>,       2024-11-07 10:43:31.035527 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 10:43:46.547560 
+
+ avtop9,     au at az al dz ai ao ad ag ar am aw af bs bd bb bh by bz be bj bm bg bo ba bw br bn bf bi bt vu va uk hu ve vg vi tl vn ga ht gy gm gh gp gt gf gn gq gw de gi hn hk gd gl gr ge gu dk dj dm do eg zm eh zw il in id jo iq ir ie is es it ye cv kz cm ca qa ke cy kg ki cn co km cg cd kp kr cr .,        <Channel name: shadowkekw>,       2024-11-07 10:49:38.597035 
+
+ avtop9,     ok,        <Channel name: shadowkekw>,       2024-11-07 11:05:33.591623 
+
+ avtop9,     lg,        <Channel name: shadowkekw>,       2024-11-07 11:05:57.592253 
+
+ avtop9,     jo,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.036346 
+
+ avtop9,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:06:16.278751 
+
+ avtop9,     er,        <Channel name: shadowkekw>,       2024-11-07 11:07:19.835306 
+
+ avtop9,     aga,        <Channel name: shadowkekw>,       2024-11-07 11:07:24.934520 
+
+ avtop9,     ui,        <Channel name: shadowkekw>,       2024-11-07 11:08:44.495594 
+
+ avtop9,     et,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.011196 
+
+ avtop9,     lk,        <Channel name: shadowkekw>,       2024-11-07 11:09:51.473521 
+
+ avtop9,     se,        <Channel name: shadowkekw>,       2024-11-07 11:09:55.733501 
+
+ avtop9,     tv,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.701419 
+
+ avtop9,     tn,        <Channel name: shadowkekw>,       2024-11-07 11:10:38.984544 
+
+ avtop9,     im,        <Channel name: shadowkekw>,       2024-11-07 11:12:28.833064 
+
+ avtop9,     nf,        <Channel name: shadowkekw>,       2024-11-07 11:12:35.076688 
+
+ avtop9,     pn,        <Channel name: shadowkekw>,       2024-11-07 11:13:02.485765 
+
+ avtop9,     mg,        <Channel name: shadowkekw>,       2024-11-07 11:16:56.026132 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:18:40.037889 
+
+ avtop9,     @ranaronx,        <Channel name: shadowkekw>,       2024-11-07 11:19:03.528332 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:19:38.293045 
+
+ avtop9,     @ranaronx,        <Channel name: shadowkekw>,       2024-11-07 11:20:01.128536 
+
+ avtop9,     @BuruhtaN268 @ranaronx,        <Channel name: shadowkekw>,       2024-11-07 11:21:15.641318 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:21:46.092702 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:21:54.063870 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:22:26.132302 
+
+ avtop9,     aga,        <Channel name: shadowkekw>,       2024-11-07 11:22:33.278346 
+
+ avtop9,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:36.784478 
+
+ avtop9,     ...,        <Channel name: shadowkekw>,       2024-11-07 11:24:02.435936 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:21.397760 
+
+ avtop9,     hz,        <Channel name: shadowkekw>,       2024-11-07 11:27:48.142713 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:54.860985 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:08.604371 
+
+ avtop9,     WW /,        <Channel name: shadowkekw>,       2024-11-07 11:30:12.029378 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:19.687294 
+
+ avtop9,     WW /,        <Channel name: shadowkekw>,       2024-11-07 11:30:26.511286 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:32.867679 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:40:23.612287 
+
+ avtop9,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:43:11.990999 
+
+ avtop9,     sosi,        <Channel name: shadowkekw>,       2024-11-07 11:45:34.686706 
+
+ avtop9,     SOSI,        <Channel name: shadowkekw>,       2024-11-07 11:45:37.892791 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:10.792117 
+
+ avtop9,     LMAO,        <Channel name: shadowkekw>,       2024-11-07 12:01:29.015452 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:42.515478 
+
+ avtop9,     WW /,        <Channel name: shadowkekw>,       2024-11-07 12:01:45.661735 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:48.858010 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 12:01:56.543154 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 12:02:31.812334 
+
+ avtop9,     FeelsSunnyMan: he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:33.513834 
+
+ avtop9,     FeelsSunnyMan <3,        <Channel name: shadowkekw>,       2024-11-07 12:03:49.920602 
+
+ avtop9,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:04:00.241510 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 12:04:35.967146 
+
+ avtop9,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:31.525783 
+
+ avtop9,     28,        <Channel name: shadowkekw>,       2024-11-07 12:05:55.907937 
+
+ avtop9,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:29.191181 
+
+ avtop9,     OK,        <Channel name: shadowkekw>,       2024-11-07 12:13:49.819858 

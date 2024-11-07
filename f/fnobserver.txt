@@ -1,0 +1,34 @@
+
+ fnobserver,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:12:11.261310 
+
+ fnobserver,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:12:42.920448 
+
+ fnobserver,     !timr,        <Channel name: clix>,       2024-11-07 10:13:24.238383 
+
+ fnobserver,     !time,        <Channel name: clix>,       2024-11-07 10:13:28.002778 
+
+ fnobserver,     !time,        <Channel name: kaicenat>,       2024-11-07 10:33:53.717591 
+
+ fnobserver,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:35:05.993189 
+
+ fnobserver,     !roulette 82,        <Channel name: kaicenat>,       2024-11-07 10:35:29.859166 
+
+ fnobserver,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:35:56.407637 
+
+ fnobserver,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:36:13.382317 
+
+ fnobserver,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:36:19.825519 
+
+ fnobserver,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:36:24.646081 
+
+ fnobserver,     !roulette2,        <Channel name: kaicenat>,       2024-11-07 10:36:28.653223 
+
+ fnobserver,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:36:34.035185 
+
+ fnobserver,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:36:45.287263 
+
+ fnobserver,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 10:36:51.525358 
+
+ fnobserver,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:36:59.319745 
+
+ fnobserver,     !time,        <Channel name: clix>,       2024-11-07 11:23:59.175328 

@@ -1,0 +1,14 @@
+
+ peredalvodichky,     ger,        <Channel name: shadowkekw>,       2024-11-07 10:42:50.028597 
+
+ peredalvodichky,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.340325 
+
+ peredalvodichky,     au,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.058379 
+
+ peredalvodichky,     ukr,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.062636 
+
+ peredalvodichky,     in,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.728279 
+
+ peredalvodichky,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:32.924884 
+
+ peredalvodichky,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:34.695032 

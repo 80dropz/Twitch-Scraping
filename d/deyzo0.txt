@@ -1,0 +1,90 @@
+
+ deyzo0,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:23:20.448868 
+
+ deyzo0,     Yamayka,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.439997 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.815631 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:24:26.188698 
+
+ deyzo0,     Switsarland,        <Channel name: shadowkekw>,       2024-11-07 10:24:53.217671 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.524739 
+
+ deyzo0,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.046710 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.542604 
+
+ deyzo0,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.246086 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.666687 
+
+ deyzo0,     Livan,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.039378 
+
+ deyzo0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.500685 
+
+ deyzo0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:32:49.766067 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.358826 
+
+ deyzo0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.395633 
+
+ deyzo0,     faroe islands,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.990454 
+
+ deyzo0,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:04.091309 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.691694 
+
+ deyzo0,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:36:10.698671 
+
+ deyzo0,     faroe islands,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.785253 
+
+ deyzo0,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:37:24.739139 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.833551 
+
+ deyzo0,     faroe islands,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.824152 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.872759 
+
+ deyzo0,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.387579 
+
+ deyzo0,     sd,        <Channel name: shadowkekw>,       2024-11-07 10:42:36.017668 
+
+ deyzo0,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.261417 
+
+ deyzo0,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.539634 
+
+ deyzo0,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:45:17.058099 
+
+ deyzo0,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.188248 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.765706 
+
+ deyzo0,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.655123 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:48:44.418844 
+
+ deyzo0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.419778 
+
+ deyzo0,     faroe islands,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.352310 
+
+ deyzo0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:30.201126 
+
+ deyzo0,     singapore,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.836400 
+
+ deyzo0,     czech,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.205632 
+
+ deyzo0,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.371406 
+
+ deyzo0,     Vietnam',        <Channel name: shadowkekw>,       2024-11-07 10:52:09.062166 
+
+ deyzo0,     bali,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.845958 
+
+ deyzo0,     uganfda,        <Channel name: shadowkekw>,       2024-11-07 10:53:31.941509 
+
+ deyzo0,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:54:29.167980 
+
+ deyzo0,     faroe islands,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.106112 
+
+ deyzo0,     bali,        <Channel name: shadowkekw>,       2024-11-07 10:55:41.732683 

@@ -1,0 +1,26 @@
+
+ moskvich_08,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:54:16.325057 
+
+ moskvich_08,     America,        <Channel name: shadowkekw>,       2024-11-07 10:57:35.182670 
+
+ moskvich_08,     Kazahstan,        <Channel name: shadowkekw>,       2024-11-07 10:59:15.354063 
+
+ moskvich_08,     Kazahstan,        <Channel name: shadowkekw>,       2024-11-07 11:02:54.305968 
+
+ moskvich_08,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:10:03.446254 
+
+ moskvich_08,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:44.179346 
+
+ moskvich_08,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.600420 
+
+ moskvich_08,     USAa\,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.340684 
+
+ moskvich_08,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 11:13:09.140500 
+
+ moskvich_08,     india,        <Channel name: shadowkekw>,       2024-11-07 11:13:56.127148 
+
+ moskvich_08,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:14:18.131636 
+
+ moskvich_08,     india,        <Channel name: shadowkekw>,       2024-11-07 11:16:08.696074 
+
+ moskvich_08,     ctyfne,        <Channel name: shadowkekw>,       2024-11-07 11:17:13.552398 

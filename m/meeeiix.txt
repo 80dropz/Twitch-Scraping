@@ -1,0 +1,4 @@
+
+ meeeiix,     !sens,        <Channel name: swagg>,       2024-11-07 10:48:36.298075 
+
+ meeeiix,     !fov,        <Channel name: swagg>,       2024-11-07 10:48:47.858853 

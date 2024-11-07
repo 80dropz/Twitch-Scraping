@@ -1,0 +1,14 @@
+
+ zyobbiet3,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 10:25:50.092574 
+
+ zyobbiet3,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:26:24.036983 
+
+ zyobbiet3,     !roulette 350,        <Channel name: kaicenat>,       2024-11-07 10:27:12.279764 
+
+ zyobbiet3,     production,        <Channel name: kaicenat>,       2024-11-07 10:44:11.923504 
+
+ zyobbiet3,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:44:27.348277 
+
+ zyobbiet3,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:12:04.286553 
+
+ zyobbiet3,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:34:05.905929 

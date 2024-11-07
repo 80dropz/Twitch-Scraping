@@ -1,0 +1,10 @@
+
+ wqxchris,     WWWWWWWWWWWWWW,        <Channel name: lacy>,       2024-11-07 12:51:41.245993 
+
+ wqxchris,     YES,        <Channel name: lacy>,       2024-11-07 12:57:04.446524 
+
+ wqxchris,     OKAY,        <Channel name: lacy>,       2024-11-07 12:57:21.897822 
+
+ wqxchris,     BYE,        <Channel name: lacy>,       2024-11-07 12:57:27.765175 
+
+ wqxchris,     BYEEEEEEE,        <Channel name: lacy>,       2024-11-07 12:57:30.653014 

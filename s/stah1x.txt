@@ -1,0 +1,18 @@
+
+ stah1x,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:42.474314 
+
+ stah1x,     iclend,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.322451 
+
+ stah1x,     China,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.449464 
+
+ stah1x,     France,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.066885 
+
+ stah1x,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:19:05.138722 
+
+ stah1x,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:20.621949 
+
+ stah1x,     f,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.153852 
+
+ stah1x,     France,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.594528 
+
+ stah1x,     France,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.413738 

@@ -1,0 +1,12 @@
+
+ mcrugb,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:07:20.143892 
+
+ mcrugb,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:34.959525 
+
+ mcrugb,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:48.598643 
+
+ mcrugb,     swizerland,        <Channel name: shadowkekw>,       2024-11-07 10:09:34.832946 
+
+ mcrugb,     polalnd,        <Channel name: shadowkekw>,       2024-11-07 10:10:39.842296 
+
+ mcrugb,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:11:07.523724 

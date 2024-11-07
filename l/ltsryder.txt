@@ -1,0 +1,2 @@
+
+ ltsryder,     !leftfootcam,        <Channel name: nadeshot>,       2024-11-07 09:54:19.752985 

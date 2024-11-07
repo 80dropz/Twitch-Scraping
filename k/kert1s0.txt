@@ -1,0 +1,106 @@
+
+ kert1s0,     France,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.166696 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.856988 
+
+ kert1s0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:52:12.419968 
+
+ kert1s0,     tailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:45.094984 
+
+ kert1s0,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.883507 
+
+ kert1s0,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:30.592286 
+
+ kert1s0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.895005 
+
+ kert1s0,     NorwayUSA,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.933481 
+
+ kert1s0,     SPAIN,        <Channel name: shadowkekw>,       2024-11-07 10:56:04.412737 
+
+ kert1s0,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:56:58.187700 
+
+ kert1s0,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:57:32.357799 
+
+ kert1s0,     South Korewa,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.044867 
+
+ kert1s0,     England,        <Channel name: shadowkekw>,       2024-11-07 10:59:11.962372 
+
+ kert1s0,     THAILAND,        <Channel name: shadowkekw>,       2024-11-07 11:01:50.502731 
+
+ kert1s0,     AUSTRIA,        <Channel name: shadowkekw>,       2024-11-07 11:03:08.827155 
+
+ kert1s0,     AUSTRIA,        <Channel name: shadowkekw>,       2024-11-07 11:04:08.039303 
+
+ kert1s0,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.267943 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.404567 
+
+ kert1s0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:06:26.016315 
+
+ kert1s0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:06:57.210568 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:07:03.194023 
+
+ kert1s0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:07:28.346882 
+
+ kert1s0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.810589 
+
+ kert1s0,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:07:43.220184 
+
+ kert1s0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:08:13.936473 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:08:17.461239 
+
+ kert1s0,     Malasiya,        <Channel name: shadowkekw>,       2024-11-07 11:08:27.504812 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:08:49.826178 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:08:53.479899 
+
+ kert1s0,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.246426 
+
+ kert1s0,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.808967 
+
+ kert1s0,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:09:30.749713 
+
+ kert1s0,     Gu,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.122631 
+
+ kert1s0,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 11:10:07.321320 
+
+ kert1s0,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:11.303116 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:10:14.785220 
+
+ kert1s0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.661801 
+
+ kert1s0,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.762609 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:10:48.775499 
+
+ kert1s0,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:10:53.168942 
+
+ kert1s0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:10:57.430232 
+
+ kert1s0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:11:12.850937 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.852202 
+
+ kert1s0,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:12:10.930037 
+
+ kert1s0,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:12:21.830592 
+
+ kert1s0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.854952 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:13:14.534022 
+
+ kert1s0,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:13:22.676383 
+
+ kert1s0,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.459309 
+
+ kert1s0,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:13:50.592263 
+
+ kert1s0,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:14:22.641583 
+
+ kert1s0,     THAILAND,        <Channel name: shadowkekw>,       2024-11-07 11:16:50.711844 
+
+ kert1s0,     s,        <Channel name: kaicenat>,       2024-11-07 11:42:25.863387 

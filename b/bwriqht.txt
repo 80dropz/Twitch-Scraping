@@ -1,0 +1,6 @@
+
+ bwriqht,     !prime,        <Channel name: kaicenat>,       2024-11-07 12:08:50.106064 
+
+ bwriqht,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:09:13.180925 
+
+ bwriqht,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:10:05.073667 

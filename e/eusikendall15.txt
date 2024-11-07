@@ -1,0 +1,8 @@
+
+ eusikendall15,     W npc,        <Channel name: kaicenat>,       2024-11-07 10:14:55.881963 
+
+ eusikendall15,     Who's the other person that's sleeping?,        <Channel name: kaicenat>,       2024-11-07 10:50:17.734765 
+
+ eusikendall15,     Who's on the small bed sleeping?,        <Channel name: kaicenat>,       2024-11-07 10:51:00.320083 
+
+ eusikendall15,     Who's on the left bed chat?,        <Channel name: kaicenat>,       2024-11-07 10:51:49.788872 

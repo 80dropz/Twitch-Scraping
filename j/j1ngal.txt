@@ -1,0 +1,46 @@
+
+ j1ngal,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.876587 
+
+ j1ngal,     France,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.828678 
+
+ j1ngal,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:21:47.601688 
+
+ j1ngal,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:22:50.788154 
+
+ j1ngal,     Pokestan,        <Channel name: shadowkekw>,       2024-11-07 10:23:25.454283 
+
+ j1ngal,     Hui,        <Channel name: shadowkekw>,       2024-11-07 10:23:31.039697 
+
+ j1ngal,     France,        <Channel name: shadowkekw>,       2024-11-07 10:26:20.043250 
+
+ j1ngal,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:27:03.316523 
+
+ j1ngal,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:27:43.146109 
+
+ j1ngal,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:27:59.491645 
+
+ j1ngal,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.452052 
+
+ j1ngal,     US,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.468514 
+
+ j1ngal,     Jopan,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.115957 
+
+ j1ngal,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.686759 
+
+ j1ngal,     90 90 90,        <Channel name: shadowkekw>,       2024-11-07 11:49:24.075091 
+
+ j1ngal,     cooltuh,        <Channel name: shadowkekw>,       2024-11-07 11:51:57.747362 
+
+ j1ngal,     https://www.twitch.tv/feelssunnyman/clip/LongBusyDurianJKanStyle-GzkAyFCSk4-p5f0k,        <Channel name: shadowkekw>,       2024-11-07 12:09:07.191622 
+
+ j1ngal,     https://www.twitch.tv/feelssunnyman/clip/LongBusyDurianJKanStyle-GzkAyFCSk4-p5f0k,        <Channel name: shadowkekw>,       2024-11-07 12:18:20.031783 
+
+ j1ngal,     https://www.twitch.tv/feelssunnyman/clip/LongBusyDurianJKanStyle-GzkAyFCSk4-p5f0k,        <Channel name: shadowkekw>,       2024-11-07 12:19:57.632369 
+
+ j1ngal,     90 90 90 90 90,        <Channel name: shadowkekw>,       2024-11-07 12:40:37.279042 
+
+ j1ngal,     90 0,        <Channel name: shadowkekw>,       2024-11-07 12:40:57.528273 
+
+ j1ngal,     https://www.twitch.tv/shadowkekw/clip/BetterBovineTomatoBleedPurple-E-p2TQeJFbdrdIjd,        <Channel name: shadowkekw>,       2024-11-07 12:43:31.105802 
+
+ j1ngal,     https://www.twitch.tv/shadowkekw/clip/BetterBovineTomatoBleedPurple-E-p2TQeJFbdrdIjd,        <Channel name: shadowkekw>,       2024-11-07 12:45:24.656263 

@@ -1,0 +1,6 @@
+
+ kyroz_gotty6,     !earings,        <Channel name: mrlust>,       2024-11-07 12:10:15.753392 
+
+ kyroz_gotty6,     !earnings,        <Channel name: mrlust>,       2024-11-07 12:10:30.573165 
+
+ kyroz_gotty6,     !keyboard,        <Channel name: mongraal>,       2024-11-07 12:29:49.218391 

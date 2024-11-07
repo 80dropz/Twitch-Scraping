@@ -1,0 +1,18 @@
+
+ 4upikz,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.740964 
+
+ 4upikz,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:52.244875 
+
+ 4upikz,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.965096 
+
+ 4upikz,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.018051 
+
+ 4upikz,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:49:56.680402 
+
+ 4upikz,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:35.037996 
+
+ 4upikz,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.431081 
+
+ 4upikz,     sudan,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.545521 
+
+ 4upikz,     Abkhazia,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.855666 

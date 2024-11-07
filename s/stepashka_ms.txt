@@ -1,0 +1,18 @@
+
+ stepashka_ms,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.682306 
+
+ stepashka_ms,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:54:51.447561 
+
+ stepashka_ms,     norvegia,        <Channel name: shadowkekw>,       2024-11-07 10:55:18.990351 
+
+ stepashka_ms,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.088182 
+
+ stepashka_ms,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:57:49.566170 
+
+ stepashka_ms,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:00:23.641300 
+
+ stepashka_ms,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:01:24.226988 
+
+ stepashka_ms,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:02:01.137523 
+
+ stepashka_ms,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:03:02.366081 

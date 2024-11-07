@@ -1,0 +1,6 @@
+
+ themightynabil,     !roulette 700,        <Channel name: kaicenat>,       2024-11-07 11:44:00.006603 
+
+ themightynabil,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 11:44:21.533112 
+
+ themightynabil,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 11:44:41.463633 

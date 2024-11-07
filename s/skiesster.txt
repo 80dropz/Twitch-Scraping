@@ -1,0 +1,12 @@
+
+ skiesster,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:40:39.811525 
+
+ skiesster,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 10:42:16.068578 
+
+ skiesster,     !points,        <Channel name: kaicenat>,       2024-11-07 10:42:51.454655 
+
+ skiesster,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:43:52.695849 
+
+ skiesster,     !points,        <Channel name: kaicenat>,       2024-11-07 10:44:09.414934 
+
+ skiesster,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:46:20.268164 

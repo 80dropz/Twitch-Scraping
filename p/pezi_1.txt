@@ -1,0 +1,4 @@
+
+ pezi_1,     hi,        <Channel name: kaicenat>,       2024-11-07 10:43:18.499327 
+
+ pezi_1,     klo,        <Channel name: kaicenat>,       2024-11-07 10:43:47.796036 

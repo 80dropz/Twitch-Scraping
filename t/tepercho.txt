@@ -1,0 +1,60 @@
+
+ tepercho,     India,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.636385 
+
+ tepercho,     Afganistan,        <Channel name: shadowkekw>,       2024-11-07 10:24:06.152499 
+
+ tepercho,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.830074 
+
+ tepercho,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:25:26.008515 
+
+ tepercho,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.441089 
+
+ tepercho,     Gana,        <Channel name: shadowkekw>,       2024-11-07 10:27:54.057921 
+
+ tepercho,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:36:47.469867 
+
+ tepercho,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:40.605726 
+
+ tepercho,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.169133 
+
+ tepercho,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:41:02.955119 
+
+ tepercho,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.032178 
+
+ tepercho,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:30.825721 
+
+ tepercho,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.207732 
+
+ tepercho,     Moldavia,        <Channel name: shadowkekw>,       2024-11-07 11:03:48.524979 
+
+ tepercho,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.769086 
+
+ tepercho,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:06:06.949532 
+
+ tepercho,     Iran,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.559650 
+
+ tepercho,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:06:35.714612 
+
+ tepercho,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:06:58.116994 
+
+ tepercho,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:07:15.641929 
+
+ tepercho,     France,        <Channel name: shadowkekw>,       2024-11-07 11:07:26.529918 
+
+ tepercho,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:08:00.745761 
+
+ tepercho,     China,        <Channel name: shadowkekw>,       2024-11-07 11:08:39.996999 
+
+ tepercho,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 11:10:54.580499 
+
+ tepercho,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:11:39.035894 
+
+ tepercho,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 11:12:05.092181 
+
+ tepercho,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:12:10.244764 
+
+ tepercho,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.941141 
+
+ tepercho,     China,        <Channel name: shadowkekw>,       2024-11-07 11:13:34.256995 
+
+ tepercho,     D,        <Channel name: shadowkekw>,       2024-11-07 11:14:27.283646 

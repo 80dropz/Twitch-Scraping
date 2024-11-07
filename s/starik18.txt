@@ -1,0 +1,74 @@
+
+ starik18,     China,        <Channel name: shadowkekw>,       2024-11-07 10:19:02.805447 
+
+ starik18,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:38.894565 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.168812 
+
+ starik18,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.079895 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:30:33.554955 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.934455 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.104331 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:31:43.410150 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:32:05.813398 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.745895 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.597676 
+
+ starik18,     italia,        <Channel name: shadowkekw>,       2024-11-07 10:33:42.383443 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:35:12.661155 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.265219 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:42.754365 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:47.799869 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:37:01.086799 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:38:24.813813 
+
+ starik18,     italia,        <Channel name: shadowkekw>,       2024-11-07 10:39:31.385700 
+
+ starik18,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.665657 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:42:36.407820 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:43:43.557037 
+
+ starik18,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:47:21.787785 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.940631 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.271259 
+
+ starik18,     china,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.661529 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.940715 
+
+ starik18,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:49:15.908866 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:49:39.592329 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.599276 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.229490 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:53:56.141431 
+
+ starik18,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.907604 
+
+ starik18,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:24.966661 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.902009 
+
+ starik18,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:56:39.755117 
+
+ starik18,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:57:00.922221 

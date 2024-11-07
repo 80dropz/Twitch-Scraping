@@ -32,3 +32,7 @@
  amp_david,     OVER SUM PANTS,        <Channel name: kaicenat>,       2024-11-07 02:49:48.784860 
 
  amp_david,     CAP,        <Channel name: kaicenat>,       2024-11-07 02:49:53.183276 
+
+ amp_david,     ITS W CONTENT callme992Nerd,        <Channel name: kaicenat>,       2024-11-07 13:04:46.635430 
+
+ amp_david,     EARTHQUAKE GONNA WAKE UP,        <Channel name: kaicenat>,       2024-11-07 13:06:13.069063 

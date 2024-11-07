@@ -1,0 +1,12 @@
+
+ phant8m_,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.454423 
+
+ phant8m_,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:16:53.558693 
+
+ phant8m_,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.631855 
+
+ phant8m_,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:17:32.045274 
+
+ phant8m_,     UzbekistanKazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:46.778859 
+
+ phant8m_,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:21:59.290296 

@@ -1,0 +1,12 @@
+
+ kapsesof,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.267095 
+
+ kapsesof,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:31:48.322526 
+
+ kapsesof,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.362330 
+
+ kapsesof,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:33:51.260028 
+
+ kapsesof,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:41:57.285117 
+
+ kapsesof,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.797728 

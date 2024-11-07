@@ -1,0 +1,6 @@
+
+ tabluvskids,     L lag,        <Channel name: lacy>,       2024-11-07 13:26:15.611041 
+
+ tabluvskids,     FFFFF,        <Channel name: lacy>,       2024-11-07 13:30:14.930786 
+
+ tabluvskids,     ffff,        <Channel name: lacy>,       2024-11-07 13:33:59.556954 

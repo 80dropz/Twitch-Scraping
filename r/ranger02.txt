@@ -1,0 +1,10 @@
+
+ ranger02,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 11:24:14.126238 
+
+ ranger02,     Get water,        <Channel name: kaicenat>,       2024-11-07 11:24:47.098429 
+
+ ranger02,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 12:09:33.214466 
+
+ ranger02,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:10:14.086610 
+
+ ranger02,     Earthquake????????,        <Channel name: kaicenat>,       2024-11-07 12:53:55.202699 

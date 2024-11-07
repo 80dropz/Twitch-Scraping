@@ -4,3 +4,9 @@
  henteri_,     )),        <Channel name: shadowkekw>,       2024-11-07 09:24:51.382264 
 
  henteri_,     )),        <Channel name: shadowkekw>,       2024-11-07 09:27:14.264230 
+
+ henteri_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.195298 
+
+ henteri_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.190036 
+
+ henteri_,     vamp,        <Channel name: shadowkekw>,       2024-11-07 10:09:41.581431 

@@ -1,0 +1,50 @@
+
+ maqualo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.015783 
+
+ maqualo,     br,        <Channel name: shadowkekw>,       2024-11-07 10:20:12.850700 
+
+ maqualo,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.684994 
+
+ maqualo,     br,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.552320 
+
+ maqualo,     th,        <Channel name: shadowkekw>,       2024-11-07 10:22:39.642360 
+
+ maqualo,     th,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.079304 
+
+ maqualo,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.530073 
+
+ maqualo,     br,        <Channel name: shadowkekw>,       2024-11-07 10:24:23.154009 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.567288 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:35:14.483297 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:44:21.078405 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.519237 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.620080 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.022550 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:48:38.442438 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.364343 
+
+ maqualo,     th,        <Channel name: shadowkekw>,       2024-11-07 10:49:54.339404 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:53:04.331762 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.282706 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.376618 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:57:31.257314 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.300141 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 11:00:36.740246 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.776496 
+
+ maqualo,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 11:06:29.765436 

@@ -1,0 +1,2 @@
+
+ skube6,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:53:50.974522 

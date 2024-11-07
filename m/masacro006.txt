@@ -1,0 +1,14 @@
+
+ masacro006,     hallo,        <Channel name: kaicenat>,       2024-11-07 12:30:22.120158 
+
+ masacro006,     hello,        <Channel name: kaicenat>,       2024-11-07 12:30:31.700021 
+
+ masacro006,     hello,        <Channel name: kaicenat>,       2024-11-07 12:31:15.537998 
+
+ masacro006,     hello,        <Channel name: kaicenat>,       2024-11-07 12:32:03.310539 
+
+ masacro006,     HELLO,        <Channel name: kaicenat>,       2024-11-07 12:33:13.535908 
+
+ masacro006,     hello,        <Channel name: kaicenat>,       2024-11-07 12:33:42.695012 
+
+ masacro006,     HELLO,        <Channel name: kaicenat>,       2024-11-07 12:33:55.258718 

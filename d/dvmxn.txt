@@ -1,0 +1,22 @@
+
+ dvmxn,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 10:22:54.414097 
+
+ dvmxn,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:23:07.823120 
+
+ dvmxn,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:23:51.924388 
+
+ dvmxn,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:24:06.672046 
+
+ dvmxn,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 10:24:34.055832 
+
+ dvmxn,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:24:59.842587 
+
+ dvmxn,     !points,        <Channel name: kaicenat>,       2024-11-07 10:25:15.312552 
+
+ dvmxn,     !roulette 268,        <Channel name: kaicenat>,       2024-11-07 10:25:26.103186 
+
+ dvmxn,     !roulette 333,        <Channel name: kaicenat>,       2024-11-07 10:25:37.528849 
+
+ dvmxn,     !roulette 666,        <Channel name: kaicenat>,       2024-11-07 10:25:48.235003 
+
+ dvmxn,     !roulette 369,        <Channel name: kaicenat>,       2024-11-07 10:26:02.898741 

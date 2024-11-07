@@ -1,0 +1,32 @@
+
+ lizal_chr1swave,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.918447 
+
+ lizal_chr1swave,     ,exica,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.110811 
+
+ lizal_chr1swave,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:22:05.339652 
+
+ lizal_chr1swave,     af,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.680219 
+
+ lizal_chr1swave,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:27:40.593976 
+
+ lizal_chr1swave,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.401000 
+
+ lizal_chr1swave,     lk,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.330946 
+
+ lizal_chr1swave,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.056268 
+
+ lizal_chr1swave,     mv,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.221634 
+
+ lizal_chr1swave,     id,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.640432 
+
+ lizal_chr1swave,     br,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.404404 
+
+ lizal_chr1swave,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.479087 
+
+ lizal_chr1swave,     china,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.476369 
+
+ lizal_chr1swave,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:32:50.444976 
+
+ lizal_chr1swave,     fe,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.809540 
+
+ lizal_chr1swave,     au,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.762928 

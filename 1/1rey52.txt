@@ -1,0 +1,32 @@
+
+ 1rey52,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:31:41.094577 
+
+ 1rey52,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:32:00.774249 
+
+ 1rey52,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.360403 
+
+ 1rey52,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:32:37.193378 
+
+ 1rey52,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.156454 
+
+ 1rey52,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:23.024274 
+
+ 1rey52,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:34:27.176686 
+
+ 1rey52,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.715970 
+
+ 1rey52,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.230780 
+
+ 1rey52,     icelanmd,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.154434 
+
+ 1rey52,     thailland,        <Channel name: shadowkekw>,       2024-11-07 10:38:14.741098 
+
+ 1rey52,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:42:39.022520 
+
+ 1rey52,     france,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.525491 
+
+ 1rey52,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:45:17.289798 
+
+ 1rey52,     nd,        <Channel name: shadowkekw>,       2024-11-07 10:47:52.819935 
+
+ 1rey52,     eusisa,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.168857 

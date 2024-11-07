@@ -1,0 +1,30 @@
+
+ root2kk,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.808897 
+
+ root2kk,     Omsk,        <Channel name: shadowkekw>,       2024-11-07 10:08:47.746400 
+
+ root2kk,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.489524 
+
+ root2kk,     HASDHSAHDSDHSA,        <Channel name: shadowkekw>,       2024-11-07 10:09:15.419091 
+
+ root2kk,     YA,        <Channel name: shadowkekw>,       2024-11-07 10:09:16.550564 
+
+ root2kk,     dania,        <Channel name: shadowkekw>,       2024-11-07 10:10:35.198751 
+
+ root2kk,     miami,        <Channel name: shadowkekw>,       2024-11-07 10:12:10.681725 
+
+ root2kk,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:36.603394 
+
+ root2kk,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:59.038385 
+
+ root2kk,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.070051 
+
+ root2kk,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:16:14.007919 
+
+ root2kk,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:16:55.234841 
+
+ root2kk,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.026926 
+
+ root2kk,     california,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.025838 
+
+ root2kk,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.764195 

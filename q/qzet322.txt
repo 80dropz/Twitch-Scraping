@@ -6,3 +6,13 @@
  qzet322,     38,        <Channel name: shadowkekw>,       2024-11-07 09:36:46.549111 
 
  qzet322,     ....,        <Channel name: shadowkekw>,       2024-11-07 09:42:39.868493 
+
+ qzet322,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:35.777111 
+
+ qzet322,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:27.213382 
+
+ qzet322,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:03.523076 
+
+ qzet322,     WOW,        <Channel name: shadowkekw>,       2024-11-07 12:48:17.353578 
+
+ qzet322,     BB,        <Channel name: shadowkekw>,       2024-11-07 12:52:14.224340 

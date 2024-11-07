@@ -1,0 +1,4 @@
+
+ minion_snow,     awe,        <Channel name: kaicenat>,       2024-11-07 12:08:16.385531 
+
+ minion_snow,     sweet,        <Channel name: kaicenat>,       2024-11-07 12:08:39.456028 

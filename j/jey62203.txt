@@ -1,0 +1,26 @@
+
+ jey62203,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.975389 
+
+ jey62203,     london,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.216597 
+
+ jey62203,     india,        <Channel name: shadowkekw>,       2024-11-07 10:42:00.178661 
+
+ jey62203,     france,        <Channel name: shadowkekw>,       2024-11-07 10:42:37.205045 
+
+ jey62203,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:42:41.990659 
+
+ jey62203,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.789250 
+
+ jey62203,     china,        <Channel name: shadowkekw>,       2024-11-07 10:44:36.160938 
+
+ jey62203,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:57.574117 
+
+ jey62203,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:45:41.099501 
+
+ jey62203,     sudan,        <Channel name: shadowkekw>,       2024-11-07 10:45:57.160867 
+
+ jey62203,     slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.158361 
+
+ jey62203,     brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:52:54.563459 
+
+ jey62203,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:57:26.020182 

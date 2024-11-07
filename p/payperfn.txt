@@ -1,0 +1,8 @@
+
+ payperfn,     yeah,        <Channel name: mongraal>,       2024-11-07 10:19:11.640617 
+
+ payperfn,     yh,        <Channel name: mongraal>,       2024-11-07 10:19:20.279204 
+
+ payperfn,     !finals,        <Channel name: mongraal>,       2024-11-07 10:21:25.046947 
+
+ payperfn,     !finals!,        <Channel name: mongraal>,       2024-11-07 10:21:44.453563 

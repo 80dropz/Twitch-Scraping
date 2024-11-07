@@ -1,0 +1,138 @@
+
+ w3sdie,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.488373 
+
+ w3sdie,     China,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.594302 
+
+ w3sdie,     India,        <Channel name: shadowkekw>,       2024-11-07 10:30:22.045008 
+
+ w3sdie,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.575906 
+
+ w3sdie,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:32:07.809755 
+
+ w3sdie,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:05.050820 
+
+ w3sdie,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.372763 
+
+ w3sdie,     in,        <Channel name: shadowkekw>,       2024-11-07 10:35:10.542334 
+
+ w3sdie,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.247404 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:36:17.223596 
+
+ w3sdie,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.059028 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:37:17.192774 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:39:18.124074 
+
+ w3sdie,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.573700 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.841685 
+
+ w3sdie,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.083667 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:40:38.825710 
+
+ w3sdie,     us,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.636730 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:41:40.612384 
+
+ w3sdie,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.511646 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:08.410410 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.511830 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:47.296267 
+
+ w3sdie,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.391829 
+
+ w3sdie,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.402937 
+
+ w3sdie,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:44:47.456408 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:45:06.214924 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:22.687084 
+
+ w3sdie,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.076307 
+
+ w3sdie,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.460245 
+
+ w3sdie,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.496194 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.567858 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:49:08.624042 
+
+ w3sdie,     eee,        <Channel name: shadowkekw>,       2024-11-07 10:49:27.082181 
+
+ w3sdie,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:49:50.564386 
+
+ w3sdie,     russiua,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.947215 
+
+ w3sdie,     india,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.221869 
+
+ w3sdie,     philippines,        <Channel name: shadowkekw>,       2024-11-07 10:53:09.653304 
+
+ w3sdie,     india,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.236007 
+
+ w3sdie,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:53:45.655379 
+
+ w3sdie,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:10.704857 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 10:54:51.187618 
+
+ w3sdie,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.338166 
+
+ w3sdie,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:26.868476 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.235778 
+
+ w3sdie,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.959028 
+
+ w3sdie,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.619484 
+
+ w3sdie,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.262509 
+
+ w3sdie,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.367501 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.826489 
+
+ w3sdie,     chilie,        <Channel name: shadowkekw>,       2024-11-07 11:02:13.437966 
+
+ w3sdie,     spain,        <Channel name: shadowkekw>,       2024-11-07 11:03:28.785445 
+
+ w3sdie,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.806385 
+
+ w3sdie,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.081853 
+
+ w3sdie,     swizerland,        <Channel name: shadowkekw>,       2024-11-07 11:04:56.472628 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.452029 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.024618 
+
+ w3sdie,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:08:15.639515 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 11:10:54.218595 
+
+ w3sdie,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:11:26.536935 
+
+ w3sdie,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:19.152794 
+
+ w3sdie,     do,        <Channel name: shadowkekw>,       2024-11-07 11:12:53.022601 
+
+ w3sdie,     ee,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.842777 
+
+ w3sdie,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:15:02.273476 
+
+ w3sdie,     CNTR W,        <Channel name: shadowkekw>,       2024-11-07 11:16:10.664013 
+
+ w3sdie,     KAI CENAT W,        <Channel name: shadowkekw>,       2024-11-07 11:17:01.566364 
+
+ w3sdie,     50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW,        <Channel name: shadowkekw>,       2024-11-07 11:17:06.087043 
+
+ w3sdie,     50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW,        <Channel name: shadowkekw>,       2024-11-07 11:17:22.913244 
+
+ w3sdie,     50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW 50K KAI CENAT WW,        <Channel name: shadowkekw>,       2024-11-07 11:17:37.091626 

@@ -1,0 +1,28 @@
+
+ lbdasteppaa_,     L production,        <Channel name: kaicenat>,       2024-11-07 10:46:03.545344 
+
+ lbdasteppaa_,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:46:09.069568 
+
+ lbdasteppaa_,     switch cam,        <Channel name: kaicenat>,       2024-11-07 10:46:12.686699 
+
+ lbdasteppaa_,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:46:54.587474 
+
+ lbdasteppaa_,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:47:25.897542 
+
+ lbdasteppaa_,     sombody drop 50 gifted,        <Channel name: kaicenat>,       2024-11-07 10:55:17.360590 
+
+ lbdasteppaa_,     gift,        <Channel name: kaicenat>,       2024-11-07 11:03:23.171902 
+
+ lbdasteppaa_,     sub,        <Channel name: kaicenat>,       2024-11-07 11:03:24.290317 
+
+ lbdasteppaa_,     gift,        <Channel name: kaicenat>,       2024-11-07 11:03:28.489199 
+
+ lbdasteppaa_,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 11:05:13.706957 
+
+ lbdasteppaa_,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 11:05:17.667694 
+
+ lbdasteppaa_,     do it,        <Channel name: kaicenat>,       2024-11-07 11:06:45.361425 
+
+ lbdasteppaa_,     no way,        <Channel name: kaicenat>,       2024-11-07 11:08:36.674821 
+
+ lbdasteppaa_,     wdfk,        <Channel name: kaicenat>,       2024-11-07 11:09:00.999883 

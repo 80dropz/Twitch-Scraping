@@ -1,0 +1,44 @@
+
+ vanesaaav,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:01:18.089469 
+
+ vanesaaav,     GMM,        <Channel name: kaicenat>,       2024-11-07 11:51:34.906678 
+
+ vanesaaav,     WW,        <Channel name: kaicenat>,       2024-11-07 11:54:39.310102 
+
+ vanesaaav,     WW,        <Channel name: kaicenat>,       2024-11-07 11:56:11.566817 
+
+ vanesaaav,     WWW,        <Channel name: kaicenat>,       2024-11-07 12:49:14.245604 
+
+ vanesaaav,     230K,        <Channel name: kaicenat>,       2024-11-07 12:49:24.769824 
+
+ vanesaaav,     WW,        <Channel name: kaicenat>,       2024-11-07 12:50:13.987233 
+
+ vanesaaav,     yes,        <Channel name: kaicenat>,       2024-11-07 12:56:13.298716 
+
+ vanesaaav,     WW,        <Channel name: kaicenat>,       2024-11-07 13:00:02.823604 
+
+ vanesaaav,     WTH,        <Channel name: kaicenat>,       2024-11-07 13:00:56.817893 
+
+ vanesaaav,     naaaah,        <Channel name: kaicenat>,       2024-11-07 13:06:14.319549 
+
+ vanesaaav,     naaah,        <Channel name: kaicenat>,       2024-11-07 13:15:25.515613 
+
+ vanesaaav,     you cooked,        <Channel name: kaicenat>,       2024-11-07 13:15:44.998114 
+
+ vanesaaav,     mic phone,        <Channel name: kaicenat>,       2024-11-07 13:16:12.374714 
+
+ vanesaaav,     WWW,        <Channel name: kaicenat>,       2024-11-07 13:29:39.955642 
+
+ vanesaaav,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:30:07.868788 
+
+ vanesaaav,     do it,        <Channel name: kaicenat>,       2024-11-07 13:30:29.903541 
+
+ vanesaaav,     do itt,        <Channel name: kaicenat>,       2024-11-07 13:30:53.641685 
+
+ vanesaaav,     WWW,        <Channel name: kaicenat>,       2024-11-07 13:31:24.790434 
+
+ vanesaaav,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:31:34.442773 
+
+ vanesaaav,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:32:59.050789 
+
+ vanesaaav,     WWW,        <Channel name: kaicenat>,       2024-11-07 13:34:04.261133 

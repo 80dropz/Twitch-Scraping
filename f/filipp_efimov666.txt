@@ -1,0 +1,172 @@
+
+ filipp_efimov666,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:36.375775 
+
+ filipp_efimov666,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:23:09.201609 
+
+ filipp_efimov666,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.138779 
+
+ filipp_efimov666,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.919389 
+
+ filipp_efimov666,     Brunei,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.256940 
+
+ filipp_efimov666,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:24:06.248111 
+
+ filipp_efimov666,     El Salvador,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.824774 
+
+ filipp_efimov666,     Equatorial Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.438113 
+
+ filipp_efimov666,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.943061 
+
+ filipp_efimov666,     Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:25:04.810517 
+
+ filipp_efimov666,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:25:25.270938 
+
+ filipp_efimov666,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:25:59.681136 
+
+ filipp_efimov666,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.009854 
+
+ filipp_efimov666,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.965076 
+
+ filipp_efimov666,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.351798 
+
+ filipp_efimov666,     Sierra Leone,        <Channel name: shadowkekw>,       2024-11-07 10:27:08.120561 
+
+ filipp_efimov666,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:27.839740 
+
+ filipp_efimov666,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:27:34.602521 
+
+ filipp_efimov666,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:28:22.058718 
+
+ filipp_efimov666,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:28:32.751322 
+
+ filipp_efimov666,     Guinea-Bissau,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.211238 
+
+ filipp_efimov666,     Haiti,        <Channel name: shadowkekw>,       2024-11-07 10:29:18.976215 
+
+ filipp_efimov666,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.255060 
+
+ filipp_efimov666,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:29:35.738707 
+
+ filipp_efimov666,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.515039 
+
+ filipp_efimov666,     Marshall Islands,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.850477 
+
+ filipp_efimov666,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.992428 
+
+ filipp_efimov666,     Mauritius,        <Channel name: shadowkekw>,       2024-11-07 10:30:25.056521 
+
+ filipp_efimov666,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:30:41.678493 
+
+ filipp_efimov666,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:30:57.177338 
+
+ filipp_efimov666,     Comoros,        <Channel name: shadowkekw>,       2024-11-07 10:31:37.275671 
+
+ filipp_efimov666,     East Timor,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.256774 
+
+ filipp_efimov666,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:31:56.911332 
+
+ filipp_efimov666,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:32:01.102086 
+
+ filipp_efimov666,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.823158 
+
+ filipp_efimov666,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.961646 
+
+ filipp_efimov666,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:32:36.891699 
+
+ filipp_efimov666,     irak,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.404221 
+
+ filipp_efimov666,     Equatorial Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.584472 
+
+ filipp_efimov666,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.857673 
+
+ filipp_efimov666,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:34:34.489760 
+
+ filipp_efimov666,     Federated States of Micronesia,        <Channel name: shadowkekw>,       2024-11-07 10:35:01.542942 
+
+ filipp_efimov666,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.636184 
+
+ filipp_efimov666,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:36:48.890177 
+
+ filipp_efimov666,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:37:12.483479 
+
+ filipp_efimov666,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.087563 
+
+ filipp_efimov666,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.170655 
+
+ filipp_efimov666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.447726 
+
+ filipp_efimov666,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.803184 
+
+ filipp_efimov666,     )),        <Channel name: shadowkekw>,       2024-11-07 10:41:43.452988 
+
+ filipp_efimov666,     Costa Rica,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.281796 
+
+ filipp_efimov666,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.581938 
+
+ filipp_efimov666,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.258795 
+
+ filipp_efimov666,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.618572 
+
+ filipp_efimov666,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:55.368561 
+
+ filipp_efimov666,     Bahrain,        <Channel name: shadowkekw>,       2024-11-07 10:45:10.860010 
+
+ filipp_efimov666,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.564319 
+
+ filipp_efimov666,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.115362 
+
+ filipp_efimov666,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:46:14.913805 
+
+ filipp_efimov666,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:46:36.547780 
+
+ filipp_efimov666,     San Marino,        <Channel name: shadowkekw>,       2024-11-07 10:46:54.811739 
+
+ filipp_efimov666,     United Arab Emirate,        <Channel name: shadowkekw>,       2024-11-07 10:47:18.511496 
+
+ filipp_efimov666,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.346371 
+
+ filipp_efimov666,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.333958 
+
+ filipp_efimov666,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:48:26.322907 
+
+ filipp_efimov666,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.274449 
+
+ filipp_efimov666,     Solomon Islands,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.310133 
+
+ filipp_efimov666,     South Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:49:59.804220 
+
+ filipp_efimov666,     United Arab Emirates,        <Channel name: shadowkekw>,       2024-11-07 10:50:29.751802 
+
+ filipp_efimov666,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:51:00.529772 
+
+ filipp_efimov666,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.605974 
+
+ filipp_efimov666,     Myanmar,        <Channel name: shadowkekw>,       2024-11-07 10:51:35.896691 
+
+ filipp_efimov666,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:52:03.110325 
+
+ filipp_efimov666,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.156004 
+
+ filipp_efimov666,     Saudi Arabia,        <Channel name: shadowkekw>,       2024-11-07 10:54:07.112217 
+
+ filipp_efimov666,     Syria,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.612346 
+
+ filipp_efimov666,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:55:52.500896 
+
+ filipp_efimov666,     Swaziland,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.796077 
+
+ filipp_efimov666,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:57:41.045622 
+
+ filipp_efimov666,     Saudi Arabia,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.892677 
+
+ filipp_efimov666,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 11:05:11.772864 
+
+ filipp_efimov666,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:06:03.725306 
+
+ filipp_efimov666,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:06:59.104285 
+
+ filipp_efimov666,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.468710 
+
+ filipp_efimov666,     zaza,        <Channel name: shadowkekw>,       2024-11-07 12:11:46.166177 
+
+ filipp_efimov666,     )),        <Channel name: shadowkekw>,       2024-11-07 12:12:03.946045 

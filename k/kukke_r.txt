@@ -10,3 +10,7 @@
  kukke_r,     !gamble 1,        <Channel name: robcdee>,       2024-11-07 09:27:31.562910 
 
  kukke_r,     !join,        <Channel name: robcdee>,       2024-11-07 09:43:46.704799 
+
+ kukke_r,     @Mr_Chuw MLADY,        <Channel name: robcdee>,       2024-11-07 09:59:01.531486 
+
+ kukke_r,     @TheRealPaowee rcd7,        <Channel name: robcdee>,       2024-11-07 10:05:21.351595 

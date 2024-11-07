@@ -2,3 +2,7 @@
  vip_malblshka,     1,        <Channel name: shadowkekw>,       2024-11-07 09:43:55.369570 
 
  vip_malblshka,     11111111111111,        <Channel name: shadowkekw>,       2024-11-07 09:43:57.514451 
+
+ vip_malblshka,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:34.386919 
+
+ vip_malblshka,     322,        <Channel name: shadowkekw>,       2024-11-07 11:06:48.704475 

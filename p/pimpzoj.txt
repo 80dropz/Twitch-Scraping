@@ -8,3 +8,193 @@
  pimpzoj,     aunkere,        <Channel name: shadowkekw>,       2024-11-07 09:31:10.274093 
 
  pimpzoj,     ))))))))))))))),        <Channel name: shadowkekw>,       2024-11-07 09:37:17.337259 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 10:07:31.917188 
+
+ pimpzoj,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.750093 
+
+ pimpzoj,     it,        <Channel name: shadowkekw>,       2024-11-07 10:07:50.762563 
+
+ pimpzoj,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:08:13.579928 
+
+ pimpzoj,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.606842 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:08:32.726891 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:08:43.305758 
+
+ pimpzoj,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:08:45.267164 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:09:00.401188 
+
+ pimpzoj,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:09:04.506243 
+
+ pimpzoj,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.420244 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.559563 
+
+ pimpzoj,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.012040 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 10:16:42.237558 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:17:41.736030 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.008417 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.214852 
+
+ pimpzoj,     th,        <Channel name: shadowkekw>,       2024-11-07 10:22:27.177755 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.333517 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 10:22:52.340944 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.655947 
+
+ pimpzoj,     15,        <Channel name: shadowkekw>,       2024-11-07 10:23:11.411578 
+
+ pimpzoj,     it,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.741257 
+
+ pimpzoj,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:23:20.538416 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.021292 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.502595 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.440766 
+
+ pimpzoj,     it,        <Channel name: shadowkekw>,       2024-11-07 10:26:10.230330 
+
+ pimpzoj,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:26:20.281337 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:28:07.853329 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:53:47.817939 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.973628 
+
+ pimpzoj,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:54:29.742468 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 10:55:41.955818 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.673496 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.198772 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:58:06.075066 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.557540 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:58:26.708975 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:58:35.646406 
+
+ pimpzoj,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:58:41.042468 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:22.303425 
+
+ pimpzoj,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:00:04.509842 
+
+ pimpzoj,     in,        <Channel name: shadowkekw>,       2024-11-07 11:00:09.055054 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 11:00:34.930256 
+
+ pimpzoj,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:00:58.046609 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:11.663558 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:02:03.532872 
+
+ pimpzoj,     fn,        <Channel name: shadowkekw>,       2024-11-07 11:02:05.274866 
+
+ pimpzoj,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:02:11.687360 
+
+ pimpzoj,     br,        <Channel name: shadowkekw>,       2024-11-07 11:02:26.119182 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:03:04.143143 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:03:07.050051 
+
+ pimpzoj,     np[,        <Channel name: shadowkekw>,       2024-11-07 11:03:47.884666 
+
+ pimpzoj,     np,        <Channel name: shadowkekw>,       2024-11-07 11:03:49.513790 
+
+ pimpzoj,     th,        <Channel name: shadowkekw>,       2024-11-07 11:03:50.985493 
+
+ pimpzoj,     in,        <Channel name: shadowkekw>,       2024-11-07 11:04:03.608864 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:05.243302 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.158875 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:04:40.634123 
+
+ pimpzoj,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:04:43.566220 
+
+ pimpzoj,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:04:46.933865 
+
+ pimpzoj,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:04:47.943100 
+
+ pimpzoj,     br,        <Channel name: shadowkekw>,       2024-11-07 11:04:54.696410 
+
+ pimpzoj,     bf,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.921943 
+
+ pimpzoj,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:05:05.642706 
+
+ pimpzoj,     br,        <Channel name: shadowkekw>,       2024-11-07 11:05:23.676977 
+
+ pimpzoj,     th,        <Channel name: shadowkekw>,       2024-11-07 11:05:25.461968 
+
+ pimpzoj,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:05:28.497517 
+
+ pimpzoj,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.666348 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:11:39.410727 
+
+ pimpzoj,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:11:41.684730 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:11:43.001817 
+
+ pimpzoj,     in,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.620429 
+
+ pimpzoj,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.667490 
+
+ pimpzoj,     bf,        <Channel name: shadowkekw>,       2024-11-07 11:12:27.161820 
+
+ pimpzoj,     it,        <Channel name: shadowkekw>,       2024-11-07 11:12:39.890841 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:13:34.367580 
+
+ pimpzoj,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.941331 
+
+ pimpzoj,     us,        <Channel name: shadowkekw>,       2024-11-07 11:14:11.746851 
+
+ pimpzoj,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:14:13.091205 
+
+ pimpzoj,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:14:17.819394 
+
+ pimpzoj,     br,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.214968 
+
+ pimpzoj,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:14:27.221603 
+
+ pimpzoj,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.119166 
+
+ pimpzoj,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:14:33.824110 
+
+ pimpzoj,     es,        <Channel name: shadowkekw>,       2024-11-07 11:14:42.924810 
+
+ pimpzoj,     ni,        <Channel name: shadowkekw>,       2024-11-07 11:14:48.227635 
+
+ pimpzoj,     CTRL W,        <Channel name: shadowkekw>,       2024-11-07 11:16:01.858281 
+
+ pimpzoj,     ???????????,        <Channel name: shadowkekw>,       2024-11-07 11:23:33.617190 
+
+ pimpzoj,     ???,        <Channel name: shadowkekw>,       2024-11-07 11:24:00.980369 
+
+ pimpzoj,     ))))),        <Channel name: shadowkekw>,       2024-11-07 11:40:23.544230 
+
+ pimpzoj,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:11.785674 
+
+ pimpzoj,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:38.105574 
+
+ pimpzoj,     ct0mDance,        <Channel name: shadowkekw>,       2024-11-07 12:07:35.909991 

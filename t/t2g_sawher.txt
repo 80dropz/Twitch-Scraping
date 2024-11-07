@@ -2,3 +2,15 @@
  t2g_sawher,     W chaz,        <Channel name: nadeshot>,       2024-11-07 02:09:38.609568 
 
  t2g_sawher,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:30.448250 
+
+ t2g_sawher,     W,        <Channel name: nadeshot>,       2024-11-07 11:45:53.531146 
+
+ t2g_sawher,     giveitup,        <Channel name: nadeshot>,       2024-11-07 12:21:00.307029 
+
+ t2g_sawher,     nadeMeat nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 12:32:28.970528 
+
+ t2g_sawher,     NO, DROP A NUKE TO TAKE IT OFF,        <Channel name: nadeshot>,       2024-11-07 12:35:32.252263 
+
+ t2g_sawher,     ONLY WAY TO TAKE IT OFF IS TO DROP A NUKE,        <Channel name: nadeshot>,       2024-11-07 12:36:17.000720 
+
+ t2g_sawher,     full cam for haley,        <Channel name: nadeshot>,       2024-11-07 12:42:49.407732 

@@ -42,3 +42,5 @@
  sincrowttv,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:23.942661 
 
  sincrowttv,     WW,        <Channel name: kaicenat>,       2024-11-07 02:51:15.367104 
+
+ sincrowttv,     NIGGA WAKE UP,        <Channel name: kaicenat>,       2024-11-07 13:33:44.324070 

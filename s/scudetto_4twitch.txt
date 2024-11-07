@@ -1,0 +1,10 @@
+
+ scudetto_4twitch,     !rank,        <Channel name: mongraal>,       2024-11-07 11:08:05.554933 
+
+ scudetto_4twitch,     !years old,        <Channel name: mongraal>,       2024-11-07 11:09:21.510657 
+
+ scudetto_4twitch,     How old are you?,        <Channel name: mongraal>,       2024-11-07 11:09:40.437540 
+
+ scudetto_4twitch,     WutFace,        <Channel name: mongraal>,       2024-11-07 11:25:18.485548 
+
+ scudetto_4twitch,     So che nessuno qua è italiano ma vabbe,        <Channel name: mongraal>,       2024-11-07 11:26:37.166210 

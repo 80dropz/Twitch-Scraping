@@ -1,0 +1,14 @@
+
+ goomba_rust,     MUTED,        <Channel name: kaicenat>,       2024-11-07 11:40:45.627744 
+
+ goomba_rust,     MUTED!,        <Channel name: kaicenat>,       2024-11-07 11:40:59.627451 
+
+ goomba_rust,     MUTED,        <Channel name: kaicenat>,       2024-11-07 11:41:16.063331 
+
+ goomba_rust,     MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED,        <Channel name: kaicenat>,       2024-11-07 11:43:45.298572 
+
+ goomba_rust,     MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED,        <Channel name: kaicenat>,       2024-11-07 11:43:53.665655 
+
+ goomba_rust,     MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED,        <Channel name: kaicenat>,       2024-11-07 11:44:01.710611 
+
+ goomba_rust,     MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED MUTED,        <Channel name: kaicenat>,       2024-11-07 11:44:14.611142 

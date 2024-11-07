@@ -24,3 +24,53 @@
  drtribalcraft,     50 gifted,        <Channel name: kaicenat>,       2024-11-07 09:40:40.572422 
 
  drtribalcraft,     drink some water,        <Channel name: kaicenat>,       2024-11-07 09:41:31.122376 
+
+ drtribalcraft,     brother is slurring his words,        <Channel name: kaicenat>,       2024-11-07 09:57:57.644517 
+
+ drtribalcraft,     why are your arms so long?,        <Channel name: kaicenat>,       2024-11-07 10:02:10.278334 
+
+ drtribalcraft,     man’s can’t speak,        <Channel name: kaicenat>,       2024-11-07 10:05:38.799454 
+
+ drtribalcraft,     take a break,        <Channel name: kaicenat>,       2024-11-07 10:05:51.803894 
+
+ drtribalcraft,     lool,        <Channel name: kaicenat>,       2024-11-07 10:31:16.977463 
+
+ drtribalcraft,     235 more,        <Channel name: kaicenat>,       2024-11-07 12:09:22.758874 
+
+ drtribalcraft,     229,        <Channel name: kaicenat>,       2024-11-07 12:10:18.423537 
+
+ drtribalcraft,     228,        <Channel name: kaicenat>,       2024-11-07 12:10:34.521558 
+
+ drtribalcraft,     227,        <Channel name: kaicenat>,       2024-11-07 12:10:42.142451 
+
+ drtribalcraft,     226,        <Channel name: kaicenat>,       2024-11-07 12:10:50.912323 
+
+ drtribalcraft,     225,        <Channel name: kaicenat>,       2024-11-07 12:11:01.554539 
+
+ drtribalcraft,     224,        <Channel name: kaicenat>,       2024-11-07 12:11:09.469520 
+
+ drtribalcraft,     223,        <Channel name: kaicenat>,       2024-11-07 12:11:19.343383 
+
+ drtribalcraft,     222,        <Channel name: kaicenat>,       2024-11-07 12:11:45.674929 
+
+ drtribalcraft,     221,        <Channel name: kaicenat>,       2024-11-07 12:11:56.811770 
+
+ drtribalcraft,     220,        <Channel name: kaicenat>,       2024-11-07 12:12:23.760432 
+
+ drtribalcraft,     219,        <Channel name: kaicenat>,       2024-11-07 12:12:29.435605 
+
+ drtribalcraft,     218,        <Channel name: kaicenat>,       2024-11-07 12:12:51.223578 
+
+ drtribalcraft,     36,        <Channel name: kaicenat>,       2024-11-07 12:46:33.749583 
+
+ drtribalcraft,     35,        <Channel name: kaicenat>,       2024-11-07 12:46:40.174764 
+
+ drtribalcraft,     34,        <Channel name: kaicenat>,       2024-11-07 12:46:47.089700 
+
+ drtribalcraft,     33,        <Channel name: kaicenat>,       2024-11-07 12:46:59.933990 
+
+ drtribalcraft,     some gift 100,        <Channel name: kaicenat>,       2024-11-07 12:51:59.245774 
+
+ drtribalcraft,     kai’s fans can’t read,        <Channel name: kaicenat>,       2024-11-07 12:54:49.047062 
+
+ drtribalcraft,     lool,        <Channel name: kaicenat>,       2024-11-07 13:02:37.966559 

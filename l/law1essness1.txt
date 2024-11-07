@@ -1,0 +1,40 @@
+
+ law1essness1,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:52.652307 
+
+ law1essness1,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:14:43.697079 
+
+ law1essness1,     North Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:12.028511 
+
+ law1essness1,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.846787 
+
+ law1essness1,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:16:30.090394 
+
+ law1essness1,     Azerbajan,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.683008 
+
+ law1essness1,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.685656 
+
+ law1essness1,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.341507 
+
+ law1essness1,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:18:28.820000 
+
+ law1essness1,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:18:57.301488 
+
+ law1essness1,     Malasia,        <Channel name: shadowkekw>,       2024-11-07 10:19:01.225230 
+
+ law1essness1,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:19:16.194587 
+
+ law1essness1,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:19:56.173536 
+
+ law1essness1,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.549431 
+
+ law1essness1,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.949755 
+
+ law1essness1,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.272075 
+
+ law1essness1,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:12:40.305769 
+
+ law1essness1,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.822434 
+
+ law1essness1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.989284 
+
+ law1essness1,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 11:13:43.120317 

@@ -1,0 +1,20 @@
+
+ tart1lya,     !time,        <Channel name: kaicenat>,       2024-11-07 12:26:50.891507 
+
+ tart1lya,     97,        <Channel name: kaicenat>,       2024-11-07 12:32:48.636075 
+
+ tart1lya,     96,        <Channel name: kaicenat>,       2024-11-07 12:32:53.548647 
+
+ tart1lya,     95,        <Channel name: kaicenat>,       2024-11-07 12:33:03.860344 
+
+ tart1lya,     94,        <Channel name: kaicenat>,       2024-11-07 12:33:33.401815 
+
+ tart1lya,     92,        <Channel name: kaicenat>,       2024-11-07 12:33:42.851786 
+
+ tart1lya,     91,        <Channel name: kaicenat>,       2024-11-07 12:33:57.082629 
+
+ tart1lya,     81,        <Channel name: kaicenat>,       2024-11-07 12:34:19.778855 
+
+ tart1lya,     87,        <Channel name: kaicenat>,       2024-11-07 12:34:25.706200 
+
+ tart1lya,     82,        <Channel name: kaicenat>,       2024-11-07 12:36:30.452422 

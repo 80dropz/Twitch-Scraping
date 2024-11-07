@@ -2,3 +2,9 @@
  setsuko_kuroe,     WW RON,        <Channel name: plaqueboymax>,       2024-11-07 01:57:54.805618 
 
  setsuko_kuroe,     slowdown,        <Channel name: plaqueboymax>,       2024-11-07 02:04:15.930586 
+
+ setsuko_kuroe,     power duo,        <Channel name: plaqueboymax>,       2024-11-07 13:33:10.191551 
+
+ setsuko_kuroe,     bleh ta,        <Channel name: plaqueboymax>,       2024-11-07 13:33:17.919675 
+
+ setsuko_kuroe,     the lebron and curry of twitch,        <Channel name: plaqueboymax>,       2024-11-07 13:33:40.788122 

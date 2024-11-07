@@ -1,0 +1,34 @@
+
+ deazleglenn,     bubbles,        <Channel name: kaicenat>,       2024-11-07 11:13:27.860401 
+
+ deazleglenn,     bubble,        <Channel name: kaicenat>,       2024-11-07 11:13:38.483626 
+
+ deazleglenn,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 11:14:28.157292 
+
+ deazleglenn,     BUBBLES,        <Channel name: kaicenat>,       2024-11-07 11:15:02.478591 
+
+ deazleglenn,     SACM,        <Channel name: kaicenat>,       2024-11-07 13:02:38.365451 
+
+ deazleglenn,     WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 13:04:36.098126 
+
+ deazleglenn,     WAKE HIM UP,        <Channel name: kaicenat>,       2024-11-07 13:06:55.688528 
+
+ deazleglenn,     ALERT HIM,        <Channel name: kaicenat>,       2024-11-07 13:08:05.766394 
+
+ deazleglenn,     ALERT HIM,        <Channel name: kaicenat>,       2024-11-07 13:09:29.784463 
+
+ deazleglenn,     ALERT HIM,        <Channel name: kaicenat>,       2024-11-07 13:10:39.982238 
+
+ deazleglenn,     ALERT HIM,        <Channel name: kaicenat>,       2024-11-07 13:11:33.864315 
+
+ deazleglenn,     CRASH OUT,        <Channel name: kaicenat>,       2024-11-07 13:20:10.106611 
+
+ deazleglenn,     WATER,        <Channel name: kaicenat>,       2024-11-07 13:24:19.896108 
+
+ deazleglenn,     CHECK THE BED,        <Channel name: kaicenat>,       2024-11-07 13:27:30.804641 
+
+ deazleglenn,     CHECK BY MILES,        <Channel name: kaicenat>,       2024-11-07 13:28:34.916049 
+
+ deazleglenn,     CHECK BY MILES,        <Channel name: kaicenat>,       2024-11-07 13:29:57.399237 
+
+ deazleglenn,     CHECK BY MILES,        <Channel name: kaicenat>,       2024-11-07 13:31:20.542623 

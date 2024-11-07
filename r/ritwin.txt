@@ -1,0 +1,92 @@
+
+ ritwin,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.781169 
+
+ ritwin,     in,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.738318 
+
+ ritwin,     )),        <Channel name: shadowkekw>,       2024-11-07 10:27:10.135204 
+
+ ritwin,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.874194 
+
+ ritwin,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.331448 
+
+ ritwin,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.348365 
+
+ ritwin,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.155922 
+
+ ritwin,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.048483 
+
+ ritwin,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:31:47.436723 
+
+ ritwin,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.858736 
+
+ ritwin,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:32:26.329445 
+
+ ritwin,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.906472 
+
+ ritwin,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:33:05.481407 
+
+ ritwin,     us,        <Channel name: shadowkekw>,       2024-11-07 10:33:35.714083 
+
+ ritwin,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.356394 
+
+ ritwin,     is,        <Channel name: shadowkekw>,       2024-11-07 10:35:14.418607 
+
+ ritwin,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.878015 
+
+ ritwin,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.593763 
+
+ ritwin,     fnru,        <Channel name: shadowkekw>,       2024-11-07 10:36:38.931093 
+
+ ritwin,     us,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.815163 
+
+ ritwin,     da,        <Channel name: shadowkekw>,       2024-11-07 10:37:10.077400 
+
+ ritwin,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.616594 
+
+ ritwin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.847077 
+
+ ritwin,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.099291 
+
+ ritwin,     )),        <Channel name: shadowkekw>,       2024-11-07 10:41:27.039702 
+
+ ritwin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.679360 
+
+ ritwin,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.364679 
+
+ ritwin,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.890253 
+
+ ritwin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:31.734773 
+
+ ritwin,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.242038 
+
+ ritwin,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.651059 
+
+ ritwin,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:46:46.622786 
+
+ ritwin,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.572650 
+
+ ritwin,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.718698 
+
+ ritwin,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.818490 
+
+ ritwin,     id,        <Channel name: shadowkekw>,       2024-11-07 10:52:21.860897 
+
+ ritwin,     @JOKIBOBO jokiboWave1,        <Channel name: shadowkekw>,       2024-11-07 10:53:02.408134 
+
+ ritwin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.065609 
+
+ ritwin,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.613631 
+
+ ritwin,     id,        <Channel name: shadowkekw>,       2024-11-07 10:57:31.127743 
+
+ ritwin,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:58:06.333411 
+
+ ritwin,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.499932 
+
+ ritwin,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:28.803379 
+
+ ritwin,     ro,        <Channel name: shadowkekw>,       2024-11-07 11:03:32.663801 
+
+ ritwin,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:32.609526 
+
+ ritwin,     )),        <Channel name: shadowkekw>,       2024-11-07 12:02:57.690188 

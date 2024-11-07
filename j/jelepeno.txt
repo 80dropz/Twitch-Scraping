@@ -1,0 +1,10 @@
+
+ jelepeno,     lacy where’s the roll call,        <Channel name: lacy>,       2024-11-07 12:34:40.087761 
+
+ jelepeno,     FFF,        <Channel name: lacy>,       2024-11-07 13:25:54.330129 
+
+ jelepeno,     FFFFFF,        <Channel name: lacy>,       2024-11-07 13:26:00.063291 
+
+ jelepeno,     EFFING,        <Channel name: lacy>,       2024-11-07 13:26:05.277632 
+
+ jelepeno,     FFf,        <Channel name: lacy>,       2024-11-07 13:26:10.760957 

@@ -1,0 +1,44 @@
+
+ vyach_s,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.562102 
+
+ vyach_s,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.606342 
+
+ vyach_s,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:52.336034 
+
+ vyach_s,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:34.143019 
+
+ vyach_s,     TA BLYAT,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.026953 
+
+ vyach_s,     eYGYPT,        <Channel name: shadowkekw>,       2024-11-07 10:39:37.890495 
+
+ vyach_s,     sosat,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.293870 
+
+ vyach_s,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.426733 
+
+ vyach_s,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:36.246698 
+
+ vyach_s,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.884371 
+
+ vyach_s,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:19.742260 
+
+ vyach_s,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.936660 
+
+ vyach_s,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:50:17.929026 
+
+ vyach_s,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:39.696939 
+
+ vyach_s,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.946953 
+
+ vyach_s,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.410890 
+
+ vyach_s,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:59:07.338623 
+
+ vyach_s,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:54.431348 
+
+ vyach_s,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:00:37.335386 
+
+ vyach_s,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:01:59.181758 
+
+ vyach_s,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:03:12.225520 
+
+ vyach_s,     gg,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.879071 

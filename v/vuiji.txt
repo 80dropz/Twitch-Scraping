@@ -1,0 +1,150 @@
+
+ vuiji,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.556522 
+
+ vuiji,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:10:58.787804 
+
+ vuiji,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:11:33.008991 
+
+ vuiji,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:11:53.791964 
+
+ vuiji,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.896539 
+
+ vuiji,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.039668 
+
+ vuiji,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.372964 
+
+ vuiji,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:16:43.011694 
+
+ vuiji,     morway,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.098380 
+
+ vuiji,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:20:49.704181 
+
+ vuiji,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.709490 
+
+ vuiji,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:23:40.898836 
+
+ vuiji,     myanmar,        <Channel name: shadowkekw>,       2024-11-07 10:23:57.940697 
+
+ vuiji,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.410364 
+
+ vuiji,     autralia,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.496006 
+
+ vuiji,     england,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.292537 
+
+ vuiji,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:18.950542 
+
+ vuiji,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.493930 
+
+ vuiji,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:27:44.260414 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:35.213583 
+
+ vuiji,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:28:39.036782 
+
+ vuiji,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.931533 
+
+ vuiji,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.986385 
+
+ vuiji,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.709786 
+
+ vuiji,     scotland,        <Channel name: shadowkekw>,       2024-11-07 10:29:09.958685 
+
+ vuiji,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.092966 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.141079 
+
+ vuiji,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.916918 
+
+ vuiji,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.995266 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.129133 
+
+ vuiji,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.221191 
+
+ vuiji,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:32:45.529853 
+
+ vuiji,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.336748 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.787657 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:35:11.133452 
+
+ vuiji,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:44.274399 
+
+ vuiji,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:38:45.845552 
+
+ vuiji,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.391850 
+
+ vuiji,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:39:49.031806 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.202566 
+
+ vuiji,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:41:25.553537 
+
+ vuiji,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.714691 
+
+ vuiji,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:47.732696 
+
+ vuiji,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:45:11.988023 
+
+ vuiji,     india,        <Channel name: shadowkekw>,       2024-11-07 10:45:30.954177 
+
+ vuiji,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.480690 
+
+ vuiji,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.841257 
+
+ vuiji,     in,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.809827 
+
+ vuiji,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.093900 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.614364 
+
+ vuiji,     us,        <Channel name: shadowkekw>,       2024-11-07 10:48:54.315344 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:28.027669 
+
+ vuiji,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.309306 
+
+ vuiji,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:51:13.933076 
+
+ vuiji,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:38.510029 
+
+ vuiji,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.607879 
+
+ vuiji,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.061740 
+
+ vuiji,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:55:21.051127 
+
+ vuiji,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.302523 
+
+ vuiji,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:57:13.169145 
+
+ vuiji,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.405052 
+
+ vuiji,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.268499 
+
+ vuiji,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:00:07.342471 
+
+ vuiji,     korea,        <Channel name: shadowkekw>,       2024-11-07 11:00:50.286258 
+
+ vuiji,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:02:07.305889 
+
+ vuiji,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:03:28.953181 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:04:28.202555 
+
+ vuiji,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:05:46.564509 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:06:25.552655 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:07:32.710898 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:08:50.358957 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:10:49.761329 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.242391 
+
+ vuiji,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:13:50.712927 
+
+ vuiji,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:14:47.817469 

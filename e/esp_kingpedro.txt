@@ -1,0 +1,4 @@
+
+ esp_kingpedro,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 12:04:48.462007 
+
+ esp_kingpedro,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 12:05:36.914983 

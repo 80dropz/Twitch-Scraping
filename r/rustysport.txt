@@ -1,0 +1,8 @@
+
+ rustysport,     KANADA,        <Channel name: shadowkekw>,       2024-11-07 10:07:03.511429 
+
+ rustysport,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:47.804581 
+
+ rustysport,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:43.696860 
+
+ rustysport,     0,        <Channel name: shadowkekw>,       2024-11-07 10:12:58.976666 

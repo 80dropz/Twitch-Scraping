@@ -1,0 +1,4 @@
+
+ ibby_796,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 11:09:37.455301 
+
+ ibby_796,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 11:10:05.260261 

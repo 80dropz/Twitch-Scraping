@@ -1,0 +1,22 @@
+
+ kondzin,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.576691 
+
+ kondzin,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.029671 
+
+ kondzin,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:31:18.640097 
+
+ kondzin,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:36:14.460914 
+
+ kondzin,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.231111 
+
+ kondzin,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:48.331882 
+
+ kondzin,     Nepak,        <Channel name: shadowkekw>,       2024-11-07 10:37:10.329025 
+
+ kondzin,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:28.897258 
+
+ kondzin,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.481496 
+
+ kondzin,     Litva,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.602263 
+
+ kondzin,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.091747 

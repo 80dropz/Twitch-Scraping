@@ -1,0 +1,46 @@
+
+ n1klar,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.947811 
+
+ n1klar,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:07:54.157553 
+
+ n1klar,     Dagestan,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.318280 
+
+ n1klar,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:46.043140 
+
+ n1klar,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.332987 
+
+ n1klar,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:10:06.596737 
+
+ n1klar,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.267838 
+
+ n1klar,     Kambodja,        <Channel name: shadowkekw>,       2024-11-07 10:11:50.299437 
+
+ n1klar,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.481910 
+
+ n1klar,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:12:47.223777 
+
+ n1klar,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.060773 
+
+ n1klar,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:13:42.053375 
+
+ n1klar,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.872414 
+
+ n1klar,     it,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.419663 
+
+ n1klar,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:15:41.114042 
+
+ n1klar,     au,        <Channel name: shadowkekw>,       2024-11-07 10:16:03.214279 
+
+ n1klar,     de,        <Channel name: shadowkekw>,       2024-11-07 10:16:26.687373 
+
+ n1klar,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:16:33.604024 
+
+ n1klar,     ly,        <Channel name: shadowkekw>,       2024-11-07 10:16:38.416592 
+
+ n1klar,     mys,        <Channel name: shadowkekw>,       2024-11-07 10:16:43.306296 
+
+ n1klar,     na,        <Channel name: shadowkekw>,       2024-11-07 10:16:54.253008 
+
+ n1klar,     md,        <Channel name: shadowkekw>,       2024-11-07 10:17:01.522884 
+
+ n1klar,     rs,        <Channel name: shadowkekw>,       2024-11-07 10:17:26.243367 

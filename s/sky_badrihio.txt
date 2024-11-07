@@ -1,2 +1,6 @@
 
  sky_badrihio,     f,        <Channel name: kaicenat>,       2024-11-07 09:07:48.239557 
+
+ sky_badrihio,     W MILES,        <Channel name: kaicenat>,       2024-11-07 10:02:58.972357 
+
+ sky_badrihio,     those,        <Channel name: kaicenat>,       2024-11-07 11:00:11.120374 

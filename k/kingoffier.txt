@@ -1,2 +1,34 @@
 
  kingoffier,     ...,        <Channel name: shadowkekw>,       2024-11-07 09:24:01.255541 
+
+ kingoffier,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.085301 
+
+ kingoffier,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.921443 
+
+ kingoffier,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.267455 
+
+ kingoffier,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:05.306779 
+
+ kingoffier,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.762757 
+
+ kingoffier,     [[eq,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.042232 
+
+ kingoffier,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:40:49.199410 
+
+ kingoffier,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:45:13.262342 
+
+ kingoffier,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:46:51.766845 
+
+ kingoffier,     au,        <Channel name: shadowkekw>,       2024-11-07 10:57:52.179002 
+
+ kingoffier,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:59:07.576675 
+
+ kingoffier,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:02:23.140362 
+
+ kingoffier,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:11:21.272925 
+
+ kingoffier,     dania,        <Channel name: shadowkekw>,       2024-11-07 11:11:29.948691 
+
+ kingoffier,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:40.028030 
+
+ kingoffier,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:09.069939 

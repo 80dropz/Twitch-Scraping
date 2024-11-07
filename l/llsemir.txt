@@ -1,0 +1,6 @@
+
+ llsemir,     kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:41:41.663999 
+
+ llsemir,     kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:41:53.210831 
+
+ llsemir,     kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:42:18.687025 

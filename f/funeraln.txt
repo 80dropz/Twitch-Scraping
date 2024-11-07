@@ -1,0 +1,4 @@
+
+ funeraln,     !mouse,        <Channel name: mongraal>,       2024-11-07 10:03:43.958570 
+
+ funeraln,     after cup?,        <Channel name: mongraal>,       2024-11-07 10:10:19.967151 

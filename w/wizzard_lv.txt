@@ -1,0 +1,8 @@
+
+ wizzard_lv,     OMEGALUL,        <Channel name: mongraal>,       2024-11-07 12:13:06.385499 
+
+ wizzard_lv,     LULW,        <Channel name: mongraal>,       2024-11-07 12:15:24.983908 
+
+ wizzard_lv,     OMEGALUL,        <Channel name: mongraal>,       2024-11-07 12:19:27.064299 
+
+ wizzard_lv,     EZ,        <Channel name: mongraal>,       2024-11-07 12:28:31.462049 

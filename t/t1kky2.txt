@@ -1,0 +1,18 @@
+
+ t1kky2,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:23:02.953901 
+
+ t1kky2,     Singapour,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.946397 
+
+ t1kky2,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:24:52.958768 
+
+ t1kky2,     France,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.574975 
+
+ t1kky2,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:27:47.476726 
+
+ t1kky2,     Kipr,        <Channel name: shadowkekw>,       2024-11-07 10:27:58.030260 
+
+ t1kky2,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.222780 
+
+ t1kky2,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.049736 
+
+ t1kky2,     India,        <Channel name: shadowkekw>,       2024-11-07 10:30:00.305251 

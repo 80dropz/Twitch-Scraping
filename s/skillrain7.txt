@@ -1,0 +1,4 @@
+
+ skillrain7,     !roulette 1630,        <Channel name: kaicenat>,       2024-11-07 10:32:43.067273 
+
+ skillrain7,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:33:23.157740 

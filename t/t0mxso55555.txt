@@ -1,0 +1,12 @@
+
+ t0mxso55555,     !subathon,        <Channel name: kaicenat>,       2024-11-07 10:34:25.582292 
+
+ t0mxso55555,     !gamble,        <Channel name: kaicenat>,       2024-11-07 10:34:39.204301 
+
+ t0mxso55555,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:35:00.545613 
+
+ t0mxso55555,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:35:16.497780 
+
+ t0mxso55555,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:35:24.943148 
+
+ t0mxso55555,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:35:51.390142 

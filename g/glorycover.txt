@@ -1,2 +1,6 @@
 
  glorycover,     30,        <Channel name: kaicenat>,       2024-11-07 01:48:41.124289 
+
+ glorycover,     MILES GONNA CRASH OUT,        <Channel name: kaicenat>,       2024-11-07 11:28:37.216035 
+
+ glorycover,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 11:28:50.206663 

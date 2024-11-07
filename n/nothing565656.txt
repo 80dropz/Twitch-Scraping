@@ -1,0 +1,20 @@
+
+ nothing565656,     france,        <Channel name: shadowkekw>,       2024-11-07 10:10:59.459549 
+
+ nothing565656,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:12:26.352108 
+
+ nothing565656,     katar,        <Channel name: shadowkekw>,       2024-11-07 10:12:42.611103 
+
+ nothing565656,     katar,        <Channel name: shadowkekw>,       2024-11-07 10:13:50.185519 
+
+ nothing565656,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:24.927554 
+
+ nothing565656,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:42.135655 
+
+ nothing565656,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:50.726531 
+
+ nothing565656,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:08.188917 
+
+ nothing565656,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.178097 
+
+ nothing565656,     india,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.128227 

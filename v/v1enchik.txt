@@ -14,3 +14,129 @@
  v1enchik,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:09:22.326781 
 
  v1enchik,     )),        <Channel name: shadowkekw>,       2024-11-07 09:18:59.230789 
+
+ v1enchik,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:21:33.183870 
+
+ v1enchik,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:22:01.184997 
+
+ v1enchik,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.367250 
+
+ v1enchik,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:22:06.267825 
+
+ v1enchik,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.374825 
+
+ v1enchik,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:22:19.644143 
+
+ v1enchik,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:22:21.916265 
+
+ v1enchik,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.234050 
+
+ v1enchik,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:22:42.955775 
+
+ v1enchik,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:22:43.720199 
+
+ v1enchik,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:22:46.639253 
+
+ v1enchik,     France,        <Channel name: shadowkekw>,       2024-11-07 10:23:08.163561 
+
+ v1enchik,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:23:11.379069 
+
+ v1enchik,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.863475 
+
+ v1enchik,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.697003 
+
+ v1enchik,     Jamaica,        <Channel name: shadowkekw>,       2024-11-07 10:23:29.451979 
+
+ v1enchik,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.757034 
+
+ v1enchik,     Jamaica,        <Channel name: shadowkekw>,       2024-11-07 10:23:36.936831 
+
+ v1enchik,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.449243 
+
+ v1enchik,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.475112 
+
+ v1enchik,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:05.972633 
+
+ v1enchik,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:24:08.504546 
+
+ v1enchik,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.326790 
+
+ v1enchik,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:24:31.298304 
+
+ v1enchik,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:24:34.213466 
+
+ v1enchik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:24:36.666067 
+
+ v1enchik,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:41.494139 
+
+ v1enchik,     )),        <Channel name: shadowkekw>,       2024-11-07 10:24:47.466883 
+
+ v1enchik,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:25:03.167009 
+
+ v1enchik,     The Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:25:06.377673 
+
+ v1enchik,     Nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:25:09.069194 
+
+ v1enchik,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:25:23.255401 
+
+ v1enchik,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:25:24.816083 
+
+ v1enchik,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:26.939916 
+
+ v1enchik,     Irac,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.937854 
+
+ v1enchik,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:26:00.992161 
+
+ v1enchik,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:26:02.459304 
+
+ v1enchik,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:26:04.993047 
+
+ v1enchik,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:26:20.702986 
+
+ v1enchik,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:26:26.850698 
+
+ v1enchik,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:26:29.844663 
+
+ v1enchik,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:26:46.888883 
+
+ v1enchik,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.530692 
+
+ v1enchik,     Jamaica,        <Channel name: shadowkekw>,       2024-11-07 10:27:10.352039 
+
+ v1enchik,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:27:13.449974 
+
+ v1enchik,     India,        <Channel name: shadowkekw>,       2024-11-07 10:27:26.589423 
+
+ v1enchik,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:27:38.489451 
+
+ v1enchik,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.408347 
+
+ v1enchik,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.083566 
+
+ v1enchik,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.919118 
+
+ v1enchik,     England,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.257798 
+
+ v1enchik,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:28:17.816463 
+
+ v1enchik,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:28:20.199424 
+
+ v1enchik,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:28:33.866912 
+
+ v1enchik,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.953399 
+
+ v1enchik,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.179986 
+
+ v1enchik,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:29:15.258232 
+
+ v1enchik,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:29:17.633428 
+
+ v1enchik,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:29:33.719434 
+
+ v1enchik,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:29:36.743781 
+
+ v1enchik,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:29:52.392517 
+
+ v1enchik,     India,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.790507 
+
+ v1enchik,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:29:59.098326 

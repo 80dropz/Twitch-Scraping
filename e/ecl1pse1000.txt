@@ -1,0 +1,4 @@
+
+ ecl1pse1000,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:48:20.278007 
+
+ ecl1pse1000,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:54:13.832878 

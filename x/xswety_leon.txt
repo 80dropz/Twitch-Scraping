@@ -1,0 +1,4 @@
+
+ xswety_leon,     10 minutes delay??,        <Channel name: mongraal>,       2024-11-07 12:22:58.796517 
+
+ xswety_leon,     !delay,        <Channel name: mongraal>,       2024-11-07 12:23:17.230899 

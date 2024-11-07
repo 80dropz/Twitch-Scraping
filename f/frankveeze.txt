@@ -1,0 +1,8 @@
+
+ frankveeze,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:52:34.240509 
+
+ frankveeze,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:53:47.868531 
+
+ frankveeze,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:54:14.471724 
+
+ frankveeze,     gift me,        <Channel name: kaicenat>,       2024-11-07 10:58:46.105094 

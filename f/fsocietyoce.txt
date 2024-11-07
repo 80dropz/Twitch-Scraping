@@ -48,3 +48,53 @@
  fsocietyoce,     !inches,        <Channel name: mongraal>,       2024-11-07 09:43:00.499297 
 
  fsocietyoce,     gotta stand still,        <Channel name: mongraal>,       2024-11-07 09:44:05.806962 
+
+ fsocietyoce,     140 bullet til cooldown oatly tested,        <Channel name: mongraal>,       2024-11-07 09:55:26.843396 
+
+ fsocietyoce,     jump,        <Channel name: mongraal>,       2024-11-07 09:57:11.018802 
+
+ fsocietyoce,     hit the space bar,        <Channel name: mongraal>,       2024-11-07 09:57:26.717677 
+
+ fsocietyoce,     RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS   RAID MONGRAAL PLSSSSSSSS.  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS,        <Channel name: kaicenat>,       2024-11-07 09:58:24.198052 
+
+ fsocietyoce,     RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS   RAID MONGRAAL PLSSSSSSSS.  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS,        <Channel name: kaicenat>,       2024-11-07 10:01:31.018657 
+
+ fsocietyoce,     RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS   RAID MONGRAAL PLSSSSSSSS.  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS  RAID MONGRAAL PLSSSSSSSS,        <Channel name: kaicenat>,       2024-11-07 10:02:11.658028 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING,        <Channel name: kaicenat>,       2024-11-07 10:03:43.468562 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 1,        <Channel name: kaicenat>,       2024-11-07 10:04:20.211991 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 2,        <Channel name: kaicenat>,       2024-11-07 10:04:31.554229 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 3,        <Channel name: kaicenat>,       2024-11-07 10:04:40.580387 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 4,        <Channel name: kaicenat>,       2024-11-07 10:05:00.265104 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 5,        <Channel name: kaicenat>,       2024-11-07 10:05:10.661547 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 6,        <Channel name: kaicenat>,       2024-11-07 10:05:14.851904 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING 7,        <Channel name: kaicenat>,       2024-11-07 10:05:18.986089 
+
+ fsocietyoce,     MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING MONGRAAL RAID STARTING,        <Channel name: kaicenat>,       2024-11-07 10:07:04.880102 
+
+ fsocietyoce,     mongaFlex2 mongaFlex3,        <Channel name: kaicenat>,       2024-11-07 10:08:09.271917 
+
+ fsocietyoce,     mongaFlex1 mongaFlex2 mongaFlex3 mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3mongaFlex1 mongaFlex2 mongaFlex3,        <Channel name: kaicenat>,       2024-11-07 10:08:37.048663 
+
+ fsocietyoce,     mongaFlex1 mongaFlex2 mongaFlex3,        <Channel name: kaicenat>,       2024-11-07 10:09:32.151843 
+
+ fsocietyoce,     so this where the sub money going,        <Channel name: mongraal>,       2024-11-07 10:11:15.142136 
+
+ fsocietyoce,     BRROOOOOOOOOO,        <Channel name: mongraal>,       2024-11-07 10:11:48.153193 
+
+ fsocietyoce,     4AM FOR A CHAIR,        <Channel name: mongraal>,       2024-11-07 10:12:03.753275 
+
+ fsocietyoce,     Nvm,        <Channel name: mongraal>,       2024-11-07 10:12:08.694618 
+
+ fsocietyoce,     BROOOOOOOO,        <Channel name: mongraal>,       2024-11-07 10:12:16.868951 
+
+ fsocietyoce,     w,        <Channel name: mongraal>,       2024-11-07 10:20:03.892227 
+
+ fsocietyoce,     @emti17729313 …..,        <Channel name: mongraal>,       2024-11-07 10:22:50.536359 

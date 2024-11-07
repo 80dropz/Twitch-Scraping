@@ -1,0 +1,6 @@
+
+ cynfnr,     wow 11:30,        <Channel name: clix>,       2024-11-07 12:31:01.904884 
+
+ cynfnr,     w sleep,        <Channel name: clix>,       2024-11-07 12:31:06.573698 
+
+ cynfnr,     W,        <Channel name: clix>,       2024-11-07 13:04:25.735940 

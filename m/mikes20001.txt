@@ -1,0 +1,22 @@
+
+ mikes20001,     EARFQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:56:45.133242 
+
+ mikes20001,     www,        <Channel name: kaicenat>,       2024-11-07 12:48:31.126066 
+
+ mikes20001,     EARFQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:56:11.446616 
+
+ mikes20001,     EARF QUAKE,        <Channel name: kaicenat>,       2024-11-07 13:02:16.648839 
+
+ mikes20001,     GGS,        <Channel name: kaicenat>,       2024-11-07 13:06:33.265085 
+
+ mikes20001,     MIC AND PHONRE,        <Channel name: kaicenat>,       2024-11-07 13:11:45.152616 
+
+ mikes20001,     RAKAIIIIIIIIIIIIIIII,        <Channel name: kaicenat>,       2024-11-07 13:14:26.369084 
+
+ mikes20001,     RAKAI RAKAI RAKAI RAKAI RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:15:03.779619 
+
+ mikes20001,     KTOO MUICH,        <Channel name: kaicenat>,       2024-11-07 13:15:23.121769 
+
+ mikes20001,     PHOINE AND MIC,        <Channel name: kaicenat>,       2024-11-07 13:15:53.335223 
+
+ mikes20001,     W 230KL,        <Channel name: kaicenat>,       2024-11-07 13:30:13.988736 

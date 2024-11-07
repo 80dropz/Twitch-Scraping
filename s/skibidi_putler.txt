@@ -1,0 +1,16 @@
+
+ skibidi_putler,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:57:55.386735 
+
+ skibidi_putler,     us,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.912873 
+
+ skibidi_putler,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:59:02.235355 
+
+ skibidi_putler,     by,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.067503 
+
+ skibidi_putler,     in,        <Channel name: shadowkekw>,       2024-11-07 11:00:31.172608 
+
+ skibidi_putler,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.181380 
+
+ skibidi_putler,     au,        <Channel name: shadowkekw>,       2024-11-07 11:02:30.091667 
+
+ skibidi_putler,     bd,        <Channel name: shadowkekw>,       2024-11-07 11:03:51.549628 

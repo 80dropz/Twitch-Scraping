@@ -8,3 +8,5 @@
  richiethekid32,     W,        <Channel name: kaicenat>,       2024-11-07 02:02:07.834145 
 
  richiethekid32,     69,        <Channel name: kaicenat>,       2024-11-07 02:04:38.713991 
+
+ richiethekid32,     Scam,        <Channel name: kaicenat>,       2024-11-07 13:02:24.670449 

@@ -20,3 +20,41 @@
  david60hz,     W MILES,        <Channel name: kaicenat>,       2024-11-07 09:18:15.594355 
 
  david60hz,     W,        <Channel name: kaicenat>,       2024-11-07 09:21:35.379272 
+
+ david60hz,     W MILES,        <Channel name: kaicenat>,       2024-11-07 10:18:49.892947 
+
+ david60hz,     W MILES,        <Channel name: kaicenat>,       2024-11-07 10:21:03.409433 
+
+ david60hz,     W MILES,        <Channel name: kaicenat>,       2024-11-07 10:22:25.740816 
+
+ david60hz,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:23:46.313443 
+
+ david60hz,     W MILES,        <Channel name: kaicenat>,       2024-11-07 10:24:09.237911 
+
+ david60hz,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:24:47.294593 
+
+ david60hz,     LUL,        <Channel name: kaicenat>,       2024-11-07 10:25:13.769541 
+
+ david60hz,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 10:25:37.055769 
+
+ david60hz,     LMAO,        <Channel name: kaicenat>,       2024-11-07 10:26:21.178446 
+
+ david60hz,     GO FOR THE 50 GIFTER,        <Channel name: kaicenat>,       2024-11-07 10:26:41.930000 
+
+ david60hz,     THOSE,        <Channel name: kaicenat>,       2024-11-07 10:27:48.073969 
+
+ david60hz,     LUL,        <Channel name: kaicenat>,       2024-11-07 10:28:07.331833 
+
+ david60hz,     HELL NO,        <Channel name: kaicenat>,       2024-11-07 10:30:55.175662 
+
+ david60hz,     LUL,        <Channel name: kaicenat>,       2024-11-07 10:31:08.559565 
+
+ david60hz,     W,        <Channel name: kaicenat>,       2024-11-07 10:53:25.453094 
+
+ david60hz,     W 5,        <Channel name: kaicenat>,       2024-11-07 10:53:46.771945 
+
+ david60hz,     AHAJAJAA,        <Channel name: kaicenat>,       2024-11-07 10:54:42.225895 
+
+ david60hz,     UNLUCK EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 10:55:18.312257 
+
+ david60hz,     BET,        <Channel name: kaicenat>,       2024-11-07 10:55:50.343367 

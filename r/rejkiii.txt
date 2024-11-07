@@ -1,0 +1,4 @@
+
+ rejkiii,     !setup,        <Channel name: mongraal>,       2024-11-07 10:42:03.054187 
+
+ rejkiii,     !procesor,        <Channel name: mongraal>,       2024-11-07 10:42:22.490985 

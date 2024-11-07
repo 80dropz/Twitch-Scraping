@@ -1,0 +1,154 @@
+
+ snokenine,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.698810 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:36.741984 
+
+ snokenine,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:25.059954 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:45.282969 
+
+ snokenine,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.281581 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.730158 
+
+ snokenine,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:17:18.724078 
+
+ snokenine,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.117658 
+
+ snokenine,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.507256 
+
+ snokenine,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.984894 
+
+ snokenine,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:20:36.806556 
+
+ snokenine,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:20:52.935761 
+
+ snokenine,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:21:29.396231 
+
+ snokenine,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:21:34.964373 
+
+ snokenine,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:22:33.386808 
+
+ snokenine,     india,        <Channel name: shadowkekw>,       2024-11-07 10:22:35.439591 
+
+ snokenine,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.883260 
+
+ snokenine,     fact,        <Channel name: shadowkekw>,       2024-11-07 10:27:13.014963 
+
+ snokenine,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.991136 
+
+ snokenine,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:27:38.790529 
+
+ snokenine,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.957223 
+
+ snokenine,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.577665 
+
+ snokenine,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.992548 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:29:45.717236 
+
+ snokenine,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:30:36.201299 
+
+ snokenine,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.440319 
+
+ snokenine,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.068266 
+
+ snokenine,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.254209 
+
+ snokenine,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:34:57.247130 
+
+ snokenine,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.766895 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.148495 
+
+ snokenine,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:38:11.051268 
+
+ snokenine,     me,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.019649 
+
+ snokenine,     li,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.131173 
+
+ snokenine,     fn,        <Channel name: shadowkekw>,       2024-11-07 10:39:49.754795 
+
+ snokenine,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.271769 
+
+ snokenine,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.682080 
+
+ snokenine,     china,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.870517 
+
+ snokenine,     tk,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.164641 
+
+ snokenine,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:51.306530 
+
+ snokenine,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.479280 
+
+ snokenine,     li,        <Channel name: shadowkekw>,       2024-11-07 10:43:04.539568 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.394805 
+
+ snokenine,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.548435 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.167347 
+
+ snokenine,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:49:46.509891 
+
+ snokenine,     jordan,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.180698 
+
+ snokenine,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.990767 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.863419 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.962085 
+
+ snokenine,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:54:28.906170 
+
+ snokenine,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:06.239839 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.458846 
+
+ snokenine,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.239061 
+
+ snokenine,     au,        <Channel name: shadowkekw>,       2024-11-07 10:57:10.006261 
+
+ snokenine,     togo,        <Channel name: shadowkekw>,       2024-11-07 10:57:48.393675 
+
+ snokenine,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:58:38.892271 
+
+ snokenine,     es,        <Channel name: shadowkekw>,       2024-11-07 10:59:54.660778 
+
+ snokenine,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:00:49.283712 
+
+ snokenine,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:50.272617 
+
+ snokenine,     tl,        <Channel name: shadowkekw>,       2024-11-07 11:02:51.812682 
+
+ snokenine,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:03:54.638647 
+
+ snokenine,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:05:04.647847 
+
+ snokenine,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:33.309304 
+
+ snokenine,     spain,        <Channel name: shadowkekw>,       2024-11-07 11:07:44.701466 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:08:19.477234 
+
+ snokenine,     co,        <Channel name: shadowkekw>,       2024-11-07 11:08:59.161996 
+
+ snokenine,     egypt,        <Channel name: shadowkekw>,       2024-11-07 11:09:22.854689 
+
+ snokenine,     tunis,        <Channel name: shadowkekw>,       2024-11-07 11:09:30.452626 
+
+ snokenine,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:11:21.518319 
+
+ snokenine,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:27.352641 
+
+ snokenine,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:12:14.880591 
+
+ snokenine,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.558144 
+
+ snokenine,     yemen,        <Channel name: shadowkekw>,       2024-11-07 11:13:35.439779 
+
+ snokenine,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:14:27.535445 
+
+ snokenine,     pizdec,        <Channel name: shadowkekw>,       2024-11-07 11:16:50.049590 
+
+ snokenine,     wow,        <Channel name: shadowkekw>,       2024-11-07 12:09:59.571420 

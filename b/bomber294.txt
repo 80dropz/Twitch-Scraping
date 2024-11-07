@@ -1,0 +1,6 @@
+
+ bomber294,     ?dealy,        <Channel name: mongraal>,       2024-11-07 12:44:11.264276 
+
+ bomber294,     !dealy,        <Channel name: mongraal>,       2024-11-07 12:44:18.860139 
+
+ bomber294,     !delay,        <Channel name: mongraal>,       2024-11-07 12:44:28.711830 

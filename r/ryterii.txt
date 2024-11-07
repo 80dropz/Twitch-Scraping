@@ -4,3 +4,7 @@
  ryterii,     skip Em,        <Channel name: shadowkekw>,       2024-11-07 09:32:26.972960 
 
  ryterii,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:33:06.981393 
+
+ ryterii,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:57:08.826860 
+
+ ryterii,     Em,        <Channel name: shadowkekw>,       2024-11-07 10:03:24.386788 

@@ -1,0 +1,4 @@
+
+ erick_banegas_2,     !delay,        <Channel name: mongraal>,       2024-11-07 12:12:41.039689 
+
+ erick_banegas_2,     lmao,        <Channel name: mongraal>,       2024-11-07 13:07:58.775299 

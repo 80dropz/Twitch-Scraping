@@ -8,3 +8,7 @@
  lawrenciummm,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:17:31.335452 
 
  lawrenciummm,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:18:00.243976 
+
+ lawrenciummm,     !join,        <Channel name: kaicenat>,       2024-11-07 09:54:14.948075 
+
+ lawrenciummm,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:28.969084 

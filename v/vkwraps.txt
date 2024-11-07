@@ -4,3 +4,7 @@
  vkwraps,     rap,        <Channel name: plaqueboymax>,       2024-11-07 02:02:40.350123 
 
  vkwraps,     RAPP,        <Channel name: plaqueboymax>,       2024-11-07 02:02:52.631455 
+
+ vkwraps,     f,        <Channel name: lacy>,       2024-11-07 12:25:47.829210 
+
+ vkwraps,     F,        <Channel name: lacy>,       2024-11-07 13:30:40.439918 

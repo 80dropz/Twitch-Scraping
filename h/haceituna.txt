@@ -1,0 +1,8 @@
+
+ haceituna,     NOW,        <Channel name: kaicenat>,       2024-11-07 13:24:40.429276 
+
+ haceituna,     now,        <Channel name: kaicenat>,       2024-11-07 13:24:55.696509 
+
+ haceituna,     NOW,        <Channel name: kaicenat>,       2024-11-07 13:25:21.083018 
+
+ haceituna,     LMAO,        <Channel name: kaicenat>,       2024-11-07 13:34:45.480923 

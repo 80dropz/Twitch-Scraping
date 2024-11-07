@@ -1,0 +1,24 @@
+
+ s1ntsu_,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:03:58.690581 
+
+ s1ntsu_,     Congo,        <Channel name: shadowkekw>,       2024-11-07 11:05:12.076923 
+
+ s1ntsu_,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:06:17.660344 
+
+ s1ntsu_,     France,        <Channel name: shadowkekw>,       2024-11-07 11:07:15.751173 
+
+ s1ntsu_,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:07:51.538144 
+
+ s1ntsu_,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 11:10:39.664095 
+
+ s1ntsu_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:12:02.206121 
+
+ s1ntsu_,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.471822 
+
+ s1ntsu_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:12:43.094437 
+
+ s1ntsu_,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.159378 
+
+ s1ntsu_,     Jp,        <Channel name: shadowkekw>,       2024-11-07 11:14:04.097479 
+
+ s1ntsu_,     shma,        <Channel name: kaicenat>,       2024-11-07 11:41:29.879783 

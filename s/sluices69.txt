@@ -1,0 +1,6 @@
+
+ sluices69,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:30.239519 
+
+ sluices69,     !join m,        <Channel name: kaicenat>,       2024-11-07 10:12:36.471880 
+
+ sluices69,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:39.477489 

@@ -1,0 +1,4 @@
+
+ qv_bands,     e,        <Channel name: kaicenat>,       2024-11-07 10:04:31.602516 
+
+ qv_bands,     so,        <Channel name: kaicenat>,       2024-11-07 10:04:36.440818 

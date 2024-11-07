@@ -1,0 +1,8 @@
+
+ adzchrome11,     chat when is cup,        <Channel name: mongraal>,       2024-11-07 11:16:59.264190 
+
+ adzchrome11,     how long until cup,        <Channel name: mongraal>,       2024-11-07 11:44:32.290420 
+
+ adzchrome11,     how long till cup,        <Channel name: mongraal>,       2024-11-07 11:44:47.833320 
+
+ adzchrome11,     chat how long until cup,        <Channel name: mongraal>,       2024-11-07 11:45:34.569007 

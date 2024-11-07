@@ -1,0 +1,4 @@
+
+ bxbambi420,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:12:02.590800 
+
+ bxbambi420,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:35.577852 

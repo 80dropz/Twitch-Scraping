@@ -1,0 +1,30 @@
+
+ haarutaka,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:31.494443 
+
+ haarutaka,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:52:39.350119 
+
+ haarutaka,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:52:45.017293 
+
+ haarutaka,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:53:20.372612 
+
+ haarutaka,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:55:41.031867 
+
+ haarutaka,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 09:55:48.831762 
+
+ haarutaka,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:55:58.012654 
+
+ haarutaka,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 09:56:13.325162 
+
+ haarutaka,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:56:30.157749 
+
+ haarutaka,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:56:35.071258 
+
+ haarutaka,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:57:45.995399 
+
+ haarutaka,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:57:52.500129 
+
+ haarutaka,     !points,        <Channel name: kaicenat>,       2024-11-07 09:58:06.448659 
+
+ haarutaka,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:59:43.320873 
+
+ haarutaka,     cant gamble bruh,        <Channel name: kaicenat>,       2024-11-07 09:59:58.909676 

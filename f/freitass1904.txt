@@ -2,3 +2,7 @@
  freitass1904,     !comm,        <Channel name: mongraal>,       2024-11-07 09:16:16.782940 
 
  freitass1904,     !prime,        <Channel name: mongraal>,       2024-11-07 09:16:25.239502 
+
+ freitass1904,     !mouse,        <Channel name: mongraal>,       2024-11-07 10:02:10.360752 
+
+ freitass1904,     !DOUBLEMOVEMENT,        <Channel name: mongraal>,       2024-11-07 10:07:41.270221 

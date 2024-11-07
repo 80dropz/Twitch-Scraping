@@ -1,0 +1,56 @@
+
+ tomasenok,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:07:00.943765 
+
+ tomasenok,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:07:19.038068 
+
+ tomasenok,     Italia,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.446663 
+
+ tomasenok,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.346119 
+
+ tomasenok,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.331501 
+
+ tomasenok,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:56.979171 
+
+ tomasenok,     Italia,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.109715 
+
+ tomasenok,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:10:45.838495 
+
+ tomasenok,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:22.126800 
+
+ tomasenok,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.300935 
+
+ tomasenok,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.148526 
+
+ tomasenok,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:13:49.395608 
+
+ tomasenok,     China,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.841854 
+
+ tomasenok,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:14:24.838890 
+
+ tomasenok,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:14:54.519934 
+
+ tomasenok,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.215182 
+
+ tomasenok,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:16:22.621125 
+
+ tomasenok,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.632175 
+
+ tomasenok,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:16:31.752711 
+
+ tomasenok,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.257836 
+
+ tomasenok,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:16:42.465750 
+
+ tomasenok,     China,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.194571 
+
+ tomasenok,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:16:51.777057 
+
+ tomasenok,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:17:23.162254 
+
+ tomasenok,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:31.528493 
+
+ tomasenok,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:18:55.818112 
+
+ tomasenok,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:19:22.173869 
+
+ tomasenok,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.561443 

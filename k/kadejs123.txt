@@ -1,0 +1,6 @@
+
+ kadejs123,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 11:16:18.637604 
+
+ kadejs123,     !roulette 99,        <Channel name: kaicenat>,       2024-11-07 11:16:33.211739 
+
+ kadejs123,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 11:17:23.610956 

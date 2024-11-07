@@ -1,0 +1,8 @@
+
+ baked102,     www,        <Channel name: kaicenat>,       2024-11-07 11:49:41.517858 
+
+ baked102,     www,        <Channel name: kaicenat>,       2024-11-07 11:50:33.740037 
+
+ baked102,     ww,        <Channel name: kaicenat>,       2024-11-07 11:59:27.291464 
+
+ baked102,     w,        <Channel name: kaicenat>,       2024-11-07 12:02:05.028833 

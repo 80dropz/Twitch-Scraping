@@ -1,0 +1,6 @@
+
+ raydar_tombsne,     !gamble 123,        <Channel name: ibabyrainbow>,       2024-11-07 13:23:33.848182 
+
+ raydar_tombsne,     iraabaPeepoUA,        <Channel name: ibabyrainbow>,       2024-11-07 13:33:38.696034 
+
+ raydar_tombsne,     !gamble 3000,        <Channel name: ibabyrainbow>,       2024-11-07 13:35:01.624283 

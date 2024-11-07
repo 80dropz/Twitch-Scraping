@@ -1,0 +1,4 @@
+
+ vaporize,     use the pump in reverse to suck the air out,        <Channel name: nadeshot>,       2024-11-07 11:51:18.049870 
+
+ vaporize,     glitch for da twitch,        <Channel name: nadeshot>,       2024-11-07 12:07:58.123409 

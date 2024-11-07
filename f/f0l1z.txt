@@ -1,0 +1,12 @@
+
+ f0l1z,     W,        <Channel name: clix>,       2024-11-07 13:04:56.434452 
+
+ f0l1z,     WW,        <Channel name: clix>,       2024-11-07 13:05:00.794544 
+
+ f0l1z,     WWWW,        <Channel name: clix>,       2024-11-07 13:05:07.360089 
+
+ f0l1z,     WWWWWWW,        <Channel name: clix>,       2024-11-07 13:05:11.039503 
+
+ f0l1z,     WWWWWWWWWWWWWWWWWWW,        <Channel name: clix>,       2024-11-07 13:05:17.385569 
+
+ f0l1z,     !TTS,        <Channel name: clix>,       2024-11-07 13:07:54.753681 

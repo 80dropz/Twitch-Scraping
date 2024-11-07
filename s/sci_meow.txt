@@ -1,0 +1,4 @@
+
+ sci_meow,     !roulette max,        <Channel name: kaicenat>,       2024-11-07 10:52:49.720332 
+
+ sci_meow,     Yooo,        <Channel name: kaicenat>,       2024-11-07 10:54:22.218853 

@@ -1,2 +1,4 @@
 
  terry_manantial,     W,        <Channel name: mongraal>,       2024-11-07 09:37:30.832923 
+
+ terry_manantial,     !trio,        <Channel name: mongraal>,       2024-11-07 12:40:27.406246 

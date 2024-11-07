@@ -1,0 +1,100 @@
+
+ baitttoff,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.369955 
+
+ baitttoff,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:15:41.167397 
+
+ baitttoff,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:19:08.658884 
+
+ baitttoff,     luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.471926 
+
+ baitttoff,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.911036 
+
+ baitttoff,     denmar,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.560099 
+
+ baitttoff,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.036970 
+
+ baitttoff,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:21:15.580649 
+
+ baitttoff,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.161745 
+
+ baitttoff,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.929205 
+
+ baitttoff,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:23:46.552321 
+
+ baitttoff,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:23:47.415803 
+
+ baitttoff,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.376405 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.685314 
+
+ baitttoff,     malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.401554 
+
+ baitttoff,     rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.776191 
+
+ baitttoff,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.668216 
+
+ baitttoff,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:32:14.148339 
+
+ baitttoff,     preu,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.668303 
+
+ baitttoff,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.950194 
+
+ baitttoff,     za,        <Channel name: shadowkekw>,       2024-11-07 10:33:42.646849 
+
+ baitttoff,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.585869 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.365242 
+
+ baitttoff,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.041681 
+
+ baitttoff,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.120114 
+
+ baitttoff,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.242486 
+
+ baitttoff,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:41:48.627752 
+
+ baitttoff,     rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.001952 
+
+ baitttoff,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:25.471130 
+
+ baitttoff,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.699199 
+
+ baitttoff,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.008626 
+
+ baitttoff,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:51:18.356865 
+
+ baitttoff,     idomenican repiblic,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.990058 
+
+ baitttoff,     idd,        <Channel name: shadowkekw>,       2024-11-07 10:52:39.806749 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:54:56.378228 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.730286 
+
+ baitttoff,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.563249 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:08.608967 
+
+ baitttoff,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.197788 
+
+ baitttoff,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.457400 
+
+ baitttoff,     id,        <Channel name: shadowkekw>,       2024-11-07 11:00:28.467568 
+
+ baitttoff,     mexico,        <Channel name: shadowkekw>,       2024-11-07 11:03:15.431757 
+
+ baitttoff,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:04:35.821267 
+
+ baitttoff,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:06:12.610357 
+
+ baitttoff,     id,        <Channel name: shadowkekw>,       2024-11-07 11:07:42.451531 
+
+ baitttoff,     za,        <Channel name: shadowkekw>,       2024-11-07 11:09:34.141697 
+
+ baitttoff,     botswana,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.707595 
+
+ baitttoff,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.493531 
+
+ baitttoff,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:20.543986 
+
+ baitttoff,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:14:22.023935 

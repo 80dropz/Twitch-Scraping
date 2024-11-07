@@ -1,0 +1,4 @@
+
+ skpe__,     1sens,        <Channel name: mongraal>,       2024-11-07 09:58:43.150641 
+
+ skpe__,     !sens,        <Channel name: mongraal>,       2024-11-07 09:58:45.784756 

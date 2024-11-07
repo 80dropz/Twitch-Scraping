@@ -1,2 +1,6 @@
 
  fless19,     9000,        <Channel name: shadowkekw>,       2024-11-07 09:00:37.828721 
+
+ fless19,     MAKC,        <Channel name: shadowkekw>,       2024-11-07 11:41:24.721196 
+
+ fless19,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:54:20.958153 

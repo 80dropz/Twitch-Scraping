@@ -1,0 +1,6 @@
+
+ ferrarikid07,     imagine being asleep at 10 am,        <Channel name: clix>,       2024-11-07 12:06:53.640792 
+
+ ferrarikid07,     !watchtime,        <Channel name: clix>,       2024-11-07 12:11:49.119480 
+
+ ferrarikid07,     !gamble 100,        <Channel name: clix>,       2024-11-07 12:13:03.682372 

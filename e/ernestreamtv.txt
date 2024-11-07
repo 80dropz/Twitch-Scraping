@@ -1,0 +1,40 @@
+
+ ernestreamtv,     !sens,        <Channel name: mongraal>,       2024-11-07 10:44:05.099158 
+
+ ernestreamtv,     !dpi,        <Channel name: mongraal>,       2024-11-07 10:44:12.641644 
+
+ ernestreamtv,     !map,        <Channel name: mongraal>,       2024-11-07 10:44:19.643402 
+
+ ernestreamtv,     !bicep,        <Channel name: mongraal>,       2024-11-07 10:46:18.422887 
+
+ ernestreamtv,     !gym,        <Channel name: mongraal>,       2024-11-07 10:46:27.017979 
+
+ ernestreamtv,     !workout,        <Channel name: mongraal>,       2024-11-07 10:46:39.400465 
+
+ ernestreamtv,     !game,        <Channel name: mongraal>,       2024-11-07 10:46:55.544308 
+
+ ernestreamtv,     What is that?,        <Channel name: mongraal>,       2024-11-07 10:47:20.171709 
+
+ ernestreamtv,     Game's name?,        <Channel name: mongraal>,       2024-11-07 10:47:35.673554 
+
+ ernestreamtv,     !pc,        <Channel name: mrlust>,       2024-11-07 10:59:07.530036 
+
+ ernestreamtv,     !keyboard,        <Channel name: mrlust>,       2024-11-07 10:59:18.610134 
+
+ ernestreamtv,     !mouse,        <Channel name: mrlust>,       2024-11-07 10:59:29.791086 
+
+ ernestreamtv,     !cheats,        <Channel name: mrlust>,       2024-11-07 11:00:09.144712 
+
+ ernestreamtv,     !screen,        <Channel name: mrlust>,       2024-11-07 11:00:33.124903 
+
+ ernestreamtv,     !res,        <Channel name: mrlust>,       2024-11-07 11:00:42.662511 
+
+ ernestreamtv,     !snapchat,        <Channel name: mrlust>,       2024-11-07 11:00:59.278490 
+
+ ernestreamtv,     !crowns,        <Channel name: mrlust>,       2024-11-07 11:01:07.638642 
+
+ ernestreamtv,     !wins,        <Channel name: mrlust>,       2024-11-07 11:01:20.079464 
+
+ ernestreamtv,     !couple,        <Channel name: mrlust>,       2024-11-07 11:02:23.442621 
+
+ ernestreamtv,     !asmr,        <Channel name: mrlust>,       2024-11-07 11:02:28.948000 

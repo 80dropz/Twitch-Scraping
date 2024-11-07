@@ -6,3 +6,7 @@
  zerz_z,     your not real feldy,        <Channel name: clix>,       2024-11-07 02:14:11.256483 
 
  zerz_z,     your actually not real,        <Channel name: clix>,       2024-11-07 02:14:22.002871 
+
+ zerz_z,     !followage,        <Channel name: oatley>,       2024-11-07 10:06:09.338460 
+
+ zerz_z,     !watchtime,        <Channel name: oatley>,       2024-11-07 10:06:23.642619 

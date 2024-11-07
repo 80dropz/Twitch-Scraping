@@ -1,0 +1,30 @@
+
+ tripletr1p,     1,        <Channel name: shadowkekw>,       2024-11-07 12:17:45.675101 
+
+ tripletr1p,     3,        <Channel name: shadowkekw>,       2024-11-07 12:17:53.397089 
+
+ tripletr1p,     4,        <Channel name: shadowkekw>,       2024-11-07 12:17:57.389880 
+
+ tripletr1p,     5,        <Channel name: shadowkekw>,       2024-11-07 12:18:00.283592 
+
+ tripletr1p,     3525,        <Channel name: shadowkekw>,       2024-11-07 12:18:03.528727 
+
+ tripletr1p,     383636,        <Channel name: shadowkekw>,       2024-11-07 12:18:10.660273 
+
+ tripletr1p,     152525,        <Channel name: shadowkekw>,       2024-11-07 12:18:12.775240 
+
+ tripletr1p,     141526,        <Channel name: shadowkekw>,       2024-11-07 12:18:17.528975 
+
+ tripletr1p,     152626,        <Channel name: shadowkekw>,       2024-11-07 12:18:22.485632 
+
+ tripletr1p,     1183896,        <Channel name: shadowkekw>,       2024-11-07 12:18:30.241596 
+
+ tripletr1p,     1726379,        <Channel name: shadowkekw>,       2024-11-07 12:18:33.389036 
+
+ tripletr1p,     1262,        <Channel name: shadowkekw>,       2024-11-07 12:18:39.451951 
+
+ tripletr1p,     10373636,        <Channel name: shadowkekw>,       2024-11-07 12:18:43.926248 
+
+ tripletr1p,     172636,        <Channel name: shadowkekw>,       2024-11-07 12:18:48.049028 
+
+ tripletr1p,     1625,        <Channel name: shadowkekw>,       2024-11-07 12:18:51.242336 

@@ -1,0 +1,12 @@
+
+ d1_dam,     if I send 500 they’ll wake up,        <Channel name: kaicenat>,       2024-11-07 10:32:07.997563 
+
+ d1_dam,     kaicScream,        <Channel name: kaicenat>,       2024-11-07 10:36:24.077521 
+
+ d1_dam,     Kaiscream,        <Channel name: kaicenat>,       2024-11-07 10:36:30.455562 
+
+ d1_dam,     kaicscream,        <Channel name: kaicenat>,       2024-11-07 10:36:33.581312 
+
+ d1_dam,     kaicScream,        <Channel name: kaicenat>,       2024-11-07 10:37:30.725300 
+
+ d1_dam,     he still ain’t spit that mucus out,        <Channel name: kaicenat>,       2024-11-07 10:50:14.389864 

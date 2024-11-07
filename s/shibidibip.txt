@@ -32,3 +32,5 @@
  shibidibip,     Miles is out,        <Channel name: kaicenat>,       2024-11-07 09:13:09.095504 
 
  shibidibip,     Miles is going to toilet I guess,        <Channel name: kaicenat>,       2024-11-07 09:13:31.653231 
+
+ shibidibip,     KAI! Give miles a rise u bum,        <Channel name: kaicenat>,       2024-11-07 10:08:50.900251 

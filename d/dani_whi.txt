@@ -1,0 +1,14 @@
+
+ dani_whi,     !wt,        <Channel name: clix>,       2024-11-07 10:06:20.954870 
+
+ dani_whi,     !wt,        <Channel name: clix>,       2024-11-07 10:08:19.538102 
+
+ dani_whi,     ewww,        <Channel name: clix>,       2024-11-07 10:14:04.219444 
+
+ dani_whi,     !time,        <Channel name: clix>,       2024-11-07 10:15:42.243966 
+
+ dani_whi,     !time,        <Channel name: clix>,       2024-11-07 10:16:27.621156 
+
+ dani_whi,     who wins the VIP today,        <Channel name: clix>,       2024-11-07 10:17:31.205180 
+
+ dani_whi,     !wt,        <Channel name: clix>,       2024-11-07 10:18:20.250295 

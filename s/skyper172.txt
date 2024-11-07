@@ -1,0 +1,76 @@
+
+ skyper172,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.249193 
+
+ skyper172,     nORWAY,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.934801 
+
+ skyper172,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.132143 
+
+ skyper172,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.107933 
+
+ skyper172,     NG,        <Channel name: shadowkekw>,       2024-11-07 10:39:15.462658 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.068356 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.089598 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:12.490054 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:45:08.185602 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:46.260753 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.328884 
+
+ skyper172,     kipr,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.829471 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:47:59.001905 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.088269 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:49:11.279915 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:49:28.064245 
+
+ skyper172,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:49:52.815543 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.164285 
+
+ skyper172,     da,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.726563 
+
+ skyper172,     tai,        <Channel name: shadowkekw>,       2024-11-07 10:52:09.164332 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.183121 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.033219 
+
+ skyper172,     tai,        <Channel name: shadowkekw>,       2024-11-07 10:57:37.517268 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:58:26.551765 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:00:26.266926 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:01:10.970320 
+
+ skyper172,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:02:10.506100 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:04:44.086186 
+
+ skyper172,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.451224 
+
+ skyper172,     PANAMA,        <Channel name: shadowkekw>,       2024-11-07 11:07:31.399912 
+
+ skyper172,     LAOS,        <Channel name: shadowkekw>,       2024-11-07 11:08:51.758867 
+
+ skyper172,     G,        <Channel name: shadowkekw>,       2024-11-07 11:09:07.732452 
+
+ skyper172,     GANA,        <Channel name: shadowkekw>,       2024-11-07 11:09:17.722211 
+
+ skyper172,     GHANA,        <Channel name: shadowkekw>,       2024-11-07 11:09:29.168232 
+
+ skyper172,     MADAGASKAR,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.535530 
+
+ skyper172,     laos,        <Channel name: shadowkekw>,       2024-11-07 11:12:28.425751 
+
+ skyper172,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.759545 
+
+ skyper172,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:14:17.881451 

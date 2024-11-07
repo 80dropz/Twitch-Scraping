@@ -1,0 +1,72 @@
+
+ sovhub,     China,        <Channel name: shadowkekw>,       2024-11-07 10:06:57.280578 
+
+ sovhub,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.464588 
+
+ sovhub,     Avganistan,        <Channel name: shadowkekw>,       2024-11-07 10:07:33.022767 
+
+ sovhub,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.657586 
+
+ sovhub,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:45.463274 
+
+ sovhub,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.656639 
+
+ sovhub,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:28.948468 
+
+ sovhub,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:51.296456 
+
+ sovhub,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:35.297854 
+
+ sovhub,     au,        <Channel name: shadowkekw>,       2024-11-07 10:11:29.188889 
+
+ sovhub,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:11:58.183987 
+
+ sovhub,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:08.804199 
+
+ sovhub,     Bz,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.634215 
+
+ sovhub,     china,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.015638 
+
+ sovhub,     @Baitttoff,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.553541 
+
+ sovhub,     AF / AFG 29 121 286 647 500 20.65 Billion Albania 355 AL / ALB 2 986 952 28 748 12.8 Billion Algeria 213 DZ / DZA 34 586 184 2 381 740 215.7 Billion American Samoa 1-684 AS / ASM 57 881 199 462.2 Million Andorra 376 AD / AND 84 000 468 4.8 Billion Angola 244 AO / AGO 13 068 161 1 246 700 124 Billion Anguilla 1-264 AI / AIA 13 254 102 175.4 Million Antarctica 672 AQ / ATA 0 14 000 000  Antigua and Barbuda 1-268 AG / ATG 86 754 443 1.22 Billion Argentina 54 AR / ARG 41 343 201 2 766 890 484.6 Bill,        <Channel name: shadowkekw>,       2024-11-07 10:25:01.046511 
+
+ sovhub,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.618151 
+
+ sovhub,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.933664 
+
+ sovhub,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:26:04.643906 
+
+ sovhub,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:26:16.813527 
+
+ sovhub,     re,        <Channel name: shadowkekw>,       2024-11-07 10:26:32.811118 
+
+ sovhub,     ga,        <Channel name: shadowkekw>,       2024-11-07 10:26:34.332130 
+
+ sovhub,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:26:56.450796 
+
+ sovhub,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.284164 
+
+ sovhub,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:28:48.895246 
+
+ sovhub,     ho,        <Channel name: shadowkekw>,       2024-11-07 10:28:55.229564 
+
+ sovhub,     china,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.218531 
+
+ sovhub,     in,        <Channel name: shadowkekw>,       2024-11-07 10:29:54.192075 
+
+ sovhub,     lp,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.876520 
+
+ sovhub,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.107249 
+
+ sovhub,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.077020 
+
+ sovhub,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.183693 
+
+ sovhub,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.261529 
+
+ sovhub,     po,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.923701 
+
+ sovhub,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:34:47.084145 
+
+ sovhub,     in,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.455919 

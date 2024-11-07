@@ -1,0 +1,68 @@
+
+ selitexx,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:57.385652 
+
+ selitexx,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.065990 
+
+ selitexx,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:19:22.367076 
+
+ selitexx,     th,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.611185 
+
+ selitexx,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.975328 
+
+ selitexx,     nf,        <Channel name: shadowkekw>,       2024-11-07 10:19:52.658647 
+
+ selitexx,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:20:00.097685 
+
+ selitexx,     op,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.315806 
+
+ selitexx,     do,        <Channel name: shadowkekw>,       2024-11-07 10:22:17.417695 
+
+ selitexx,     dm,        <Channel name: shadowkekw>,       2024-11-07 10:22:21.191123 
+
+ selitexx,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.322033 
+
+ selitexx,     gg,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.588414 
+
+ selitexx,     gp,        <Channel name: shadowkekw>,       2024-11-07 10:22:35.831848 
+
+ selitexx,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:22:44.143965 
+
+ selitexx,     zm,        <Channel name: shadowkekw>,       2024-11-07 10:22:47.112525 
+
+ selitexx,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:22:51.516333 
+
+ selitexx,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:23:08.736584 
+
+ selitexx,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:23:10.940296 
+
+ selitexx,     is,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.041547 
+
+ selitexx,     cy,        <Channel name: shadowkekw>,       2024-11-07 10:23:26.738441 
+
+ selitexx,     ki,        <Channel name: shadowkekw>,       2024-11-07 10:23:28.685479 
+
+ selitexx,     kp,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.087299 
+
+ selitexx,     ci,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.015160 
+
+ selitexx,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.861415 
+
+ selitexx,     mw,        <Channel name: shadowkekw>,       2024-11-07 10:24:05.834105 
+
+ selitexx,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:24:08.720606 
+
+ selitexx,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.562417 
+
+ selitexx,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.439423 
+
+ selitexx,     la,        <Channel name: shadowkekw>,       2024-11-07 10:24:29.105591 
+
+ selitexx,     li,        <Channel name: shadowkekw>,       2024-11-07 10:24:31.619785 
+
+ selitexx,     mo,        <Channel name: shadowkekw>,       2024-11-07 10:24:35.110252 
+
+ selitexx,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.854507 
+
+ selitexx,     ly,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.767808 
+
+ selitexx,     lb,        <Channel name: shadowkekw>,       2024-11-07 10:25:41.913821 

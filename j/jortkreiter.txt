@@ -24,3 +24,75 @@
  jortkreiter,     horn 2,        <Channel name: kaicenat>,       2024-11-07 09:39:21.346757 
 
  jortkreiter,     horn twice,        <Channel name: kaicenat>,       2024-11-07 09:39:47.544061 
+
+ jortkreiter,     !time,        <Channel name: kaicenat>,       2024-11-07 10:46:18.465018 
+
+ jortkreiter,     ?,        <Channel name: kaicenat>,       2024-11-07 10:54:01.171001 
+
+ jortkreiter,     zo it in his ear,        <Channel name: kaicenat>,       2024-11-07 11:09:21.363569 
+
+ jortkreiter,     ear,        <Channel name: kaicenat>,       2024-11-07 11:09:25.867792 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:19:54.830124 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:20:35.355537 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:22:47.370773 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:22:49.618150 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:22:53.932069 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:25:08.623019 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:25:12.044470 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:27:12.930559 
+
+ jortkreiter,     wwww,        <Channel name: kaicenat>,       2024-11-07 11:27:15.359147 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:27:16.661705 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:27:26.849234 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:31:27.028584 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:31:29.524036 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:31:32.875180 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:31:36.390017 
+
+ jortkreiter,     e,        <Channel name: kaicenat>,       2024-11-07 11:31:42.251980 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:31:43.882560 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:31:46.912798 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:31:59.461596 
+
+ jortkreiter,     insane,        <Channel name: kaicenat>,       2024-11-07 11:32:47.575965 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:33:20.756338 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:34:24.710114 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:34:29.189153 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:34:30.638925 
+
+ jortkreiter,     m,        <Channel name: kaicenat>,       2024-11-07 11:36:18.271080 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:36:21.902733 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:36:22.531864 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:36:24.647398 
+
+ jortkreiter,     w,        <Channel name: kaicenat>,       2024-11-07 11:36:26.237813 
+
+ jortkreiter,     ww,        <Channel name: kaicenat>,       2024-11-07 11:36:29.223756 
+
+ jortkreiter,     www,        <Channel name: kaicenat>,       2024-11-07 11:38:48.430653 
+
+ jortkreiter,     ,,        <Channel name: kaicenat>,       2024-11-07 11:47:03.629483 

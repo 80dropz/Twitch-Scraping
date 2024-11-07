@@ -4,3 +4,5 @@
  coop_boy118,     courageDUMPY courageDUMPY courageDUMPY,        <Channel name: clix>,       2024-11-07 09:13:45.996593 
 
  coop_boy118,     courageSUB2 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3 courageSUB3,        <Channel name: clix>,       2024-11-07 09:14:02.133193 
+
+ coop_boy118,     !squad,        <Channel name: clix>,       2024-11-07 10:03:48.991682 

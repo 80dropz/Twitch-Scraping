@@ -1,0 +1,4 @@
+
+ emilio_emc,     rr,        <Channel name: ricci>,       2024-11-07 11:26:25.780287 
+
+ emilio_emc,     rt,        <Channel name: ricci>,       2024-11-07 11:26:28.766624 

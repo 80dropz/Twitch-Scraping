@@ -1,0 +1,6 @@
+
+ gorilla_u1,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:02:43.955604 
+
+ gorilla_u1,     london,        <Channel name: shadowkekw>,       2024-11-07 11:06:18.525363 
+
+ gorilla_u1,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:44.192321 

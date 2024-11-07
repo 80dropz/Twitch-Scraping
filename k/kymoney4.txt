@@ -1,0 +1,18 @@
+
+ kymoney4,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:08.566705 
+
+ kymoney4,     5050,        <Channel name: kaicenat>,       2024-11-07 12:44:14.768186 
+
+ kymoney4,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:17.255489 
+
+ kymoney4,     500,        <Channel name: kaicenat>,       2024-11-07 12:44:20.946144 
+
+ kymoney4,     505005,        <Channel name: kaicenat>,       2024-11-07 12:44:26.398731 
+
+ kymoney4,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:34.523369 
+
+ kymoney4,     om,        <Channel name: kaicenat>,       2024-11-07 12:47:10.328605 
+
+ kymoney4,     omgo,        <Channel name: kaicenat>,       2024-11-07 12:47:21.826580 
+
+ kymoney4,     omg,        <Channel name: kaicenat>,       2024-11-07 12:47:40.194326 

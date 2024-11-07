@@ -1,0 +1,64 @@
+
+ fatttynate,     .......,        <Channel name: swagg>,       2024-11-07 12:02:04.808645 
+
+ fatttynate,     ......,        <Channel name: swagg>,       2024-11-07 12:02:13.970172 
+
+ fatttynate,     ........,        <Channel name: swagg>,       2024-11-07 12:02:17.695966 
+
+ fatttynate,     .....,        <Channel name: swagg>,       2024-11-07 12:02:19.350563 
+
+ fatttynate,     .................,        <Channel name: swagg>,       2024-11-07 12:02:21.700524 
+
+ fatttynate,     ..........,        <Channel name: swagg>,       2024-11-07 12:02:22.627283 
+
+ fatttynate,     ......,        <Channel name: swagg>,       2024-11-07 12:02:24.216642 
+
+ fatttynate,     ...........,        <Channel name: swagg>,       2024-11-07 12:02:25.665028 
+
+ fatttynate,     ..........,        <Channel name: swagg>,       2024-11-07 12:02:27.871171 
+
+ fatttynate,     ......,        <Channel name: swagg>,       2024-11-07 12:02:29.181951 
+
+ fatttynate,     ..........,        <Channel name: swagg>,       2024-11-07 12:02:31.260685 
+
+ fatttynate,     ................,        <Channel name: swagg>,       2024-11-07 12:02:32.580432 
+
+ fatttynate,     .......................,        <Channel name: swagg>,       2024-11-07 12:02:36.051378 
+
+ fatttynate,     ...........,        <Channel name: swagg>,       2024-11-07 12:02:37.136995 
+
+ fatttynate,     .............,        <Channel name: swagg>,       2024-11-07 12:02:39.916173 
+
+ fatttynate,     ................,        <Channel name: swagg>,       2024-11-07 12:02:43.675989 
+
+ fatttynate,     ............,        <Channel name: swagg>,       2024-11-07 12:02:46.035712 
+
+ fatttynate,     ..,        <Channel name: swagg>,       2024-11-07 12:02:52.880983 
+
+ fatttynate,     .....,        <Channel name: swagg>,       2024-11-07 12:02:54.675496 
+
+ fatttynate,     ................,        <Channel name: swagg>,       2024-11-07 12:02:59.613004 
+
+ fatttynate,     ............,        <Channel name: swagg>,       2024-11-07 12:03:08.280861 
+
+ fatttynate,     ......,        <Channel name: swagg>,       2024-11-07 12:03:15.451730 
+
+ fatttynate,     ..............,        <Channel name: swagg>,       2024-11-07 12:03:20.607419 
+
+ fatttynate,     .........,        <Channel name: swagg>,       2024-11-07 12:03:26.184121 
+
+ fatttynate,     ....,        <Channel name: swagg>,       2024-11-07 12:03:28.196826 
+
+ fatttynate,     ...,        <Channel name: swagg>,       2024-11-07 12:03:30.938620 
+
+ fatttynate,     .............,        <Channel name: swagg>,       2024-11-07 12:03:34.801887 
+
+ fatttynate,     WWWW,        <Channel name: swagg>,       2024-11-07 12:03:49.531115 
+
+ fatttynate,     WWWWWWWWWWWWWWWWWW,        <Channel name: swagg>,       2024-11-07 12:03:51.629890 
+
+ fatttynate,     yoooo,        <Channel name: swagg>,       2024-11-07 12:07:49.658572 
+
+ fatttynate,     yurr,        <Channel name: swagg>,       2024-11-07 12:08:24.387065 
+
+ fatttynate,     W map,        <Channel name: swagg>,       2024-11-07 12:10:04.636237 

@@ -1,0 +1,4 @@
+
+ dslurper3000,     !addme,        <Channel name: mrlust>,       2024-11-07 10:12:25.197882 
+
+ dslurper3000,     !lurk,        <Channel name: mrlust>,       2024-11-07 10:12:54.739006 

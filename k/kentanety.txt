@@ -66,3 +66,387 @@
  kentanety,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:43:23.342629 
 
  kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:43:39.898722 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:18.300015 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:36.835311 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:55:11.224864 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:55:28.908082 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:56:43.058224 
+
+ kentanety,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:58:04.524393 
+
+ kentanety,     nt,        <Channel name: shadowkekw>,       2024-11-07 09:58:29.319428 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 09:58:53.474650 
+
+ kentanety,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:59:30.669336 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:01:13.392514 
+
+ kentanety,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:01:42.071957 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:03:24.990705 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:03:57.255306 
+
+ kentanety,     ++,        <Channel name: shadowkekw>,       2024-11-07 10:04:49.053478 
+
+ kentanety,     NELOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:26.804079 
+
+ kentanety,     Serbi,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.359284 
+
+ kentanety,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:07:48.108144 
+
+ kentanety,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.581168 
+
+ kentanety,     li,        <Channel name: shadowkekw>,       2024-11-07 10:19:08.776133 
+
+ kentanety,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:19:20.363796 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:20:01.127408 
+
+ kentanety,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:20:20.206956 
+
+ kentanety,     sps,        <Channel name: shadowkekw>,       2024-11-07 10:20:24.934051 
+
+ kentanety,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.624858 
+
+ kentanety,     si,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.420462 
+
+ kentanety,     es,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.034231 
+
+ kentanety,     ai,        <Channel name: shadowkekw>,       2024-11-07 10:21:57.671091 
+
+ kentanety,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:22:27.103155 
+
+ kentanety,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:24:15.214583 
+
+ kentanety,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:27:04.069942 
+
+ kentanety,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 10:27:24.981435 
+
+ kentanety,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:27:34.474926 
+
+ kentanety,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:40.010146 
+
+ kentanety,     India,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.517983 
+
+ kentanety,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.492054 
+
+ kentanety,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.117765 
+
+ kentanety,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:28:16.009961 
+
+ kentanety,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.570128 
+
+ kentanety,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:28:34.047067 
+
+ kentanety,     Libya,        <Channel name: shadowkekw>,       2024-11-07 10:29:10.042723 
+
+ kentanety,     Liechtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.624346 
+
+ kentanety,     Nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.804753 
+
+ kentanety,     Palau,        <Channel name: shadowkekw>,       2024-11-07 10:30:23.795673 
+
+ kentanety,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.500296 
+
+ kentanety,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:31:50.124914 
+
+ kentanety,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:31:56.054081 
+
+ kentanety,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:33:06.851553 
+
+ kentanety,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.787932 
+
+ kentanety,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:34:58.174148 
+
+ kentanety,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.212655 
+
+ kentanety,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.992411 
+
+ kentanety,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.723239 
+
+ kentanety,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.166352 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:36:54.611418 
+
+ kentanety,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.629292 
+
+ kentanety,     87,        <Channel name: shadowkekw>,       2024-11-07 10:37:16.303277 
+
+ kentanety,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.439373 
+
+ kentanety,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:37:48.908320 
+
+ kentanety,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.482928 
+
+ kentanety,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:38:03.654517 
+
+ kentanety,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:38:30.267378 
+
+ kentanety,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.121644 
+
+ kentanety,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.509564 
+
+ kentanety,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.644954 
+
+ kentanety,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.841471 
+
+ kentanety,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.742638 
+
+ kentanety,     India,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.881899 
+
+ kentanety,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.598911 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:42:39.375476 
+
+ kentanety,     100 WW,        <Channel name: shadowkekw>,       2024-11-07 10:44:34.675232 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 10:45:59.092252 
+
+ kentanety,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:47:07.981196 
+
+ kentanety,     da,        <Channel name: shadowkekw>,       2024-11-07 10:47:21.678051 
+
+ kentanety,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:49:35.085575 
+
+ kentanety,     Santurce,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.772767 
+
+ kentanety,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:56:02.538222 
+
+ kentanety,     gg,        <Channel name: shadowkekw>,       2024-11-07 10:56:41.899572 
+
+ kentanety,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.642790 
+
+ kentanety,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:57:27.466494 
+
+ kentanety,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:58:10.100660 
+
+ kentanety,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.214750 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:01:15.736346 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:01:58.076730 
+
+ kentanety,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:05:30.241073 
+
+ kentanety,     brz,        <Channel name: shadowkekw>,       2024-11-07 11:06:14.561059 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:06:43.220142 
+
+ kentanety,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.434317 
+
+ kentanety,     litva,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.137793 
+
+ kentanety,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:07:38.020726 
+
+ kentanety,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.485849 
+
+ kentanety,     si,        <Channel name: shadowkekw>,       2024-11-07 11:08:32.944190 
+
+ kentanety,     africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:14.802118 
+
+ kentanety,     mex,        <Channel name: shadowkekw>,       2024-11-07 11:09:27.918593 
+
+ kentanety,     ls,        <Channel name: shadowkekw>,       2024-11-07 11:10:24.817500 
+
+ kentanety,     ai,        <Channel name: shadowkekw>,       2024-11-07 11:10:27.893083 
+
+ kentanety,     litva,        <Channel name: shadowkekw>,       2024-11-07 11:10:38.093309 
+
+ kentanety,     latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.766036 
+
+ kentanety,     litva,        <Channel name: shadowkekw>,       2024-11-07 11:11:01.666712 
+
+ kentanety,     ls,        <Channel name: shadowkekw>,       2024-11-07 11:12:45.777446 
+
+ kentanety,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:13:24.686576 
+
+ kentanety,     si,        <Channel name: shadowkekw>,       2024-11-07 11:13:38.773278 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:17.325057 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:43.078364 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:16:30.625193 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:18:41.542367 
+
+ kentanety,     @ranaronx WW,        <Channel name: shadowkekw>,       2024-11-07 11:19:26.291441 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:19:40.756504 
+
+ kentanety,     @ranaronx WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:18.775549 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:38.515839 
+
+ kentanety,     CLAP WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:46.409854 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:22:06.237360 
+
+ kentanety,     ok,        <Channel name: shadowkekw>,       2024-11-07 11:22:42.146678 
+
+ kentanety,     +rep,        <Channel name: shadowkekw>,       2024-11-07 11:23:08.726403 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:05.091751 
+
+ kentanety,     WW,        <Channel name: kaicenat>,       2024-11-07 11:25:24.048821 
+
+ kentanety,     WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:27:05.572574 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:27:12.223758 
+
+ kentanety,     WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:28:00.300850 
+
+ kentanety,     WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:28:45.883035 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:45.725811 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:49.757542 
+
+ kentanety,     @INSIDER WW @INSIDER WW @INSIDER WW @INSIDER WW @INSIDER WW @INSIDER WW @INSIDER WW @INSIDER WW,        <Channel name: shadowkekw>,       2024-11-07 11:31:03.171878 
+
+ kentanety,     WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:31:16.628178 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:32:25.610429 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:57.989583 
+
+ kentanety,     )),        <Channel name: kaicenat>,       2024-11-07 11:34:52.417254 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:35:20.111873 
+
+ kentanety,     WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:35:37.353033 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:36:41.200913 
+
+ kentanety,     1200,        <Channel name: shadowkekw>,       2024-11-07 11:37:14.644266 
+
+ kentanety,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:37:30.723130 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:38:36.666301 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:38:57.648287 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:07.882798 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:39:55.226742 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:40:23.826053 
+
+ kentanety,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:41:08.658684 
+
+ kentanety,     hi max,        <Channel name: shadowkekw>,       2024-11-07 11:41:26.610465 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:41:36.794331 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:43:06.792074 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:44:31.292400 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:47.582495 
+
+ kentanety,     sigma,        <Channel name: shadowkekw>,       2024-11-07 11:44:53.142656 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:45:15.654673 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:45:43.728703 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:46:46.364921 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:47:25.242138 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:51.464419 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:48:38.337550 
+
+ kentanety,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:04.983360 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:49:26.615973 
+
+ kentanety,     dans,        <Channel name: shadowkekw>,       2024-11-07 11:49:30.521186 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:49:46.152664 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:51:51.046379 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:52:14.723292 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:52:48.803457 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:52:59.101524 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:09.242370 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:29.331872 
+
+ kentanety,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:34.426812 
+
+ kentanety,     https://www.twitch.tv/feelssunnyman/clip/PrettiestOptimisticLionPMSTwin-Nx6es-FNDA4wvqJF,        <Channel name: shadowkekw>,       2024-11-07 12:00:06.874663 
+
+ kentanety,     https://www.twitch.tv/feelssunnyman/clip/PrettiestOptimisticLionPMSTwin-Nx6es-FNDA4wvqJF @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:00:17.179398 
+
+ kentanety,     https://www.twitch.tv/feelssunnyman/clip/PrettiestOptimisticLionPMSTwin-Nx6es-FNDA4wvqJF @shadowkekw !!!,        <Channel name: shadowkekw>,       2024-11-07 12:00:23.623814 
+
+ kentanety,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:39.714613 
+
+ kentanety,     https://www.twitch.tv/feelssunnyman/clip/PrettiestOptimisticLionPMSTwin-Nx6es-FNDA4wvqJF @shadowkekw !!!,        <Channel name: shadowkekw>,       2024-11-07 12:02:06.688345 
+
+ kentanety,     112,        <Channel name: shadowkekw>,       2024-11-07 12:03:05.410119 
+
+ kentanety,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:24.709021 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:04:43.239706 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:20.714625 
+
+ kentanety,     28,        <Channel name: shadowkekw>,       2024-11-07 12:05:52.797211 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:41.240142 
+
+ kentanety,     -rep,        <Channel name: shadowkekw>,       2024-11-07 12:08:23.584387 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:08:30.850272 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:08:56.754143 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:09:06.514150 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:35:48.660398 
+
+ kentanety,     dans,        <Channel name: shadowkekw>,       2024-11-07 12:39:11.717800 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:39:51.880084 
+
+ kentanety,     900,        <Channel name: shadowkekw>,       2024-11-07 12:40:14.595413 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:40:33.760678 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:41:36.988742 
+
+ kentanety,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:43:14.345887 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:44:01.050787 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:45:11.956190 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:46:16.281248 
+
+ kentanety,     TrumpDance WW,        <Channel name: shadowkekw>,       2024-11-07 12:46:36.088137 
+
+ kentanety,     )),        <Channel name: shadowkekw>,       2024-11-07 12:47:39.848165 
+
+ kentanety,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:50:08.251566 
+
+ kentanety,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:53:35.052429 
+
+ kentanety,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:53:44.239451 
+
+ kentanety,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:55:30.071183 
+
+ kentanety,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:55:37.821179 

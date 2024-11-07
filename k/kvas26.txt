@@ -1,0 +1,28 @@
+
+ kvas26,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:50:03.258605 
+
+ kvas26,     ARMENIA,        <Channel name: shadowkekw>,       2024-11-07 10:50:22.193407 
+
+ kvas26,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.910848 
+
+ kvas26,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:51:55.021252 
+
+ kvas26,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:52:46.183419 
+
+ kvas26,     Indonesian,        <Channel name: shadowkekw>,       2024-11-07 10:53:16.382915 
+
+ kvas26,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:54:13.938603 
+
+ kvas26,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.056533 
+
+ kvas26,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.447483 
+
+ kvas26,     MALI,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.655764 
+
+ kvas26,     France,        <Channel name: shadowkekw>,       2024-11-07 10:57:17.845558 
+
+ kvas26,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:06.503525 
+
+ kvas26,     GANA,        <Channel name: shadowkekw>,       2024-11-07 10:58:54.936318 
+
+ kvas26,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:00:57.313916 

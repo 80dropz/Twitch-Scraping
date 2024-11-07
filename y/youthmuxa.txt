@@ -1,0 +1,20 @@
+
+ youthmuxa,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:02:30.623192 
+
+ youthmuxa,     korea,        <Channel name: shadowkekw>,       2024-11-07 11:03:33.800693 
+
+ youthmuxa,     estonia,        <Channel name: shadowkekw>,       2024-11-07 11:04:41.378997 
+
+ youthmuxa,     spain,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.770546 
+
+ youthmuxa,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:06:56.241741 
+
+ youthmuxa,     austria,        <Channel name: shadowkekw>,       2024-11-07 11:07:10.902162 
+
+ youthmuxa,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:08:17.340732 
+
+ youthmuxa,     portugal,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.373853 
+
+ youthmuxa,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.981385 
+
+ youthmuxa,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:09:50.777317 

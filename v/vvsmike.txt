@@ -1,2 +1,16 @@
 
  vvsmike,     LETS GET ITR,        <Channel name: kaicenat>,       2024-11-07 09:28:18.274346 
+
+ vvsmike,     !join,        <Channel name: kaicenat>,       2024-11-07 10:14:11.008937 
+
+ vvsmike,     !roulette 50%,        <Channel name: kaicenat>,       2024-11-07 10:26:31.871711 
+
+ vvsmike,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:27:39.909453 
+
+ vvsmike,     !roulette 109,        <Channel name: kaicenat>,       2024-11-07 10:28:19.298543 
+
+ vvsmike,     PROJECT SAVE MILES,        <Channel name: kaicenat>,       2024-11-07 11:18:33.286050 
+
+ vvsmike,     SOMEONE LOAD UP AN EARTHQUAKE AFTER THE WATER LMAO,        <Channel name: kaicenat>,       2024-11-07 13:04:35.948901 
+
+ vvsmike,     LLLLLLLLLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 13:28:08.404322 

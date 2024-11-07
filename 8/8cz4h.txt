@@ -1,0 +1,4 @@
+
+ 8cz4h,     !delay,        <Channel name: mongraal>,       2024-11-07 12:20:37.136830 
+
+ 8cz4h,     is it 10 min delay or wat,        <Channel name: mongraal>,       2024-11-07 12:22:32.918349 

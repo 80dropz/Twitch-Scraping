@@ -1,0 +1,14 @@
+
+ arina_44,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:07:24.002801 
+
+ arina_44,     Cair,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.249878 
+
+ arina_44,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:08:00.399913 
+
+ arina_44,     Marocco,        <Channel name: shadowkekw>,       2024-11-07 10:08:13.469237 
+
+ arina_44,     Islandia,        <Channel name: shadowkekw>,       2024-11-07 10:08:30.813398 
+
+ arina_44,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:10:18.578928 
+
+ arina_44,     France,        <Channel name: shadowkekw>,       2024-11-07 10:10:21.770588 

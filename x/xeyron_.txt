@@ -2,3 +2,151 @@
  xeyron_,     52,        <Channel name: shadowkekw>,       2024-11-07 09:40:07.272403 
 
  xeyron_,     )),        <Channel name: shadowkekw>,       2024-11-07 09:44:01.945297 
+
+ xeyron_,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:19:16.803314 
+
+ xeyron_,     50,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.220565 
+
+ xeyron_,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:24:45.788419 
+
+ xeyron_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:25:19.833813 
+
+ xeyron_,     marocco,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.794220 
+
+ xeyron_,     uar,        <Channel name: shadowkekw>,       2024-11-07 10:26:26.309386 
+
+ xeyron_,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:29:09.150086 
+
+ xeyron_,     sweeden,        <Channel name: shadowkekw>,       2024-11-07 10:30:55.802805 
+
+ xeyron_,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:12.409266 
+
+ xeyron_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.325967 
+
+ xeyron_,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:15.454232 
+
+ xeyron_,     200,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.808459 
+
+ xeyron_,     china,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.732066 
+
+ xeyron_,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.121898 
+
+ xeyron_,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.300353 
+
+ xeyron_,     urugway,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.130124 
+
+ xeyron_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.164815 
+
+ xeyron_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.402206 
+
+ xeyron_,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.082933 
+
+ xeyron_,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:34:35.022457 
+
+ xeyron_,     marocco,        <Channel name: shadowkekw>,       2024-11-07 10:34:50.625723 
+
+ xeyron_,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:35:00.796818 
+
+ xeyron_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.199490 
+
+ xeyron_,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:53.644566 
+
+ xeyron_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:05.635920 
+
+ xeyron_,     balgadeush,        <Channel name: shadowkekw>,       2024-11-07 10:36:12.160777 
+
+ xeyron_,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:25.333521 
+
+ xeyron_,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:40.258902 
+
+ xeyron_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.060749 
+
+ xeyron_,     ecvador,        <Channel name: shadowkekw>,       2024-11-07 10:38:56.440989 
+
+ xeyron_,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.209703 
+
+ xeyron_,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.889414 
+
+ xeyron_,     ispania,        <Channel name: shadowkekw>,       2024-11-07 10:39:30.445462 
+
+ xeyron_,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:34.335927 
+
+ xeyron_,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.235403 
+
+ xeyron_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.980512 
+
+ xeyron_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:40:17.949574 
+
+ xeyron_,     tailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.858800 
+
+ xeyron_,     china,        <Channel name: shadowkekw>,       2024-11-07 10:40:30.330595 
+
+ xeyron_,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:35.905771 
+
+ xeyron_,     dominican repudlic\,        <Channel name: shadowkekw>,       2024-11-07 10:40:54.471155 
+
+ xeyron_,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.827802 
+
+ xeyron_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.849453 
+
+ xeyron_,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.613815 
+
+ xeyron_,     au,        <Channel name: shadowkekw>,       2024-11-07 10:42:00.566178 
+
+ xeyron_,     frande,        <Channel name: shadowkekw>,       2024-11-07 10:42:36.709361 
+
+ xeyron_,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.735669 
+
+ xeyron_,     urugway,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.359740 
+
+ xeyron_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:44:04.647077 
+
+ xeyron_,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:05.663938 
+
+ xeyron_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.351566 
+
+ xeyron_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:45:13.232804 
+
+ xeyron_,     au,        <Channel name: shadowkekw>,       2024-11-07 10:45:54.365340 
+
+ xeyron_,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 10:46:13.829413 
+
+ xeyron_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.361015 
+
+ xeyron_,     monaco,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.844164 
+
+ xeyron_,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.916059 
+
+ xeyron_,     au,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.347728 
+
+ xeyron_,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:49:41.898971 
+
+ xeyron_,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:35.007799 
+
+ xeyron_,     german,        <Channel name: shadowkekw>,       2024-11-07 10:50:56.414084 
+
+ xeyron_,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:51:55.102836 
+
+ xeyron_,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:53:12.128433 
+
+ xeyron_,     0,        <Channel name: shadowkekw>,       2024-11-07 11:14:44.532998 
+
+ xeyron_,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:15:39.591468 
+
+ xeyron_,     900,        <Channel name: shadowkekw>,       2024-11-07 11:41:40.471384 
+
+ xeyron_,     112 WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:58.100606 
+
+ xeyron_,     and,        <Channel name: shadowkekw>,       2024-11-07 11:50:08.051545 
+
+ xeyron_,     100,        <Channel name: shadowkekw>,       2024-11-07 11:51:00.367976 
+
+ xeyron_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:15.418779 
+
+ xeyron_,     o,        <Channel name: shadowkekw>,       2024-11-07 11:53:24.640687 
+
+ xeyron_,     brp,        <Channel name: shadowkekw>,       2024-11-07 11:55:27.330056 
+
+ xeyron_,     )),        <Channel name: shadowkekw>,       2024-11-07 11:57:50.660611 
+
+ xeyron_,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:21:05.036818 

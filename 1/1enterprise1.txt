@@ -1,0 +1,8 @@
+
+ 1enterprise1,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.316904 
+
+ 1enterprise1,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:08:50.042004 
+
+ 1enterprise1,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:09:28.577747 
+
+ 1enterprise1,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:10:44.964527 

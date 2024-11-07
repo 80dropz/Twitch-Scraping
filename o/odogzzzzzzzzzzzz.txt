@@ -1,0 +1,6 @@
+
+ odogzzzzzzzzzzzz,     !CLASS,        <Channel name: swagg>,       2024-11-07 11:44:35.937284 
+
+ odogzzzzzzzzzzzz,     !class,        <Channel name: swagg>,       2024-11-07 11:44:40.960521 
+
+ odogzzzzzzzzzzzz,     !xm4,        <Channel name: swagg>,       2024-11-07 11:45:10.002499 

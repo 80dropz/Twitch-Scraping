@@ -1,0 +1,10 @@
+
+ pahpito,     pahpitLit,        <Channel name: kaicenat>,       2024-11-07 11:30:28.137159 
+
+ pahpito,     pahpitLit,        <Channel name: kaicenat>,       2024-11-07 12:28:47.361334 
+
+ pahpito,     pahpitLit pahpitLit,        <Channel name: kaicenat>,       2024-11-07 12:29:07.718904 
+
+ pahpito,     pahpitTrig,        <Channel name: kaicenat>,       2024-11-07 12:33:23.636956 
+
+ pahpito,     pahpitBox,        <Channel name: kaicenat>,       2024-11-07 12:34:18.197299 

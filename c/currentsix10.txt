@@ -1,2 +1,14 @@
 
  currentsix10,     !time,        <Channel name: kaicenat>,       2024-11-07 09:31:34.379175 
+
+ currentsix10,     !subs,        <Channel name: nadeshot>,       2024-11-07 10:21:05.440485 
+
+ currentsix10,     how many subs does he have,        <Channel name: nadeshot>,       2024-11-07 10:21:22.812249 
+
+ currentsix10,     @damonfrr 11:30 est,        <Channel name: lacy>,       2024-11-07 11:23:10.568542 
+
+ currentsix10,     cmonBruh cmonBruh cmonBruh cmonBruh,        <Channel name: lacy>,       2024-11-07 12:23:27.474574 
+
+ currentsix10,     omeStare,        <Channel name: lacy>,       2024-11-07 12:51:51.191435 
+
+ currentsix10,     yes,        <Channel name: lacy>,       2024-11-07 12:56:59.200694 

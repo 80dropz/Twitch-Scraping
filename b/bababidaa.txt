@@ -1,0 +1,4 @@
+
+ bababidaa,     !dpi,        <Channel name: mongraal>,       2024-11-07 12:20:14.036281 
+
+ bababidaa,     !pc,        <Channel name: mongraal>,       2024-11-07 12:20:26.280799 

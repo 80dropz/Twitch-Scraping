@@ -1,0 +1,4 @@
+
+ wellsi1,     ¬fov,        <Channel name: swagg>,       2024-11-07 12:18:40.252376 
+
+ wellsi1,     !fov,        <Channel name: swagg>,       2024-11-07 12:18:49.286466 

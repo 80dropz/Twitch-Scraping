@@ -1,0 +1,16 @@
+
+ 9starty9,     !Points,        <Channel name: kaicenat>,       2024-11-07 09:57:01.320973 
+
+ 9starty9,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:57:20.033393 
+
+ 9starty9,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:57:29.978040 
+
+ 9starty9,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:57:50.904066 
+
+ 9starty9,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:58:03.624185 
+
+ 9starty9,     !roulette 48,        <Channel name: kaicenat>,       2024-11-07 09:58:18.772516 
+
+ 9starty9,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:58:30.721332 
+
+ 9starty9,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:58:50.595942 

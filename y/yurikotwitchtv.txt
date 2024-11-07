@@ -1,0 +1,12 @@
+
+ yurikotwitchtv,     sigma,        <Channel name: mongraal>,       2024-11-07 10:02:17.740423 
+
+ yurikotwitchtv,     @flickzy2fast you have to type: speed 1v1,        <Channel name: mongraal>,       2024-11-07 10:03:16.460990 
+
+ yurikotwitchtv,     !keyboard,        <Channel name: mongraal>,       2024-11-07 10:03:55.540223 
+
+ yurikotwitchtv,     !specs,        <Channel name: mongraal>,       2024-11-07 10:06:54.100127 
+
+ yurikotwitchtv,     !pc,        <Channel name: mongraal>,       2024-11-07 10:07:03.398841 
+
+ yurikotwitchtv,     !gpu,        <Channel name: mongraal>,       2024-11-07 10:07:09.255595 

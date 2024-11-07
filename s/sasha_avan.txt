@@ -20,3 +20,87 @@
  sasha_avan,     skip Em,        <Channel name: shadowkekw>,       2024-11-07 09:32:16.859072 
 
  sasha_avan,     )),        <Channel name: shadowkekw>,       2024-11-07 09:34:25.528950 
+
+ sasha_avan,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:20.554160 
+
+ sasha_avan,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:46.246445 
+
+ sasha_avan,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:07:00.812138 
+
+ sasha_avan,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:16.706313 
+
+ sasha_avan,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:07:45.851743 
+
+ sasha_avan,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:07:58.823017 
+
+ sasha_avan,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:08:10.736914 
+
+ sasha_avan,     noraway,        <Channel name: shadowkekw>,       2024-11-07 10:08:32.372944 
+
+ sasha_avan,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:08:35.936216 
+
+ sasha_avan,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:49.704618 
+
+ sasha_avan,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:08:51.550195 
+
+ sasha_avan,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:09:29.077075 
+
+ sasha_avan,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:09:55.254857 
+
+ sasha_avan,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:58.291419 
+
+ sasha_avan,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:10:21.520999 
+
+ sasha_avan,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:40.315826 
+
+ sasha_avan,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:10:44.746147 
+
+ sasha_avan,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:11:25.073752 
+
+ sasha_avan,     united states,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.378434 
+
+ sasha_avan,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.469775 
+
+ sasha_avan,     singapoer,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.531154 
+
+ sasha_avan,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:12:36.117343 
+
+ sasha_avan,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:13:43.584566 
+
+ sasha_avan,     lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:13:47.993799 
+
+ sasha_avan,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:14:00.327506 
+
+ sasha_avan,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:14:41.334734 
+
+ sasha_avan,     montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.892637 
+
+ sasha_avan,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:17:02.150347 
+
+ sasha_avan,     russiaa,        <Channel name: shadowkekw>,       2024-11-07 10:17:16.262541 
+
+ sasha_avan,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.427128 
+
+ sasha_avan,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:18:15.593748 
+
+ sasha_avan,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:18:28.246516 
+
+ sasha_avan,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:18:52.876825 
+
+ sasha_avan,     venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:19:19.788809 
+
+ sasha_avan,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:19:49.593953 
+
+ sasha_avan,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:48.346398 
+
+ sasha_avan,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:20:53.075442 
+
+ sasha_avan,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:21:08.545527 
+
+ sasha_avan,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.344778 
+
+ sasha_avan,     guyana,        <Channel name: shadowkekw>,       2024-11-07 10:22:40.396868 
+
+ sasha_avan,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.161072 
+
+ sasha_avan,     nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:23:54.861692 

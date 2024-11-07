@@ -1,0 +1,48 @@
+
+ a1woon,     Grecian,        <Channel name: shadowkekw>,       2024-11-07 10:39:43.886950 
+
+ a1woon,     Rus,        <Channel name: shadowkekw>,       2024-11-07 10:40:10.297251 
+
+ a1woon,     India,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.873994 
+
+ a1woon,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.183249 
+
+ a1woon,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:41:42.253790 
+
+ a1woon,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:42:05.307881 
+
+ a1woon,     Par,        <Channel name: shadowkekw>,       2024-11-07 10:42:44.665428 
+
+ a1woon,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:43:46.793190 
+
+ a1woon,     Kuba,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.604864 
+
+ a1woon,     Kapan,        <Channel name: shadowkekw>,       2024-11-07 10:44:38.359390 
+
+ a1woon,     France,        <Channel name: shadowkekw>,       2024-11-07 10:45:04.622285 
+
+ a1woon,     India,        <Channel name: shadowkekw>,       2024-11-07 10:45:45.300831 
+
+ a1woon,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:46:20.515246 
+
+ a1woon,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:39.838663 
+
+ a1woon,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:47:01.821272 
+
+ a1woon,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.346673 
+
+ a1woon,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:48:02.786555 
+
+ a1woon,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:21.916088 
+
+ a1woon,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:37.306146 
+
+ a1woon,     Rus,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.631528 
+
+ a1woon,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:54:49.256983 
+
+ a1woon,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:55:14.355971 
+
+ a1woon,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:55:49.017225 
+
+ a1woon,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:19.081110 

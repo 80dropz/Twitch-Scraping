@@ -4,3 +4,5 @@
  0juliation,     !settings,        <Channel name: mongraal>,       2024-11-07 09:38:12.773779 
 
  0juliation,     !colorblind mode,        <Channel name: mongraal>,       2024-11-07 09:39:42.739022 
+
+ 0juliation,     can you say hi Julian??````??,        <Channel name: mongraal>,       2024-11-07 10:02:09.749466 

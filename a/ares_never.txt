@@ -1,0 +1,88 @@
+
+ ares_never,     China,        <Channel name: shadowkekw>,       2024-11-07 10:07:00.488165 
+
+ ares_never,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:07:43.240613 
+
+ ares_never,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.631596 
+
+ ares_never,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.351286 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:12:37.892606 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:02.516757 
+
+ ares_never,     China,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.281171 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.753204 
+
+ ares_never,     CJapan,        <Channel name: shadowkekw>,       2024-11-07 10:15:08.366817 
+
+ ares_never,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:12.646836 
+
+ ares_never,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.065435 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:15.657590 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.140922 
+
+ ares_never,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.835258 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:18:05.917515 
+
+ ares_never,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:18:25.007844 
+
+ ares_never,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:19:29.616012 
+
+ ares_never,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:19:48.178432 
+
+ ares_never,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.882704 
+
+ ares_never,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:20:31.179586 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.325907 
+
+ ares_never,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:21:24.273083 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.627443 
+
+ ares_never,     China,        <Channel name: shadowkekw>,       2024-11-07 10:22:05.249310 
+
+ ares_never,     India,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.046135 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.896053 
+
+ ares_never,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.546489 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.632155 
+
+ ares_never,     China,        <Channel name: shadowkekw>,       2024-11-07 10:24:18.464044 
+
+ ares_never,     Urugvay,        <Channel name: shadowkekw>,       2024-11-07 10:24:25.879792 
+
+ ares_never,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:24:41.403323 
+
+ ares_never,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:51.698954 
+
+ ares_never,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:26:06.989753 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:26:36.711909 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:26:52.285125 
+
+ ares_never,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.487808 
+
+ ares_never,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:27:31.380736 
+
+ ares_never,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:27:37.271851 
+
+ ares_never,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.507741 
+
+ ares_never,     Boliviia,        <Channel name: shadowkekw>,       2024-11-07 10:27:50.244362 
+
+ ares_never,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.337195 
+
+ ares_never,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.948160 
+
+ ares_never,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:28:50.759061 
+
+ ares_never,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.951763 

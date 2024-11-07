@@ -1,0 +1,8 @@
+
+ jamay_10,     !time,        <Channel name: kaicenat>,       2024-11-07 09:52:05.164484 
+
+ jamay_10,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:52:09.290701 
+
+ jamay_10,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:17.659504 
+
+ jamay_10,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:52:25.260593 

@@ -2,3 +2,17 @@
  fiyerrrr,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:15:22.784822 
 
  fiyerrrr,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:15:52.940536 
+
+ fiyerrrr,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:00:34.021506 
+
+ fiyerrrr,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 10:00:42.994389 
+
+ fiyerrrr,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 10:00:47.974660 
+
+ fiyerrrr,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:00:57.676397 
+
+ fiyerrrr,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:01:02.820195 
+
+ fiyerrrr,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:01:06.814755 
+
+ fiyerrrr,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:01:11.758907 

@@ -1,0 +1,28 @@
+
+ kepachok,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:07:50.391097 
+
+ kepachok,     Gvinea,        <Channel name: shadowkekw>,       2024-11-07 10:08:00.330331 
+
+ kepachok,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.795653 
+
+ kepachok,     rissia,        <Channel name: shadowkekw>,       2024-11-07 10:11:52.464346 
+
+ kepachok,     indonezia,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.220528 
+
+ kepachok,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 11:04:44.961852 
+
+ kepachok,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.549929 
+
+ kepachok,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.621908 
+
+ kepachok,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:31.304082 
+
+ kepachok,     france,        <Channel name: shadowkekw>,       2024-11-07 11:08:24.772286 
+
+ kepachok,     spain,        <Channel name: shadowkekw>,       2024-11-07 11:10:10.952373 
+
+ kepachok,     belarus,        <Channel name: shadowkekw>,       2024-11-07 11:10:25.177795 
+
+ kepachok,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.041058 
+
+ kepachok,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:16:54.456420 

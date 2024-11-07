@@ -1,2 +1,12 @@
 
  fw_j0sh8_4,     !time,        <Channel name: kaicenat>,       2024-11-07 09:00:47.700709 
+
+ fw_j0sh8_4,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 11:37:49.826657 
+
+ fw_j0sh8_4,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 11:38:09.634895 
+
+ fw_j0sh8_4,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:38:23.898440 
+
+ fw_j0sh8_4,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 11:38:46.142975 
+
+ fw_j0sh8_4,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 11:38:53.115560 

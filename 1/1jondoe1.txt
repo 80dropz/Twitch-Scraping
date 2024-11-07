@@ -1,0 +1,4 @@
+
+ 1jondoe1,     AnotherRecord,        <Channel name: kaicenat>,       2024-11-07 12:05:37.208397 
+
+ 1jondoe1,     w,        <Channel name: kaicenat>,       2024-11-07 12:07:34.241371 

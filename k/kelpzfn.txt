@@ -1,0 +1,8 @@
+
+ kelpzfn,     !sens,        <Channel name: clix>,       2024-11-07 12:15:42.932408 
+
+ kelpzfn,     !settings,        <Channel name: clix>,       2024-11-07 12:15:51.427704 
+
+ kelpzfn,     !dpi,        <Channel name: clix>,       2024-11-07 12:15:57.605372 
+
+ kelpzfn,     !nvidia,        <Channel name: clix>,       2024-11-07 12:18:09.203141 

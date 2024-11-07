@@ -22,3 +22,7 @@
  dugkha,     230 water,        <Channel name: kaicenat>,       2024-11-07 09:29:40.259995 
 
  dugkha,     230000,        <Channel name: kaicenat>,       2024-11-07 09:29:44.047601 
+
+ dugkha,     230 PUT WATER,        <Channel name: kaicenat>,       2024-11-07 12:55:18.006270 
+
+ dugkha,     SAUCEEEE,        <Channel name: kaicenat>,       2024-11-07 13:01:54.959888 

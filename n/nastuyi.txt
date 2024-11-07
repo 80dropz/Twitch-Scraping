@@ -1,0 +1,8 @@
+
+ nastuyi,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:07:22.588385 
+
+ nastuyi,     SOMEONE GIFT 1000,        <Channel name: kaicenat>,       2024-11-07 12:07:24.481518 
+
+ nastuyi,     SOMEBODY GIFT 1000,        <Channel name: kaicenat>,       2024-11-07 12:07:52.911098 
+
+ nastuyi,     OUT OF THE 66 794k PEOPLE NOBODY DAN GIVE 100 GIFTED,        <Channel name: kaicenat>,       2024-11-07 12:13:57.411414 

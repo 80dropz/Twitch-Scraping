@@ -1,0 +1,6 @@
+
+ rajkers97,     !crosshair,        <Channel name: mrlust>,       2024-11-07 10:03:34.317548 
+
+ rajkers97,     !command,        <Channel name: mrlust>,       2024-11-07 10:03:43.408854 
+
+ rajkers97,     !comand,        <Channel name: mrlust>,       2024-11-07 10:03:52.305466 

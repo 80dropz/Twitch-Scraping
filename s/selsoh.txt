@@ -1,0 +1,734 @@
+
+ selsoh,     costly,        <Channel name: megalodonvt>,       2024-11-07 09:55:55.084792 
+
+ selsoh,     costy,        <Channel name: megalodonvt>,       2024-11-07 09:57:07.333673 
+
+ selsoh,     colty,        <Channel name: megalodonvt>,       2024-11-07 09:57:09.975601 
+
+ selsoh,     cloty,        <Channel name: megalodonvt>,       2024-11-07 09:57:16.124431 
+
+ selsoh,     clost,        <Channel name: megalodonvt>,       2024-11-07 09:57:35.110375 
+
+ selsoh,     leper,        <Channel name: megalodonvt>,       2024-11-07 09:58:44.791328 
+
+ selsoh,     leep,        <Channel name: megalodonvt>,       2024-11-07 09:59:13.884439 
+
+ selsoh,     @shadyshadow_yn yo,        <Channel name: megalodonvt>,       2024-11-07 10:00:24.086111 
+
+ selsoh,     miling,        <Channel name: megalodonvt>,       2024-11-07 10:00:36.445049 
+
+ selsoh,     tiling,        <Channel name: megalodonvt>,       2024-11-07 10:00:42.589689 
+
+ selsoh,     yearn,        <Channel name: megalodonvt>,       2024-11-07 10:03:06.227658 
+
+ selsoh,     nearby,        <Channel name: megalodonvt>,       2024-11-07 10:03:46.816727 
+
+ selsoh,     leary,        <Channel name: megalodonvt>,       2024-11-07 10:04:06.413578 
+
+ selsoh,     layer,        <Channel name: megalodonvt>,       2024-11-07 10:04:21.908124 
+
+ selsoh,     o7,        <Channel name: megalodonvt>,       2024-11-07 10:04:45.182746 
+
+ selsoh,     pone,        <Channel name: megalodonvt>,       2024-11-07 10:07:07.926677 
+
+ selsoh,     pino,        <Channel name: megalodonvt>,       2024-11-07 10:07:39.173342 
+
+ selsoh,     defer,        <Channel name: megalodonvt>,       2024-11-07 10:09:20.239887 
+
+ selsoh,     qr still broken elisSad,        <Channel name: megalodonvt>,       2024-11-07 10:11:42.292129 
+
+ selsoh,     bronze,        <Channel name: megalodonvt>,       2024-11-07 10:11:47.854667 
+
+ selsoh,     broad,        <Channel name: megalodonvt>,       2024-11-07 10:13:16.315880 
+
+ selsoh,     chard,        <Channel name: megalodonvt>,       2024-11-07 10:13:38.891862 
+
+ selsoh,     card,        <Channel name: megalodonvt>,       2024-11-07 10:14:00.599793 
+
+ selsoh,     char,        <Channel name: megalodonvt>,       2024-11-07 10:14:34.337199 
+
+ selsoh,     apples,        <Channel name: megalodonvt>,       2024-11-07 10:15:53.358379 
+
+ selsoh,     apple,        <Channel name: megalodonvt>,       2024-11-07 10:15:59.804041 
+
+ selsoh,     leaps,        <Channel name: megalodonvt>,       2024-11-07 10:16:27.880400 
+
+ selsoh,     excuses,        <Channel name: megalodonvt>,       2024-11-07 10:18:52.199679 
+
+ selsoh,     excuse,        <Channel name: megalodonvt>,       2024-11-07 10:19:00.913610 
+
+ selsoh,     exes,        <Channel name: megalodonvt>,       2024-11-07 10:19:25.265129 
+
+ selsoh,     sues,        <Channel name: megalodonvt>,       2024-11-07 10:19:47.124543 
+
+ selsoh,     sexes,        <Channel name: megalodonvt>,       2024-11-07 10:20:08.451909 
+
+ selsoh,     cuses,        <Channel name: megalodonvt>,       2024-11-07 10:20:21.704881 
+
+ selsoh,     uses,        <Channel name: megalodonvt>,       2024-11-07 10:20:31.977060 
+
+ selsoh,     bound,        <Channel name: megalodonvt>,       2024-11-07 10:21:40.329781 
+
+ selsoh,     boons,        <Channel name: megalodonvt>,       2024-11-07 10:21:51.254934 
+
+ selsoh,     bass,        <Channel name: megalodonvt>,       2024-11-07 10:22:19.676145 
+
+ selsoh,     basoon,        <Channel name: megalodonvt>,       2024-11-07 10:22:57.939367 
+
+ selsoh,     boas,        <Channel name: megalodonvt>,       2024-11-07 10:23:10.107092 
+
+ selsoh,     claw,        <Channel name: megalodonvt>,       2024-11-07 10:25:08.277333 
+
+ selsoh,     calk,        <Channel name: megalodonvt>,       2024-11-07 10:25:46.482525 
+
+ selsoh,     awal,        <Channel name: megalodonvt>,       2024-11-07 10:26:08.311083 
+
+ selsoh,     lack,        <Channel name: megalodonvt>,       2024-11-07 10:26:24.781769 
+
+ selsoh,     anvil,        <Channel name: megalodonvt>,       2024-11-07 10:27:33.676308 
+
+ selsoh,     naval,        <Channel name: megalodonvt>,       2024-11-07 10:27:59.674293 
+
+ selsoh,     villian,        <Channel name: megalodonvt>,       2024-11-07 10:28:21.111301 
+
+ selsoh,     lain,        <Channel name: megalodonvt>,       2024-11-07 10:28:36.090875 
+
+ selsoh,     vila,        <Channel name: megalodonvt>,       2024-11-07 10:29:16.737194 
+
+ selsoh,     vial,        <Channel name: megalodonvt>,       2024-11-07 10:29:22.782468 
+
+ selsoh,     anal,        <Channel name: megalodonvt>,       2024-11-07 10:29:41.327927 
+
+ selsoh,     aint,        <Channel name: megalodonvt>,       2024-11-07 10:30:53.987035 
+
+ selsoh,     bait,        <Channel name: megalodonvt>,       2024-11-07 10:31:04.806635 
+
+ selsoh,     bota,        <Channel name: megalodonvt>,       2024-11-07 10:31:53.396670 
+
+ selsoh,     bato,        <Channel name: megalodonvt>,       2024-11-07 10:31:58.727582 
+
+ selsoh,     bino,        <Channel name: megalodonvt>,       2024-11-07 10:32:07.225614 
+
+ selsoh,     into,        <Channel name: megalodonvt>,       2024-11-07 10:32:22.144621 
+
+ selsoh,     tina,        <Channel name: megalodonvt>,       2024-11-07 10:32:41.628957 
+
+ selsoh,     concert,        <Channel name: megalodonvt>,       2024-11-07 10:33:56.639804 
+
+ selsoh,     recon,        <Channel name: megalodonvt>,       2024-11-07 10:34:14.235674 
+
+ selsoh,     coner,        <Channel name: megalodonvt>,       2024-11-07 10:34:35.307063 
+
+ selsoh,     tore,        <Channel name: megalodonvt>,       2024-11-07 10:34:52.097521 
+
+ selsoh,     rote,        <Channel name: megalodonvt>,       2024-11-07 10:34:58.875459 
+
+ selsoh,     cone,        <Channel name: megalodonvt>,       2024-11-07 10:35:23.089110 
+
+ selsoh,     cote,        <Channel name: megalodonvt>,       2024-11-07 10:35:46.580071 
+
+ selsoh,     cellar,        <Channel name: megalodonvt>,       2024-11-07 10:36:46.601075 
+
+ selsoh,     recall,        <Channel name: megalodonvt>,       2024-11-07 10:37:06.858381 
+
+ selsoh,     caller,        <Channel name: megalodonvt>,       2024-11-07 10:37:27.425104 
+
+ selsoh,     lacer,        <Channel name: megalodonvt>,       2024-11-07 10:37:47.829634 
+
+ selsoh,     carl,        <Channel name: megalodonvt>,       2024-11-07 10:38:18.062334 
+
+ selsoh,     cler,        <Channel name: megalodonvt>,       2024-11-07 10:38:45.697684 
+
+ selsoh,     bardly,        <Channel name: megalodonvt>,       2024-11-07 10:39:52.713826 
+
+ selsoh,     lardy,        <Channel name: megalodonvt>,       2024-11-07 10:40:08.005599 
+
+ selsoh,     hardy,        <Channel name: megalodonvt>,       2024-11-07 10:40:33.213797 
+
+ selsoh,     haly,        <Channel name: megalodonvt>,       2024-11-07 10:41:00.340870 
+
+ selsoh,     hald,        <Channel name: megalodonvt>,       2024-11-07 10:41:06.059044 
+
+ selsoh,     darl,        <Channel name: megalodonvt>,       2024-11-07 10:41:09.889421 
+
+ selsoh,     dary,        <Channel name: megalodonvt>,       2024-11-07 10:41:14.418818 
+
+ selsoh,     arly,        <Channel name: megalodonvt>,       2024-11-07 10:41:35.960114 
+
+ selsoh,     aldy,        <Channel name: megalodonvt>,       2024-11-07 10:41:40.323455 
+
+ selsoh,     dral,        <Channel name: megalodonvt>,       2024-11-07 10:41:47.860559 
+
+ selsoh,     dray,        <Channel name: megalodonvt>,       2024-11-07 10:41:51.965050 
+
+ selsoh,     excuded,        <Channel name: megalodonvt>,       2024-11-07 10:43:06.946278 
+
+ selsoh,     feud,        <Channel name: megalodonvt>,       2024-11-07 10:43:15.863198 
+
+ selsoh,     excudes,        <Channel name: megalodonvt>,       2024-11-07 10:43:22.917848 
+
+ selsoh,     deuce,        <Channel name: megalodonvt>,       2024-11-07 10:43:42.998994 
+
+ selsoh,     exclude,        <Channel name: megalodonvt>,       2024-11-07 10:44:00.442391 
+
+ selsoh,     clued,        <Channel name: megalodonvt>,       2024-11-07 10:44:22.252201 
+
+ selsoh,     failure,        <Channel name: megalodonvt>,       2024-11-07 10:46:34.764889 
+
+ selsoh,     lure,        <Channel name: megalodonvt>,       2024-11-07 10:46:52.839237 
+
+ selsoh,     flair,        <Channel name: megalodonvt>,       2024-11-07 10:46:59.586508 
+
+ selsoh,     lifer,        <Channel name: megalodonvt>,       2024-11-07 10:47:35.926492 
+
+ selsoh,     ailer,        <Channel name: megalodonvt>,       2024-11-07 10:48:11.682921 
+
+ selsoh,     o7,        <Channel name: megalodonvt>,       2024-11-07 10:48:22.966463 
+
+ selsoh,     races,        <Channel name: megalodonvt>,       2024-11-07 10:49:52.968211 
+
+ selsoh,     cares,        <Channel name: megalodonvt>,       2024-11-07 10:50:08.812978 
+
+ selsoh,     care,        <Channel name: megalodonvt>,       2024-11-07 10:50:29.235571 
+
+ selsoh,     case,        <Channel name: megalodonvt>,       2024-11-07 10:50:53.202768 
+
+ selsoh,     bite,        <Channel name: megalodonvt>,       2024-11-07 10:52:55.272845 
+
+ selsoh,     beet,        <Channel name: megalodonvt>,       2024-11-07 10:53:18.528241 
+
+ selsoh,     fent,        <Channel name: megalodonvt>,       2024-11-07 10:53:30.159509 
+
+ selsoh,     fien,        <Channel name: megalodonvt>,       2024-11-07 10:53:42.189546 
+
+ selsoh,     fiet,        <Channel name: megalodonvt>,       2024-11-07 10:53:57.106875 
+
+ selsoh,     feit,        <Channel name: megalodonvt>,       2024-11-07 10:54:02.800149 
+
+ selsoh,     fein,        <Channel name: megalodonvt>,       2024-11-07 10:54:08.286392 
+
+ selsoh,     feen,        <Channel name: megalodonvt>,       2024-11-07 10:54:27.492462 
+
+ selsoh,     recent,        <Channel name: megalodonvt>,       2024-11-07 10:55:35.439290 
+
+ selsoh,     centre,        <Channel name: megalodonvt>,       2024-11-07 10:55:53.903029 
+
+ selsoh,     tecer,        <Channel name: megalodonvt>,       2024-11-07 10:56:21.486158 
+
+ selsoh,     ceter,        <Channel name: megalodonvt>,       2024-11-07 10:56:33.054672 
+
+ selsoh,     creet,        <Channel name: megalodonvt>,       2024-11-07 10:56:43.213762 
+
+ selsoh,     tern,        <Channel name: megalodonvt>,       2024-11-07 10:56:59.649832 
+
+ selsoh,     tener,        <Channel name: megalodonvt>,       2024-11-07 10:57:14.148847 
+
+ selsoh,     focus,        <Channel name: megalodonvt>,       2024-11-07 10:58:41.367319 
+
+ selsoh,     confuse,        <Channel name: megalodonvt>,       2024-11-07 10:58:53.293937 
+
+ selsoh,     fones,        <Channel name: megalodonvt>,       2024-11-07 10:59:28.898866 
+
+ selsoh,     cons,        <Channel name: megalodonvt>,       2024-11-07 10:59:33.871975 
+
+ selsoh,     feus,        <Channel name: megalodonvt>,       2024-11-07 11:00:03.722697 
+
+ selsoh,     prolific,        <Channel name: megalodonvt>,       2024-11-07 11:01:41.390550 
+
+ selsoh,     flip,        <Channel name: megalodonvt>,       2024-11-07 11:02:13.664890 
+
+ selsoh,     corp,        <Channel name: megalodonvt>,       2024-11-07 11:02:42.952636 
+
+ selsoh,     proc,        <Channel name: megalodonvt>,       2024-11-07 11:02:46.757115 
+
+ selsoh,     coli,        <Channel name: megalodonvt>,       2024-11-07 11:02:58.378411 
+
+ selsoh,     clop,        <Channel name: megalodonvt>,       2024-11-07 11:03:01.083147 
+
+ selsoh,     clor,        <Channel name: megalodonvt>,       2024-11-07 11:03:12.063246 
+
+ selsoh,     foli,        <Channel name: megalodonvt>,       2024-11-07 11:03:25.529550 
+
+ selsoh,     thonkDed,        <Channel name: megalodonvt>,       2024-11-07 11:03:34.617548 
+
+ selsoh,     lices,        <Channel name: megalodonvt>,       2024-11-07 11:04:41.107734 
+
+ selsoh,     slice,        <Channel name: megalodonvt>,       2024-11-07 11:04:47.681693 
+
+ selsoh,     chisel,        <Channel name: megalodonvt>,       2024-11-07 11:05:37.897315 
+
+ selsoh,     lice,        <Channel name: megalodonvt>,       2024-11-07 11:06:06.156760 
+
+ selsoh,     hils,        <Channel name: megalodonvt>,       2024-11-07 11:06:21.416505 
+
+ selsoh,     heli,        <Channel name: megalodonvt>,       2024-11-07 11:06:37.053332 
+
+ selsoh,     hics,        <Channel name: megalodonvt>,       2024-11-07 11:06:56.925699 
+
+ selsoh,     dear,        <Channel name: megalodonvt>,       2024-11-07 11:09:24.715737 
+
+ selsoh,     drape,        <Channel name: megalodonvt>,       2024-11-07 11:09:54.620519 
+
+ selsoh,     aper,        <Channel name: megalodonvt>,       2024-11-07 11:10:30.566952 
+
+ selsoh,     aped,        <Channel name: megalodonvt>,       2024-11-07 11:10:47.086409 
+
+ selsoh,     pade,        <Channel name: megalodonvt>,       2024-11-07 11:11:19.789587 
+
+ selsoh,     read,        <Channel name: megalodonvt>,       2024-11-07 11:11:33.465013 
+
+ selsoh,     garland,        <Channel name: megalodonvt>,       2024-11-07 11:13:04.236027 
+
+ selsoh,     drag,        <Channel name: megalodonvt>,       2024-11-07 11:13:33.291181 
+
+ selsoh,     grad,        <Channel name: megalodonvt>,       2024-11-07 11:13:56.704414 
+
+ selsoh,     gran,        <Channel name: megalodonvt>,       2024-11-07 11:14:22.970434 
+
+ selsoh,     glard,        <Channel name: megalodonvt>,       2024-11-07 11:15:18.440150 
+
+ selsoh,     brazen,        <Channel name: megalodonvt>,       2024-11-07 11:16:07.731670 
+
+ selsoh,     zebra,        <Channel name: megalodonvt>,       2024-11-07 11:16:25.338375 
+
+ selsoh,     baner,        <Channel name: megalodonvt>,       2024-11-07 11:16:42.385614 
+
+ selsoh,     baren,        <Channel name: megalodonvt>,       2024-11-07 11:16:45.986235 
+
+ selsoh,     bare,        <Channel name: megalodonvt>,       2024-11-07 11:16:55.856858 
+
+ selsoh,     brae,        <Channel name: megalodonvt>,       2024-11-07 11:17:10.148329 
+
+ selsoh,     revolver,        <Channel name: megalodonvt>,       2024-11-07 11:17:46.182180 
+
+ selsoh,     lover,        <Channel name: megalodonvt>,       2024-11-07 11:17:52.169251 
+
+ selsoh,     rollover,        <Channel name: megalodonvt>,       2024-11-07 11:18:10.918072 
+
+ selsoh,     velo,        <Channel name: megalodonvt>,       2024-11-07 11:18:30.452742 
+
+ selsoh,     vell,        <Channel name: megalodonvt>,       2024-11-07 11:18:32.478003 
+
+ selsoh,     vole,        <Channel name: megalodonvt>,       2024-11-07 11:18:36.445070 
+
+ selsoh,     evol,        <Channel name: megalodonvt>,       2024-11-07 11:18:59.216347 
+
+ selsoh,     orer,        <Channel name: megalodonvt>,       2024-11-07 11:19:04.309674 
+
+ selsoh,     oler,        <Channel name: megalodonvt>,       2024-11-07 11:19:07.148178 
+
+ selsoh,     orel,        <Channel name: megalodonvt>,       2024-11-07 11:19:08.451558 
+
+ selsoh,     elor,        <Channel name: megalodonvt>,       2024-11-07 11:19:13.191194 
+
+ selsoh,     casino,        <Channel name: megalodonvt>,       2024-11-07 11:20:23.159692 
+
+ selsoh,     caps,        <Channel name: megalodonvt>,       2024-11-07 11:20:42.468906 
+
+ selsoh,     scan,        <Channel name: megalodonvt>,       2024-11-07 11:20:46.295375 
+
+ selsoh,     cons,        <Channel name: megalodonvt>,       2024-11-07 11:20:48.691265 
+
+ selsoh,     canoes,        <Channel name: megalodonvt>,       2024-11-07 11:21:12.392611 
+
+ selsoh,     nachos,        <Channel name: megalodonvt>,       2024-11-07 11:21:24.913701 
+
+ selsoh,     nacho,        <Channel name: megalodonvt>,       2024-11-07 11:21:28.222448 
+
+ selsoh,     bulldog,        <Channel name: megalodonvt>,       2024-11-07 11:22:50.504191 
+
+ selsoh,     glad,        <Channel name: megalodonvt>,       2024-11-07 11:22:53.418996 
+
+ selsoh,     badge,        <Channel name: megalodonvt>,       2024-11-07 11:23:07.619558 
+
+ selsoh,     badly,        <Channel name: megalodonvt>,       2024-11-07 11:24:11.639759 
+
+ selsoh,     o7,        <Channel name: megalodonvt>,       2024-11-07 11:24:13.953064 
+
+ selsoh,     peeking,        <Channel name: megalodonvt>,       2024-11-07 11:25:28.437891 
+
+ selsoh,     ping,        <Channel name: megalodonvt>,       2024-11-07 11:26:01.840155 
+
+ selsoh,     pine,        <Channel name: megalodonvt>,       2024-11-07 11:26:07.138575 
+
+ selsoh,     nipe,        <Channel name: megalodonvt>,       2024-11-07 11:26:34.223999 
+
+ selsoh,     kine,        <Channel name: megalodonvt>,       2024-11-07 11:26:42.536328 
+
+ selsoh,     genie,        <Channel name: megalodonvt>,       2024-11-07 11:27:15.071304 
+
+ selsoh,     decided,        <Channel name: megalodonvt>,       2024-11-07 11:28:09.636346 
+
+ selsoh,     cided,        <Channel name: megalodonvt>,       2024-11-07 11:28:45.019855 
+
+ selsoh,     dedic,        <Channel name: megalodonvt>,       2024-11-07 11:30:41.398540 
+
+ selsoh,     grid,        <Channel name: megalodonvt>,       2024-11-07 11:32:52.468457 
+
+ selsoh,     madri,        <Channel name: megalodonvt>,       2024-11-07 11:33:21.314045 
+
+ selsoh,     agar,        <Channel name: megalodonvt>,       2024-11-07 11:33:29.248338 
+
+ selsoh,     mardi,        <Channel name: megalodonvt>,       2024-11-07 11:33:50.619414 
+
+ selsoh,     mard,        <Channel name: megalodonvt>,       2024-11-07 11:34:10.816908 
+
+ selsoh,     darm,        <Channel name: megalodonvt>,       2024-11-07 11:34:18.653204 
+
+ selsoh,     mira,        <Channel name: megalodonvt>,       2024-11-07 11:34:43.616927 
+
+ selsoh,     troop,        <Channel name: megalodonvt>,       2024-11-07 11:35:46.428458 
+
+ selsoh,     protocol,        <Channel name: megalodonvt>,       2024-11-07 11:35:58.507538 
+
+ selsoh,     coop,        <Channel name: megalodonvt>,       2024-11-07 11:36:04.844991 
+
+ selsoh,     pool,        <Channel name: megalodonvt>,       2024-11-07 11:36:07.912621 
+
+ selsoh,     cool,        <Channel name: megalodonvt>,       2024-11-07 11:36:16.233954 
+
+ selsoh,     loco,        <Channel name: megalodonvt>,       2024-11-07 11:36:40.354413 
+
+ selsoh,     crol,        <Channel name: megalodonvt>,       2024-11-07 11:37:16.126761 
+
+ selsoh,     coot,        <Channel name: megalodonvt>,       2024-11-07 11:37:32.382287 
+
+ selsoh,     cooks,        <Channel name: megalodonvt>,       2024-11-07 11:38:33.203882 
+
+ selsoh,     coos,        <Channel name: megalodonvt>,       2024-11-07 11:38:49.823323 
+
+ selsoh,     ikes,        <Channel name: megalodonvt>,       2024-11-07 11:39:36.328098 
+
+ selsoh,     icess,        <Channel name: megalodonvt>,       2024-11-07 11:39:45.672601 
+
+ selsoh,     ices,        <Channel name: megalodonvt>,       2024-11-07 11:39:48.293275 
+
+ selsoh,     lode,        <Channel name: megalodonvt>,       2024-11-07 11:41:02.085572 
+
+ selsoh,     docile,        <Channel name: megalodonvt>,       2024-11-07 11:41:23.350715 
+
+ selsoh,     coled,        <Channel name: megalodonvt>,       2024-11-07 11:41:44.804915 
+
+ selsoh,     coil,        <Channel name: megalodonvt>,       2024-11-07 11:41:54.591385 
+
+ selsoh,     cole,        <Channel name: megalodonvt>,       2024-11-07 11:42:27.762907 
+
+ selsoh,     deli,        <Channel name: megalodonvt>,       2024-11-07 11:42:37.126967 
+
+ selsoh,     deco,        <Channel name: megalodonvt>,       2024-11-07 11:43:30.312967 
+
+ selsoh,     late,        <Channel name: megalodonvt>,       2024-11-07 11:44:42.262290 
+
+ selsoh,     teal,        <Channel name: megalodonvt>,       2024-11-07 11:44:57.598121 
+
+ selsoh,     zeal,        <Channel name: megalodonvt>,       2024-11-07 11:45:20.808247 
+
+ selsoh,     laze,        <Channel name: megalodonvt>,       2024-11-07 11:45:43.883994 
+
+ selsoh,     regal,        <Channel name: megalodonvt>,       2024-11-07 11:46:44.462410 
+
+ selsoh,     lacer,        <Channel name: megalodonvt>,       2024-11-07 11:46:57.797563 
+
+ selsoh,     clearer,        <Channel name: megalodonvt>,       2024-11-07 11:47:13.742446 
+
+ selsoh,     caller,        <Channel name: megalodonvt>,       2024-11-07 11:47:23.509455 
+
+ selsoh,     cereals,        <Channel name: megalodonvt>,       2024-11-07 11:47:56.489699 
+
+ selsoh,     crane,        <Channel name: megalodonvt>,       2024-11-07 11:49:17.766301 
+
+ selsoh,     gg,        <Channel name: megalodonvt>,       2024-11-07 11:49:45.378465 
+
+ selsoh,     juggler,        <Channel name: megalodonvt>,       2024-11-07 11:51:37.042418 
+
+ selsoh,     juggle,        <Channel name: megalodonvt>,       2024-11-07 11:51:57.050230 
+
+ selsoh,     lugger,        <Channel name: megalodonvt>,       2024-11-07 11:52:22.203899 
+
+ selsoh,     jugger,        <Channel name: megalodonvt>,       2024-11-07 11:52:39.168790 
+
+ selsoh,     gurgle,        <Channel name: megalodonvt>,       2024-11-07 11:52:57.568027 
+
+ selsoh,     regul,        <Channel name: megalodonvt>,       2024-11-07 11:53:22.633904 
+
+ selsoh,     luge,        <Channel name: megalodonvt>,       2024-11-07 11:53:33.712793 
+
+ selsoh,     train,        <Channel name: megalodonvt>,       2024-11-07 11:54:46.815046 
+
+ selsoh,     mart,        <Channel name: megalodonvt>,       2024-11-07 11:55:32.448831 
+
+ selsoh,     mint,        <Channel name: megalodonvt>,       2024-11-07 11:55:45.819477 
+
+ selsoh,     rant,        <Channel name: megalodonvt>,       2024-11-07 11:55:53.372767 
+
+ selsoh,     anti,        <Channel name: megalodonvt>,       2024-11-07 11:56:38.616952 
+
+ selsoh,     rami,        <Channel name: megalodonvt>,       2024-11-07 11:57:04.467991 
+
+ selsoh,     tarn,        <Channel name: megalodonvt>,       2024-11-07 11:57:28.701095 
+
+ selsoh,     craft,        <Channel name: megalodonvt>,       2024-11-07 11:58:42.931471 
+
+ selsoh,     cart,        <Channel name: megalodonvt>,       2024-11-07 11:59:15.119939 
+
+ selsoh,     carat,        <Channel name: megalodonvt>,       2024-11-07 11:59:27.602101 
+
+ selsoh,     fact,        <Channel name: megalodonvt>,       2024-11-07 12:00:11.357167 
+
+ selsoh,     school,        <Channel name: megalodonvt>,       2024-11-07 12:02:25.089785 
+
+ selsoh,     cools,        <Channel name: megalodonvt>,       2024-11-07 12:03:04.047417 
+
+ selsoh,     choos,        <Channel name: megalodonvt>,       2024-11-07 12:03:40.450552 
+
+ selsoh,     locos,        <Channel name: megalodonvt>,       2024-11-07 12:03:47.276571 
+
+ selsoh,     loos,        <Channel name: megalodonvt>,       2024-11-07 12:04:56.171054 
+
+ selsoh,     coos,        <Channel name: megalodonvt>,       2024-11-07 12:05:07.446633 
+
+ selsoh,     switch,        <Channel name: megalodonvt>,       2024-11-07 12:06:25.516973 
+
+ selsoh,     chits,        <Channel name: megalodonvt>,       2024-11-07 12:06:52.860217 
+
+ selsoh,     sitch,        <Channel name: megalodonvt>,       2024-11-07 12:07:16.513301 
+
+ selsoh,     wits,        <Channel name: megalodonvt>,       2024-11-07 12:07:31.959707 
+
+ selsoh,     chit,        <Channel name: megalodonvt>,       2024-11-07 12:07:42.416547 
+
+ selsoh,     tics,        <Channel name: megalodonvt>,       2024-11-07 12:07:55.629275 
+
+ selsoh,     hics,        <Channel name: megalodonvt>,       2024-11-07 12:08:17.687373 
+
+ selsoh,     swit,        <Channel name: megalodonvt>,       2024-11-07 12:08:43.490011 
+
+ selsoh,     hist,        <Channel name: megalodonvt>,       2024-11-07 12:08:51.926440 
+
+ selsoh,     outdoor,        <Channel name: megalodonvt>,       2024-11-07 12:09:55.482124 
+
+ selsoh,     odour,        <Channel name: megalodonvt>,       2024-11-07 12:10:34.879370 
+
+ selsoh,     outro,        <Channel name: megalodonvt>,       2024-11-07 12:11:06.574413 
+
+ selsoh,     odor,        <Channel name: megalodonvt>,       2024-11-07 12:11:27.671301 
+
+ selsoh,     todo,        <Channel name: megalodonvt>,       2024-11-07 12:12:13.022664 
+
+ selsoh,     toor,        <Channel name: megalodonvt>,       2024-11-07 12:12:18.499384 
+
+ selsoh,     toro,        <Channel name: megalodonvt>,       2024-11-07 12:12:21.667454 
+
+ selsoh,     doot,        <Channel name: megalodonvt>,       2024-11-07 12:12:26.867812 
+
+ selsoh,     tood,        <Channel name: megalodonvt>,       2024-11-07 12:12:43.607942 
+
+ selsoh,     keynote,        <Channel name: megalodonvt>,       2024-11-07 12:13:56.801355 
+
+ selsoh,     ketone,        <Channel name: megalodonvt>,       2024-11-07 12:14:15.716194 
+
+ selsoh,     yoke,        <Channel name: megalodonvt>,       2024-11-07 12:14:40.355571 
+
+ selsoh,     toke,        <Channel name: megalodonvt>,       2024-11-07 12:15:34.383266 
+
+ selsoh,     keno,        <Channel name: megalodonvt>,       2024-11-07 12:16:17.977661 
+
+ selsoh,     uuh,        <Channel name: megalodonvt>,       2024-11-07 12:17:23.442825 
+
+ selsoh,     armband,        <Channel name: megalodonvt>,       2024-11-07 12:17:51.458803 
+
+ selsoh,     brand,        <Channel name: megalodonvt>,       2024-11-07 12:18:01.013740 
+
+ selsoh,     mana,        <Channel name: megalodonvt>,       2024-11-07 12:19:02.308340 
+
+ selsoh,     darn,        <Channel name: megalodonvt>,       2024-11-07 12:19:13.873800 
+
+ selsoh,     rama,        <Channel name: megalodonvt>,       2024-11-07 12:19:37.011736 
+
+ selsoh,     rand,        <Channel name: megalodonvt>,       2024-11-07 12:19:40.443957 
+
+ selsoh,     grand,        <Channel name: megalodonvt>,       2024-11-07 12:20:13.696737 
+
+ selsoh,     NOOOO,        <Channel name: megalodonvt>,       2024-11-07 12:20:18.659850 
+
+ selsoh,     elisLUL,        <Channel name: megalodonvt>,       2024-11-07 12:21:25.052174 
+
+ selsoh,     summer,        <Channel name: megalodonvt>,       2024-11-07 12:21:48.846097 
+
+ selsoh,     resum,        <Channel name: megalodonvt>,       2024-11-07 12:22:21.960109 
+
+ selsoh,     suer,        <Channel name: megalodonvt>,       2024-11-07 12:22:34.983998 
+
+ selsoh,     rues,        <Channel name: megalodonvt>,       2024-11-07 12:22:50.704954 
+
+ selsoh,     user,        <Channel name: megalodonvt>,       2024-11-07 12:23:16.481931 
+
+ selsoh,     rems,        <Channel name: megalodonvt>,       2024-11-07 12:23:28.590492 
+
+ selsoh,     mers,        <Channel name: megalodonvt>,       2024-11-07 12:23:45.488927 
+
+ selsoh,     bitter,        <Channel name: megalodonvt>,       2024-11-07 12:24:47.472705 
+
+ selsoh,     biter,        <Channel name: megalodonvt>,       2024-11-07 12:25:22.018913 
+
+ selsoh,     tiber,        <Channel name: megalodonvt>,       2024-11-07 12:26:15.103024 
+
+ selsoh,     titer,        <Channel name: megalodonvt>,       2024-11-07 12:26:18.825381 
+
+ selsoh,     tetri,        <Channel name: megalodonvt>,       2024-11-07 12:26:27.002621 
+
+ selsoh,     amplify,        <Channel name: megalodonvt>,       2024-11-07 12:27:48.824787 
+
+ selsoh,     pail,        <Channel name: megalodonvt>,       2024-11-07 12:28:25.464717 
+
+ selsoh,     limp,        <Channel name: megalodonvt>,       2024-11-07 12:28:57.020525 
+
+ selsoh,     palm,        <Channel name: megalodonvt>,       2024-11-07 12:29:37.551199 
+
+ selsoh,     ampy,        <Channel name: megalodonvt>,       2024-11-07 12:30:05.331126 
+
+ selsoh,     elisWaiting,        <Channel name: megalodonvt>,       2024-11-07 12:32:09.665944 
+
+ selsoh,     fowler,        <Channel name: megalodonvt>,       2024-11-07 12:33:08.281314 
+
+ selsoh,     foler,        <Channel name: megalodonvt>,       2024-11-07 12:33:35.440765 
+
+ selsoh,     lower,        <Channel name: megalodonvt>,       2024-11-07 12:33:43.488601 
+
+ selsoh,     owler,        <Channel name: megalodonvt>,       2024-11-07 12:33:50.699619 
+
+ selsoh,     reflow,        <Channel name: megalodonvt>,       2024-11-07 12:34:02.206393 
+
+ selsoh,     role,        <Channel name: megalodonvt>,       2024-11-07 12:34:14.887147 
+
+ selsoh,     wore,        <Channel name: megalodonvt>,       2024-11-07 12:34:41.060617 
+
+ selsoh,     ferl,        <Channel name: megalodonvt>,       2024-11-07 12:35:54.543256 
+
+ selsoh,     flew,        <Channel name: megalodonvt>,       2024-11-07 12:36:12.814564 
+
+ selsoh,     flor,        <Channel name: megalodonvt>,       2024-11-07 12:36:16.571649 
+
+ selsoh,     floe,        <Channel name: megalodonvt>,       2024-11-07 12:36:22.261007 
+
+ selsoh,     evening,        <Channel name: megalodonvt>,       2024-11-07 12:38:01.503083 
+
+ selsoh,     given,        <Channel name: megalodonvt>,       2024-11-07 12:38:36.930205 
+
+ selsoh,     genie,        <Channel name: megalodonvt>,       2024-11-07 12:39:16.554812 
+
+ selsoh,     nine,        <Channel name: megalodonvt>,       2024-11-07 12:40:02.358758 
+
+ selsoh,     iven,        <Channel name: megalodonvt>,       2024-11-07 12:41:19.388187 
+
+ selsoh,     igen,        <Channel name: megalodonvt>,       2024-11-07 12:41:25.104608 
+
+ selsoh,     inev,        <Channel name: megalodonvt>,       2024-11-07 12:41:34.964176 
+
+ selsoh,     hurdle,        <Channel name: megalodonvt>,       2024-11-07 12:43:15.513213 
+
+ selsoh,     hurled,        <Channel name: megalodonvt>,       2024-11-07 12:43:53.915362 
+
+ selsoh,     lured,        <Channel name: megalodonvt>,       2024-11-07 12:44:41.902020 
+
+ selsoh,     ruled,        <Channel name: megalodonvt>,       2024-11-07 12:45:17.496572 
+
+ selsoh,     ruld,        <Channel name: megalodonvt>,       2024-11-07 12:46:19.741584 
+
+ selsoh,     ruhl,        <Channel name: megalodonvt>,       2024-11-07 12:46:36.601932 
+
+ selsoh,     ruhd,        <Channel name: megalodonvt>,       2024-11-07 12:46:41.355453 
+
+ selsoh,     hurd,        <Channel name: megalodonvt>,       2024-11-07 12:47:08.251093 
+
+ selsoh,     herl,        <Channel name: megalodonvt>,       2024-11-07 12:47:29.724746 
+
+ selsoh,     hure,        <Channel name: megalodonvt>,       2024-11-07 12:47:45.845701 
+
+ selsoh,     toilets,        <Channel name: megalodonvt>,       2024-11-07 12:50:45.745811 
+
+ selsoh,     cites,        <Channel name: megalodonvt>,       2024-11-07 12:51:27.510444 
+
+ selsoh,     insect,        <Channel name: megalodonvt>,       2024-11-07 12:52:00.198106 
+
+ selsoh,     cotes,        <Channel name: megalodonvt>,       2024-11-07 12:52:19.719425 
+
+ selsoh,     cents,        <Channel name: megalodonvt>,       2024-11-07 12:54:14.521360 
+
+ selsoh,     contest,        <Channel name: megalodonvt>,       2024-11-07 12:55:01.530575 
+
+ selsoh,     cones,        <Channel name: megalodonvt>,       2024-11-07 12:55:33.486998 
+
+ selsoh,     elisLost,        <Channel name: megalodonvt>,       2024-11-07 12:56:11.078596 
+
+ selsoh,     elect,        <Channel name: megalodonvt>,       2024-11-07 12:59:31.798709 
+
+ selsoh,     lest,        <Channel name: megalodonvt>,       2024-11-07 13:00:33.847448 
+
+ selsoh,     seel,        <Channel name: megalodonvt>,       2024-11-07 13:01:18.090986 
+
+ selsoh,     sect,        <Channel name: megalodonvt>,       2024-11-07 13:01:39.756656 
+
+ selsoh,     tele,        <Channel name: megalodonvt>,       2024-11-07 13:02:01.612446 
+
+ selsoh,     tees,        <Channel name: megalodonvt>,       2024-11-07 13:02:33.203001 
+
+ selsoh,     esect,        <Channel name: megalodonvt>,       2024-11-07 13:03:23.869109 
+
+ selsoh,     compact,        <Channel name: megalodonvt>,       2024-11-07 13:06:53.112263 
+
+ selsoh,     taco,        <Channel name: megalodonvt>,       2024-11-07 13:07:46.709427 
+
+ selsoh,     capo,        <Channel name: megalodonvt>,       2024-11-07 13:08:33.556259 
+
+ selsoh,     capt,        <Channel name: megalodonvt>,       2024-11-07 13:09:57.898039 
+
+ selsoh,     tomp,        <Channel name: megalodonvt>,       2024-11-07 13:10:11.645060 
+
+ selsoh,     toca,        <Channel name: megalodonvt>,       2024-11-07 13:10:17.170862 
+
+ selsoh,     toma,        <Channel name: megalodonvt>,       2024-11-07 13:10:24.576900 
+
+ selsoh,     tamp,        <Channel name: megalodonvt>,       2024-11-07 13:10:32.582466 
+
+ selsoh,     u were locked i guess elisEHEHE,        <Channel name: megalodonvt>,       2024-11-07 13:11:24.389551 
+
+ selsoh,     month,        <Channel name: megalodonvt>,       2024-11-07 13:12:14.519324 
+
+ selsoh,     mothly,        <Channel name: megalodonvt>,       2024-11-07 13:12:48.613898 
+
+ selsoh,     only,        <Channel name: megalodonvt>,       2024-11-07 13:13:01.719990 
+
+ selsoh,     tony,        <Channel name: megalodonvt>,       2024-11-07 13:14:01.007075 
+
+ selsoh,     molty,        <Channel name: megalodonvt>,       2024-11-07 13:14:44.114878 
+
+ selsoh,     loth,        <Channel name: megalodonvt>,       2024-11-07 13:15:07.313431 
+
+ selsoh,     copper,        <Channel name: megalodonvt>,       2024-11-07 13:17:35.336145 
+
+ selsoh,     core,        <Channel name: megalodonvt>,       2024-11-07 13:18:24.714352 
+
+ selsoh,     repo,        <Channel name: megalodonvt>,       2024-11-07 13:19:21.778629 
+
+ selsoh,     pope,        <Channel name: megalodonvt>,       2024-11-07 13:20:06.632852 
+
+ selsoh,     where,        <Channel name: megalodonvt>,       2024-11-07 13:22:39.674583 
+
+ selsoh,     ether,        <Channel name: megalodonvt>,       2024-11-07 13:23:13.538260 
+
+ selsoh,     teer,        <Channel name: megalodonvt>,       2024-11-07 13:24:49.363682 
+
+ selsoh,     tere,        <Channel name: megalodonvt>,       2024-11-07 13:24:58.319266 
+
+ selsoh,     ewer,        <Channel name: megalodonvt>,       2024-11-07 13:25:16.957528 
+
+ selsoh,     trew,        <Channel name: megalodonvt>,       2024-11-07 13:25:46.526990 
+
+ selsoh,     twer,        <Channel name: megalodonvt>,       2024-11-07 13:26:02.776354 
+
+ selsoh,     weet,        <Channel name: megalodonvt>,       2024-11-07 13:26:19.630772 
+
+ selsoh,     weer,        <Channel name: megalodonvt>,       2024-11-07 13:26:24.383493 
+
+ selsoh,     elisWaiting,        <Channel name: megalodonvt>,       2024-11-07 13:29:22.666229 

@@ -1,0 +1,6 @@
+
+ terzyfn7,     !location,        <Channel name: mongraal>,       2024-11-07 13:12:00.887204 
+
+ terzyfn7,     where abouts is mongraal?,        <Channel name: mongraal>,       2024-11-07 13:12:52.830570 
+
+ terzyfn7,     where in the world is mongraal?,        <Channel name: mongraal>,       2024-11-07 13:14:43.840672 

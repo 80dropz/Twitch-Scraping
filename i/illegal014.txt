@@ -1,0 +1,18 @@
+
+ illegal014,     KEK,        <Channel name: kaicenat>,       2024-11-07 12:40:27.265778 
+
+ illegal014,     66,        <Channel name: kaicenat>,       2024-11-07 12:41:00.990824 
+
+ illegal014,     50,        <Channel name: kaicenat>,       2024-11-07 12:41:31.821005 
+
+ illegal014,     damn,        <Channel name: kaicenat>,       2024-11-07 12:42:16.167268 
+
+ illegal014,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:13.424064 
+
+ illegal014,     gg,        <Channel name: kaicenat>,       2024-11-07 12:48:30.540126 
+
+ illegal014,     WW WW,        <Channel name: kaicenat>,       2024-11-07 12:48:36.543471 
+
+ illegal014,     lets go,        <Channel name: kaicenat>,       2024-11-07 12:49:00.829311 
+
+ illegal014,     wtf,        <Channel name: kaicenat>,       2024-11-07 13:00:59.502599 

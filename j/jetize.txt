@@ -1,0 +1,42 @@
+
+ jetize,     botswana,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.507811 
+
+ jetize,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:47:47.206302 
+
+ jetize,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.845388 
+
+ jetize,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.592946 
+
+ jetize,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.643885 
+
+ jetize,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.191869 
+
+ jetize,     cost-rica,        <Channel name: shadowkekw>,       2024-11-07 10:54:12.261224 
+
+ jetize,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.732519 
+
+ jetize,     france,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.910653 
+
+ jetize,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:56:30.145731 
+
+ jetize,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:57:08.483947 
+
+ jetize,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.997016 
+
+ jetize,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:59:03.816456 
+
+ jetize,     romania,        <Channel name: shadowkekw>,       2024-11-07 11:05:05.912644 
+
+ jetize,     colombia,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.790691 
+
+ jetize,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:08:16.962544 
+
+ jetize,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.992485 
+
+ jetize,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.390538 
+
+ jetize,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:10:14.690621 
+
+ jetize,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.098239 
+
+ jetize,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:15:04.659950 

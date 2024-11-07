@@ -1,0 +1,214 @@
+
+ npox0p,     ICELAND,        <Channel name: shadowkekw>,       2024-11-07 10:08:29.146695 
+
+ npox0p,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.597768 
+
+ npox0p,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.478224 
+
+ npox0p,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.543523 
+
+ npox0p,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.440154 
+
+ npox0p,     slovaia,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.235938 
+
+ npox0p,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.670530 
+
+ npox0p,     kuwait,        <Channel name: shadowkekw>,       2024-11-07 10:12:26.613867 
+
+ npox0p,     clovakia,        <Channel name: shadowkekw>,       2024-11-07 10:13:04.674913 
+
+ npox0p,     slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:14:24.684718 
+
+ npox0p,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:46.004433 
+
+ npox0p,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.844674 
+
+ npox0p,     us,        <Channel name: shadowkekw>,       2024-11-07 10:15:28.378046 
+
+ npox0p,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:16:19.107501 
+
+ npox0p,     papua new guinea,        <Channel name: shadowkekw>,       2024-11-07 10:16:36.585565 
+
+ npox0p,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:18.669568 
+
+ npox0p,     nk,        <Channel name: shadowkekw>,       2024-11-07 10:17:29.247098 
+
+ npox0p,     us,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.662017 
+
+ npox0p,     kongo,        <Channel name: shadowkekw>,       2024-11-07 10:19:15.055463 
+
+ npox0p,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.275875 
+
+ npox0p,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:38.322433 
+
+ npox0p,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.386465 
+
+ npox0p,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:20:16.682175 
+
+ npox0p,     france,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.640829 
+
+ npox0p,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:21:34.666039 
+
+ npox0p,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:21:50.314741 
+
+ npox0p,     india,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.991210 
+
+ npox0p,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:22:11.697017 
+
+ npox0p,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:22:39.973028 
+
+ npox0p,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:22:57.211603 
+
+ npox0p,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.657849 
+
+ npox0p,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:23:45.971155 
+
+ npox0p,     us,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.780898 
+
+ npox0p,     india,        <Channel name: shadowkekw>,       2024-11-07 10:24:21.905847 
+
+ npox0p,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:24:28.813941 
+
+ npox0p,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.165521 
+
+ npox0p,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:24:58.071847 
+
+ npox0p,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:26:42.022397 
+
+ npox0p,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.041786 
+
+ npox0p,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.067477 
+
+ npox0p,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.243326 
+
+ npox0p,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.379945 
+
+ npox0p,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.149689 
+
+ npox0p,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.190277 
+
+ npox0p,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.515400 
+
+ npox0p,     nk,        <Channel name: shadowkekw>,       2024-11-07 10:36:06.285164 
+
+ npox0p,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.018352 
+
+ npox0p,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.823436 
+
+ npox0p,     germany',        <Channel name: shadowkekw>,       2024-11-07 10:36:46.545070 
+
+ npox0p,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.438915 
+
+ npox0p,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.100573 
+
+ npox0p,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:38:11.485719 
+
+ npox0p,     kongo,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.939861 
+
+ npox0p,     cgile,        <Channel name: shadowkekw>,       2024-11-07 10:40:30.922054 
+
+ npox0p,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.968337 
+
+ npox0p,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.049850 
+
+ npox0p,     lol,        <Channel name: shadowkekw>,       2024-11-07 10:42:18.749927 
+
+ npox0p,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.442183 
+
+ npox0p,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.331370 
+
+ npox0p,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:43:40.091091 
+
+ npox0p,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.002274 
+
+ npox0p,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:28.680116 
+
+ npox0p,     france,        <Channel name: shadowkekw>,       2024-11-07 10:47:44.766241 
+
+ npox0p,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.665537 
+
+ npox0p,     es,        <Channel name: shadowkekw>,       2024-11-07 10:48:29.218906 
+
+ npox0p,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.002333 
+
+ npox0p,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.975467 
+
+ npox0p,     costa rica,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.557242 
+
+ npox0p,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.893647 
+
+ npox0p,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.711800 
+
+ npox0p,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.332731 
+
+ npox0p,     re,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.478415 
+
+ npox0p,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.567445 
+
+ npox0p,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.916083 
+
+ npox0p,     do,        <Channel name: shadowkekw>,       2024-11-07 10:57:40.824295 
+
+ npox0p,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:58:30.368747 
+
+ npox0p,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:59:28.837250 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.728539 
+
+ npox0p,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.286877 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:02:03.760882 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.520593 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:04:23.230328 
+
+ npox0p,     dominican republic,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.509504 
+
+ npox0p,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:34.485941 
+
+ npox0p,     dk,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.405233 
+
+ npox0p,     re,        <Channel name: shadowkekw>,       2024-11-07 11:06:14.970606 
+
+ npox0p,     dk,        <Channel name: shadowkekw>,       2024-11-07 11:06:32.421834 
+
+ npox0p,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:07:09.794144 
+
+ npox0p,     sp,        <Channel name: shadowkekw>,       2024-11-07 11:07:37.374971 
+
+ npox0p,     es,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.928872 
+
+ npox0p,     portugal,        <Channel name: shadowkekw>,       2024-11-07 11:07:55.623246 
+
+ npox0p,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:08:36.149447 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:08:54.130107 
+
+ npox0p,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:09:42.469709 
+
+ npox0p,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:28.781753 
+
+ npox0p,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.180958 
+
+ npox0p,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:53.774418 
+
+ npox0p,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:11:11.720448 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.630867 
+
+ npox0p,     bo,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.334583 
+
+ npox0p,     ug,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.947335 
+
+ npox0p,     id,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.712918 
+
+ npox0p,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.433490 
+
+ npox0p,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.186737 
+
+ npox0p,     es,        <Channel name: shadowkekw>,       2024-11-07 11:13:25.984178 
+
+ npox0p,     estonia,        <Channel name: shadowkekw>,       2024-11-07 11:13:31.531145 
+
+ npox0p,     th,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.603392 

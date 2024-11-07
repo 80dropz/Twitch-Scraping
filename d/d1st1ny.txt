@@ -1,0 +1,44 @@
+
+ d1st1ny,     India,        <Channel name: shadowkekw>,       2024-11-07 10:21:26.781936 
+
+ d1st1ny,     India,        <Channel name: shadowkekw>,       2024-11-07 10:22:07.044108 
+
+ d1st1ny,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.383104 
+
+ d1st1ny,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.573643 
+
+ d1st1ny,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.903186 
+
+ d1st1ny,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.620250 
+
+ d1st1ny,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:19.210120 
+
+ d1st1ny,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:27:44.548719 
+
+ d1st1ny,     India,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.377814 
+
+ d1st1ny,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.318493 
+
+ d1st1ny,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:33:47.989460 
+
+ d1st1ny,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.278873 
+
+ d1st1ny,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.354491 
+
+ d1st1ny,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.352620 
+
+ d1st1ny,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:36:34.675878 
+
+ d1st1ny,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.341848 
+
+ d1st1ny,     spaind,        <Channel name: shadowkekw>,       2024-11-07 10:39:26.689422 
+
+ d1st1ny,     new zeeland,        <Channel name: shadowkekw>,       2024-11-07 10:39:55.904960 
+
+ d1st1ny,     au,        <Channel name: shadowkekw>,       2024-11-07 10:41:30.925297 
+
+ d1st1ny,     ef,        <Channel name: shadowkekw>,       2024-11-07 10:41:54.180695 
+
+ d1st1ny,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.657424 
+
+ d1st1ny,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:42:55.544350 

@@ -1,0 +1,50 @@
+
+ elwhite192,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:37.665296 
+
+ elwhite192,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:04.291364 
+
+ elwhite192,     Syria,        <Channel name: shadowkekw>,       2024-11-07 10:28:14.526486 
+
+ elwhite192,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.888619 
+
+ elwhite192,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.752968 
+
+ elwhite192,     Butane,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.104561 
+
+ elwhite192,     India,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.062728 
+
+ elwhite192,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:41:13.112869 
+
+ elwhite192,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:41:31.931178 
+
+ elwhite192,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:42:57.081849 
+
+ elwhite192,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:20.871232 
+
+ elwhite192,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.153866 
+
+ elwhite192,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.487653 
+
+ elwhite192,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:55:30.246934 
+
+ elwhite192,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:03:12.867253 
+
+ elwhite192,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:08:12.070012 
+
+ elwhite192,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:08:35.174971 
+
+ elwhite192,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:11:10.777931 
+
+ elwhite192,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.183242 
+
+ elwhite192,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:12:03.526857 
+
+ elwhite192,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.488154 
+
+ elwhite192,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.497478 
+
+ elwhite192,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:12:42.080446 
+
+ elwhite192,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 11:13:11.997412 
+
+ elwhite192,     China,        <Channel name: shadowkekw>,       2024-11-07 11:14:03.225126 

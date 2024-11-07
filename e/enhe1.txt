@@ -1,0 +1,18 @@
+
+ enhe1,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:48:47.972435 
+
+ enhe1,     shweden,        <Channel name: shadowkekw>,       2024-11-07 10:49:22.569405 
+
+ enhe1,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.076056 
+
+ enhe1,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.101197 
+
+ enhe1,     Uar,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.798134 
+
+ enhe1,     shweden,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.022197 
+
+ enhe1,     irak',        <Channel name: shadowkekw>,       2024-11-07 11:01:49.957817 
+
+ enhe1,     Ua,        <Channel name: shadowkekw>,       2024-11-07 11:03:08.349656 
+
+ enhe1,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:48:11.496593 

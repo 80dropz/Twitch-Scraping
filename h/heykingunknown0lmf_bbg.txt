@@ -1,0 +1,6 @@
+
+ heykingunknown0lmf_bbg,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 11:19:01.441199 
+
+ heykingunknown0lmf_bbg,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 11:19:09.899486 
+
+ heykingunknown0lmf_bbg,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 11:21:25.805211 

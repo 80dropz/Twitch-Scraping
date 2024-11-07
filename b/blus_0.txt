@@ -1,0 +1,6 @@
+
+ blus_0,     !roulette 120,        <Channel name: kaicenat>,       2024-11-07 09:55:49.461247 
+
+ blus_0,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:58:07.175849 
+
+ blus_0,     !roulette 180,        <Channel name: kaicenat>,       2024-11-07 09:58:30.584518 

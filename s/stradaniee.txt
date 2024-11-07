@@ -1,0 +1,48 @@
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:14:07.432967 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:14:37.242793 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:14:56.306394 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.659440 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.876438 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:19:12.023585 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:19:45.788414 
+
+ stradaniee,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:20:50.560881 
+
+ stradaniee,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:28:16.493976 
+
+ stradaniee,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:35.380833 
+
+ stradaniee,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.259663 
+
+ stradaniee,     pg,        <Channel name: shadowkekw>,       2024-11-07 10:43:41.235036 
+
+ stradaniee,     it,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.845536 
+
+ stradaniee,     ber,        <Channel name: shadowkekw>,       2024-11-07 10:45:42.438739 
+
+ stradaniee,     l,        <Channel name: shadowkekw>,       2024-11-07 10:47:32.069236 
+
+ stradaniee,     bl,        <Channel name: shadowkekw>,       2024-11-07 10:47:52.242655 
+
+ stradaniee,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:49:01.863414 
+
+ stradaniee,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:49:36.877124 
+
+ stradaniee,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:50:17.052261 
+
+ stradaniee,     th,        <Channel name: shadowkekw>,       2024-11-07 10:51:55.685839 
+
+ stradaniee,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.893884 
+
+ stradaniee,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:54:34.428486 
+
+ stradaniee,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:52.047533 
+
+ stradaniee,     my,        <Channel name: shadowkekw>,       2024-11-07 11:09:54.209496 

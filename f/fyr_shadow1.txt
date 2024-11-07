@@ -16,3 +16,23 @@
  fyr_shadow1,     o,        <Channel name: shadowkekw>,       2024-11-07 09:34:11.236008 
 
  fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:34:25.924725 
+
+ fyr_shadow1,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:15.729393 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:53:59.817101 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:40.495564 
+
+ fyr_shadow1,     hi,        <Channel name: shadowkekw>,       2024-11-07 09:55:34.108389 
+
+ fyr_shadow1,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:57:48.717949 
+
+ fyr_shadow1,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:59:34.776666 
+
+ fyr_shadow1,     o,        <Channel name: shadowkekw>,       2024-11-07 10:01:08.917967 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 10:01:15.533979 
+
+ fyr_shadow1,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:01:41.134454 
+
+ fyr_shadow1,     +,        <Channel name: shadowkekw>,       2024-11-07 10:04:45.959950 

@@ -1,0 +1,48 @@
+
+ mogus_dogus,     !watchtime,        <Channel name: mrlust>,       2024-11-07 10:09:09.549227 
+
+ mogus_dogus,     pokotschenu,        <Channel name: mrlust>,       2024-11-07 10:12:12.143966 
+
+ mogus_dogus,     nesnaju,        <Channel name: mrlust>,       2024-11-07 10:12:45.902595 
+
+ mogus_dogus,     !lurk,        <Channel name: mrlust>,       2024-11-07 10:13:15.835037 
+
+ mogus_dogus,     !lurk!lurk,        <Channel name: mrlust>,       2024-11-07 10:13:17.565843 
+
+ mogus_dogus,     !lurk,        <Channel name: mrlust>,       2024-11-07 10:13:20.877943 
+
+ mogus_dogus,     !lurk m,        <Channel name: mrlust>,       2024-11-07 10:13:36.297924 
+
+ mogus_dogus,     !lurk o,        <Channel name: mrlust>,       2024-11-07 10:13:42.819985 
+
+ mogus_dogus,     !lurk m,        <Channel name: mrlust>,       2024-11-07 10:13:47.044722 
+
+ mogus_dogus,     !aim,        <Channel name: mrlust>,       2024-11-07 10:16:50.847627 
+
+ mogus_dogus,     !sens,        <Channel name: mrlust>,       2024-11-07 10:16:56.699884 
+
+ mogus_dogus,     !lurk,        <Channel name: mrlust>,       2024-11-07 10:17:08.151302 
+
+ mogus_dogus,     !sense,        <Channel name: mrlust>,       2024-11-07 10:18:00.683987 
+
+ mogus_dogus,     !sense lol,        <Channel name: mrlust>,       2024-11-07 10:18:12.855060 
+
+ mogus_dogus,     !sins,        <Channel name: mrlust>,       2024-11-07 10:18:26.398565 
+
+ mogus_dogus,     !win,        <Channel name: mrlust>,       2024-11-07 10:20:07.676525 
+
+ mogus_dogus,     !wins,        <Channel name: mrlust>,       2024-11-07 10:20:12.021474 
+
+ mogus_dogus,     !asmr,        <Channel name: mrlust>,       2024-11-07 10:20:18.810424 
+
+ mogus_dogus,     sins,        <Channel name: mrlust>,       2024-11-07 10:20:30.459711 
+
+ mogus_dogus,     !rank,        <Channel name: mrlust>,       2024-11-07 12:16:07.690422 
+
+ mogus_dogus,     how many wins does he got?,        <Channel name: mrlust>,       2024-11-07 12:16:32.116069 
+
+ mogus_dogus,     !res,        <Channel name: mrlust>,       2024-11-07 12:16:47.338802 
+
+ mogus_dogus,     !lurk,        <Channel name: mrlust>,       2024-11-07 12:16:50.877633 
+
+ mogus_dogus,     !watchtime,        <Channel name: mrlust>,       2024-11-07 12:45:56.795383 

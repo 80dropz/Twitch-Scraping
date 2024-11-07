@@ -1,0 +1,70 @@
+
+ twitch_kylo_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:08:18.982613 
+
+ twitch_kylo_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:10:02.183302 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:10:24.061309 
+
+ twitch_kylo_,     ucraine,        <Channel name: shadowkekw>,       2024-11-07 10:10:30.972352 
+
+ twitch_kylo_,     litvin,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.582076 
+
+ twitch_kylo_,     chezh,        <Channel name: shadowkekw>,       2024-11-07 10:11:46.698594 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:12:07.477820 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.969145 
+
+ twitch_kylo_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:13:00.349863 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.369066 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.613090 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:23.103264 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:13:26.798468 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:44.983522 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:14:26.478535 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:15:22.237096 
+
+ twitch_kylo_,     russhia,        <Channel name: shadowkekw>,       2024-11-07 10:15:34.591753 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.292866 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.769640 
+
+ twitch_kylo_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:16:27.530548 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:28.717838 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:17:36.288660 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:45.849058 
+
+ twitch_kylo_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:17:47.648243 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.128165 
+
+ twitch_kylo_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:17:59.508852 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:31.868309 
+
+ twitch_kylo_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.003265 
+
+ twitch_kylo_,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:19:04.782773 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:19:16.570242 
+
+ twitch_kylo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:20:08.089637 
+
+ twitch_kylo_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:24.721859 
+
+ twitch_kylo_,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:20:56.703599 
+
+ twitch_kylo_,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:14.358512 
+
+ twitch_kylo_,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:54:51.189090 

@@ -1,0 +1,4 @@
+
+ piks45,     !sub,        <Channel name: kaicenat>,       2024-11-07 09:55:41.498848 
+
+ piks45,     !time,        <Channel name: kaicenat>,       2024-11-07 11:02:57.576865 

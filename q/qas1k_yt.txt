@@ -1,0 +1,6 @@
+
+ qas1k_yt,     ! Keyboard,        <Channel name: mrlust>,       2024-11-07 10:08:19.227777 
+
+ qas1k_yt,     !keyboard,        <Channel name: mrlust>,       2024-11-07 10:08:28.587078 
+
+ qas1k_yt,     !addme,        <Channel name: mrlust>,       2024-11-07 10:09:11.811263 

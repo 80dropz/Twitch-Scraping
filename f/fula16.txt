@@ -1,0 +1,12 @@
+
+ fula16,     )),        <Channel name: shadowkekw>,       2024-11-07 10:46:00.208765 
+
+ fula16,     1,        <Channel name: shadowkekw>,       2024-11-07 10:56:41.690262 
+
+ fula16,     2,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.371883 
+
+ fula16,     3,        <Channel name: shadowkekw>,       2024-11-07 10:56:44.956290 
+
+ fula16,     0-0\,        <Channel name: shadowkekw>,       2024-11-07 10:56:50.573072 
+
+ fula16,     fm,        <Channel name: shadowkekw>,       2024-11-07 10:57:07.159796 

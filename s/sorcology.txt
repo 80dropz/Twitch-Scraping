@@ -1,0 +1,6 @@
+
+ sorcology,     ome44,        <Channel name: kaicenat>,       2024-11-07 10:30:44.536756 
+
+ sorcology,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:42:15.771755 
+
+ sorcology,     WW script,        <Channel name: kaicenat>,       2024-11-07 13:32:50.588472 

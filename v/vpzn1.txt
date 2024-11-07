@@ -1,0 +1,4 @@
+
+ vpzn1,     kaicHeart,        <Channel name: kaicenat>,       2024-11-07 12:08:57.747173 
+
+ vpzn1,     kaicCuff,        <Channel name: kaicenat>,       2024-11-07 12:09:43.405247 

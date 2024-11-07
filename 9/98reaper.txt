@@ -1,0 +1,16 @@
+
+ 98reaper,     !points,        <Channel name: kaicenat>,       2024-11-07 10:17:23.105779 
+
+ 98reaper,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:17:41.053600 
+
+ 98reaper,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:18:02.868541 
+
+ 98reaper,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:18:14.029578 
+
+ 98reaper,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 10:18:29.891476 
+
+ 98reaper,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:18:37.532798 
+
+ 98reaper,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:19:10.907920 
+
+ 98reaper,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:19:39.941035 

@@ -1,2 +1,44 @@
 
  illeann,     )),        <Channel name: shadowkekw>,       2024-11-07 09:30:15.810799 
+
+ illeann,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:53.639094 
+
+ illeann,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.058670 
+
+ illeann,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:53.729932 
+
+ illeann,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:35.429442 
+
+ illeann,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:12:24.765290 
+
+ illeann,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.089892 
+
+ illeann,     it,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.799469 
+
+ illeann,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.782467 
+
+ illeann,     in,        <Channel name: shadowkekw>,       2024-11-07 10:24:26.604682 
+
+ illeann,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.672940 
+
+ illeann,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.517367 
+
+ illeann,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:27:02.107019 
+
+ illeann,     na,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.563475 
+
+ illeann,     n,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.341710 
+
+ illeann,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.450026 
+
+ illeann,     it,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.305248 
+
+ illeann,     nl,        <Channel name: shadowkekw>,       2024-11-07 11:04:42.044866 
+
+ illeann,     nl,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.371326 
+
+ illeann,     nl,        <Channel name: shadowkekw>,       2024-11-07 11:08:25.247674 
+
+ illeann,     123,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.788075 
+
+ illeann,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:14:47.603496 

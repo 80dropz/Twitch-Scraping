@@ -1,0 +1,8 @@
+
+ r1per28,     !sens,        <Channel name: mongraal>,       2024-11-07 12:58:19.003002 
+
+ r1per28,     !res,        <Channel name: mongraal>,       2024-11-07 12:58:30.186986 
+
+ r1per28,     !mouse,        <Channel name: mongraal>,       2024-11-07 12:58:42.764272 
+
+ r1per28,     !keyboard,        <Channel name: mongraal>,       2024-11-07 12:59:11.518749 

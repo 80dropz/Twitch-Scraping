@@ -1,0 +1,4 @@
+
+ elias_ingloff,     NPC,        <Channel name: mongraal>,       2024-11-07 10:14:05.262504 
+
+ elias_ingloff,     omg,        <Channel name: lacy>,       2024-11-07 13:10:57.492899 

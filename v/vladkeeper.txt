@@ -1,0 +1,70 @@
+
+ vladkeeper,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.139008 
+
+ vladkeeper,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:12:12.835603 
+
+ vladkeeper,     Macao,        <Channel name: shadowkekw>,       2024-11-07 10:12:24.599892 
+
+ vladkeeper,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:42.568914 
+
+ vladkeeper,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.921410 
+
+ vladkeeper,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.877270 
+
+ vladkeeper,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.917168 
+
+ vladkeeper,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:22:36.789090 
+
+ vladkeeper,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.102875 
+
+ vladkeeper,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.877434 
+
+ vladkeeper,     France,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.273995 
+
+ vladkeeper,     Reunion,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.736798 
+
+ vladkeeper,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.228262 
+
+ vladkeeper,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.392045 
+
+ vladkeeper,     Czechia,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.916268 
+
+ vladkeeper,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.236898 
+
+ vladkeeper,     Sa,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.689778 
+
+ vladkeeper,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:48:08.091150 
+
+ vladkeeper,     O,        <Channel name: shadowkekw>,       2024-11-07 10:48:32.508082 
+
+ vladkeeper,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:49:57.917195 
+
+ vladkeeper,     Uk,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.790179 
+
+ vladkeeper,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:57:13.055612 
+
+ vladkeeper,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:58:30.684248 
+
+ vladkeeper,     Sa,        <Channel name: shadowkekw>,       2024-11-07 11:00:08.827144 
+
+ vladkeeper,     Czechia,        <Channel name: shadowkekw>,       2024-11-07 11:02:15.452392 
+
+ vladkeeper,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.563942 
+
+ vladkeeper,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:04:38.025138 
+
+ vladkeeper,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:05:03.691697 
+
+ vladkeeper,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:07:02.694003 
+
+ vladkeeper,     France,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.786010 
+
+ vladkeeper,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:09:07.407249 
+
+ vladkeeper,     Sa,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.258772 
+
+ vladkeeper,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.834039 
+
+ vladkeeper,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.613677 
+
+ vladkeeper,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:49:02.659918 

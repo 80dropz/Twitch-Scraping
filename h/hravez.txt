@@ -1,0 +1,14 @@
+
+ hravez,     WW,        <Channel name: kaicenat>,       2024-11-07 12:05:55.171263 
+
+ hravez,     PauseChamp,        <Channel name: kaicenat>,       2024-11-07 12:19:23.042557 
+
+ hravez,     PauseChamp,        <Channel name: kaicenat>,       2024-11-07 12:19:25.820782 
+
+ hravez,     WW,        <Channel name: kaicenat>,       2024-11-07 12:22:42.028136 
+
+ hravez,     WW,        <Channel name: kaicenat>,       2024-11-07 12:22:46.352836 
+
+ hravez,     WW,        <Channel name: kaicenat>,       2024-11-07 12:23:29.311632 
+
+ hravez,     f,        <Channel name: kaicenat>,       2024-11-07 13:01:48.513869 

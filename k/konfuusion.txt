@@ -1,0 +1,6 @@
+
+ konfuusion,     !subscriber count,        <Channel name: lacy>,       2024-11-07 12:49:08.397535 
+
+ konfuusion,     !subscribers,        <Channel name: lacy>,       2024-11-07 12:50:30.665879 
+
+ konfuusion,     avalanche,        <Channel name: lacy>,       2024-11-07 13:32:55.974678 

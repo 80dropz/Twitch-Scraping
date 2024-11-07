@@ -1,0 +1,10 @@
+
+ mcmurphy228,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:53:51.383734 
+
+ mcmurphy228,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:54:07.247369 
+
+ mcmurphy228,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:36.840332 
+
+ mcmurphy228,     L miles,        <Channel name: kaicenat>,       2024-11-07 10:13:59.942175 
+
+ mcmurphy228,     L miles,        <Channel name: kaicenat>,       2024-11-07 10:14:49.098860 

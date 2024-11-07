@@ -1,0 +1,58 @@
+
+ effimirae,     camp,        <Channel name: megalodonvt>,       2024-11-07 13:06:55.507421 
+
+ effimirae,     pact,        <Channel name: megalodonvt>,       2024-11-07 13:07:10.648622 
+
+ effimirae,     comp,        <Channel name: megalodonvt>,       2024-11-07 13:08:23.437574 
+
+ effimirae,     coma,        <Channel name: megalodonvt>,       2024-11-07 13:08:43.134004 
+
+ effimirae,     capo,        <Channel name: megalodonvt>,       2024-11-07 13:09:04.603516 
+
+ effimirae,     mapo,        <Channel name: megalodonvt>,       2024-11-07 13:09:57.108330 
+
+ effimirae,     molt,        <Channel name: megalodonvt>,       2024-11-07 13:12:09.447997 
+
+ effimirae,     month,        <Channel name: megalodonvt>,       2024-11-07 13:12:23.324666 
+
+ effimirae,     moly,        <Channel name: megalodonvt>,       2024-11-07 13:13:15.033552 
+
+ effimirae,     thon,        <Channel name: megalodonvt>,       2024-11-07 13:13:54.859395 
+
+ effimirae,     lyno,        <Channel name: megalodonvt>,       2024-11-07 13:14:28.882600 
+
+ effimirae,     thym,        <Channel name: megalodonvt>,       2024-11-07 13:14:40.436369 
+
+ effimirae,     tonly,        <Channel name: megalodonvt>,       2024-11-07 13:15:06.332686 
+
+ effimirae,     monty,        <Channel name: megalodonvt>,       2024-11-07 13:15:29.603116 
+
+ effimirae,     prole,        <Channel name: megalodonvt>,       2024-11-07 13:17:41.780986 
+
+ effimirae,     people,        <Channel name: megalodonvt>,       2024-11-07 13:17:46.037721 
+
+ effimirae,     pore,        <Channel name: megalodonvt>,       2024-11-07 13:17:59.487407 
+
+ effimirae,     corp,        <Channel name: megalodonvt>,       2024-11-07 13:18:19.835779 
+
+ effimirae,     prop,        <Channel name: megalodonvt>,       2024-11-07 13:18:37.160223 
+
+ effimirae,     core,        <Channel name: megalodonvt>,       2024-11-07 13:19:30.625686 
+
+ effimirae,     crop,        <Channel name: megalodonvt>,       2024-11-07 13:20:11.761657 
+
+ effimirae,     there,        <Channel name: megalodonvt>,       2024-11-07 13:22:34.109718 
+
+ effimirae,     term,        <Channel name: megalodonvt>,       2024-11-07 13:22:46.555122 
+
+ effimirae,     three,        <Channel name: megalodonvt>,       2024-11-07 13:23:37.167858 
+
+ effimirae,     there,        <Channel name: megalodonvt>,       2024-11-07 13:24:11.976616 
+
+ effimirae,     wheet,        <Channel name: megalodonvt>,       2024-11-07 13:24:32.300323 
+
+ effimirae,     ther,        <Channel name: megalodonvt>,       2024-11-07 13:24:48.610650 
+
+ effimirae,     thee,        <Channel name: megalodonvt>,       2024-11-07 13:24:54.050824 
+
+ effimirae,     tere,        <Channel name: megalodonvt>,       2024-11-07 13:26:16.655598 

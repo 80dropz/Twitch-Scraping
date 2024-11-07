@@ -1,0 +1,30 @@
+
+ pleshka0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:07:20.445742 
+
+ pleshka0,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:41.647060 
+
+ pleshka0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:08:32.836067 
+
+ pleshka0,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:10:04.528917 
+
+ pleshka0,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.438289 
+
+ pleshka0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.758833 
+
+ pleshka0,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:11:48.102017 
+
+ pleshka0,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:12:33.464759 
+
+ pleshka0,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:38.430743 
+
+ pleshka0,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:57.219552 
+
+ pleshka0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:13:40.286553 
+
+ pleshka0,     322,        <Channel name: shadowkekw>,       2024-11-07 10:13:53.869677 
+
+ pleshka0,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.612373 
+
+ pleshka0,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:17:14.579788 
+
+ pleshka0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:40.054187 

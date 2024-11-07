@@ -1,0 +1,16 @@
+
+ modemmts,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:08:04.698632 
+
+ modemmts,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.133511 
+
+ modemmts,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:13.114364 
+
+ modemmts,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:56.749606 
+
+ modemmts,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.299201 
+
+ modemmts,     belguim,        <Channel name: shadowkekw>,       2024-11-07 10:21:36.232674 
+
+ modemmts,     indoa,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.177818 
+
+ modemmts,     india,        <Channel name: shadowkekw>,       2024-11-07 10:21:56.209515 

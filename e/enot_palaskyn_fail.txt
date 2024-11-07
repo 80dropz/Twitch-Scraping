@@ -1,0 +1,10 @@
+
+ enot_palaskyn_fail,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:02:46.710128 
+
+ enot_palaskyn_fail,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:04:38.930631 
+
+ enot_palaskyn_fail,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:02.926546 
+
+ enot_palaskyn_fail,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:07:27.380918 
+
+ enot_palaskyn_fail,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:37.270414 

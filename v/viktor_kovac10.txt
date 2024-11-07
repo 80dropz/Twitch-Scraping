@@ -1,0 +1,8 @@
+
+ viktor_kovac10,     !comm,        <Channel name: mongraal>,       2024-11-07 13:07:57.904919 
+
+ viktor_kovac10,     !sub,        <Channel name: mongraal>,       2024-11-07 13:08:17.777769 
+
+ viktor_kovac10,     what is your settings,        <Channel name: mongraal>,       2024-11-07 13:09:47.739305 
+
+ viktor_kovac10,     !settings,        <Channel name: mongraal>,       2024-11-07 13:11:16.230710 

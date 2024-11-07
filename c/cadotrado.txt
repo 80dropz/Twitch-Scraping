@@ -1,0 +1,4 @@
+
+ cadotrado,     CAP,        <Channel name: lacy>,       2024-11-07 13:01:51.226632 
+
+ cadotrado,     good,        <Channel name: lacy>,       2024-11-07 13:26:31.437948 

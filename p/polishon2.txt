@@ -1,0 +1,26 @@
+
+ polishon2,     hi,        <Channel name: shadowkekw>,       2024-11-07 10:06:36.973013 
+
+ polishon2,     tumen blat,        <Channel name: shadowkekw>,       2024-11-07 10:08:22.605205 
+
+ polishon2,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:55.806869 
+
+ polishon2,     izi,        <Channel name: shadowkekw>,       2024-11-07 10:09:00.452186 
+
+ polishon2,     england,        <Channel name: shadowkekw>,       2024-11-07 10:09:40.507587 
+
+ polishon2,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:45.063436 
+
+ polishon2,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:12:28.631214 
+
+ polishon2,     aljir,        <Channel name: shadowkekw>,       2024-11-07 10:12:53.975069 
+
+ polishon2,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:19:40.611710 
+
+ polishon2,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.848812 
+
+ polishon2,     baulgar,        <Channel name: shadowkekw>,       2024-11-07 10:21:41.729080 
+
+ polishon2,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:22:44.330594 
+
+ polishon2,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:23:28.148151 

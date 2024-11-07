@@ -1,0 +1,34 @@
+
+ ble1f,     90,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.937596 
+
+ ble1f,     TAIWAN,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.106640 
+
+ ble1f,     NZ,        <Channel name: shadowkekw>,       2024-11-07 10:52:51.269812 
+
+ ble1f,     TAIWAN,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.973610 
+
+ ble1f,     52,        <Channel name: kaicenat>,       2024-11-07 11:24:25.169893 
+
+ ble1f,     FREESHADOW,        <Channel name: shadowkekw>,       2024-11-07 11:36:33.142478 
+
+ ble1f,     https://www.twitch.tv/shadowkekw/clip/WrongDignifiedAdminMcaT-fHHzCJqchL9r6X1w,        <Channel name: shadowkekw>,       2024-11-07 11:38:40.860591 
+
+ ble1f,     fm,        <Channel name: shadowkekw>,       2024-11-07 11:41:01.059481 
+
+ ble1f,     )),        <Channel name: shadowkekw>,       2024-11-07 11:42:34.859239 
+
+ ble1f,     [FE[QEF[QEF[QEF[QEFEFQ[QWEF[,        <Channel name: shadowkekw>,       2024-11-07 11:43:27.220419 
+
+ ble1f,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:41.054583 
+
+ ble1f,     )),        <Channel name: shadowkekw>,       2024-11-07 11:55:57.819226 
+
+ ble1f,     @RABOTN1CK WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:14.519445 
+
+ ble1f,     )),        <Channel name: shadowkekw>,       2024-11-07 12:01:47.818804 
+
+ ble1f,     @FeelsSunnyMan fm,        <Channel name: shadowkekw>,       2024-11-07 12:03:29.434005 
+
+ ble1f,     28,        <Channel name: shadowkekw>,       2024-11-07 12:05:53.928988 
+
+ ble1f,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:09:11.324940 

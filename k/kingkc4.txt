@@ -1,0 +1,6 @@
+
+ kingkc4,     L CHAT,        <Channel name: kaicenat>,       2024-11-07 13:26:55.070604 
+
+ kingkc4,     L CHATT,        <Channel name: kaicenat>,       2024-11-07 13:27:07.665201 
+
+ kingkc4,     L CHAT,        <Channel name: kaicenat>,       2024-11-07 13:27:57.362604 

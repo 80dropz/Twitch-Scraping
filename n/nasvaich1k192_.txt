@@ -2,3 +2,29 @@
  nasvaich1k192_,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:13.681513 
 
  nasvaich1k192_,     o,        <Channel name: shadowkekw>,       2024-11-07 09:06:40.707528 
+
+ nasvaich1k192_,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:49.346975 
+
+ nasvaich1k192_,     boje,        <Channel name: shadowkekw>,       2024-11-07 09:57:46.589021 
+
+ nasvaich1k192_,     112,        <Channel name: shadowkekw>,       2024-11-07 10:01:11.292668 
+
+ nasvaich1k192_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:48:14.108372 
+
+ nasvaich1k192_,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:02.902160 
+
+ nasvaich1k192_,     ej,        <Channel name: shadowkekw>,       2024-11-07 11:49:34.615497 
+
+ nasvaich1k192_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:05.127322 
+
+ nasvaich1k192_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:30.765627 
+
+ nasvaich1k192_,     wow,        <Channel name: shadowkekw>,       2024-11-07 11:50:56.266227 
+
+ nasvaich1k192_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:52.481396 
+
+ nasvaich1k192_,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:58.445340 
+
+ nasvaich1k192_,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:32.288286 
+
+ nasvaich1k192_,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:31.376813 

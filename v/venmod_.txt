@@ -1,0 +1,58 @@
+
+ venmod_,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:07:37.295468 
+
+ venmod_,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:10:36.596110 
+
+ venmod_,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:10:59.329921 
+
+ venmod_,     id,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.026935 
+
+ venmod_,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:13:04.898024 
+
+ venmod_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:45.162329 
+
+ venmod_,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:14:43.985208 
+
+ venmod_,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:14:54.305167 
+
+ venmod_,     shanxai,        <Channel name: shadowkekw>,       2024-11-07 10:15:06.716356 
+
+ venmod_,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.491498 
+
+ venmod_,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.909842 
+
+ venmod_,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.973542 
+
+ venmod_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.702845 
+
+ venmod_,     br,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.643473 
+
+ venmod_,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:19:16.915150 
+
+ venmod_,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.471367 
+
+ venmod_,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.330671 
+
+ venmod_,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.171621 
+
+ venmod_,     gc,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.025996 
+
+ venmod_,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.005088 
+
+ venmod_,     id,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.161006 
+
+ venmod_,     ck,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.529254 
+
+ venmod_,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.914192 
+
+ venmod_,     au,        <Channel name: shadowkekw>,       2024-11-07 10:55:26.304146 
+
+ venmod_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:41.563694 
+
+ venmod_,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:52.697467 
+
+ venmod_,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:37.265451 
+
+ venmod_,     <3,        <Channel name: shadowkekw>,       2024-11-07 12:01:03.424397 
+
+ venmod_,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:23.569355 

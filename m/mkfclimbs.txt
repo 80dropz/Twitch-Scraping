@@ -1,0 +1,8 @@
+
+ mkfclimbs,     is haley dressed as an elf?,        <Channel name: nadeshot>,       2024-11-07 12:42:28.965112 
+
+ mkfclimbs,     full,        <Channel name: nadeshot>,       2024-11-07 12:43:37.483840 
+
+ mkfclimbs,     what room in the house is this? an office?,        <Channel name: nadeshot>,       2024-11-07 12:57:49.143509 
+
+ mkfclimbs,     haley really runs the show here chat,        <Channel name: nadeshot>,       2024-11-07 12:58:23.548227 

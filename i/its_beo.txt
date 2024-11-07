@@ -1,0 +1,4 @@
+
+ its_beo,     that room is too damn bright,        <Channel name: nadeshot>,       2024-11-07 11:16:17.116521 
+
+ its_beo,     W,        <Channel name: nadeshot>,       2024-11-07 11:42:17.233063 

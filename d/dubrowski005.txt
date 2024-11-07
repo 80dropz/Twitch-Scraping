@@ -1,2 +1,8 @@
 
  dubrowski005,     900,        <Channel name: shadowkekw>,       2024-11-07 09:35:54.154411 
+
+ dubrowski005,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:52:48.259923 
+
+ dubrowski005,     fm,        <Channel name: shadowkekw>,       2024-11-07 09:55:59.227309 
+
+ dubrowski005,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.517274 

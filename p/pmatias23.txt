@@ -1,0 +1,4 @@
+
+ pmatias23,     !keyboard,        <Channel name: clix>,       2024-11-07 11:15:25.933324 
+
+ pmatias23,     !mouse,        <Channel name: clix>,       2024-11-07 11:15:38.243313 

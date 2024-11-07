@@ -1,0 +1,16 @@
+
+ jaombo,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.523998 
+
+ jaombo,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:04.406543 
+
+ jaombo,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:47:10.343726 
+
+ jaombo,     de,        <Channel name: shadowkekw>,       2024-11-07 10:47:43.337864 
+
+ jaombo,     ic,        <Channel name: shadowkekw>,       2024-11-07 11:02:07.345475 
+
+ jaombo,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:14:07.657142 
+
+ jaombo,     re,        <Channel name: shadowkekw>,       2024-11-07 11:15:48.870127 
+
+ jaombo,     gh,        <Channel name: shadowkekw>,       2024-11-07 11:15:51.389103 

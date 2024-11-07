@@ -1,0 +1,32 @@
+
+ accosad,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:47.126169 
+
+ accosad,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.712575 
+
+ accosad,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:46:29.161356 
+
+ accosad,     india,        <Channel name: shadowkekw>,       2024-11-07 10:46:48.295541 
+
+ accosad,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:47:08.061762 
+
+ accosad,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:47:48.425874 
+
+ accosad,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:48:29.430088 
+
+ accosad,     monaco,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.631550 
+
+ accosad,     andora,        <Channel name: shadowkekw>,       2024-11-07 10:51:00.222240 
+
+ accosad,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:51:38.470814 
+
+ accosad,     luxenburg,        <Channel name: shadowkekw>,       2024-11-07 10:52:05.222510 
+
+ accosad,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:52:27.306740 
+
+ accosad,     india,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.804127 
+
+ accosad,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.983818 
+
+ accosad,     liverpool,        <Channel name: shadowkekw>,       2024-11-07 10:55:02.555635 
+
+ accosad,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:59:06.779972 

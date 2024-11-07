@@ -1,0 +1,16 @@
+
+ zenurin,     !points,        <Channel name: kaicenat>,       2024-11-07 10:02:00.936298 
+
+ zenurin,     !giveaway,        <Channel name: kaicenat>,       2024-11-07 10:02:10.826928 
+
+ zenurin,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:02:27.785555 
+
+ zenurin,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:02:58.477820 
+
+ zenurin,     !gamble 120,        <Channel name: kaicenat>,       2024-11-07 10:03:12.957183 
+
+ zenurin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:03:52.671623 
+
+ zenurin,     !points,        <Channel name: kaicenat>,       2024-11-07 10:04:37.915630 
+
+ zenurin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:04:53.822055 

@@ -6,3 +6,17 @@
  diaxbond,     No earthquake yet,        <Channel name: kaicenat>,       2024-11-07 09:39:15.763854 
 
  diaxbond,     YOU NEED 230,        <Channel name: kaicenat>,       2024-11-07 09:39:35.138139 
+
+ diaxbond,     !roulette 99999999999999,        <Channel name: kaicenat>,       2024-11-07 09:52:06.684515 
+
+ diaxbond,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:56:06.632821 
+
+ diaxbond,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 09:56:15.084542 
+
+ diaxbond,     !roulette 1.5,        <Channel name: kaicenat>,       2024-11-07 09:56:27.536103 
+
+ diaxbond,     !roulette 1.19903506458068509869,        <Channel name: kaicenat>,       2024-11-07 09:56:47.789529 
+
+ diaxbond,     We can only see his back,        <Channel name: kaicenat>,       2024-11-07 10:43:14.198792 
+
+ diaxbond,     That was longer,        <Channel name: kaicenat>,       2024-11-07 11:27:01.332015 

@@ -18,3 +18,5 @@
  sinonsy,     ))),        <Channel name: shadowkekw>,       2024-11-07 09:31:12.492960 
 
  sinonsy,     https://www.twitch.tv/aunkere/clip/PrettyRelatedManateeChocolateRain-ZupGJj-cNpYB_gk8,        <Channel name: shadowkekw>,       2024-11-07 09:31:24.054866 
+
+ sinonsy,     Ura,        <Channel name: shadowkekw>,       2024-11-07 12:55:13.992109 

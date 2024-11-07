@@ -1,0 +1,10 @@
+
+ cozysocks398,     !points,        <Channel name: kaicenat>,       2024-11-07 10:25:05.470471 
+
+ cozysocks398,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 10:25:24.004495 
+
+ cozysocks398,     !roulette 41,        <Channel name: kaicenat>,       2024-11-07 10:25:33.584744 
+
+ cozysocks398,     !roulette 42,        <Channel name: kaicenat>,       2024-11-07 10:25:37.378209 
+
+ cozysocks398,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 10:25:43.499766 

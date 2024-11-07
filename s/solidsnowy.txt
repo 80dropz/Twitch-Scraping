@@ -1,0 +1,4 @@
+
+ solidsnowy,     ur stream is 30 fps i think btw,        <Channel name: mongraal>,       2024-11-07 12:06:31.222888 
+
+ solidsnowy,     check obs if ur dropping frames,        <Channel name: mongraal>,       2024-11-07 12:07:32.342920 

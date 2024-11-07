@@ -1,2 +1,18 @@
 
  cxrst_,     112,        <Channel name: shadowkekw>,       2024-11-07 09:04:28.915837 
+
+ cxrst_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.026751 
+
+ cxrst_,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.925034 
+
+ cxrst_,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.926068 
+
+ cxrst_,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.833474 
+
+ cxrst_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.481804 
+
+ cxrst_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.838786 
+
+ cxrst_,     MOLDOVA,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.561961 
+
+ cxrst_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:07.360481 

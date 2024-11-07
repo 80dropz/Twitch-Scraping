@@ -1,0 +1,6 @@
+
+ ienvy_drxpz,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:15:13.915799 
+
+ ienvy_drxpz,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:15:35.254362 
+
+ ienvy_drxpz,     s,        <Channel name: kaicenat>,       2024-11-07 10:15:53.715642 

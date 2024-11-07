@@ -14,3 +14,11 @@
  wensq11,     32,        <Channel name: kaicenat>,       2024-11-07 02:01:01.161257 
 
  wensq11,     50,        <Channel name: kaicenat>,       2024-11-07 02:02:46.921085 
+
+ wensq11,     GET ICE,        <Channel name: kaicenat>,       2024-11-07 13:08:00.108739 
+
+ wensq11,     just dump ice on him,        <Channel name: kaicenat>,       2024-11-07 13:14:56.789407 
+
+ wensq11,     his phone,        <Channel name: kaicenat>,       2024-11-07 13:15:50.526715 
+
+ wensq11,     PHONE,        <Channel name: kaicenat>,       2024-11-07 13:16:02.138273 

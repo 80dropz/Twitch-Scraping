@@ -1,2 +1,6 @@
 
  tendokujo1,     ?????,        <Channel name: kaicenat>,       2024-11-07 09:35:56.094091 
+
+ tendokujo1,     100,        <Channel name: kaicenat>,       2024-11-07 12:55:33.340756 
+
+ tendokujo1,     gifters???,        <Channel name: kaicenat>,       2024-11-07 12:55:44.484081 

@@ -1,0 +1,42 @@
+
+ pepech1l,     UAR,        <Channel name: shadowkekw>,       2024-11-07 10:20:53.347558 
+
+ pepech1l,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.601124 
+
+ pepech1l,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:22:53.838387 
+
+ pepech1l,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.936605 
+
+ pepech1l,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:23:03.846151 
+
+ pepech1l,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.531334 
+
+ pepech1l,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:23:34.760813 
+
+ pepech1l,     CUBA,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.381325 
+
+ pepech1l,     MEXICO,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.847601 
+
+ pepech1l,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.013001 
+
+ pepech1l,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.782478 
+
+ pepech1l,     MEXICO,        <Channel name: shadowkekw>,       2024-11-07 10:25:15.121436 
+
+ pepech1l,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:33.903544 
+
+ pepech1l,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:39:25.352561 
+
+ pepech1l,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:39:45.529613 
+
+ pepech1l,     CZ,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.099713 
+
+ pepech1l,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.838651 
+
+ pepech1l,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.784847 
+
+ pepech1l,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:40:48.269437 
+
+ pepech1l,     CZ,        <Channel name: shadowkekw>,       2024-11-07 10:40:59.412521 
+
+ pepech1l,     pr,        <Channel name: shadowkekw>,       2024-11-07 11:09:48.708029 

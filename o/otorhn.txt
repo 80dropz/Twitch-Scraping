@@ -1,0 +1,6 @@
+
+ otorhn,     SeemsGood SeemsGood,        <Channel name: kaicenat>,       2024-11-07 10:09:04.291417 
+
+ otorhn,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:11:46.208255 
+
+ otorhn,     !join,        <Channel name: kaicenat>,       2024-11-07 10:14:19.802880 

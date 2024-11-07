@@ -1,0 +1,44 @@
+
+ halimantraa,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.120832 
+
+ halimantraa,     afrika,        <Channel name: shadowkekw>,       2024-11-07 10:48:51.703595 
+
+ halimantraa,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:06.901494 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:49:24.786455 
+
+ halimantraa,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.550724 
+
+ halimantraa,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:15.191658 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:01:05.530466 
+
+ halimantraa,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.542128 
+
+ halimantraa,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.041515 
+
+ halimantraa,     korea,        <Channel name: shadowkekw>,       2024-11-07 11:02:54.997300 
+
+ halimantraa,     madrid,        <Channel name: shadowkekw>,       2024-11-07 11:07:19.580543 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:08:57.839332 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:10:52.280400 
+
+ halimantraa,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:11:38.787079 
+
+ halimantraa,     dania,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.816029 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:12:16.918207 
+
+ halimantraa,     kanada,        <Channel name: shadowkekw>,       2024-11-07 11:13:07.651371 
+
+ halimantraa,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:13:45.580306 
+
+ halimantraa,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:13:49.061832 
+
+ halimantraa,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:14:42.642229 
+
+ halimantraa,     china,        <Channel name: shadowkekw>,       2024-11-07 11:15:38.942276 
+
+ halimantraa,     Em,        <Channel name: shadowkekw>,       2024-11-07 11:20:17.663656 

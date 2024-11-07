@@ -16,3 +16,9 @@
  renckaramon,     kaicPressed,        <Channel name: kaicenat>,       2024-11-07 02:31:31.917025 
 
  renckaramon,     kaicMug_TK,        <Channel name: kaicenat>,       2024-11-07 02:31:54.531690 
+
+ renckaramon,     WAKEUPPP,        <Channel name: kaicenat>,       2024-11-07 10:31:55.638696 
+
+ renckaramon,     WELCOMEEE,        <Channel name: kaicenat>,       2024-11-07 10:32:29.557948 
+
+ renckaramon,     WAKEUPPP,        <Channel name: kaicenat>,       2024-11-07 10:32:46.731204 

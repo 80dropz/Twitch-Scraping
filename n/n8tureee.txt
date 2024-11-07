@@ -1,0 +1,12 @@
+
+ n8tureee,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:42:06.761479 
+
+ n8tureee,     L came,        <Channel name: kaicenat>,       2024-11-07 10:42:12.282508 
+
+ n8tureee,     switch to main cam,        <Channel name: kaicenat>,       2024-11-07 10:42:18.344208 
+
+ n8tureee,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:42:21.004508 
+
+ n8tureee,     show miles,        <Channel name: kaicenat>,       2024-11-07 10:42:42.255152 
+
+ n8tureee,     switch cam,        <Channel name: kaicenat>,       2024-11-07 10:42:52.089362 

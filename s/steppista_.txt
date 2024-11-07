@@ -1,0 +1,6 @@
+
+ steppista_,     !sens,        <Channel name: mrlust>,       2024-11-07 10:04:03.572669 
+
+ steppista_,     !settings,        <Channel name: mrlust>,       2024-11-07 10:04:15.137197 
+
+ steppista_,     ma drogati,        <Channel name: mrlust>,       2024-11-07 10:04:27.514749 

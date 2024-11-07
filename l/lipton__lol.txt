@@ -10,3 +10,197 @@
  lipton__lol,     900,        <Channel name: shadowkekw>,       2024-11-07 09:32:53.109171 
 
  lipton__lol,     900 900,        <Channel name: shadowkekw>,       2024-11-07 09:33:07.652433 
+
+ lipton__lol,     lol,        <Channel name: shadowkekw>,       2024-11-07 09:52:30.106232 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 09:52:31.313772 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:52:33.589910 
+
+ lipton__lol,     1234567,        <Channel name: shadowkekw>,       2024-11-07 10:09:42.010419 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:23:41.772483 
+
+ lipton__lol,     o,        <Channel name: shadowkekw>,       2024-11-07 11:25:08.476792 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:10.846150 
+
+ lipton__lol,     oo,        <Channel name: shadowkekw>,       2024-11-07 11:26:23.771531 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:26:30.704648 
+
+ lipton__lol,     oo,        <Channel name: shadowkekw>,       2024-11-07 11:26:56.154492 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:28:05.350697 
+
+ lipton__lol,     O,        <Channel name: shadowkekw>,       2024-11-07 11:28:07.879798 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:28:35.050095 
+
+ lipton__lol,     TA,        <Channel name: shadowkekw>,       2024-11-07 11:29:41.677911 
+
+ lipton__lol,     TAA,        <Channel name: shadowkekw>,       2024-11-07 11:29:46.151050 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:29:52.850335 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:29:58.940524 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:30:11.208137 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:30:24.035594 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:30:34.871040 
+
+ lipton__lol,     O,        <Channel name: shadowkekw>,       2024-11-07 11:30:51.389055 
+
+ lipton__lol,     OO,        <Channel name: shadowkekw>,       2024-11-07 11:31:34.666473 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 11:31:38.125269 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:32:07.138730 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:32:10.643622 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:21.197350 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:32:44.289646 
+
+ lipton__lol,     O,        <Channel name: shadowkekw>,       2024-11-07 11:32:45.529074 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:53.845808 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:33:12.244627 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:35:18.791330 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:36:03.500530 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:36:07.205485 
+
+ lipton__lol,     O,        <Channel name: shadowkekw>,       2024-11-07 11:36:39.266290 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:36:47.658374 
+
+ lipton__lol,     1111,        <Channel name: shadowkekw>,       2024-11-07 11:37:07.978707 
+
+ lipton__lol,     ))),        <Channel name: shadowkekw>,       2024-11-07 11:38:52.568806 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:07.348386 
+
+ lipton__lol,     WW WW WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:17.818440 
+
+ lipton__lol,     DA,        <Channel name: shadowkekw>,       2024-11-07 11:39:35.620718 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:41:03.338670 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:43:24.413070 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:43:27.961049 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:43:35.295155 
+
+ lipton__lol,     OO,        <Channel name: shadowkekw>,       2024-11-07 11:43:51.873107 
+
+ lipton__lol,     OO,        <Channel name: shadowkekw>,       2024-11-07 11:45:38.121029 
+
+ lipton__lol,     LOL LOL,        <Channel name: shadowkekw>,       2024-11-07 11:46:20.981284 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:46:43.536481 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:33.171490 
+
+ lipton__lol,     WW WW WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:38.535783 
+
+ lipton__lol,     O,        <Channel name: shadowkekw>,       2024-11-07 11:47:41.358440 
+
+ lipton__lol,     WW WW WW WW W  W  W  WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:51.764019 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:48:07.245600 
+
+ lipton__lol,     112,        <Channel name: shadowkekw>,       2024-11-07 11:48:12.667047 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:48:15.535556 
+
+ lipton__lol,     XD,        <Channel name: shadowkekw>,       2024-11-07 11:48:20.300858 
+
+ lipton__lol,     and,        <Channel name: shadowkekw>,       2024-11-07 11:48:46.685462 
+
+ lipton__lol,     and and,        <Channel name: shadowkekw>,       2024-11-07 11:48:54.494794 
+
+ lipton__lol,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:48:57.831556 
+
+ lipton__lol,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:00.440606 
+
+ lipton__lol,     wow,        <Channel name: shadowkekw>,       2024-11-07 11:50:40.645848 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:56.528815 
+
+ lipton__lol,     112,        <Channel name: shadowkekw>,       2024-11-07 11:51:02.373695 
+
+ lipton__lol,     900,        <Channel name: shadowkekw>,       2024-11-07 11:51:04.282303 
+
+ lipton__lol,     fm,        <Channel name: shadowkekw>,       2024-11-07 11:51:20.160791 
+
+ lipton__lol,     dans,        <Channel name: shadowkekw>,       2024-11-07 11:51:49.396351 
+
+ lipton__lol,     dans dans,        <Channel name: shadowkekw>,       2024-11-07 11:51:58.855908 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:52:02.053649 
+
+ lipton__lol,     78,        <Channel name: shadowkekw>,       2024-11-07 11:52:45.863288 
+
+ lipton__lol,     89 89,        <Channel name: shadowkekw>,       2024-11-07 11:52:49.938990 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:25.769214 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:53:33.621160 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:43.961155 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:57.990641 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:54:32.855477 
+
+ lipton__lol,     WOW,        <Channel name: shadowkekw>,       2024-11-07 11:55:15.592024 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:19.383686 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 11:55:29.369827 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:39.675676 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 11:56:00.138425 
+
+ lipton__lol,     ya,        <Channel name: shadowkekw>,       2024-11-07 11:56:05.736668 
+
+ lipton__lol,     o,        <Channel name: shadowkekw>,       2024-11-07 11:56:56.319835 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 11:57:22.858366 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 12:04:57.720494 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:19.997251 
+
+ lipton__lol,     28,        <Channel name: shadowkekw>,       2024-11-07 12:05:52.234732 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:44.061237 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 12:13:30.364634 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 12:13:42.601512 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 12:14:36.811462 
+
+ lipton__lol,     xdd,        <Channel name: shadowkekw>,       2024-11-07 12:14:42.013357 
+
+ lipton__lol,     mhm,        <Channel name: shadowkekw>,       2024-11-07 12:15:00.627143 
+
+ lipton__lol,     o,        <Channel name: shadowkekw>,       2024-11-07 12:37:58.197671 
+
+ lipton__lol,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:48:19.669400 
+
+ lipton__lol,     LOL,        <Channel name: shadowkekw>,       2024-11-07 12:55:25.157597 
+
+ lipton__lol,     )),        <Channel name: shadowkekw>,       2024-11-07 12:55:28.611257 
+
+ lipton__lol,     xdd,        <Channel name: shadowkekw>,       2024-11-07 12:55:32.805274 

@@ -1,0 +1,8 @@
+
+ astrida_00,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:48.780718 
+
+ astrida_00,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:09:11.210555 
+
+ astrida_00,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:09:35.591583 
+
+ astrida_00,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:05.770825 

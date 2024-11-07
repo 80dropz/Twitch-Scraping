@@ -1,0 +1,10 @@
+
+ lainzd,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:12:55.493401 
+
+ lainzd,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:14:55.147773 
+
+ lainzd,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:15:00.125068 
+
+ lainzd,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:17.021106 
+
+ lainzd,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:17:08.250954 

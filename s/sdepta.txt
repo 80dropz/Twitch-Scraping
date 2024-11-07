@@ -1,0 +1,106 @@
+
+ sdepta,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.423664 
+
+ sdepta,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:52.355008 
+
+ sdepta,     belatus,        <Channel name: shadowkekw>,       2024-11-07 10:31:19.409404 
+
+ sdepta,     blya,        <Channel name: shadowkekw>,       2024-11-07 10:31:40.573436 
+
+ sdepta,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:31:57.061237 
+
+ sdepta,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:16.111935 
+
+ sdepta,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:35.050456 
+
+ sdepta,     sahara,        <Channel name: shadowkekw>,       2024-11-07 10:34:58.305702 
+
+ sdepta,     vt,        <Channel name: shadowkekw>,       2024-11-07 10:35:27.866285 
+
+ sdepta,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:36:10.796184 
+
+ sdepta,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:38:14.487208 
+
+ sdepta,     me,        <Channel name: shadowkekw>,       2024-11-07 10:39:36.297499 
+
+ sdepta,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:40:06.346842 
+
+ sdepta,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:41:13.599224 
+
+ sdepta,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:35.028328 
+
+ sdepta,     dr,        <Channel name: shadowkekw>,       2024-11-07 10:41:59.301197 
+
+ sdepta,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:42:50.823413 
+
+ sdepta,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.875599 
+
+ sdepta,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:43:12.289594 
+
+ sdepta,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:43:52.286776 
+
+ sdepta,     as,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.637729 
+
+ sdepta,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:44:58.696437 
+
+ sdepta,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.871341 
+
+ sdepta,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:56.626855 
+
+ sdepta,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:47:15.960017 
+
+ sdepta,     gv,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.701503 
+
+ sdepta,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:51:03.193553 
+
+ sdepta,     br,        <Channel name: shadowkekw>,       2024-11-07 10:52:30.246305 
+
+ sdepta,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:52:45.875538 
+
+ sdepta,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:54:52.463298 
+
+ sdepta,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:58:17.913753 
+
+ sdepta,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:00:39.874482 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:01:55.591047 
+
+ sdepta,     belarus,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.586240 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:05:42.169629 
+
+ sdepta,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:06:38.477382 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:07:09.154364 
+
+ sdepta,     lv,        <Channel name: shadowkekw>,       2024-11-07 11:08:35.790289 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.529773 
+
+ sdepta,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:09:11.901014 
+
+ sdepta,     SA,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.822752 
+
+ sdepta,     bl,        <Channel name: shadowkekw>,       2024-11-07 11:10:44.548384 
+
+ sdepta,     im,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.497659 
+
+ sdepta,     iv,        <Channel name: shadowkekw>,       2024-11-07 11:11:01.218299 
+
+ sdepta,     ge,        <Channel name: shadowkekw>,       2024-11-07 11:11:27.577011 
+
+ sdepta,     im,        <Channel name: shadowkekw>,       2024-11-07 11:11:40.253213 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.062252 
+
+ sdepta,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.599852 
+
+ sdepta,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.943461 
+
+ sdepta,     do,        <Channel name: shadowkekw>,       2024-11-07 11:14:17.436389 
+
+ sdepta,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:50:03.629720 
+
+ sdepta,     xaxa,        <Channel name: shadowkekw>,       2024-11-07 12:01:33.394856 
+
+ sdepta,     112,        <Channel name: shadowkekw>,       2024-11-07 12:03:17.692410 

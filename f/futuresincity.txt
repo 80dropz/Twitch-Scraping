@@ -1,0 +1,28 @@
+
+ futuresincity,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:32:17.585968 
+
+ futuresincity,     !roullete 100,        <Channel name: kaicenat>,       2024-11-07 10:32:35.205204 
+
+ futuresincity,     !roullette 1000,        <Channel name: kaicenat>,       2024-11-07 10:32:58.224154 
+
+ futuresincity,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:33:20.590928 
+
+ futuresincity,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:33:34.211802 
+
+ futuresincity,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:33:54.755963 
+
+ futuresincity,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 10:34:04.144942 
+
+ futuresincity,     !roullete 1000,        <Channel name: kaicenat>,       2024-11-07 10:34:17.829315 
+
+ futuresincity,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:34:33.776758 
+
+ futuresincity,     !roullete 3000,        <Channel name: kaicenat>,       2024-11-07 10:34:41.214406 
+
+ futuresincity,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:34:55.325282 
+
+ futuresincity,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 10:35:05.511773 
+
+ futuresincity,     !roullete 2000,        <Channel name: kaicenat>,       2024-11-07 10:35:16.331661 
+
+ futuresincity,     !roullete 1000,        <Channel name: kaicenat>,       2024-11-07 10:35:24.716327 

@@ -1,0 +1,68 @@
+
+ lanceyygh,     LA,        <Channel name: shadowkekw>,       2024-11-07 10:07:22.560963 
+
+ lanceyygh,     Los Angeles,        <Channel name: shadowkekw>,       2024-11-07 10:07:30.504353 
+
+ lanceyygh,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.454764 
+
+ lanceyygh,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.677490 
+
+ lanceyygh,     New ziland,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.322272 
+
+ lanceyygh,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:33:51.467339 
+
+ lanceyygh,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:55.690212 
+
+ lanceyygh,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:34:32.706915 
+
+ lanceyygh,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:19.561372 
+
+ lanceyygh,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.684941 
+
+ lanceyygh,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:12.400544 
+
+ lanceyygh,     us,        <Channel name: shadowkekw>,       2024-11-07 10:36:49.032633 
+
+ lanceyygh,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.431265 
+
+ lanceyygh,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:37:11.693227 
+
+ lanceyygh,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:28.735612 
+
+ lanceyygh,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:38:10.343407 
+
+ lanceyygh,     bali,        <Channel name: shadowkekw>,       2024-11-07 10:38:14.635325 
+
+ lanceyygh,     balidubai,        <Channel name: shadowkekw>,       2024-11-07 10:38:31.176306 
+
+ lanceyygh,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.387194 
+
+ lanceyygh,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:38:38.655590 
+
+ lanceyygh,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.486397 
+
+ lanceyygh,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:32.027123 
+
+ lanceyygh,     kanada,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.136600 
+
+ lanceyygh,     kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.155460 
+
+ lanceyygh,     bali,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.743101 
+
+ lanceyygh,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:41:15.090279 
+
+ lanceyygh,     afg,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.890248 
+
+ lanceyygh,     alb,        <Channel name: shadowkekw>,       2024-11-07 11:12:14.706806 
+
+ lanceyygh,     ast,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.867336 
+
+ lanceyygh,     aus,        <Channel name: shadowkekw>,       2024-11-07 11:12:27.588035 
+
+ lanceyygh,     azr,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.365588 
+
+ lanceyygh,     egy,        <Channel name: shadowkekw>,       2024-11-07 11:13:50.959945 
+
+ lanceyygh,     fin,        <Channel name: shadowkekw>,       2024-11-07 11:14:13.706676 
+
+ lanceyygh,     nzl,        <Channel name: shadowkekw>,       2024-11-07 11:15:54.924781 

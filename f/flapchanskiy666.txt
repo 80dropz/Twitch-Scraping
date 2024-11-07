@@ -1,0 +1,668 @@
+
+ flapchanskiy666,     ...,        <Channel name: shadowkekw>,       2024-11-07 09:52:46.119353 
+
+ flapchanskiy666,     Mangolia,        <Channel name: shadowkekw>,       2024-11-07 10:07:21.176357 
+
+ flapchanskiy666,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.201297 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:46.858140 
+
+ flapchanskiy666,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.662204 
+
+ flapchanskiy666,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:29.582607 
+
+ flapchanskiy666,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:05.702702 
+
+ flapchanskiy666,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:09:27.476419 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:47.930471 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:09:54.194879 
+
+ flapchanskiy666,     Austalia,        <Channel name: shadowkekw>,       2024-11-07 10:10:14.895294 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:10:19.760072 
+
+ flapchanskiy666,     cerf,        <Channel name: shadowkekw>,       2024-11-07 10:10:25.084813 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:37.947678 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 10:11:00.657972 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:31.430549 
+
+ flapchanskiy666,     Kosovo,        <Channel name: shadowkekw>,       2024-11-07 10:11:55.684193 
+
+ flapchanskiy666,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.391588 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.733362 
+
+ flapchanskiy666,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:12:39.313357 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:25.639677 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:14:04.883093 
+
+ flapchanskiy666,     MAGA,        <Channel name: shadowkekw>,       2024-11-07 10:14:12.601748 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:14:39.175014 
+
+ flapchanskiy666,     New Zelan,        <Channel name: shadowkekw>,       2024-11-07 10:14:52.620092 
+
+ flapchanskiy666,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:06.000126 
+
+ flapchanskiy666,     North Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:18.718230 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:15:25.835314 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.871298 
+
+ flapchanskiy666,     Zimbabve,        <Channel name: shadowkekw>,       2024-11-07 10:16:05.387189 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:16:22.267943 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:16:34.354971 
+
+ flapchanskiy666,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:16:40.531252 
+
+ flapchanskiy666,     north korea,        <Channel name: shadowkekw>,       2024-11-07 10:17:23.687211 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.218830 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.635455 
+
+ flapchanskiy666,     XD,        <Channel name: shadowkekw>,       2024-11-07 10:17:45.330911 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:56.033122 
+
+ flapchanskiy666,     Germanty,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.923160 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.837421 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.217276 
+
+ flapchanskiy666,     XD,        <Channel name: shadowkekw>,       2024-11-07 10:18:47.040195 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:18:58.224974 
+
+ flapchanskiy666,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:19:03.731343 
+
+ flapchanskiy666,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:19:10.519089 
+
+ flapchanskiy666,     FREE GHANA,        <Channel name: shadowkekw>,       2024-11-07 10:19:26.307367 
+
+ flapchanskiy666,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.824043 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:19:37.594569 
+
+ flapchanskiy666,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:51.824335 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:20:12.627539 
+
+ flapchanskiy666,     malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.315681 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.368930 
+
+ flapchanskiy666,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:20:49.471830 
+
+ flapchanskiy666,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:58.149229 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.688559 
+
+ flapchanskiy666,     asiugsafiduasdo,        <Channel name: shadowkekw>,       2024-11-07 10:21:16.419769 
+
+ flapchanskiy666,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:21:26.333458 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:22:07.380540 
+
+ flapchanskiy666,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:22:25.142201 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:22:53.138211 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:23:05.730540 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:23:20.683846 
+
+ flapchanskiy666,     France,        <Channel name: shadowkekw>,       2024-11-07 10:23:23.811167 
+
+ flapchanskiy666,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.248451 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:23:36.465539 
+
+ flapchanskiy666,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:42.541416 
+
+ flapchanskiy666,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.468261 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.195948 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:24:24.311723 
+
+ flapchanskiy666,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:24:38.862543 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:24:42.837267 
+
+ flapchanskiy666,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:24:45.642327 
+
+ flapchanskiy666,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.712925 
+
+ flapchanskiy666,     malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:25:00.994506 
+
+ flapchanskiy666,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:25:16.254469 
+
+ flapchanskiy666,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:18.809063 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:25:40.389986 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.750631 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.728132 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:26:14.271299 
+
+ flapchanskiy666,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.647798 
+
+ flapchanskiy666,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:26:37.456023 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:26:41.823441 
+
+ flapchanskiy666,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:27:02.356332 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:23.955351 
+
+ flapchanskiy666,     XD,        <Channel name: shadowkekw>,       2024-11-07 10:27:34.949005 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.370252 
+
+ flapchanskiy666,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:46.538746 
+
+ flapchanskiy666,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:27:55.774698 
+
+ flapchanskiy666,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:28:00.653194 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.955174 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.813474 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:28:48.764732 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:28:58.961656 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.974829 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.154356 
+
+ flapchanskiy666,     O_o,        <Channel name: shadowkekw>,       2024-11-07 10:30:02.902836 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:30:15.968064 
+
+ flapchanskiy666,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.951320 
+
+ flapchanskiy666,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:36.436193 
+
+ flapchanskiy666,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.411589 
+
+ flapchanskiy666,     Finlands,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.675028 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:30:53.934596 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:57.522511 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:09.786566 
+
+ flapchanskiy666,     india,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.487657 
+
+ flapchanskiy666,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:31:36.967986 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:13.607880 
+
+ flapchanskiy666,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.636291 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:49.713544 
+
+ flapchanskiy666,     New Zealnd,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.478775 
+
+ flapchanskiy666,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:33:09.549769 
+
+ flapchanskiy666,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.799022 
+
+ flapchanskiy666,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.579756 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.371381 
+
+ flapchanskiy666,     Nambia,        <Channel name: shadowkekw>,       2024-11-07 10:33:35.781814 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:41.594272 
+
+ flapchanskiy666,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:51.149747 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.627912 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:22.104277 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:34:26.051183 
+
+ flapchanskiy666,     Gergia,        <Channel name: shadowkekw>,       2024-11-07 10:34:31.999464 
+
+ flapchanskiy666,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:48.385094 
+
+ flapchanskiy666,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:34:52.779878 
+
+ flapchanskiy666,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:34:58.251790 
+
+ flapchanskiy666,     Nambia,        <Channel name: shadowkekw>,       2024-11-07 10:35:13.027564 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:35:16.860238 
+
+ flapchanskiy666,     ))),        <Channel name: shadowkekw>,       2024-11-07 10:35:25.376152 
+
+ flapchanskiy666,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:35:38.136136 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.317674 
+
+ flapchanskiy666,     ko,        <Channel name: shadowkekw>,       2024-11-07 10:36:01.676734 
+
+ flapchanskiy666,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.987799 
+
+ flapchanskiy666,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.000336 
+
+ flapchanskiy666,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:23.439420 
+
+ flapchanskiy666,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:24.239692 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:31.711035 
+
+ flapchanskiy666,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:36:42.446206 
+
+ flapchanskiy666,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:37:03.519777 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:37:07.007924 
+
+ flapchanskiy666,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:22.523734 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.511436 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:37:41.505855 
+
+ flapchanskiy666,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.601437 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.563404 
+
+ flapchanskiy666,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.998126 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.987191 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:38:50.479806 
+
+ flapchanskiy666,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:39:26.239811 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:39:52.322660 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:53.980654 
+
+ flapchanskiy666,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:40:00.237444 
+
+ flapchanskiy666,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:20.102430 
+
+ flapchanskiy666,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:40:29.583528 
+
+ flapchanskiy666,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:40:48.662377 
+
+ flapchanskiy666,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.846748 
+
+ flapchanskiy666,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.305328 
+
+ flapchanskiy666,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:41:33.076848 
+
+ flapchanskiy666,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.805971 
+
+ flapchanskiy666,     kak,        <Channel name: shadowkekw>,       2024-11-07 10:42:15.642534 
+
+ flapchanskiy666,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:42:33.177161 
+
+ flapchanskiy666,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:38.782424 
+
+ flapchanskiy666,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.681124 
+
+ flapchanskiy666,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:43:03.750723 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.681898 
+
+ flapchanskiy666,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:43:34.517837 
+
+ flapchanskiy666,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:43:38.367045 
+
+ flapchanskiy666,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.009723 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:44:23.143848 
+
+ flapchanskiy666,     China,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.194056 
+
+ flapchanskiy666,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:44:30.859895 
+
+ flapchanskiy666,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.321345 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:45:10.349252 
+
+ flapchanskiy666,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:45:18.160199 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:45:32.015624 
+
+ flapchanskiy666,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:45:36.020850 
+
+ flapchanskiy666,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:45:37.623055 
+
+ flapchanskiy666,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:08.981437 
+
+ flapchanskiy666,     Au,        <Channel name: shadowkekw>,       2024-11-07 10:46:12.919838 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:31.228479 
+
+ flapchanskiy666,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:46:48.999782 
+
+ flapchanskiy666,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:01.385863 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:47:10.477277 
+
+ flapchanskiy666,     se,        <Channel name: shadowkekw>,       2024-11-07 10:47:15.130409 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:47:25.653440 
+
+ flapchanskiy666,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:47:43.958863 
+
+ flapchanskiy666,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:47:50.858619 
+
+ flapchanskiy666,     ???????????,        <Channel name: shadowkekw>,       2024-11-07 10:47:56.562707 
+
+ flapchanskiy666,     ?????????????????????,        <Channel name: shadowkekw>,       2024-11-07 10:47:57.620133 
+
+ flapchanskiy666,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:11.217797 
+
+ flapchanskiy666,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.727703 
+
+ flapchanskiy666,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:30.656484 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.434056 
+
+ flapchanskiy666,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.793141 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:00.571627 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.775377 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:49:15.123580 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.657298 
+
+ flapchanskiy666,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:36.103484 
+
+ flapchanskiy666,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:49:47.758706 
+
+ flapchanskiy666,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:49:54.691484 
+
+ flapchanskiy666,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:49:59.465888 
+
+ flapchanskiy666,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:08.409925 
+
+ flapchanskiy666,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.227933 
+
+ flapchanskiy666,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:50:15.853253 
+
+ flapchanskiy666,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:33.010673 
+
+ flapchanskiy666,     ?,        <Channel name: shadowkekw>,       2024-11-07 10:50:38.992457 
+
+ flapchanskiy666,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:50:53.913802 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:51:18.073341 
+
+ flapchanskiy666,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.304373 
+
+ flapchanskiy666,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:45.249706 
+
+ flapchanskiy666,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:51:54.535200 
+
+ flapchanskiy666,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:52:05.698427 
+
+ flapchanskiy666,     india,        <Channel name: shadowkekw>,       2024-11-07 10:52:07.372885 
+
+ flapchanskiy666,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.930611 
+
+ flapchanskiy666,     libanon,        <Channel name: shadowkekw>,       2024-11-07 10:52:20.581689 
+
+ flapchanskiy666,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:52:25.414678 
+
+ flapchanskiy666,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:52:42.831389 
+
+ flapchanskiy666,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:52:48.582278 
+
+ flapchanskiy666,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:53:10.059849 
+
+ flapchanskiy666,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.267843 
+
+ flapchanskiy666,     XD,        <Channel name: shadowkekw>,       2024-11-07 10:53:33.721114 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:53:46.496496 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:54:12.408734 
+
+ flapchanskiy666,     Siria,        <Channel name: shadowkekw>,       2024-11-07 10:54:18.752117 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.539585 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:54:38.594506 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:54:58.244594 
+
+ flapchanskiy666,     China,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.340474 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:55:13.360789 
+
+ flapchanskiy666,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.275659 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:55:44.757646 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.813618 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:56:32.466829 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:48.770877 
+
+ flapchanskiy666,     Au,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.089439 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:57:00.468965 
+
+ flapchanskiy666,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:57:18.578731 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:57:35.588838 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:57:43.369062 
+
+ flapchanskiy666,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:57:54.623121 
+
+ flapchanskiy666,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:58:12.497796 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:31.206935 
+
+ flapchanskiy666,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:58:39.157876 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:58:42.662096 
+
+ flapchanskiy666,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.845832 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.913488 
+
+ flapchanskiy666,     UK,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.301353 
+
+ flapchanskiy666,     ????????,        <Channel name: shadowkekw>,       2024-11-07 10:59:14.269740 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.333288 
+
+ flapchanskiy666,     RU,        <Channel name: shadowkekw>,       2024-11-07 10:59:43.716742 
+
+ flapchanskiy666,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:59:52.152402 
+
+ flapchanskiy666,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:00:13.725480 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.412679 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:00:36.488401 
+
+ flapchanskiy666,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:51.263725 
+
+ flapchanskiy666,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:01:00.091450 
+
+ flapchanskiy666,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.440893 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:01:17.561019 
+
+ flapchanskiy666,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:01:20.126053 
+
+ flapchanskiy666,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:01:28.258720 
+
+ flapchanskiy666,     bangladesh,        <Channel name: shadowkekw>,       2024-11-07 11:01:46.842783 
+
+ flapchanskiy666,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:01:53.763648 
+
+ flapchanskiy666,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.861937 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:02:15.236787 
+
+ flapchanskiy666,     south africa,        <Channel name: shadowkekw>,       2024-11-07 11:02:31.447376 
+
+ flapchanskiy666,     iraq,        <Channel name: shadowkekw>,       2024-11-07 11:02:38.140090 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:02:41.935689 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.627868 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.364019 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.349221 
+
+ flapchanskiy666,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:03:37.903889 
+
+ flapchanskiy666,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 11:03:51.241181 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 11:03:54.145619 
+
+ flapchanskiy666,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:04:07.331116 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.266103 
+
+ flapchanskiy666,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.731432 
+
+ flapchanskiy666,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 11:04:51.931756 
+
+ flapchanskiy666,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.237600 
+
+ flapchanskiy666,     ?,        <Channel name: shadowkekw>,       2024-11-07 11:05:19.246668 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.208553 
+
+ flapchanskiy666,     co,        <Channel name: shadowkekw>,       2024-11-07 11:06:12.550176 
+
+ flapchanskiy666,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:06:13.391839 
+
+ flapchanskiy666,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:07:13.778166 
+
+ flapchanskiy666,     Fr,        <Channel name: shadowkekw>,       2024-11-07 11:07:16.946870 
+
+ flapchanskiy666,     India,        <Channel name: shadowkekw>,       2024-11-07 11:07:40.514020 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:07:45.731222 
+
+ flapchanskiy666,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:07:53.655072 
+
+ flapchanskiy666,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:07:58.010069 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:08:30.224597 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:08:57.778605 
+
+ flapchanskiy666,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:09:02.727266 
+
+ flapchanskiy666,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 11:09:08.251754 
+
+ flapchanskiy666,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.065835 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:09:26.031905 
+
+ flapchanskiy666,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:26.311406 
+
+ flapchanskiy666,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:35.024676 
+
+ flapchanskiy666,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:02.190857 
+
+ flapchanskiy666,     sz,        <Channel name: shadowkekw>,       2024-11-07 11:11:08.494707 
+
+ flapchanskiy666,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:11:14.578715 
+
+ flapchanskiy666,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:11:23.739872 
+
+ flapchanskiy666,     Fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:34.429586 
+
+ flapchanskiy666,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:12:16.054594 
+
+ flapchanskiy666,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:12:25.112596 
+
+ flapchanskiy666,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:12:45.432412 
+
+ flapchanskiy666,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:12:57.328538 
+
+ flapchanskiy666,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:24.013023 
+
+ flapchanskiy666,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 11:13:33.458200 
+
+ flapchanskiy666,     Ko,        <Channel name: shadowkekw>,       2024-11-07 11:15:05.982442 
+
+ flapchanskiy666,     Kr,        <Channel name: shadowkekw>,       2024-11-07 11:15:09.394186 
+
+ flapchanskiy666,     do,        <Channel name: shadowkekw>,       2024-11-07 11:15:12.225519 
+
+ flapchanskiy666,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:15:17.495677 
+
+ flapchanskiy666,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:15:20.341555 
+
+ flapchanskiy666,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:15:23.560617 
+
+ flapchanskiy666,     ?,        <Channel name: shadowkekw>,       2024-11-07 11:16:20.588622 
+
+ flapchanskiy666,     3DAPOBA YEBIWE XBATUT IIPbIrATb,        <Channel name: kaicenat>,       2024-11-07 11:42:00.419388 
+
+ flapchanskiy666,     @shadowkekw privet nahooy shodi,        <Channel name: kaicenat>,       2024-11-07 11:42:39.788351 
+
+ flapchanskiy666,     @shadowkekw <3,        <Channel name: kaicenat>,       2024-11-07 11:42:48.753097 
+
+ flapchanskiy666,     SUBprise /vip shadowkekw SUBprise,        <Channel name: kaicenat>,       2024-11-07 11:45:37.593668 
+
+ flapchanskiy666,     SUBprise /vip shadowkekw SUBtember,        <Channel name: kaicenat>,       2024-11-07 11:46:02.253076 
+
+ flapchanskiy666,     +,        <Channel name: shadowkekw>,       2024-11-07 12:16:53.788845 
+
+ flapchanskiy666,     aga,        <Channel name: shadowkekw>,       2024-11-07 12:17:18.092447 
+
+ flapchanskiy666,     ???????????????,        <Channel name: shadowkekw>,       2024-11-07 12:18:41.699531 
+
+ flapchanskiy666,     ),        <Channel name: shadowkekw>,       2024-11-07 12:19:50.431479 
+
+ flapchanskiy666,     0 7 =))),        <Channel name: shadowkekw>,       2024-11-07 12:35:23.047497 
+
+ flapchanskiy666,     0 7,        <Channel name: shadowkekw>,       2024-11-07 12:35:39.189159 
+
+ flapchanskiy666,     DxCat FBBlock,        <Channel name: shadowkekw>,       2024-11-07 12:40:45.121024 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:47:12.609371 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:47:31.028153 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:47:32.157518 
+
+ flapchanskiy666,     TrumpDance YMCA,        <Channel name: shadowkekw>,       2024-11-07 12:48:52.856017 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:53:33.930583 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:53:35.403951 
+
+ flapchanskiy666,     <3,        <Channel name: shadowkekw>,       2024-11-07 12:55:49.232015 
+
+ flapchanskiy666,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:55:56.751315 

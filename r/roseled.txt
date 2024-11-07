@@ -1,0 +1,46 @@
+
+ roseled,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:26:01.612730 
+
+ roseled,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.702056 
+
+ roseled,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.479940 
+
+ roseled,     Lithunia,        <Channel name: shadowkekw>,       2024-11-07 10:29:05.456944 
+
+ roseled,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:29:15.396769 
+
+ roseled,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:29:37.428388 
+
+ roseled,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:30:01.052218 
+
+ roseled,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:30:25.255553 
+
+ roseled,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:31:19.738669 
+
+ roseled,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:31:59.926761 
+
+ roseled,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:32:16.629796 
+
+ roseled,     China,        <Channel name: shadowkekw>,       2024-11-07 10:32:38.222585 
+
+ roseled,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.842515 
+
+ roseled,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:32:59.412753 
+
+ roseled,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.351127 
+
+ roseled,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.621894 
+
+ roseled,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:33:27.135133 
+
+ roseled,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:34:09.914038 
+
+ roseled,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:35:03.126047 
+
+ roseled,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:11.008545 
+
+ roseled,     North Korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.259533 
+
+ roseled,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:36:48.702184 
+
+ roseled,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.527329 

@@ -1,0 +1,6 @@
+
+ wmotz,     bye,        <Channel name: lacy>,       2024-11-07 12:49:32.328985 
+
+ wmotz,     anna,        <Channel name: lacy>,       2024-11-07 12:50:47.192747 
+
+ wmotz,     wwww,        <Channel name: lacy>,       2024-11-07 12:51:23.528550 

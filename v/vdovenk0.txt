@@ -1,0 +1,122 @@
+
+ vdovenk0,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.335821 
+
+ vdovenk0,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:41:16.587734 
+
+ vdovenk0,     Efiopia,        <Channel name: shadowkekw>,       2024-11-07 10:42:04.482597 
+
+ vdovenk0,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:42:39.032519 
+
+ vdovenk0,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:43:16.809244 
+
+ vdovenk0,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:43:39.559600 
+
+ vdovenk0,     Irak,        <Channel name: shadowkekw>,       2024-11-07 10:44:12.685890 
+
+ vdovenk0,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:59.027554 
+
+ vdovenk0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:45:20.424244 
+
+ vdovenk0,     Chasd,        <Channel name: shadowkekw>,       2024-11-07 10:46:16.418090 
+
+ vdovenk0,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:46:36.924602 
+
+ vdovenk0,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:47:16.947355 
+
+ vdovenk0,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:47:32.639482 
+
+ vdovenk0,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:17.562153 
+
+ vdovenk0,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:33.976235 
+
+ vdovenk0,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:05.772811 
+
+ vdovenk0,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.049374 
+
+ vdovenk0,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.675098 
+
+ vdovenk0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:42.477796 
+
+ vdovenk0,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:51:03.346723 
+
+ vdovenk0,     Idnida,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.165719 
+
+ vdovenk0,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:52:30.045204 
+
+ vdovenk0,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:53:19.548458 
+
+ vdovenk0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:35.363136 
+
+ vdovenk0,     Combodia,        <Channel name: shadowkekw>,       2024-11-07 10:53:56.761265 
+
+ vdovenk0,     India,        <Channel name: shadowkekw>,       2024-11-07 10:54:22.182854 
+
+ vdovenk0,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:57:30.171028 
+
+ vdovenk0,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:58:44.850140 
+
+ vdovenk0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:59:17.546288 
+
+ vdovenk0,     Angola,        <Channel name: shadowkekw>,       2024-11-07 10:59:59.282630 
+
+ vdovenk0,     Kyprus,        <Channel name: shadowkekw>,       2024-11-07 11:00:41.216888 
+
+ vdovenk0,     India,        <Channel name: shadowkekw>,       2024-11-07 11:01:56.070100 
+
+ vdovenk0,     Iran,        <Channel name: shadowkekw>,       2024-11-07 11:03:20.639540 
+
+ vdovenk0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:04:36.332938 
+
+ vdovenk0,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:05:12.507477 
+
+ vdovenk0,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.964835 
+
+ vdovenk0,     Luxemburg,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.478735 
+
+ vdovenk0,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:14.647559 
+
+ vdovenk0,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:06:38.769477 
+
+ vdovenk0,     Japan\,        <Channel name: shadowkekw>,       2024-11-07 11:07:14.308461 
+
+ vdovenk0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:07:19.417585 
+
+ vdovenk0,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:08:00.250123 
+
+ vdovenk0,     Combodia,        <Channel name: shadowkekw>,       2024-11-07 11:08:05.970315 
+
+ vdovenk0,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:08:39.259156 
+
+ vdovenk0,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:09:14.044104 
+
+ vdovenk0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:09:37.949964 
+
+ vdovenk0,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 11:09:53.685729 
+
+ vdovenk0,     Nigerya,        <Channel name: shadowkekw>,       2024-11-07 11:09:59.559957 
+
+ vdovenk0,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:40.853767 
+
+ vdovenk0,     Litva,        <Channel name: shadowkekw>,       2024-11-07 11:10:42.908746 
+
+ vdovenk0,     Luxemburg,        <Channel name: shadowkekw>,       2024-11-07 11:11:28.793343 
+
+ vdovenk0,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:39.991199 
+
+ vdovenk0,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.075237 
+
+ vdovenk0,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:12:03.673740 
+
+ vdovenk0,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.432782 
+
+ vdovenk0,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:12:53.067605 
+
+ vdovenk0,     Irak,        <Channel name: shadowkekw>,       2024-11-07 11:12:59.223081 
+
+ vdovenk0,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 11:13:07.814493 
+
+ vdovenk0,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 11:13:40.179617 
+
+ vdovenk0,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:14:02.253109 
+
+ vdovenk0,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:15:33.000091 

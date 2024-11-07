@@ -144,3 +144,7 @@
  streamlabs,     matthiasbayern11 has been following Oatley for 1 years 1 months 21 days.,        <Channel name: oatley>,       2024-11-07 02:48:31.915421 
 
  streamlabs,     @snowy_abc has spent 35.50 hours watching Oatley,        <Channel name: oatley>,       2024-11-07 02:50:45.614595 
+
+ streamlabs,     zerz_z has been following Oatley for 11 months 29 days 3 hours.,        <Channel name: oatley>,       2024-11-07 10:06:11.873968 
+
+ streamlabs,     @zerz_z has spent 57.33 hours watching Oatley,        <Channel name: oatley>,       2024-11-07 10:06:23.798291 

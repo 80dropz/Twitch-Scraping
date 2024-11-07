@@ -1,2 +1,12 @@
 
  yndm16,     +,        <Channel name: shadowkekw>,       2024-11-07 09:20:13.672779 
+
+ yndm16,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.294454 
+
+ yndm16,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:19:06.015610 
+
+ yndm16,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:23.331180 
+
+ yndm16,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:27:06.275684 
+
+ yndm16,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:12.936068 

@@ -1,0 +1,4 @@
+
+ rncliam,     "res,        <Channel name: mongraal>,       2024-11-07 10:19:05.580661 
+
+ rncliam,     !res,        <Channel name: mongraal>,       2024-11-07 10:19:07.767636 

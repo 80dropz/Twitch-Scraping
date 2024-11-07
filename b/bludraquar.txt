@@ -1,0 +1,10 @@
+
+ bludraquar,     fr,        <Channel name: mongraal>,       2024-11-07 11:35:13.473938 
+
+ bludraquar,     no,        <Channel name: mongraal>,       2024-11-07 11:36:09.142615 
+
+ bludraquar,     no,        <Channel name: mongraal>,       2024-11-07 11:42:12.850162 
+
+ bludraquar,     11th,        <Channel name: mongraal>,       2024-11-07 11:42:23.098613 
+
+ bludraquar,     no,        <Channel name: mongraal>,       2024-11-07 12:30:29.433425 

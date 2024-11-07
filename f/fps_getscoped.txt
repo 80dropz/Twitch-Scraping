@@ -1,0 +1,6 @@
+
+ fps_getscoped,     LOLLL,        <Channel name: nickeh30>,       2024-11-07 11:28:28.697260 
+
+ fps_getscoped,     idk,        <Channel name: nickeh30>,       2024-11-07 12:17:45.020053 
+
+ fps_getscoped,     no shot,        <Channel name: nickeh30>,       2024-11-07 12:17:54.063892 

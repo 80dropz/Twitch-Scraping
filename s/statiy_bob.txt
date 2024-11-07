@@ -1,0 +1,24 @@
+
+ statiy_bob,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.939560 
+
+ statiy_bob,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:07:48.175742 
+
+ statiy_bob,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:07:57.059451 
+
+ statiy_bob,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:11:03.455331 
+
+ statiy_bob,     China,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.287161 
+
+ statiy_bob,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.539964 
+
+ statiy_bob,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:12:47.499468 
+
+ statiy_bob,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:13:20.690409 
+
+ statiy_bob,     France,        <Channel name: shadowkekw>,       2024-11-07 10:15:21.819914 
+
+ statiy_bob,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.632416 
+
+ statiy_bob,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:16:17.378353 
+
+ statiy_bob,     Ukrainian,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.083229 

@@ -1,0 +1,18 @@
+
+ parerd,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:13.229271 
+
+ parerd,     lol,        <Channel name: kaicenat>,       2024-11-07 10:24:51.134324 
+
+ parerd,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:24:52.693906 
+
+ parerd,     Zzzz,        <Channel name: kaicenat>,       2024-11-07 10:33:58.124426 
+
+ parerd,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:42:51.868171 
+
+ parerd,     MILES WE CANT SEE U,        <Channel name: kaicenat>,       2024-11-07 10:46:12.392373 
+
+ parerd,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:50:46.411650 
+
+ parerd,     HE SEE ON STREAM BTW LOL,        <Channel name: kaicenat>,       2024-11-07 13:26:01.927954 
+
+ parerd,     LOL,        <Channel name: kaicenat>,       2024-11-07 13:34:42.128944 

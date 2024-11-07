@@ -36,3 +36,31 @@
  godjcuzimthedj,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 09:26:03.079104 
 
  godjcuzimthedj,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:28:01.052616 
+
+ godjcuzimthedj,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:52:03.299540 
+
+ godjcuzimthedj,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:12.250087 
+
+ godjcuzimthedj,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:52:39.606684 
+
+ godjcuzimthedj,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:53:07.321540 
+
+ godjcuzimthedj,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:53:48.173268 
+
+ godjcuzimthedj,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:54:03.512232 
+
+ godjcuzimthedj,     WAIT FOR SUBS TO DO IT,        <Channel name: kaicenat>,       2024-11-07 11:08:33.786461 
+
+ godjcuzimthedj,     HAH,        <Channel name: kaicenat>,       2024-11-07 11:26:54.053814 
+
+ godjcuzimthedj,     HAH,        <Channel name: kaicenat>,       2024-11-07 11:28:23.511513 
+
+ godjcuzimthedj,     WW,        <Channel name: kaicenat>,       2024-11-07 11:28:57.510023 
+
+ godjcuzimthedj,     LMAO,        <Channel name: kaicenat>,       2024-11-07 11:29:16.092564 
+
+ godjcuzimthedj,     WW @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:31:04.276228 
+
+ godjcuzimthedj,     WW,        <Channel name: kaicenat>,       2024-11-07 11:32:56.143546 
+
+ godjcuzimthedj,     WW @SauceGardner,        <Channel name: kaicenat>,       2024-11-07 13:00:12.600588 

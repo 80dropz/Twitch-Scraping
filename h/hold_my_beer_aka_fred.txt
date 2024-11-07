@@ -1,0 +1,4 @@
+
+ hold_my_beer_aka_fred,     no,        <Channel name: mira>,       2024-11-07 11:38:57.386095 
+
+ hold_my_beer_aka_fred,     come to Qc,        <Channel name: mira>,       2024-11-07 11:39:03.602692 

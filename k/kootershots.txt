@@ -6,3 +6,7 @@
  kootershots,     !p,        <Channel name: adapt>,       2024-11-07 09:43:24.754215 
 
  kootershots,     !points,        <Channel name: adapt>,       2024-11-07 09:43:34.327652 
+
+ kootershots,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:34.759466 
+
+ kootershots,     !slots,        <Channel name: kaicenat>,       2024-11-07 09:52:59.577223 

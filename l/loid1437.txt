@@ -1,0 +1,60 @@
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.663492 
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:45:28.394157 
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.732378 
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:46:46.043894 
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:47:22.184114 
+
+ loid1437,     Norwa,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.834980 
+
+ loid1437,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.865328 
+
+ loid1437,     iseland,        <Channel name: shadowkekw>,       2024-11-07 10:49:58.100355 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:50:42.513057 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.271978 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:52:35.729305 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.662905 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:54:04.325398 
+
+ loid1437,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.714090 
+
+ loid1437,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:55:33.157164 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:56:22.286143 
+
+ loid1437,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:57:05.531812 
+
+ loid1437,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:58:03.873236 
+
+ loid1437,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:58:52.231249 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:59:36.990597 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:00:23.963345 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:01:08.998417 
+
+ loid1437,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.667793 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.345781 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:03:03.575344 
+
+ loid1437,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 11:04:02.633427 
+
+ loid1437,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:05:04.117667 
+
+ loid1437,     Yemen\,        <Channel name: shadowkekw>,       2024-11-07 11:05:35.073577 
+
+ loid1437,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.727433 
+
+ loid1437,     WW,        <Channel name: kaicenat>,       2024-11-07 11:30:40.731321 

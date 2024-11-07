@@ -18,3 +18,7 @@
  suzuyaqqe,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:33:24.734479 
 
  suzuyaqqe,     876,        <Channel name: shadowkekw>,       2024-11-07 09:43:56.055219 
+
+ suzuyaqqe,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:49.498866 
+
+ suzuyaqqe,     -500,        <Channel name: shadowkekw>,       2024-11-07 09:57:06.049382 

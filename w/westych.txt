@@ -1,0 +1,12 @@
+
+ westych,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:31.126990 
+
+ westych,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:11:47.546530 
+
+ westych,     VoteNay,        <Channel name: shadowkekw>,       2024-11-07 10:36:25.766409 
+
+ westych,     VoteNay VoteNay VoteNay VoteNay VoteNay VoteNay,        <Channel name: shadowkekw>,       2024-11-07 10:36:28.618254 
+
+ westych,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: shadowkekw>,       2024-11-07 10:36:32.694279 
+
+ westych,     87,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.106878 

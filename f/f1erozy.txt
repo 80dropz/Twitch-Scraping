@@ -1,0 +1,58 @@
+
+ f1erozy,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.282088 
+
+ f1erozy,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.703229 
+
+ f1erozy,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.965558 
+
+ f1erozy,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.763019 
+
+ f1erozy,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.202267 
+
+ f1erozy,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:41:57.472018 
+
+ f1erozy,     China,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.623927 
+
+ f1erozy,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.048910 
+
+ f1erozy,     France,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.771439 
+
+ f1erozy,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.702666 
+
+ f1erozy,     Taihland,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.442539 
+
+ f1erozy,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:45:04.405222 
+
+ f1erozy,     Egupt,        <Channel name: shadowkekw>,       2024-11-07 10:45:29.983646 
+
+ f1erozy,     Beirut,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.397515 
+
+ f1erozy,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:47:03.984930 
+
+ f1erozy,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.676088 
+
+ f1erozy,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.606908 
+
+ f1erozy,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:29.152253 
+
+ f1erozy,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:49:11.082708 
+
+ f1erozy,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:28.216501 
+
+ f1erozy,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:50:44.141205 
+
+ f1erozy,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:51:10.007067 
+
+ f1erozy,     China,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.806281 
+
+ f1erozy,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:52:25.577860 
+
+ f1erozy,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.288151 
+
+ f1erozy,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:07.481498 
+
+ f1erozy,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:54:31.574430 
+
+ f1erozy,     Swizerland,        <Channel name: shadowkekw>,       2024-11-07 10:55:07.961397 
+
+ f1erozy,     Taihland,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.845038 

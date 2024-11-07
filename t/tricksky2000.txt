@@ -1,0 +1,18 @@
+
+ tricksky2000,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:14:46.933685 
+
+ tricksky2000,     how do i earn gamblevpoints,        <Channel name: kaicenat>,       2024-11-07 10:15:49.289402 
+
+ tricksky2000,     !time,        <Channel name: clix>,       2024-11-07 10:17:11.248010 
+
+ tricksky2000,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:17:55.338665 
+
+ tricksky2000,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 10:18:08.395465 
+
+ tricksky2000,     !gamble 120,        <Channel name: kaicenat>,       2024-11-07 10:18:18.880924 
+
+ tricksky2000,     !roulette 120,        <Channel name: kaicenat>,       2024-11-07 10:18:40.397755 
+
+ tricksky2000,     !roulette 240,        <Channel name: kaicenat>,       2024-11-07 10:18:49.452567 
+
+ tricksky2000,     !points,        <Channel name: kaicenat>,       2024-11-07 10:21:38.543417 

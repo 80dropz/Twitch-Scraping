@@ -12,3 +12,35 @@
  ov3roll,     WW WW WW WW WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:43.617994 
 
  ov3roll,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:44.540638 
+
+ ov3roll,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:52:13.755927 
+
+ ov3roll,     skip 89,        <Channel name: shadowkekw>,       2024-11-07 09:53:20.930033 
+
+ ov3roll,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:09:49.663607 
+
+ ov3roll,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:10:21.293102 
+
+ ov3roll,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.815619 
+
+ ov3roll,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.731695 
+
+ ov3roll,     Maldivi,        <Channel name: shadowkekw>,       2024-11-07 10:12:14.432985 
+
+ ov3roll,     Maldives,        <Channel name: shadowkekw>,       2024-11-07 10:12:29.015872 
+
+ ov3roll,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:16:07.403099 
+
+ ov3roll,     New Zeeland,        <Channel name: shadowkekw>,       2024-11-07 10:16:31.722723 
+
+ ov3roll,     Malaosia,        <Channel name: shadowkekw>,       2024-11-07 10:16:58.197376 
+
+ ov3roll,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:17:55.307840 
+
+ ov3roll,     United Kinghdom,        <Channel name: shadowkekw>,       2024-11-07 10:18:19.230176 
+
+ ov3roll,     nethelands,        <Channel name: shadowkekw>,       2024-11-07 10:18:33.206025 
+
+ ov3roll,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:18:46.072033 
+
+ ov3roll,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:20:40.682313 

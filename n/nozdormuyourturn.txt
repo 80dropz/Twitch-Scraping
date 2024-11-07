@@ -1,0 +1,36 @@
+
+ nozdormuyourturn,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:08:02.369289 
+
+ nozdormuyourturn,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:33.043876 
+
+ nozdormuyourturn,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:55.497080 
+
+ nozdormuyourturn,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:48.513681 
+
+ nozdormuyourturn,     Polad,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.705245 
+
+ nozdormuyourturn,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:10.195454 
+
+ nozdormuyourturn,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:13:28.917511 
+
+ nozdormuyourturn,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:53.818319 
+
+ nozdormuyourturn,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:31:19.145894 
+
+ nozdormuyourturn,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.081392 
+
+ nozdormuyourturn,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:32:35.875626 
+
+ nozdormuyourturn,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.052830 
+
+ nozdormuyourturn,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:09.799464 
+
+ nozdormuyourturn,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:35:23.349550 
+
+ nozdormuyourturn,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.380728 
+
+ nozdormuyourturn,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.309170 
+
+ nozdormuyourturn,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:37:16.686129 
+
+ nozdormuyourturn,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:37:53.439319 

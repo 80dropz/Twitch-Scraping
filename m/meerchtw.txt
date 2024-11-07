@@ -1,0 +1,36 @@
+
+ meerchtw,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:26.174427 
+
+ meerchtw,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:47:08.629065 
+
+ meerchtw,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.220776 
+
+ meerchtw,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.800966 
+
+ meerchtw,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:57:35.650425 
+
+ meerchtw,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:58:21.846160 
+
+ meerchtw,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:10.429893 
+
+ meerchtw,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:59:44.678589 
+
+ meerchtw,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:00:45.588691 
+
+ meerchtw,     Finlans,        <Channel name: shadowkekw>,       2024-11-07 11:02:44.394539 
+
+ meerchtw,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:04:53.492823 
+
+ meerchtw,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:02.624431 
+
+ meerchtw,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:07:29.404634 
+
+ meerchtw,     Mozambik,        <Channel name: shadowkekw>,       2024-11-07 11:08:03.549204 
+
+ meerchtw,     Chili,        <Channel name: shadowkekw>,       2024-11-07 11:08:52.106974 
+
+ meerchtw,     Africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.442179 
+
+ meerchtw,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:10:05.331902 
+
+ meerchtw,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:45.244258 

@@ -134,3 +134,495 @@
  idisuuu,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:43:32.790209 
 
  idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:44:02.942794 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:52:34.099692 
+
+ idisuuu,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:44.292255 
+
+ idisuuu,     0-0,        <Channel name: shadowkekw>,       2024-11-07 09:54:22.571315 
+
+ idisuuu,     fm,        <Channel name: shadowkekw>,       2024-11-07 09:55:51.637013 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:56:43.000481 
+
+ idisuuu,     Alarm,        <Channel name: shadowkekw>,       2024-11-07 09:57:18.109574 
+
+ idisuuu,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:57:47.580959 
+
+ idisuuu,     0-0,        <Channel name: shadowkekw>,       2024-11-07 09:59:25.256631 
+
+ idisuuu,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:59:42.086474 
+
+ idisuuu,     38,        <Channel name: shadowkekw>,       2024-11-07 09:59:55.845115 
+
+ idisuuu,     900,        <Channel name: shadowkekw>,       2024-11-07 10:00:16.407886 
+
+ idisuuu,     28,        <Channel name: shadowkekw>,       2024-11-07 10:00:30.319675 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:00:59.690876 
+
+ idisuuu,     112,        <Channel name: shadowkekw>,       2024-11-07 10:01:12.953284 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 10:01:40.350467 
+
+ idisuuu,     nyama,        <Channel name: shadowkekw>,       2024-11-07 10:01:55.777055 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:02:31.034521 
+
+ idisuuu,     ej,        <Channel name: shadowkekw>,       2024-11-07 10:04:19.823279 
+
+ idisuuu,     +,        <Channel name: shadowkekw>,       2024-11-07 10:04:46.516895 
+
+ idisuuu,     LOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:08.676020 
+
+ idisuuu,     NELOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:21.867411 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:37.671922 
+
+ idisuuu,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:24.432880 
+
+ idisuuu,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:07:59.745608 
+
+ idisuuu,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:08:37.275425 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:52.285805 
+
+ idisuuu,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.470249 
+
+ idisuuu,     o,        <Channel name: shadowkekw>,       2024-11-07 10:09:21.536927 
+
+ idisuuu,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:12.223369 
+
+ idisuuu,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:10:34.033987 
+
+ idisuuu,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:50.022177 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.756828 
+
+ idisuuu,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:19.654936 
+
+ idisuuu,     China,        <Channel name: shadowkekw>,       2024-11-07 10:11:49.616190 
+
+ idisuuu,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.800433 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:15.266346 
+
+ idisuuu,     Irak,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.559945 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:18.071668 
+
+ idisuuu,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:16.413696 
+
+ idisuuu,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.698659 
+
+ idisuuu,     france,        <Channel name: shadowkekw>,       2024-11-07 10:17:15.511445 
+
+ idisuuu,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:51.572762 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:18:06.962341 
+
+ idisuuu,     Dadada,        <Channel name: shadowkekw>,       2024-11-07 10:18:23.378848 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:52.022111 
+
+ idisuuu,     100,        <Channel name: shadowkekw>,       2024-11-07 10:19:42.240807 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:56.595773 
+
+ idisuuu,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:20:07.445748 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:20:24.285671 
+
+ idisuuu,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:20:39.578721 
+
+ idisuuu,     us,        <Channel name: shadowkekw>,       2024-11-07 10:21:07.497524 
+
+ idisuuu,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:21:40.018925 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:22.737345 
+
+ idisuuu,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:22:38.829174 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:52.600490 
+
+ idisuuu,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.863497 
+
+ idisuuu,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:23:51.177721 
+
+ idisuuu,     China,        <Channel name: shadowkekw>,       2024-11-07 10:25:10.727173 
+
+ idisuuu,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:25.643413 
+
+ idisuuu,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.488431 
+
+ idisuuu,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:52.568914 
+
+ idisuuu,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:27:11.708610 
+
+ idisuuu,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.671135 
+
+ idisuuu,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:59.094809 
+
+ idisuuu,     India,        <Channel name: shadowkekw>,       2024-11-07 10:28:15.947559 
+
+ idisuuu,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.811825 
+
+ idisuuu,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:28:50.113031 
+
+ idisuuu,     France,        <Channel name: shadowkekw>,       2024-11-07 10:29:15.460377 
+
+ idisuuu,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.553472 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.319563 
+
+ idisuuu,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:42.292460 
+
+ idisuuu,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:30:59.678745 
+
+ idisuuu,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:22.080617 
+
+ idisuuu,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.182663 
+
+ idisuuu,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.576694 
+
+ idisuuu,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.617417 
+
+ idisuuu,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:34:01.140351 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:34:17.257172 
+
+ idisuuu,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:34:34.331075 
+
+ idisuuu,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.614717 
+
+ idisuuu,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:35:05.249786 
+
+ idisuuu,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.465219 
+
+ idisuuu,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:56.343127 
+
+ idisuuu,     th,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.447131 
+
+ idisuuu,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:37.034843 
+
+ idisuuu,     da,        <Channel name: shadowkekw>,       2024-11-07 10:37:13.313927 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:37:28.138227 
+
+ idisuuu,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.992138 
+
+ idisuuu,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:15.657283 
+
+ idisuuu,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:37.164075 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:15.979811 
+
+ idisuuu,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.453748 
+
+ idisuuu,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:08.572849 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.564643 
+
+ idisuuu,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:41:38.695990 
+
+ idisuuu,     France,        <Channel name: shadowkekw>,       2024-11-07 10:42:46.957887 
+
+ idisuuu,     th,        <Channel name: shadowkekw>,       2024-11-07 10:43:11.531036 
+
+ idisuuu,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.795528 
+
+ idisuuu,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.743297 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:12.984538 
+
+ idisuuu,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.461140 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:45:02.692484 
+
+ idisuuu,     it,        <Channel name: shadowkekw>,       2024-11-07 10:45:20.706645 
+
+ idisuuu,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:45:36.747914 
+
+ idisuuu,     th,        <Channel name: shadowkekw>,       2024-11-07 10:45:51.690413 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.005719 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.459919 
+
+ idisuuu,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:27.496101 
+
+ idisuuu,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:06.280822 
+
+ idisuuu,     o,        <Channel name: shadowkekw>,       2024-11-07 10:48:33.908678 
+
+ idisuuu,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.979562 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:07.759232 
+
+ idisuuu,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:41.062339 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:35.409066 
+
+ idisuuu,     France,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.827193 
+
+ idisuuu,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.520609 
+
+ idisuuu,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.721675 
+
+ idisuuu,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:01.514885 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.196988 
+
+ idisuuu,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.357578 
+
+ idisuuu,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:54:00.947394 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.359480 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:55:16.380555 
+
+ idisuuu,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.481512 
+
+ idisuuu,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:56:13.208509 
+
+ idisuuu,     gg,        <Channel name: shadowkekw>,       2024-11-07 10:56:42.454378 
+
+ idisuuu,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:57:30.045374 
+
+ idisuuu,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:07.257707 
+
+ idisuuu,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:58:45.694431 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.393352 
+
+ idisuuu,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:00:04.216102 
+
+ idisuuu,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:26.326239 
+
+ idisuuu,     us,        <Channel name: shadowkekw>,       2024-11-07 11:02:27.941582 
+
+ idisuuu,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:30.699669 
+
+ idisuuu,     us,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.917275 
+
+ idisuuu,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:04:56.078035 
+
+ idisuuu,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:05:29.014960 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.524345 
+
+ idisuuu,     322,        <Channel name: shadowkekw>,       2024-11-07 11:06:55.000014 
+
+ idisuuu,     co,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.691105 
+
+ idisuuu,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:08:54.203283 
+
+ idisuuu,     chad,        <Channel name: shadowkekw>,       2024-11-07 11:09:19.896538 
+
+ idisuuu,     th,        <Channel name: shadowkekw>,       2024-11-07 11:10:08.177415 
+
+ idisuuu,     do,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.679856 
+
+ idisuuu,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:40.415890 
+
+ idisuuu,     china,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.265445 
+
+ idisuuu,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:13:22.199648 
+
+ idisuuu,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:45.796560 
+
+ idisuuu,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:14:16.684919 
+
+ idisuuu,     f5,        <Channel name: shadowkekw>,       2024-11-07 11:16:17.535525 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:18:21.792292 
+
+ idisuuu,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:18:32.833969 
+
+ idisuuu,     900,        <Channel name: shadowkekw>,       2024-11-07 11:18:45.101835 
+
+ idisuuu,     @ranaronx,        <Channel name: shadowkekw>,       2024-11-07 11:19:00.585440 
+
+ idisuuu,     @BuruhtaN268 WW,        <Channel name: shadowkekw>,       2024-11-07 11:19:34.060983 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:21:47.654023 
+
+ idisuuu,     oh,        <Channel name: shadowkekw>,       2024-11-07 11:22:00.100452 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:22:12.893092 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:33.741512 
+
+ idisuuu,     0-0,        <Channel name: shadowkekw>,       2024-11-07 11:23:55.000510 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:24:30.155265 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:00.317051 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:26:30.203820 
+
+ idisuuu,     xd,        <Channel name: shadowkekw>,       2024-11-07 11:26:46.462327 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:28:56.602552 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:03.506389 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:31:20.930491 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:11.466710 
+
+ idisuuu,     O,        <Channel name: shadowkekw>,       2024-11-07 11:32:49.270966 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:33:12.550337 
+
+ idisuuu,     0-0,        <Channel name: shadowkekw>,       2024-11-07 11:33:52.647611 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:34:26.329766 
+
+ idisuuu,     +,        <Channel name: shadowkekw>,       2024-11-07 11:34:58.106066 
+
+ idisuuu,     26,        <Channel name: shadowkekw>,       2024-11-07 11:35:22.292167 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:35:56.586835 
+
+ idisuuu,     #FREESHADOW,        <Channel name: shadowkekw>,       2024-11-07 11:36:46.517912 
+
+ idisuuu,     1300,        <Channel name: shadowkekw>,       2024-11-07 11:37:11.824759 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:37:27.653847 
+
+ idisuuu,     50,        <Channel name: shadowkekw>,       2024-11-07 11:37:42.643229 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:38:57.308518 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:39:54.361370 
+
+ idisuuu,     hi kai,        <Channel name: shadowkekw>,       2024-11-07 11:40:29.652685 
+
+ idisuuu,     chmo,        <Channel name: shadowkekw>,       2024-11-07 11:41:11.060278 
+
+ idisuuu,     900,        <Channel name: shadowkekw>,       2024-11-07 11:41:37.091629 
+
+ idisuuu,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:43:03.357495 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:45:00.796879 
+
+ idisuuu,     112,        <Channel name: shadowkekw>,       2024-11-07 11:47:28.897212 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:52.484687 
+
+ idisuuu,     WW WW,        <Channel name: shadowkekw>,       2024-11-07 11:48:11.631977 
+
+ idisuuu,     and,        <Channel name: shadowkekw>,       2024-11-07 11:48:54.239781 
+
+ idisuuu,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:33.329509 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:49:56.017571 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:51:03.422390 
+
+ idisuuu,     fm,        <Channel name: shadowkekw>,       2024-11-07 11:51:20.823373 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:51:56.402742 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:42.648370 
+
+ idisuuu,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:54:43.224108 
+
+ idisuuu,     brp,        <Channel name: shadowkekw>,       2024-11-07 11:55:30.041706 
+
+ idisuuu,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:29.829203 
+
+ idisuuu,     <3 <3 <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:58.913844 
+
+ idisuuu,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:57:23.199585 
+
+ idisuuu,     HAPPI,        <Channel name: shadowkekw>,       2024-11-07 11:58:16.416584 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:00:04.260635 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:01:07.750916 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:48.775497 
+
+ idisuuu,     SOSI,        <Channel name: shadowkekw>,       2024-11-07 12:02:51.188899 
+
+ idisuuu,     112,        <Channel name: shadowkekw>,       2024-11-07 12:03:18.895948 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:04:01.589609 
+
+ idisuuu,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:47.100785 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:05:13.474370 
+
+ idisuuu,     28,        <Channel name: shadowkekw>,       2024-11-07 12:05:53.783943 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:06:15.221865 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:07:07.225288 
+
+ idisuuu,     wow,        <Channel name: shadowkekw>,       2024-11-07 12:09:19.501496 
+
+ idisuuu,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:09:38.231521 
+
+ idisuuu,     CHOCHOCHO,        <Channel name: shadowkekw>,       2024-11-07 12:09:59.950156 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:10:20.685040 
+
+ idisuuu,     XD,        <Channel name: shadowkekw>,       2024-11-07 12:11:21.215671 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:13.917348 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:14:11.816055 
+
+ idisuuu,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:44.349001 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:17:18.167097 
+
+ idisuuu,     fm,        <Channel name: shadowkekw>,       2024-11-07 12:19:36.624876 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:20:22.748827 
+
+ idisuuu,     dans,        <Channel name: shadowkekw>,       2024-11-07 12:20:42.454508 
+
+ idisuuu,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:21:00.987750 
+
+ idisuuu,     ),        <Channel name: shadowkekw>,       2024-11-07 12:25:01.091768 
+
+ idisuuu,     fm,        <Channel name: shadowkekw>,       2024-11-07 12:25:21.730174 
+
+ idisuuu,     +rep,        <Channel name: shadowkekw>,       2024-11-07 12:28:19.724571 
+
+ idisuuu,     364,        <Channel name: shadowkekw>,       2024-11-07 12:30:11.322396 
+
+ idisuuu,     fm,        <Channel name: shadowkekw>,       2024-11-07 12:31:01.287875 
+
+ idisuuu,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:31:50.239741 
+
+ idisuuu,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:33:01.634458 
+
+ idisuuu,     +,        <Channel name: shadowkekw>,       2024-11-07 12:35:23.654459 
+
+ idisuuu,     ),        <Channel name: shadowkekw>,       2024-11-07 12:36:00.034636 
+
+ idisuuu,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:39:15.187505 
+
+ idisuuu,     900,        <Channel name: shadowkekw>,       2024-11-07 12:40:14.857628 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:40:42.349724 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:43:09.173331 
+
+ idisuuu,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:45:56.323427 
+
+ idisuuu,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:46:29.136552 
+
+ idisuuu,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:47:02.424949 
+
+ idisuuu,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:51:03.144269 
+
+ idisuuu,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:53:54.008574 
+
+ idisuuu,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:54:55.697614 
+
+ idisuuu,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:56:13.205071 

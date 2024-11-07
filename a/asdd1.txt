@@ -1,0 +1,52 @@
+
+ asdd1,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:21.091291 
+
+ asdd1,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.401315 
+
+ asdd1,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.374102 
+
+ asdd1,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.159639 
+
+ asdd1,     It,        <Channel name: shadowkekw>,       2024-11-07 10:37:56.863177 
+
+ asdd1,     vn,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.602700 
+
+ asdd1,     co,        <Channel name: shadowkekw>,       2024-11-07 10:45:03.821449 
+
+ asdd1,     co,        <Channel name: shadowkekw>,       2024-11-07 10:45:50.552099 
+
+ asdd1,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:46:53.454413 
+
+ asdd1,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.018350 
+
+ asdd1,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:49:32.515166 
+
+ asdd1,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:53:54.156933 
+
+ asdd1,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.095262 
+
+ asdd1,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:56:05.277843 
+
+ asdd1,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:57:34.999549 
+
+ asdd1,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:59:27.642669 
+
+ asdd1,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:01:17.986822 
+
+ asdd1,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:01:33.687205 
+
+ asdd1,     vn,        <Channel name: shadowkekw>,       2024-11-07 11:03:10.917604 
+
+ asdd1,     th,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.514543 
+
+ asdd1,     Brunei,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.202208 
+
+ asdd1,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 11:05:14.743092 
+
+ asdd1,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 11:09:42.363205 
+
+ asdd1,     di,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.839397 
+
+ asdd1,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.617263 
+
+ asdd1,     de,        <Channel name: shadowkekw>,       2024-11-07 11:14:32.290532 

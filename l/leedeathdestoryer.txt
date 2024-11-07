@@ -1,0 +1,14 @@
+
+ leedeathdestoryer,     !watchtime,        <Channel name: plaqueboymax>,       2024-11-07 09:52:07.563986 
+
+ leedeathdestoryer,     !followage,        <Channel name: plaqueboymax>,       2024-11-07 09:52:13.231901 
+
+ leedeathdestoryer,     #fa,        <Channel name: plaqueboymax>,       2024-11-07 09:52:20.548968 
+
+ leedeathdestoryer,     #fa danny_leesl,        <Channel name: plaqueboymax>,       2024-11-07 09:52:34.947658 
+
+ leedeathdestoryer,     #fa danny_leesk,        <Channel name: plaqueboymax>,       2024-11-07 09:52:44.862152 
+
+ leedeathdestoryer,     !followage danny_leesk,        <Channel name: plaqueboymax>,       2024-11-07 09:53:25.756417 
+
+ leedeathdestoryer,     wwwww,        <Channel name: plaqueboymax>,       2024-11-07 09:54:24.995540 

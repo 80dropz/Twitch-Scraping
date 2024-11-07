@@ -1,2 +1,36 @@
 
  bdbb_cameron,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:04:08.328597 
+
+ bdbb_cameron,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 10:05:00.112390 
+
+ bdbb_cameron,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 10:05:11.260540 
+
+ bdbb_cameron,     L stutter,        <Channel name: kaicenat>,       2024-11-07 10:05:36.936455 
+
+ bdbb_cameron,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:07:21.480498 
+
+ bdbb_cameron,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:07:33.282935 
+
+ bdbb_cameron,     L camera angle,        <Channel name: kaicenat>,       2024-11-07 10:41:09.794839 
+
+ bdbb_cameron,     L CAM YALL ONLY MOVE IT WHEN WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:42:13.656073 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:43:06.051130 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:43:54.180932 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:44:35.792674 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:45:13.404367 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WHEN WE DON’T ASK L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:45:25.843013 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WHEN WE DON’T ASK L PRODUCTION AND YALL AINY READING CHAT FAT LLLLLLLL FOR PRODUCTION TEAM,        <Channel name: kaicenat>,       2024-11-07 10:46:15.334648 
+
+ bdbb_cameron,     L CAM YALL ONLY CHANGE IT WHEN WE DON’T ASK L PRODUCTION AND YALL AINY READING CHAT FAT LLLLLLLL FOR PRODUCTION TEAM,        <Channel name: kaicenat>,       2024-11-07 10:47:20.813700 
+
+ bdbb_cameron,     WE CANT SEE SHIT MILES,        <Channel name: kaicenat>,       2024-11-07 10:47:51.223615 
+
+ bdbb_cameron,     WE CANT SEE U,        <Channel name: kaicenat>,       2024-11-07 10:48:01.339373 
+
+ bdbb_cameron,     STOP SAYING THANK YOU TO THEM BUMS IT TOOK 10+ min for they slow agh to change it,        <Channel name: kaicenat>,       2024-11-07 10:48:36.471258 

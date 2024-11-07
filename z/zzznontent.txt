@@ -12,3 +12,69 @@
  zzznontent,     yeah u got it g,        <Channel name: kaicenat>,       2024-11-07 01:59:53.157010 
 
  zzznontent,     good job,        <Channel name: kaicenat>,       2024-11-07 02:09:30.979625 
+
+ zzznontent,     get up,        <Channel name: kaicenat>,       2024-11-07 11:30:44.977876 
+
+ zzznontent,     zzz,        <Channel name: kaicenat>,       2024-11-07 11:48:34.986466 
+
+ zzznontent,     zzzzz,        <Channel name: kaicenat>,       2024-11-07 11:48:50.320671 
+
+ zzznontent,     NPC of death,        <Channel name: kaicenat>,       2024-11-07 11:52:05.099571 
+
+ zzznontent,     NPC of doom,        <Channel name: kaicenat>,       2024-11-07 11:52:14.824866 
+
+ zzznontent,     NPC of death,        <Channel name: kaicenat>,       2024-11-07 11:52:22.893911 
+
+ zzznontent,     NPC of doom,        <Channel name: kaicenat>,       2024-11-07 11:52:32.456729 
+
+ zzznontent,     zZz,        <Channel name: kaicenat>,       2024-11-07 11:54:11.401828 
+
+ zzznontent,     zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:14.354463 
+
+ zzznontent,     ZZZ,        <Channel name: kaicenat>,       2024-11-07 11:54:19.400538 
+
+ zzznontent,     zZz,        <Channel name: kaicenat>,       2024-11-07 11:54:22.473756 
+
+ zzznontent,     Zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:25.844070 
+
+ zzznontent,     zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:27.225224 
+
+ zzznontent,     Zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:30.762039 
+
+ zzznontent,     zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:33.438798 
+
+ zzznontent,     Zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:36.073619 
+
+ zzznontent,     zzz,        <Channel name: kaicenat>,       2024-11-07 11:54:39.275095 
+
+ zzznontent,     go home,        <Channel name: kaicenat>,       2024-11-07 11:57:24.863491 
+
+ zzznontent,     BOMBAAAAAACLOT,        <Channel name: kaicenat>,       2024-11-07 12:25:29.967524 
+
+ zzznontent,     BOMMMMBACLOTTTT,        <Channel name: kaicenat>,       2024-11-07 12:26:16.842746 
+
+ zzznontent,     BUMBAAAAACLOT,        <Channel name: kaicenat>,       2024-11-07 12:26:30.603056 
+
+ zzznontent,     BRO HOOOOOOW,        <Channel name: kaicenat>,       2024-11-07 12:27:16.387905 
+
+ zzznontent,     BRO HOW ZZZZ,        <Channel name: kaicenat>,       2024-11-07 12:27:28.160629 
+
+ zzznontent,     BRO HOW ZZZ,        <Channel name: kaicenat>,       2024-11-07 12:27:35.958914 
+
+ zzznontent,     BRO HOW ZZZZ,        <Channel name: kaicenat>,       2024-11-07 12:27:43.265313 
+
+ zzznontent,     BRO HOW ZZZ,        <Channel name: kaicenat>,       2024-11-07 12:27:49.035912 
+
+ zzznontent,     NPC OF DOOOOOOOM,        <Channel name: kaicenat>,       2024-11-07 12:29:41.523673 
+
+ zzznontent,     BRO WHAT HOW,        <Channel name: kaicenat>,       2024-11-07 12:31:34.078920 
+
+ zzznontent,     BRO ZZZZZZZ,        <Channel name: kaicenat>,       2024-11-07 12:31:44.339527 
+
+ zzznontent,     BRUH ZZZ,        <Channel name: kaicenat>,       2024-11-07 12:31:52.327298 
+
+ zzznontent,     BRO ZZZZZ,        <Channel name: kaicenat>,       2024-11-07 12:32:00.739391 
+
+ zzznontent,     BRUH ZZZ,        <Channel name: kaicenat>,       2024-11-07 12:32:05.876653 
+
+ zzznontent,     L,        <Channel name: kaicenat>,       2024-11-07 12:33:01.146694 

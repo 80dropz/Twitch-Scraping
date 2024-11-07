@@ -1,0 +1,318 @@
+
+ pribautkin,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:31.738306 
+
+ pribautkin,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:07:51.915744 
+
+ pribautkin,     Montenegra,        <Channel name: shadowkekw>,       2024-11-07 10:07:59.289700 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:35.465996 
+
+ pribautkin,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:10:46.187342 
+
+ pribautkin,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:01.595302 
+
+ pribautkin,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:11:39.087422 
+
+ pribautkin,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.609741 
+
+ pribautkin,     UAI,        <Channel name: shadowkekw>,       2024-11-07 10:12:43.435305 
+
+ pribautkin,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:48.860522 
+
+ pribautkin,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:13:10.089745 
+
+ pribautkin,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.800362 
+
+ pribautkin,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:32.878351 
+
+ pribautkin,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:15:38.628678 
+
+ pribautkin,     Kenia,        <Channel name: shadowkekw>,       2024-11-07 10:15:52.317598 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.585772 
+
+ pribautkin,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.614215 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:16:59.162722 
+
+ pribautkin,     Lenanon,        <Channel name: shadowkekw>,       2024-11-07 10:17:12.907089 
+
+ pribautkin,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.158921 
+
+ pribautkin,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.255800 
+
+ pribautkin,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:17:44.559129 
+
+ pribautkin,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:17:49.852649 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:17:57.511679 
+
+ pribautkin,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:18:01.509090 
+
+ pribautkin,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.359979 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:18:34.769650 
+
+ pribautkin,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:18:49.777309 
+
+ pribautkin,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:19:21.295430 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:19:34.536299 
+
+ pribautkin,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:38.468288 
+
+ pribautkin,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:19:54.089521 
+
+ pribautkin,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:59.225133 
+
+ pribautkin,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:20:06.140717 
+
+ pribautkin,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.363678 
+
+ pribautkin,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:20:20.364856 
+
+ pribautkin,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:20:22.944676 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.316755 
+
+ pribautkin,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.210950 
+
+ pribautkin,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:20:39.526713 
+
+ pribautkin,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:20:42.332671 
+
+ pribautkin,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:58.943821 
+
+ pribautkin,     United Arab Emirates,        <Channel name: shadowkekw>,       2024-11-07 10:21:02.806147 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.291472 
+
+ pribautkin,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:19.669437 
+
+ pribautkin,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:21:37.438875 
+
+ pribautkin,     Sri Lanka,        <Channel name: shadowkekw>,       2024-11-07 10:22:02.223984 
+
+ pribautkin,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.741425 
+
+ pribautkin,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:15.651798 
+
+ pribautkin,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:22:42.151948 
+
+ pribautkin,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:05.471325 
+
+ pribautkin,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:23:08.564417 
+
+ pribautkin,     au,        <Channel name: shadowkekw>,       2024-11-07 10:23:12.445169 
+
+ pribautkin,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.458489 
+
+ pribautkin,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.798627 
+
+ pribautkin,     Malasia,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.280769 
+
+ pribautkin,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:24:01.692398 
+
+ pribautkin,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:24:24.940569 
+
+ pribautkin,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.324392 
+
+ pribautkin,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.889062 
+
+ pribautkin,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:16.695409 
+
+ pribautkin,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.498507 
+
+ pribautkin,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.824597 
+
+ pribautkin,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.140245 
+
+ pribautkin,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:20.958150 
+
+ pribautkin,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.271141 
+
+ pribautkin,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:27:08.404053 
+
+ pribautkin,     au,        <Channel name: shadowkekw>,       2024-11-07 10:28:52.024388 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.870455 
+
+ pribautkin,     Comombia,        <Channel name: shadowkekw>,       2024-11-07 10:29:34.482057 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.641519 
+
+ pribautkin,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:30:57.369997 
+
+ pribautkin,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.019032 
+
+ pribautkin,     dr,        <Channel name: shadowkekw>,       2024-11-07 10:31:57.983685 
+
+ pribautkin,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:32:14.235345 
+
+ pribautkin,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:32:35.931336 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:56.004830 
+
+ pribautkin,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:41.855070 
+
+ pribautkin,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.441332 
+
+ pribautkin,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:54.701897 
+
+ pribautkin,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.739306 
+
+ pribautkin,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:34:57.392294 
+
+ pribautkin,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:35:23.408037 
+
+ pribautkin,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.700406 
+
+ pribautkin,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:04.482422 
+
+ pribautkin,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:36:11.429853 
+
+ pribautkin,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:36:14.958394 
+
+ pribautkin,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:36:46.775772 
+
+ pribautkin,     br,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.156741 
+
+ pribautkin,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.257081 
+
+ pribautkin,     il,        <Channel name: shadowkekw>,       2024-11-07 10:37:13.379953 
+
+ pribautkin,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:24.298617 
+
+ pribautkin,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:37:52.462969 
+
+ pribautkin,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.005675 
+
+ pribautkin,     mt,        <Channel name: shadowkekw>,       2024-11-07 10:38:13.755884 
+
+ pribautkin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:38:32.778875 
+
+ pribautkin,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:38:37.793896 
+
+ pribautkin,     kn,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.066106 
+
+ pribautkin,     au,        <Channel name: shadowkekw>,       2024-11-07 10:39:11.405218 
+
+ pribautkin,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:39:14.841588 
+
+ pribautkin,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:40:03.761797 
+
+ pribautkin,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:40:05.203728 
+
+ pribautkin,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.315773 
+
+ pribautkin,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.080444 
+
+ pribautkin,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:40:47.705583 
+
+ pribautkin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.633108 
+
+ pribautkin,     co,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.183799 
+
+ pribautkin,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:41:07.205660 
+
+ pribautkin,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:41:13.303003 
+
+ pribautkin,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:15.816362 
+
+ pribautkin,     au,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.219176 
+
+ pribautkin,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:41:36.518326 
+
+ pribautkin,     za,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.330999 
+
+ pribautkin,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.687649 
+
+ pribautkin,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:15.069476 
+
+ pribautkin,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:39.690790 
+
+ pribautkin,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:43:14.361707 
+
+ pribautkin,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:43:39.650120 
+
+ pribautkin,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:43:46.298934 
+
+ pribautkin,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.326014 
+
+ pribautkin,     th,        <Channel name: shadowkekw>,       2024-11-07 10:44:34.253052 
+
+ pribautkin,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:35.930960 
+
+ pribautkin,     ad,        <Channel name: shadowkekw>,       2024-11-07 10:44:58.145711 
+
+ pribautkin,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:45:16.840934 
+
+ pribautkin,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:46:37.568957 
+
+ pribautkin,     om,        <Channel name: shadowkekw>,       2024-11-07 10:46:58.470093 
+
+ pribautkin,     es,        <Channel name: shadowkekw>,       2024-11-07 10:47:16.112209 
+
+ pribautkin,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:47:33.296035 
+
+ pribautkin,     re,        <Channel name: shadowkekw>,       2024-11-07 10:47:58.789615 
+
+ pribautkin,     id,        <Channel name: shadowkekw>,       2024-11-07 10:48:19.168776 
+
+ pribautkin,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:35.032601 
+
+ pribautkin,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:49.836981 
+
+ pribautkin,     no,        <Channel name: shadowkekw>,       2024-11-07 10:49:26.106219 
+
+ pribautkin,     jo,        <Channel name: shadowkekw>,       2024-11-07 10:50:21.898539 
+
+ pribautkin,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:50:42.587630 
+
+ pribautkin,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:51:05.255164 
+
+ pribautkin,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:51:30.003124 
+
+ pribautkin,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.863281 
+
+ pribautkin,     do,        <Channel name: shadowkekw>,       2024-11-07 10:52:30.695888 
+
+ pribautkin,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:52:52.656307 
+
+ pribautkin,     id,        <Channel name: shadowkekw>,       2024-11-07 10:53:18.470005 
+
+ pribautkin,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:53:35.117993 
+
+ pribautkin,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:53:56.295033 
+
+ pribautkin,     do,        <Channel name: shadowkekw>,       2024-11-07 10:54:47.713429 
+
+ pribautkin,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.372746 
+
+ pribautkin,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:55:33.027784 
+
+ pribautkin,     sg,        <Channel name: shadowkekw>,       2024-11-07 10:56:17.020376 
+
+ pribautkin,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.178426 
+
+ pribautkin,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:58:19.415180 
+
+ pribautkin,     za,        <Channel name: shadowkekw>,       2024-11-07 11:09:25.110289 
+
+ pribautkin,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.933768 
+
+ pribautkin,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.772584 
+
+ pribautkin,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:10:28.427631 
+
+ pribautkin,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.366315 
+
+ pribautkin,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.435876 
+
+ pribautkin,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:12:42.290681 
+
+ pribautkin,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:12:59.262083 
+
+ pribautkin,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:14:32.428615 
+
+ pribautkin,     MONTANA,        <Channel name: shadowkekw>,       2024-11-07 12:21:55.936243 

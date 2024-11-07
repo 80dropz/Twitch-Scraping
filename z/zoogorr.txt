@@ -1,0 +1,80 @@
+
+ zoogorr,     Icland,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.767203 
+
+ zoogorr,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:49.886807 
+
+ zoogorr,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:13:54.283715 
+
+ zoogorr,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:17:23.325542 
+
+ zoogorr,     France,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.910833 
+
+ zoogorr,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.320366 
+
+ zoogorr,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.379224 
+
+ zoogorr,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.680460 
+
+ zoogorr,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.779540 
+
+ zoogorr,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.863911 
+
+ zoogorr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.684541 
+
+ zoogorr,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.103687 
+
+ zoogorr,     Iclend,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.251338 
+
+ zoogorr,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.163058 
+
+ zoogorr,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.671023 
+
+ zoogorr,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:40:16.681668 
+
+ zoogorr,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:41:02.107917 
+
+ zoogorr,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:41:06.884279 
+
+ zoogorr,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.187347 
+
+ zoogorr,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.611563 
+
+ zoogorr,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.803262 
+
+ zoogorr,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:45:08.334212 
+
+ zoogorr,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.522267 
+
+ zoogorr,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.140423 
+
+ zoogorr,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.458683 
+
+ zoogorr,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.518028 
+
+ zoogorr,     kongo,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.666501 
+
+ zoogorr,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:48:07.576023 
+
+ zoogorr,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.449839 
+
+ zoogorr,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:49:39.907255 
+
+ zoogorr,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:50:08.965673 
+
+ zoogorr,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:34.304538 
+
+ zoogorr,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:50:56.443686 
+
+ zoogorr,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.031607 
+
+ zoogorr,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.652477 
+
+ zoogorr,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.212648 
+
+ zoogorr,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:53:28.575764 
+
+ zoogorr,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:57:39.165363 
+
+ zoogorr,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:01:44.642003 
+
+ zoogorr,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 11:15:01.008332 

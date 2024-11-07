@@ -1,0 +1,12 @@
+
+ rule_breaker,     cmonBruh,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.669288 
+
+ rule_breaker,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.248149 
+
+ rule_breaker,     322,        <Channel name: shadowkekw>,       2024-11-07 11:17:41.870959 
+
+ rule_breaker,     ytn,        <Channel name: shadowkekw>,       2024-11-07 11:17:44.938250 
+
+ rule_breaker,     322,        <Channel name: shadowkekw>,       2024-11-07 11:17:49.544221 
+
+ rule_breaker,     322,        <Channel name: shadowkekw>,       2024-11-07 11:21:08.161205 

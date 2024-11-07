@@ -1,0 +1,16 @@
+
+ frozenprimordial,     L NPC,        <Channel name: kaicenat>,       2024-11-07 09:58:22.593020 
+
+ frozenprimordial,     NPC CLOCKED OUT,        <Channel name: kaicenat>,       2024-11-07 09:58:43.930457 
+
+ frozenprimordial,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:16.978069 
+
+ frozenprimordial,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:15:10.197752 
+
+ frozenprimordial,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:15:15.937772 
+
+ frozenprimordial,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:15:18.580208 
+
+ frozenprimordial,     bro got lost in a different dimension,        <Channel name: kaicenat>,       2024-11-07 10:34:22.669018 
+
+ frozenprimordial,     DONT SAY THAT WORD CHAT,        <Channel name: kaicenat>,       2024-11-07 10:55:04.542577 

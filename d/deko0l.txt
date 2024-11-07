@@ -1,0 +1,162 @@
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:09.910531 
+
+ deko0l,     gonduras,        <Channel name: shadowkekw>,       2024-11-07 10:17:03.178673 
+
+ deko0l,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:17:22.683862 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.051321 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.624200 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:19:29.793178 
+
+ deko0l,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.996073 
+
+ deko0l,     noraway,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.995627 
+
+ deko0l,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:39.145075 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.675111 
+
+ deko0l,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:24:25.693259 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.920182 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.339129 
+
+ deko0l,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.659715 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.495839 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.851231 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.676788 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:29:49.250476 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.595387 
+
+ deko0l,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:22.933137 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:30:33.365762 
+
+ deko0l,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.684548 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.548675 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:33:06.963858 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.605019 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.104694 
+
+ deko0l,     Soain,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.352144 
+
+ deko0l,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.580064 
+
+ deko0l,     Chine,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.221429 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:36:22.080176 
+
+ deko0l,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:38.917582 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.321934 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.194425 
+
+ deko0l,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:38:32.532998 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.920011 
+
+ deko0l,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.342310 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.255391 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:41:25.259048 
+
+ deko0l,     Butan,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.330947 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.425958 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:42:49.788814 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.448908 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.042783 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:44:26.538445 
+
+ deko0l,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:44:27.704090 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:45.158922 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:45:30.038702 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.283056 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:47:08.529759 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.441298 
+
+ deko0l,     LT,        <Channel name: shadowkekw>,       2024-11-07 10:49:18.600338 
+
+ deko0l,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:49:46.212256 
+
+ deko0l,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.024781 
+
+ deko0l,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.011538 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.381848 
+
+ deko0l,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.068984 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:54:07.586564 
+
+ deko0l,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:54:35.283615 
+
+ deko0l,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:55:03.238985 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:55:33.624051 
+
+ deko0l,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.523561 
+
+ deko0l,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:56:58.521938 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:57:52.043810 
+
+ deko0l,     Finland\,        <Channel name: shadowkekw>,       2024-11-07 10:59:27.403687 
+
+ deko0l,     Albania,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.879557 
+
+ deko0l,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 11:03:56.538258 
+
+ deko0l,     Cambodga,        <Channel name: shadowkekw>,       2024-11-07 11:05:00.920728 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 11:06:57.298430 
+
+ deko0l,     Butan,        <Channel name: shadowkekw>,       2024-11-07 11:07:57.580617 
+
+ deko0l,     France,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.283120 
+
+ deko0l,     Wales,        <Channel name: shadowkekw>,       2024-11-07 11:10:14.427548 
+
+ deko0l,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.223850 
+
+ deko0l,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:10:38.878945 
+
+ deko0l,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:11:01.753738 
+
+ deko0l,     Wales,        <Channel name: shadowkekw>,       2024-11-07 11:11:10.445731 
+
+ deko0l,     JaPAN,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.003015 
+
+ deko0l,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 11:12:56.990569 
+
+ deko0l,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.076515 
+
+ deko0l,     Wales,        <Channel name: shadowkekw>,       2024-11-07 11:14:26.905713 
+
+ deko0l,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:19:59.958040 
+
+ deko0l,     hi moder,        <Channel name: shadowkekw>,       2024-11-07 11:43:14.973735 

@@ -1,0 +1,6 @@
+
+ 34zack_5rix,     bot,        <Channel name: kaicenat>,       2024-11-07 12:17:55.480441 
+
+ 34zack_5rix,     Bot,        <Channel name: kaicenat>,       2024-11-07 12:18:01.254210 
+
+ 34zack_5rix,     BOT,        <Channel name: kaicenat>,       2024-11-07 12:18:12.633675 

@@ -1,0 +1,6 @@
+
+ ajsoken,     sus,        <Channel name: lacy>,       2024-11-07 12:37:04.936101 
+
+ ajsoken,     0,        <Channel name: lacy>,       2024-11-07 12:39:23.773693 
+
+ ajsoken,     uuh,        <Channel name: lacy>,       2024-11-07 12:41:16.778481 

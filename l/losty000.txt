@@ -1,2 +1,8 @@
 
  losty000,     100 gifted,        <Channel name: kaicenat>,       2024-11-07 09:39:08.922000 
+
+ losty000,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:52:11.237187 
+
+ losty000,     !roulette 6000,        <Channel name: kaicenat>,       2024-11-07 09:52:20.422873 
+
+ losty000,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:52:31.967760 

@@ -1,0 +1,32 @@
+
+ vovchatyi,     ispania,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.093630 
+
+ vovchatyi,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:40.613347 
+
+ vovchatyi,     new ziland,        <Channel name: shadowkekw>,       2024-11-07 10:08:33.176736 
+
+ vovchatyi,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:01.815062 
+
+ vovchatyi,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:34.511451 
+
+ vovchatyi,     Ispani,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.575812 
+
+ vovchatyi,     Miami,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.297516 
+
+ vovchatyi,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.606779 
+
+ vovchatyi,     Afrika,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.478074 
+
+ vovchatyi,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:13:41.978850 
+
+ vovchatyi,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.222794 
+
+ vovchatyi,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:16:35.434525 
+
+ vovchatyi,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:17:59.863094 
+
+ vovchatyi,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.800595 
+
+ vovchatyi,     Germant,        <Channel name: shadowkekw>,       2024-11-07 10:19:57.947368 
+
+ vovchatyi,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.016743 

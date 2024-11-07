@@ -4,3 +4,5 @@
  neo_ta,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:23:12.343859 
 
  neo_ta,     LUL,        <Channel name: kaicenat>,       2024-11-07 09:29:05.909238 
+
+ neo_ta,     bro be careful he might get super pissed lol,        <Channel name: kaicenat>,       2024-11-07 13:26:55.195003 

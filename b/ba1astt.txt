@@ -1,0 +1,12 @@
+
+ ba1astt,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.149868 
+
+ ba1astt,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.123117 
+
+ ba1astt,     Texas,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.019044 
+
+ ba1astt,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:48.598258 
+
+ ba1astt,     Guatemlla,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.055706 
+
+ ba1astt,     Lesotto,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.445662 

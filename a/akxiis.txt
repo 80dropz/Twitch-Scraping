@@ -1,0 +1,8 @@
+
+ akxiis,     akxiisHi akxiisHi,        <Channel name: kaicenat>,       2024-11-07 10:17:31.294325 
+
+ akxiis,     !point,        <Channel name: kaicenat>,       2024-11-07 10:18:29.980128 
+
+ akxiis,     !point,        <Channel name: kaicenat>,       2024-11-07 10:19:20.899755 
+
+ akxiis,     !points,        <Channel name: kaicenat>,       2024-11-07 10:19:46.009111 

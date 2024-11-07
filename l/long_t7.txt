@@ -1,2 +1,6 @@
 
  long_t7,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:07:41.129847 
+
+ long_t7,     WW,        <Channel name: kaicenat>,       2024-11-07 11:31:52.229658 
+
+ long_t7,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:20:55.785312 

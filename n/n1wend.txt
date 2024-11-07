@@ -1,2 +1,12 @@
 
  n1wend,     ky,        <Channel name: shadowkekw>,       2024-11-07 09:12:04.697442 
+
+ n1wend,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:07:25.720309 
+
+ n1wend,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:07:29.671654 
+
+ n1wend,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:08:14.166465 
+
+ n1wend,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.872575 
+
+ n1wend,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.735795 

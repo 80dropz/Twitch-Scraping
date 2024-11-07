@@ -1,0 +1,6 @@
+
+ berli_tt,     100,        <Channel name: shadowkekw>,       2024-11-07 12:32:47.872616 
+
+ berli_tt,     52,        <Channel name: shadowkekw>,       2024-11-07 12:42:07.794403 
+
+ berli_tt,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:43:13.010785 

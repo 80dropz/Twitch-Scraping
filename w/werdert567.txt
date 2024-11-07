@@ -1,0 +1,6 @@
+
+ werdert567,     he's 15,        <Channel name: mongraal>,       2024-11-07 12:21:47.693293 
+
+ werdert567,     !delay,        <Channel name: mongraal>,       2024-11-07 12:22:29.111092 
+
+ werdert567,     grotto,        <Channel name: clix>,       2024-11-07 13:14:17.559143 

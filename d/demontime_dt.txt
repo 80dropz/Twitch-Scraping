@@ -70,3 +70,13 @@
  demontime_dt,     DARK KNIGHT IS THE GREATEST MOVIE OF ALL TIME PERIOD,        <Channel name: swagg>,       2024-11-07 02:53:19.497083 
 
  demontime_dt,     nothing is better than dark knight,        <Channel name: swagg>,       2024-11-07 02:53:49.732584 
+
+ demontime_dt,     gotta do Howlin Rays hottest level,        <Channel name: swagg>,       2024-11-07 12:27:19.937406 
+
+ demontime_dt,     why didn’t you do it at 6k,        <Channel name: swagg>,       2024-11-07 12:27:56.376474 
+
+ demontime_dt,     dexterity is not better than gung ho,        <Channel name: swagg>,       2024-11-07 12:31:03.542505 
+
+ demontime_dt,     not a single thing edible on the entire mcdonald’s menu. whole thing is dogshit,        <Channel name: swagg>,       2024-11-07 12:59:03.728640 
+
+ demontime_dt,     chicken nuggets,        <Channel name: swagg>,       2024-11-07 13:02:26.912675 

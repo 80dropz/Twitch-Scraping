@@ -8,3 +8,7 @@
  jweezy_04,     83,        <Channel name: kaicenat>,       2024-11-07 02:06:34.910738 
 
  jweezy_04,     90,        <Channel name: kaicenat>,       2024-11-07 02:07:29.670923 
+
+ jweezy_04,     NO,        <Channel name: kaicenat>,       2024-11-07 13:16:04.608461 
+
+ jweezy_04,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:16:15.614719 

@@ -1,0 +1,16 @@
+
+ ct0mxgod,     China,        <Channel name: shadowkekw>,       2024-11-07 10:24:07.415434 
+
+ ct0mxgod,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:03.840518 
+
+ ct0mxgod,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:43.758366 
+
+ ct0mxgod,     china,        <Channel name: shadowkekw>,       2024-11-07 10:32:37.891149 
+
+ ct0mxgod,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:34.934180 
+
+ ct0mxgod,     usas,        <Channel name: shadowkekw>,       2024-11-07 10:34:36.398361 
+
+ ct0mxgod,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:35:25.973214 
+
+ ct0mxgod,     india,        <Channel name: shadowkekw>,       2024-11-07 10:35:28.284508 

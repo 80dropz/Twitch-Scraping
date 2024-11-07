@@ -1,0 +1,80 @@
+
+ peppapig_p,     HI HI,        <Channel name: lacy>,       2024-11-07 12:34:17.859370 
+
+ peppapig_p,     AYO,        <Channel name: lacy>,       2024-11-07 12:37:44.445823 
+
+ peppapig_p,     CAUGHT,        <Channel name: lacy>,       2024-11-07 12:37:50.841001 
+
+ peppapig_p,     YES,        <Channel name: lacy>,       2024-11-07 12:38:52.319337 
+
+ peppapig_p,     3,        <Channel name: lacy>,       2024-11-07 12:39:11.328465 
+
+ peppapig_p,     L SHOES,        <Channel name: lacy>,       2024-11-07 12:39:26.314672 
+
+ peppapig_p,     classic,        <Channel name: lacy>,       2024-11-07 12:41:40.007977 
+
+ peppapig_p,     classic classic,        <Channel name: lacy>,       2024-11-07 12:41:51.576388 
+
+ peppapig_p,     we wamnt lina,        <Channel name: lacy>,       2024-11-07 12:47:55.958801 
+
+ peppapig_p,     WE WANT LINA,        <Channel name: lacy>,       2024-11-07 12:48:07.676607 
+
+ peppapig_p,     FUKC YOU,        <Channel name: lacy>,       2024-11-07 12:48:24.420534 
+
+ peppapig_p,     NOOOOOOOOOOO,        <Channel name: lacy>,       2024-11-07 12:48:39.449437 
+
+ peppapig_p,     NOOOOO,        <Channel name: lacy>,       2024-11-07 12:48:45.696059 
+
+ peppapig_p,     NOOOOOOOO,        <Channel name: lacy>,       2024-11-07 12:48:50.202884 
+
+ peppapig_p,     BYE,        <Channel name: lacy>,       2024-11-07 12:49:38.442888 
+
+ peppapig_p,     FUCK IFF BVYE,        <Channel name: lacy>,       2024-11-07 12:49:50.986560 
+
+ peppapig_p,     TAWAY,        <Channel name: lacy>,       2024-11-07 12:50:09.207980 
+
+ peppapig_p,     TAWAY .,        <Channel name: lacy>,       2024-11-07 12:50:20.737219 
+
+ peppapig_p,     ANNA,        <Channel name: lacy>,       2024-11-07 12:50:26.336688 
+
+ peppapig_p,     AN,        <Channel name: lacy>,       2024-11-07 12:50:34.954813 
+
+ peppapig_p,     NA,        <Channel name: lacy>,       2024-11-07 12:50:41.486061 
+
+ peppapig_p,     WW,        <Channel name: lacy>,       2024-11-07 12:51:10.126122 
+
+ peppapig_p,     LL,        <Channel name: lacy>,       2024-11-07 12:51:31.209762 
+
+ peppapig_p,     ...........,        <Channel name: lacy>,       2024-11-07 12:52:03.375988 
+
+ peppapig_p,     ........,        <Channel name: lacy>,       2024-11-07 12:52:07.223041 
+
+ peppapig_p,     @AntiConned SAME,        <Channel name: lacy>,       2024-11-07 12:54:28.543477 
+
+ peppapig_p,     @AntiConned WE NEED A NUT COUNTER,        <Channel name: lacy>,       2024-11-07 12:55:03.777352 
+
+ peppapig_p,     w stream,        <Channel name: lacy>,       2024-11-07 12:57:20.336542 
+
+ peppapig_p,     BYE BYE,        <Channel name: lacy>,       2024-11-07 12:57:34.096543 
+
+ peppapig_p,     @jdxmon ome5,        <Channel name: lacy>,       2024-11-07 12:58:23.322399 
+
+ peppapig_p,     yers,        <Channel name: lacy>,       2024-11-07 12:59:13.702111 
+
+ peppapig_p,     yess,        <Channel name: lacy>,       2024-11-07 12:59:20.379623 
+
+ peppapig_p,     finally,        <Channel name: lacy>,       2024-11-07 12:59:33.914918 
+
+ peppapig_p,     jorkin,        <Channel name: lacy>,       2024-11-07 13:01:06.741690 
+
+ peppapig_p,     jorlin,        <Channel name: lacy>,       2024-11-07 13:01:16.286436 
+
+ peppapig_p,     jorkin jorkin,        <Channel name: lacy>,       2024-11-07 13:01:42.973051 
+
+ peppapig_p,     jorkinr nur,        <Channel name: lacy>,       2024-11-07 13:02:01.386899 
+
+ peppapig_p,     black,        <Channel name: lacy>,       2024-11-07 13:02:51.845279 
+
+ peppapig_p,     NBAKJED,        <Channel name: lacy>,       2024-11-07 13:03:02.116304 
+
+ peppapig_p,     yes,        <Channel name: lacy>,       2024-11-07 13:36:36.833522 

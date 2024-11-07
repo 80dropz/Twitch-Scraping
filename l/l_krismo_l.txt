@@ -1,0 +1,98 @@
+
+ l_krismo_l,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:07:45.393396 
+
+ l_krismo_l,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:10.731334 
+
+ l_krismo_l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:29.392069 
+
+ l_krismo_l,     Maldives,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.843947 
+
+ l_krismo_l,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:12:40.899571 
+
+ l_krismo_l,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:13:01.624944 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.860191 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:15:07.977907 
+
+ l_krismo_l,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.154931 
+
+ l_krismo_l,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.666114 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:16:32.708843 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:17:43.546752 
+
+ l_krismo_l,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:17:55.552155 
+
+ l_krismo_l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.508718 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:19:16.702787 
+
+ l_krismo_l,     Chilli,        <Channel name: shadowkekw>,       2024-11-07 10:19:39.766528 
+
+ l_krismo_l,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.059685 
+
+ l_krismo_l,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:02.351786 
+
+ l_krismo_l,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.615985 
+
+ l_krismo_l,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:21:08.051195 
+
+ l_krismo_l,     India,        <Channel name: shadowkekw>,       2024-11-07 10:21:34.378608 
+
+ l_krismo_l,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:21:47.209289 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:22:05.759258 
+
+ l_krismo_l,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.659210 
+
+ l_krismo_l,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:22:51.657006 
+
+ l_krismo_l,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.160286 
+
+ l_krismo_l,     Filipino,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.194671 
+
+ l_krismo_l,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.363131 
+
+ l_krismo_l,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.762555 
+
+ l_krismo_l,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:25:21.315127 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.325538 
+
+ l_krismo_l,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.034180 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.404831 
+
+ l_krismo_l,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:27:19.506009 
+
+ l_krismo_l,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.924134 
+
+ l_krismo_l,     France,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.870572 
+
+ l_krismo_l,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.033826 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.048359 
+
+ l_krismo_l,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:29:55.752254 
+
+ l_krismo_l,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.473644 
+
+ l_krismo_l,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.774683 
+
+ l_krismo_l,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:37:37.018558 
+
+ l_krismo_l,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:24.537277 
+
+ l_krismo_l,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.959933 
+
+ l_krismo_l,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:02:02.406298 
+
+ l_krismo_l,     Romania,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.868132 
+
+ l_krismo_l,     Livia,        <Channel name: shadowkekw>,       2024-11-07 11:04:43.728363 
+
+ l_krismo_l,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 11:07:56.575898 
+
+ l_krismo_l,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 11:15:16.111288 

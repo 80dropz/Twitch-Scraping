@@ -1,0 +1,4 @@
+
+ tequilateggan,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 11:17:11.786250 
+
+ tequilateggan,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:19:14.889560 

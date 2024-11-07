@@ -1,0 +1,22 @@
+
+ kogkap,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:42:55.780422 
+
+ kogkap,     litwa,        <Channel name: shadowkekw>,       2024-11-07 10:43:11.067408 
+
+ kogkap,     gonduras,        <Channel name: shadowkekw>,       2024-11-07 10:43:39.860378 
+
+ kogkap,     america,        <Channel name: shadowkekw>,       2024-11-07 10:45:17.398418 
+
+ kogkap,     uganda,        <Channel name: shadowkekw>,       2024-11-07 10:45:37.320577 
+
+ kogkap,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:46:12.202840 
+
+ kogkap,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:31.077466 
+
+ kogkap,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:48:56.804100 
+
+ kogkap,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:49:13.359019 
+
+ kogkap,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:49:28.364128 
+
+ kogkap,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:50:14.582380 

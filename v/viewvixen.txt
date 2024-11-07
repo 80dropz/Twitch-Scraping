@@ -1,0 +1,6 @@
+
+ viewvixen,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:37.175132 
+
+ viewvixen,     CAUGHT  CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:27:04.722561 
+
+ viewvixen,     W,        <Channel name: kaicenat>,       2024-11-07 13:33:37.479556 

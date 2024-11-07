@@ -1,0 +1,4 @@
+
+ maxsimonsson1,     !crosshair,        <Channel name: mrlust>,       2024-11-07 12:33:25.575573 
+
+ maxsimonsson1,     !res,        <Channel name: mrlust>,       2024-11-07 12:34:24.842552 

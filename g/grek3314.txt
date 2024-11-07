@@ -1,0 +1,30 @@
+
+ grek3314,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:57:15.236364 
+
+ grek3314,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:57:56.300000 
+
+ grek3314,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:58:38.802756 
+
+ grek3314,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:01:17.825673 
+
+ grek3314,     cairn,        <Channel name: shadowkekw>,       2024-11-07 11:01:56.011531 
+
+ grek3314,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:03:18.279744 
+
+ grek3314,     PERU,        <Channel name: shadowkekw>,       2024-11-07 11:04:23.766288 
+
+ grek3314,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:05:50.911254 
+
+ grek3314,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:07:55.416724 
+
+ grek3314,     Oman,        <Channel name: shadowkekw>,       2024-11-07 11:09:37.122120 
+
+ grek3314,     Bahrain,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.749393 
+
+ grek3314,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:12:58.970504 
+
+ grek3314,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 11:13:48.443434 
+
+ grek3314,     Costa Rica,        <Channel name: shadowkekw>,       2024-11-07 11:14:07.290963 
+
+ grek3314,     Ww,        <Channel name: shadowkekw>,       2024-11-07 11:53:51.630759 

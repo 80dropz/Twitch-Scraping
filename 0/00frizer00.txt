@@ -1,0 +1,86 @@
+
+ 00frizer00,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.821313 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:44:16.849338 
+
+ 00frizer00,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.531282 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.519426 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.703681 
+
+ 00frizer00,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:50:07.858082 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 10:50:46.235815 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:51:19.694893 
+
+ 00frizer00,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:51:36.518384 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.592076 
+
+ 00frizer00,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.791075 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 10:53:32.740758 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:48.662690 
+
+ 00frizer00,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:55:04.637174 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.810941 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:55:48.697514 
+
+ 00frizer00,     hg,        <Channel name: shadowkekw>,       2024-11-07 10:56:12.755779 
+
+ 00frizer00,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:56:33.714542 
+
+ 00frizer00,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.147742 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 10:57:58.612808 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:02:01.870525 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:03:29.403566 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:04:18.513865 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:05:40.815387 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.852465 
+
+ 00frizer00,     do,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.553632 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:06:31.136433 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:06:51.071672 
+
+ 00frizer00,     do,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.770068 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.978290 
+
+ 00frizer00,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:10:38.872951 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:10:54.467913 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.908045 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.681892 
+
+ 00frizer00,     co,        <Channel name: shadowkekw>,       2024-11-07 11:11:54.584031 
+
+ 00frizer00,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.260446 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:12:24.439228 
+
+ 00frizer00,     do,        <Channel name: shadowkekw>,       2024-11-07 11:13:07.701389 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:13:09.103983 
+
+ 00frizer00,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:13:10.359305 
+
+ 00frizer00,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:13:14.029010 
+
+ 00frizer00,     za,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.206610 
+
+ 00frizer00,     do,        <Channel name: shadowkekw>,       2024-11-07 11:13:24.882776 

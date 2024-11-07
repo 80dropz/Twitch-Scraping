@@ -1,0 +1,4 @@
+
+ qurt_je,     when is the finals?,        <Channel name: mongraal>,       2024-11-07 11:15:07.777867 
+
+ qurt_je,     guys, when is the finals??,        <Channel name: mongraal>,       2024-11-07 11:16:40.370882 

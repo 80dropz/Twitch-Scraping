@@ -1,0 +1,4 @@
+
+ mxfc_27,     WAKE UPPP,        <Channel name: clix>,       2024-11-07 12:22:07.137626 
+
+ mxfc_27,     clix=dork,        <Channel name: clix>,       2024-11-07 12:22:35.686996 

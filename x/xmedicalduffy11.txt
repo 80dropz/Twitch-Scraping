@@ -6,3 +6,7 @@
  xmedicalduffy11,     !watchtime,        <Channel name: ricci>,       2024-11-07 09:40:12.388252 
 
  xmedicalduffy11,     @doggoghillie YES,        <Channel name: ricci>,       2024-11-07 09:42:09.284248 
+
+ xmedicalduffy11,     what lvl you at?,        <Channel name: swagg>,       2024-11-07 12:49:12.445059 
+
+ xmedicalduffy11,     Big back activities,        <Channel name: swagg>,       2024-11-07 12:57:32.137845 

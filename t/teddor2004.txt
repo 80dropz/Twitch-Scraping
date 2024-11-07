@@ -1,0 +1,12 @@
+
+ teddor2004,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:11.140559 
+
+ teddor2004,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:17:30.149003 
+
+ teddor2004,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:44.701646 
+
+ teddor2004,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:19:09.441424 
+
+ teddor2004,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:19:38.816085 
+
+ teddor2004,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:23:44.300704 

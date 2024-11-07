@@ -1,0 +1,18 @@
+
+ i1057,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.070222 
+
+ i1057,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.287313 
+
+ i1057,     bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:52:28.694992 
+
+ i1057,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:52:45.653137 
+
+ i1057,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:53:11.321350 
+
+ i1057,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:54:41.037930 
+
+ i1057,     togo,        <Channel name: shadowkekw>,       2024-11-07 10:57:48.202164 
+
+ i1057,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 10:58:41.193166 
+
+ i1057,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:04:43.657733 

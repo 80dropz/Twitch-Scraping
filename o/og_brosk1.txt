@@ -1,2 +1,10 @@
 
  og_brosk1,     lf,        <Channel name: shadowkekw>,       2024-11-07 09:25:26.438917 
+
+ og_brosk1,     https://www.twitch.tv/fruktozka/clip/GoodCallousChamoisDoggo--ngyjpiRfL6HUYgN,        <Channel name: shadowkekw>,       2024-11-07 12:49:47.687154 
+
+ og_brosk1,     @shadowkekw  https://www.twitch.tv/fruktozka/clip/GoodCallousChamoisDoggo--ngyjpiRfL6HUYgN,        <Channel name: shadowkekw>,       2024-11-07 12:50:46.427743 
+
+ og_brosk1,     https://www.twitch.tv/fruktozka/clip/GoodCallousChamoisDoggo--ngyjpiRfL6HUYgN,        <Channel name: shadowkekw>,       2024-11-07 12:51:32.895047 
+
+ og_brosk1,     https://www.twitch.tv/fruktozka/clip/GoodCallousChamoisDoggo--ngyjpiRfL6HUYgN  @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:53:08.299007 

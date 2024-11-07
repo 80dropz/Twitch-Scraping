@@ -1,0 +1,12 @@
+
+ melcidor,     !colorblind,        <Channel name: mongraal>,       2024-11-07 11:16:07.897344 
+
+ melcidor,     !brightness,        <Channel name: mongraal>,       2024-11-07 11:16:16.301124 
+
+ melcidor,     !nvidia,        <Channel name: mongraal>,       2024-11-07 11:17:35.209683 
+
+ melcidor,     !settings,        <Channel name: mongraal>,       2024-11-07 11:17:43.696744 
+
+ melcidor,     settings,        <Channel name: mongraal>,       2024-11-07 11:34:19.025036 
+
+ melcidor,     !settings,        <Channel name: mongraal>,       2024-11-07 11:34:25.302367 

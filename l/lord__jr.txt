@@ -1,0 +1,30 @@
+
+ lord__jr,     hi,        <Channel name: lacy>,       2024-11-07 12:34:22.973896 
+
+ lord__jr,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:38:23.816948 
+
+ lord__jr,     0,        <Channel name: lacy>,       2024-11-07 12:39:08.780101 
+
+ lord__jr,     no,        <Channel name: lacy>,       2024-11-07 12:45:43.894770 
+
+ lord__jr,     uuh,        <Channel name: lacy>,       2024-11-07 12:46:52.458002 
+
+ lord__jr,     NOOOO,        <Channel name: lacy>,       2024-11-07 12:49:06.766567 
+
+ lord__jr,     bye,        <Channel name: lacy>,       2024-11-07 12:49:20.197546 
+
+ lord__jr,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:50:27.332891 
+
+ lord__jr,     uuh,        <Channel name: lacy>,       2024-11-07 12:51:21.116373 
+
+ lord__jr,     LL,        <Channel name: lacy>,       2024-11-07 12:51:23.724851 
+
+ lord__jr,     cmonBruh,        <Channel name: lacy>,       2024-11-07 12:55:55.060997 
+
+ lord__jr,     yes,        <Channel name: lacy>,       2024-11-07 12:56:47.249173 
+
+ lord__jr,     bye,        <Channel name: lacy>,       2024-11-07 12:57:29.920197 
+
+ lord__jr,     WW stream,        <Channel name: lacy>,       2024-11-07 12:57:38.765006 
+
+ lord__jr,     classic,        <Channel name: lacy>,       2024-11-07 12:59:36.599232 

@@ -1,0 +1,18 @@
+
+ silverrhd,     ETG,        <Channel name: nadeshot>,       2024-11-07 12:05:51.361291 
+
+ silverrhd,     KEKW,        <Channel name: nadeshot>,       2024-11-07 12:07:42.615815 
+
+ silverrhd,     LOL,        <Channel name: nadeshot>,       2024-11-07 12:08:45.289182 
+
+ silverrhd,     lol,        <Channel name: nadeshot>,       2024-11-07 12:11:39.868280 
+
+ silverrhd,     KEKW,        <Channel name: nadeshot>,       2024-11-07 12:12:50.417501 
+
+ silverrhd,     om,        <Channel name: nadeshot>,       2024-11-07 12:12:53.586588 
+
+ silverrhd,     lul,        <Channel name: nadeshot>,       2024-11-07 12:13:02.489327 
+
+ silverrhd,     XD,        <Channel name: nadeshot>,       2024-11-07 12:14:55.426224 
+
+ silverrhd,     hey,        <Channel name: nadeshot>,       2024-11-07 12:16:52.679646 

@@ -1,0 +1,6 @@
+
+ ice_size_2,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.400385 
+
+ ice_size_2,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:21:12.924011 
+
+ ice_size_2,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.144762 

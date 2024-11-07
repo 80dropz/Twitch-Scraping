@@ -1,0 +1,2 @@
+
+ itsvamo,     Is there a fix for directx crash?,        <Channel name: swagg>,       2024-11-07 11:28:58.604217 

@@ -1,0 +1,274 @@
+
+ dezzzy4,     Marocco,        <Channel name: shadowkekw>,       2024-11-07 10:22:33.524526 
+
+ dezzzy4,     France,        <Channel name: shadowkekw>,       2024-11-07 10:22:40.027028 
+
+ dezzzy4,     Romanian,        <Channel name: shadowkekw>,       2024-11-07 10:22:43.373594 
+
+ dezzzy4,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:22:45.038494 
+
+ dezzzy4,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:59.331178 
+
+ dezzzy4,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:23:05.639020 
+
+ dezzzy4,     ohio,        <Channel name: shadowkekw>,       2024-11-07 10:23:10.301301 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:23:23.359180 
+
+ dezzzy4,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:23:26.126245 
+
+ dezzzy4,     Prague,        <Channel name: shadowkekw>,       2024-11-07 10:23:27.531925 
+
+ dezzzy4,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:24:05.533356 
+
+ dezzzy4,     Great britan,        <Channel name: shadowkekw>,       2024-11-07 10:24:51.871394 
+
+ dezzzy4,     London,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.245215 
+
+ dezzzy4,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.197922 
+
+ dezzzy4,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:25:52.396377 
+
+ dezzzy4,     Itale,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.658192 
+
+ dezzzy4,     Boston,        <Channel name: shadowkekw>,       2024-11-07 10:26:07.389167 
+
+ dezzzy4,     Marocco,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.573925 
+
+ dezzzy4,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.359148 
+
+ dezzzy4,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:21.566127 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.475574 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.362839 
+
+ dezzzy4,     Chehia,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.206068 
+
+ dezzzy4,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.183053 
+
+ dezzzy4,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:29:12.965662 
+
+ dezzzy4,     London,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.052378 
+
+ dezzzy4,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.095470 
+
+ dezzzy4,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.290544 
+
+ dezzzy4,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.268301 
+
+ dezzzy4,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.556999 
+
+ dezzzy4,     Grece,        <Channel name: shadowkekw>,       2024-11-07 10:32:12.520668 
+
+ dezzzy4,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:14.377103 
+
+ dezzzy4,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.439141 
+
+ dezzzy4,     New z,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.384124 
+
+ dezzzy4,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.780394 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:33:33.325348 
+
+ dezzzy4,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.064151 
+
+ dezzzy4,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:27.632238 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:34:43.755931 
+
+ dezzzy4,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.700585 
+
+ dezzzy4,     Quba,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.844906 
+
+ dezzzy4,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:57.779680 
+
+ dezzzy4,     morocco,        <Channel name: shadowkekw>,       2024-11-07 10:35:22.840902 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.544854 
+
+ dezzzy4,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:35:37.519611 
+
+ dezzzy4,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.604804 
+
+ dezzzy4,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.532572 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:35:58.823801 
+
+ dezzzy4,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:08.880207 
+
+ dezzzy4,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:36:46.130478 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.272864 
+
+ dezzzy4,     il,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.390786 
+
+ dezzzy4,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:18.805808 
+
+ dezzzy4,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:23.974957 
+
+ dezzzy4,     geswe,        <Channel name: shadowkekw>,       2024-11-07 10:37:35.155210 
+
+ dezzzy4,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.898306 
+
+ dezzzy4,     lx,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.049494 
+
+ dezzzy4,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:38:32.683218 
+
+ dezzzy4,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.987492 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:39:46.031610 
+
+ dezzzy4,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:39:51.282002 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:40:15.335160 
+
+ dezzzy4,     sm,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.886413 
+
+ dezzzy4,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:35.186184 
+
+ dezzzy4,     co,        <Channel name: shadowkekw>,       2024-11-07 10:40:59.240303 
+
+ dezzzy4,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:41:02.238439 
+
+ dezzzy4,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.645235 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:41:27.310208 
+
+ dezzzy4,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:51.316003 
+
+ dezzzy4,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:41:54.841290 
+
+ dezzzy4,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:42:05.183073 
+
+ dezzzy4,     a,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.892194 
+
+ dezzzy4,     co,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.669849 
+
+ dezzzy4,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.416828 
+
+ dezzzy4,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.176159 
+
+ dezzzy4,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:39.197293 
+
+ dezzzy4,     luxemburg,        <Channel name: shadowkekw>,       2024-11-07 10:43:11.981204 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.262428 
+
+ dezzzy4,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:43:33.920962 
+
+ dezzzy4,     china,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.966586 
+
+ dezzzy4,     co,        <Channel name: shadowkekw>,       2024-11-07 10:43:55.401072 
+
+ dezzzy4,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:43:58.346441 
+
+ dezzzy4,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.670016 
+
+ dezzzy4,     china,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.692091 
+
+ dezzzy4,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:44:31.984393 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.788817 
+
+ dezzzy4,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:44:48.958933 
+
+ dezzzy4,     london,        <Channel name: shadowkekw>,       2024-11-07 10:44:53.741301 
+
+ dezzzy4,     co,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.633110 
+
+ dezzzy4,     ze,        <Channel name: shadowkekw>,       2024-11-07 10:46:49.742015 
+
+ dezzzy4,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.251220 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:49:30.948651 
+
+ dezzzy4,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:49:56.894893 
+
+ dezzzy4,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:33.572823 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.516442 
+
+ dezzzy4,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:51:24.290058 
+
+ dezzzy4,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:58:16.061513 
+
+ dezzzy4,     it,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.828262 
+
+ dezzzy4,     singapyre,        <Channel name: shadowkekw>,       2024-11-07 11:00:59.082196 
+
+ dezzzy4,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:01:42.173684 
+
+ dezzzy4,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:05:28.680973 
+
+ dezzzy4,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:33.695234 
+
+ dezzzy4,     ig,        <Channel name: shadowkekw>,       2024-11-07 11:05:37.585201 
+
+ dezzzy4,     it,        <Channel name: shadowkekw>,       2024-11-07 11:05:39.505782 
+
+ dezzzy4,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:43.473259 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 11:05:44.751352 
+
+ dezzzy4,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:05:48.822715 
+
+ dezzzy4,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.876603 
+
+ dezzzy4,     ig,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.320995 
+
+ dezzzy4,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.768224 
+
+ dezzzy4,     nz,        <Channel name: shadowkekw>,       2024-11-07 11:06:16.585993 
+
+ dezzzy4,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:06:31.761763 
+
+ dezzzy4,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:07:10.262528 
+
+ dezzzy4,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:07:51.810930 
+
+ dezzzy4,     au,        <Channel name: shadowkekw>,       2024-11-07 11:07:56.903349 
+
+ dezzzy4,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.859008 
+
+ dezzzy4,     kn,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.284082 
+
+ dezzzy4,     co,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.837850 
+
+ dezzzy4,     th,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.137641 
+
+ dezzzy4,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.368976 
+
+ dezzzy4,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:10:29.378499 
+
+ dezzzy4,     do,        <Channel name: shadowkekw>,       2024-11-07 11:10:52.615748 
+
+ dezzzy4,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.068641 
+
+ dezzzy4,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:11:29.468186 
+
+ dezzzy4,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:57.186038 
+
+ dezzzy4,     gb,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.061673 
+
+ dezzzy4,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.856513 
+
+ dezzzy4,     we,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.421811 
+
+ dezzzy4,     iv,        <Channel name: shadowkekw>,       2024-11-07 11:12:29.915801 
+
+ dezzzy4,     as,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.734583 
+
+ dezzzy4,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:12:46.943937 
+
+ dezzzy4,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:12:49.837094 
+
+ dezzzy4,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:13:02.018411 
+
+ dezzzy4,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:13:28.803571 
+
+ dezzzy4,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:13:52.188215 
+
+ dezzzy4,     ik,        <Channel name: shadowkekw>,       2024-11-07 11:13:55.345686 
+
+ dezzzy4,     de,        <Channel name: shadowkekw>,       2024-11-07 11:14:02.890549 

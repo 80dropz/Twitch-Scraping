@@ -1,2 +1,12 @@
 
  chelzkww,     200,        <Channel name: shadowkekw>,       2024-11-07 09:36:44.273406 
+
+ chelzkww,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:23.925225 
+
+ chelzkww,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:45.307954 
+
+ chelzkww,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:24.980878 
+
+ chelzkww,     Indai,        <Channel name: shadowkekw>,       2024-11-07 10:13:33.451927 
+
+ chelzkww,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.673039 

@@ -1,0 +1,14 @@
+
+ mason1010cash,     u,        <Channel name: lacy>,       2024-11-07 12:21:34.226764 
+
+ mason1010cash,     r,        <Channel name: lacy>,       2024-11-07 12:21:37.251539 
+
+ mason1010cash,     a,        <Channel name: lacy>,       2024-11-07 12:21:41.950027 
+
+ mason1010cash,     p,        <Channel name: lacy>,       2024-11-07 12:21:45.353527 
+
+ mason1010cash,     u,        <Channel name: lacy>,       2024-11-07 12:21:50.295863 
+
+ mason1010cash,     s,        <Channel name: lacy>,       2024-11-07 12:21:56.380163 
+
+ mason1010cash,     I,        <Channel name: lacy>,       2024-11-07 12:21:59.045606 

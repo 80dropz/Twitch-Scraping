@@ -1,0 +1,108 @@
+
+ mylkshaykes,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:33.146991 
+
+ mylkshaykes,     !gambe all,        <Channel name: kaicenat>,       2024-11-07 10:14:15.655358 
+
+ mylkshaykes,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 10:14:23.570656 
+
+ mylkshaykes,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:14:33.142526 
+
+ mylkshaykes,     roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:14:49.197368 
+
+ mylkshaykes,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:14:59.315961 
+
+ mylkshaykes,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 10:15:10.799169 
+
+ mylkshaykes,     AYO GO TBAG KAI,        <Channel name: kaicenat>,       2024-11-07 10:16:10.968655 
+
+ mylkshaykes,     T BAG KAI,        <Channel name: kaicenat>,       2024-11-07 10:16:31.156233 
+
+ mylkshaykes,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:16:57.444248 
+
+ mylkshaykes,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:17:17.226002 
+
+ mylkshaykes,     go tbag kai miles,        <Channel name: kaicenat>,       2024-11-07 10:18:08.638878 
+
+ mylkshaykes,     TBAG TBAG TBAG,        <Channel name: kaicenat>,       2024-11-07 10:18:20.871821 
+
+ mylkshaykes,     TBAG KAI,        <Channel name: kaicenat>,       2024-11-07 10:18:26.533187 
+
+ mylkshaykes,     TBAG KAI PLS,        <Channel name: kaicenat>,       2024-11-07 10:18:35.091084 
+
+ mylkshaykes,     tbag him,        <Channel name: kaicenat>,       2024-11-07 10:18:48.601477 
+
+ mylkshaykes,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:20:27.158529 
+
+ mylkshaykes,     !roulette 900,        <Channel name: kaicenat>,       2024-11-07 10:20:35.398159 
+
+ mylkshaykes,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 10:20:42.715434 
+
+ mylkshaykes,     !points,        <Channel name: kaicenat>,       2024-11-07 10:20:52.740650 
+
+ mylkshaykes,     hes watching you kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 10:21:39.317726 
+
+ mylkshaykes,     VENOM BLAST ON KAI kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 10:22:17.203504 
+
+ mylkshaykes,     !ROULETTE 500,        <Channel name: kaicenat>,       2024-11-07 10:22:48.492421 
+
+ mylkshaykes,     !ROULETTE 100,        <Channel name: kaicenat>,       2024-11-07 10:22:57.610033 
+
+ mylkshaykes,     !ROULETTE 90,        <Channel name: kaicenat>,       2024-11-07 10:23:03.174319 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:23:06.752588 
+
+ mylkshaykes,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:23:14.759876 
+
+ mylkshaykes,     !ROULETTE 500,        <Channel name: kaicenat>,       2024-11-07 10:24:20.424867 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:24:26.668318 
+
+ mylkshaykes,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:24:31.152027 
+
+ mylkshaykes,     !ROULETTE 200,        <Channel name: kaicenat>,       2024-11-07 10:24:34.668414 
+
+ mylkshaykes,     !ROULETTE 400,        <Channel name: kaicenat>,       2024-11-07 10:24:38.257348 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:24:44.044229 
+
+ mylkshaykes,     TBAG HIM,        <Channel name: kaicenat>,       2024-11-07 10:25:06.801233 
+
+ mylkshaykes,     TBAG HIM T BAG HIM,        <Channel name: kaicenat>,       2024-11-07 10:25:12.873535 
+
+ mylkshaykes,     T BAG HIM MILES,        <Channel name: kaicenat>,       2024-11-07 10:25:23.808673 
+
+ mylkshaykes,     T BAG HIM,        <Channel name: kaicenat>,       2024-11-07 10:25:46.978562 
+
+ mylkshaykes,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:25:55.552534 
+
+ mylkshaykes,     !ROULETTE 400,        <Channel name: kaicenat>,       2024-11-07 10:26:34.531421 
+
+ mylkshaykes,     !ROULETTE 800,        <Channel name: kaicenat>,       2024-11-07 10:26:39.860444 
+
+ mylkshaykes,     !ROULETTE 2000,        <Channel name: kaicenat>,       2024-11-07 10:26:44.615637 
+
+ mylkshaykes,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:28:42.179985 
+
+ mylkshaykes,     !ROULETTE 200,        <Channel name: kaicenat>,       2024-11-07 10:29:02.532710 
+
+ mylkshaykes,     !ROULETTE 800,        <Channel name: kaicenat>,       2024-11-07 10:29:11.758891 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:29:15.290274 
+
+ mylkshaykes,     !ROULETTE 2000,        <Channel name: kaicenat>,       2024-11-07 10:29:19.276235 
+
+ mylkshaykes,     !POINTS,        <Channel name: kaicenat>,       2024-11-07 10:29:36.162963 
+
+ mylkshaykes,     ROULETTE 2000,        <Channel name: kaicenat>,       2024-11-07 10:30:04.168360 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:30:06.828936 
+
+ mylkshaykes,     !ROULETTE 3000,        <Channel name: kaicenat>,       2024-11-07 10:30:14.752795 
+
+ mylkshaykes,     !ROULETTE 2000,        <Channel name: kaicenat>,       2024-11-07 10:30:23.660151 
+
+ mylkshaykes,     !ROULETTE 1000,        <Channel name: kaicenat>,       2024-11-07 10:30:27.542018 
+
+ mylkshaykes,     !ROULETTE 4000,        <Channel name: kaicenat>,       2024-11-07 10:30:32.116340 
+
+ mylkshaykes,     !ROULETTE 2000,        <Channel name: kaicenat>,       2024-11-07 10:30:36.577288 

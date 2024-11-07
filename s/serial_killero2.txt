@@ -1,0 +1,10 @@
+
+ serial_killero2,     WW 50,        <Channel name: kaicenat>,       2024-11-07 12:47:32.789206 
+
+ serial_killero2,     WW,        <Channel name: kaicenat>,       2024-11-07 12:49:48.413578 
+
+ serial_killero2,     WW 100,        <Channel name: kaicenat>,       2024-11-07 13:00:04.909935 
+
+ serial_killero2,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:00:51.043564 
+
+ serial_killero2,     LMAOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:01:58.284072 

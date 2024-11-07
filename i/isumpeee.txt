@@ -1,0 +1,192 @@
+
+ isumpeee,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.127886 
+
+ isumpeee,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.071374 
+
+ isumpeee,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.811408 
+
+ isumpeee,     Eritrea,        <Channel name: shadowkekw>,       2024-11-07 10:17:18.391083 
+
+ isumpeee,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.765171 
+
+ isumpeee,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:17:36.184568 
+
+ isumpeee,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.203553 
+
+ isumpeee,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.246850 
+
+ isumpeee,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.896573 
+
+ isumpeee,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:21:17.972926 
+
+ isumpeee,     cua,        <Channel name: shadowkekw>,       2024-11-07 10:21:30.940984 
+
+ isumpeee,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:21:34.603622 
+
+ isumpeee,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.398194 
+
+ isumpeee,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:22:48.812069 
+
+ isumpeee,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.984238 
+
+ isumpeee,     Seychelles,        <Channel name: shadowkekw>,       2024-11-07 10:23:12.574994 
+
+ isumpeee,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.926071 
+
+ isumpeee,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:23:28.619441 
+
+ isumpeee,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.051172 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.740681 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.519857 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:25:42.528800 
+
+ isumpeee,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:26:07.848101 
+
+ isumpeee,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.453446 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.677096 
+
+ isumpeee,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:27:16.600138 
+
+ isumpeee,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.852079 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.772032 
+
+ isumpeee,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.428788 
+
+ isumpeee,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.745517 
+
+ isumpeee,     Togo,        <Channel name: shadowkekw>,       2024-11-07 10:28:15.767406 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.327132 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.142812 
+
+ isumpeee,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.116393 
+
+ isumpeee,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:29:13.393506 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:29:46.191234 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.310705 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.448039 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:30:33.302181 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.345863 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.747606 
+
+ isumpeee,     Suriname,        <Channel name: shadowkekw>,       2024-11-07 10:31:26.777738 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.689243 
+
+ isumpeee,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:32:50.381426 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.211595 
+
+ isumpeee,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.011019 
+
+ isumpeee,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.722947 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.189888 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:34:29.829432 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.526293 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.426088 
+
+ isumpeee,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.282434 
+
+ isumpeee,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.537299 
+
+ isumpeee,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:38:17.519483 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:38:38.012003 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.678633 
+
+ isumpeee,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:39:23.803767 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:39:46.489061 
+
+ isumpeee,     Vanuatu,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.070467 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.366334 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:40:28.502888 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.835801 
+
+ isumpeee,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.216418 
+
+ isumpeee,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.598594 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.548084 
+
+ isumpeee,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:43:10.296963 
+
+ isumpeee,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.288031 
+
+ isumpeee,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:44:07.853297 
+
+ isumpeee,     Nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:44:20.299959 
+
+ isumpeee,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.087255 
+
+ isumpeee,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:44:33.719415 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:45:09.237185 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:45:31.668178 
+
+ isumpeee,     Venezuela,        <Channel name: shadowkekw>,       2024-11-07 10:46:04.026855 
+
+ isumpeee,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:46:23.549716 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.772677 
+
+ isumpeee,     Yemen,        <Channel name: shadowkekw>,       2024-11-07 10:47:06.818561 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:47:26.995111 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:48:06.018442 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.345235 
+
+ isumpeee,     Seychelles,        <Channel name: shadowkekw>,       2024-11-07 10:49:19.961928 
+
+ isumpeee,     Turkmenistan,        <Channel name: shadowkekw>,       2024-11-07 10:49:38.695214 
+
+ isumpeee,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:50:14.126212 
+
+ isumpeee,     Samoa,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.347305 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:51:42.207580 
+
+ isumpeee,     Uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:52:19.546567 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:53:09.691849 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:53:25.293204 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.221774 
+
+ isumpeee,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.766407 
+
+ isumpeee,     Swaziland,        <Channel name: shadowkekw>,       2024-11-07 10:54:42.911524 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.594853 
+
+ isumpeee,     Zambia,        <Channel name: shadowkekw>,       2024-11-07 10:57:38.337276 
+
+ isumpeee,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.566009 
+
+ isumpeee,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.077613 
+
+ isumpeee,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 11:07:57.129045 

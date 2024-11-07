@@ -1,0 +1,30 @@
+
+ yawlick_zov,     Avstralia,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.798247 
+
+ yawlick_zov,     Russ,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.588845 
+
+ yawlick_zov,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:36.138208 
+
+ yawlick_zov,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.816905 
+
+ yawlick_zov,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:26.586236 
+
+ yawlick_zov,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:58:36.148893 
+
+ yawlick_zov,     MEFEDRON,        <Channel name: shadowkekw>,       2024-11-07 11:02:39.685648 
+
+ yawlick_zov,     antarktida,        <Channel name: shadowkekw>,       2024-11-07 11:05:12.810134 
+
+ yawlick_zov,     an,        <Channel name: shadowkekw>,       2024-11-07 11:05:15.896743 
+
+ yawlick_zov,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:06:50.271608 
+
+ yawlick_zov,     Kz,        <Channel name: shadowkekw>,       2024-11-07 11:07:16.613948 
+
+ yawlick_zov,     mg,        <Channel name: shadowkekw>,       2024-11-07 11:09:35.277371 
+
+ yawlick_zov,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:09:50.743306 
+
+ yawlick_zov,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.395106 
+
+ yawlick_zov,     Urugvay,        <Channel name: shadowkekw>,       2024-11-07 11:14:40.157870 

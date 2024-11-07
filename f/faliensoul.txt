@@ -1,0 +1,30 @@
+
+ faliensoul,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:58:32.021920 
+
+ faliensoul,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:59:09.455860 
+
+ faliensoul,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.825705 
+
+ faliensoul,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:09:23.862597 
+
+ faliensoul,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.946035 
+
+ faliensoul,     it,        <Channel name: shadowkekw>,       2024-11-07 11:11:03.442239 
+
+ faliensoul,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.887363 
+
+ faliensoul,     ca,        <Channel name: shadowkekw>,       2024-11-07 11:11:28.952950 
+
+ faliensoul,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.447742 
+
+ faliensoul,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:12:21.920201 
+
+ faliensoul,     fi,        <Channel name: shadowkekw>,       2024-11-07 11:12:27.101732 
+
+ faliensoul,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.064447 
+
+ faliensoul,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.015997 
+
+ faliensoul,     br,        <Channel name: shadowkekw>,       2024-11-07 11:14:31.541761 
+
+ faliensoul,     d,        <Channel name: shadowkekw>,       2024-11-07 11:20:03.816608 

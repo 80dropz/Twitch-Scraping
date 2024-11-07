@@ -8,3 +8,21 @@
  banka_33,     000,        <Channel name: shadowkekw>,       2024-11-07 09:22:25.192628 
 
  banka_33,     0,        <Channel name: shadowkekw>,       2024-11-07 09:22:26.263708 
+
+ banka_33,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:47.673315 
+
+ banka_33,     Em ..............,        <Channel name: shadowkekw>,       2024-11-07 09:52:50.165736 
+
+ banka_33,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:27.868714 
+
+ banka_33,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:56.346552 
+
+ banka_33,     Em Em,        <Channel name: shadowkekw>,       2024-11-07 12:15:02.271281 
+
+ banka_33,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:55:54.790220 
+
+ banka_33,     ej ej,        <Channel name: shadowkekw>,       2024-11-07 12:55:59.441226 
+
+ banka_33,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:56:02.420477 
+
+ banka_33,     ej ej,        <Channel name: shadowkekw>,       2024-11-07 12:56:18.468621 

@@ -1,0 +1,4 @@
+
+ mareletudan,     !colorblind,        <Channel name: mongraal>,       2024-11-07 09:53:49.241864 
+
+ mareletudan,     !brightness,        <Channel name: mongraal>,       2024-11-07 09:53:53.115114 

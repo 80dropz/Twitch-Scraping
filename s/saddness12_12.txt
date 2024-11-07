@@ -1,0 +1,42 @@
+
+ saddness12_12,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:08:40.739769 
+
+ saddness12_12,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:58.127500 
+
+ saddness12_12,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:16.609606 
+
+ saddness12_12,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.428872 
+
+ saddness12_12,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:09:38.023026 
+
+ saddness12_12,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:09:44.242816 
+
+ saddness12_12,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:04.040208 
+
+ saddness12_12,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:10:30.549357 
+
+ saddness12_12,     Espain,        <Channel name: shadowkekw>,       2024-11-07 10:10:50.184578 
+
+ saddness12_12,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:10:58.074207 
+
+ saddness12_12,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:11:10.245994 
+
+ saddness12_12,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:12.559766 
+
+ saddness12_12,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.375554 
+
+ saddness12_12,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:45.113946 
+
+ saddness12_12,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:04.528030 
+
+ saddness12_12,     Turcia,        <Channel name: shadowkekw>,       2024-11-07 10:12:57.534321 
+
+ saddness12_12,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:13:08.425838 
+
+ saddness12_12,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 10:13:33.848514 
+
+ saddness12_12,     India,        <Channel name: shadowkekw>,       2024-11-07 10:13:48.369137 
+
+ saddness12_12,     Khazakstan,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.015137 
+
+ saddness12_12,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:14.668980 

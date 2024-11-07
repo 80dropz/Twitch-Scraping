@@ -1,0 +1,78 @@
+
+ qublub,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.023406 
+
+ qublub,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.504521 
+
+ qublub,     Jordan,        <Channel name: shadowkekw>,       2024-11-07 10:54:24.498414 
+
+ qublub,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.649782 
+
+ qublub,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:39.042381 
+
+ qublub,     dr,        <Channel name: shadowkekw>,       2024-11-07 10:57:41.854018 
+
+ qublub,     isle of man,        <Channel name: shadowkekw>,       2024-11-07 10:59:03.306029 
+
+ qublub,     o,        <Channel name: shadowkekw>,       2024-11-07 10:59:36.683356 
+
+ qublub,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.470277 
+
+ qublub,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.188646 
+
+ qublub,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.806921 
+
+ qublub,     isle of man,        <Channel name: shadowkekw>,       2024-11-07 11:02:32.787892 
+
+ qublub,     ar,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.954820 
+
+ qublub,     isle of man,        <Channel name: shadowkekw>,       2024-11-07 11:04:29.356827 
+
+ qublub,     san marino,        <Channel name: shadowkekw>,       2024-11-07 11:04:51.119209 
+
+ qublub,     monako,        <Channel name: shadowkekw>,       2024-11-07 11:04:56.147266 
+
+ qublub,     arg,        <Channel name: shadowkekw>,       2024-11-07 11:05:08.327301 
+
+ qublub,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:05:34.644967 
+
+ qublub,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.438834 
+
+ qublub,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:08:28.380616 
+
+ qublub,     do,        <Channel name: shadowkekw>,       2024-11-07 11:08:51.083717 
+
+ qublub,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:09:50.908469 
+
+ qublub,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:11.279671 
+
+ qublub,     lithunia,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.377254 
+
+ qublub,     Irlandia,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.760580 
+
+ qublub,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:11:48.153034 
+
+ qublub,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:10.453768 
+
+ qublub,     irland,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.184020 
+
+ qublub,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.404707 
+
+ qublub,     do,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.900624 
+
+ qublub,     ke,        <Channel name: shadowkekw>,       2024-11-07 11:12:26.397319 
+
+ qublub,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.902649 
+
+ qublub,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:12:44.314142 
+
+ qublub,     denmark,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.601565 
+
+ qublub,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:13:26.583248 
+
+ qublub,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:13:53.609787 
+
+ qublub,     island,        <Channel name: shadowkekw>,       2024-11-07 11:13:57.618299 
+
+ qublub,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:14:20.797335 
+
+ qublub,     o,        <Channel name: shadowkekw>,       2024-11-07 11:17:30.497045 

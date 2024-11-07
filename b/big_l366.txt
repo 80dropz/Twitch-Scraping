@@ -4,3 +4,13 @@
  big_l366,     !time,        <Channel name: kaicenat>,       2024-11-07 09:43:14.656279 
 
  big_l366,     ! time,        <Channel name: kaicenat>,       2024-11-07 09:43:42.051613 
+
+ big_l366,     !time,        <Channel name: kaicenat>,       2024-11-07 12:45:20.975407 
+
+ big_l366,     RAKAI GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:55:34.629829 
+
+ big_l366,     RAKAI GIFT 100 SUBS,        <Channel name: kaicenat>,       2024-11-07 12:56:14.016115 
+
+ big_l366,     GIFT 100 RAKAI,        <Channel name: kaicenat>,       2024-11-07 12:57:59.645669 
+
+ big_l366,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:58:34.237863 

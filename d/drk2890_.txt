@@ -14,3 +14,361 @@
  drk2890_,     0____________0,        <Channel name: shadowkekw>,       2024-11-07 09:42:59.068217 
 
  drk2890_,     0____________0,        <Channel name: shadowkekw>,       2024-11-07 09:43:08.130899 
+
+ drk2890_,     oh,        <Channel name: shadowkekw>,       2024-11-07 09:57:16.588556 
+
+ drk2890_,     mda,        <Channel name: shadowkekw>,       2024-11-07 09:57:45.849533 
+
+ drk2890_,     SHTO,        <Channel name: shadowkekw>,       2024-11-07 09:58:03.471736 
+
+ drk2890_,     ebat,        <Channel name: shadowkekw>,       2024-11-07 09:58:13.231352 
+
+ drk2890_,     ooh,        <Channel name: shadowkekw>,       2024-11-07 09:59:24.824967 
+
+ drk2890_,     38,        <Channel name: shadowkekw>,       2024-11-07 09:59:47.952794 
+
+ drk2890_,     900,        <Channel name: shadowkekw>,       2024-11-07 10:00:15.519763 
+
+ drk2890_,     ej,        <Channel name: shadowkekw>,       2024-11-07 10:04:31.674516 
+
+ drk2890_,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:06:59.381432 
+
+ drk2890_,     EZ,        <Channel name: shadowkekw>,       2024-11-07 10:07:03.424840 
+
+ drk2890_,     INDIA,        <Channel name: shadowkekw>,       2024-11-07 10:07:13.292172 
+
+ drk2890_,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.146304 
+
+ drk2890_,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:50.484693 
+
+ drk2890_,     Syria,        <Channel name: shadowkekw>,       2024-11-07 10:08:08.704683 
+
+ drk2890_,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:08:26.452765 
+
+ drk2890_,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:43.221955 
+
+ drk2890_,     EZ,        <Channel name: shadowkekw>,       2024-11-07 10:08:48.096483 
+
+ drk2890_,     ROMANIA,        <Channel name: shadowkekw>,       2024-11-07 10:09:01.131389 
+
+ drk2890_,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:22.394521 
+
+ drk2890_,     bro,        <Channel name: shadowkekw>,       2024-11-07 10:09:37.937947 
+
+ drk2890_,     FINLAND,        <Channel name: shadowkekw>,       2024-11-07 10:09:44.432055 
+
+ drk2890_,     EZ,        <Channel name: shadowkekw>,       2024-11-07 10:09:55.838754 
+
+ drk2890_,     France,        <Channel name: shadowkekw>,       2024-11-07 10:10:55.940650 
+
+ drk2890_,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:11:14.689187 
+
+ drk2890_,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:11:25.640726 
+
+ drk2890_,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.832121 
+
+ drk2890_,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:11:38.650471 
+
+ drk2890_,     EZ,        <Channel name: shadowkekw>,       2024-11-07 10:11:58.470167 
+
+ drk2890_,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:12:05.386005 
+
+ drk2890_,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:12:10.899308 
+
+ drk2890_,     China,        <Channel name: shadowkekw>,       2024-11-07 10:12:12.919428 
+
+ drk2890_,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:12:32.516554 
+
+ drk2890_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:12:38.567055 
+
+ drk2890_,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:12:56.829534 
+
+ drk2890_,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:59.615093 
+
+ drk2890_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.457037 
+
+ drk2890_,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:12.436053 
+
+ drk2890_,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:14:34.127005 
+
+ drk2890_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:37.904426 
+
+ drk2890_,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:15:20.843390 
+
+ drk2890_,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 10:15:36.273933 
+
+ drk2890_,     France,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.370283 
+
+ drk2890_,     France,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.941029 
+
+ drk2890_,     Buthan,        <Channel name: shadowkekw>,       2024-11-07 10:16:10.064268 
+
+ drk2890_,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:16:35.342248 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.546972 
+
+ drk2890_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.376322 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:37.677409 
+
+ drk2890_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.357883 
+
+ drk2890_,     England,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.833565 
+
+ drk2890_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:18:38.999098 
+
+ drk2890_,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:18:40.815930 
+
+ drk2890_,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.448182 
+
+ drk2890_,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.638111 
+
+ drk2890_,     Sri lanka,        <Channel name: shadowkekw>,       2024-11-07 10:19:13.079097 
+
+ drk2890_,     )),        <Channel name: shadowkekw>,       2024-11-07 10:19:26.029691 
+
+ drk2890_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:19:28.740758 
+
+ drk2890_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.290015 
+
+ drk2890_,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:19:49.731559 
+
+ drk2890_,     France,        <Channel name: shadowkekw>,       2024-11-07 10:19:55.773182 
+
+ drk2890_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:20:08.362333 
+
+ drk2890_,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:20:11.640592 
+
+ drk2890_,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.189843 
+
+ drk2890_,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:20:28.895711 
+
+ drk2890_,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:34.195296 
+
+ drk2890_,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.081034 
+
+ drk2890_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:21:06.957218 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.083094 
+
+ drk2890_,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:21:22.955855 
+
+ drk2890_,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:21:26.243199 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.177171 
+
+ drk2890_,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.747915 
+
+ drk2890_,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:22:52.425955 
+
+ drk2890_,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.794789 
+
+ drk2890_,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:46.144109 
+
+ drk2890_,     madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.208995 
+
+ drk2890_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:24:12.852867 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:24:25.784834 
+
+ drk2890_,     switerzland,        <Channel name: shadowkekw>,       2024-11-07 10:24:53.127546 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.452947 
+
+ drk2890_,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.782025 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:25:33.668375 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.892969 
+
+ drk2890_,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:26:17.068322 
+
+ drk2890_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.051275 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.831899 
+
+ drk2890_,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.821238 
+
+ drk2890_,     buthan,        <Channel name: shadowkekw>,       2024-11-07 10:27:54.242707 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:02.100338 
+
+ drk2890_,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:08.254486 
+
+ drk2890_,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.161045 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:28:38.743979 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.586773 
+
+ drk2890_,     kosovo,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.134303 
+
+ drk2890_,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.347374 
+
+ drk2890_,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.201767 
+
+ drk2890_,     South korea,        <Channel name: shadowkekw>,       2024-11-07 10:29:44.710277 
+
+ drk2890_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.777974 
+
+ drk2890_,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:30:35.485411 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.664673 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.379450 
+
+ drk2890_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.595639 
+
+ drk2890_,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:32:05.015161 
+
+ drk2890_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.792265 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.544375 
+
+ drk2890_,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.202304 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:04.903837 
+
+ drk2890_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:33:12.451320 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.061731 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:34:30.267439 
+
+ drk2890_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:34:50.531082 
+
+ drk2890_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:35:12.406272 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.160926 
+
+ drk2890_,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.539200 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.567705 
+
+ drk2890_,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.051690 
+
+ drk2890_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.400747 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.864749 
+
+ drk2890_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.782287 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.153627 
+
+ drk2890_,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.851840 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.038917 
+
+ drk2890_,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:38:26.899739 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.555278 
+
+ drk2890_,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.042960 
+
+ drk2890_,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.819530 
+
+ drk2890_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.500007 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.590690 
+
+ drk2890_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:40:18.619404 
+
+ drk2890_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.543449 
+
+ drk2890_,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:40:43.297050 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.120655 
+
+ drk2890_,     in,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.048186 
+
+ drk2890_,     sr,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.220684 
+
+ drk2890_,     usuaer,        <Channel name: shadowkekw>,       2024-11-07 10:42:24.844397 
+
+ drk2890_,     france,        <Channel name: shadowkekw>,       2024-11-07 10:42:47.624438 
+
+ drk2890_,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:42:51.002528 
+
+ drk2890_,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.817899 
+
+ drk2890_,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:43:20.995549 
+
+ drk2890_,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:43:25.134603 
+
+ drk2890_,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:43:31.229244 
+
+ drk2890_,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:45:05.813653 
+
+ drk2890_,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:45:25.935625 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:22.497405 
+
+ drk2890_,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:47:03.705008 
+
+ drk2890_,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:47:40.213593 
+
+ drk2890_,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:08.995390 
+
+ drk2890_,     rus,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.411579 
+
+ drk2890_,     )),        <Channel name: shadowkekw>,       2024-11-07 10:48:50.640460 
+
+ drk2890_,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:49:27.220735 
+
+ drk2890_,     chezch,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.601325 
+
+ drk2890_,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.680396 
+
+ drk2890_,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.867352 
+
+ drk2890_,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:51:38.060197 
+
+ drk2890_,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.319324 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:52:38.319870 
+
+ drk2890_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.709736 
+
+ drk2890_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.224851 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.012632 
+
+ drk2890_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.144851 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:54:53.421675 
+
+ drk2890_,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:55:20.716299 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.236238 
+
+ drk2890_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.292708 
+
+ drk2890_,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:21.945929 
+
+ drk2890_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.018012 
+
+ drk2890_,     iceland,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.108158 
+
+ drk2890_,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.951018 
+
+ drk2890_,     gb,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.172289 
+
+ drk2890_,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:07:31.561462 
+
+ drk2890_,     iceland,        <Channel name: shadowkekw>,       2024-11-07 11:10:57.802465 
+
+ drk2890_,     belgium,        <Channel name: shadowkekw>,       2024-11-07 11:11:11.614808 
+
+ drk2890_,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 11:15:14.028456 
+
+ drk2890_,     Ura,        <Channel name: shadowkekw>,       2024-11-07 11:15:41.413567 
+
+ drk2890_,     &&,        <Channel name: shadowkekw>,       2024-11-07 11:16:29.053039 
+
+ drk2890_,     ??,        <Channel name: shadowkekw>,       2024-11-07 11:16:30.517587 
+
+ drk2890_,     gg,        <Channel name: shadowkekw>,       2024-11-07 11:16:44.675512 
+
+ drk2890_,     322,        <Channel name: shadowkekw>,       2024-11-07 11:17:38.932481 
+
+ drk2890_,     SVIN,        <Channel name: shadowkekw>,       2024-11-07 11:24:43.261482 

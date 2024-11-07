@@ -1,0 +1,60 @@
+
+ lcvrsxd,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:07:19.127685 
+
+ lcvrsxd,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:07:32.015435 
+
+ lcvrsxd,     Kongo,        <Channel name: shadowkekw>,       2024-11-07 10:08:00.268266 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.406527 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:09:21.275895 
+
+ lcvrsxd,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:09:28.513890 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:57.334357 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:11:15.849049 
+
+ lcvrsxd,     UAR,        <Channel name: shadowkekw>,       2024-11-07 10:11:38.739067 
+
+ lcvrsxd,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:11:51.131466 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.529605 
+
+ lcvrsxd,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.542759 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:58.624599 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:13:38.259573 
+
+ lcvrsxd,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:13:45.489872 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:11.662575 
+
+ lcvrsxd,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:14:17.893447 
+
+ lcvrsxd,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:14:51.425945 
+
+ lcvrsxd,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.197451 
+
+ lcvrsxd,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:15:22.495462 
+
+ lcvrsxd,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:15:54.883667 
+
+ lcvrsxd,     Tunis,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.612727 
+
+ lcvrsxd,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.487748 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:34.244379 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:36.956749 
+
+ lcvrsxd,     Mali,        <Channel name: shadowkekw>,       2024-11-07 10:17:41.405060 
+
+ lcvrsxd,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:22.641441 
+
+ lcvrsxd,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:18:28.019148 
+
+ lcvrsxd,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:18:40.304730 
+
+ lcvrsxd,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.262771 

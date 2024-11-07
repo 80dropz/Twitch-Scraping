@@ -1,0 +1,14 @@
+
+ trxpznath,     99,        <Channel name: kaicenat>,       2024-11-07 12:32:38.996523 
+
+ trxpznath,     95,        <Channel name: kaicenat>,       2024-11-07 12:33:23.853684 
+
+ trxpznath,     92,        <Channel name: kaicenat>,       2024-11-07 12:33:46.443692 
+
+ trxpznath,     91,        <Channel name: kaicenat>,       2024-11-07 12:33:54.364349 
+
+ trxpznath,     87,        <Channel name: kaicenat>,       2024-11-07 12:34:40.591408 
+
+ trxpznath,     86,        <Channel name: kaicenat>,       2024-11-07 12:34:57.400876 
+
+ trxpznath,     84,        <Channel name: kaicenat>,       2024-11-07 12:35:44.865903 

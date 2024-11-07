@@ -1,0 +1,44 @@
+
+ edsison228,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:47:20.964294 
+
+ edsison228,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:48:03.529255 
+
+ edsison228,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.332680 
+
+ edsison228,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.549165 
+
+ edsison228,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.065068 
+
+ edsison228,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:50:27.750307 
+
+ edsison228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:50:47.419559 
+
+ edsison228,     belgium,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.713220 
+
+ edsison228,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:36.959992 
+
+ edsison228,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.523631 
+
+ edsison228,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:52:59.156259 
+
+ edsison228,     inida,        <Channel name: shadowkekw>,       2024-11-07 10:54:51.843811 
+
+ edsison228,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:55:54.210596 
+
+ edsison228,     great britan,        <Channel name: shadowkekw>,       2024-11-07 10:56:21.060218 
+
+ edsison228,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.837442 
+
+ edsison228,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:57:17.574695 
+
+ edsison228,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:23.567334 
+
+ edsison228,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:59:20.024408 
+
+ edsison228,     great britan,        <Channel name: shadowkekw>,       2024-11-07 11:00:03.881682 
+
+ edsison228,     china,        <Channel name: shadowkekw>,       2024-11-07 11:02:01.875557 
+
+ edsison228,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:03:03.653505 
+
+ edsison228,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:06:03.571947 

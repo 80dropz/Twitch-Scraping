@@ -306,3 +306,1207 @@
  value1x,     @19kdrakz outdoor boys,        <Channel name: clix>,       2024-11-07 09:40:30.567237 
 
  value1x,     Smile,        <Channel name: clix>,       2024-11-07 09:42:19.566254 
+
+ value1x,     @wilkymilkyway wsg,        <Channel name: clix>,       2024-11-07 09:52:07.016965 
+
+ value1x,     31 months,        <Channel name: clix>,       2024-11-07 09:52:34.308065 
+
+ value1x,     thats iut,        <Channel name: clix>,       2024-11-07 09:52:35.347905 
+
+ value1x,     banjo_ye, like why share that,        <Channel name: clix>,       2024-11-07 09:52:49.685009 
+
+ value1x,     banjo_ye, SMH,        <Channel name: clix>,       2024-11-07 09:53:06.655999 
+
+ value1x,     !vibecheck,        <Channel name: clix>,       2024-11-07 09:53:15.415389 
+
+ value1x,     SAJ,        <Channel name: clix>,       2024-11-07 09:53:17.735020 
+
+ value1x,     @nourrbtw clixDriving,        <Channel name: clix>,       2024-11-07 09:55:18.134042 
+
+ value1x,     @nourrbtw BUSSIN,        <Channel name: clix>,       2024-11-07 09:55:31.208059 
+
+ value1x,     doid,        <Channel name: clix>,       2024-11-07 09:56:10.055517 
+
+ value1x,     !cc,        <Channel name: clix>,       2024-11-07 10:00:27.035351 
+
+ value1x,     pepeAgony,        <Channel name: clix>,       2024-11-07 10:00:28.700926 
+
+ value1x,     pepeDegen,        <Channel name: clix>,       2024-11-07 10:00:37.976282 
+
+ value1x,     GAMBAADDICT,        <Channel name: clix>,       2024-11-07 10:01:00.323322 
+
+ value1x,     @banjo_ye VIPS,        <Channel name: clix>,       2024-11-07 10:01:27.311079 
+
+ value1x,     @banjo_ye yes,        <Channel name: clix>,       2024-11-07 10:01:36.255817 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 10:01:42.733443 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:02:04.620846 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 10:02:44.264164 
+
+ value1x,     Complaining,        <Channel name: clix>,       2024-11-07 10:02:53.777582 
+
+ value1x,     ome44,        <Channel name: clix>,       2024-11-07 10:03:01.703669 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 10:03:14.000051 
+
+ value1x,     modCheck,        <Channel name: clix>,       2024-11-07 10:03:26.512666 
+
+ value1x,     modCheck VIPS,        <Channel name: clix>,       2024-11-07 10:03:28.225195 
+
+ value1x,     fr,        <Channel name: clix>,       2024-11-07 10:03:36.756334 
+
+ value1x,     Instigate,        <Channel name: clix>,       2024-11-07 10:03:46.500166 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:04:10.912007 
+
+ value1x,     TAWAY,        <Channel name: clix>,       2024-11-07 10:04:30.527737 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:04:48.550301 
+
+ value1x,     @thEoutstandingcabbage Fiddy,        <Channel name: clix>,       2024-11-07 10:05:01.331794 
+
+ value1x,     Pffttt,        <Channel name: clix>,       2024-11-07 10:05:09.875630 
+
+ value1x,     @nourrbtw Clueless,        <Channel name: clix>,       2024-11-07 10:05:23.859064 
+
+ value1x,     omeStare,        <Channel name: clix>,       2024-11-07 10:05:32.144749 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:05:59.117804 
+
+ value1x,     RIPBOZO,        <Channel name: clix>,       2024-11-07 10:06:09.836047 
+
+ value1x,     ome67,        <Channel name: clix>,       2024-11-07 10:06:12.652216 
+
+ value1x,     @prcnt1x DIESOFCRINGE,        <Channel name: clix>,       2024-11-07 10:06:46.746612 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:06:54.070443 
+
+ value1x,     nourrbtw, peepoThumb,        <Channel name: clix>,       2024-11-07 10:06:58.986005 
+
+ value1x,     @NotMarkX menas ur fat,        <Channel name: clix>,       2024-11-07 10:07:04.984434 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:07:06.237807 
+
+ value1x,     Oh,        <Channel name: clix>,       2024-11-07 10:07:10.782914 
+
+ value1x,     ?,        <Channel name: clix>,       2024-11-07 10:07:14.911963 
+
+ value1x,     GIGACHAD <--- me,        <Channel name: clix>,       2024-11-07 10:07:26.460946 
+
+ value1x,     mewing,        <Channel name: clix>,       2024-11-07 10:07:26.959110 
+
+ value1x,     GIGACHAD holy,        <Channel name: clix>,       2024-11-07 10:07:34.085109 
+
+ value1x,     @gutstape fuh k u,        <Channel name: clix>,       2024-11-07 10:08:03.918978 
+
+ value1x,     sus,        <Channel name: clix>,       2024-11-07 10:08:09.576106 
+
+ value1x,     bye,        <Channel name: clix>,       2024-11-07 10:08:26.068634 
+
+ value1x,     @gutstape do it then,        <Channel name: clix>,       2024-11-07 10:08:33.688465 
+
+ value1x,     @ViseZd yo,        <Channel name: clix>,       2024-11-07 10:08:37.014662 
+
+ value1x,     sus,        <Channel name: clix>,       2024-11-07 10:08:39.655697 
+
+ value1x,     FrogDance,        <Channel name: clix>,       2024-11-07 10:09:00.330695 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 10:09:28.482884 
+
+ value1x,     double Scooth,        <Channel name: clix>,       2024-11-07 10:09:32.418569 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:09:39.438040 
+
+ value1x,     ome5,        <Channel name: clix>,       2024-11-07 10:10:42.418457 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 10:10:52.575366 
+
+ value1x,     ome18,        <Channel name: clix>,       2024-11-07 10:11:04.600279 
+
+ value1x,     ome44,        <Channel name: clix>,       2024-11-07 10:11:27.433616 
+
+ value1x,     @kunvergil not mod anymore,        <Channel name: clix>,       2024-11-07 10:11:51.021255 
+
+ value1x,     she left for good,        <Channel name: clix>,       2024-11-07 10:11:55.368341 
+
+ value1x,     kunvergil, 4Shrug,        <Channel name: clix>,       2024-11-07 10:12:09.899932 
+
+ value1x,     @ViseZd rakan?,        <Channel name: clix>,       2024-11-07 10:13:18.313068 
+
+ value1x,     CAUGHT,        <Channel name: clix>,       2024-11-07 10:13:24.207378 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 10:13:36.600810 
+
+ value1x,     peepoLurk staff,        <Channel name: clix>,       2024-11-07 10:14:04.719385 
+
+ value1x,     ApuCozy,        <Channel name: clix>,       2024-11-07 10:15:25.717704 
+
+ value1x,     poroPls,        <Channel name: clix>,       2024-11-07 10:15:49.758890 
+
+ value1x,     @ryz_on_top HUH,        <Channel name: clix>,       2024-11-07 10:16:14.691825 
+
+ value1x,     @nourrbtw cmonBrug,        <Channel name: clix>,       2024-11-07 10:16:49.326057 
+
+ value1x,     ?,        <Channel name: clix>,       2024-11-07 10:17:01.247709 
+
+ value1x,     @nourrbtw HUH,        <Channel name: clix>,       2024-11-07 10:17:09.687850 
+
+ value1x,     huhh,        <Channel name: clix>,       2024-11-07 10:17:31.933482 
+
+ value1x,     @prcnt1x nah im good,        <Channel name: clix>,       2024-11-07 10:17:49.289515 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:17:56.000127 
+
+ value1x,     prcnt1x, Stare,        <Channel name: clix>,       2024-11-07 10:18:10.890068 
+
+ value1x,     i dont care,        <Channel name: clix>,       2024-11-07 10:18:12.573810 
+
+ value1x,     nah,        <Channel name: clix>,       2024-11-07 10:18:21.962055 
+
+ value1x,     @fcjyt monkaM,        <Channel name: clix>,       2024-11-07 10:18:40.272132 
+
+ value1x,     BAND,        <Channel name: clix>,       2024-11-07 10:19:10.874920 
+
+ value1x,     ibo41_, XqcClownDetected,        <Channel name: clix>,       2024-11-07 10:19:17.887052 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:20:00.807928 
+
+ value1x,     cozyCat,        <Channel name: clix>,       2024-11-07 10:21:17.176457 
+
+ value1x,     doid,        <Channel name: clix>,       2024-11-07 10:21:33.221869 
+
+ value1x,     @ViseZd CatTime,        <Channel name: clix>,       2024-11-07 10:21:38.033757 
+
+ value1x,     FirstTimeChatter x2,        <Channel name: clix>,       2024-11-07 10:21:59.796224 
+
+ value1x,     xqcBOZO,        <Channel name: clix>,       2024-11-07 10:23:12.125993 
+
+ value1x,     @ViseZd said it 100 times monkaWeird,        <Channel name: clix>,       2024-11-07 10:24:30.266653 
+
+ value1x,     Listening,        <Channel name: clix>,       2024-11-07 10:24:34.867557 
+
+ value1x,     Dentge,        <Channel name: clix>,       2024-11-07 10:24:51.425825 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 10:25:28.780396 
+
+ value1x,     Life,        <Channel name: clix>,       2024-11-07 10:25:43.466761 
+
+ value1x,     ome44,        <Channel name: clix>,       2024-11-07 10:25:48.704969 
+
+ value1x,     ome18,        <Channel name: clix>,       2024-11-07 10:26:37.032566 
+
+ value1x,     CatTime,        <Channel name: clix>,       2024-11-07 10:27:10.878491 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 10:27:14.541235 
+
+ value1x,     kcasm, prePffttt,        <Channel name: clix>,       2024-11-07 10:27:23.723884 
+
+ value1x,     NAHH,        <Channel name: clix>,       2024-11-07 10:27:35.527409 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:28:17.783896 
+
+ value1x,     no AURA at all,        <Channel name: clix>,       2024-11-07 10:28:19.918489 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:28:27.837572 
+
+ value1x,     uuh m,        <Channel name: clix>,       2024-11-07 10:28:36.718780 
+
+ value1x,     Erm,        <Channel name: clix>,       2024-11-07 10:29:33.753777 
+
+ value1x,     @Caucaze rt,        <Channel name: clix>,       2024-11-07 10:29:41.040800 
+
+ value1x,     Wokege,        <Channel name: clix>,       2024-11-07 10:31:24.807071 
+
+ value1x,     @linauhh bye,        <Channel name: clix>,       2024-11-07 10:31:41.558084 
+
+ value1x,     eww,        <Channel name: clix>,       2024-11-07 10:31:57.814852 
+
+ value1x,     ta,        <Channel name: clix>,       2024-11-07 10:33:16.597317 
+
+ value1x,     taAssemble,        <Channel name: clix>,       2024-11-07 10:33:30.017774 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 10:33:32.617053 
+
+ value1x,     ta,        <Channel name: clix>,       2024-11-07 10:33:46.483769 
+
+ value1x,     Aloo,        <Channel name: clix>,       2024-11-07 10:34:10.705564 
+
+ value1x,     omeStare,        <Channel name: clix>,       2024-11-07 10:35:21.273988 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:36:15.436436 
+
+ value1x,     @DxxdManz_TTV Pepepains,        <Channel name: clix>,       2024-11-07 10:36:53.905878 
+
+ value1x,     @botthekronix catNope,        <Channel name: clix>,       2024-11-07 10:37:34.528375 
+
+ value1x,     peepoComfy,        <Channel name: clix>,       2024-11-07 10:37:47.145453 
+
+ value1x,     @botthekronix yes,        <Channel name: clix>,       2024-11-07 10:38:12.421249 
+
+ value1x,     @botthekronix idk,        <Channel name: clix>,       2024-11-07 10:38:58.791793 
+
+ value1x,     SMH2,        <Channel name: clix>,       2024-11-07 10:39:35.631936 
+
+ value1x,     COCKA,        <Channel name: clix>,       2024-11-07 10:40:34.360633 
+
+ value1x,     cock,        <Channel name: clix>,       2024-11-07 10:42:08.002343 
+
+ value1x,     DIDSOMEONESAYCOCK,        <Channel name: clix>,       2024-11-07 10:42:10.923905 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:42:34.029481 
+
+ value1x,     @ViseZd none,        <Channel name: clix>,       2024-11-07 10:43:25.262005 
+
+ value1x,     @NotMarkX Clueless,        <Channel name: clix>,       2024-11-07 10:43:40.239705 
+
+ value1x,     ibras,        <Channel name: clix>,       2024-11-07 10:44:05.431090 
+
+ value1x,     Comfi,        <Channel name: clix>,       2024-11-07 10:44:26.951818 
+
+ value1x,     !time,        <Channel name: clix>,       2024-11-07 10:45:18.402089 
+
+ value1x,     !vibecheck,        <Channel name: clix>,       2024-11-07 10:45:30.507847 
+
+ value1x,     mid,        <Channel name: clix>,       2024-11-07 10:45:34.766654 
+
+ value1x,     @botthekronix me,        <Channel name: clix>,       2024-11-07 10:46:33.969020 
+
+ value1x,     what is that question,        <Channel name: clix>,       2024-11-07 10:46:37.533252 
+
+ value1x,     @botthekronix none,        <Channel name: clix>,       2024-11-07 10:47:09.000681 
+
+ value1x,     mark is just fat,        <Channel name: clix>,       2024-11-07 10:47:28.378079 
+
+ value1x,     @botthekronix no shit,        <Channel name: clix>,       2024-11-07 10:47:52.782971 
+
+ value1x,     @nxtea1intme how tell me,        <Channel name: clix>,       2024-11-07 10:47:55.595308 
+
+ value1x,     @peaksidara DIESOFCRINGE,        <Channel name: clix>,       2024-11-07 10:48:03.042195 
+
+ value1x,     peaksidara, u know he grooms right,        <Channel name: clix>,       2024-11-07 10:48:15.978971 
+
+ value1x,     @peaksidara did it to us all,        <Channel name: clix>,       2024-11-07 10:48:41.020198 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:48:48.955476 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:48:53.390804 
+
+ value1x,     omg he moved,        <Channel name: clix>,       2024-11-07 10:49:03.368364 
+
+ value1x,     ome5,        <Channel name: clix>,       2024-11-07 10:49:19.607211 
+
+ value1x,     @botthekronix i win the AURA off,        <Channel name: clix>,       2024-11-07 10:49:32.070716 
+
+ value1x,     @peaksidara GLAZING,        <Channel name: clix>,       2024-11-07 10:49:59.522460 
+
+ value1x,     meatriding,        <Channel name: clix>,       2024-11-07 10:50:00.978293 
+
+ value1x,     @peaksidara oh hell no,        <Channel name: clix>,       2024-11-07 10:50:38.000868 
+
+ value1x,     !vibecheck,        <Channel name: clix>,       2024-11-07 10:50:42.875372 
+
+ value1x,     mid af,        <Channel name: clix>,       2024-11-07 10:50:45.262521 
+
+ value1x,     !watchtime,        <Channel name: clix>,       2024-11-07 10:50:58.528851 
+
+ value1x,     @Caucaze Clueless,        <Channel name: clix>,       2024-11-07 10:51:07.987947 
+
+ value1x,     cringefest15, ur name explains what u are,        <Channel name: clix>,       2024-11-07 10:51:29.726456 
+
+ value1x,     yo,        <Channel name: clix>,       2024-11-07 10:51:44.213822 
+
+ value1x,     @nxtea1intme unfunny,        <Channel name: clix>,       2024-11-07 10:52:03.723066 
+
+ value1x,     donowall,        <Channel name: clix>,       2024-11-07 10:52:23.340883 
+
+ value1x,     @Caucaze Stare,        <Channel name: clix>,       2024-11-07 10:52:34.331528 
+
+ value1x,     Caucaze, how old are u?,        <Channel name: clix>,       2024-11-07 10:52:43.255955 
+
+ value1x,     fr,        <Channel name: clix>,       2024-11-07 10:52:57.018813 
+
+ value1x,     HUH,        <Channel name: clix>,       2024-11-07 10:53:01.455244 
+
+ value1x,     34??,        <Channel name: clix>,       2024-11-07 10:53:03.591101 
+
+ value1x,     buddy im 16 uuh,        <Channel name: clix>,       2024-11-07 10:53:12.092435 
+
+ value1x,     clixJail,        <Channel name: clix>,       2024-11-07 10:53:15.677851 
+
+ value1x,     clixJail ALERT,        <Channel name: clix>,       2024-11-07 10:53:17.405259 
+
+ value1x,     @Caucaze Capping,        <Channel name: clix>,       2024-11-07 10:53:34.555797 
+
+ value1x,     @moadboi597 wsg,        <Channel name: clix>,       2024-11-07 10:53:47.030341 
+
+ value1x,     Weirdge,        <Channel name: clix>,       2024-11-07 10:54:39.982318 
+
+ value1x,     this chat needs mental help,        <Channel name: clix>,       2024-11-07 10:54:46.486880 
+
+ value1x,     lebronJAM,        <Channel name: clix>,       2024-11-07 10:55:56.191263 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:56:00.688053 
+
+ value1x,     wsg,        <Channel name: clix>,       2024-11-07 10:58:53.951816 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 10:59:48.454352 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 10:59:58.734210 
+
+ value1x,     @veyohd get a job,        <Channel name: clix>,       2024-11-07 11:00:25.142097 
+
+ value1x,     Smile,        <Channel name: clix>,       2024-11-07 11:00:47.156268 
+
+ value1x,     anyways,        <Channel name: clix>,       2024-11-07 11:01:09.969562 
+
+ value1x,     anyways new emote,        <Channel name: clix>,       2024-11-07 11:01:20.355342 
+
+ value1x,     @fuuinseal i havent applied for it,        <Channel name: clix>,       2024-11-07 11:01:25.748889 
+
+ value1x,     InfinitypcDK, not at all,        <Channel name: clix>,       2024-11-07 11:01:38.675768 
+
+ value1x,     idc,        <Channel name: clix>,       2024-11-07 11:01:39.145124 
+
+ value1x,     monkaWeird,        <Channel name: clix>,       2024-11-07 11:02:11.567116 
+
+ value1x,     @mpex7 doesnt work like that,        <Channel name: clix>,       2024-11-07 11:02:37.423545 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:02:39.487378 
+
+ value1x,     StillWaiting,        <Channel name: clix>,       2024-11-07 11:03:49.800494 
+
+ value1x,     @Caucaze OVERWORKING,        <Channel name: clix>,       2024-11-07 11:04:22.099230 
+
+ value1x,     clixCaught,        <Channel name: clix>,       2024-11-07 11:04:46.562854 
+
+ value1x,     @MrRondo_ its off,        <Channel name: clix>,       2024-11-07 11:05:00.544740 
+
+ value1x,     clixWaiting,        <Channel name: clix>,       2024-11-07 11:05:43.040712 
+
+ value1x,     peepoComfy,        <Channel name: clix>,       2024-11-07 11:07:23.830169 
+
+ value1x,     BAND,        <Channel name: clix>,       2024-11-07 11:10:22.623224 
+
+ value1x,     MyHonestReaction,        <Channel name: clix>,       2024-11-07 11:15:15.689584 
+
+ value1x,     D:,        <Channel name: clix>,       2024-11-07 11:16:15.552142 
+
+ value1x,     catKISS,        <Channel name: clix>,       2024-11-07 11:16:39.989341 
+
+ value1x,     BAND,        <Channel name: clix>,       2024-11-07 11:16:47.875576 
+
+ value1x,     @sully2828_ Shruge,        <Channel name: clix>,       2024-11-07 11:16:52.689536 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 11:17:11.049004 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 11:17:14.118596 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:17:16.824679 
+
+ value1x,     @wilkymilkyway Erm,        <Channel name: clix>,       2024-11-07 11:17:40.130063 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 11:17:42.357289 
+
+ value1x,     @c0urtneyamanda tahi,        <Channel name: clix>,       2024-11-07 11:18:06.249613 
+
+ value1x,     @sully2828_ uuh what,        <Channel name: clix>,       2024-11-07 11:18:09.987437 
+
+ value1x,     @c0urtneyamanda gm :),        <Channel name: clix>,       2024-11-07 11:18:25.448616 
+
+ value1x,     StillWaiting,        <Channel name: clix>,       2024-11-07 11:18:43.521550 
+
+ value1x,     Pffttt,        <Channel name: clix>,       2024-11-07 11:18:49.160887 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:19:25.771556 
+
+ value1x,     Erm,        <Channel name: clix>,       2024-11-07 11:19:27.818710 
+
+ value1x,     shut up feldy,        <Channel name: clix>,       2024-11-07 11:19:31.788480 
+
+ value1x,     SAJ ',        <Channel name: clix>,       2024-11-07 11:19:51.761022 
+
+ value1x,     stop bullying me SAJ,        <Channel name: clix>,       2024-11-07 11:20:01.088533 
+
+ value1x,     @Caucaze ^,        <Channel name: clix>,       2024-11-07 11:20:37.969865 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 11:20:52.377108 
+
+ value1x,     only 2 cars,        <Channel name: clix>,       2024-11-07 11:21:24.874665 
+
+ value1x,     6,        <Channel name: clix>,       2024-11-07 11:21:33.357119 
+
+ value1x,     Floppas,        <Channel name: clix>,       2024-11-07 11:22:10.469915 
+
+ value1x,     thats crazy,        <Channel name: clix>,       2024-11-07 11:22:27.331379 
+
+ value1x,     chug juh g,        <Channel name: clix>,       2024-11-07 11:22:46.684376 
+
+ value1x,     @nxtea1intme i dont give a shit,        <Channel name: clix>,       2024-11-07 11:23:01.921129 
+
+ value1x,     ?,        <Channel name: clix>,       2024-11-07 11:23:20.942694 
+
+ value1x,     MrFishkido, uuh,        <Channel name: clix>,       2024-11-07 11:23:28.783741 
+
+ value1x,     MrFishkido, wsg,        <Channel name: clix>,       2024-11-07 11:23:34.420549 
+
+ value1x,     NotMarkX, xD,        <Channel name: clix>,       2024-11-07 11:23:40.343411 
+
+ value1x,     ome44,        <Channel name: clix>,       2024-11-07 11:23:44.539746 
+
+ value1x,     @MrFishkido catNope,        <Channel name: clix>,       2024-11-07 11:23:51.024292 
+
+ value1x,     @MrFishkido Pointless,        <Channel name: clix>,       2024-11-07 11:24:20.661190 
+
+ value1x,     peepoBless,        <Channel name: clix>,       2024-11-07 11:25:14.237421 
+
+ value1x,     @Warriorgmz yes,        <Channel name: clix>,       2024-11-07 11:25:34.898219 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 11:25:38.292862 
+
+ value1x,     :),        <Channel name: clix>,       2024-11-07 11:26:48.373514 
+
+ value1x,     @c0urtneyamanda Prayge,        <Channel name: clix>,       2024-11-07 11:26:56.113130 
+
+ value1x,     @rishm2525 yes?,        <Channel name: clix>,       2024-11-07 11:27:28.573372 
+
+ value1x,     excel_slax, late night,        <Channel name: clix>,       2024-11-07 11:28:02.569749 
+
+ value1x,     @rishm2525 peepoThumb,        <Channel name: clix>,       2024-11-07 11:28:29.982077 
+
+ value1x,     FeelsBirthdayMan,        <Channel name: clix>,       2024-11-07 11:31:01.074061 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:31:28.667557 
+
+ value1x,     FeelsBirthdayMan,        <Channel name: clix>,       2024-11-07 11:31:40.421827 
+
+ value1x,     Freedom,        <Channel name: clix>,       2024-11-07 11:32:38.553532 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:33:28.516365 
+
+ value1x,     @nxtea1intme fuck u,        <Channel name: clix>,       2024-11-07 11:35:04.360823 
+
+ value1x,     @coppa0 ewd,        <Channel name: clix>,       2024-11-07 11:35:22.618517 
+
+ value1x,     WEDIDIT,        <Channel name: clix>,       2024-11-07 11:35:24.047991 
+
+ value1x,     i finally lost it guys,        <Channel name: clix>,       2024-11-07 11:35:31.713677 
+
+ value1x,     LETSGO,        <Channel name: clix>,       2024-11-07 11:35:32.945937 
+
+ value1x,     banjo_ye, Clueless,        <Channel name: clix>,       2024-11-07 11:35:44.881833 
+
+ value1x,     nah,        <Channel name: clix>,       2024-11-07 11:36:23.249409 
+
+ value1x,     ApuCozy,        <Channel name: clix>,       2024-11-07 11:36:44.091662 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 11:36:45.472829 
+
+ value1x,     rar,        <Channel name: clix>,       2024-11-07 11:36:57.162792 
+
+ value1x,     meow,        <Channel name: clix>,       2024-11-07 11:36:58.932535 
+
+ value1x,     maow,        <Channel name: clix>,       2024-11-07 11:37:01.436877 
+
+ value1x,     xset_micha7, 42,        <Channel name: clix>,       2024-11-07 11:37:29.026334 
+
+ value1x,     why is there 2 ppl with same name,        <Channel name: clix>,       2024-11-07 11:37:48.091373 
+
+ value1x,     monkaWeird,        <Channel name: clix>,       2024-11-07 11:37:48.993437 
+
+ value1x,     @c0urtneyamanda yes,        <Channel name: clix>,       2024-11-07 11:37:51.508688 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 11:38:13.812103 
+
+ value1x,     NOWAYING,        <Channel name: clix>,       2024-11-07 11:38:27.723786 
+
+ value1x,     BAND,        <Channel name: clix>,       2024-11-07 11:38:41.416299 
+
+ value1x,     @inpulsexda clixClown,        <Channel name: clix>,       2024-11-07 11:39:01.281052 
+
+ value1x,     @ViseZd ????,        <Channel name: clix>,       2024-11-07 11:39:40.789714 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:39:48.776292 
+
+ value1x,     Modding !,        <Channel name: clix>,       2024-11-07 11:39:55.545545 
+
+ value1x,     Pffttt,        <Channel name: clix>,       2024-11-07 11:40:06.768989 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 11:41:12.934710 
+
+ value1x,     dinkDonk,        <Channel name: clix>,       2024-11-07 11:41:21.195949 
+
+ value1x,     maow,        <Channel name: clix>,       2024-11-07 11:41:25.531413 
+
+ value1x,     meow,        <Channel name: clix>,       2024-11-07 11:41:30.172705 
+
+ value1x,     awoo,        <Channel name: clix>,       2024-11-07 11:41:34.778865 
+
+ value1x,     ongang,        <Channel name: clix>,       2024-11-07 11:41:37.358362 
+
+ value1x,     WePaid,        <Channel name: clix>,       2024-11-07 11:41:46.053247 
+
+ value1x,     HelloHowAreYouIAmUnderTheWater,        <Channel name: clix>,       2024-11-07 11:43:30.930919 
+
+ value1x,     jorkin,        <Channel name: clix>,       2024-11-07 11:44:00.279902 
+
+ value1x,     BOOBA,        <Channel name: clix>,       2024-11-07 11:44:34.426941 
+
+ value1x,     17 months thats it,        <Channel name: clix>,       2024-11-07 11:45:00.330848 
+
+ value1x,     SMH2,        <Channel name: clix>,       2024-11-07 11:45:11.467544 
+
+ value1x,     BOOBA,        <Channel name: clix>,       2024-11-07 11:45:32.796621 
+
+ value1x,     Fishinge,        <Channel name: clix>,       2024-11-07 11:46:40.672066 
+
+ value1x,     @styxkient rt,        <Channel name: clix>,       2024-11-07 11:50:33.895078 
+
+ value1x,     eepy,        <Channel name: clix>,       2024-11-07 11:52:33.707480 
+
+ value1x,     SNACKING,        <Channel name: clix>,       2024-11-07 11:53:55.252999 
+
+ value1x,     Floppas,        <Channel name: clix>,       2024-11-07 11:54:31.344943 
+
+ value1x,     bla,        <Channel name: clix>,       2024-11-07 11:55:06.349102 
+
+ value1x,     BLEH,        <Channel name: clix>,       2024-11-07 11:55:10.514744 
+
+ value1x,     FishMoley ?,        <Channel name: clix>,       2024-11-07 11:55:23.575019 
+
+ value1x,     juh,        <Channel name: clix>,       2024-11-07 11:56:27.305766 
+
+ value1x,     jah,        <Channel name: clix>,       2024-11-07 11:56:36.947871 
+
+ value1x,     juh,        <Channel name: clix>,       2024-11-07 11:57:07.840405 
+
+ value1x,     Dentge,        <Channel name: clix>,       2024-11-07 11:57:14.454276 
+
+ value1x,     :),        <Channel name: clix>,       2024-11-07 11:57:20.445179 
+
+ value1x,     CatTime,        <Channel name: clix>,       2024-11-07 11:57:31.872795 
+
+ value1x,     uh,        <Channel name: clix>,       2024-11-07 11:57:37.228886 
+
+ value1x,     catPls,        <Channel name: clix>,       2024-11-07 11:57:41.110882 
+
+ value1x,     gettingjiggywithit,        <Channel name: clix>,       2024-11-07 11:57:46.219188 
+
+ value1x,     Jigglin,        <Channel name: clix>,       2024-11-07 11:57:50.966494 
+
+ value1x,     FeelsGladMan,        <Channel name: clix>,       2024-11-07 11:58:01.549975 
+
+ value1x,     kittyJam,        <Channel name: clix>,       2024-11-07 11:58:08.874317 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 11:58:13.984968 
+
+ value1x,     omies Dentge,        <Channel name: clix>,       2024-11-07 11:58:18.646892 
+
+ value1x,     clixDent,        <Channel name: clix>,       2024-11-07 11:58:26.311830 
+
+ value1x,     GoatEmotey,        <Channel name: clix>,       2024-11-07 11:58:28.844691 
+
+ value1x,     jorkin,        <Channel name: clix>,       2024-11-07 11:58:34.001735 
+
+ value1x,     @railfanX es em hayche,        <Channel name: clix>,       2024-11-07 11:58:54.857960 
+
+ value1x,     catOverAsk,        <Channel name: clix>,       2024-11-07 11:59:06.841067 
+
+ value1x,     catOverAsk clix wake up!,        <Channel name: clix>,       2024-11-07 11:59:10.274745 
+
+ value1x,     catAsk,        <Channel name: clix>,       2024-11-07 11:59:16.891640 
+
+ value1x,     moving,        <Channel name: clix>,       2024-11-07 11:59:37.784772 
+
+ value1x,     buhFlipExplode,        <Channel name: clix>,       2024-11-07 11:59:49.574984 
+
+ value1x,     buhFlip,        <Channel name: clix>,       2024-11-07 11:59:58.271248 
+
+ value1x,     Aloo,        <Channel name: clix>,       2024-11-07 12:00:10.217837 
+
+ value1x,     peepoGlad,        <Channel name: clix>,       2024-11-07 12:00:21.933705 
+
+ value1x,     peepoGlad TeaTime,        <Channel name: clix>,       2024-11-07 12:00:28.229595 
+
+ value1x,     o7,        <Channel name: clix>,       2024-11-07 12:00:34.587295 
+
+ value1x,     ta7,        <Channel name: clix>,       2024-11-07 12:00:45.679283 
+
+ value1x,     Life,        <Channel name: clix>,       2024-11-07 12:00:54.151695 
+
+ value1x,     NOOOO,        <Channel name: clix>,       2024-11-07 12:01:15.489788 
+
+ value1x,     SAJ,        <Channel name: clix>,       2024-11-07 12:01:22.337178 
+
+ value1x,     wowie,        <Channel name: clix>,       2024-11-07 12:01:46.066324 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 12:01:51.828294 
+
+ value1x,     !vibecheck,        <Channel name: clix>,       2024-11-07 12:01:56.135161 
+
+ value1x,     mid,        <Channel name: clix>,       2024-11-07 12:02:00.208581 
+
+ value1x,     its ok,        <Channel name: clix>,       2024-11-07 12:02:07.602089 
+
+ value1x,     @inpulsexda no,        <Channel name: clix>,       2024-11-07 12:02:29.300161 
+
+ value1x,     SAJ,        <Channel name: clix>,       2024-11-07 12:02:53.966748 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 12:03:10.311671 
+
+ value1x,     FishMoley,        <Channel name: clix>,       2024-11-07 12:04:07.056928 
+
+ value1x,     SAJ,        <Channel name: clix>,       2024-11-07 12:05:20.875241 
+
+ value1x,     Life,        <Channel name: clix>,       2024-11-07 12:05:31.849621 
+
+ value1x,     anyways,        <Channel name: clix>,       2024-11-07 12:06:55.448714 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 12:07:58.531734 
+
+ value1x,     kunvergil, prePffttt,        <Channel name: clix>,       2024-11-07 12:08:12.725837 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 12:08:38.161062 
+
+ value1x,     @sniperletsgo no,        <Channel name: clix>,       2024-11-07 12:08:52.421157 
+
+ value1x,     sniperletsgo, he got a haircut yday,        <Channel name: clix>,       2024-11-07 12:09:22.273438 
+
+ value1x,     eww,        <Channel name: clix>,       2024-11-07 12:09:45.688594 
+
+ value1x,     wtf,        <Channel name: clix>,       2024-11-07 12:09:47.694291 
+
+ value1x,     ScorpyL2, clixHey,        <Channel name: clix>,       2024-11-07 12:10:35.761374 
+
+ value1x,     eepy,        <Channel name: clix>,       2024-11-07 12:10:53.527016 
+
+ value1x,     KonCha,        <Channel name: clix>,       2024-11-07 12:11:01.721440 
+
+ value1x,     @dukedennisfn_ channel points are 1.4m watchtime is almost 3k,        <Channel name: clix>,       2024-11-07 12:11:29.208093 
+
+ value1x,     peepoThumb,        <Channel name: clix>,       2024-11-07 12:11:33.512011 
+
+ value1x,     clixHey,        <Channel name: clix>,       2024-11-07 12:11:45.987656 
+
+ value1x,     Chatting,        <Channel name: clix>,       2024-11-07 12:12:16.608018 
+
+ value1x,     Jackon11, catSigh,        <Channel name: clix>,       2024-11-07 12:12:27.298997 
+
+ value1x,     el o el,        <Channel name: clix>,       2024-11-07 12:12:36.436193 
+
+ value1x,     inpulsexda, Chatting,        <Channel name: clix>,       2024-11-07 12:12:44.508583 
+
+ value1x,     value44,        <Channel name: clix>,       2024-11-07 12:12:51.459367 
+
+ value1x,     @TJHeinzo monkaWeird,        <Channel name: clix>,       2024-11-07 12:13:01.271477 
+
+ value1x,     BAND,        <Channel name: clix>,       2024-11-07 12:13:45.963324 
+
+ value1x,     ome18,        <Channel name: clix>,       2024-11-07 12:14:01.394839 
+
+ value1x,     WhatTaahFuck,        <Channel name: clix>,       2024-11-07 12:14:22.720727 
+
+ value1x,     BAAAAAAAAT,        <Channel name: clix>,       2024-11-07 12:14:52.840223 
+
+ value1x,     Life,        <Channel name: clix>,       2024-11-07 12:15:38.182768 
+
+ value1x,     @ScorpyL2 ome18,        <Channel name: clix>,       2024-11-07 12:16:01.465729 
+
+ value1x,     ome5,        <Channel name: clix>,       2024-11-07 12:16:16.958296 
+
+ value1x,     Instigate,        <Channel name: clix>,       2024-11-07 12:16:19.685163 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 12:16:26.287630 
+
+ value1x,     we all know scorpy,        <Channel name: clix>,       2024-11-07 12:16:32.938947 
+
+ value1x,     :),        <Channel name: clix>,       2024-11-07 12:16:35.331249 
+
+ value1x,     @de4fenn ?,        <Channel name: clix>,       2024-11-07 12:17:02.605238 
+
+ value1x,     AURA,        <Channel name: clix>,       2024-11-07 12:17:17.390727 
+
+ value1x,     xD,        <Channel name: clix>,       2024-11-07 12:17:37.529053 
+
+ value1x,     baseg,        <Channel name: clix>,       2024-11-07 12:18:01.648544 
+
+ value1x,     doid,        <Channel name: clix>,       2024-11-07 12:18:17.482353 
+
+ value1x,     hes mad quiet rn,        <Channel name: clix>,       2024-11-07 12:18:55.033708 
+
+ value1x,     modCheck,        <Channel name: clix>,       2024-11-07 12:18:56.470424 
+
+ value1x,     ome5,        <Channel name: clix>,       2024-11-07 12:19:18.664576 
+
+ value1x,     ome44,        <Channel name: clix>,       2024-11-07 12:20:09.266286 
+
+ value1x,     BUSSIN,        <Channel name: clix>,       2024-11-07 12:20:21.130311 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 12:20:27.338813 
+
+ value1x,     CoolCat,        <Channel name: clix>,       2024-11-07 12:20:51.278174 
+
+ value1x,     tubby live bye,        <Channel name: clix>,       2024-11-07 12:21:18.389011 
+
+ value1x,     hey chat!,        <Channel name: lacy>,       2024-11-07 12:22:00.905085 
+
+ value1x,     @inpulsexda wsg man,        <Channel name: lacy>,       2024-11-07 12:22:13.310429 
+
+ value1x,     WW,        <Channel name: lacy>,       2024-11-07 12:22:20.733416 
+
+ value1x,     inpulsexda, arent we all,        <Channel name: lacy>,       2024-11-07 12:22:37.797131 
+
+ value1x,     drew come on,        <Channel name: lacy>,       2024-11-07 12:22:51.551595 
+
+ value1x,     yes,        <Channel name: lacy>,       2024-11-07 12:22:53.014297 
+
+ value1x,     WICKED,        <Channel name: lacy>,       2024-11-07 12:23:00.996938 
+
+ value1x,     uuh,        <Channel name: lacy>,       2024-11-07 12:23:32.371199 
+
+ value1x,     uuh m,        <Channel name: lacy>,       2024-11-07 12:23:53.101271 
+
+ value1x,     AntiConned, KonCha,        <Channel name: lacy>,       2024-11-07 12:24:15.648222 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:24:41.413254 
+
+ value1x,     @AntiConned sus,        <Channel name: lacy>,       2024-11-07 12:24:48.897788 
+
+ value1x,     cozyCat,        <Channel name: clix>,       2024-11-07 12:25:40.686651 
+
+ value1x,     classic,        <Channel name: lacy>,       2024-11-07 12:26:18.653860 
+
+ value1x,     @Kyzerrr__ HUH,        <Channel name: clix>,       2024-11-07 12:26:34.612889 
+
+ value1x,     @inpulsexda nah i looked earlier,        <Channel name: clix>,       2024-11-07 12:26:46.377834 
+
+ value1x,     SMH,        <Channel name: clix>,       2024-11-07 12:26:55.063129 
+
+ value1x,     Floppas,        <Channel name: clix>,       2024-11-07 12:27:01.195085 
+
+ value1x,     cmonBrug,        <Channel name: clix>,       2024-11-07 12:27:14.332072 
+
+ value1x,     uuh,        <Channel name: lacy>,       2024-11-07 12:27:35.863965 
+
+ value1x,     nasty,        <Channel name: lacy>,       2024-11-07 12:27:44.140909 
+
+ value1x,     !vibecheck,        <Channel name: clix>,       2024-11-07 12:28:01.609931 
+
+ value1x,     Aware,        <Channel name: clix>,       2024-11-07 12:28:04.545948 
+
+ value1x,     bye,        <Channel name: clix>,       2024-11-07 12:28:15.703873 
+
+ value1x,     @Kyzerrr__ Erm,        <Channel name: clix>,       2024-11-07 12:28:45.255193 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:29:31.547618 
+
+ value1x,     Listening,        <Channel name: clix>,       2024-11-07 12:30:08.356919 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:30:57.418987 
+
+ value1x,     Psykl ?,        <Channel name: lacy>,       2024-11-07 12:31:16.021452 
+
+ value1x,     psykll, i saw that,        <Channel name: lacy>,       2024-11-07 12:31:30.216426 
+
+ value1x,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:31:49.317403 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:32:08.101310 
+
+ value1x,     Pffttt,        <Channel name: clix>,       2024-11-07 12:32:35.351424 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 12:32:37.720077 
+
+ value1x,     fullscreen,        <Channel name: clix>,       2024-11-07 12:32:42.074730 
+
+ value1x,     yuh,        <Channel name: clix>,       2024-11-07 12:32:58.180172 
+
+ value1x,     buh,        <Channel name: clix>,       2024-11-07 12:33:11.910846 
+
+ value1x,     buhFlipExplode,        <Channel name: clix>,       2024-11-07 12:33:24.206570 
+
+ value1x,     HUH,        <Channel name: clix>,       2024-11-07 12:34:17.669572 
+
+ value1x,     11:30 really,        <Channel name: clix>,       2024-11-07 12:34:45.282326 
+
+ value1x,     GLAZING,        <Channel name: clix>,       2024-11-07 12:35:01.271975 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 12:36:23.103662 
+
+ value1x,     lookUp,        <Channel name: clix>,       2024-11-07 12:36:36.607874 
+
+ value1x,     sus,        <Channel name: clix>,       2024-11-07 12:36:56.575916 
+
+ value1x,     Hmm,        <Channel name: clix>,       2024-11-07 12:37:06.100159 
+
+ value1x,     sus,        <Channel name: clix>,       2024-11-07 12:37:21.642058 
+
+ value1x,     sus sy,        <Channel name: clix>,       2024-11-07 12:37:31.419554 
+
+ value1x,     mad sus,        <Channel name: clix>,       2024-11-07 12:37:43.798096 
+
+ value1x,     HUH,        <Channel name: clix>,       2024-11-07 12:37:46.217086 
+
+ value1x,     wish that was me,        <Channel name: clix>,       2024-11-07 12:37:55.493169 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:38:09.325550 
+
+ value1x,     i do,        <Channel name: clix>,       2024-11-07 12:38:26.069229 
+
+ value1x,     WICKED ski,        <Channel name: clix>,       2024-11-07 12:38:44.303984 
+
+ value1x,     yes,        <Channel name: clix>,       2024-11-07 12:38:53.869492 
+
+ value1x,     @inpulsexda uuh,        <Channel name: clix>,       2024-11-07 12:39:10.460463 
+
+ value1x,     0,        <Channel name: clix>,       2024-11-07 12:39:15.901575 
+
+ value1x,     inpulsexda, idk,        <Channel name: clix>,       2024-11-07 12:39:37.461066 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 12:39:39.599067 
+
+ value1x,     LULW,        <Channel name: clix>,       2024-11-07 12:40:03.617882 
+
+ value1x,     omg lina Kreygasm,        <Channel name: clix>,       2024-11-07 12:40:06.481411 
+
+ value1x,     jorkin,        <Channel name: clix>,       2024-11-07 12:40:18.657768 
+
+ value1x,     i saw the last streams clips Wankge,        <Channel name: clix>,       2024-11-07 12:40:31.489050 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 12:40:47.647071 
+
+ value1x,     Chatting,        <Channel name: clix>,       2024-11-07 12:40:57.478434 
+
+ value1x,     AURA,        <Channel name: clix>,       2024-11-07 12:41:07.047116 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:41:16.729133 
+
+ value1x,     Aloo,        <Channel name: clix>,       2024-11-07 12:41:26.355746 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 12:41:34.141770 
+
+ value1x,     SMH,        <Channel name: clix>,       2024-11-07 12:41:39.858162 
+
+ value1x,     Aloo,        <Channel name: clix>,       2024-11-07 12:41:49.537480 
+
+ value1x,     oh no,        <Channel name: clix>,       2024-11-07 12:42:05.016770 
+
+ value1x,     Kreygasm,        <Channel name: clix>,       2024-11-07 12:42:12.285695 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:42:18.872156 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:42:43.460400 
+
+ value1x,     Pffttt,        <Channel name: clix>,       2024-11-07 12:43:02.059461 
+
+ value1x,     uhm,        <Channel name: clix>,       2024-11-07 12:43:15.843939 
+
+ value1x,     yes its me,        <Channel name: clix>,       2024-11-07 12:43:25.451598 
+
+ value1x,     put it in water,        <Channel name: clix>,       2024-11-07 12:44:10.690975 
+
+ value1x,     dankHug,        <Channel name: clix>,       2024-11-07 12:44:30.836698 
+
+ value1x,     insane,        <Channel name: clix>,       2024-11-07 12:45:32.484722 
+
+ value1x,     yes,        <Channel name: clix>,       2024-11-07 12:45:37.070480 
+
+ value1x,     yea i do,        <Channel name: clix>,       2024-11-07 12:45:56.044600 
+
+ value1x,     i got the watermelon flavour,        <Channel name: clix>,       2024-11-07 12:46:20.036465 
+
+ value1x,     Kreygasm,        <Channel name: clix>,       2024-11-07 12:46:22.239452 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:46:33.374146 
+
+ value1x,     xD,        <Channel name: clix>,       2024-11-07 12:46:49.772149 
+
+ value1x,     hahaha,        <Channel name: clix>,       2024-11-07 12:46:53.710113 
+
+ value1x,     ta lk,        <Channel name: clix>,       2024-11-07 12:47:26.511182 
+
+ value1x,     good,        <Channel name: clix>,       2024-11-07 12:47:37.534262 
+
+ value1x,     good man wbu,        <Channel name: clix>,       2024-11-07 12:47:54.556189 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 12:48:05.901996 
+
+ value1x,     rt,        <Channel name: clix>,       2024-11-07 12:48:19.182805 
+
+ value1x,     NOOOO,        <Channel name: clix>,       2024-11-07 12:48:27.832101 
+
+ value1x,     NOOOOOOOOO,        <Channel name: clix>,       2024-11-07 12:48:59.623187 
+
+ value1x,     peepoLeave,        <Channel name: clix>,       2024-11-07 12:49:21.774593 
+
+ value1x,     bye,        <Channel name: clix>,       2024-11-07 12:49:31.690644 
+
+ value1x,     bye,        <Channel name: lacy>,       2024-11-07 12:49:44.463646 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:50:12.536754 
+
+ value1x,     its me :D,        <Channel name: clix>,       2024-11-07 12:50:26.794333 
+
+ value1x,     TAWAY,        <Channel name: clix>,       2024-11-07 12:50:36.303752 
+
+ value1x,     PauseChamp,        <Channel name: clix>,       2024-11-07 12:51:07.123110 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:51:09.194755 
+
+ value1x,     NOWAY SADIE,        <Channel name: clix>,       2024-11-07 12:51:16.210391 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:51:22.669398 
+
+ value1x,     uuh . . .,        <Channel name: clix>,       2024-11-07 12:51:44.502416 
+
+ value1x,     uuh  . . .,        <Channel name: clix>,       2024-11-07 12:51:51.840573 
+
+ value1x,     uuh,        <Channel name: lacy>,       2024-11-07 12:52:05.809334 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 12:52:26.246432 
+
+ value1x,     el,        <Channel name: clix>,       2024-11-07 12:52:33.098306 
+
+ value1x,     ...,        <Channel name: clix>,       2024-11-07 12:52:38.501552 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 12:53:10.112148 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 12:53:15.813532 
+
+ value1x,     ScorpyL2, hi,        <Channel name: clix>,       2024-11-07 12:53:22.561174 
+
+ value1x,     hey,        <Channel name: clix>,       2024-11-07 12:53:54.683377 
+
+ value1x,     ok ok,        <Channel name: clix>,       2024-11-07 12:54:14.309426 
+
+ value1x,     WICKED ski,        <Channel name: clix>,       2024-11-07 12:54:22.844564 
+
+ value1x,     excuses,        <Channel name: clix>,       2024-11-07 12:54:36.144752 
+
+ value1x,     FirstTimeChatter,        <Channel name: clix>,       2024-11-07 12:54:47.289456 
+
+ value1x,     go tuah,        <Channel name: clix>,       2024-11-07 12:54:59.964887 
+
+ value1x,     Latege,        <Channel name: clix>,       2024-11-07 12:55:18.150372 
+
+ value1x,     cmonBruh,        <Channel name: clix>,       2024-11-07 12:56:23.652006 
+
+ value1x,     @NotMarkX yea me,        <Channel name: clix>,       2024-11-07 12:56:41.342111 
+
+ value1x,     i do,        <Channel name: clix>,       2024-11-07 12:57:03.030338 
+
+ value1x,     like fr,        <Channel name: clix>,       2024-11-07 12:57:07.033538 
+
+ value1x,     BOOBA,        <Channel name: clix>,       2024-11-07 12:57:18.345079 
+
+ value1x,     @NotMarkX we good,        <Channel name: clix>,       2024-11-07 12:57:55.132406 
+
+ value1x,     nah,        <Channel name: clix>,       2024-11-07 12:58:06.321137 
+
+ value1x,     i closed it too,        <Channel name: clix>,       2024-11-07 12:58:29.972778 
+
+ value1x,     shucks,        <Channel name: clix>,       2024-11-07 12:58:32.715496 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 12:59:13.785716 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 12:59:20.992441 
+
+ value1x,     only,        <Channel name: clix>,       2024-11-07 12:59:30.393737 
+
+ value1x,     WEDIDIT,        <Channel name: clix>,       2024-11-07 12:59:48.306487 
+
+ value1x,     FINALLY,        <Channel name: lacy>,       2024-11-07 13:00:15.510650 
+
+ value1x,     classic,        <Channel name: lacy>,       2024-11-07 13:00:24.330089 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 13:00:27.600939 
+
+ value1x,     jorkin,        <Channel name: clix>,       2024-11-07 13:01:03.807728 
+
+ value1x,     ome5,        <Channel name: clix>,       2024-11-07 13:01:31.009110 
+
+ value1x,     damn that sucks man,        <Channel name: clix>,       2024-11-07 13:02:00.533425 
+
+ value1x,     monkaM,        <Channel name: clix>,       2024-11-07 13:02:02.873884 
+
+ value1x,     jorkin,        <Channel name: clix>,       2024-11-07 13:02:06.447942 
+
+ value1x,     Hmm,        <Channel name: clix>,       2024-11-07 13:02:27.993620 
+
+ value1x,     yes,        <Channel name: clix>,       2024-11-07 13:02:39.755192 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 13:02:42.713889 
+
+ value1x,     black ngl,        <Channel name: clix>,       2024-11-07 13:03:08.396175 
+
+ value1x,     rt,        <Channel name: clix>,       2024-11-07 13:03:27.191890 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 13:04:27.784450 
+
+ value1x,     oh yuh,        <Channel name: clix>,       2024-11-07 13:04:44.751537 
+
+ value1x,     WW,        <Channel name: clix>,       2024-11-07 13:04:58.948686 
+
+ value1x,     pickling,        <Channel name: clix>,       2024-11-07 13:05:00.984993 
+
+ value1x,     @dimesrl hater,        <Channel name: clix>,       2024-11-07 13:05:34.440544 
+
+ value1x,     Weirdge,        <Channel name: clix>,       2024-11-07 13:05:43.649686 
+
+ value1x,     i do,        <Channel name: clix>,       2024-11-07 13:06:04.139346 
+
+ value1x,     i gifted 702 subs yday,        <Channel name: clix>,       2024-11-07 13:06:21.094811 
+
+ value1x,     this chat dude,        <Channel name: clix>,       2024-11-07 13:06:47.976049 
+
+ value1x,     @haassoons catKISS,        <Channel name: clix>,       2024-11-07 13:07:22.316516 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:07:53.523082 
+
+ value1x,     Pog,        <Channel name: clix>,       2024-11-07 13:08:03.936611 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:08:17.341856 
+
+ value1x,     PepegaEdit,        <Channel name: clix>,       2024-11-07 13:08:27.425300 
+
+ value1x,     -20,        <Channel name: clix>,       2024-11-07 13:09:06.163961 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 13:09:27.438921 
+
+ value1x,     wow,        <Channel name: clix>,       2024-11-07 13:10:07.139214 
+
+ value1x,     HUH,        <Channel name: clix>,       2024-11-07 13:10:20.215542 
+
+ value1x,     yea mine,        <Channel name: clix>,       2024-11-07 13:10:23.347203 
+
+ value1x,     ^,        <Channel name: clix>,       2024-11-07 13:10:51.056337 
+
+ value1x,     lol,        <Channel name: clix>,       2024-11-07 13:11:08.162546 
+
+ value1x,     pickling,        <Channel name: clix>,       2024-11-07 13:11:30.532096 
+
+ value1x,     Wokege,        <Channel name: clix>,       2024-11-07 13:11:42.643247 
+
+ value1x,     i loved watching u sleep clix,        <Channel name: clix>,       2024-11-07 13:11:55.237217 
+
+ value1x,     prePffttt,        <Channel name: clix>,       2024-11-07 13:13:17.229875 
+
+ value1x,     ?,        <Channel name: clix>,       2024-11-07 13:13:38.627426 
+
+ value1x,     @caxtash hello catKISS,        <Channel name: clix>,       2024-11-07 13:13:49.923801 
+
+ value1x,     did u wax yet clix,        <Channel name: clix>,       2024-11-07 13:14:04.106605 
+
+ value1x,     grotto,        <Channel name: clix>,       2024-11-07 13:14:30.786384 
+
+ value1x,     @caxtash yoyo wsg,        <Channel name: clix>,       2024-11-07 13:14:43.452120 
+
+ value1x,     Life,        <Channel name: clix>,       2024-11-07 13:14:57.078094 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:15:00.714363 
+
+ value1x,     yO,        <Channel name: clix>,       2024-11-07 13:15:15.331726 
+
+ value1x,     SiggyGG, FeelsWowMan,        <Channel name: clix>,       2024-11-07 13:15:35.297476 
+
+ value1x,     Pog,        <Channel name: clix>,       2024-11-07 13:17:39.159135 
+
+ value1x,     so dope,        <Channel name: clix>,       2024-11-07 13:17:47.603492 
+
+ value1x,     WEDIDIT,        <Channel name: clix>,       2024-11-07 13:17:59.550955 
+
+ value1x,     perhaps,        <Channel name: clix>,       2024-11-07 13:18:11.762952 
+
+ value1x,     nah not that,        <Channel name: clix>,       2024-11-07 13:18:34.549882 
+
+ value1x,     waterTime,        <Channel name: clix>,       2024-11-07 13:19:02.841759 
+
+ value1x,     wah tuh flip,        <Channel name: clix>,       2024-11-07 13:19:28.475526 
+
+ value1x,     bla bla bla,        <Channel name: clix>,       2024-11-07 13:19:42.610584 
+
+ value1x,     @c0urtneyamanda ^,        <Channel name: clix>,       2024-11-07 13:19:48.731654 
+
+ value1x,     bla bla bla,        <Channel name: clix>,       2024-11-07 13:20:00.139719 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:20:14.670622 
+
+ value1x,     yes,        <Channel name: clix>,       2024-11-07 13:20:31.554946 
+
+ value1x,     el o el,        <Channel name: clix>,       2024-11-07 13:20:39.611786 
+
+ value1x,     @ohkaait @Clix catOverAsk,        <Channel name: clix>,       2024-11-07 13:21:24.043017 
+
+ value1x,     Classic,        <Channel name: clix>,       2024-11-07 13:21:37.868265 
+
+ value1x,     LULW,        <Channel name: clix>,       2024-11-07 13:21:54.333329 
+
+ value1x,     haha,        <Channel name: clix>,       2024-11-07 13:22:19.383861 
+
+ value1x,     uhm,        <Channel name: clix>,       2024-11-07 13:22:31.165394 
+
+ value1x,     wah tuh flip,        <Channel name: clix>,       2024-11-07 13:23:02.727864 
+
+ value1x,     NOWAY YES,        <Channel name: clix>,       2024-11-07 13:23:14.647900 
+
+ value1x,     @ohkaait clix dinkDonk,        <Channel name: clix>,       2024-11-07 13:23:28.961283 
+
+ value1x,     LEEKD,        <Channel name: clix>,       2024-11-07 13:24:48.512333 
+
+ value1x,     WICKED,        <Channel name: clix>,       2024-11-07 13:25:24.215721 
+
+ value1x,     huh,        <Channel name: clix>,       2024-11-07 13:25:37.997752 
+
+ value1x,     tuh ffy,        <Channel name: clix>,       2024-11-07 13:26:16.378375 
+
+ value1x,     layan2ix_, wsg,        <Channel name: clix>,       2024-11-07 13:27:03.424980 
+
+ value1x,     TriEasy RapThis,        <Channel name: clix>,       2024-11-07 13:27:24.152358 
+
+ value1x,     layan2ix_, Pog,        <Channel name: clix>,       2024-11-07 13:27:40.125592 
+
+ value1x,     wah tuh flip,        <Channel name: clix>,       2024-11-07 13:27:55.646554 
+
+ value1x,     Okey,        <Channel name: clix>,       2024-11-07 13:28:09.573750 
+
+ value1x,     same,        <Channel name: clix>,       2024-11-07 13:28:11.952504 
+
+ value1x,     poroPls,        <Channel name: clix>,       2024-11-07 13:28:21.260812 
+
+ value1x,     nah frr,        <Channel name: clix>,       2024-11-07 13:28:35.923795 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:28:59.127268 
+
+ value1x,     FeelsLagMan,        <Channel name: clix>,       2024-11-07 13:30:00.052528 
+
+ value1x,     SnoopPls,        <Channel name: clix>,       2024-11-07 13:30:03.676138 
+
+ value1x,     SnoopPls RapThis,        <Channel name: clix>,       2024-11-07 13:30:13.488113 
+
+ value1x,     1 kid monkaM,        <Channel name: clix>,       2024-11-07 13:30:31.649659 
+
+ value1x,     idiot,        <Channel name: clix>,       2024-11-07 13:30:59.066517 
+
+ value1x,     doid,        <Channel name: clix>,       2024-11-07 13:31:30.154761 
+
+ value1x,     uuh,        <Channel name: clix>,       2024-11-07 13:31:36.600082 
+
+ value1x,     DIESOFCRINGE,        <Channel name: clix>,       2024-11-07 13:31:43.021916 
+
+ value1x,     DIESOFCRINGE ....,        <Channel name: clix>,       2024-11-07 13:31:45.227473 
+
+ value1x,     no,        <Channel name: clix>,       2024-11-07 13:32:12.356914 
+
+ value1x,     TriEasy RapThis,        <Channel name: clix>,       2024-11-07 13:32:48.850112 
+
+ value1x,     nice,        <Channel name: clix>,       2024-11-07 13:34:27.620961 
+
+ value1x,     monkaS,        <Channel name: clix>,       2024-11-07 13:35:02.190978 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 13:35:34.053727 
+
+ value1x,     Shruge,        <Channel name: clix>,       2024-11-07 13:36:08.363556 
+
+ value1x,     mhm,        <Channel name: clix>,       2024-11-07 13:36:32.105763 
+
+ value1x,     NOWAY,        <Channel name: clix>,       2024-11-07 13:36:45.573733 

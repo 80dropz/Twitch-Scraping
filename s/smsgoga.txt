@@ -1,0 +1,14 @@
+
+ smsgoga,     france,        <Channel name: shadowkekw>,       2024-11-07 10:18:34.198621 
+
+ smsgoga,     UAR,        <Channel name: shadowkekw>,       2024-11-07 10:19:09.220920 
+
+ smsgoga,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:40.665002 
+
+ smsgoga,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:19:42.976559 
+
+ smsgoga,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:20:05.835989 
+
+ smsgoga,     French,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.891927 
+
+ smsgoga,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:20:27.926470 

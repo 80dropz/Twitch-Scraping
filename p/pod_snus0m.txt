@@ -1,0 +1,6 @@
+
+ pod_snus0m,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:49:57.848510 
+
+ pod_snus0m,     german,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.993462 
+
+ pod_snus0m,     tailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:50.373455 

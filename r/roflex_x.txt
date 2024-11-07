@@ -1,0 +1,118 @@
+
+ roflex_x,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:08:01.810904 
+
+ roflex_x,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:11:17.121931 
+
+ roflex_x,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:49.915603 
+
+ roflex_x,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:08.148524 
+
+ roflex_x,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:13:43.818501 
+
+ roflex_x,     Mexica,        <Channel name: shadowkekw>,       2024-11-07 10:13:51.721280 
+
+ roflex_x,     Sweeden,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.308811 
+
+ roflex_x,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:19:03.200382 
+
+ roflex_x,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.894831 
+
+ roflex_x,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.157914 
+
+ roflex_x,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:23:23.051862 
+
+ roflex_x,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:24:15.290653 
+
+ roflex_x,     Sweeden,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.093965 
+
+ roflex_x,     Great britan,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.890657 
+
+ roflex_x,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:29:40.976328 
+
+ roflex_x,     South afrika,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.607112 
+
+ roflex_x,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.260007 
+
+ roflex_x,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.961259 
+
+ roflex_x,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.513521 
+
+ roflex_x,     South afrika\,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.205813 
+
+ roflex_x,     South afrika,        <Channel name: shadowkekw>,       2024-11-07 10:33:44.700619 
+
+ roflex_x,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:54.131790 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.364426 
+
+ roflex_x,     HU,        <Channel name: shadowkekw>,       2024-11-07 10:35:22.268060 
+
+ roflex_x,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.988062 
+
+ roflex_x,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:36:16.779879 
+
+ roflex_x,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:37:25.067880 
+
+ roflex_x,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.556532 
+
+ roflex_x,     US,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.513554 
+
+ roflex_x,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.562128 
+
+ roflex_x,     US,        <Channel name: shadowkekw>,       2024-11-07 10:39:25.243012 
+
+ roflex_x,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:40:16.979405 
+
+ roflex_x,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:25.678622 
+
+ roflex_x,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.559447 
+
+ roflex_x,     South africa,        <Channel name: shadowkekw>,       2024-11-07 10:45:19.371807 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:45:41.885248 
+
+ roflex_x,     South africa,        <Channel name: shadowkekw>,       2024-11-07 10:46:11.661376 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.273522 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:55:41.364683 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:57:11.068349 
+
+ roflex_x,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.722111 
+
+ roflex_x,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:59:03.120838 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:59:42.388496 
+
+ roflex_x,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 11:00:23.428632 
+
+ roflex_x,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 11:00:59.011652 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:01:22.261217 
+
+ roflex_x,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:01:34.463932 
+
+ roflex_x,     Croatica,        <Channel name: shadowkekw>,       2024-11-07 11:02:37.244458 
+
+ roflex_x,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:03:47.634074 
+
+ roflex_x,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:04:46.686511 
+
+ roflex_x,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 11:07:00.862373 
+
+ roflex_x,     Croatica,        <Channel name: shadowkekw>,       2024-11-07 11:07:08.918885 
+
+ roflex_x,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:07:37.437929 
+
+ roflex_x,     Croatica,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.308020 
+
+ roflex_x,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.111133 
+
+ roflex_x,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.036255 
+
+ roflex_x,     South africa,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.262029 
+
+ roflex_x,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.532073 
+
+ roflex_x,     Sweeden,        <Channel name: shadowkekw>,       2024-11-07 11:14:03.644373 

@@ -1,0 +1,50 @@
+
+ vibnster,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:38.810995 
+
+ vibnster,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:29.321450 
+
+ vibnster,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.353413 
+
+ vibnster,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.337960 
+
+ vibnster,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:12:43.560325 
+
+ vibnster,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:13:02.611335 
+
+ vibnster,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:14:35.890022 
+
+ vibnster,     England,        <Channel name: shadowkekw>,       2024-11-07 10:14:46.835724 
+
+ vibnster,     China,        <Channel name: shadowkekw>,       2024-11-07 10:15:04.840104 
+
+ vibnster,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:15:20.930938 
+
+ vibnster,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:39.445403 
+
+ vibnster,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:17:55.175276 
+
+ vibnster,     France,        <Channel name: shadowkekw>,       2024-11-07 10:18:25.983125 
+
+ vibnster,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:19:52.625678 
+
+ vibnster,     Karaganda,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.117130 
+
+ vibnster,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.090966 
+
+ vibnster,     France,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.378243 
+
+ vibnster,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.711431 
+
+ vibnster,     Us,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.696513 
+
+ vibnster,     South Korea,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.902238 
+
+ vibnster,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:40.536649 
+
+ vibnster,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.746965 
+
+ vibnster,     Dominika,        <Channel name: shadowkekw>,       2024-11-07 10:41:01.999607 
+
+ vibnster,     NPC],        <Channel name: shadowkekw>,       2024-11-07 11:46:33.047333 
+
+ vibnster,     NPC,        <Channel name: shadowkekw>,       2024-11-07 11:46:39.061274 

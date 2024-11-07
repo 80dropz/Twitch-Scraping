@@ -1,0 +1,62 @@
+
+ mizzail_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:36:46.435451 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.606792 
+
+ mizzail_,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.431599 
+
+ mizzail_,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.526611 
+
+ mizzail_,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:42:27.045854 
+
+ mizzail_,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.779513 
+
+ mizzail_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:44:19.115826 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:44:48.475202 
+
+ mizzail_,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.541362 
+
+ mizzail_,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:10.459781 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:46.690330 
+
+ mizzail_,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.401393 
+
+ mizzail_,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.571937 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.478652 
+
+ mizzail_,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.983584 
+
+ mizzail_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:33.842770 
+
+ mizzail_,     Lithuenia,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.045269 
+
+ mizzail_,     Sweden\,        <Channel name: shadowkekw>,       2024-11-07 10:56:04.898832 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:58:36.580749 
+
+ mizzail_,     Auu,        <Channel name: shadowkekw>,       2024-11-07 11:00:13.545943 
+
+ mizzail_,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:00:46.312341 
+
+ mizzail_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:05:26.169215 
+
+ mizzail_,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.155905 
+
+ mizzail_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.645621 
+
+ mizzail_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:07:32.991639 
+
+ mizzail_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:10:05.455529 
+
+ mizzail_,     Checia,        <Channel name: shadowkekw>,       2024-11-07 11:11:33.627865 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.865576 
+
+ mizzail_,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:13:29.988916 
+
+ mizzail_,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:13:52.888411 
+
+ mizzail_,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.793839 

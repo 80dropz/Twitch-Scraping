@@ -6,3 +6,15 @@
  kai_cenat_watchparty,     45,        <Channel name: kaicenat>,       2024-11-07 01:45:16.869256 
 
  kai_cenat_watchparty,     37,        <Channel name: kaicenat>,       2024-11-07 02:01:06.139720 
+
+ kai_cenat_watchparty,     i’m ready,        <Channel name: kaicenat>,       2024-11-07 11:21:18.550108 
+
+ kai_cenat_watchparty,     ready,        <Channel name: kaicenat>,       2024-11-07 11:21:20.262718 
+
+ kai_cenat_watchparty,     WTF,        <Channel name: kaicenat>,       2024-11-07 11:23:36.120876 
+
+ kai_cenat_watchparty,     ???,        <Channel name: kaicenat>,       2024-11-07 11:23:39.589743 
+
+ kai_cenat_watchparty,     get it to 230k,        <Channel name: kaicenat>,       2024-11-07 12:00:58.397586 
+
+ kai_cenat_watchparty,     230,        <Channel name: kaicenat>,       2024-11-07 12:01:02.644400 

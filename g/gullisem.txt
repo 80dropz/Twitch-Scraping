@@ -22,3 +22,41 @@
  gullisem,     )),        <Channel name: shadowkekw>,       2024-11-07 09:34:25.765088 
 
  gullisem,     zaza,        <Channel name: shadowkekw>,       2024-11-07 09:43:08.086895 
+
+ gullisem,     57,        <Channel name: shadowkekw>,       2024-11-07 10:12:50.093927 
+
+ gullisem,     33,        <Channel name: shadowkekw>,       2024-11-07 10:12:53.854935 
+
+ gullisem,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.591646 
+
+ gullisem,     kanada,        <Channel name: shadowkekw>,       2024-11-07 10:14:38.738680 
+
+ gullisem,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.148604 
+
+ gullisem,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.523128 
+
+ gullisem,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.572800 
+
+ gullisem,     india,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.626482 
+
+ gullisem,     uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 10:16:47.058333 
+
+ gullisem,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:17.690079 
+
+ gullisem,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:17:41.552369 
+
+ gullisem,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.200419 
+
+ gullisem,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:32.426173 
+
+ gullisem,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:50:19.253240 
+
+ gullisem,     hi,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.649748 
+
+ gullisem,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:50:06.087195 
+
+ gullisem,     5445,        <Channel name: shadowkekw>,       2024-11-07 12:31:06.959874 
+
+ gullisem,     89,        <Channel name: shadowkekw>,       2024-11-07 12:31:23.179543 
+
+ gullisem,     900,        <Channel name: shadowkekw>,       2024-11-07 12:40:05.535108 

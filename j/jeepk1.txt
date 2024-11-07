@@ -1,0 +1,12 @@
+
+ jeepk1,     dania,        <Channel name: shadowkekw>,       2024-11-07 10:10:29.523662 
+
+ jeepk1,     dgermani,        <Channel name: shadowkekw>,       2024-11-07 10:11:45.626103 
+
+ jeepk1,     singapur,        <Channel name: shadowkekw>,       2024-11-07 10:12:53.904510 
+
+ jeepk1,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:17:18.536229 
+
+ jeepk1,     china,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.934099 
+
+ jeepk1,     Azerbayjan,        <Channel name: shadowkekw>,       2024-11-07 10:58:00.054091 

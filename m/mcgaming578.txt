@@ -1,0 +1,12 @@
+
+ mcgaming578,     !roulette 1p,        <Channel name: kaicenat>,       2024-11-07 10:56:39.373367 
+
+ mcgaming578,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:56:51.462724 
+
+ mcgaming578,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:57:13.937627 
+
+ mcgaming578,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:57:31.582124 
+
+ mcgaming578,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:57:50.965052 
+
+ mcgaming578,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:58:01.572156 

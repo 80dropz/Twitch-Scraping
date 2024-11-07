@@ -2,3 +2,13 @@
  sh_t9,     20 second,        <Channel name: kaicenat>,       2024-11-07 01:43:37.216060 
 
  sh_t9,     Poll,        <Channel name: kaicenat>,       2024-11-07 01:44:41.504240 
+
+ sh_t9,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 10:22:00.587216 
+
+ sh_t9,     Wake up kaiiii,        <Channel name: kaicenat>,       2024-11-07 12:06:43.469610 
+
+ sh_t9,     Get uppp,        <Channel name: kaicenat>,       2024-11-07 12:06:54.185202 
+
+ sh_t9,     Gett upp,        <Channel name: kaicenat>,       2024-11-07 12:07:05.875667 
+
+ sh_t9,     Gett uuppp,        <Channel name: kaicenat>,       2024-11-07 12:14:47.367381 

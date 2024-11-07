@@ -1,0 +1,30 @@
+
+ ghost_playlister,     Huhh,        <Channel name: kaicenat>,       2024-11-07 12:11:50.504480 
+
+ ghost_playlister,     What's the sub count?,        <Channel name: kaicenat>,       2024-11-07 12:14:53.364533 
+
+ ghost_playlister,     !sub,        <Channel name: kaicenat>,       2024-11-07 12:15:09.499271 
+
+ ghost_playlister,     !time,        <Channel name: kaicenat>,       2024-11-07 12:15:48.339893 
+
+ ghost_playlister,     W gifter,        <Channel name: kaicenat>,       2024-11-07 12:17:28.067590 
+
+ ghost_playlister,     200 more!,        <Channel name: kaicenat>,       2024-11-07 12:19:15.233031 
+
+ ghost_playlister,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 12:19:43.050468 
+
+ ghost_playlister,     !time,        <Channel name: kaicenat>,       2024-11-07 12:19:58.536510 
+
+ ghost_playlister,     Activate !roulette please,        <Channel name: kaicenat>,       2024-11-07 12:20:19.752525 
+
+ ghost_playlister,     Tops  200,        <Channel name: kaicenat>,       2024-11-07 12:22:19.860531 
+
+ ghost_playlister,     Roulette,        <Channel name: kaicenat>,       2024-11-07 12:24:18.621129 
+
+ ghost_playlister,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 12:25:12.137984 
+
+ ghost_playlister,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 12:26:13.432038 
+
+ ghost_playlister,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 12:27:37.278055 
+
+ ghost_playlister,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 12:28:37.094011 

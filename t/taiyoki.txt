@@ -1,0 +1,20 @@
+
+ taiyoki,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.625385 
+
+ taiyoki,     montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:26:29.212113 
+
+ taiyoki,     es,        <Channel name: shadowkekw>,       2024-11-07 10:30:55.544994 
+
+ taiyoki,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:31:58.327090 
+
+ taiyoki,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:38:13.378791 
+
+ taiyoki,     112,        <Channel name: shadowkekw>,       2024-11-07 10:48:48.235320 
+
+ taiyoki,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.800194 
+
+ taiyoki,     ger,        <Channel name: shadowkekw>,       2024-11-07 10:58:38.484467 
+
+ taiyoki,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:39.397130 
+
+ taiyoki,     br,        <Channel name: shadowkekw>,       2024-11-07 11:14:35.661024 

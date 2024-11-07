@@ -1,0 +1,8 @@
+
+ 2msimas,     !sens,        <Channel name: mongraal>,       2024-11-07 12:17:48.158722 
+
+ 2msimas,     !commands,        <Channel name: mongraal>,       2024-11-07 12:18:10.836532 
+
+ 2msimas,     !sensitivity,        <Channel name: mongraal>,       2024-11-07 12:19:09.877760 
+
+ 2msimas,     !sens,        <Channel name: mongraal>,       2024-11-07 12:19:12.933978 

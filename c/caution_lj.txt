@@ -1,0 +1,10 @@
+
+ caution_lj,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 11:15:53.884327 
+
+ caution_lj,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 11:17:02.060921 
+
+ caution_lj,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 11:17:21.345824 
+
+ caution_lj,     !roullete 1,        <Channel name: kaicenat>,       2024-11-07 11:17:30.007145 
+
+ caution_lj,     !roulette 12,        <Channel name: kaicenat>,       2024-11-07 11:17:48.216857 

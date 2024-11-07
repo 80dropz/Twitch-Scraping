@@ -1,0 +1,4 @@
+
+ frextik,     bro what,        <Channel name: mongraal>,       2024-11-07 11:43:21.856439 
+
+ frextik,     !eor,        <Channel name: mongraal>,       2024-11-07 11:48:29.988959 

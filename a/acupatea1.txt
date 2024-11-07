@@ -1,0 +1,8 @@
+
+ acupatea1,     wear a scarf,        <Channel name: nadeshot>,       2024-11-07 12:33:51.853010 
+
+ acupatea1,     NO,        <Channel name: nadeshot>,       2024-11-07 12:35:24.781595 
+
+ acupatea1,     GIFT 500,        <Channel name: nadeshot>,       2024-11-07 12:35:36.494208 
+
+ acupatea1,     GOTTA BE 500,        <Channel name: nadeshot>,       2024-11-07 12:35:51.383662 

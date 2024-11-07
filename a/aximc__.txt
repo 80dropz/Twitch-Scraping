@@ -1,0 +1,10 @@
+
+ aximc__,     !monitor,        <Channel name: mrlust>,       2024-11-07 11:30:59.488876 
+
+ aximc__,     !number,        <Channel name: mrlust>,       2024-11-07 11:32:09.518498 
+
+ aximc__,     !internet,        <Channel name: mrlust>,       2024-11-07 11:33:23.951062 
+
+ aximc__,     !keyboard,        <Channel name: mrlust>,       2024-11-07 11:33:32.745436 
+
+ aximc__,     !sens,        <Channel name: mrlust>,       2024-11-07 11:33:57.921929 

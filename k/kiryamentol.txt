@@ -1,0 +1,100 @@
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:31.248469 
+
+ kiryamentol,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:11:43.905017 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:51.705176 
+
+ kiryamentol,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:12:22.604192 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:12:49.643548 
+
+ kiryamentol,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:12.885476 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:15:30.777729 
+
+ kiryamentol,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:06.070086 
+
+ kiryamentol,     georgia,        <Channel name: shadowkekw>,       2024-11-07 10:17:43.474140 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:17:46.830896 
+
+ kiryamentol,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:18:18.445363 
+
+ kiryamentol,     mongoliausa,        <Channel name: shadowkekw>,       2024-11-07 10:18:47.886825 
+
+ kiryamentol,     urugvai,        <Channel name: shadowkekw>,       2024-11-07 10:19:20.437806 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.483139 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:19:55.862196 
+
+ kiryamentol,     mangolz,        <Channel name: shadowkekw>,       2024-11-07 10:19:59.467152 
+
+ kiryamentol,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:20:03.373521 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:20:56.887159 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:21:12.995525 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:21:16.791029 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:21:35.325950 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.911725 
+
+ kiryamentol,     vietnam\,        <Channel name: shadowkekw>,       2024-11-07 10:23:38.061173 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:25:24.451750 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.440060 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:26:42.718413 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:26:43.779299 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:27:26.688959 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.362913 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.650147 
+
+ kiryamentol,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.858256 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:28:33.493447 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:29:34.150036 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:30:00.632838 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.853848 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:32:15.254969 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:32:37.367654 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.063847 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:35:24.220496 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:36:47.174657 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.967045 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.645171 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:39:11.074627 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:39:13.274064 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.589446 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.908266 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.821494 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.075191 
+
+ kiryamentol,     vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.948279 
+
+ kiryamentol,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:41:37.010324 

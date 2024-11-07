@@ -1,0 +1,4 @@
+
+ ander9_wq,     !earnings,        <Channel name: mongraal>,       2024-11-07 10:09:38.714061 
+
+ ander9_wq,     !faze,        <Channel name: mongraal>,       2024-11-07 10:10:37.399553 

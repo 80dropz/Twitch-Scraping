@@ -1,0 +1,42 @@
+
+ itsvic_401,     hi,        <Channel name: lacy>,       2024-11-07 12:34:33.470301 
+
+ itsvic_401,     sus,        <Channel name: lacy>,       2024-11-07 12:37:01.531426 
+
+ itsvic_401,     CAUGHT,        <Channel name: lacy>,       2024-11-07 12:37:21.865264 
+
+ itsvic_401,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:38:41.815516 
+
+ itsvic_401,     0,        <Channel name: lacy>,       2024-11-07 12:39:12.139156 
+
+ itsvic_401,     classic,        <Channel name: lacy>,       2024-11-07 12:41:40.471532 
+
+ itsvic_401,     uuh,        <Channel name: lacy>,       2024-11-07 12:43:09.081783 
+
+ itsvic_401,     NOOOO,        <Channel name: lacy>,       2024-11-07 12:49:05.952036 
+
+ itsvic_401,     SAJ,        <Channel name: lacy>,       2024-11-07 12:49:17.649952 
+
+ itsvic_401,     bye,        <Channel name: lacy>,       2024-11-07 12:49:36.812624 
+
+ itsvic_401,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:51:08.783704 
+
+ itsvic_401,     AURA,        <Channel name: lacy>,       2024-11-07 13:04:38.819467 
+
+ itsvic_401,     WW,        <Channel name: lacy>,       2024-11-07 13:04:48.536166 
+
+ itsvic_401,     g,        <Channel name: lacy>,       2024-11-07 13:11:44.253531 
+
+ itsvic_401,     f,        <Channel name: lacy>,       2024-11-07 13:11:46.364895 
+
+ itsvic_401,     BETTER,        <Channel name: lacy>,       2024-11-07 13:12:49.936489 
+
+ itsvic_401,     GOOD,        <Channel name: lacy>,       2024-11-07 13:13:06.194404 
+
+ itsvic_401,     gg,        <Channel name: lacy>,       2024-11-07 13:29:16.556473 
+
+ itsvic_401,     f,        <Channel name: lacy>,       2024-11-07 13:30:20.715379 
+
+ itsvic_401,     LMAOOOOOO,        <Channel name: lacy>,       2024-11-07 13:32:47.239778 
+
+ itsvic_401,     jorkin,        <Channel name: lacy>,       2024-11-07 13:36:39.791911 

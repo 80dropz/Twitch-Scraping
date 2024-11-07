@@ -1,0 +1,24 @@
+
+ z4koia,     LLL,        <Channel name: lacy>,       2024-11-07 12:52:18.681700 
+
+ z4koia,     LLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:24.972369 
+
+ z4koia,     LLLLLLLLLLLLLLLLLLLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:34.261042 
+
+ z4koia,     LLLLLLLLLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:39.372358 
+
+ z4koia,     LLLLLLLLLLLLLLLLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:46.386722 
+
+ z4koia,     LLLLLLLLLLLLLLLLL,        <Channel name: lacy>,       2024-11-07 12:52:49.321904 
+
+ z4koia,     ......,        <Channel name: lacy>,       2024-11-07 12:53:10.873536 
+
+ z4koia,     ........,        <Channel name: lacy>,       2024-11-07 12:53:16.185176 
+
+ z4koia,     GOOODD,        <Channel name: lacy>,       2024-11-07 12:53:27.525583 
+
+ z4koia,     GOOOOOOOOOOOOOOOOOOD,        <Channel name: lacy>,       2024-11-07 12:53:32.850403 
+
+ z4koia,     GOODD,        <Channel name: lacy>,       2024-11-07 12:53:40.244991 
+
+ z4koia,     WWWWWWWWWW,        <Channel name: lacy>,       2024-11-07 12:53:44.937966 

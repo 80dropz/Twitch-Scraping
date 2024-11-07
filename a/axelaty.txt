@@ -1,0 +1,4 @@
+
+ axelaty,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:52:02.286849 
+
+ axelaty,     !roulette 376,        <Channel name: kaicenat>,       2024-11-07 09:52:06.386803 

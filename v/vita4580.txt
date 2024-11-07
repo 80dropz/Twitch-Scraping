@@ -2,3 +2,37 @@
  vita4580,     )),        <Channel name: shadowkekw>,       2024-11-07 09:20:17.541629 
 
  vita4580,     )),        <Channel name: shadowkekw>,       2024-11-07 09:42:25.695138 
+
+ vita4580,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.912865 
+
+ vita4580,     China,        <Channel name: shadowkekw>,       2024-11-07 10:40:30.693203 
+
+ vita4580,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.771266 
+
+ vita4580,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.210433 
+
+ vita4580,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:41:37.327560 
+
+ vita4580,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.906643 
+
+ vita4580,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:45:00.225327 
+
+ vita4580,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:45:41.793207 
+
+ vita4580,     Congo,        <Channel name: shadowkekw>,       2024-11-07 10:45:57.353585 
+
+ vita4580,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:46:14.455403 
+
+ vita4580,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.325432 
+
+ vita4580,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:18.471780 
+
+ vita4580,     Zimbabve,        <Channel name: shadowkekw>,       2024-11-07 10:48:48.861940 
+
+ vita4580,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:23.856551 
+
+ vita4580,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:50:16.731860 
+
+ vita4580,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:42.043445 
+
+ vita4580,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:55:10.298904 

@@ -1,2 +1,6 @@
 
  profiht,     go,        <Channel name: kaicenat>,       2024-11-07 01:54:18.817690 
+
+ profiht,     AINTNOWAY,        <Channel name: kaicenat>,       2024-11-07 11:08:41.185583 
+
+ profiht,     crash out,        <Channel name: kaicenat>,       2024-11-07 11:11:42.393091 

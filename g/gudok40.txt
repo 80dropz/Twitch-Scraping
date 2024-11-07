@@ -1,0 +1,38 @@
+
+ gudok40,     +1,        <Channel name: shadowkekw>,       2024-11-07 10:06:20.486727 
+
+ gudok40,     iceleand,        <Channel name: shadowkekw>,       2024-11-07 10:08:43.015738 
+
+ gudok40,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:11:52.720362 
+
+ gudok40,     China,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.852117 
+
+ gudok40,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.127857 
+
+ gudok40,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:13:00.884985 
+
+ gudok40,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:13:43.534173 
+
+ gudok40,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:50.238116 
+
+ gudok40,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:14:42.287789 
+
+ gudok40,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.783167 
+
+ gudok40,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.971930 
+
+ gudok40,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:57.655798 
+
+ gudok40,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.379804 
+
+ gudok40,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:17.003398 
+
+ gudok40,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.639969 
+
+ gudok40,     \Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.136754 
+
+ gudok40,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.432153 
+
+ gudok40,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.029229 
+
+ gudok40,     @ranaronx @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:19:38.589696 

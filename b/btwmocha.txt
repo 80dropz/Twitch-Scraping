@@ -1,0 +1,8 @@
+
+ btwmocha,     !keyboard,        <Channel name: mongraal>,       2024-11-07 12:26:11.663196 
+
+ btwmocha,     !mouse,        <Channel name: mongraal>,       2024-11-07 12:26:31.868377 
+
+ btwmocha,     !monitor,        <Channel name: mongraal>,       2024-11-07 12:27:05.890663 
+
+ btwmocha,     !specs,        <Channel name: mongraal>,       2024-11-07 12:27:17.865238 

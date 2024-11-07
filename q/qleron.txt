@@ -1,0 +1,352 @@
+
+ qleron,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:28.258427 
+
+ qleron,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.449243 
+
+ qleron,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:08:55.102713 
+
+ qleron,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:16.930548 
+
+ qleron,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:25.801655 
+
+ qleron,     d,        <Channel name: shadowkekw>,       2024-11-07 10:10:30.430752 
+
+ qleron,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:10:46.741684 
+
+ qleron,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:24.192236 
+
+ qleron,     philipinnes,        <Channel name: shadowkekw>,       2024-11-07 10:12:47.214777 
+
+ qleron,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:13:33.245540 
+
+ qleron,     new york,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.839322 
+
+ qleron,     new york,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.380309 
+
+ qleron,     Kazahstan,        <Channel name: shadowkekw>,       2024-11-07 10:22:14.150322 
+
+ qleron,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.125154 
+
+ qleron,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:28:41.173265 
+
+ qleron,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:29:34.471518 
+
+ qleron,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:29:39.044242 
+
+ qleron,     Brunei,        <Channel name: shadowkekw>,       2024-11-07 10:30:00.844023 
+
+ qleron,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:30:14.912346 
+
+ qleron,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.354896 
+
+ qleron,     Kosovo,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.239476 
+
+ qleron,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:30:24.462741 
+
+ qleron,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.386251 
+
+ qleron,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.712680 
+
+ qleron,     Palau,        <Channel name: shadowkekw>,       2024-11-07 10:30:40.303195 
+
+ qleron,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:30:41.312223 
+
+ qleron,     Tonga,        <Channel name: shadowkekw>,       2024-11-07 10:30:42.493568 
+
+ qleron,     Libya,        <Channel name: shadowkekw>,       2024-11-07 10:31:00.058432 
+
+ qleron,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:31:02.754681 
+
+ qleron,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.618003 
+
+ qleron,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:31:20.871032 
+
+ qleron,     Czech Republic,        <Channel name: shadowkekw>,       2024-11-07 10:31:23.597021 
+
+ qleron,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:31:40.966008 
+
+ qleron,     Bosnia and Herzegovina,        <Channel name: shadowkekw>,       2024-11-07 10:31:42.195398 
+
+ qleron,     Brunei,        <Channel name: shadowkekw>,       2024-11-07 10:31:44.307939 
+
+ qleron,     Djibouti,        <Channel name: shadowkekw>,       2024-11-07 10:31:58.904974 
+
+ qleron,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 10:32:02.502676 
+
+ qleron,     Equatorial Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.099517 
+
+ qleron,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:32:22.959391 
+
+ qleron,     Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:32:39.462379 
+
+ qleron,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.311286 
+
+ qleron,     India,        <Channel name: shadowkekw>,       2024-11-07 10:32:59.957190 
+
+ qleron,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.286741 
+
+ qleron,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.851041 
+
+ qleron,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.360411 
+
+ qleron,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:33:47.198533 
+
+ qleron,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.431204 
+
+ qleron,     El Salvador,        <Channel name: shadowkekw>,       2024-11-07 10:33:55.192987 
+
+ qleron,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:33:59.419948 
+
+ qleron,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:34:10.126644 
+
+ qleron,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:34:14.828169 
+
+ qleron,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:34:36.062993 
+
+ qleron,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.151948 
+
+ qleron,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:36:13.371786 
+
+ qleron,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.014904 
+
+ qleron,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.880096 
+
+ qleron,     South Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:37:07.878445 
+
+ qleron,     Samoa,        <Channel name: shadowkekw>,       2024-11-07 10:37:28.671708 
+
+ qleron,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:37:30.873010 
+
+ qleron,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:37:49.544888 
+
+ qleron,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.987122 
+
+ qleron,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:14.478179 
+
+ qleron,     Laos,        <Channel name: shadowkekw>,       2024-11-07 10:38:16.224264 
+
+ qleron,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:38:40.219908 
+
+ qleron,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.210773 
+
+ qleron,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:38:59.422414 
+
+ qleron,     Liechtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:39:02.212240 
+
+ qleron,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:39:14.154850 
+
+ qleron,     Samoa,        <Channel name: shadowkekw>,       2024-11-07 10:39:16.259049 
+
+ qleron,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:39:18.578912 
+
+ qleron,     Nicaragua,        <Channel name: shadowkekw>,       2024-11-07 10:39:38.893017 
+
+ qleron,     Malawi,        <Channel name: shadowkekw>,       2024-11-07 10:39:43.062505 
+
+ qleron,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.457371 
+
+ qleron,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:40:07.126115 
+
+ qleron,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:40:10.255245 
+
+ qleron,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.010261 
+
+ qleron,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:40:35.612553 
+
+ qleron,     Mauritius,        <Channel name: shadowkekw>,       2024-11-07 10:40:49.118384 
+
+ qleron,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.600698 
+
+ qleron,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.490280 
+
+ qleron,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.116245 
+
+ qleron,     Burundi,        <Channel name: shadowkekw>,       2024-11-07 10:41:16.970123 
+
+ qleron,     Burkina Faso,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.792600 
+
+ qleron,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:41:35.369829 
+
+ qleron,     Belize,        <Channel name: shadowkekw>,       2024-11-07 10:41:37.363160 
+
+ qleron,     The Bahamas,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.582795 
+
+ qleron,     Bahrain,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.416051 
+
+ qleron,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.707488 
+
+ qleron,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.743632 
+
+ qleron,     Kuwait,        <Channel name: shadowkekw>,       2024-11-07 10:42:16.015549 
+
+ qleron,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.610560 
+
+ qleron,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.760099 
+
+ qleron,     Liberia,        <Channel name: shadowkekw>,       2024-11-07 10:42:23.112842 
+
+ qleron,     Maldives,        <Channel name: shadowkekw>,       2024-11-07 10:42:43.990567 
+
+ qleron,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:43:12.633176 
+
+ qleron,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:43:14.430206 
+
+ qleron,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.427658 
+
+ qleron,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:43:31.912025 
+
+ qleron,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:43:43.833399 
+
+ qleron,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:43:46.233101 
+
+ qleron,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.480798 
+
+ qleron,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:07.062781 
+
+ qleron,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:44:11.671720 
+
+ qleron,     The Gambia,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.282487 
+
+ qleron,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.903795 
+
+ qleron,     Cote d'Ivoire,        <Channel name: shadowkekw>,       2024-11-07 10:44:58.369092 
+
+ qleron,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:45:21.805325 
+
+ qleron,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:45:39.996947 
+
+ qleron,     Bahrain,        <Channel name: shadowkekw>,       2024-11-07 10:45:55.657577 
+
+ qleron,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:46:36.083776 
+
+ qleron,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:46:57.377970 
+
+ qleron,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:47:16.538413 
+
+ qleron,     Tajikistan,        <Channel name: shadowkekw>,       2024-11-07 10:47:34.459035 
+
+ qleron,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:54.620311 
+
+ qleron,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:48:15.139089 
+
+ qleron,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:48:34.125444 
+
+ qleron,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:48:50.057399 
+
+ qleron,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:49:06.472826 
+
+ qleron,     El Salvador,        <Channel name: shadowkekw>,       2024-11-07 10:49:24.143804 
+
+ qleron,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:49:44.571581 
+
+ qleron,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:50:27.739311 
+
+ qleron,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:51:05.581879 
+
+ qleron,     Paraguay,        <Channel name: shadowkekw>,       2024-11-07 10:51:26.457563 
+
+ qleron,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:52:31.687605 
+
+ qleron,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:52:51.755695 
+
+ qleron,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:53:34.736540 
+
+ qleron,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:53:56.750275 
+
+ qleron,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:54:46.103073 
+
+ qleron,     Costa Rica,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.789635 
+
+ qleron,     Grenada,        <Channel name: shadowkekw>,       2024-11-07 10:55:25.192261 
+
+ qleron,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:55:49.853225 
+
+ qleron,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:56:30.834218 
+
+ qleron,     Cameroon,        <Channel name: shadowkekw>,       2024-11-07 10:56:55.264419 
+
+ qleron,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:58:15.692574 
+
+ qleron,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:58:50.534454 
+
+ qleron,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.715286 
+
+ qleron,     San Marino,        <Channel name: shadowkekw>,       2024-11-07 11:00:18.755478 
+
+ qleron,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 11:01:37.773653 
+
+ qleron,     Mozambique,        <Channel name: shadowkekw>,       2024-11-07 11:02:38.476052 
+
+ qleron,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:03:52.592855 
+
+ qleron,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 11:05:25.524062 
+
+ qleron,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.728383 
+
+ qleron,     Eritrea,        <Channel name: shadowkekw>,       2024-11-07 11:05:39.719031 
+
+ qleron,     Cote d'Ivoire,        <Channel name: shadowkekw>,       2024-11-07 11:05:41.996439 
+
+ qleron,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:05:44.962197 
+
+ qleron,     Cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.970120 
+
+ qleron,     Ethiopia,        <Channel name: shadowkekw>,       2024-11-07 11:09:09.317859 
+
+ qleron,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.211153 
+
+ qleron,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 11:09:53.674723 
+
+ qleron,     Mauritius,        <Channel name: shadowkekw>,       2024-11-07 11:09:56.813274 
+
+ qleron,     Honduras,        <Channel name: shadowkekw>,       2024-11-07 11:09:59.688810 
+
+ qleron,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:10:02.011033 
+
+ qleron,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:10:15.134515 
+
+ qleron,     Finland\,        <Channel name: shadowkekw>,       2024-11-07 11:10:48.415728 
+
+ qleron,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:49.966859 
+
+ qleron,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 11:11:01.655536 
+
+ qleron,     Seychelles,        <Channel name: shadowkekw>,       2024-11-07 11:11:37.537084 
+
+ qleron,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:11:42.120923 
+
+ qleron,     Kosovo,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.080424 
+
+ qleron,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.468070 
+
+ qleron,     Cape Verde,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.805048 
+
+ qleron,     Andorra,        <Channel name: shadowkekw>,       2024-11-07 11:12:04.317601 
+
+ qleron,     Guinea,        <Channel name: shadowkekw>,       2024-11-07 11:12:09.343748 
+
+ qleron,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:13:02.312692 
+
+ qleron,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 11:13:06.225057 
+
+ qleron,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:13:08.642639 
+
+ qleron,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 11:13:10.472871 
+
+ qleron,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 11:13:13.491027 
+
+ qleron,     Nauru,        <Channel name: shadowkekw>,       2024-11-07 11:13:34.683000 
+
+ qleron,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:15:35.939954 
+
+ qleron,     Dominica,        <Channel name: shadowkekw>,       2024-11-07 11:15:44.985770 
+
+ qleron,     Dominican Republic,        <Channel name: shadowkekw>,       2024-11-07 11:15:47.345320 
+
+ qleron,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:15:49.059253 
+
+ qleron,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:15:50.401544 
+
+ qleron,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 11:15:51.775241 
+
+ qleron,     Hi shadow dark,        <Channel name: kaicenat>,       2024-11-07 11:42:25.963017 

@@ -1,0 +1,42 @@
+
+ moist_tee,     YES AT AGE 50,        <Channel name: lacy>,       2024-11-07 12:46:03.043387 
+
+ moist_tee,     I VAPE and I’m 50,        <Channel name: lacy>,       2024-11-07 12:48:11.893362 
+
+ moist_tee,     BYE,        <Channel name: lacy>,       2024-11-07 12:49:44.650742 
+
+ moist_tee,     SEE YA,        <Channel name: lacy>,       2024-11-07 12:49:54.838747 
+
+ moist_tee,     ANNA,        <Channel name: lacy>,       2024-11-07 12:50:25.137515 
+
+ moist_tee,     ANNA ANNA ANNA,        <Channel name: lacy>,       2024-11-07 12:50:51.180774 
+
+ moist_tee,     Ewwwww,        <Channel name: lacy>,       2024-11-07 12:52:08.535654 
+
+ moist_tee,     Ewwwwww,        <Channel name: lacy>,       2024-11-07 12:52:35.146721 
+
+ moist_tee,     EEEWWWwwwww,        <Channel name: lacy>,       2024-11-07 12:52:51.286736 
+
+ moist_tee,     ANNA BETTER,        <Channel name: lacy>,       2024-11-07 12:53:16.760436 
+
+ moist_tee,     ANNA ANNA ANNA,        <Channel name: lacy>,       2024-11-07 12:53:34.795174 
+
+ moist_tee,     Naaahhh not fun,        <Channel name: lacy>,       2024-11-07 12:55:22.528158 
+
+ moist_tee,     BORING AF,        <Channel name: lacy>,       2024-11-07 12:55:42.021048 
+
+ moist_tee,     You messed up not keeping ANNA,        <Channel name: lacy>,       2024-11-07 12:56:33.867378 
+
+ moist_tee,     We want ANNA,        <Channel name: lacy>,       2024-11-07 12:57:44.902279 
+
+ moist_tee,     Do coke,        <Channel name: lacy>,       2024-11-07 12:58:29.807562 
+
+ moist_tee,     ANNA ANNA,        <Channel name: lacy>,       2024-11-07 12:59:23.120796 
+
+ moist_tee,     GOOD,        <Channel name: lacy>,       2024-11-07 13:00:00.565278 
+
+ moist_tee,     1/10 streamer,        <Channel name: lacy>,       2024-11-07 13:00:40.520276 
+
+ moist_tee,     Anna,        <Channel name: lacy>,       2024-11-07 13:01:16.122597 
+
+ moist_tee,     ANNA,        <Channel name: lacy>,       2024-11-07 13:01:36.267114 

@@ -2,3 +2,7 @@
  thentler,     Poor miles,        <Channel name: kaicenat>,       2024-11-07 09:43:49.281255 
 
  thentler,     LOL,        <Channel name: kaicenat>,       2024-11-07 09:44:03.800344 
+
+ thentler,     LMAO,        <Channel name: kaicenat>,       2024-11-07 10:30:44.173169 
+
+ thentler,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 10:30:49.967730 

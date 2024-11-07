@@ -8,3 +8,7 @@
  theghoul420,     Larc,        <Channel name: megalodonvt>,       2024-11-07 09:43:12.507855 
 
  theghoul420,     Crail,        <Channel name: megalodonvt>,       2024-11-07 09:43:38.276387 
+
+ theghoul420,     Dens,        <Channel name: megalodonvt>,       2024-11-07 09:52:08.626667 
+
+ theghoul420,     Neds,        <Channel name: megalodonvt>,       2024-11-07 09:52:14.094190 

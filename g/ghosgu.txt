@@ -1,0 +1,14 @@
+
+ ghosgu,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:47:14.672615 
+
+ ghosgu,     bosnia,        <Channel name: shadowkekw>,       2024-11-07 10:47:55.540769 
+
+ ghosgu,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.388077 
+
+ ghosgu,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:50:20.630352 
+
+ ghosgu,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:54:42.613389 
+
+ ghosgu,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.346807 
+
+ ghosgu,     wales,        <Channel name: shadowkekw>,       2024-11-07 10:59:09.300217 

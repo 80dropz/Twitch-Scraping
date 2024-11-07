@@ -1,0 +1,16 @@
+
+ paaqt,     L,        <Channel name: lacy>,       2024-11-07 13:08:53.637214 
+
+ paaqt,     l,        <Channel name: lacy>,       2024-11-07 13:08:56.478407 
+
+ paaqt,     BRO»,        <Channel name: lacy>,       2024-11-07 13:09:35.913014 
+
+ paaqt,     W MODS,        <Channel name: lacy>,       2024-11-07 13:16:06.853735 
+
+ paaqt,     yea,        <Channel name: lacy>,       2024-11-07 13:17:23.915274 
+
+ paaqt,     THE DUDE IS LAGGING THE STREAM,        <Channel name: lacy>,       2024-11-07 13:20:31.884263 
+
+ paaqt,     GO HELP HER BRO,        <Channel name: lacy>,       2024-11-07 13:23:56.862064 
+
+ paaqt,     GOOD,        <Channel name: lacy>,       2024-11-07 13:25:09.968838 

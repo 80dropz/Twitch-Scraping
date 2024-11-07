@@ -1,0 +1,52 @@
+
+ grimer_prikuril,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:09:04.556276 
+
+ grimer_prikuril,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:06.937307 
+
+ grimer_prikuril,     grecce,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.784070 
+
+ grimer_prikuril,     france,        <Channel name: shadowkekw>,       2024-11-07 10:12:58.718141 
+
+ grimer_prikuril,     France,        <Channel name: shadowkekw>,       2024-11-07 10:13:41.375031 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:43.768177 
+
+ grimer_prikuril,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:03.130581 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:08.156346 
+
+ grimer_prikuril,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.520508 
+
+ grimer_prikuril,     China,        <Channel name: shadowkekw>,       2024-11-07 10:15:07.082007 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:15:21.430034 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.948350 
+
+ grimer_prikuril,     Egepet,        <Channel name: shadowkekw>,       2024-11-07 10:16:10.603982 
+
+ grimer_prikuril,     Mongolian,        <Channel name: shadowkekw>,       2024-11-07 10:16:45.261393 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:17:38.321525 
+
+ grimer_prikuril,     France,        <Channel name: shadowkekw>,       2024-11-07 10:17:51.633843 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.811945 
+
+ grimer_prikuril,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:19:08.554818 
+
+ grimer_prikuril,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:20:18.760006 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:21:07.843376 
+
+ grimer_prikuril,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.624050 
+
+ grimer_prikuril,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.535838 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:53.086170 
+
+ grimer_prikuril,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.014781 
+
+ grimer_prikuril,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.531214 
+
+ grimer_prikuril,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.620892 

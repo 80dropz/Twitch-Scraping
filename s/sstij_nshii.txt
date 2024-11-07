@@ -64,3 +64,7 @@
  sstij_nshii,     AAAAAAA,        <Channel name: kaicenat>,       2024-11-07 09:19:42.804551 
 
  sstij_nshii,     AAAAA,        <Channel name: kaicenat>,       2024-11-07 09:19:55.098440 
+
+ sstij_nshii,     230K CMONNN,        <Channel name: kaicenat>,       2024-11-07 13:32:02.577023 
+
+ sstij_nshii,     AFTER 4 FUCKING HOURS THIS GUY STILL HERE,        <Channel name: kaicenat>,       2024-11-07 13:36:49.163766 

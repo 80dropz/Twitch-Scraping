@@ -1,0 +1,16 @@
+
+ aart3x,     costa rica,        <Channel name: shadowkekw>,       2024-11-07 10:28:05.878691 
+
+ aart3x,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.335943 
+
+ aart3x,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.421506 
+
+ aart3x,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.474063 
+
+ aart3x,     rus,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.822376 
+
+ aart3x,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:13:01.434726 
+
+ aart3x,     sps,        <Channel name: shadowkekw>,       2024-11-07 11:53:58.715825 
+
+ aart3x,     ura,        <Channel name: shadowkekw>,       2024-11-07 11:54:18.987426 

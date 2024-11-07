@@ -1,0 +1,2 @@
+
+ vla_boss,     How long have you been standing?,        <Channel name: kaicenat>,       2024-11-07 12:26:48.742547 

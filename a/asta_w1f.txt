@@ -50,3 +50,11 @@
  asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:38:10.551541 
 
  asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:40:29.945283 
+
+ asta_w1f,     Malazyia,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.159359 
+
+ asta_w1f,     Malazia,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.692841 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 12:46:33.972442 
+
+ asta_w1f,     ss,        <Channel name: shadowkekw>,       2024-11-07 12:48:33.501020 

@@ -1,0 +1,10 @@
+
+ twitcho,     Goon Morning,        <Channel name: nadeshot>,       2024-11-07 11:37:07.536507 
+
+ twitcho,     WALEY,        <Channel name: nadeshot>,       2024-11-07 11:42:00.212750 
+
+ twitcho,     W cowboy santa,        <Channel name: nadeshot>,       2024-11-07 12:31:04.636994 
+
+ twitcho,     you are a hotdog real bad,        <Channel name: nadeshot>,       2024-11-07 12:32:04.288284 
+
+ twitcho,     sleep in it also,        <Channel name: nadeshot>,       2024-11-07 12:33:41.201971 

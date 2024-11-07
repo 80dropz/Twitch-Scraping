@@ -1,0 +1,416 @@
+
+ the_king_of_typos,     Same,        <Channel name: megalodonvt>,       2024-11-07 09:53:37.419875 
+
+ the_king_of_typos,     Shadow,        <Channel name: megalodonvt>,       2024-11-07 09:54:20.778316 
+
+ the_king_of_typos,     Slot,        <Channel name: megalodonvt>,       2024-11-07 09:55:52.392793 
+
+ the_king_of_typos,     Toys,        <Channel name: megalodonvt>,       2024-11-07 09:56:07.176891 
+
+ the_king_of_typos,     Leer,        <Channel name: megalodonvt>,       2024-11-07 09:58:27.361896 
+
+ the_king_of_typos,     Peer,        <Channel name: megalodonvt>,       2024-11-07 09:58:33.632022 
+
+ the_king_of_typos,     Mint,        <Channel name: megalodonvt>,       2024-11-07 10:00:28.383147 
+
+ the_king_of_typos,     Lint,        <Channel name: megalodonvt>,       2024-11-07 10:00:34.982484 
+
+ the_king_of_typos,     Mining,        <Channel name: megalodonvt>,       2024-11-07 10:01:00.480838 
+
+ the_king_of_typos,     Gint,        <Channel name: megalodonvt>,       2024-11-07 10:01:39.287366 
+
+ the_king_of_typos,     Dryer,        <Channel name: megalodonvt>,       2024-11-07 10:02:43.067062 
+
+ the_king_of_typos,     Yard,        <Channel name: megalodonvt>,       2024-11-07 10:02:50.692671 
+
+ the_king_of_typos,     Dear,        <Channel name: megalodonvt>,       2024-11-07 10:03:34.925968 
+
+ the_king_of_typos,     Read,        <Channel name: megalodonvt>,       2024-11-07 10:04:02.816202 
+
+ the_king_of_typos,     Fear,        <Channel name: megalodonvt>,       2024-11-07 10:04:12.846210 
+
+ the_king_of_typos,     Teal,        <Channel name: megalodonvt>,       2024-11-07 10:04:20.826784 
+
+ the_king_of_typos,     Open,        <Channel name: megalodonvt>,       2024-11-07 10:05:48.623947 
+
+ the_king_of_typos,     Ping,        <Channel name: megalodonvt>,       2024-11-07 10:06:01.019200 
+
+ the_king_of_typos,     Nipe,        <Channel name: megalodonvt>,       2024-11-07 10:06:53.317235 
+
+ the_king_of_typos,     Gine,        <Channel name: megalodonvt>,       2024-11-07 10:07:18.222695 
+
+ the_king_of_typos,     Free,        <Channel name: megalodonvt>,       2024-11-07 10:08:34.004198 
+
+ the_king_of_typos,     Feed,        <Channel name: megalodonvt>,       2024-11-07 10:08:39.894107 
+
+ the_king_of_typos,     Fear,        <Channel name: megalodonvt>,       2024-11-07 10:08:55.419845 
+
+ the_king_of_typos,     Oder,        <Channel name: megalodonvt>,       2024-11-07 10:09:10.195783 
+
+ the_king_of_typos,     Foder,        <Channel name: megalodonvt>,       2024-11-07 10:09:32.564834 
+
+ the_king_of_typos,     REed,        <Channel name: megalodonvt>,       2024-11-07 10:10:04.578527 
+
+ the_king_of_typos,     Deed,        <Channel name: megalodonvt>,       2024-11-07 10:10:26.307249 
+
+ the_king_of_typos,     Born,        <Channel name: megalodonvt>,       2024-11-07 10:11:40.011306 
+
+ the_king_of_typos,     Nobe,        <Channel name: megalodonvt>,       2024-11-07 10:11:48.603020 
+
+ the_king_of_typos,     Rone,        <Channel name: megalodonvt>,       2024-11-07 10:12:06.976699 
+
+ the_king_of_typos,     Hard,        <Channel name: megalodonvt>,       2024-11-07 10:13:00.794515 
+
+ the_king_of_typos,     Card,        <Channel name: megalodonvt>,       2024-11-07 10:13:07.256394 
+
+ the_king_of_typos,     Crab,        <Channel name: megalodonvt>,       2024-11-07 10:13:26.147602 
+
+ the_king_of_typos,     Chord,        <Channel name: megalodonvt>,       2024-11-07 10:13:38.742263 
+
+ the_king_of_typos,     Cord,        <Channel name: megalodonvt>,       2024-11-07 10:13:51.901137 
+
+ the_king_of_typos,     Card,        <Channel name: megalodonvt>,       2024-11-07 10:14:05.302513 
+
+ the_king_of_typos,     Bard,        <Channel name: megalodonvt>,       2024-11-07 10:14:11.902955 
+
+ the_king_of_typos,     Reach,        <Channel name: megalodonvt>,       2024-11-07 10:14:43.176978 
+
+ the_king_of_typos,     Pasel,        <Channel name: megalodonvt>,       2024-11-07 10:15:57.120635 
+
+ the_king_of_typos,     PPlap,        <Channel name: megalodonvt>,       2024-11-07 10:16:11.798434 
+
+ the_king_of_typos,     Plap,        <Channel name: megalodonvt>,       2024-11-07 10:16:18.149196 
+
+ the_king_of_typos,     Slap,        <Channel name: megalodonvt>,       2024-11-07 10:16:34.405569 
+
+ the_king_of_typos,     Appear,        <Channel name: megalodonvt>,       2024-11-07 10:17:33.881059 
+
+ the_king_of_typos,     Cues,        <Channel name: megalodonvt>,       2024-11-07 10:18:45.026855 
+
+ the_king_of_typos,     Exude,        <Channel name: megalodonvt>,       2024-11-07 10:18:55.203545 
+
+ the_king_of_typos,     Muse,        <Channel name: megalodonvt>,       2024-11-07 10:20:10.032320 
+
+ the_king_of_typos,     Cuss,        <Channel name: megalodonvt>,       2024-11-07 10:20:35.583427 
+
+ the_king_of_typos,     Doan,        <Channel name: megalodonvt>,       2024-11-07 10:21:33.943093 
+
+ the_king_of_typos,     Sand,        <Channel name: megalodonvt>,       2024-11-07 10:21:43.290276 
+
+ the_king_of_typos,     Snoob,        <Channel name: megalodonvt>,       2024-11-07 10:22:34.255783 
+
+ the_king_of_typos,     Well darn.,        <Channel name: megalodonvt>,       2024-11-07 10:23:38.897532 
+
+ the_king_of_typos,     WWalk,        <Channel name: megalodonvt>,       2024-11-07 10:24:37.417745 
+
+ the_king_of_typos,     Walk,        <Channel name: megalodonvt>,       2024-11-07 10:24:42.602317 
+
+ the_king_of_typos,     Clak,        <Channel name: megalodonvt>,       2024-11-07 10:24:58.157955 
+
+ the_king_of_typos,     Walt,        <Channel name: megalodonvt>,       2024-11-07 10:25:30.198592 
+
+ the_king_of_typos,     Wack,        <Channel name: megalodonvt>,       2024-11-07 10:25:52.812181 
+
+ the_king_of_typos,     Tack,        <Channel name: megalodonvt>,       2024-11-07 10:26:14.323851 
+
+ the_king_of_typos,     Lack,        <Channel name: megalodonvt>,       2024-11-07 10:26:29.307627 
+
+ the_king_of_typos,     Nail,        <Channel name: megalodonvt>,       2024-11-07 10:27:37.972363 
+
+ the_king_of_typos,     Villan,        <Channel name: megalodonvt>,       2024-11-07 10:28:02.422406 
+
+ the_king_of_typos,     Valna,        <Channel name: megalodonvt>,       2024-11-07 10:28:32.287658 
+
+ the_king_of_typos,     Vein,        <Channel name: megalodonvt>,       2024-11-07 10:28:53.061309 
+
+ the_king_of_typos,     Vain,        <Channel name: megalodonvt>,       2024-11-07 10:28:59.841608 
+
+ the_king_of_typos,     Vale,        <Channel name: megalodonvt>,       2024-11-07 10:29:18.362978 
+
+ the_king_of_typos,     Vall,        <Channel name: megalodonvt>,       2024-11-07 10:29:24.482313 
+
+ the_king_of_typos,     Nial,        <Channel name: megalodonvt>,       2024-11-07 10:29:43.628172 
+
+ the_king_of_typos,     Boat,        <Channel name: megalodonvt>,       2024-11-07 10:30:49.032272 
+
+ the_king_of_typos,     Bant,        <Channel name: megalodonvt>,       2024-11-07 10:30:58.934856 
+
+ the_king_of_typos,     Crocs,        <Channel name: megalodonvt>,       2024-11-07 10:33:48.129073 
+
+ the_king_of_typos,     Toss,        <Channel name: megalodonvt>,       2024-11-07 10:34:04.199524 
+
+ the_king_of_typos,     Corn,        <Channel name: megalodonvt>,       2024-11-07 10:34:16.409735 
+
+ the_king_of_typos,     Snore,        <Channel name: megalodonvt>,       2024-11-07 10:34:27.414025 
+
+ the_king_of_typos,     Rest,        <Channel name: megalodonvt>,       2024-11-07 10:34:47.593728 
+
+ the_king_of_typos,     Cost,        <Channel name: megalodonvt>,       2024-11-07 10:35:03.197605 
+
+ the_king_of_typos,     Cone,        <Channel name: megalodonvt>,       2024-11-07 10:35:25.070294 
+
+ the_king_of_typos,     Core,        <Channel name: megalodonvt>,       2024-11-07 10:35:47.841059 
+
+ the_king_of_typos,     Dear,        <Channel name: megalodonvt>,       2024-11-07 10:36:44.835874 
+
+ the_king_of_typos,     Clear,        <Channel name: megalodonvt>,       2024-11-07 10:36:51.254571 
+
+ the_king_of_typos,     Call,        <Channel name: megalodonvt>,       2024-11-07 10:37:03.842744 
+
+ the_king_of_typos,     Real,        <Channel name: megalodonvt>,       2024-11-07 10:37:10.673962 
+
+ the_king_of_typos,     DDeal,        <Channel name: megalodonvt>,       2024-11-07 10:37:32.706838 
+
+ the_king_of_typos,     Deal,        <Channel name: megalodonvt>,       2024-11-07 10:37:35.777549 
+
+ the_king_of_typos,     Lead,        <Channel name: megalodonvt>,       2024-11-07 10:37:48.703986 
+
+ the_king_of_typos,     Cale,        <Channel name: megalodonvt>,       2024-11-07 10:38:38.727145 
+
+ the_king_of_typos,     Hydra,        <Channel name: megalodonvt>,       2024-11-07 10:39:37.736068 
+
+ the_king_of_typos,     Yard,        <Channel name: megalodonvt>,       2024-11-07 10:39:49.655207 
+
+ the_king_of_typos,     Bard,        <Channel name: megalodonvt>,       2024-11-07 10:40:04.110120 
+
+ the_king_of_typos,     Card,        <Channel name: megalodonvt>,       2024-11-07 10:40:08.420002 
+
+ the_king_of_typos,     Daly,        <Channel name: megalodonvt>,       2024-11-07 10:40:55.786854 
+
+ the_king_of_typos,     Layd,        <Channel name: megalodonvt>,       2024-11-07 10:41:26.098787 
+
+ the_king_of_typos,     Exude,        <Channel name: megalodonvt>,       2024-11-07 10:43:16.493459 
+
+ the_king_of_typos,     Feed,        <Channel name: megalodonvt>,       2024-11-07 10:43:27.440363 
+
+ the_king_of_typos,     Cues,        <Channel name: megalodonvt>,       2024-11-07 10:43:50.866667 
+
+ the_king_of_typos,     Excuse,        <Channel name: megalodonvt>,       2024-11-07 10:44:11.988464 
+
+ the_king_of_typos,     Delud,        <Channel name: megalodonvt>,       2024-11-07 10:44:31.569023 
+
+ the_king_of_typos,     Leed,        <Channel name: megalodonvt>,       2024-11-07 10:45:16.261260 
+
+ the_king_of_typos,     Cued,        <Channel name: megalodonvt>,       2024-11-07 10:46:15.493581 
+
+ the_king_of_typos,     Fual,        <Channel name: megalodonvt>,       2024-11-07 10:46:31.127855 
+
+ the_king_of_typos,     Fail,        <Channel name: megalodonvt>,       2024-11-07 10:46:40.253035 
+
+ the_king_of_typos,     Quail,        <Channel name: megalodonvt>,       2024-11-07 10:46:57.549250 
+
+ the_king_of_typos,     Eclair,        <Channel name: megalodonvt>,       2024-11-07 10:47:20.483530 
+
+ the_king_of_typos,     Clair,        <Channel name: megalodonvt>,       2024-11-07 10:47:33.137460 
+
+ the_king_of_typos,     Freak,        <Channel name: megalodonvt>,       2024-11-07 10:48:17.150626 
+
+ the_king_of_typos,     ggs,        <Channel name: megalodonvt>,       2024-11-07 10:48:36.727997 
+
+ the_king_of_typos,     Holy cow, Selsoh is an absolute UNIT in this.,        <Channel name: megalodonvt>,       2024-11-07 10:49:24.305402 
+
+ the_king_of_typos,     Cesar,        <Channel name: megalodonvt>,       2024-11-07 10:49:44.582558 
+
+ the_king_of_typos,     Creas,        <Channel name: megalodonvt>,       2024-11-07 10:49:59.256237 
+
+ the_king_of_typos,     Sace,        <Channel name: megalodonvt>,       2024-11-07 10:50:43.715149 
+
+ the_king_of_typos,     Been,        <Channel name: megalodonvt>,       2024-11-07 10:52:39.154414 
+
+ the_king_of_typos,     Benet,        <Channel name: megalodonvt>,       2024-11-07 10:52:48.639349 
+
+ the_king_of_typos,     Fent,        <Channel name: megalodonvt>,       2024-11-07 10:52:55.937963 
+
+ the_king_of_typos,     Bent,        <Channel name: megalodonvt>,       2024-11-07 10:52:59.680377 
+
+ the_king_of_typos,     Feet,        <Channel name: megalodonvt>,       2024-11-07 10:53:24.122224 
+
+ the_king_of_typos,     Neet,        <Channel name: megalodonvt>,       2024-11-07 10:53:34.290601 
+
+ the_king_of_typos,     Nine,        <Channel name: megalodonvt>,       2024-11-07 10:54:21.589845 
+
+ the_king_of_typos,     Pent,        <Channel name: megalodonvt>,       2024-11-07 10:55:40.081256 
+
+ the_king_of_typos,     Cent,        <Channel name: megalodonvt>,       2024-11-07 10:55:49.691561 
+
+ the_king_of_typos,     Tent,        <Channel name: megalodonvt>,       2024-11-07 10:55:59.993968 
+
+ the_king_of_typos,     Cern,        <Channel name: megalodonvt>,       2024-11-07 10:57:05.774911 
+
+ the_king_of_typos,     Return,        <Channel name: megalodonvt>,       2024-11-07 10:57:19.765945 
+
+ the_king_of_typos,     Necter,        <Channel name: megalodonvt>,       2024-11-07 10:57:38.565480 
+
+ the_king_of_typos,     Fester,        <Channel name: megalodonvt>,       2024-11-07 10:58:38.237872 
+
+ the_king_of_typos,     Muse,        <Channel name: megalodonvt>,       2024-11-07 10:58:51.524812 
+
+ the_king_of_typos,     Nose,        <Channel name: megalodonvt>,       2024-11-07 10:59:34.415580 
+
+ the_king_of_typos,     Secur,        <Channel name: megalodonvt>,       2024-11-07 11:00:19.071488 
+
+ the_king_of_typos,     Pillar,        <Channel name: megalodonvt>,       2024-11-07 11:01:41.591940 
+
+ the_king_of_typos,     Frill,        <Channel name: megalodonvt>,       2024-11-07 11:01:59.073157 
+
+ the_king_of_typos,     Flip,        <Channel name: megalodonvt>,       2024-11-07 11:02:23.961568 
+
+ the_king_of_typos,     Coil,        <Channel name: megalodonvt>,       2024-11-07 11:02:34.371328 
+
+ the_king_of_typos,     Goil,        <Channel name: megalodonvt>,       2024-11-07 11:02:49.608428 
+
+ the_king_of_typos,     Slice,        <Channel name: megalodonvt>,       2024-11-07 11:04:45.866614 
+
+ the_king_of_typos,     Lich,        <Channel name: megalodonvt>,       2024-11-07 11:06:03.617956 
+
+ the_king_of_typos,     Ices,        <Channel name: megalodonvt>,       2024-11-07 11:06:31.954438 
+
+ the_king_of_typos,     Dare,        <Channel name: megalodonvt>,       2024-11-07 11:08:44.345992 
+
+ the_king_of_typos,     Pare,        <Channel name: megalodonvt>,       2024-11-07 11:09:10.173047 
+
+ the_king_of_typos,     Dear,        <Channel name: megalodonvt>,       2024-11-07 11:09:32.904182 
+
+ the_king_of_typos,     Reaper,        <Channel name: megalodonvt>,       2024-11-07 11:10:02.193770 
+
+ the_king_of_typos,     Edar,        <Channel name: megalodonvt>,       2024-11-07 11:11:13.934390 
+
+ the_king_of_typos,     Daper,        <Channel name: megalodonvt>,       2024-11-07 11:11:41.746345 
+
+ the_king_of_typos,     Dale,        <Channel name: megalodonvt>,       2024-11-07 11:12:54.424932 
+
+ the_king_of_typos,     Ladder,        <Channel name: megalodonvt>,       2024-11-07 11:13:06.850289 
+
+ the_king_of_typos,     Land,        <Channel name: megalodonvt>,       2024-11-07 11:13:13.797518 
+
+ the_king_of_typos,     Gala,        <Channel name: megalodonvt>,       2024-11-07 11:13:48.503005 
+
+ the_king_of_typos,     Naga,        <Channel name: megalodonvt>,       2024-11-07 11:14:02.780892 
+
+ the_king_of_typos,     Lard,        <Channel name: megalodonvt>,       2024-11-07 11:14:24.500385 
+
+ the_king_of_typos,     Rang,        <Channel name: megalodonvt>,       2024-11-07 11:14:45.106262 
+
+ the_king_of_typos,     Gand,        <Channel name: megalodonvt>,       2024-11-07 11:14:57.785649 
+
+ the_king_of_typos,     Gander,        <Channel name: megalodonvt>,       2024-11-07 11:15:08.659730 
+
+ the_king_of_typos,     Maze,        <Channel name: megalodonvt>,       2024-11-07 11:16:09.455243 
+
+ the_king_of_typos,     Daze,        <Channel name: megalodonvt>,       2024-11-07 11:16:31.276586 
+
+ the_king_of_typos,     Bean,        <Channel name: megalodonvt>,       2024-11-07 11:16:41.242045 
+
+ the_king_of_typos,     Benz,        <Channel name: megalodonvt>,       2024-11-07 11:16:56.545064 
+
+ the_king_of_typos,     Rare,        <Channel name: megalodonvt>,       2024-11-07 11:17:04.138499 
+
+ the_king_of_typos,     Love,        <Channel name: megalodonvt>,       2024-11-07 11:17:47.808107 
+
+ the_king_of_typos,     Dove,        <Channel name: megalodonvt>,       2024-11-07 11:17:54.458799 
+
+ the_king_of_typos,     Role,        <Channel name: megalodonvt>,       2024-11-07 11:18:06.522497 
+
+ the_king_of_typos,     Rool,        <Channel name: megalodonvt>,       2024-11-07 11:18:18.802708 
+
+ the_king_of_typos,     Oven,        <Channel name: megalodonvt>,       2024-11-07 11:18:39.358053 
+
+ the_king_of_typos,     Rev,        <Channel name: megalodonvt>,       2024-11-07 11:18:59.616762 
+
+ the_king_of_typos,     Vell,        <Channel name: megalodonvt>,       2024-11-07 11:19:10.587503 
+
+ the_king_of_typos,     Pancake,        <Channel name: megalodonvt>,       2024-11-07 11:20:13.182688 
+
+ the_king_of_typos,     Panic,        <Channel name: megalodonvt>,       2024-11-07 11:20:20.347364 
+
+ the_king_of_typos,     Open,        <Channel name: megalodonvt>,       2024-11-07 11:20:27.110041 
+
+ the_king_of_typos,     Sona,        <Channel name: megalodonvt>,       2024-11-07 11:20:51.116159 
+
+ the_king_of_typos,     Naps,        <Channel name: megalodonvt>,       2024-11-07 11:21:10.145031 
+
+ the_king_of_typos,     Shop,        <Channel name: megalodonvt>,       2024-11-07 11:21:46.207286 
+
+ the_king_of_typos,     Chaos,        <Channel name: megalodonvt>,       2024-11-07 11:22:01.574743 
+
+ the_king_of_typos,     Fued,        <Channel name: megalodonvt>,       2024-11-07 11:22:39.293734 
+
+ the_king_of_typos,     Fuel,        <Channel name: megalodonvt>,       2024-11-07 11:22:47.816004 
+
+ the_king_of_typos,     Fual,        <Channel name: megalodonvt>,       2024-11-07 11:22:56.399963 
+
+ the_king_of_typos,     F is fake,        <Channel name: megalodonvt>,       2024-11-07 11:23:15.973401 
+
+ the_king_of_typos,     Fall,        <Channel name: megalodonvt>,       2024-11-07 11:23:25.418753 
+
+ the_king_of_typos,     Land,        <Channel name: megalodonvt>,       2024-11-07 11:23:44.425212 
+
+ the_king_of_typos,     Band,        <Channel name: megalodonvt>,       2024-11-07 11:23:53.775889 
+
+ the_king_of_typos,     Ggs,        <Channel name: megalodonvt>,       2024-11-07 11:24:28.249448 
+
+ the_king_of_typos,     Nickel,        <Channel name: megalodonvt>,       2024-11-07 11:25:26.344798 
+
+ the_king_of_typos,     Peek,        <Channel name: megalodonvt>,       2024-11-07 11:25:44.305360 
+
+ the_king_of_typos,     Keep,        <Channel name: megalodonvt>,       2024-11-07 11:25:50.896357 
+
+ the_king_of_typos,     Peel,        <Channel name: megalodonvt>,       2024-11-07 11:25:56.201641 
+
+ the_king_of_typos,     Ping,        <Channel name: megalodonvt>,       2024-11-07 11:26:07.024387 
+
+ the_king_of_typos,     Nein,        <Channel name: megalodonvt>,       2024-11-07 11:26:14.058432 
+
+ the_king_of_typos,     Pink,        <Channel name: megalodonvt>,       2024-11-07 11:26:39.454140 
+
+ the_king_of_typos,     Nike,        <Channel name: megalodonvt>,       2024-11-07 11:27:27.108500 
+
+ the_king_of_typos,     Diced,        <Channel name: megalodonvt>,       2024-11-07 11:28:18.464557 
+
+ the_king_of_typos,     Died,        <Channel name: megalodonvt>,       2024-11-07 11:28:30.023082 
+
+ the_king_of_typos,     Cidded,        <Channel name: megalodonvt>,       2024-11-07 11:29:38.781048 
+
+ the_king_of_typos,     Dede,        <Channel name: megalodonvt>,       2024-11-07 11:30:43.812361 
+
+ the_king_of_typos,     Dime,        <Channel name: megalodonvt>,       2024-11-07 11:32:30.691865 
+
+ the_king_of_typos,     Dagger,        <Channel name: megalodonvt>,       2024-11-07 11:32:48.860876 
+
+ the_king_of_typos,     GGram,        <Channel name: megalodonvt>,       2024-11-07 11:33:16.903481 
+
+ the_king_of_typos,     Gram,        <Channel name: megalodonvt>,       2024-11-07 11:33:23.185249 
+
+ the_king_of_typos,     Amar,        <Channel name: megalodonvt>,       2024-11-07 11:33:45.278581 
+
+ the_king_of_typos,     Port,        <Channel name: megalodonvt>,       2024-11-07 11:36:02.090153 
+
+ the_king_of_typos,     Corp,        <Channel name: megalodonvt>,       2024-11-07 11:36:15.912481 
+
+ the_king_of_typos,     Rolo,        <Channel name: megalodonvt>,       2024-11-07 11:37:13.924262 
+
+ the_king_of_typos,     Toco,        <Channel name: megalodonvt>,       2024-11-07 11:37:30.511335 
+
+ the_king_of_typos,     Coffee,        <Channel name: megalodonvt>,       2024-11-07 11:38:22.086109 
+
+ the_king_of_typos,     Fake Q,        <Channel name: megalodonvt>,       2024-11-07 11:41:43.676684 
+
+ the_king_of_typos,     Oled,        <Channel name: megalodonvt>,       2024-11-07 11:42:57.013000 
+
+ the_king_of_typos,     Cute,        <Channel name: megalodonvt>,       2024-11-07 11:44:17.014226 
+
+ the_king_of_typos,     Quiz,        <Channel name: megalodonvt>,       2024-11-07 11:44:31.166429 
+
+ the_king_of_typos,     Meal,        <Channel name: megalodonvt>,       2024-11-07 11:45:10.514020 
+
+ the_king_of_typos,     Tule,        <Channel name: megalodonvt>,       2024-11-07 11:45:31.000352 
+
+ the_king_of_typos,     Eager,        <Channel name: megalodonvt>,       2024-11-07 11:46:48.218102 
+
+ the_king_of_typos,     Leer,        <Channel name: megalodonvt>,       2024-11-07 11:47:03.931734 
+
+ the_king_of_typos,     Gabriel,        <Channel name: megalodonvt>,       2024-11-07 11:47:37.842309 
+
+ the_king_of_typos,     Recead,        <Channel name: megalodonvt>,       2024-11-07 11:48:00.922865 
+
+ the_king_of_typos,     Carer,        <Channel name: megalodonvt>,       2024-11-07 11:48:51.917636 

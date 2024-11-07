@@ -1,0 +1,74 @@
+
+ s5frmrisky,     W miles,        <Channel name: kaicenat>,       2024-11-07 09:52:30.616482 
+
+ s5frmrisky,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:52:38.487294 
+
+ s5frmrisky,     !points,        <Channel name: kaicenat>,       2024-11-07 10:15:59.008175 
+
+ s5frmrisky,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:16:25.233359 
+
+ s5frmrisky,     !points,        <Channel name: kaicenat>,       2024-11-07 10:17:53.537395 
+
+ s5frmrisky,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:30:25.919166 
+
+ s5frmrisky,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:30:54.544543 
+
+ s5frmrisky,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:40:11.473272 
+
+ s5frmrisky,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:40:38.473100 
+
+ s5frmrisky,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:42:05.403448 
+
+ s5frmrisky,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 10:42:33.881416 
+
+ s5frmrisky,     !points,        <Channel name: kaicenat>,       2024-11-07 10:44:36.239942 
+
+ s5frmrisky,     Production fin get fired,        <Channel name: kaicenat>,       2024-11-07 10:46:03.274055 
+
+ s5frmrisky,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 10:46:41.354841 
+
+ s5frmrisky,     W gifted,        <Channel name: kaicenat>,       2024-11-07 10:47:59.387511 
+
+ s5frmrisky,     W cam,        <Channel name: kaicenat>,       2024-11-07 10:48:25.987153 
+
+ s5frmrisky,     70,        <Channel name: kaicenat>,       2024-11-07 10:50:25.738466 
+
+ s5frmrisky,     Yo,        <Channel name: kaicenat>,       2024-11-07 10:50:34.752626 
+
+ s5frmrisky,     Wth,        <Channel name: kaicenat>,       2024-11-07 10:50:39.354735 
+
+ s5frmrisky,     Blud what,        <Channel name: kaicenat>,       2024-11-07 10:50:43.988392 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 10:51:09.304109 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 10:52:31.854897 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 10:53:58.719743 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 10:55:34.851156 
+
+ s5frmrisky,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 10:57:40.885681 
+
+ s5frmrisky,     Not again,        <Channel name: kaicenat>,       2024-11-07 10:59:13.590960 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 11:00:22.073608 
+
+ s5frmrisky,     Wwwwww,        <Channel name: kaicenat>,       2024-11-07 11:00:41.414039 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 11:00:43.655105 
+
+ s5frmrisky,     Ww,        <Channel name: kaicenat>,       2024-11-07 11:00:46.955026 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 11:01:19.163510 
+
+ s5frmrisky,     W,        <Channel name: kaicenat>,       2024-11-07 11:08:02.394464 
+
+ s5frmrisky,     2,        <Channel name: kaicenat>,       2024-11-07 11:17:51.692193 
+
+ s5frmrisky,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 11:18:02.669233 
+
+ s5frmrisky,     !points,        <Channel name: kaicenat>,       2024-11-07 11:18:13.136519 
+
+ s5frmrisky,     !points,        <Channel name: kaicenat>,       2024-11-07 11:18:47.040640 
+
+ s5frmrisky,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 11:19:21.257181 

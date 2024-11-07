@@ -1,0 +1,4 @@
+
+ swagg,     im awake,        <Channel name: swagg>,       2024-11-07 11:20:32.833933 
+
+ swagg,     oh wait wrong account,        <Channel name: swagg>,       2024-11-07 11:20:38.267268 

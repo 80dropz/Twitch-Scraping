@@ -1,0 +1,8 @@
+
+ cytoc1s,     !points,        <Channel name: kaicenat>,       2024-11-07 10:28:49.265362 
+
+ cytoc1s,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:29:39.498659 
+
+ cytoc1s,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:29:53.489702 
+
+ cytoc1s,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:30:07.972703 

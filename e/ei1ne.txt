@@ -1,0 +1,152 @@
+
+ ei1ne,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.954717 
+
+ ei1ne,     Em,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.074469 
+
+ ei1ne,     900,        <Channel name: shadowkekw>,       2024-11-07 11:18:43.474556 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 11:21:44.707402 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:22:16.875802 
+
+ ei1ne,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:37.771993 
+
+ ei1ne,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:54.411850 
+
+ ei1ne,     Em,        <Channel name: shadowkekw>,       2024-11-07 11:23:57.230290 
+
+ ei1ne,     Loodomanych,        <Channel name: shadowkekw>,       2024-11-07 11:24:39.222014 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 11:24:41.394054 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:02.276623 
+
+ ei1ne,     0-0,        <Channel name: shadowkekw>,       2024-11-07 11:26:17.893827 
+
+ ei1ne,     0,        <Channel name: shadowkekw>,       2024-11-07 11:26:24.420068 
+
+ ei1ne,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:30:01.777411 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:15.206760 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 11:32:32.103292 
+
+ ei1ne,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:37:04.435714 
+
+ ei1ne,     https://www.twitch.tv/shadowkekw/clip/MotionlessImportantMonkeyRuleFive-9BRQTmNFD2N_xzXU,        <Channel name: shadowkekw>,       2024-11-07 11:38:33.546802 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:39:05.694658 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 11:40:21.457952 
+
+ ei1ne,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:40:56.702479 
+
+ ei1ne,     900,        <Channel name: shadowkekw>,       2024-11-07 11:41:35.857980 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:42:05.914794 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 11:42:20.468748 
+
+ ei1ne,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:42:53.600899 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:49.722069 
+
+ ei1ne,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:00.677876 
+
+ ei1ne,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:34.799298 
+
+ ei1ne,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:41.420733 
+
+ ei1ne,     wow,        <Channel name: shadowkekw>,       2024-11-07 11:50:32.946540 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 11:50:44.115315 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:49.734464 
+
+ ei1ne,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:06.409392 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:43.142763 
+
+ ei1ne,     YYYYYY,        <Channel name: shadowkekw>,       2024-11-07 11:56:06.121429 
+
+ ei1ne,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:40.660330 
+
+ ei1ne,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:39.550156 
+
+ ei1ne,     @FeelsSunnyMan <3,        <Channel name: shadowkekw>,       2024-11-07 12:03:20.552869 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:03:44.348947 
+
+ ei1ne,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:04:01.535609 
+
+ ei1ne,     112,        <Channel name: shadowkekw>,       2024-11-07 12:04:24.947181 
+
+ ei1ne,     aunkere,        <Channel name: shadowkekw>,       2024-11-07 12:05:49.008608 
+
+ ei1ne,     BB,        <Channel name: shadowkekw>,       2024-11-07 12:06:48.073609 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 12:06:51.577330 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:07:22.483816 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 12:08:44.567342 
+
+ ei1ne,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:09:41.631465 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:09:48.580789 
+
+ ei1ne,     900,        <Channel name: shadowkekw>,       2024-11-07 12:09:58.270604 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:10:05.938510 
+
+ ei1ne,     f,        <Channel name: shadowkekw>,       2024-11-07 12:10:09.039715 
+
+ ei1ne,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:10:22.774965 
+
+ ei1ne,     xd,        <Channel name: shadowkekw>,       2024-11-07 12:11:31.316800 
+
+ ei1ne,     zaza,        <Channel name: shadowkekw>,       2024-11-07 12:11:40.960001 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:12:35.415228 
+
+ ei1ne,     mhm,        <Channel name: shadowkekw>,       2024-11-07 12:12:54.812313 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:30.225866 
+
+ ei1ne,     Em,        <Channel name: shadowkekw>,       2024-11-07 12:14:59.871587 
+
+ ei1ne,     0-0,        <Channel name: shadowkekw>,       2024-11-07 12:16:04.981713 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:18:03.812975 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:18:27.155384 
+
+ ei1ne,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:19:58.608035 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:20:42.542041 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:21:08.251483 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:22:46.571666 
+
+ ei1ne,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:23:10.133773 
+
+ ei1ne,     o,        <Channel name: shadowkekw>,       2024-11-07 12:23:30.440136 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:36:50.942791 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:38:53.808779 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 12:40:53.412228 
+
+ ei1ne,     O,        <Channel name: shadowkekw>,       2024-11-07 12:41:28.189302 
+
+ ei1ne,     EJ,        <Channel name: shadowkekw>,       2024-11-07 12:43:06.009015 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:43:12.594233 
+
+ ei1ne,     )),        <Channel name: shadowkekw>,       2024-11-07 12:45:09.460019 
+
+ ei1ne,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:45:38.211550 
+
+ ei1ne,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:54:20.024961 

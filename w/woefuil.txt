@@ -1,0 +1,20 @@
+
+ woefuil,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:59.232514 
+
+ woefuil,     !roulette 1k,        <Channel name: kaicenat>,       2024-11-07 10:16:48.834969 
+
+ woefuil,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:17:10.224973 
+
+ woefuil,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:17:23.799802 
+
+ woefuil,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 10:17:33.128784 
+
+ woefuil,     !roulette 16,        <Channel name: kaicenat>,       2024-11-07 10:17:45.732995 
+
+ woefuil,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:17:58.848662 
+
+ woefuil,     !roulette 22,        <Channel name: kaicenat>,       2024-11-07 10:18:04.291711 
+
+ woefuil,     !roulette 44,        <Channel name: kaicenat>,       2024-11-07 10:18:13.506741 
+
+ woefuil,     !roulette 88,        <Channel name: kaicenat>,       2024-11-07 10:18:26.360998 

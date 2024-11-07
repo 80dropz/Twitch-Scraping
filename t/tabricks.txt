@@ -1,0 +1,112 @@
+
+ tabricks,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.029982 
+
+ tabricks,     texas,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.185852 
+
+ tabricks,     chine,        <Channel name: shadowkekw>,       2024-11-07 10:36:06.187572 
+
+ tabricks,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:23.648465 
+
+ tabricks,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.065852 
+
+ tabricks,     france,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.724718 
+
+ tabricks,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.388551 
+
+ tabricks,     france,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.841689 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:39:21.961614 
+
+ tabricks,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:40:00.685552 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 10:40:49.018801 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.517368 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.877800 
+
+ tabricks,     south corea,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.921446 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.710829 
+
+ tabricks,     france,        <Channel name: shadowkekw>,       2024-11-07 10:45:06.453173 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:46:08.022075 
+
+ tabricks,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:46:23.312336 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.343163 
+
+ tabricks,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:47:40.380658 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 10:48:10.247612 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:48:41.225845 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 10:48:54.044460 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:49:10.354957 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.225634 
+
+ tabricks,     hong kong,        <Channel name: shadowkekw>,       2024-11-07 10:50:09.187497 
+
+ tabricks,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:35.532746 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.340616 
+
+ tabricks,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.887112 
+
+ tabricks,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.466441 
+
+ tabricks,     hong kong,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.980664 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.022889 
+
+ tabricks,     france,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.428354 
+
+ tabricks,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.766311 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:54:05.690914 
+
+ tabricks,     hong kong,        <Channel name: shadowkekw>,       2024-11-07 10:54:29.062373 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:54:53.580905 
+
+ tabricks,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.016399 
+
+ tabricks,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:56:03.509204 
+
+ tabricks,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.872055 
+
+ tabricks,     france,        <Channel name: shadowkekw>,       2024-11-07 10:56:48.079793 
+
+ tabricks,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:57:33.666109 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.644623 
+
+ tabricks,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:45.218614 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:32.170486 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:01:11.449521 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:02:02.898938 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 11:03:13.506275 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:04:38.822471 
+
+ tabricks,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:04:48.794106 
+
+ tabricks,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:04:56.159234 
+
+ tabricks,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:05:40.358848 
+
+ tabricks,     india,        <Channel name: shadowkekw>,       2024-11-07 11:05:43.981146 
+
+ tabricks,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:05:45.399289 
+
+ tabricks,     ua,        <Channel name: shadowkekw>,       2024-11-07 11:06:05.016872 
+
+ tabricks,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:06:15.154786 

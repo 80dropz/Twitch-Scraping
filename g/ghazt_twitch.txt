@@ -1,0 +1,16 @@
+
+ ghazt_twitch,     !time,        <Channel name: kaicenat>,       2024-11-07 10:58:04.715483 
+
+ ghazt_twitch,     again???,        <Channel name: kaicenat>,       2024-11-07 11:27:58.701941 
+
+ ghazt_twitch,     *dies*,        <Channel name: kaicenat>,       2024-11-07 11:28:36.393909 
+
+ ghazt_twitch,     another one,        <Channel name: kaicenat>,       2024-11-07 11:28:57.872161 
+
+ ghazt_twitch,     !time,        <Channel name: kaicenat>,       2024-11-07 11:31:18.157974 
+
+ ghazt_twitch,     shadow must be a millionaire,        <Channel name: kaicenat>,       2024-11-07 11:32:11.738260 
+
+ ghazt_twitch,     bambaclat,        <Channel name: kaicenat>,       2024-11-07 12:55:14.213556 
+
+ ghazt_twitch,     gift 100,        <Channel name: kaicenat>,       2024-11-07 12:57:27.686573 

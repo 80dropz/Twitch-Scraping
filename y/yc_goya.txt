@@ -1,0 +1,6 @@
+
+ yc_goya,     LUL,        <Channel name: kaicenat>,       2024-11-07 13:13:46.017242 
+
+ yc_goya,     SOLD,        <Channel name: kaicenat>,       2024-11-07 13:24:27.529305 
+
+ yc_goya,     LUL,        <Channel name: kaicenat>,       2024-11-07 13:27:13.688238 

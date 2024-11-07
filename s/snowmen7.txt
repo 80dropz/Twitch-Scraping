@@ -1,0 +1,52 @@
+
+ snowmen7,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:22.200119 
+
+ snowmen7,     EGYPET,        <Channel name: shadowkekw>,       2024-11-07 10:12:44.551258 
+
+ snowmen7,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:13:49.168808 
+
+ snowmen7,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.945421 
+
+ snowmen7,     india,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.388937 
+
+ snowmen7,     scotland,        <Channel name: shadowkekw>,       2024-11-07 10:23:06.114658 
+
+ snowmen7,     chili,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.325728 
+
+ snowmen7,     suka,        <Channel name: shadowkekw>,       2024-11-07 10:24:11.672233 
+
+ snowmen7,     tgypt,        <Channel name: shadowkekw>,       2024-11-07 10:25:42.591372 
+
+ snowmen7,     cheat,        <Channel name: shadowkekw>,       2024-11-07 10:26:34.635900 
+
+ snowmen7,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:26:59.516085 
+
+ snowmen7,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.514623 
+
+ snowmen7,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.923948 
+
+ snowmen7,     tunis,        <Channel name: shadowkekw>,       2024-11-07 10:38:10.123688 
+
+ snowmen7,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.097266 
+
+ snowmen7,     irland,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.272540 
+
+ snowmen7,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.017911 
+
+ snowmen7,     croaria,        <Channel name: shadowkekw>,       2024-11-07 10:51:01.811425 
+
+ snowmen7,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:51:16.762457 
+
+ snowmen7,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:52:27.976446 
+
+ snowmen7,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:45.720356 
+
+ snowmen7,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:55:01.116626 
+
+ snowmen7,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.063951 
+
+ snowmen7,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.640026 
+
+ snowmen7,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:57:20.463650 
+
+ snowmen7,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:58.756483 

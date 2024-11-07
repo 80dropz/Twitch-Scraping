@@ -1,0 +1,2 @@
+
+ slyr60fps,     He is bugged, when rebooted it fixes the bug. ITs a walking bug that does not allow the character to move,        <Channel name: mongraal>,       2024-11-07 13:09:30.415685 

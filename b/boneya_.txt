@@ -4,3 +4,45 @@
  boneya_,     xD,        <Channel name: shadowkekw>,       2024-11-07 09:27:43.251514 
 
  boneya_,     XD,        <Channel name: shadowkekw>,       2024-11-07 09:35:19.320280 
+
+ boneya_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:45:08.909938 
+
+ boneya_,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:46:01.139103 
+
+ boneya_,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:47:07.419475 
+
+ boneya_,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:47:36.859490 
+
+ boneya_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.376250 
+
+ boneya_,     Bosnia,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.462931 
+
+ boneya_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.048119 
+
+ boneya_,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:49:30.858034 
+
+ boneya_,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.028470 
+
+ boneya_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:31.606227 
+
+ boneya_,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.431005 
+
+ boneya_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:52:35.636661 
+
+ boneya_,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:52:58.063957 
+
+ boneya_,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:17.166062 
+
+ boneya_,     Combodia,        <Channel name: shadowkekw>,       2024-11-07 10:55:30.292974 
+
+ boneya_,     America,        <Channel name: shadowkekw>,       2024-11-07 10:55:59.564060 
+
+ boneya_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.399071 
+
+ boneya_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:58:04.104613 
+
+ boneya_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:00:24.469063 
+
+ boneya_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:01:09.388823 
+
+ boneya_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 11:02:55.280645 

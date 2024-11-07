@@ -1,0 +1,14 @@
+
+ oi_dp_io,     echo,        <Channel name: nadeshot>,       2024-11-07 11:56:24.812932 
+
+ oi_dp_io,     lmaoooo,        <Channel name: nadeshot>,       2024-11-07 11:58:44.196180 
+
+ oi_dp_io,     bro can not be left alone lmao,        <Channel name: nadeshot>,       2024-11-07 12:09:44.013797 
+
+ oi_dp_io,     hey,        <Channel name: nadeshot>,       2024-11-07 12:11:23.993538 
+
+ oi_dp_io,     HAAHHAHA,        <Channel name: nadeshot>,       2024-11-07 12:14:43.648330 
+
+ oi_dp_io,     Bedge,        <Channel name: nadeshot>,       2024-11-07 12:30:06.142635 
+
+ oi_dp_io,     no,        <Channel name: nadeshot>,       2024-11-07 12:35:43.025479 

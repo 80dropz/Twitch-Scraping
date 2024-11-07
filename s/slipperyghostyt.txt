@@ -1,0 +1,4 @@
+
+ slipperyghostyt,     !wake,        <Channel name: clix>,       2024-11-07 12:14:53.435922 
+
+ slipperyghostyt,     !time,        <Channel name: clix>,       2024-11-07 12:15:09.291667 

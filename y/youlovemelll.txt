@@ -60,3 +60,7 @@
  youlovemelll,     LMoo,        <Channel name: kaicenat>,       2024-11-07 09:43:22.979363 
 
  youlovemelll,     LMAO FR,        <Channel name: kaicenat>,       2024-11-07 09:43:31.011446 
+
+ youlovemelll,     RaccAttack,        <Channel name: kaicenat>,       2024-11-07 09:52:39.941429 
+
+ youlovemelll,     BegWan,        <Channel name: kaicenat>,       2024-11-07 09:52:54.686368 

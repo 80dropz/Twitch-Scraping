@@ -1,2 +1,4 @@
 
  mtanday,     How did you get this drop spot?,        <Channel name: mongraal>,       2024-11-07 09:07:44.852683 
+
+ mtanday,     run bug, only way to get rid is to reboot,        <Channel name: mongraal>,       2024-11-07 13:09:43.295112 

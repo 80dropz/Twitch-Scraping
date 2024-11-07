@@ -1,0 +1,16 @@
+
+ valetpeaks,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:08:12.630014 
+
+ valetpeaks,     Kanada,        <Channel name: shadowkekw>,       2024-11-07 10:08:33.236863 
+
+ valetpeaks,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:19:18.487483 
+
+ valetpeaks,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:19:53.117593 
+
+ valetpeaks,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:09:17.035455 
+
+ valetpeaks,     Sauid Arabia,        <Channel name: shadowkekw>,       2024-11-07 11:09:55.422815 
+
+ valetpeaks,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.331422 
+
+ valetpeaks,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.929153 

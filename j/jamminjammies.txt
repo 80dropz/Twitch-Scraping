@@ -1,0 +1,12 @@
+
+ jamminjammies,     !join,        <Channel name: pokelawls>,       2024-11-07 10:06:32.767039 
+
+ jamminjammies,     catSigh,        <Channel name: pokelawls>,       2024-11-07 10:06:50.319243 
+
+ jamminjammies,     Staring,        <Channel name: pokelawls>,       2024-11-07 10:14:41.127286 
+
+ jamminjammies,     !join,        <Channel name: pokelawls>,       2024-11-07 10:40:04.306023 
+
+ jamminjammies,     aga,        <Channel name: pokelawls>,       2024-11-07 10:40:31.021267 
+
+ jamminjammies,     !join,        <Channel name: pokelawls>,       2024-11-07 11:16:13.686227 

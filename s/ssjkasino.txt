@@ -1,0 +1,8 @@
+
+ ssjkasino,     !nuke,        <Channel name: swagg>,       2024-11-07 11:47:14.449905 
+
+ ssjkasino,     !nukes,        <Channel name: swagg>,       2024-11-07 11:47:26.492230 
+
+ ssjkasino,     ....,        <Channel name: swagg>,       2024-11-07 12:01:46.305605 
+
+ ssjkasino,     ......,        <Channel name: swagg>,       2024-11-07 12:02:00.949097 

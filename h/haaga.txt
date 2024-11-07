@@ -1,0 +1,4 @@
+
+ haaga,     PauseChamp PauseChamp PauseChamp PauseChamp PauseChamp PauseChamp PauseChamp PauseChamp,        <Channel name: kaicenat>,       2024-11-07 12:49:30.220327 
+
+ haaga,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:55:18.658376 

@@ -1,0 +1,4 @@
+
+ tlzl,     EARTHQUAKE AT THE SSME TIME,        <Channel name: kaicenat>,       2024-11-07 13:16:41.555747 
+
+ tlzl,     EARTHQUAKE AT THE SSME TIME.,        <Channel name: kaicenat>,       2024-11-07 13:17:38.886356 

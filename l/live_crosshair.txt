@@ -1,2 +1,10 @@
 
  live_crosshair,     W 100 gift,        <Channel name: kaicenat>,       2024-11-07 09:39:52.756673 
+
+ live_crosshair,     W horn,        <Channel name: kaicenat>,       2024-11-07 11:29:01.321000 
+
+ live_crosshair,     W,        <Channel name: kaicenat>,       2024-11-07 11:30:23.647241 
+
+ live_crosshair,     FAKE AHH EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 13:03:06.333366 
+
+ live_crosshair,     Bro can he wake up,        <Channel name: kaicenat>,       2024-11-07 13:14:34.911520 

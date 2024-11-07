@@ -1,0 +1,32 @@
+
+ pixarsbum21,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:53:16.807787 
+
+ pixarsbum21,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:06:59.941445 
+
+ pixarsbum21,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:07:16.604667 
+
+ pixarsbum21,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:07:29.469781 
+
+ pixarsbum21,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.010122 
+
+ pixarsbum21,     Sweizerland,        <Channel name: shadowkekw>,       2024-11-07 10:08:30.736581 
+
+ pixarsbum21,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.671825 
+
+ pixarsbum21,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:08:59.879634 
+
+ pixarsbum21,     Sweizerland,        <Channel name: shadowkekw>,       2024-11-07 10:09:26.331895 
+
+ pixarsbum21,     Russian Federation,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.583867 
+
+ pixarsbum21,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:17.328515 
+
+ pixarsbum21,     sdf,        <Channel name: shadowkekw>,       2024-11-07 10:14:30.138326 
+
+ pixarsbum21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:36.284551 
+
+ pixarsbum21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:44.229582 
+
+ pixarsbum21,     dsf,        <Channel name: shadowkekw>,       2024-11-07 10:15:50.963178 
+
+ pixarsbum21,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:15:55.682400 

@@ -1,0 +1,4 @@
+
+ callsignastromedia,     ...,        <Channel name: kaicenat>,       2024-11-07 11:17:02.200085 
+
+ callsignastromedia,     Hi Kai,        <Channel name: kaicenat>,       2024-11-07 12:16:38.999041 

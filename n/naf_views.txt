@@ -1,0 +1,6 @@
+
+ naf_views,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:42:06.648010 
+
+ naf_views,     L Production team,        <Channel name: kaicenat>,       2024-11-07 10:42:42.068242 
+
+ naf_views,     production wtf,        <Channel name: kaicenat>,       2024-11-07 10:44:47.918759 

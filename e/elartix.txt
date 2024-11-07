@@ -1,0 +1,2 @@
+
+ elartix,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:51:00.985182 

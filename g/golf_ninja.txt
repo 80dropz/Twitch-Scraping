@@ -1,2 +1,6 @@
 
  golf_ninja,     what monitor do you have noww,        <Channel name: nadeshot>,       2024-11-07 01:51:59.146543 
+
+ golf_ninja,     what 4k oled monitor do you recommend?,        <Channel name: nadeshot>,       2024-11-07 12:34:32.079490 
+
+ golf_ninja,     you talking to the electrician in that outfit,        <Channel name: nadeshot>,       2024-11-07 12:42:01.351597 

@@ -1,0 +1,58 @@
+
+ sxftness,     AU,        <Channel name: shadowkekw>,       2024-11-07 10:47:15.190119 
+
+ sxftness,     AB,        <Channel name: shadowkekw>,       2024-11-07 10:47:39.445767 
+
+ sxftness,     UY,        <Channel name: shadowkekw>,       2024-11-07 10:48:23.509202 
+
+ sxftness,     GQ,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.711720 
+
+ sxftness,     RE,        <Channel name: shadowkekw>,       2024-11-07 10:49:08.364476 
+
+ sxftness,     PT,        <Channel name: shadowkekw>,       2024-11-07 10:49:27.514587 
+
+ sxftness,     RO,        <Channel name: shadowkekw>,       2024-11-07 10:50:27.149608 
+
+ sxftness,     SM,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.195319 
+
+ sxftness,     SA,        <Channel name: shadowkekw>,       2024-11-07 10:51:10.161815 
+
+ sxftness,     SK,        <Channel name: shadowkekw>,       2024-11-07 10:51:28.995451 
+
+ sxftness,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.822435 
+
+ sxftness,     PK,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.652107 
+
+ sxftness,     RO,        <Channel name: shadowkekw>,       2024-11-07 10:52:33.903272 
+
+ sxftness,     NO,        <Channel name: shadowkekw>,       2024-11-07 10:52:58.184078 
+
+ sxftness,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:53:23.274214 
+
+ sxftness,     SM,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.494177 
+
+ sxftness,     SD,        <Channel name: shadowkekw>,       2024-11-07 10:55:18.156015 
+
+ sxftness,     TH,        <Channel name: shadowkekw>,       2024-11-07 10:55:31.527462 
+
+ sxftness,     FJ,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.687148 
+
+ sxftness,     FI,        <Channel name: shadowkekw>,       2024-11-07 10:56:19.933948 
+
+ sxftness,     LK,        <Channel name: shadowkekw>,       2024-11-07 10:56:42.994409 
+
+ sxftness,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.748584 
+
+ sxftness,     JP,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.325545 
+
+ sxftness,     NO,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.871846 
+
+ sxftness,     SK,        <Channel name: shadowkekw>,       2024-11-07 10:59:38.908336 
+
+ sxftness,     do,        <Channel name: shadowkekw>,       2024-11-07 11:00:25.885078 
+
+ sxftness,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:01:01.313956 
+
+ sxftness,     SI,        <Channel name: shadowkekw>,       2024-11-07 11:01:41.182082 
+
+ sxftness,     SK,        <Channel name: shadowkekw>,       2024-11-07 11:14:10.775462 

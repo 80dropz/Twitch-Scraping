@@ -1,0 +1,4 @@
+
+ deivisan8,     !res,        <Channel name: mongraal>,       2024-11-07 11:46:23.291693 
+
+ deivisan8,     !tweaks,        <Channel name: mongraal>,       2024-11-07 11:46:37.419823 

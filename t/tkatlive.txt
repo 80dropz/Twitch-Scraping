@@ -1,0 +1,8 @@
+
+ tkatlive,     W,        <Channel name: kaicenat>,       2024-11-07 12:04:57.442688 
+
+ tkatlive,     W,        <Channel name: kaicenat>,       2024-11-07 12:06:35.711277 
+
+ tkatlive,     w,        <Channel name: kaicenat>,       2024-11-07 12:06:50.356473 
+
+ tkatlive,     w,        <Channel name: kaicenat>,       2024-11-07 12:53:08.153393 

@@ -1,0 +1,4 @@
+
+ vengeance_29,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:02:45.454378 
+
+ vengeance_29,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:03:18.526422 

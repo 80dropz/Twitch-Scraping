@@ -1,0 +1,10 @@
+
+ deathqueen_12,     !time,        <Channel name: clix>,       2024-11-07 10:15:17.248835 
+
+ deathqueen_12,     !time,        <Channel name: clix>,       2024-11-07 10:30:28.383587 
+
+ deathqueen_12,     !time,        <Channel name: clix>,       2024-11-07 10:49:10.706838 
+
+ deathqueen_12,     !time,        <Channel name: clix>,       2024-11-07 10:59:48.350780 
+
+ deathqueen_12,     when's eu finals?,        <Channel name: clix>,       2024-11-07 11:28:57.978329 

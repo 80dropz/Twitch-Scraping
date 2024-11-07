@@ -1,0 +1,4 @@
+
+ mareyno5,     !trios,        <Channel name: mongraal>,       2024-11-07 12:53:46.735054 
+
+ mareyno5,     !trio,        <Channel name: mongraal>,       2024-11-07 12:54:08.399672 

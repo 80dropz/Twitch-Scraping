@@ -1,0 +1,98 @@
+
+ r0h4aptwitch,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:37:11.117130 
+
+ r0h4aptwitch,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.798747 
+
+ r0h4aptwitch,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:36.030341 
+
+ r0h4aptwitch,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:39:38.354781 
+
+ r0h4aptwitch,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:40:09.682031 
+
+ r0h4aptwitch,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:40:33.818346 
+
+ r0h4aptwitch,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.806766 
+
+ r0h4aptwitch,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:16.021702 
+
+ r0h4aptwitch,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.349018 
+
+ r0h4aptwitch,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.199094 
+
+ r0h4aptwitch,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:42:44.546804 
+
+ r0h4aptwitch,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:44:13.710914 
+
+ r0h4aptwitch,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:44:33.784890 
+
+ r0h4aptwitch,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:44:59.152220 
+
+ r0h4aptwitch,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:45:20.134917 
+
+ r0h4aptwitch,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:45:44.862755 
+
+ r0h4aptwitch,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:46:16.318545 
+
+ r0h4aptwitch,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:37.716768 
+
+ r0h4aptwitch,     tunis,        <Channel name: shadowkekw>,       2024-11-07 10:46:56.783092 
+
+ r0h4aptwitch,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:47:35.089358 
+
+ r0h4aptwitch,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:18.787549 
+
+ r0h4aptwitch,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:48:35.268022 
+
+ r0h4aptwitch,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:05.454619 
+
+ r0h4aptwitch,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:51:54.783003 
+
+ r0h4aptwitch,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:16.971720 
+
+ r0h4aptwitch,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 10:52:54.915940 
+
+ r0h4aptwitch,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:18.346555 
+
+ r0h4aptwitch,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:57.668647 
+
+ r0h4aptwitch,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.070651 
+
+ r0h4aptwitch,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:54:43.862260 
+
+ r0h4aptwitch,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:12.771663 
+
+ r0h4aptwitch,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:55:29.182315 
+
+ r0h4aptwitch,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:49.560049 
+
+ r0h4aptwitch,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:56:38.937892 
+
+ r0h4aptwitch,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:57:28.225691 
+
+ r0h4aptwitch,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:19.474189 
+
+ r0h4aptwitch,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:59:34.684289 
+
+ r0h4aptwitch,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:00:19.582597 
+
+ r0h4aptwitch,     cambodia,        <Channel name: shadowkekw>,       2024-11-07 11:01:03.287909 
+
+ r0h4aptwitch,     swizerland,        <Channel name: shadowkekw>,       2024-11-07 11:01:23.924106 
+
+ r0h4aptwitch,     tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:01:58.557692 
+
+ r0h4aptwitch,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:03:19.646297 
+
+ r0h4aptwitch,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:43.590871 
+
+ r0h4aptwitch,     senegal,        <Channel name: shadowkekw>,       2024-11-07 11:06:21.084714 
+
+ r0h4aptwitch,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 11:08:06.044192 
+
+ r0h4aptwitch,     estonia,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.401487 
+
+ r0h4aptwitch,     reunion,        <Channel name: shadowkekw>,       2024-11-07 11:13:35.304557 
+
+ r0h4aptwitch,     luxembourg,        <Channel name: shadowkekw>,       2024-11-07 11:15:01.918409 
+
+ r0h4aptwitch,     reunion,        <Channel name: shadowkekw>,       2024-11-07 11:15:34.976820 

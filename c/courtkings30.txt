@@ -1,0 +1,6 @@
+
+ courtkings30,     yes,        <Channel name: lacy>,       2024-11-07 12:57:07.454465 
+
+ courtkings30,     bye,        <Channel name: lacy>,       2024-11-07 12:57:45.650565 
+
+ courtkings30,     L clip fram,        <Channel name: lacy>,       2024-11-07 12:59:23.974744 

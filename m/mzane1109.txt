@@ -1,0 +1,8 @@
+
+ mzane1109,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:53.195467 
+
+ mzane1109,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:53:16.934027 
+
+ mzane1109,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:53:48.345402 
+
+ mzane1109,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:54:08.221774 

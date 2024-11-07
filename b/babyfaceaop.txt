@@ -1,0 +1,22 @@
+
+ babyfaceaop,     roll call,        <Channel name: kaicenat>,       2024-11-07 10:28:10.108412 
+
+ babyfaceaop,     !time,        <Channel name: kaicenat>,       2024-11-07 10:29:58.957676 
+
+ babyfaceaop,     roll call,        <Channel name: kaicenat>,       2024-11-07 11:01:27.726891 
+
+ babyfaceaop,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:02:18.618629 
+
+ babyfaceaop,     do a roll call at 229,        <Channel name: kaicenat>,       2024-11-07 11:28:24.823651 
+
+ babyfaceaop,     roll call,        <Channel name: kaicenat>,       2024-11-07 11:35:06.608945 
+
+ babyfaceaop,     rode call,        <Channel name: kaicenat>,       2024-11-07 11:35:09.968731 
+
+ babyfaceaop,     roll call,        <Channel name: kaicenat>,       2024-11-07 11:35:12.736405 
+
+ babyfaceaop,     rollcall,        <Channel name: kaicenat>,       2024-11-07 11:35:20.208757 
+
+ babyfaceaop,     rollcal,        <Channel name: kaicenat>,       2024-11-07 11:35:31.181396 
+
+ babyfaceaop,     shadow coming for that leaderboard,        <Channel name: kaicenat>,       2024-11-07 11:38:58.877540 

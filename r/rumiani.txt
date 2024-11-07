@@ -1,0 +1,70 @@
+
+ rumiani,     +1,        <Channel name: shadowkekw>,       2024-11-07 10:06:18.623766 
+
+ rumiani,     Gernamy,        <Channel name: shadowkekw>,       2024-11-07 10:07:17.009611 
+
+ rumiani,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:25.140811 
+
+ rumiani,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:08:32.145469 
+
+ rumiani,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:50.831558 
+
+ rumiani,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.725223 
+
+ rumiani,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:11:26.223822 
+
+ rumiani,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.787475 
+
+ rumiani,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.491928 
+
+ rumiani,     ephioia,        <Channel name: shadowkekw>,       2024-11-07 10:16:32.141259 
+
+ rumiani,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:41:48.812708 
+
+ rumiani,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:13.498431 
+
+ rumiani,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.168263 
+
+ rumiani,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.446357 
+
+ rumiani,     be,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.157312 
+
+ rumiani,     ta,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.989053 
+
+ rumiani,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:45:32.323398 
+
+ rumiani,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:09.431944 
+
+ rumiani,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:47:28.079418 
+
+ rumiani,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.873041 
+
+ rumiani,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:48:13.022359 
+
+ rumiani,     au at az al dz ai ao ad ag ar am aw af bs bd bb bh by bz be bj bm bg bo ba bw br bn bf bi bt vu va uk hu ve vg vi tl vn ga ht gy gm gh gp gt gf gn gq gw de gi hn hk gd gl gr ge gu dk dj dm do eg zm eh zw il in id jo iq ir ie is es it ye cv kz cm ca qa ke cy kg ki cn co km cg cd kp kr cr,        <Channel name: shadowkekw>,       2024-11-07 10:48:54.885428 
+
+ rumiani,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:53.907527 
+
+ rumiani,     no,        <Channel name: shadowkekw>,       2024-11-07 11:02:03.462696 
+
+ rumiani,     th,        <Channel name: shadowkekw>,       2024-11-07 11:03:05.805563 
+
+ rumiani,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:05:35.301567 
+
+ rumiani,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:52.964097 
+
+ rumiani,     nr,        <Channel name: shadowkekw>,       2024-11-07 11:10:23.890093 
+
+ rumiani,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:02.573308 
+
+ rumiani,     br,        <Channel name: shadowkekw>,       2024-11-07 11:11:06.206887 
+
+ rumiani,     dr,        <Channel name: shadowkekw>,       2024-11-07 11:11:12.396907 
+
+ rumiani,     bw,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.995776 
+
+ rumiani,     ma,        <Channel name: shadowkekw>,       2024-11-07 11:13:52.115682 
+
+ rumiani,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:13:58.151768 
+
+ rumiani,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:14:13.970529 

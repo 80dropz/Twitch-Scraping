@@ -1,2 +1,84 @@
 
  spetriggerr,     ((,        <Channel name: shadowkekw>,       2024-11-07 09:09:55.617997 
+
+ spetriggerr,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:07:58.951255 
+
+ spetriggerr,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.822805 
+
+ spetriggerr,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.918992 
+
+ spetriggerr,     England,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.611611 
+
+ spetriggerr,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:11:35.933754 
+
+ spetriggerr,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.849836 
+
+ spetriggerr,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:12:40.540264 
+
+ spetriggerr,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:41.789872 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:14:51.755848 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.135385 
+
+ spetriggerr,     Bulgary,        <Channel name: shadowkekw>,       2024-11-07 10:15:39.927796 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:15:48.164001 
+
+ spetriggerr,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:16:19.385158 
+
+ spetriggerr,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.494832 
+
+ spetriggerr,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.960669 
+
+ spetriggerr,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.488852 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:19:34.668295 
+
+ spetriggerr,     Sa,        <Channel name: shadowkekw>,       2024-11-07 10:20:54.921073 
+
+ spetriggerr,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.478033 
+
+ spetriggerr,     South africa,        <Channel name: shadowkekw>,       2024-11-07 10:21:54.779190 
+
+ spetriggerr,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:22:56.408208 
+
+ spetriggerr,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.780729 
+
+ spetriggerr,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.077318 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:25:41.282221 
+
+ spetriggerr,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:25:58.504562 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:27:03.532676 
+
+ spetriggerr,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:27:24.786197 
+
+ spetriggerr,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.257719 
+
+ spetriggerr,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:49:49.665651 
+
+ spetriggerr,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:02:46.458213 
+
+ spetriggerr,     du,        <Channel name: shadowkekw>,       2024-11-07 11:04:27.379963 
+
+ spetriggerr,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:05:02.298257 
+
+ spetriggerr,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:05:48.516562 
+
+ spetriggerr,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:09:53.510825 
+
+ spetriggerr,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 11:11:20.898837 
+
+ spetriggerr,     Switzerand,        <Channel name: shadowkekw>,       2024-11-07 11:11:36.786895 
+
+ spetriggerr,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:14:57.176025 
+
+ spetriggerr,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:53:01.878361 
+
+ spetriggerr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:59.085054 
+
+ spetriggerr,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:57.721214 
+
+ spetriggerr,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:27.444539 

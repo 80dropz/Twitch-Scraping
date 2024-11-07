@@ -1,0 +1,6 @@
+
+ perziggrijper,     !gam,        <Channel name: mongraal>,       2024-11-07 10:45:13.586423 
+
+ perziggrijper,     !game,        <Channel name: mongraal>,       2024-11-07 10:45:17.689665 
+
+ perziggrijper,     !game name,        <Channel name: mongraal>,       2024-11-07 10:45:35.401621 

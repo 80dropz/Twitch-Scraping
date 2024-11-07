@@ -1,0 +1,12 @@
+
+ dackifacki,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:31:51.921579 
+
+ dackifacki,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:33:09.678407 
+
+ dackifacki,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:34:17.429200 
+
+ dackifacki,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:36:12.188425 
+
+ dackifacki,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:37:43.659191 
+
+ dackifacki,     !points,        <Channel name: kaicenat>,       2024-11-07 12:39:58.505233 

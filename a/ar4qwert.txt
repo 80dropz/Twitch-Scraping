@@ -1,0 +1,28 @@
+
+ ar4qwert,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.315459 
+
+ ar4qwert,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:33:26.260604 
+
+ ar4qwert,     India,        <Channel name: shadowkekw>,       2024-11-07 10:35:00.130109 
+
+ ar4qwert,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:38:29.197388 
+
+ ar4qwert,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:33.009191 
+
+ ar4qwert,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:46:12.106409 
+
+ ar4qwert,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.732889 
+
+ ar4qwert,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:47:53.978191 
+
+ ar4qwert,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:49:20.312670 
+
+ ar4qwert,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:49:52.322283 
+
+ ar4qwert,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:51:55.843376 
+
+ ar4qwert,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:52:44.852190 
+
+ ar4qwert,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:55:07.860882 
+
+ ar4qwert,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:57:43.426365 

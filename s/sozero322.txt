@@ -1,0 +1,32 @@
+
+ sozero322,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:53:10.948287 
+
+ sozero322,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:54:25.503265 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:01:45.779567 
+
+ sozero322,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.984757 
+
+ sozero322,     Africa,        <Channel name: shadowkekw>,       2024-11-07 11:03:53.667717 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:05:50.164978 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:06:33.746545 
+
+ sozero322,     Africa,        <Channel name: shadowkekw>,       2024-11-07 11:07:09.414466 
+
+ sozero322,     Frace,        <Channel name: shadowkekw>,       2024-11-07 11:08:28.210455 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:08:58.963871 
+
+ sozero322,     US,        <Channel name: shadowkekw>,       2024-11-07 11:10:07.158392 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:10:10.571024 
+
+ sozero322,     Africa,        <Channel name: shadowkekw>,       2024-11-07 11:10:25.012819 
+
+ sozero322,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.989391 
+
+ sozero322,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:13:57.286420 
+
+ sozero322,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 11:14:33.547678 

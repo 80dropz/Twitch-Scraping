@@ -1,0 +1,4 @@
+
+ j0s3_bagszn,     caught,        <Channel name: lacy>,       2024-11-07 12:37:54.475748 
+
+ j0s3_bagszn,     0,        <Channel name: lacy>,       2024-11-07 12:39:18.845958 

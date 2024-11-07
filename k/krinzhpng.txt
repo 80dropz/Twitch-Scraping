@@ -1,2 +1,114 @@
 
  krinzhpng,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:42:07.189169 
+
+ krinzhpng,     UKRAINE,        <Channel name: shadowkekw>,       2024-11-07 10:06:40.523678 
+
+ krinzhpng,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.168441 
+
+ krinzhpng,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:29.884857 
+
+ krinzhpng,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:07:50.693955 
+
+ krinzhpng,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:08:26.353601 
+
+ krinzhpng,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.724696 
+
+ krinzhpng,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.932489 
+
+ krinzhpng,     be,        <Channel name: shadowkekw>,       2024-11-07 10:09:01.061878 
+
+ krinzhpng,     br,        <Channel name: shadowkekw>,       2024-11-07 10:09:02.254269 
+
+ krinzhpng,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.790235 
+
+ krinzhpng,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:08.148563 
+
+ krinzhpng,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:13.709821 
+
+ krinzhpng,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:14:16.761574 
+
+ krinzhpng,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:44.195457 
+
+ krinzhpng,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:14:51.353432 
+
+ krinzhpng,     china,        <Channel name: shadowkekw>,       2024-11-07 10:15:05.821243 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:19:31.699424 
+
+ krinzhpng,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:20:31.357855 
+
+ krinzhpng,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:51.040326 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.314978 
+
+ krinzhpng,     geaustria,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.551385 
+
+ krinzhpng,     th,        <Channel name: shadowkekw>,       2024-11-07 10:22:05.495817 
+
+ krinzhpng,     @li1_bebra )),        <Channel name: shadowkekw>,       2024-11-07 10:22:47.039734 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:23:15.706819 
+
+ krinzhpng,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:23:36.212364 
+
+ krinzhpng,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.074047 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:24:43.106827 
+
+ krinzhpng,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.411934 
+
+ krinzhpng,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.336454 
+
+ krinzhpng,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.779934 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:25:53.590420 
+
+ krinzhpng,     in,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.673745 
+
+ krinzhpng,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:26:21.099397 
+
+ krinzhpng,     th,        <Channel name: shadowkekw>,       2024-11-07 10:26:58.228902 
+
+ krinzhpng,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.579172 
+
+ krinzhpng,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.295676 
+
+ krinzhpng,     th,        <Channel name: shadowkekw>,       2024-11-07 10:27:51.487478 
+
+ krinzhpng,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.669926 
+
+ krinzhpng,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.867860 
+
+ krinzhpng,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.801093 
+
+ krinzhpng,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.611526 
+
+ krinzhpng,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.712959 
+
+ krinzhpng,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.385012 
+
+ krinzhpng,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:33:48.932955 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.308061 
+
+ krinzhpng,     indinesia,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.533332 
+
+ krinzhpng,     )),        <Channel name: shadowkekw>,       2024-11-07 10:45:56.406173 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.321148 
+
+ krinzhpng,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:56:06.095509 
+
+ krinzhpng,     )),        <Channel name: shadowkekw>,       2024-11-07 10:57:01.540361 
+
+ krinzhpng,     )),        <Channel name: shadowkekw>,       2024-11-07 11:24:28.884875 
+
+ krinzhpng,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:30:31.790419 
+
+ krinzhpng,     )),        <Channel name: shadowkekw>,       2024-11-07 11:35:19.325488 
+
+ krinzhpng,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:03.068381 
+
+ krinzhpng,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:53.486066 
+
+ krinzhpng,     ej,        <Channel name: shadowkekw>,       2024-11-07 12:38:53.348705 

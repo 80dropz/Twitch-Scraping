@@ -14,3 +14,7 @@
  verlaxify,     SPLIT OR STEAL,        <Channel name: kaicenat>,       2024-11-07 02:12:16.210839 
 
  verlaxify,     MMMMMMMM,        <Channel name: kaicenat>,       2024-11-07 02:50:50.606845 
+
+ verlaxify,     GGS,        <Channel name: kaicenat>,       2024-11-07 13:15:18.570410 
+
+ verlaxify,     GET THE MIC NOW,        <Channel name: kaicenat>,       2024-11-07 13:16:44.561744 

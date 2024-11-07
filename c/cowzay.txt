@@ -1,2 +1,16 @@
 
  cowzay,     emiruP,        <Channel name: caseoh_>,       2024-11-07 09:21:15.338567 
+
+ cowzay,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:12.019173 
+
+ cowzay,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:35.857259 
+
+ cowzay,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:10.820529 
+
+ cowzay,     !p,        <Channel name: kaicenat>,       2024-11-07 10:14:30.858974 
+
+ cowzay,     !roulette 905,        <Channel name: kaicenat>,       2024-11-07 10:14:33.637001 
+
+ cowzay,     !roulette 810,        <Channel name: kaicenat>,       2024-11-07 10:14:39.436887 
+
+ cowzay,     @amykay, Twizzy,        <Channel name: kaicenat>,       2024-11-07 10:15:19.047206 

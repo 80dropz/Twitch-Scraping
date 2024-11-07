@@ -1,0 +1,36 @@
+
+ yeh0su,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.826075 
+
+ yeh0su,     dania,        <Channel name: shadowkekw>,       2024-11-07 10:49:41.643424 
+
+ yeh0su,     scotland,        <Channel name: shadowkekw>,       2024-11-07 10:50:12.408381 
+
+ yeh0su,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:51:23.615322 
+
+ yeh0su,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.269235 
+
+ yeh0su,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:52:20.386694 
+
+ yeh0su,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:23.543990 
+
+ yeh0su,     gana,        <Channel name: shadowkekw>,       2024-11-07 10:53:39.980101 
+
+ yeh0su,     india,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.839094 
+
+ yeh0su,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:54:35.383829 
+
+ yeh0su,     camboja,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.198939 
+
+ yeh0su,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:57:17.253699 
+
+ yeh0su,     taivan,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.881362 
+
+ yeh0su,     camboja,        <Channel name: shadowkekw>,       2024-11-07 11:00:06.865015 
+
+ yeh0su,     pl,        <Channel name: shadowkekw>,       2024-11-07 11:00:55.449158 
+
+ yeh0su,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.460684 
+
+ yeh0su,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:02:33.604879 
+
+ yeh0su,     india,        <Channel name: shadowkekw>,       2024-11-07 11:03:55.258805 

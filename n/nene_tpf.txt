@@ -1,0 +1,20 @@
+
+ nene_tpf,     NewRecord NewRecord NewRecord NewRecord NewRecord,        <Channel name: kaicenat>,       2024-11-07 10:25:48.421181 
+
+ nene_tpf,     FreakinStinkin FreakinStinkin FreakinStinkin FreakinStinkin FreakinStinkin FreakinStinkin,        <Channel name: kaicenat>,       2024-11-07 10:28:53.314208 
+
+ nene_tpf,     LUL LUL LUL LUL,        <Channel name: kaicenat>,       2024-11-07 10:28:58.829419 
+
+ nene_tpf,     imGlitch imGlitch imGlitch imGlitch imGlitch imGlitch imGlitch,        <Channel name: kaicenat>,       2024-11-07 10:29:03.558331 
+
+ nene_tpf,     imGlitch imGlitch imGlitch imGlitch imGlitch imGlitch,        <Channel name: kaicenat>,       2024-11-07 10:29:09.658596 
+
+ nene_tpf,     Squid3,        <Channel name: kaicenat>,       2024-11-07 10:29:15.926877 
+
+ nene_tpf,     EntropyWins EntropyWins EntropyWins EntropyWins EntropyWins EntropyWins,        <Channel name: kaicenat>,       2024-11-07 10:29:31.812050 
+
+ nene_tpf,     NewRecord NewRecord NewRecord NewRecord NewRecord NewRecord,        <Channel name: kaicenat>,       2024-11-07 10:31:30.126955 
+
+ nene_tpf,     EntropyWins EntropyWins EntropyWins EntropyWins EntropyWins,        <Channel name: kaicenat>,       2024-11-07 10:31:37.021542 
+
+ nene_tpf,     DxCat DxCat DxCat DxCat DxCat,        <Channel name: kaicenat>,       2024-11-07 10:32:49.386795 

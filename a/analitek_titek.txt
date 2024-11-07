@@ -1,0 +1,32 @@
+
+ analitek_titek,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:27:50.447084 
+
+ analitek_titek,     li,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.890068 
+
+ analitek_titek,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:28:47.520985 
+
+ analitek_titek,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:29:12.749972 
+
+ analitek_titek,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.281430 
+
+ analitek_titek,     rt,        <Channel name: shadowkekw>,       2024-11-07 10:30:19.129123 
+
+ analitek_titek,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.223390 
+
+ analitek_titek,     us,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.878525 
+
+ analitek_titek,     me,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.986237 
+
+ analitek_titek,     in,        <Channel name: shadowkekw>,       2024-11-07 10:31:48.716205 
+
+ analitek_titek,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.062884 
+
+ analitek_titek,     gc,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.098998 
+
+ analitek_titek,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:32:50.193151 
+
+ analitek_titek,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.058430 
+
+ analitek_titek,     rp,        <Channel name: shadowkekw>,       2024-11-07 10:33:23.840104 
+
+ analitek_titek,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:33:42.733894 

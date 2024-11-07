@@ -1,0 +1,6 @@
+
+ get_followed,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 13:08:27.703592 
+
+ get_followed,     YOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:08:38.048327 
+
+ get_followed,     W MILES!,        <Channel name: kaicenat>,       2024-11-07 13:08:58.432116 

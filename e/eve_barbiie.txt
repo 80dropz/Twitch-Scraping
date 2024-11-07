@@ -38,3 +38,7 @@
  eve_barbiie,     Mhm snow,        <Channel name: kaicenat>,       2024-11-07 02:38:32.571343 
 
  eve_barbiie,     Lmao,        <Channel name: kaicenat>,       2024-11-07 02:41:48.554094 
+
+ eve_barbiie,     sold,        <Channel name: kaicenat>,       2024-11-07 13:07:46.644838 
+
+ eve_barbiie,     GG,        <Channel name: kaicenat>,       2024-11-07 13:29:38.159894 

@@ -64,3 +64,7 @@
  xpifire,     TAKE SOME WATER,        <Channel name: kaicenat>,       2024-11-07 09:41:18.093374 
 
  xpifire,     TAKE SOME WATER BROOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 09:41:26.424125 
+
+ xpifire,     ASK PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 13:19:36.574626 
+
+ xpifire,     Just do it,        <Channel name: kaicenat>,       2024-11-07 13:22:00.417083 

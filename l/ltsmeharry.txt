@@ -1,0 +1,8 @@
+
+ ltsmeharry,     !roulette 8470,        <Channel name: kaicenat>,       2024-11-07 10:45:05.604432 
+
+ ltsmeharry,     !points,        <Channel name: kaicenat>,       2024-11-07 10:45:18.329481 
+
+ ltsmeharry,     !roulette 164,        <Channel name: kaicenat>,       2024-11-07 10:45:30.406193 
+
+ ltsmeharry,     PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:46:19.058373 

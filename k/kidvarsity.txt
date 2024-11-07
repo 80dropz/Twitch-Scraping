@@ -180,3 +180,9 @@
  kidvarsity,     ome20,        <Channel name: kaicenat>,       2024-11-07 02:47:37.645512 
 
  kidvarsity,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:51:36.218702 
+
+ kidvarsity,     WW,        <Channel name: kaicenat>,       2024-11-07 13:01:03.858963 
+
+ kidvarsity,     WW 230k,        <Channel name: kaicenat>,       2024-11-07 13:33:33.626715 
+
+ kidvarsity,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:34:08.930586 

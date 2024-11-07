@@ -1,0 +1,8 @@
+
+ exempel_,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:26:34.780264 
+
+ exempel_,     Au,        <Channel name: shadowkekw>,       2024-11-07 10:27:12.361368 
+
+ exempel_,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:27:48.857062 
+
+ exempel_,     zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:28:15.195208 

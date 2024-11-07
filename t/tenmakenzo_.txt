@@ -1,0 +1,148 @@
+
+ tenmakenzo_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:07:01.619193 
+
+ tenmakenzo_,     san marino,        <Channel name: shadowkekw>,       2024-11-07 10:07:27.668796 
+
+ tenmakenzo_,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:40.816094 
+
+ tenmakenzo_,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:08:19.449190 
+
+ tenmakenzo_,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:49.833794 
+
+ tenmakenzo_,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:52.883369 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:40.226310 
+
+ tenmakenzo_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.844569 
+
+ tenmakenzo_,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 10:13:12.120233 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.384417 
+
+ tenmakenzo_,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:15:48.303348 
+
+ tenmakenzo_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:17:43.328904 
+
+ tenmakenzo_,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.881228 
+
+ tenmakenzo_,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:15.442035 
+
+ tenmakenzo_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:32.023792 
+
+ tenmakenzo_,     Estoniz,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.820029 
+
+ tenmakenzo_,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:19:38.376653 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:19:56.081457 
+
+ tenmakenzo_,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:21:13.070740 
+
+ tenmakenzo_,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:21:57.160919 
+
+ tenmakenzo_,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.792584 
+
+ tenmakenzo_,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.646822 
+
+ tenmakenzo_,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:22:36.440993 
+
+ tenmakenzo_,     India,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.284800 
+
+ tenmakenzo_,     Sri-lanka,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.021610 
+
+ tenmakenzo_,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:24:45.693931 
+
+ tenmakenzo_,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:25:18.167521 
+
+ tenmakenzo_,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:25:33.348413 
+
+ tenmakenzo_,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:25:37.902757 
+
+ tenmakenzo_,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.203455 
+
+ tenmakenzo_,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.484873 
+
+ tenmakenzo_,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.282577 
+
+ tenmakenzo_,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.859534 
+
+ tenmakenzo_,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.651428 
+
+ tenmakenzo_,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.387436 
+
+ tenmakenzo_,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.881298 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.380759 
+
+ tenmakenzo_,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.753983 
+
+ tenmakenzo_,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.648295 
+
+ tenmakenzo_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.278371 
+
+ tenmakenzo_,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:32:11.324965 
+
+ tenmakenzo_,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:32:50.946170 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:33:09.199309 
+
+ tenmakenzo_,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:05.897958 
+
+ tenmakenzo_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.771517 
+
+ tenmakenzo_,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.268059 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.617833 
+
+ tenmakenzo_,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.129076 
+
+ tenmakenzo_,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:38:52.157533 
+
+ tenmakenzo_,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.002194 
+
+ tenmakenzo_,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.272472 
+
+ tenmakenzo_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:43:57.171870 
+
+ tenmakenzo_,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.366151 
+
+ tenmakenzo_,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.823775 
+
+ tenmakenzo_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:26.454091 
+
+ tenmakenzo_,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.952433 
+
+ tenmakenzo_,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.512418 
+
+ tenmakenzo_,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.570797 
+
+ tenmakenzo_,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:50:10.571034 
+
+ tenmakenzo_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:52.092913 
+
+ tenmakenzo_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.787448 
+
+ tenmakenzo_,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:10.440666 
+
+ tenmakenzo_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.774344 
+
+ tenmakenzo_,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:59:04.216992 
+
+ tenmakenzo_,     Bhutane,        <Channel name: shadowkekw>,       2024-11-07 11:00:32.277096 
+
+ tenmakenzo_,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:04:42.597461 
+
+ tenmakenzo_,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.672866 
+
+ tenmakenzo_,     usporesthbocokemxltcofnnwphhgthidomeskrjapanamadoisirgb,        <Channel name: shadowkekw>,       2024-11-07 11:07:28.142519 
+
+ tenmakenzo_,     south korea,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.990988 
+
+ tenmakenzo_,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.191330 
+
+ tenmakenzo_,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:12:24.330642 
+
+ tenmakenzo_,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 11:12:40.761156 
+
+ tenmakenzo_,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:13:31.296511 
+
+ tenmakenzo_,     w,        <Channel name: kaicenat>,       2024-11-07 11:38:21.615763 

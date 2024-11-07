@@ -1,0 +1,6 @@
+
+ a_swiftz,     ASSEMBLE,        <Channel name: nadeshot>,       2024-11-07 12:28:16.414739 
+
+ a_swiftz,     yes,        <Channel name: nadeshot>,       2024-11-07 12:33:35.268108 
+
+ a_swiftz,     OMEGALUL,        <Channel name: nadeshot>,       2024-11-07 13:34:59.013186 

@@ -1,0 +1,82 @@
+
+ littttr,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.312528 
+
+ littttr,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:57.834974 
+
+ littttr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:40.673893 
+
+ littttr,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:13:09.246369 
+
+ littttr,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:13:49.966320 
+
+ littttr,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:15:27.826723 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:15:37.939236 
+
+ littttr,     zimbabva,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.045472 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:17:19.006322 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:17:52.222014 
+
+ littttr,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.498075 
+
+ littttr,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.994505 
+
+ littttr,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:59.332779 
+
+ littttr,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.081042 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.745252 
+
+ littttr,     norvay,        <Channel name: shadowkekw>,       2024-11-07 10:20:33.495465 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:20:46.924543 
+
+ littttr,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:22:08.266742 
+
+ littttr,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.642602 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:24:13.767344 
+
+ littttr,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.376086 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:24:38.703942 
+
+ littttr,     siria,        <Channel name: shadowkekw>,       2024-11-07 10:25:20.554639 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:25:31.586963 
+
+ littttr,     norvay,        <Channel name: shadowkekw>,       2024-11-07 10:25:43.615345 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:25:52.088991 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:27:16.224870 
+
+ littttr,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.846911 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.629273 
+
+ littttr,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:28:31.192551 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.168779 
+
+ littttr,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.385976 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.071846 
+
+ littttr,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.739794 
+
+ littttr,     israel\,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.572872 
+
+ littttr,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.528955 
+
+ littttr,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.288414 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.927980 
+
+ littttr,     pland,        <Channel name: shadowkekw>,       2024-11-07 10:31:16.163902 
+
+ littttr,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.015645 
+
+ littttr,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.774232 

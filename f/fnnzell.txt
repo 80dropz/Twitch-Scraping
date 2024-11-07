@@ -1,0 +1,8 @@
+
+ fnnzell,     kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:35:25.187233 
+
+ fnnzell,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:52:01.552078 
+
+ fnnzell,     kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 11:52:12.520238 
+
+ fnnzell,     kaicENAT kaicENAT TWITH,        <Channel name: kaicenat>,       2024-11-07 11:57:02.786306 

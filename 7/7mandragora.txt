@@ -1,0 +1,126 @@
+
+ 7mandragora,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:07:35.055071 
+
+ 7mandragora,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:56.717086 
+
+ 7mandragora,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:08:12.660479 
+
+ 7mandragora,     Horvati,        <Channel name: shadowkekw>,       2024-11-07 10:08:36.282226 
+
+ 7mandragora,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:10:55.139943 
+
+ 7mandragora,     Abu dabi,        <Channel name: shadowkekw>,       2024-11-07 10:12:15.165608 
+
+ 7mandragora,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.485907 
+
+ 7mandragora,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:15:17.724881 
+
+ 7mandragora,     Astana,        <Channel name: shadowkekw>,       2024-11-07 10:15:31.352064 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.059702 
+
+ 7mandragora,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:16:51.681974 
+
+ 7mandragora,     Kavkaz,        <Channel name: shadowkekw>,       2024-11-07 10:17:25.372323 
+
+ 7mandragora,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:53.429746 
+
+ 7mandragora,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.416252 
+
+ 7mandragora,     London,        <Channel name: shadowkekw>,       2024-11-07 10:18:22.899319 
+
+ 7mandragora,     Scotland,        <Channel name: shadowkekw>,       2024-11-07 10:18:56.197052 
+
+ 7mandragora,     Afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:19:22.565167 
+
+ 7mandragora,     Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:19:26.655010 
+
+ 7mandragora,     Astana,        <Channel name: shadowkekw>,       2024-11-07 10:19:55.484988 
+
+ 7mandragora,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:20:01.939446 
+
+ 7mandragora,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.029321 
+
+ 7mandragora,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:21:46.315080 
+
+ 7mandragora,     France,        <Channel name: shadowkekw>,       2024-11-07 10:22:28.864588 
+
+ 7mandragora,     Germania,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.740751 
+
+ 7mandragora,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.158741 
+
+ 7mandragora,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.820775 
+
+ 7mandragora,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.074902 
+
+ 7mandragora,     Armenia,        <Channel name: shadowkekw>,       2024-11-07 10:26:37.452037 
+
+ 7mandragora,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.394339 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.143514 
+
+ 7mandragora,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:32.431235 
+
+ 7mandragora,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:28:34.514946 
+
+ 7mandragora,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:29:06.970827 
+
+ 7mandragora,     France,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.304656 
+
+ 7mandragora,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.363894 
+
+ 7mandragora,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:34.870743 
+
+ 7mandragora,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:32:36.256373 
+
+ 7mandragora,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.092995 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:51.463308 
+
+ 7mandragora,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:35:27.225144 
+
+ 7mandragora,     Corea,        <Channel name: shadowkekw>,       2024-11-07 10:36:14.194011 
+
+ 7mandragora,     Russua,        <Channel name: shadowkekw>,       2024-11-07 10:37:27.051695 
+
+ 7mandragora,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:37:51.568288 
+
+ 7mandragora,     Taiwanese,        <Channel name: shadowkekw>,       2024-11-07 10:38:10.270288 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:51.908551 
+
+ 7mandragora,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.754529 
+
+ 7mandragora,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:40:29.859952 
+
+ 7mandragora,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.206231 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.739101 
+
+ 7mandragora,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.596698 
+
+ 7mandragora,     China,        <Channel name: shadowkekw>,       2024-11-07 10:41:15.639225 
+
+ 7mandragora,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.115455 
+
+ 7mandragora,     Ketaki,        <Channel name: shadowkekw>,       2024-11-07 10:42:14.088262 
+
+ 7mandragora,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.391546 
+
+ 7mandragora,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:59:14.513857 
+
+ 7mandragora,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:00:01.556575 
+
+ 7mandragora,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:01:27.947688 
+
+ 7mandragora,     0-0,        <Channel name: shadowkekw>,       2024-11-07 11:02:42.232444 
+
+ 7mandragora,     KAI CENAT GO @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:04:09.865963 
+
+ 7mandragora,     Dppdpdpdpdpdpd,        <Channel name: shadowkekw>,       2024-11-07 11:23:50.463500 
+
+ 7mandragora,     Ahahahahahahaaha,        <Channel name: shadowkekw>,       2024-11-07 11:23:53.412838 
+
+ 7mandragora,     #FREESHADOW,        <Channel name: shadowkekw>,       2024-11-07 11:24:04.187653 
+
+ 7mandragora,     LUL LUL LUL LUL LUL LUL,        <Channel name: shadowkekw>,       2024-11-07 12:19:13.531860 

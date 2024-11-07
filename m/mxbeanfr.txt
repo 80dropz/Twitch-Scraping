@@ -1,0 +1,18 @@
+
+ mxbeanfr,     fff,        <Channel name: lacy>,       2024-11-07 13:11:41.709130 
+
+ mxbeanfr,     FRRRR,        <Channel name: lacy>,       2024-11-07 13:12:21.166973 
+
+ mxbeanfr,     HUGE F,        <Channel name: lacy>,       2024-11-07 13:25:00.238339 
+
+ mxbeanfr,     frrrrr,        <Channel name: lacy>,       2024-11-07 13:26:30.141478 
+
+ mxbeanfr,     fffffrr,        <Channel name: lacy>,       2024-11-07 13:26:41.534181 
+
+ mxbeanfr,     FFFF,        <Channel name: lacy>,       2024-11-07 13:30:41.539472 
+
+ mxbeanfr,     FFFFF,        <Channel name: lacy>,       2024-11-07 13:34:06.187514 
+
+ mxbeanfr,     HUGE FRR,        <Channel name: lacy>,       2024-11-07 13:34:27.179242 
+
+ mxbeanfr,     rizzzzz,        <Channel name: lacy>,       2024-11-07 13:35:49.627076 

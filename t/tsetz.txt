@@ -1,0 +1,4 @@
+
+ tsetz,     500,        <Channel name: nadeshot>,       2024-11-07 12:36:03.174184 
+
+ tsetz,     500 gifted,        <Channel name: nadeshot>,       2024-11-07 12:36:21.557405 

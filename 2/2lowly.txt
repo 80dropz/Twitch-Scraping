@@ -8,3 +8,21 @@
  2lowly,     o,        <Channel name: shadowkekw>,       2024-11-07 09:07:17.040362 
 
  2lowly,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:07:32.390277 
+
+ 2lowly,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.195063 
+
+ 2lowly,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:53:31.503164 
+
+ 2lowly,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.107857 
+
+ 2lowly,     Benin,        <Channel name: shadowkekw>,       2024-11-07 10:57:38.233727 
+
+ 2lowly,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:58:27.486055 
+
+ 2lowly,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:59:23.185297 
+
+ 2lowly,     India,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.766059 
+
+ 2lowly,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 11:01:47.915909 
+
+ 2lowly,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:05:34.862772 

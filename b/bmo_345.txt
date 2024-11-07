@@ -1,2 +1,4 @@
 
  bmo_345,     1,        <Channel name: shadowkekw>,       2024-11-07 09:22:21.654872 
+
+ bmo_345,     kuba,        <Channel name: shadowkekw>,       2024-11-07 10:08:06.426442 

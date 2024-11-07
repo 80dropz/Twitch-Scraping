@@ -1,0 +1,8 @@
+
+ rokihr_neft,     hi,        <Channel name: kaicenat>,       2024-11-07 11:37:51.192579 
+
+ rokihr_neft,     hello,        <Channel name: kaicenat>,       2024-11-07 11:37:59.092213 
+
+ rokihr_neft,     a mne,        <Channel name: kaicenat>,       2024-11-07 11:38:30.174215 
+
+ rokihr_neft,     mnee,        <Channel name: kaicenat>,       2024-11-07 11:39:28.623918 

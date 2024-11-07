@@ -1,0 +1,28 @@
+
+ outfeer,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.138949 
+
+ outfeer,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.961587 
+
+ outfeer,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:10:55.912307 
+
+ outfeer,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:12:41.758469 
+
+ outfeer,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.866993 
+
+ outfeer,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.423051 
+
+ outfeer,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:16:32.393641 
+
+ outfeer,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:16:49.852466 
+
+ outfeer,     Fiji,        <Channel name: shadowkekw>,       2024-11-07 10:16:57.412249 
+
+ outfeer,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:17:43.133678 
+
+ outfeer,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.386252 
+
+ outfeer,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:19:48.461592 
+
+ outfeer,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:20:12.269716 
+
+ outfeer,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.620397 

@@ -1,0 +1,62 @@
+
+ marushuka,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:33.753956 
+
+ marushuka,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:39:33.103737 
+
+ marushuka,     Dominicana,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.342559 
+
+ marushuka,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:41:55.765313 
+
+ marushuka,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:43:06.643429 
+
+ marushuka,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.307677 
+
+ marushuka,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.060229 
+
+ marushuka,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:46:33.784171 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:47:42.199173 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.426325 
+
+ marushuka,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:30.397961 
+
+ marushuka,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.590307 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:50:58.415303 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.295864 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:52:39.691063 
+
+ marushuka,     India,        <Channel name: shadowkekw>,       2024-11-07 10:54:10.546216 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:55:11.977646 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:56:12.299243 
+
+ marushuka,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.548006 
+
+ marushuka,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:56:48.285003 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:58:43.399020 
+
+ marushuka,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:59:30.047443 
+
+ marushuka,     DOminican Respublic,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.829166 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.717685 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:01:57.225585 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:03:21.242093 
+
+ marushuka,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:04:29.599398 
+
+ marushuka,     Malasssia,        <Channel name: shadowkekw>,       2024-11-07 11:10:02.886963 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:10:43.433493 
+
+ marushuka,     Italy,        <Channel name: shadowkekw>,       2024-11-07 11:11:30.140542 
+
+ marushuka,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:14:01.899711 

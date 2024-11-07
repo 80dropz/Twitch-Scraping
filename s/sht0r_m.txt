@@ -2,3 +2,5 @@
  sht0r_m,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:42:43.904674 
 
  sht0r_m,     pp zaza,        <Channel name: shadowkekw>,       2024-11-07 09:43:03.762132 
+
+ sht0r_m,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:14:22.958176 

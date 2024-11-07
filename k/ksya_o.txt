@@ -1,0 +1,22 @@
+
+ ksya_o,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:09:10.805701 
+
+ ksya_o,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:13:07.878923 
+
+ ksya_o,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.969156 
+
+ ksya_o,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.608144 
+
+ ksya_o,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:34:48.553317 
+
+ ksya_o,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.078827 
+
+ ksya_o,     th,        <Channel name: shadowkekw>,       2024-11-07 10:49:14.500548 
+
+ ksya_o,     th,        <Channel name: shadowkekw>,       2024-11-07 10:52:09.880237 
+
+ ksya_o,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:53:49.250580 
+
+ ksya_o,     me,        <Channel name: shadowkekw>,       2024-11-07 10:54:41.798738 
+
+ ksya_o,     br,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.612471 

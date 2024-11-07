@@ -1,0 +1,10 @@
+
+ oogway147,     !time,        <Channel name: kaicenat>,       2024-11-07 11:43:09.615007 
+
+ oogway147,     !j,        <Channel name: kaicenat>,       2024-11-07 11:43:19.303389 
+
+ oogway147,     !time,        <Channel name: kaicenat>,       2024-11-07 11:43:21.704176 
+
+ oogway147,     !Time,        <Channel name: kaicenat>,       2024-11-07 11:43:31.330241 
+
+ oogway147,     !time,        <Channel name: kaicenat>,       2024-11-07 11:43:35.979506 

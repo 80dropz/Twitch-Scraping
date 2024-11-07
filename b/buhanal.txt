@@ -1,0 +1,16 @@
+
+ buhanal,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.981993 
+
+ buhanal,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:56.350525 
+
+ buhanal,     Kazahstan,        <Channel name: shadowkekw>,       2024-11-07 10:09:18.166546 
+
+ buhanal,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:09:37.038381 
+
+ buhanal,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:10:00.758309 
+
+ buhanal,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:10:27.072662 
+
+ buhanal,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:10:50.798950 
+
+ buhanal,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:11.297509 

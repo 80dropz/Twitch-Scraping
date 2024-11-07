@@ -1,0 +1,14 @@
+
+ asdfg2312,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.372870 
+
+ asdfg2312,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:25.703916 
+
+ asdfg2312,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:52:39.900321 
+
+ asdfg2312,     India,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.342109 
+
+ asdfg2312,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.886669 
+
+ asdfg2312,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:57:26.638627 
+
+ asdfg2312,     France,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.337996 

@@ -1,0 +1,8 @@
+
+ pavoefn,     no,        <Channel name: lacy>,       2024-11-07 12:45:49.159204 
+
+ pavoefn,     bye,        <Channel name: lacy>,       2024-11-07 12:49:10.269708 
+
+ pavoefn,     l,        <Channel name: lacy>,       2024-11-07 12:51:24.990462 
+
+ pavoefn,     L,        <Channel name: lacy>,       2024-11-07 12:51:49.050917 

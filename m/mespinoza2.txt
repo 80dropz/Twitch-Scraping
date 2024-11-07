@@ -1,0 +1,32 @@
+
+ mespinoza2,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 11:54:18.316190 
+
+ mespinoza2,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 11:54:28.040784 
+
+ mespinoza2,     YUR,        <Channel name: kaicenat>,       2024-11-07 12:20:41.581027 
+
+ mespinoza2,     ALMOST AT EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:20:56.733107 
+
+ mespinoza2,     BLESS UP,        <Channel name: kaicenat>,       2024-11-07 12:22:13.035352 
+
+ mespinoza2,     GALAXY SPAM,        <Channel name: kaicenat>,       2024-11-07 12:26:45.136426 
+
+ mespinoza2,     GALAXY,        <Channel name: kaicenat>,       2024-11-07 12:27:14.379099 
+
+ mespinoza2,     LETS GO,        <Channel name: kaicenat>,       2024-11-07 12:28:15.551085 
+
+ mespinoza2,     W MILES,        <Channel name: kaicenat>,       2024-11-07 12:28:21.410592 
+
+ mespinoza2,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 12:28:35.583339 
+
+ mespinoza2,     hi miles,        <Channel name: kaicenat>,       2024-11-07 12:29:52.753350 
+
+ mespinoza2,     GALAXY,        <Channel name: kaicenat>,       2024-11-07 12:30:27.750855 
+
+ mespinoza2,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:56:47.736519 
+
+ mespinoza2,     CHAT 100,        <Channel name: kaicenat>,       2024-11-07 12:59:00.627701 
+
+ mespinoza2,     SAUCEEEE,        <Channel name: kaicenat>,       2024-11-07 13:01:22.200267 
+
+ mespinoza2,     HELPPPPPP,        <Channel name: kaicenat>,       2024-11-07 13:01:34.824544 

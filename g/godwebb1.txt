@@ -4,3 +4,7 @@
  godwebb1,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:16:16.520056 
 
  godwebb1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:16:50.652120 
+
+ godwebb1,     pour the water on him jow,        <Channel name: kaicenat>,       2024-11-07 13:25:12.678558 
+
+ godwebb1,     he said he wants water,        <Channel name: kaicenat>,       2024-11-07 13:25:27.008958 

@@ -1,0 +1,4 @@
+
+ supadave_310,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:53:29.756650 
+
+ supadave_310,     !points,        <Channel name: kaicenat>,       2024-11-07 09:53:57.036926 

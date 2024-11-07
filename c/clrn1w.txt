@@ -1,0 +1,56 @@
+
+ clrn1w,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:07:24.345338 
+
+ clrn1w,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:08:44.266695 
+
+ clrn1w,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:09:09.227594 
+
+ clrn1w,     chona,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.868299 
+
+ clrn1w,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:09:30.624157 
+
+ clrn1w,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:09:50.705356 
+
+ clrn1w,     au,        <Channel name: shadowkekw>,       2024-11-07 10:10:12.753177 
+
+ clrn1w,     de,        <Channel name: shadowkekw>,       2024-11-07 10:10:59.022039 
+
+ clrn1w,     fiat,        <Channel name: shadowkekw>,       2024-11-07 10:11:33.089428 
+
+ clrn1w,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:11:51.051261 
+
+ clrn1w,     au,        <Channel name: shadowkekw>,       2024-11-07 10:13:04.460580 
+
+ clrn1w,     india,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.366624 
+
+ clrn1w,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:13:25.688012 
+
+ clrn1w,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:14:15.753992 
+
+ clrn1w,     india,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.416166 
+
+ clrn1w,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:15:04.659902 
+
+ clrn1w,     india,        <Channel name: shadowkekw>,       2024-11-07 10:15:22.327678 
+
+ clrn1w,     de,        <Channel name: shadowkekw>,       2024-11-07 10:15:28.299435 
+
+ clrn1w,     at,        <Channel name: shadowkekw>,       2024-11-07 10:15:43.782105 
+
+ clrn1w,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.020556 
+
+ clrn1w,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.825613 
+
+ clrn1w,     nk,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.305306 
+
+ clrn1w,     es,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.705662 
+
+ clrn1w,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:16:46.685397 
+
+ clrn1w,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:16:58.920451 
+
+ clrn1w,     mg,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.726375 
+
+ clrn1w,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.425624 
+
+ clrn1w,     es,        <Channel name: shadowkekw>,       2024-11-07 10:19:37.646575 

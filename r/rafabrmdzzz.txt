@@ -1,2 +1,4 @@
 
  rafabrmdzzz,     !monitor,        <Channel name: mongraal>,       2024-11-07 09:01:17.767941 
+
+ rafabrmdzzz,     !pc,        <Channel name: mongraal>,       2024-11-07 09:54:11.458838 

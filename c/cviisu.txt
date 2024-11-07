@@ -84,3 +84,39 @@
  cviisu,     FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning,        <Channel name: kaicenat>,       2024-11-07 02:08:58.865248 
 
  cviisu,     FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning FallWinning,        <Channel name: kaicenat>,       2024-11-07 02:09:50.310512 
+
+ cviisu,     10000,        <Channel name: kaicenat>,       2024-11-07 13:05:54.839424 
+
+ cviisu,     AGAIN AGAIN,        <Channel name: kaicenat>,       2024-11-07 13:07:55.295613 
+
+ cviisu,     SEND ANOTHER 100,        <Channel name: kaicenat>,       2024-11-07 13:08:16.787575 
+
+ cviisu,     AGAIN,        <Channel name: kaicenat>,       2024-11-07 13:09:15.651829 
+
+ cviisu,     SEND ANOTHER 100,        <Channel name: kaicenat>,       2024-11-07 13:09:50.057950 
+
+ cviisu,     SEND ANOTHER 100,        <Channel name: kaicenat>,       2024-11-07 13:11:17.725463 
+
+ cviisu,     DO IT TOGETHEr,        <Channel name: kaicenat>,       2024-11-07 13:17:36.696055 
+
+ cviisu,     NOOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:19:34.019388 
+
+ cviisu,     DONT DO IT,        <Channel name: kaicenat>,       2024-11-07 13:21:49.895636 
+
+ cviisu,     ASK BRI FR,        <Channel name: kaicenat>,       2024-11-07 13:21:55.014251 
+
+ cviisu,     ggs,        <Channel name: kaicenat>,       2024-11-07 13:23:10.811166 
+
+ cviisu,     MISSION FAILED,        <Channel name: kaicenat>,       2024-11-07 13:24:05.412597 
+
+ cviisu,     HE FINNA DROWN YALL,        <Channel name: kaicenat>,       2024-11-07 13:26:58.849898 
+
+ cviisu,     MOVE MILES,        <Channel name: kaicenat>,       2024-11-07 13:29:36.431529 
+
+ cviisu,     MILES MOVEEEEE,        <Channel name: kaicenat>,       2024-11-07 13:32:19.421954 
+
+ cviisu,     MOVE MILESSSS,        <Channel name: kaicenat>,       2024-11-07 13:32:42.994359 
+
+ cviisu,     YES,        <Channel name: kaicenat>,       2024-11-07 13:36:01.473558 
+
+ cviisu,     YES HE KNOWS,        <Channel name: kaicenat>,       2024-11-07 13:36:14.933449 

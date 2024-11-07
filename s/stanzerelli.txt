@@ -1,0 +1,4 @@
+
+ stanzerelli,     !roulette 900,        <Channel name: kaicenat>,       2024-11-07 09:53:12.946326 
+
+ stanzerelli,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:53:30.405326 

@@ -1,0 +1,10 @@
+
+ miteboss,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:57.172492 
+
+ miteboss,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:53:03.823148 
+
+ miteboss,     !points,        <Channel name: kaicenat>,       2024-11-07 09:53:13.389497 
+
+ miteboss,     !work,        <Channel name: kaicenat>,       2024-11-07 09:53:30.898754 
+
+ miteboss,     !join,        <Channel name: kaicenat>,       2024-11-07 09:53:36.873981 

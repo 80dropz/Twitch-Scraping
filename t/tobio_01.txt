@@ -1,0 +1,2 @@
+
+ tobio_01,     !time,        <Channel name: nadeshot>,       2024-11-07 11:30:36.018476 

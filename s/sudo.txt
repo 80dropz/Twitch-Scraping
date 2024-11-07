@@ -1,0 +1,2 @@
+
+ sudo,     cheer100,        <Channel name: kaicenat>,       2024-11-07 11:51:13.123076 

@@ -6,3 +6,7 @@
  official_rie,     oh,        <Channel name: meltislive>,       2024-11-07 02:34:56.604660 
 
  official_rie,     oh nah,        <Channel name: meltislive>,       2024-11-07 02:36:27.258504 
+
+ official_rie,     wwwww,        <Channel name: kaicenat>,       2024-11-07 13:36:38.057976 
+
+ official_rie,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:36:51.146713 

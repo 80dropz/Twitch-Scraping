@@ -1,0 +1,8 @@
+
+ v33mer,     !points,        <Channel name: kaicenat>,       2024-11-07 10:18:01.657222 
+
+ v33mer,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:18:04.746082 
+
+ v33mer,     gamble all,        <Channel name: kaicenat>,       2024-11-07 10:18:15.191943 
+
+ v33mer,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:18:41.637849 

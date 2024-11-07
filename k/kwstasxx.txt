@@ -1,0 +1,8 @@
+
+ kwstasxx,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:28:10.195653 
+
+ kwstasxx,     ! roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:28:34.518158 
+
+ kwstasxx,     ! roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:28:58.113343 
+
+ kwstasxx,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:29:14.792400 

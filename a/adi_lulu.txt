@@ -1,0 +1,12 @@
+
+ adi_lulu,     100,        <Channel name: kaicenat>,       2024-11-07 12:00:02.872948 
+
+ adi_lulu,     1000,        <Channel name: kaicenat>,       2024-11-07 12:01:03.049284 
+
+ adi_lulu,     100,        <Channel name: kaicenat>,       2024-11-07 12:01:13.810877 
+
+ adi_lulu,     100,        <Channel name: kaicenat>,       2024-11-07 12:02:07.651694 
+
+ adi_lulu,     100,        <Channel name: kaicenat>,       2024-11-07 12:03:11.642445 
+
+ adi_lulu,     100,        <Channel name: kaicenat>,       2024-11-07 12:04:08.403122 

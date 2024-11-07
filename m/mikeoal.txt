@@ -1,0 +1,8 @@
+
+ mikeoal,     !subs,        <Channel name: kaicenat>,       2024-11-07 10:12:19.285355 
+
+ mikeoal,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:19.529854 
+
+ mikeoal,     what is !join ?,        <Channel name: kaicenat>,       2024-11-07 10:13:58.086333 
+
+ mikeoal,     !points,        <Channel name: kaicenat>,       2024-11-07 10:14:58.487991 

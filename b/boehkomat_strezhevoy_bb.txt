@@ -1,0 +1,14 @@
+
+ boehkomat_strezhevoy_bb,     Ukrain,        <Channel name: shadowkekw>,       2024-11-07 10:09:14.962430 
+
+ boehkomat_strezhevoy_bb,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:37.119422 
+
+ boehkomat_strezhevoy_bb,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:10:29.443181 
+
+ boehkomat_strezhevoy_bb,     Canasa,        <Channel name: shadowkekw>,       2024-11-07 10:10:44.174520 
+
+ boehkomat_strezhevoy_bb,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:11:46.046638 
+
+ boehkomat_strezhevoy_bb,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:13:55.256760 
+
+ boehkomat_strezhevoy_bb,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:03:45.102572 

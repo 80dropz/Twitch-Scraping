@@ -1,0 +1,16 @@
+
+ prncssctrl,     rakai start beef with NPC,        <Channel name: kaicenat>,       2024-11-07 11:59:21.882725 
+
+ prncssctrl,     rakai make NPC CRASHOUT,        <Channel name: kaicenat>,       2024-11-07 11:59:42.214055 
+
+ prncssctrl,     rakai make NPC CRASHOUTt,        <Channel name: kaicenat>,       2024-11-07 11:59:52.498725 
+
+ prncssctrl,     rakai make NPC CRASHOUT,        <Channel name: kaicenat>,       2024-11-07 11:59:53.998223 
+
+ prncssctrl,     rakai make NPC CRASHOUTv,        <Channel name: kaicenat>,       2024-11-07 11:59:59.059559 
+
+ prncssctrl,     rakai make NPC CRASHOUT,        <Channel name: kaicenat>,       2024-11-07 12:00:01.421111 
+
+ prncssctrl,     rakai make NPC CRASHOUTt,        <Channel name: kaicenat>,       2024-11-07 12:00:05.159733 
+
+ prncssctrl,     rakai make NPC CRASHOUT,        <Channel name: kaicenat>,       2024-11-07 12:00:07.218607 

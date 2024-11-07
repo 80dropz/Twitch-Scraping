@@ -1,0 +1,50 @@
+
+ pantpunch,     nyama,        <Channel name: shadowkekw>,       2024-11-07 10:01:50.701882 
+
+ pantpunch,     )),        <Channel name: shadowkekw>,       2024-11-07 10:03:54.294807 
+
+ pantpunch,     nike,        <Channel name: shadowkekw>,       2024-11-07 10:03:56.322197 
+
+ pantpunch,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.478350 
+
+ pantpunch,     uc,        <Channel name: shadowkekw>,       2024-11-07 10:35:47.209680 
+
+ pantpunch,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:52.448026 
+
+ pantpunch,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.830561 
+
+ pantpunch,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:39:54.876967 
+
+ pantpunch,     il,        <Channel name: shadowkekw>,       2024-11-07 10:40:00.898338 
+
+ pantpunch,     ymom,        <Channel name: shadowkekw>,       2024-11-07 10:41:51.770905 
+
+ pantpunch,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:43:37.119821 
+
+ pantpunch,     jordan),        <Channel name: shadowkekw>,       2024-11-07 10:50:23.483075 
+
+ pantpunch,     gg,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.119499 
+
+ pantpunch,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:59:03.680333 
+
+ pantpunch,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:01:34.536554 
+
+ pantpunch,     do,        <Channel name: shadowkekw>,       2024-11-07 11:02:34.613787 
+
+ pantpunch,     iraq,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.943480 
+
+ pantpunch,     iran,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.484523 
+
+ pantpunch,     oman,        <Channel name: shadowkekw>,       2024-11-07 11:04:50.730594 
+
+ pantpunch,     do,        <Channel name: shadowkekw>,       2024-11-07 11:05:54.691952 
+
+ pantpunch,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:06:30.753143 
+
+ pantpunch,     id,        <Channel name: shadowkekw>,       2024-11-07 11:07:11.202191 
+
+ pantpunch,     africa,        <Channel name: shadowkekw>,       2024-11-07 11:09:13.920814 
+
+ pantpunch,     iran,        <Channel name: shadowkekw>,       2024-11-07 11:09:17.949454 
+
+ pantpunch,     do,        <Channel name: shadowkekw>,       2024-11-07 11:09:24.428544 

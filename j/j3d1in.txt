@@ -1,0 +1,26 @@
+
+ j3d1in,     rt,        <Channel name: clix>,       2024-11-07 13:06:44.640517 
+
+ j3d1in,     mhm,        <Channel name: clix>,       2024-11-07 13:08:37.678942 
+
+ j3d1in,     com,        <Channel name: clix>,       2024-11-07 13:10:11.384675 
+
+ j3d1in,     huh,        <Channel name: clix>,       2024-11-07 13:10:54.375989 
+
+ j3d1in,     lol,        <Channel name: clix>,       2024-11-07 13:11:35.380023 
+
+ j3d1in,     rt,        <Channel name: clix>,       2024-11-07 13:15:23.968448 
+
+ j3d1in,     real,        <Channel name: clix>,       2024-11-07 13:15:29.484675 
+
+ j3d1in,     damn,        <Channel name: clix>,       2024-11-07 13:18:34.602481 
+
+ j3d1in,     if he plays a good game,        <Channel name: clix>,       2024-11-07 13:19:08.169384 
+
+ j3d1in,     rt,        <Channel name: clix>,       2024-11-07 13:21:52.788915 
+
+ j3d1in,     no,        <Channel name: clix>,       2024-11-07 13:23:55.772214 
+
+ j3d1in,     nah tomorrow,        <Channel name: clix>,       2024-11-07 13:24:07.426208 
+
+ j3d1in,     rt,        <Channel name: clix>,       2024-11-07 13:28:41.421097 

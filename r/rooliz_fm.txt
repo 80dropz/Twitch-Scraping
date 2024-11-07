@@ -1,0 +1,116 @@
+
+ rooliz_fm,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.848371 
+
+ rooliz_fm,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:16.433851 
+
+ rooliz_fm,     thi,        <Channel name: shadowkekw>,       2024-11-07 10:15:49.113881 
+
+ rooliz_fm,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:16:10.233780 
+
+ rooliz_fm,     arg,        <Channel name: shadowkekw>,       2024-11-07 10:16:45.812707 
+
+ rooliz_fm,     kg,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.956709 
+
+ rooliz_fm,     us,        <Channel name: shadowkekw>,       2024-11-07 10:18:31.194302 
+
+ rooliz_fm,     is,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.715473 
+
+ rooliz_fm,     br,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.529426 
+
+ rooliz_fm,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:19:53.903754 
+
+ rooliz_fm,     lat,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.646759 
+
+ rooliz_fm,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:23:03.782529 
+
+ rooliz_fm,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:23:40.542057 
+
+ rooliz_fm,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:24:45.848386 
+
+ rooliz_fm,     as,        <Channel name: shadowkekw>,       2024-11-07 10:24:53.394719 
+
+ rooliz_fm,     ast,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.620156 
+
+ rooliz_fm,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.323110 
+
+ rooliz_fm,     tur,        <Channel name: shadowkekw>,       2024-11-07 10:25:53.748571 
+
+ rooliz_fm,     gt,        <Channel name: shadowkekw>,       2024-11-07 10:26:46.543299 
+
+ rooliz_fm,     us,        <Channel name: shadowkekw>,       2024-11-07 10:27:29.379172 
+
+ rooliz_fm,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:28:41.325703 
+
+ rooliz_fm,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:29:34.820757 
+
+ rooliz_fm,     pol,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.349400 
+
+ rooliz_fm,     pl,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.496746 
+
+ rooliz_fm,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:31:35.541094 
+
+ rooliz_fm,     co,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.210504 
+
+ rooliz_fm,     cooo,        <Channel name: shadowkekw>,       2024-11-07 10:32:39.917271 
+
+ rooliz_fm,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.086307 
+
+ rooliz_fm,     arg,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.485807 
+
+ rooliz_fm,     br,        <Channel name: shadowkekw>,       2024-11-07 10:33:22.074669 
+
+ rooliz_fm,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:33:56.573760 
+
+ rooliz_fm,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:34:07.886445 
+
+ rooliz_fm,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:34:28.131693 
+
+ rooliz_fm,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.210475 
+
+ rooliz_fm,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:35:12.196885 
+
+ rooliz_fm,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:35:28.786307 
+
+ rooliz_fm,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.291001 
+
+ rooliz_fm,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.529897 
+
+ rooliz_fm,     ie,        <Channel name: shadowkekw>,       2024-11-07 10:37:50.623842 
+
+ rooliz_fm,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.108489 
+
+ rooliz_fm,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.422880 
+
+ rooliz_fm,     mt,        <Channel name: shadowkekw>,       2024-11-07 10:39:41.619501 
+
+ rooliz_fm,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.918763 
+
+ rooliz_fm,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:41.289832 
+
+ rooliz_fm,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.439733 
+
+ rooliz_fm,     br,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.478686 
+
+ rooliz_fm,     za,        <Channel name: shadowkekw>,       2024-11-07 10:44:11.356390 
+
+ rooliz_fm,     ad,        <Channel name: shadowkekw>,       2024-11-07 10:45:02.843127 
+
+ rooliz_fm,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.907025 
+
+ rooliz_fm,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.834432 
+
+ rooliz_fm,     tu,        <Channel name: shadowkekw>,       2024-11-07 10:50:20.563106 
+
+ rooliz_fm,     th,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.734293 
+
+ rooliz_fm,     dom,        <Channel name: shadowkekw>,       2024-11-07 10:52:28.609103 
+
+ rooliz_fm,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:58:14.942591 
+
+ rooliz_fm,     po,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.777093 
+
+ rooliz_fm,     fl,        <Channel name: shadowkekw>,       2024-11-07 11:10:24.275549 
+
+ rooliz_fm,     th,        <Channel name: shadowkekw>,       2024-11-07 11:13:24.488318 
+
+ rooliz_fm,     us,        <Channel name: shadowkekw>,       2024-11-07 11:14:41.451256 

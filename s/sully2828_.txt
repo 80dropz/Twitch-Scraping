@@ -10,3 +10,117 @@
  sully2828_,     SMH2,        <Channel name: clix>,       2024-11-07 09:08:39.848961 
 
  sully2828_,     uuh,        <Channel name: clix>,       2024-11-07 09:09:07.644125 
+
+ sully2828_,     !time,        <Channel name: clix>,       2024-11-07 11:16:07.009942 
+
+ sully2828_,     he’s late Classic,        <Channel name: clix>,       2024-11-07 11:16:24.081104 
+
+ sully2828_,     when’d he sleep @value1x,        <Channel name: clix>,       2024-11-07 11:16:48.720123 
+
+ sully2828_,     @value1x uuh,        <Channel name: clix>,       2024-11-07 11:17:15.479964 
+
+ sully2828_,     ca,        <Channel name: clix>,       2024-11-07 11:17:22.444695 
+
+ sully2828_,     @nxtea1intme ye he ain’t waking up anytime soon SAJ,        <Channel name: clix>,       2024-11-07 11:17:35.952434 
+
+ sully2828_,     @wilkymilkyway uuh,        <Channel name: clix>,       2024-11-07 11:17:53.031430 
+
+ sully2828_,     value is dating mark chat,        <Channel name: clix>,       2024-11-07 11:18:05.613857 
+
+ sully2828_,     @value1x y’all broke up? SAJ,        <Channel name: clix>,       2024-11-07 11:18:28.824081 
+
+ sully2828_,     @feldy u changed the timer ome44,        <Channel name: clix>,       2024-11-07 11:18:46.548796 
+
+ sully2828_,     woah,        <Channel name: clix>,       2024-11-07 11:40:34.453097 
+
+ sully2828_,     rt,        <Channel name: clix>,       2024-11-07 11:40:46.895244 
+
+ sully2828_,     Life,        <Channel name: clix>,       2024-11-07 11:41:39.567475 
+
+ sully2828_,     ain’t he been asleep 13 out of the 24 hours he live,        <Channel name: clix>,       2024-11-07 11:42:44.344160 
+
+ sully2828_,     BRO,        <Channel name: clix>,       2024-11-07 12:53:52.185455 
+
+ sully2828_,     !time,        <Channel name: clix>,       2024-11-07 12:54:01.321570 
+
+ sully2828_,     Classic,        <Channel name: clix>,       2024-11-07 12:54:46.134149 
+
+ sully2828_,     NOWAY,        <Channel name: clix>,       2024-11-07 12:55:09.604526 
+
+ sully2828_,     uuh,        <Channel name: clix>,       2024-11-07 12:55:31.357423 
+
+ sully2828_,     !late,        <Channel name: clix>,       2024-11-07 12:55:50.333834 
+
+ sully2828_,     boring asf,        <Channel name: clix>,       2024-11-07 12:56:54.220832 
+
+ sully2828_,     @notmarkx they’re 2nd,        <Channel name: clix>,       2024-11-07 12:58:25.785979 
+
+ sully2828_,     @notmarkx u need one from in game? u can just !lb then get it from there no?,        <Channel name: clix>,       2024-11-07 13:00:21.826194 
+
+ sully2828_,     !lb @notmarkx,        <Channel name: clix>,       2024-11-07 13:00:53.840612 
+
+ sully2828_,     @notmarkx ohh ok,        <Channel name: clix>,       2024-11-07 13:02:10.937930 
+
+ sully2828_,     CAUGHT,        <Channel name: clix>,       2024-11-07 13:02:28.404920 
+
+ sully2828_,     pre blue tights,        <Channel name: clix>,       2024-11-07 13:02:59.215001 
+
+ sully2828_,     @c0urtneyamanda wait I thought u were a girl,        <Channel name: clix>,       2024-11-07 13:03:48.378638 
+
+ sully2828_,     WW 15 NOWAY,        <Channel name: clix>,       2024-11-07 13:04:27.834449 
+
+ sully2828_,     o7 pickle,        <Channel name: clix>,       2024-11-07 13:05:53.087491 
+
+ sully2828_,     ome44,        <Channel name: clix>,       2024-11-07 13:06:52.882119 
+
+ sully2828_,     HUH,        <Channel name: clix>,       2024-11-07 13:07:20.280503 
+
+ sully2828_,     o7,        <Channel name: clix>,       2024-11-07 13:08:04.474744 
+
+ sully2828_,     top golf with who?,        <Channel name: clix>,       2024-11-07 13:09:17.984760 
+
+ sully2828_,     ?,        <Channel name: clix>,       2024-11-07 13:10:59.227082 
+
+ sully2828_,     CAUGHT,        <Channel name: clix>,       2024-11-07 13:11:09.301435 
+
+ sully2828_,     HUH,        <Channel name: clix>,       2024-11-07 13:11:42.387488 
+
+ sully2828_,     2 hours,        <Channel name: clix>,       2024-11-07 13:12:08.170710 
+
+ sully2828_,     WW 5,        <Channel name: clix>,       2024-11-07 13:13:46.213835 
+
+ sully2828_,     Aware,        <Channel name: clix>,       2024-11-07 13:15:16.449504 
+
+ sully2828_,     yO,        <Channel name: clix>,       2024-11-07 13:15:32.110293 
+
+ sully2828_,     bop boom,        <Channel name: clix>,       2024-11-07 13:16:47.330637 
+
+ sully2828_,     NOWAY,        <Channel name: clix>,       2024-11-07 13:18:05.827929 
+
+ sully2828_,     yes,        <Channel name: clix>,       2024-11-07 13:18:39.557068 
+
+ sully2828_,     WEDIDIT,        <Channel name: clix>,       2024-11-07 13:18:52.104369 
+
+ sully2828_,     NOWAY,        <Channel name: clix>,       2024-11-07 13:18:55.641545 
+
+ sully2828_,     maybe like 15k,        <Channel name: clix>,       2024-11-07 13:19:20.962865 
+
+ sully2828_,     like 4 wins,        <Channel name: clix>,       2024-11-07 13:20:07.453048 
+
+ sully2828_,     uuh,        <Channel name: clix>,       2024-11-07 13:20:36.921844 
+
+ sully2828_,     cod NOWAY,        <Channel name: clix>,       2024-11-07 13:21:13.458861 
+
+ sully2828_,     ofc,        <Channel name: clix>,       2024-11-07 13:22:03.131258 
+
+ sully2828_,     brother,        <Channel name: clix>,       2024-11-07 13:22:53.192396 
+
+ sully2828_,     YES,        <Channel name: clix>,       2024-11-07 13:23:56.631211 
+
+ sully2828_,     NOWAY N!NJA,        <Channel name: clix>,       2024-11-07 13:24:12.124745 
+
+ sully2828_,     LL ASS,        <Channel name: clix>,       2024-11-07 13:25:35.674164 
+
+ sully2828_,     ADS,        <Channel name: clix>,       2024-11-07 13:25:43.322268 
+
+ sully2828_,     6 ads NotLikeThis NotLikeThis,        <Channel name: clix>,       2024-11-07 13:26:41.930374 

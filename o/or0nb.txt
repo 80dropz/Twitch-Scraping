@@ -1,0 +1,88 @@
+
+ or0nb,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.680093 
+
+ or0nb,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:09:42.749542 
+
+ or0nb,     bl,        <Channel name: shadowkekw>,       2024-11-07 10:15:37.460742 
+
+ or0nb,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.885579 
+
+ or0nb,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:17:35.186981 
+
+ or0nb,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:19:55.742137 
+
+ or0nb,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.753431 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:21:46.218498 
+
+ or0nb,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:21:49.654892 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.309172 
+
+ or0nb,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.661385 
+
+ or0nb,     au,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.688159 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.760172 
+
+ or0nb,     dk,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.696329 
+
+ or0nb,     es,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.109688 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:26:36.680241 
+
+ or0nb,     es,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.376379 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:27:16.903331 
+
+ or0nb,     es,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.741742 
+
+ or0nb,     es,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.780286 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:28:52.543019 
+
+ or0nb,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.102270 
+
+ or0nb,     du,        <Channel name: shadowkekw>,       2024-11-07 10:29:24.907717 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.689814 
+
+ or0nb,     re,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.970901 
+
+ or0nb,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.760241 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:31:09.649455 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:31:25.929906 
+
+ or0nb,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.224688 
+
+ or0nb,     is,        <Channel name: shadowkekw>,       2024-11-07 10:33:41.940467 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:35:14.985353 
+
+ or0nb,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.184469 
+
+ or0nb,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.528814 
+
+ or0nb,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:36:02.801141 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:36:21.419807 
+
+ or0nb,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.507317 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.816194 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:40:10.264294 
+
+ or0nb,     it,        <Channel name: shadowkekw>,       2024-11-07 10:41:42.818288 
+
+ or0nb,     al,        <Channel name: shadowkekw>,       2024-11-07 10:41:48.198669 
+
+ or0nb,     kb,        <Channel name: shadowkekw>,       2024-11-07 10:43:05.506014 
+
+ or0nb,     es,        <Channel name: shadowkekw>,       2024-11-07 10:43:22.884850 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:46:00.386490 
+
+ or0nb,     th,        <Channel name: shadowkekw>,       2024-11-07 10:56:21.260770 

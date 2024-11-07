@@ -1,0 +1,82 @@
+
+ yt_forex,     India,        <Channel name: shadowkekw>,       2024-11-07 10:07:11.625343 
+
+ yt_forex,     Islan\d,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.579837 
+
+ yt_forex,     Island,        <Channel name: shadowkekw>,       2024-11-07 10:08:30.787393 
+
+ yt_forex,     India,        <Channel name: shadowkekw>,       2024-11-07 10:08:42.962217 
+
+ yt_forex,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.517985 
+
+ yt_forex,     India,        <Channel name: shadowkekw>,       2024-11-07 10:09:41.623441 
+
+ yt_forex,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:03.724723 
+
+ yt_forex,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:39.339716 
+
+ yt_forex,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:10:57.307750 
+
+ yt_forex,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:11:24.912053 
+
+ yt_forex,     TURKEY,        <Channel name: shadowkekw>,       2024-11-07 10:12:44.023601 
+
+ yt_forex,     mALTA,        <Channel name: shadowkekw>,       2024-11-07 10:12:56.230932 
+
+ yt_forex,     INDIA,        <Channel name: shadowkekw>,       2024-11-07 10:13:22.515468 
+
+ yt_forex,     BRAZILIA,        <Channel name: shadowkekw>,       2024-11-07 10:13:37.350665 
+
+ yt_forex,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:13:58.369933 
+
+ yt_forex,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:35.067617 
+
+ yt_forex,     Kuba,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.241378 
+
+ yt_forex,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:15:18.032958 
+
+ yt_forex,     Albania,        <Channel name: shadowkekw>,       2024-11-07 10:15:36.421094 
+
+ yt_forex,     kaz,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.375120 
+
+ yt_forex,     San marino,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.041660 
+
+ yt_forex,     Lesothoi,        <Channel name: shadowkekw>,       2024-11-07 10:16:52.850244 
+
+ yt_forex,     Namibia,        <Channel name: shadowkekw>,       2024-11-07 10:17:50.593008 
+
+ yt_forex,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.022787 
+
+ yt_forex,     SAweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.089660 
+
+ yt_forex,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:12.267060 
+
+ yt_forex,     Vengria,        <Channel name: shadowkekw>,       2024-11-07 10:18:21.823448 
+
+ yt_forex,     ISland,        <Channel name: shadowkekw>,       2024-11-07 10:18:35.594750 
+
+ yt_forex,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.482814 
+
+ yt_forex,     Urugvay,        <Channel name: shadowkekw>,       2024-11-07 10:18:52.171664 
+
+ yt_forex,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:19:06.439558 
+
+ yt_forex,     Togo,        <Channel name: shadowkekw>,       2024-11-07 10:19:26.660000 
+
+ yt_forex,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.097720 
+
+ yt_forex,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:20:06.726663 
+
+ yt_forex,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.431754 
+
+ yt_forex,     Irland,        <Channel name: shadowkekw>,       2024-11-07 10:20:43.256260 
+
+ yt_forex,     Katar,        <Channel name: shadowkekw>,       2024-11-07 10:21:04.268608 
+
+ yt_forex,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:21:11.085548 
+
+ yt_forex,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:21:21.818285 
+
+ yt_forex,     Livia,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.609268 
+
+ yt_forex,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:22:20.169481 

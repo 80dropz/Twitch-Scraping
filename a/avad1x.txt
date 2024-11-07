@@ -1,0 +1,16 @@
+
+ avad1x,     SNOW EMP,        <Channel name: lacy>,       2024-11-07 13:25:56.074373 
+
+ avad1x,     SNOW EMP HELP,        <Channel name: lacy>,       2024-11-07 13:26:10.482141 
+
+ avad1x,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:27:39.978617 
+
+ avad1x,     WWWW,        <Channel name: lacy>,       2024-11-07 13:27:45.590115 
+
+ avad1x,     pre avalanche,        <Channel name: lacy>,       2024-11-07 13:29:40.074899 
+
+ avad1x,     PRE EARTHQUAKE + AVALANCHE,        <Channel name: lacy>,       2024-11-07 13:30:26.192441 
+
+ avad1x,     EMP,        <Channel name: lacy>,       2024-11-07 13:30:51.376540 
+
+ avad1x,     EMPEMP,        <Channel name: lacy>,       2024-11-07 13:30:59.610996 

@@ -1,0 +1,16 @@
+
+ pizzagrushagarganzola,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.796466 
+
+ pizzagrushagarganzola,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:22:59.510240 
+
+ pizzagrushagarganzola,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:24.370745 
+
+ pizzagrushagarganzola,     Paraguayan,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.137672 
+
+ pizzagrushagarganzola,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.109832 
+
+ pizzagrushagarganzola,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:39.118857 
+
+ pizzagrushagarganzola,     Bali,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.987245 
+
+ pizzagrushagarganzola,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:27:06.304705 

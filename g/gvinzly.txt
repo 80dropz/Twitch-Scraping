@@ -1,0 +1,104 @@
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:11:41.555149 
+
+ gvinzly,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:12:01.024791 
+
+ gvinzly,     Czech Republic,        <Channel name: shadowkekw>,       2024-11-07 10:17:09.126194 
+
+ gvinzly,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:19:15.801052 
+
+ gvinzly,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:19:39.045429 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:20:20.938625 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.388158 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:21:53.023500 
+
+ gvinzly,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:22:58.605355 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:23:25.884123 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:24:29.759696 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:24:48.314123 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:59.539642 
+
+ gvinzly,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:28:36.668279 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:28:54.659787 
+
+ gvinzly,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:33.517272 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:31:19.277251 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:16.531775 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.246305 
+
+ gvinzly,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:32:57.619059 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:33:13.465330 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:33:26.656985 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.137694 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.458292 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:33:54.080000 
+
+ gvinzly,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:35:22.787256 
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:35:45.628015 
+
+ gvinzly,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.720990 
+
+ gvinzly,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:36:36.448456 
+
+ gvinzly,     Russian,        <Channel name: shadowkekw>,       2024-11-07 10:36:48.410453 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:37:06.028021 
+
+ gvinzly,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:33.885415 
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:40:56.743911 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:53:52.434433 
+
+ gvinzly,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:54:18.870674 
+
+ gvinzly,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:54:38.083460 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.831291 
+
+ gvinzly,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:56:01.555770 
+
+ gvinzly,     S,        <Channel name: shadowkekw>,       2024-11-07 10:56:57.390445 
+
+ gvinzly,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:57:32.084430 
+
+ gvinzly,     E,        <Channel name: shadowkekw>,       2024-11-07 10:57:43.528478 
+
+ gvinzly,     Nepali,        <Channel name: shadowkekw>,       2024-11-07 10:57:55.212619 
+
+ gvinzly,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:12.278968 
+
+ gvinzly,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:59:28.779665 
+
+ gvinzly,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.654544 
+
+ gvinzly,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:59:53.528971 
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 11:00:56.975716 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.833729 
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 11:01:19.104504 
+
+ gvinzly,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:02:27.563317 
+
+ gvinzly,     Spain,        <Channel name: shadowkekw>,       2024-11-07 11:02:40.808211 
+
+ gvinzly,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 11:02:44.175206 

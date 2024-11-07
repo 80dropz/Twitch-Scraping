@@ -1,0 +1,144 @@
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:10:13.364186 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.967892 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:12:10.528157 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:13:20.594731 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:13:42.010374 
+
+ haulayn,     co,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.926546 
+
+ haulayn,     au,        <Channel name: shadowkekw>,       2024-11-07 10:14:53.052781 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.866291 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:17:16.674473 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:17:36.245625 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.862943 
+
+ haulayn,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.329892 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.810843 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:20:27.354823 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:20:46.612755 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:22:07.132267 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:22:31.533936 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:23:58.333780 
+
+ haulayn,     cc,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.845638 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.860147 
+
+ haulayn,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:26:11.982578 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.941021 
+
+ haulayn,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:27:40.499420 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:27:43.289640 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.116055 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.124094 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.810114 
+
+ haulayn,     im,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.843045 
+
+ haulayn,     )),        <Channel name: shadowkekw>,       2024-11-07 10:29:17.323873 
+
+ haulayn,     cc,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.134315 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.124804 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.958247 
+
+ haulayn,     co,        <Channel name: shadowkekw>,       2024-11-07 10:30:16.717223 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:30:32.370664 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:31:28.140649 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.085421 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:35:09.777042 
+
+ haulayn,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.289823 
+
+ haulayn,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:36:00.392807 
+
+ haulayn,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:36:04.283375 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.960230 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 10:37:45.248862 
+
+ haulayn,     z,        <Channel name: shadowkekw>,       2024-11-07 10:39:21.916612 
+
+ haulayn,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:40:19.204622 
+
+ haulayn,     im,        <Channel name: shadowkekw>,       2024-11-07 10:41:57.129889 
+
+ haulayn,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.373547 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:43:57.123828 
+
+ haulayn,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:45:32.184860 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:46:48.875113 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.205498 
+
+ haulayn,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.147443 
+
+ haulayn,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:52:14.918043 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.242669 
+
+ haulayn,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.669505 
+
+ haulayn,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:54:07.539558 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 10:55:20.567763 
+
+ haulayn,     reunion,        <Channel name: shadowkekw>,       2024-11-07 10:57:55.164082 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.501603 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.792288 
+
+ haulayn,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:10:07.843731 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.380567 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.188441 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:10:53.519663 
+
+ haulayn,     do,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.060030 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.537385 
+
+ haulayn,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.438572 
+
+ haulayn,     im,        <Channel name: shadowkekw>,       2024-11-07 11:12:43.257991 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.954759 
+
+ haulayn,     co,        <Channel name: shadowkekw>,       2024-11-07 11:13:24.887748 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:13:53.724365 
+
+ haulayn,     za,        <Channel name: shadowkekw>,       2024-11-07 11:16:46.408775 
+
+ haulayn,     ae,        <Channel name: shadowkekw>,       2024-11-07 11:16:47.565195 

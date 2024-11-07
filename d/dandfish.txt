@@ -28,3 +28,9 @@
  dandfish,     LADS,        <Channel name: kaicenat>,       2024-11-07 02:51:05.155873 
 
  dandfish,     LDAS,        <Channel name: kaicenat>,       2024-11-07 02:51:17.171854 
+
+ dandfish,     mic,        <Channel name: kaicenat>,       2024-11-07 13:04:41.169557 
+
+ dandfish,     ggs,        <Channel name: kaicenat>,       2024-11-07 13:06:48.759589 
+
+ dandfish,     get tf up,        <Channel name: kaicenat>,       2024-11-07 13:08:32.562118 

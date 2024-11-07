@@ -1,0 +1,10 @@
+
+ dondeestanate,     ON TIME??,        <Channel name: lacy>,       2024-11-07 12:21:55.665942 
+
+ dondeestanate,     TWIN,        <Channel name: lacy>,       2024-11-07 12:22:25.781039 
+
+ dondeestanate,     bye,        <Channel name: lacy>,       2024-11-07 12:49:26.071297 
+
+ dondeestanate,     jorkin,        <Channel name: lacy>,       2024-11-07 13:01:04.742110 
+
+ dondeestanate,     jorkin rnut,        <Channel name: lacy>,       2024-11-07 13:01:28.777086 

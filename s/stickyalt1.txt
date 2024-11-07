@@ -1,0 +1,2 @@
+
+ stickyalt1,     !sens,        <Channel name: clix>,       2024-11-07 09:58:57.892904 

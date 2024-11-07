@@ -1,0 +1,36 @@
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:38:23.722774 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.051445 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:40:02.425881 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.743506 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:46.419172 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:43:52.880006 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.778960 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:45:27.961470 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:46:43.175102 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:04.372218 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:48:39.211721 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.864105 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:51:08.544452 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.325720 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:54:01.958373 
+
+ ded_insaid_20222,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:55:40.764760 
+
+ ded_insaid_20222,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:58:23.797696 
+
+ ded_insaid_20222,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:01:42.399084 

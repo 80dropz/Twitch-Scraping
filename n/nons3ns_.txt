@@ -1,0 +1,588 @@
+
+ nons3ns_,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.933283 
+
+ nons3ns_,     ura,        <Channel name: shadowkekw>,       2024-11-07 10:15:20.963658 
+
+ nons3ns_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.405518 
+
+ nons3ns_,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:16:15.570307 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:39.556420 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:19:28.386553 
+
+ nons3ns_,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:19:49.328619 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.152338 
+
+ nons3ns_,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:20:45.923632 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:22:02.632242 
+
+ nons3ns_,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.727035 
+
+ nons3ns_,     Serbia,        <Channel name: shadowkekw>,       2024-11-07 10:22:37.899579 
+
+ nons3ns_,     France,        <Channel name: shadowkekw>,       2024-11-07 10:22:48.633979 
+
+ nons3ns_,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.438375 
+
+ nons3ns_,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.428615 
+
+ nons3ns_,     bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:23:20.393892 
+
+ nons3ns_,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.767621 
+
+ nons3ns_,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:24:17.252821 
+
+ nons3ns_,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.766199 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:25:30.942185 
+
+ nons3ns_,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.591642 
+
+ nons3ns_,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.617303 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.193692 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:36.803528 
+
+ nons3ns_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:26:39.056967 
+
+ nons3ns_,     south korea,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.412656 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:30.900755 
+
+ nons3ns_,     guatemala,        <Channel name: shadowkekw>,       2024-11-07 10:27:58.784791 
+
+ nons3ns_,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:28:04.505709 
+
+ nons3ns_,     montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:28:11.046545 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.981857 
+
+ nons3ns_,     bulgary,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.126787 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.621714 
+
+ nons3ns_,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:29:51.867429 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:06.074681 
+
+ nons3ns_,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:30:21.248485 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.335957 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.958162 
+
+ nons3ns_,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.751438 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.670219 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.980249 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.181199 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.119532 
+
+ nons3ns_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:34:13.148446 
+
+ nons3ns_,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:17.200660 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:38.048960 
+
+ nons3ns_,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:34:40.602505 
+
+ nons3ns_,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.656125 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.076360 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.071052 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:35:04.319848 
+
+ nons3ns_,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:35:07.346351 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:35:30.904234 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:36:08.184518 
+
+ nons3ns_,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.757276 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:36:17.166014 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:36:23.117422 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:36:52.218522 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:53.389400 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:37:13.942206 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.337001 
+
+ nons3ns_,     eco,        <Channel name: shadowkekw>,       2024-11-07 10:37:16.004870 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:37:17.327580 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.903331 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:37:50.552234 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:37:53.008487 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.136314 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.601798 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.024079 
+
+ nons3ns_,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:39:40.705313 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:55.848376 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:36.697643 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:40:39.199799 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:54.996658 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.126237 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:41:19.535270 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.319348 
+
+ nons3ns_,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.846956 
+
+ nons3ns_,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:41:29.273938 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.089787 
+
+ nons3ns_,     se,        <Channel name: shadowkekw>,       2024-11-07 10:42:07.017120 
+
+ nons3ns_,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.814913 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:42:17.385462 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.805631 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:42:23.122842 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:42:42.367527 
+
+ nons3ns_,     so,        <Channel name: shadowkekw>,       2024-11-07 10:42:44.760047 
+
+ nons3ns_,     netherland,        <Channel name: shadowkekw>,       2024-11-07 10:43:24.479403 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:43:37.187382 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:43:49.223340 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.338066 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:39.387993 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.831000 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:45:05.010717 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:45:14.940296 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:45:23.066896 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:45:57.765706 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:45:59.866275 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:46:25.075877 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:46:40.515743 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:46:42.273640 
+
+ nons3ns_,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.191794 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:46:59.437135 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:47:01.976953 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:47:05.548265 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:47:19.118609 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:47:20.675088 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:47:24.068432 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:47:25.226954 
+
+ nons3ns_,     in,        <Channel name: shadowkekw>,       2024-11-07 10:47:49.814473 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:48:06.118965 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.207110 
+
+ nons3ns_,     it,        <Channel name: shadowkekw>,       2024-11-07 10:48:12.958574 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.276998 
+
+ nons3ns_,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:48:35.626219 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:48:37.410753 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:40.370306 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:49:07.652629 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:49:10.806846 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:49:14.350936 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:49:46.037211 
+
+ nons3ns_,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:49:57.616966 
+
+ nons3ns_,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:50:09.127858 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:24.190446 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:50:25.442250 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.396454 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:43.283464 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:50:44.859565 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:50:47.796524 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.243555 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:51:24.161991 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:32.655890 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:51:34.984850 
+
+ nons3ns_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.623984 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:51:48.065653 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:51:58.882124 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:52:00.295335 
+
+ nons3ns_,     india,        <Channel name: shadowkekw>,       2024-11-07 10:52:11.246450 
+
+ nons3ns_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.159322 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:52:32.481379 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:52:33.728284 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:35.011823 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.727898 
+
+ nons3ns_,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:44.638380 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:52:57.535076 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:59.535844 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:53:02.071499 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:53:19.927425 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:53:22.135883 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:53:23.958967 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:53:35.977292 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:53:37.310162 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:39.686615 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:54:03.776953 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:54:06.343905 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:54:11.984031 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 10:54:16.265535 
+
+ nons3ns_,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.189622 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 10:54:27.225303 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:54:47.503826 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:54:50.111990 
+
+ nons3ns_,     buthan,        <Channel name: shadowkekw>,       2024-11-07 10:54:56.173030 
+
+ nons3ns_,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:55:04.757207 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:16.508482 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.311739 
+
+ nons3ns_,     sh,        <Channel name: shadowkekw>,       2024-11-07 10:55:31.957054 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:40.405751 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:51.263261 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:52.733627 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:55:54.619675 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:55:56.790001 
+
+ nons3ns_,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:56:03.905065 
+
+ nons3ns_,     gu,        <Channel name: shadowkekw>,       2024-11-07 10:56:08.478565 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:56:19.238713 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:56:21.729459 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.800043 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.153028 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.877294 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:56:49.459801 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 10:56:54.548678 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:57:05.289964 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:57:07.548155 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:58:49.789122 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:58:51.040736 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:58:54.875830 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.245577 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:59:21.097019 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.741613 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:04.571318 
+
+ nons3ns_,     kr,        <Channel name: shadowkekw>,       2024-11-07 11:00:12.315143 
+
+ nons3ns_,     in,        <Channel name: shadowkekw>,       2024-11-07 11:00:14.651500 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:00:22.866334 
+
+ nons3ns_,     sweden,        <Channel name: shadowkekw>,       2024-11-07 11:00:25.046111 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:00:27.886841 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.657438 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:00:47.665358 
+
+ nons3ns_,     in,        <Channel name: shadowkekw>,       2024-11-07 11:00:49.743903 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:00:57.738059 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:01:09.713611 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:01:11.724067 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:01:13.533325 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:01:38.882496 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:01:39.625880 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.284099 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 11:01:45.365392 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:02:00.253572 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:02:01.299073 
+
+ nons3ns_,     india,        <Channel name: shadowkekw>,       2024-11-07 11:02:02.837295 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:02:04.661692 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.288694 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:02:09.723896 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:02:22.091693 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:02:22.915158 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:02:25.280643 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:02:27.445172 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:02:32.440025 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:03:04.383491 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:03:06.448924 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:03:08.582987 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:03:32.412252 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:03:33.288782 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.847277 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:03:43.937203 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:03:44.754528 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:03:46.530304 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:03:48.156473 
+
+ nons3ns_,     india,        <Channel name: shadowkekw>,       2024-11-07 11:03:52.268291 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:04:01.677880 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:04:02.569731 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:04:05.001968 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:04:08.127885 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:04:15.624387 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:04:17.228174 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:04:19.790842 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:04:22.844331 
+
+ nons3ns_,     india,        <Channel name: shadowkekw>,       2024-11-07 11:04:26.940451 
+
+ nons3ns_,     cr,        <Channel name: shadowkekw>,       2024-11-07 11:04:29.900773 
+
+ nons3ns_,     bosnia and herzegovina,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.973412 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:04:55.500509 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:05:21.731632 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:05:24.650204 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:05:43.770813 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:05:46.090856 
+
+ nons3ns_,     nepal,        <Channel name: shadowkekw>,       2024-11-07 11:06:03.509960 
+
+ nons3ns_,     pakistan,        <Channel name: shadowkekw>,       2024-11-07 11:06:07.404894 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:06:22.116347 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:06:24.084034 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.389430 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:06:48.953300 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:06:54.769214 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:06:59.989605 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:07:25.421251 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:07:30.333927 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:07:36.131637 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:08:10.730797 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.294202 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:08:48.571287 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:09:00.241110 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:10:02.023049 
+
+ nons3ns_,     th,        <Channel name: shadowkekw>,       2024-11-07 11:10:06.318396 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:10:12.622715 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.997773 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:10:48.623802 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.948470 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 11:11:03.716688 
+
+ nons3ns_,     panama,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.673098 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:12:07.643516 
+
+ nons3ns_,     co,        <Channel name: shadowkekw>,       2024-11-07 11:12:09.219227 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:12:14.334585 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:13:12.681249 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:13:15.549841 
+
+ nons3ns_,     bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.878296 
+
+ nons3ns_,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:14:36.034925 
+
+ nons3ns_,     kh,        <Channel name: shadowkekw>,       2024-11-07 11:14:42.476074 
+
+ nons3ns_,     malta,        <Channel name: shadowkekw>,       2024-11-07 11:14:48.821968 
+
+ nons3ns_,     surinam,        <Channel name: shadowkekw>,       2024-11-07 11:14:51.730623 
+
+ nons3ns_,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:14:58.736488 
+
+ nons3ns_,     do,        <Channel name: shadowkekw>,       2024-11-07 11:15:01.195102 
+
+ nons3ns_,     kypr,        <Channel name: shadowkekw>,       2024-11-07 11:15:21.432535 
+
+ nons3ns_,     cypr,        <Channel name: shadowkekw>,       2024-11-07 11:15:22.824966 
+
+ nons3ns_,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:22:35.011803 
+
+ nons3ns_,     ((,        <Channel name: shadowkekw>,       2024-11-07 11:39:53.549811 
+
+ nons3ns_,     )),        <Channel name: shadowkekw>,       2024-11-07 11:40:17.313753 
+
+ nons3ns_,     chmo,        <Channel name: shadowkekw>,       2024-11-07 11:41:08.179172 
+
+ nons3ns_,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:26.720367 
+
+ nons3ns_,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:34.382276 
+
+ nons3ns_,     AND,        <Channel name: shadowkekw>,       2024-11-07 11:50:00.039232 
+
+ nons3ns_,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:30.691112 
+
+ nons3ns_,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:29.371381 
+
+ nons3ns_,     )),        <Channel name: shadowkekw>,       2024-11-07 11:59:31.076802 
+
+ nons3ns_,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:40.023440 
+
+ nons3ns_,     )),        <Channel name: shadowkekw>,       2024-11-07 12:05:16.566137 
+
+ nons3ns_,     )),        <Channel name: shadowkekw>,       2024-11-07 12:08:36.871098 
+
+ nons3ns_,     Loodomanych,        <Channel name: shadowkekw>,       2024-11-07 12:09:37.078258 

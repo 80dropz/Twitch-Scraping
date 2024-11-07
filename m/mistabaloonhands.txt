@@ -2,3 +2,55 @@
  mistabaloonhands,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 09:42:36.294691 
 
  mistabaloonhands,     WW MILES WW MILES WW MILES WW MILES WW MILES WW MILES WW MILES WW MILES WW MILES,        <Channel name: kaicenat>,       2024-11-07 09:42:51.167826 
+
+ mistabaloonhands,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:18.017642 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:32.651554 
+
+ mistabaloonhands,     !slots  1000,        <Channel name: kaicenat>,       2024-11-07 09:52:35.827816 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:36.498407 
+
+ mistabaloonhands,     !slots  1000,        <Channel name: kaicenat>,       2024-11-07 09:52:41.011050 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:42.865219 
+
+ mistabaloonhands,     !slots  1000,        <Channel name: kaicenat>,       2024-11-07 09:52:51.271877 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:54.354070 
+
+ mistabaloonhands,     !slots  1000,        <Channel name: kaicenat>,       2024-11-07 09:52:55.978384 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:57.529126 
+
+ mistabaloonhands,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:53:21.827304 
+
+ mistabaloonhands,     !slots 1000,        <Channel name: kaicenat>,       2024-11-07 09:53:31.789718 
+
+ mistabaloonhands,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:53:39.733466 
+
+ mistabaloonhands,     !roulette  100,        <Channel name: kaicenat>,       2024-11-07 09:53:43.521966 
+
+ mistabaloonhands,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:53:49.148330 
+
+ mistabaloonhands,     !slots 10000,        <Channel name: kaicenat>,       2024-11-07 09:53:56.296171 
+
+ mistabaloonhands,     !slots  10000,        <Channel name: kaicenat>,       2024-11-07 09:54:10.138579 
+
+ mistabaloonhands,     !slots 10000,        <Channel name: kaicenat>,       2024-11-07 09:54:20.083444 
+
+ mistabaloonhands,     !slots  10000,        <Channel name: kaicenat>,       2024-11-07 09:54:23.283174 
+
+ mistabaloonhands,     !slots 10000,        <Channel name: kaicenat>,       2024-11-07 09:54:24.637245 
+
+ mistabaloonhands,     !p,        <Channel name: kaicenat>,       2024-11-07 09:54:29.146429 
+
+ mistabaloonhands,     !slots all,        <Channel name: kaicenat>,       2024-11-07 09:54:37.175766 
+
+ mistabaloonhands,     LMAO,        <Channel name: kaicenat>,       2024-11-07 11:07:25.482717 
+
+ mistabaloonhands,     LMAO,        <Channel name: kaicenat>,       2024-11-07 11:07:33.468177 
+
+ mistabaloonhands,     LMAO,        <Channel name: kaicenat>,       2024-11-07 11:08:01.672018 
+
+ mistabaloonhands,     LMAO,        <Channel name: kaicenat>,       2024-11-07 12:01:38.610380 

@@ -1,0 +1,84 @@
+
+ dxgu_,     WW,        <Channel name: lacy>,       2024-11-07 12:20:46.292490 
+
+ dxgu_,     LMFAO,        <Channel name: lacy>,       2024-11-07 12:21:06.153881 
+
+ dxgu_,     yes,        <Channel name: lacy>,       2024-11-07 12:21:25.668480 
+
+ dxgu_,     LMFAO,        <Channel name: lacy>,       2024-11-07 12:22:54.320790 
+
+ dxgu_,     KEKW,        <Channel name: lacy>,       2024-11-07 12:23:17.654722 
+
+ dxgu_,     lacyThugs,        <Channel name: lacy>,       2024-11-07 12:25:50.285900 
+
+ dxgu_,     WW,        <Channel name: lacy>,       2024-11-07 12:26:07.830408 
+
+ dxgu_,     classic,        <Channel name: lacy>,       2024-11-07 12:26:20.183919 
+
+ dxgu_,     mhm,        <Channel name: lacy>,       2024-11-07 12:26:58.063931 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:27:25.177538 
+
+ dxgu_,     eeeh,        <Channel name: lacy>,       2024-11-07 12:27:58.225876 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:29:48.923586 
+
+ dxgu_,     KEKW,        <Channel name: lacy>,       2024-11-07 12:29:57.299725 
+
+ dxgu_,     LMFAO,        <Channel name: lacy>,       2024-11-07 12:30:44.376264 
+
+ dxgu_,     TAWAY,        <Channel name: lacy>,       2024-11-07 12:31:33.016126 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:31:42.926459 
+
+ dxgu_,     taw,        <Channel name: lacy>,       2024-11-07 12:32:51.775169 
+
+ dxgu_,     hi lacy :D,        <Channel name: lacy>,       2024-11-07 12:34:21.436281 
+
+ dxgu_,     KEKW,        <Channel name: lacy>,       2024-11-07 12:35:48.771548 
+
+ dxgu_,     mhm,        <Channel name: lacy>,       2024-11-07 12:36:18.846689 
+
+ dxgu_,     sus,        <Channel name: lacy>,       2024-11-07 12:36:52.406270 
+
+ dxgu_,     CAUGHT,        <Channel name: lacy>,       2024-11-07 12:37:08.136351 
+
+ dxgu_,     TAWAY,        <Channel name: lacy>,       2024-11-07 12:38:14.505619 
+
+ dxgu_,     yes,        <Channel name: lacy>,       2024-11-07 12:38:49.531334 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:39:06.565856 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:41:11.708093 
+
+ dxgu_,     classic,        <Channel name: lacy>,       2024-11-07 12:41:32.951532 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:42:35.360898 
+
+ dxgu_,     Pffttt,        <Channel name: lacy>,       2024-11-07 12:44:08.161590 
+
+ dxgu_,     taw,        <Channel name: lacy>,       2024-11-07 12:44:44.975572 
+
+ dxgu_,     OOOO,        <Channel name: lacy>,       2024-11-07 12:46:10.592197 
+
+ dxgu_,     ome44,        <Channel name: lacy>,       2024-11-07 12:46:35.795747 
+
+ dxgu_,     good :D,        <Channel name: lacy>,       2024-11-07 12:47:34.828396 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:48:44.946657 
+
+ dxgu_,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:50:57.739265 
+
+ dxgu_,     Noted,        <Channel name: lacy>,       2024-11-07 12:53:53.130465 
+
+ dxgu_,     classic,        <Channel name: lacy>,       2024-11-07 12:54:28.031811 
+
+ dxgu_,     Noted,        <Channel name: lacy>,       2024-11-07 12:54:50.131614 
+
+ dxgu_,     uuh,        <Channel name: lacy>,       2024-11-07 12:57:07.851849 
+
+ dxgu_,     classic,        <Channel name: lacy>,       2024-11-07 12:59:03.275428 
+
+ dxgu_,     HereWeGoAgain,        <Channel name: lacy>,       2024-11-07 12:59:17.145320 
+
+ dxgu_,     ome44,        <Channel name: lacy>,       2024-11-07 13:02:19.222991 

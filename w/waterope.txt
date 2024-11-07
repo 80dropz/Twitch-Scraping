@@ -1,2 +1,12 @@
 
  waterope,     rcdNom,        <Channel name: robcdee>,       2024-11-07 02:38:04.475750 
+
+ waterope,     !gamble 3,        <Channel name: robcdee>,       2024-11-07 11:20:51.891624 
+
+ waterope,     !gamble 2,        <Channel name: robcdee>,       2024-11-07 12:37:50.675850 
+
+ waterope,     !gamble 4,        <Channel name: robcdee>,       2024-11-07 12:38:22.604349 
+
+ waterope,     !gamble 10,        <Channel name: robcdee>,       2024-11-07 12:38:49.670988 
+
+ waterope,     !gamble 20,        <Channel name: robcdee>,       2024-11-07 12:39:46.140073 

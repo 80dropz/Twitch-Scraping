@@ -1,0 +1,12 @@
+
+ clakka,     !points,        <Channel name: kaicenat>,       2024-11-07 10:37:46.633315 
+
+ clakka,     !points,        <Channel name: kaicenat>,       2024-11-07 10:39:02.124654 
+
+ clakka,     !roulette 6,        <Channel name: kaicenat>,       2024-11-07 10:39:56.733806 
+
+ clakka,     !roulette 12,        <Channel name: kaicenat>,       2024-11-07 10:40:11.327897 
+
+ clakka,     !points,        <Channel name: kaicenat>,       2024-11-07 10:50:46.247383 
+
+ clakka,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:04:17.074562 

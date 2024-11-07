@@ -1,0 +1,70 @@
+
+ scrooge232,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.498409 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.577886 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:54:09.621891 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:54:52.172764 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:55:41.436300 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:55:57.751413 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:56:22.126643 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:46.435624 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:57:17.929574 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.062504 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.134390 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:59:39.214224 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:00:25.268687 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:10.103232 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:01:43.029175 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:04:02.927447 
+
+ scrooge232,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:05:25.300552 
+
+ scrooge232,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.814859 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:06:25.109916 
+
+ scrooge232,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:07:28.610063 
+
+ scrooge232,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:07:57.199569 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.336975 
+
+ scrooge232,     russiacanada,        <Channel name: shadowkekw>,       2024-11-07 11:08:55.009706 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:11:45.843478 
+
+ scrooge232,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:11:48.572782 
+
+ scrooge232,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:11:55.480080 
+
+ scrooge232,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:12:09.661410 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:12:11.626626 
+
+ scrooge232,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.056457 
+
+ scrooge232,     dr,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.953651 
+
+ scrooge232,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:13:13.328782 
+
+ scrooge232,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.536051 
+
+ scrooge232,     korea,        <Channel name: shadowkekw>,       2024-11-07 11:13:50.172448 
+
+ scrooge232,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:53.271510 
+
+ scrooge232,     russia,        <Channel name: shadowkekw>,       2024-11-07 11:14:12.744976 

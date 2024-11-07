@@ -6,3 +6,13 @@
  skibidi980,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:05:56.546954 
 
  skibidi980,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:06:07.618276 
+
+ skibidi980,     Move the whiteboard,        <Channel name: kaicenat>,       2024-11-07 09:59:41.957964 
+
+ skibidi980,     Move the board,        <Channel name: kaicenat>,       2024-11-07 09:59:48.523959 
+
+ skibidi980,     Better,        <Channel name: kaicenat>,       2024-11-07 10:00:54.950006 
+
+ skibidi980,     Back to white,        <Channel name: kaicenat>,       2024-11-07 10:01:33.318041 
+
+ skibidi980,     Noice,        <Channel name: kaicenat>,       2024-11-07 10:01:53.859766 

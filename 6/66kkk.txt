@@ -1,0 +1,56 @@
+
+ 66kkk,     meka,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.770055 
+
+ 66kkk,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.389335 
+
+ 66kkk,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.916290 
+
+ 66kkk,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:47:31.232493 
+
+ 66kkk,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:47:54.836496 
+
+ 66kkk,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.616371 
+
+ 66kkk,     slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.626063 
+
+ 66kkk,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:50:18.672261 
+
+ 66kkk,     danmark,        <Channel name: shadowkekw>,       2024-11-07 10:51:53.808115 
+
+ 66kkk,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:52:28.692985 
+
+ 66kkk,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.903889 
+
+ 66kkk,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.769268 
+
+ 66kkk,     cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:56:32.310653 
+
+ 66kkk,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:57:27.363920 
+
+ 66kkk,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.229623 
+
+ 66kkk,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:59:53.663223 
+
+ 66kkk,     chad,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.433538 
+
+ 66kkk,     chad,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.266688 
+
+ 66kkk,     new zealand,        <Channel name: shadowkekw>,       2024-11-07 11:05:07.914513 
+
+ 66kkk,     belgium,        <Channel name: shadowkekw>,       2024-11-07 11:05:53.097989 
+
+ 66kkk,     chad,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.240430 
+
+ 66kkk,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.073756 
+
+ 66kkk,     norway,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.988563 
+
+ 66kkk,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:09:00.070773 
+
+ 66kkk,     car,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.184711 
+
+ 66kkk,     lessoto,        <Channel name: shadowkekw>,       2024-11-07 11:09:46.278466 
+
+ 66kkk,     israel,        <Channel name: shadowkekw>,       2024-11-07 11:10:14.687539 
+
+ 66kkk,     al,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.637617 

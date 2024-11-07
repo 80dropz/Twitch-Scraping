@@ -136,3 +136,243 @@
  hayyxo,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:44.855669 
 
  hayyxo,     WW,        <Channel name: kaicenat>,       2024-11-07 02:08:51.123680 
+
+ hayyxo,     WW EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:51:47.738158 
+
+ hayyxo,     ome5,        <Channel name: kaicenat>,       2024-11-07 12:51:58.820366 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:18.920909 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:25.785964 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:27.925147 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:38.432976 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:43.042252 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:52:48.710005 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:53:25.593912 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:53:27.717128 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:53:43.679014 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:53:59.543886 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:55:07.933274 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 12:55:10.115720 
+
+ hayyxo,     @FeelsSunnyMan ur rich cartiHuh,        <Channel name: kaicenat>,       2024-11-07 12:57:17.255833 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:24.525898 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:26.006261 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:26.680829 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:27.243563 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:29.656324 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:31.137435 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:33.796117 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:37.738914 
+
+ hayyxo,     CHAT TELL @FeelsSunnyMan TO GIFT 100 WW,        <Channel name: kaicenat>,       2024-11-07 12:58:42.275930 
+
+ hayyxo,     WW SAUCE,        <Channel name: kaicenat>,       2024-11-07 13:00:12.310189 
+
+ hayyxo,     WW SAUCE,        <Channel name: kaicenat>,       2024-11-07 13:00:14.855859 
+
+ hayyxo,     WW SAUCE,        <Channel name: kaicenat>,       2024-11-07 13:00:24.156076 
+
+ hayyxo,     OMFG,        <Channel name: kaicenat>,       2024-11-07 13:00:32.568174 
+
+ hayyxo,     OMFG,        <Channel name: kaicenat>,       2024-11-07 13:00:33.634909 
+
+ hayyxo,     OMFG,        <Channel name: kaicenat>,       2024-11-07 13:00:41.685675 
+
+ hayyxo,     OMFG,        <Channel name: kaicenat>,       2024-11-07 13:00:43.776358 
+
+ hayyxo,     LMAOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:01:42.141766 
+
+ hayyxo,     LMAOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:01:52.594516 
+
+ hayyxo,     LMAOOOOO,        <Channel name: kaicenat>,       2024-11-07 13:02:02.502548 
+
+ hayyxo,     WW,        <Channel name: kaicenat>,       2024-11-07 13:03:46.701091 
+
+ hayyxo,     HOW,        <Channel name: kaicenat>,       2024-11-07 13:06:59.832912 
+
+ hayyxo,     HOW,        <Channel name: kaicenat>,       2024-11-07 13:07:07.640520 
+
+ hayyxo,     HOW,        <Channel name: kaicenat>,       2024-11-07 13:07:17.976820 
+
+ hayyxo,     gg,        <Channel name: kaicenat>,       2024-11-07 13:15:37.129767 
+
+ hayyxo,     gg,        <Channel name: kaicenat>,       2024-11-07 13:15:44.412418 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:15:52.646799 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:15:52.719444 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:15:52.791186 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:15:59.357409 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:15:59.909836 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:00.378972 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:00.533390 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:00.808121 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:00.961894 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:01.033746 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:14.160559 
+
+ hayyxo,     get the mic,        <Channel name: kaicenat>,       2024-11-07 13:16:20.844286 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:31.384571 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:31.765757 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:31.923723 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:31.994232 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:32.064960 
+
+ hayyxo,     get the mic and phone,        <Channel name: kaicenat>,       2024-11-07 13:16:32.251299 
+
+ hayyxo,     move your bed so u can get on that side,        <Channel name: kaicenat>,       2024-11-07 13:17:59.928625 
+
+ hayyxo,     move your bed so u can get on that side,        <Channel name: kaicenat>,       2024-11-07 13:18:05.237392 
+
+ hayyxo,     move your bed so u can get on that side,        <Channel name: kaicenat>,       2024-11-07 13:18:05.390403 
+
+ hayyxo,     move your bed so u can get on that side,        <Channel name: kaicenat>,       2024-11-07 13:19:00.661873 
+
+ hayyxo,     no u have to get it,        <Channel name: kaicenat>,       2024-11-07 13:19:28.626163 
+
+ hayyxo,     no u have to get it,        <Channel name: kaicenat>,       2024-11-07 13:19:28.796332 
+
+ hayyxo,     u gotta take the mic or dont do it,        <Channel name: kaicenat>,       2024-11-07 13:21:11.256739 
+
+ hayyxo,     u gotta take the mic or dont do it,        <Channel name: kaicenat>,       2024-11-07 13:21:12.531462 
+
+ hayyxo,     u gotta take the mic or dont do it,        <Channel name: kaicenat>,       2024-11-07 13:21:13.229096 
+
+ hayyxo,     move the bed,        <Channel name: kaicenat>,       2024-11-07 13:23:06.882306 
+
+ hayyxo,     ome44,        <Channel name: kaicenat>,       2024-11-07 13:23:38.253179 
+
+ hayyxo,     ome44,        <Channel name: kaicenat>,       2024-11-07 13:23:47.179942 
+
+ hayyxo,     sold Pffttt2,        <Channel name: kaicenat>,       2024-11-07 13:24:43.265810 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:25:16.075383 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:25:53.945828 
+
+ hayyxo,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:40.362122 
+
+ hayyxo,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:50.753303 
+
+ hayyxo,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:59.997763 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:27:10.046630 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:27:17.086390 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:27:28.271761 
+
+ hayyxo,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 13:27:39.586236 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:28.869400 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:35.692337 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:42.344347 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:45.464206 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:52.679699 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:28:54.566194 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:01.743907 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:07.362314 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:09.064902 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:17.013062 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:22.217368 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:38.225434 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:43.436484 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:48.199016 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:59.847405 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:28.742174 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:30.082202 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:36.288130 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:48.106926 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:50.336327 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:57.042863 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:00.620963 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:06.979756 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:13.826752 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:21.645150 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:23.973807 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:30.987029 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:39.076561 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:47.425834 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:11.509772 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:23.136172 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:25.350463 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:42.787203 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:48.772065 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:57.292331 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:33:59.321607 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:34:04.666076 
+
+ hayyxo,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:34:08.856501 
+
+ hayyxo,     yes,        <Channel name: kaicenat>,       2024-11-07 13:35:47.415404 
+
+ hayyxo,     yes,        <Channel name: kaicenat>,       2024-11-07 13:35:49.969422 

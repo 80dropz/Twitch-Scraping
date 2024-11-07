@@ -2,3 +2,7 @@
  2nobleaura,     https://m.twitch.tv/clip/EvilPoisedAntKappaWealth-HVr_ZrnvtLI71SlG,        <Channel name: kaicenat>,       2024-11-07 09:26:21.652142 
 
  2nobleaura,     https://m.twitch.tv/clip/EvilPoisedAntKappaWealth-HVr_ZrnvtLI71SlG,        <Channel name: shadowkekw>,       2024-11-07 09:27:03.708482 
+
+ 2nobleaura,     ***,        <Channel name: swagg>,       2024-11-07 10:06:03.328735 
+
+ 2nobleaura,     https://m.twitch.tv/clip/EvilPoisedAntKappaWealth-HVr_ZrnvtLI71SlG,        <Channel name: nadeshot>,       2024-11-07 10:09:09.543226 

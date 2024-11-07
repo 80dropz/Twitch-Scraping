@@ -1,0 +1,2 @@
+
+ wave_ex0tic3x,     5h 30m,        <Channel name: mongraal>,       2024-11-07 11:09:48.143340 

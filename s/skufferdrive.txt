@@ -1,0 +1,382 @@
+
+ skufferdrive,     Eswatini,        <Channel name: shadowkekw>,       2024-11-07 10:06:37.031037 
+
+ skufferdrive,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:06:40.238040 
+
+ skufferdrive,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:06:43.747172 
+
+ skufferdrive,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:06:47.565163 
+
+ skufferdrive,     China,        <Channel name: shadowkekw>,       2024-11-07 10:07:01.838804 
+
+ skufferdrive,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:07:04.088478 
+
+ skufferdrive,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:07:22.428353 
+
+ skufferdrive,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:07:26.092904 
+
+ skufferdrive,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:07:36.335403 
+
+ skufferdrive,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:07:42.852626 
+
+ skufferdrive,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:08:04.199678 
+
+ skufferdrive,     wow,        <Channel name: shadowkekw>,       2024-11-07 10:08:24.846523 
+
+ skufferdrive,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:08:37.733097 
+
+ skufferdrive,     RUssia,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.150349 
+
+ skufferdrive,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:09:11.682531 
+
+ skufferdrive,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:09:14.732543 
+
+ skufferdrive,     Canda,        <Channel name: shadowkekw>,       2024-11-07 10:09:55.681736 
+
+ skufferdrive,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:20.655507 
+
+ skufferdrive,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:24.150822 
+
+ skufferdrive,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:25.668812 
+
+ skufferdrive,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:10:45.176605 
+
+ skufferdrive,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 10:10:48.624229 
+
+ skufferdrive,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:11:06.224600 
+
+ skufferdrive,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:22.218351 
+
+ skufferdrive,     France,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.810833 
+
+ skufferdrive,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.980952 
+
+ skufferdrive,     USa,        <Channel name: shadowkekw>,       2024-11-07 10:12:48.010477 
+
+ skufferdrive,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:13:12.597017 
+
+ skufferdrive,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:13:14.270949 
+
+ skufferdrive,     France,        <Channel name: shadowkekw>,       2024-11-07 10:13:26.239125 
+
+ skufferdrive,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:13:54.446078 
+
+ skufferdrive,     France,        <Channel name: shadowkekw>,       2024-11-07 10:14:05.539322 
+
+ skufferdrive,     FranceUsa,        <Channel name: shadowkekw>,       2024-11-07 10:14:09.097779 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:14:22.254557 
+
+ skufferdrive,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:11.546775 
+
+ skufferdrive,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:15:29.551029 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.979020 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:15:43.860653 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:15:47.920518 
+
+ skufferdrive,     au,        <Channel name: shadowkekw>,       2024-11-07 10:15:50.010530 
+
+ skufferdrive,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.430867 
+
+ skufferdrive,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:16:12.719000 
+
+ skufferdrive,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.970342 
+
+ skufferdrive,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:16:48.458108 
+
+ skufferdrive,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:17:22.449609 
+
+ skufferdrive,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.574787 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:18:23.910066 
+
+ skufferdrive,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.259129 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.411110 
+
+ skufferdrive,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:19:01.597419 
+
+ skufferdrive,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:12.942857 
+
+ skufferdrive,     za,        <Channel name: shadowkekw>,       2024-11-07 10:19:22.569165 
+
+ skufferdrive,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.163126 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:20:19.790042 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:20:31.431316 
+
+ skufferdrive,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:22:11.841469 
+
+ skufferdrive,     rw,        <Channel name: shadowkekw>,       2024-11-07 10:22:12.994971 
+
+ skufferdrive,     moldavia,        <Channel name: shadowkekw>,       2024-11-07 10:22:36.300968 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:22:56.021171 
+
+ skufferdrive,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:22:59.101928 
+
+ skufferdrive,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:23:02.813380 
+
+ skufferdrive,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:23:45.021687 
+
+ skufferdrive,     me,        <Channel name: shadowkekw>,       2024-11-07 10:23:46.972623 
+
+ skufferdrive,     be,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.092566 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.507107 
+
+ skufferdrive,     th,        <Channel name: shadowkekw>,       2024-11-07 10:24:18.920643 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:24:23.312022 
+
+ skufferdrive,     in,        <Channel name: shadowkekw>,       2024-11-07 10:24:25.554577 
+
+ skufferdrive,     do,        <Channel name: shadowkekw>,       2024-11-07 10:24:27.149958 
+
+ skufferdrive,     E2 o,        <Channel name: shadowkekw>,       2024-11-07 10:24:32.449308 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:25:39.291823 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:25:41.555960 
+
+ skufferdrive,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:25:44.160734 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:25:57.992476 
+
+ skufferdrive,     au,        <Channel name: shadowkekw>,       2024-11-07 10:26:15.801400 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:26:22.936084 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:26:24.922458 
+
+ skufferdrive,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:26:27.701744 
+
+ skufferdrive,     wo,        <Channel name: shadowkekw>,       2024-11-07 10:26:33.621564 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:26:40.814469 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.196392 
+
+ skufferdrive,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.293659 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:27:03.391025 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.125110 
+
+ skufferdrive,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:27:08.561735 
+
+ skufferdrive,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:27:24.644546 
+
+ skufferdrive,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:27:34.240558 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.763788 
+
+ skufferdrive,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.785570 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:27:47.790310 
+
+ skufferdrive,     xr,        <Channel name: shadowkekw>,       2024-11-07 10:27:54.640066 
+
+ skufferdrive,     co,        <Channel name: shadowkekw>,       2024-11-07 10:27:58.410659 
+
+ skufferdrive,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:28:01.715602 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.983447 
+
+ skufferdrive,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:28:32.611715 
+
+ skufferdrive,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.951959 
+
+ skufferdrive,     nd,        <Channel name: shadowkekw>,       2024-11-07 10:28:44.368615 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.303062 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.394185 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.436604 
+
+ skufferdrive,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:29:33.103363 
+
+ skufferdrive,     in,        <Channel name: shadowkekw>,       2024-11-07 10:29:55.183620 
+
+ skufferdrive,     le,        <Channel name: shadowkekw>,       2024-11-07 10:29:59.597892 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:30:24.589683 
+
+ skufferdrive,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:30:36.057713 
+
+ skufferdrive,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:30:38.223344 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:30:51.191221 
+
+ skufferdrive,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:30:56.184570 
+
+ skufferdrive,     de,        <Channel name: shadowkekw>,       2024-11-07 10:31:12.187184 
+
+ skufferdrive,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.503256 
+
+ skufferdrive,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:31:33.588541 
+
+ skufferdrive,     rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:31:37.818892 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.205871 
+
+ skufferdrive,     au,        <Channel name: shadowkekw>,       2024-11-07 10:31:53.756874 
+
+ skufferdrive,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:31:57.486365 
+
+ skufferdrive,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.277165 
+
+ skufferdrive,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.637007 
+
+ skufferdrive,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.410073 
+
+ skufferdrive,     singapore,        <Channel name: shadowkekw>,       2024-11-07 10:32:36.450371 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.955496 
+
+ skufferdrive,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.444858 
+
+ skufferdrive,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.784710 
+
+ skufferdrive,     uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.779541 
+
+ skufferdrive,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:33:52.478104 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:34:07.573730 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.045888 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:34:57.069264 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:34:59.598822 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:35:46.954244 
+
+ skufferdrive,     de,        <Channel name: shadowkekw>,       2024-11-07 10:36:41.263385 
+
+ skufferdrive,     au,        <Channel name: shadowkekw>,       2024-11-07 10:36:45.985854 
+
+ skufferdrive,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:36:49.378114 
+
+ skufferdrive,     de,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.356004 
+
+ skufferdrive,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:37:09.282003 
+
+ skufferdrive,     rd,        <Channel name: shadowkekw>,       2024-11-07 10:37:10.892187 
+
+ skufferdrive,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:37:43.691613 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:38:07.744804 
+
+ skufferdrive,     pg,        <Channel name: shadowkekw>,       2024-11-07 10:38:13.011465 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.422084 
+
+ skufferdrive,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:38:36.738015 
+
+ skufferdrive,     za,        <Channel name: shadowkekw>,       2024-11-07 10:38:57.325921 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.906295 
+
+ skufferdrive,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:39:33.518073 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.859854 
+
+ skufferdrive,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:40:02.278693 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.312802 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.335093 
+
+ skufferdrive,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:40:32.741210 
+
+ skufferdrive,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:40:49.885383 
+
+ skufferdrive,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:40:51.901113 
+
+ skufferdrive,     china,        <Channel name: shadowkekw>,       2024-11-07 10:41:07.717308 
+
+ skufferdrive,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.197469 
+
+ skufferdrive,     vt,        <Channel name: shadowkekw>,       2024-11-07 10:41:15.191403 
+
+ skufferdrive,     tr,        <Channel name: shadowkekw>,       2024-11-07 10:41:33.131899 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.417640 
+
+ skufferdrive,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:41:58.810515 
+
+ skufferdrive,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:42:00.414877 
+
+ skufferdrive,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:42:01.957403 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:42:35.867945 
+
+ skufferdrive,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:42:40.597506 
+
+ skufferdrive,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:43:01.860829 
+
+ skufferdrive,     ls,        <Channel name: shadowkekw>,       2024-11-07 10:43:04.690173 
+
+ skufferdrive,     md,        <Channel name: shadowkekw>,       2024-11-07 10:43:22.735086 
+
+ skufferdrive,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:43:27.760887 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:43:35.192384 
+
+ skufferdrive,     rw,        <Channel name: shadowkekw>,       2024-11-07 10:43:43.148650 
+
+ skufferdrive,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:44:02.580319 
+
+ skufferdrive,     vt,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.585935 
+
+ skufferdrive,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.397328 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.386539 
+
+ skufferdrive,     au,        <Channel name: shadowkekw>,       2024-11-07 10:48:27.028336 
+
+ skufferdrive,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:48:44.858608 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.205588 
+
+ skufferdrive,     china,        <Channel name: shadowkekw>,       2024-11-07 10:49:50.155196 
+
+ skufferdrive,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:50:18.278073 
+
+ skufferdrive,     syria,        <Channel name: shadowkekw>,       2024-11-07 10:50:38.038426 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:51:01.181003 
+
+ skufferdrive,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.449805 
+
+ skufferdrive,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.193415 
+
+ skufferdrive,     vt,        <Channel name: shadowkekw>,       2024-11-07 10:52:29.257378 
+
+ skufferdrive,     br,        <Channel name: shadowkekw>,       2024-11-07 10:52:50.323181 
+
+ skufferdrive,     in,        <Channel name: shadowkekw>,       2024-11-07 10:53:11.740537 
+
+ skufferdrive,     id,        <Channel name: shadowkekw>,       2024-11-07 10:53:31.729779 
+
+ skufferdrive,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:54:21.255274 
+
+ skufferdrive,     us,        <Channel name: shadowkekw>,       2024-11-07 10:55:25.258857 
+
+ skufferdrive,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:55:46.222801 
+
+ skufferdrive,     sg,        <Channel name: shadowkekw>,       2024-11-07 10:56:03.743887 
+
+ skufferdrive,     es,        <Channel name: shadowkekw>,       2024-11-07 10:57:43.209657 
+
+ skufferdrive,     yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo yukinuWhooo,        <Channel name: shadowkekw>,       2024-11-07 12:12:20.435672 
+
+ skufferdrive,     mi band,        <Channel name: shadowkekw>,       2024-11-07 12:21:40.095719 
+
+ skufferdrive,     dans,        <Channel name: shadowkekw>,       2024-11-07 12:37:19.542846 

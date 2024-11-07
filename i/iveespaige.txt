@@ -1,0 +1,112 @@
+
+ iveespaige,     GivePLZ GivePLZ GivePLZ GivePLZ,        <Channel name: kaicenat>,       2024-11-07 11:05:10.906321 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:05:22.482897 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:05:36.727422 
+
+ iveespaige,     GivePLZ DinoDance PogChamp PogChamp,        <Channel name: kaicenat>,       2024-11-07 11:05:51.858100 
+
+ iveespaige,     DinoDance PogChamp DinoDance PogChamp DinoDance PogChamp,        <Channel name: kaicenat>,       2024-11-07 11:05:58.717784 
+
+ iveespaige,     DinoDance GivePLZ DinoDance GivePLZ DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:06:09.381590 
+
+ iveespaige,     TwitchConHYPE DinoDance TwitchConHYPE DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:06:19.412089 
+
+ iveespaige,     DinoDance TwitchConHYPE DinoDance TwitchConHYPE DinoDance TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 11:06:36.374672 
+
+ iveespaige,     DinoDance TwitchConHYPE DinoDance TwitchConHYPE DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:06:44.359571 
+
+ iveespaige,     PogChamp TwitchConHYPE PogChamp TwitchConHYPE PogChamp TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 11:06:51.710475 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:07:20.922085 
+
+ iveespaige,     PogChamp PogChamp PogChamp PogChamp,        <Channel name: kaicenat>,       2024-11-07 11:07:44.970341 
+
+ iveespaige,     Jebasted Jebasted Jebasted Jebasted,        <Channel name: kaicenat>,       2024-11-07 11:08:08.265905 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:08:34.622382 
+
+ iveespaige,     Kai in coma,        <Channel name: kaicenat>,       2024-11-07 11:08:59.889629 
+
+ iveespaige,     GoldPLZ GoldPLZ GoldPLZ,        <Channel name: kaicenat>,       2024-11-07 11:12:49.393279 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:13:14.896993 
+
+ iveespaige,     MercyWing1 PinkMercy MercyWing2,        <Channel name: kaicenat>,       2024-11-07 11:14:02.709360 
+
+ iveespaige,     PowerUpL EntropyWins PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:14:20.381007 
+
+ iveespaige,     FBRun FBBlock FBSpiral FBPass,        <Channel name: kaicenat>,       2024-11-07 11:14:49.229962 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:15:14.470814 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:15:43.005927 
+
+ iveespaige,     GoldPLZ FBSpiral,        <Channel name: kaicenat>,       2024-11-07 11:15:59.788059 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:16:07.239829 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:16:19.266198 
+
+ iveespaige,     PogChamp FBPass,        <Channel name: kaicenat>,       2024-11-07 11:16:27.290782 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:16:40.884401 
+
+ iveespaige,     PowerUpL Squid3 PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:16:49.146201 
+
+ iveespaige,     PowerUpL PogChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:16:59.542107 
+
+ iveespaige,     PowerUpL TwitchConHYPE PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:17:16.651553 
+
+ iveespaige,     PowerUpL ChewyYAY PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:17:32.160018 
+
+ iveespaige,     PowerUpL BigSad PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:17:42.909787 
+
+ iveespaige,     Squid1 Squid2 RyuChamp Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:18:02.477365 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:18:16.781923 
+
+ iveespaige,     Jebasted Jebasted Jebasted,        <Channel name: kaicenat>,       2024-11-07 11:20:08.862741 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:29:29.131059 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:29:54.112665 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:30:16.912793 
+
+ iveespaige,     GoldPLZ FBSpiral FBPass,        <Channel name: kaicenat>,       2024-11-07 11:30:29.638361 
+
+ iveespaige,     PogChamp PogChamp PogChamp PogChamp PogChamp PogChamp,        <Channel name: kaicenat>,       2024-11-07 11:30:43.105303 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:31:09.141450 
+
+ iveespaige,     PowerUpL PogChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:31:25.374531 
+
+ iveespaige,     GoldPLZ GoldPLZ GoldPLZ GoldPLZ GoldPLZ,        <Channel name: kaicenat>,       2024-11-07 11:31:45.478486 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:31:53.855985 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:32:02.998554 
+
+ iveespaige,     PowerUpL Squid3 PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:32:16.399502 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:32:36.345638 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:33:24.436858 
+
+ iveespaige,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 11:33:36.233994 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:34:01.135775 
+
+ iveespaige,     PowerUpL RyuChamp PowerUpR PowerUpL RyuChamp PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:34:17.169855 
+
+ iveespaige,     Squid1 Squid2 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:34:33.964384 
+
+ iveespaige,     Squid1 Squid2 RyuChamp Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 11:34:42.113195 
+
+ iveespaige,     Jebasted Jebasted Jebasted Jebasted,        <Channel name: kaicenat>,       2024-11-07 11:34:52.513400 
+
+ iveespaige,     GoldPLZ FBSpiral FBSpiral FBSpiral FBPass,        <Channel name: kaicenat>,       2024-11-07 11:35:02.001719 
+
+ iveespaige,     PowerUpL TwitchConHYPE PowerUpR,        <Channel name: kaicenat>,       2024-11-07 11:35:15.172711 

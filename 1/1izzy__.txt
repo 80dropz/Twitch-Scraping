@@ -1,0 +1,62 @@
+
+ 1izzy__,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.561775 
+
+ 1izzy__,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:22:33.376806 
+
+ 1izzy__,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.744750 
+
+ 1izzy__,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.899532 
+
+ 1izzy__,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.923241 
+
+ 1izzy__,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.520785 
+
+ 1izzy__,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:52.209471 
+
+ 1izzy__,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.225493 
+
+ 1izzy__,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:39.622108 
+
+ 1izzy__,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.469164 
+
+ 1izzy__,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:27:42.678907 
+
+ 1izzy__,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:36.430134 
+
+ 1izzy__,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:40.393933 
+
+ 1izzy__,     eqypt,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.841226 
+
+ 1izzy__,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:28:51.045032 
+
+ 1izzy__,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:28:55.220554 
+
+ 1izzy__,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.662713 
+
+ 1izzy__,     latvia\,        <Channel name: shadowkekw>,       2024-11-07 10:36:36.726561 
+
+ 1izzy__,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:46:13.323148 
+
+ 1izzy__,     nauru,        <Channel name: shadowkekw>,       2024-11-07 10:49:37.218917 
+
+ 1izzy__,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.532363 
+
+ 1izzy__,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:53:13.371060 
+
+ 1izzy__,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.495434 
+
+ 1izzy__,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:59:02.165357 
+
+ 1izzy__,     tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.837173 
+
+ 1izzy__,     lv,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.749407 
+
+ 1izzy__,     est,        <Channel name: shadowkekw>,       2024-11-07 11:10:29.666757 
+
+ 1izzy__,     lu,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.289381 
+
+ 1izzy__,     est,        <Channel name: shadowkekw>,       2024-11-07 11:12:00.765701 
+
+ 1izzy__,     lv,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.011661 
+
+ 1izzy__,     lt,        <Channel name: shadowkekw>,       2024-11-07 11:12:37.890648 

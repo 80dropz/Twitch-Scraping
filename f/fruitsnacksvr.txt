@@ -1,0 +1,42 @@
+
+ fruitsnacksvr,     door,        <Channel name: megalodonvt>,       2024-11-07 10:14:09.832839 
+
+ fruitsnacksvr,     whale,        <Channel name: megalodonvt>,       2024-11-07 10:14:31.255293 
+
+ fruitsnacksvr,     male,        <Channel name: megalodonvt>,       2024-11-07 10:14:35.499503 
+
+ fruitsnacksvr,     tail,        <Channel name: megalodonvt>,       2024-11-07 10:14:39.356317 
+
+ fruitsnacksvr,     fail,        <Channel name: megalodonvt>,       2024-11-07 10:14:43.446296 
+
+ fruitsnacksvr,     rail,        <Channel name: megalodonvt>,       2024-11-07 10:14:53.711345 
+
+ fruitsnacksvr,     bail,        <Channel name: megalodonvt>,       2024-11-07 10:14:57.110475 
+
+ fruitsnacksvr,     ca;;,        <Channel name: megalodonvt>,       2024-11-07 10:15:00.959475 
+
+ fruitsnacksvr,     call,        <Channel name: megalodonvt>,       2024-11-07 10:15:07.192597 
+
+ fruitsnacksvr,     mall,        <Channel name: megalodonvt>,       2024-11-07 10:15:10.024297 
+
+ fruitsnacksvr,     l0megaAscend,        <Channel name: megalodonvt>,       2024-11-07 11:23:07.332677 
+
+ fruitsnacksvr,     bald,        <Channel name: megalodonvt>,       2024-11-07 11:23:18.982875 
+
+ fruitsnacksvr,     bulge,        <Channel name: megalodonvt>,       2024-11-07 11:23:24.248317 
+
+ fruitsnacksvr,     band,        <Channel name: megalodonvt>,       2024-11-07 11:23:26.933088 
+
+ fruitsnacksvr,     mend,        <Channel name: megalodonvt>,       2024-11-07 11:23:34.254802 
+
+ fruitsnacksvr,     trend,        <Channel name: megalodonvt>,       2024-11-07 11:23:40.706322 
+
+ fruitsnacksvr,     lose,        <Channel name: megalodonvt>,       2024-11-07 11:23:52.245303 
+
+ fruitsnacksvr,     ally,        <Channel name: megalodonvt>,       2024-11-07 11:24:49.541059 
+
+ fruitsnacksvr,     bleed,        <Channel name: megalodonvt>,       2024-11-07 11:31:04.153685 
+
+ fruitsnacksvr,     cleaned,        <Channel name: megalodonvt>,       2024-11-07 11:31:32.355632 
+
+ fruitsnacksvr,     clean,        <Channel name: megalodonvt>,       2024-11-07 11:31:38.540761 

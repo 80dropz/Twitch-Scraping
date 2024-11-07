@@ -6,3 +6,131 @@
  buliler,     uuh,        <Channel name: kaicenat>,       2024-11-07 02:15:29.556498 
 
  buliler,     YEP,        <Channel name: clix>,       2024-11-07 02:17:06.458288 
+
+ buliler,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 10:49:25.795175 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 10:50:24.402757 
+
+ buliler,     W,        <Channel name: kaicenat>,       2024-11-07 10:50:25.894824 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 10:50:36.872065 
+
+ buliler,     omE,        <Channel name: kaicenat>,       2024-11-07 10:50:54.066521 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:51:18.622108 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 10:52:56.924653 
+
+ buliler,     WHAT,        <Channel name: kaicenat>,       2024-11-07 10:53:19.584059 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:54:28.397020 
+
+ buliler,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 10:54:48.437845 
+
+ buliler,     OOOO,        <Channel name: kaicenat>,       2024-11-07 10:55:26.804996 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 10:55:31.086821 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:57:51.259384 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 11:19:57.359998 
+
+ buliler,     AHAHHA,        <Channel name: kaicenat>,       2024-11-07 11:19:58.531110 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:20:00.267618 
+
+ buliler,     I WAS HERE,        <Channel name: kaicenat>,       2024-11-07 11:20:10.477027 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:25:02.326133 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:27:10.415649 
+
+ buliler,     HELLO,        <Channel name: kaicenat>,       2024-11-07 11:27:13.946584 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:28:11.153357 
+
+ buliler,     HELLO,        <Channel name: kaicenat>,       2024-11-07 11:28:14.242633 
+
+ buliler,     KAI,        <Channel name: kaicenat>,       2024-11-07 11:28:18.582962 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:28:22.875343 
+
+ buliler,     GOOD MORNING,        <Channel name: kaicenat>,       2024-11-07 11:28:27.483740 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:28:29.086770 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 11:29:06.431569 
+
+ buliler,     AHAHAH,        <Channel name: kaicenat>,       2024-11-07 11:29:08.243297 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:29:10.698980 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 11:30:23.540435 
+
+ buliler,     AINTNOWAY,        <Channel name: kaicenat>,       2024-11-07 11:30:36.133643 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:32:37.980775 
+
+ buliler,     WHAT,        <Channel name: kaicenat>,       2024-11-07 11:43:39.683691 
+
+ buliler,     HELLO KAI,        <Channel name: kaicenat>,       2024-11-07 11:50:33.984078 
+
+ buliler,     hello kai,        <Channel name: kaicenat>,       2024-11-07 11:50:50.943247 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 11:55:15.848598 
+
+ buliler,     WHAT,        <Channel name: kaicenat>,       2024-11-07 11:57:28.357822 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 11:58:29.671115 
+
+ buliler,     kaicCryy,        <Channel name: kaicenat>,       2024-11-07 11:59:55.506423 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 12:01:30.324420 
+
+ buliler,     Lost 20 subs ??,        <Channel name: kaicenat>,       2024-11-07 12:03:40.011616 
+
+ buliler,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 12:05:14.209599 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:43:38.677703 
+
+ buliler,     50,        <Channel name: kaicenat>,       2024-11-07 12:43:43.847733 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:43:53.571679 
+
+ buliler,     CMON,        <Channel name: kaicenat>,       2024-11-07 12:44:14.641644 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:45:03.729007 
+
+ buliler,     40,        <Channel name: kaicenat>,       2024-11-07 12:45:43.617584 
+
+ buliler,     CMON,        <Channel name: kaicenat>,       2024-11-07 12:47:13.781607 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 12:47:22.073003 
+
+ buliler,     I WAS HERE,        <Channel name: kaicenat>,       2024-11-07 12:48:06.317130 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:48:15.413191 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 12:49:04.443842 
+
+ buliler,     230 LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:49:36.340846 
+
+ buliler,     YESS,        <Channel name: kaicenat>,       2024-11-07 12:49:58.700975 
+
+ buliler,     LETSGO,        <Channel name: kaicenat>,       2024-11-07 12:50:34.684918 
+
+ buliler,     Please  100,        <Channel name: kaicenat>,       2024-11-07 12:51:44.371036 
+
+ buliler,     LOL,        <Channel name: kaicenat>,       2024-11-07 12:54:53.408278 
+
+ buliler,     GIFT 10,        <Channel name: kaicenat>,       2024-11-07 12:55:20.009299 
+
+ buliler,     CMON,        <Channel name: kaicenat>,       2024-11-07 12:55:32.343625 
+
+ buliler,     W,        <Channel name: kaicenat>,       2024-11-07 12:57:13.680842 
+
+ buliler,     GUYS 100 subs is so expensive,        <Channel name: kaicenat>,       2024-11-07 12:57:54.617723 
+
+ buliler,     WW,        <Channel name: kaicenat>,       2024-11-07 12:59:09.569325 
+
+ buliler,     I WAS HERE,        <Channel name: kaicenat>,       2024-11-07 12:59:56.853723 

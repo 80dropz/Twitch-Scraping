@@ -8,3 +8,9 @@
  despairkid,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:28:52.521632 
 
  despairkid,     o,        <Channel name: shadowkekw>,       2024-11-07 09:29:02.077931 
+
+ despairkid,     O,        <Channel name: shadowkekw>,       2024-11-07 09:55:20.016030 
+
+ despairkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.373570 
+
+ despairkid,     F?,        <Channel name: shadowkekw>,       2024-11-07 10:19:47.535804 

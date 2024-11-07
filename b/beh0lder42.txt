@@ -1,0 +1,188 @@
+
+ beh0lder42,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:09:45.383573 
+
+ beh0lder42,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:10:40.766271 
+
+ beh0lder42,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:14:22.387483 
+
+ beh0lder42,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:06.832414 
+
+ beh0lder42,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:17:23.352519 
+
+ beh0lder42,     Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:22:13.498591 
+
+ beh0lder42,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:23:00.896409 
+
+ beh0lder42,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:23:18.843631 
+
+ beh0lder42,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:23:21.843489 
+
+ beh0lder42,     Czech,        <Channel name: shadowkekw>,       2024-11-07 10:24:46.764962 
+
+ beh0lder42,     Isalnd,        <Channel name: shadowkekw>,       2024-11-07 10:24:57.259923 
+
+ beh0lder42,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.470888 
+
+ beh0lder42,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.581495 
+
+ beh0lder42,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:27:40.995629 
+
+ beh0lder42,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:27:58.565237 
+
+ beh0lder42,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.648702 
+
+ beh0lder42,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.829866 
+
+ beh0lder42,     Somali,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.433869 
+
+ beh0lder42,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.169245 
+
+ beh0lder42,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:30:17.989153 
+
+ beh0lder42,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:30:20.928722 
+
+ beh0lder42,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:30:37.777152 
+
+ beh0lder42,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.727041 
+
+ beh0lder42,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:31:30.687560 
+
+ beh0lder42,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.808395 
+
+ beh0lder42,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:32:31.387016 
+
+ beh0lder42,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.274518 
+
+ beh0lder42,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:34:26.903969 
+
+ beh0lder42,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.216040 
+
+ beh0lder42,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:06.044258 
+
+ beh0lder42,     Israel,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.539209 
+
+ beh0lder42,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:28.799779 
+
+ beh0lder42,     Sz,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.630559 
+
+ beh0lder42,     India,        <Channel name: shadowkekw>,       2024-11-07 10:40:19.251581 
+
+ beh0lder42,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:40:47.141921 
+
+ beh0lder42,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.077072 
+
+ beh0lder42,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:43:01.094521 
+
+ beh0lder42,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:44:29.830800 
+
+ beh0lder42,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:45:10.915550 
+
+ beh0lder42,     Co,        <Channel name: shadowkekw>,       2024-11-07 10:45:34.551259 
+
+ beh0lder42,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:47:11.489527 
+
+ beh0lder42,     za,        <Channel name: shadowkekw>,       2024-11-07 10:47:26.637881 
+
+ beh0lder42,     it,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.169195 
+
+ beh0lder42,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.132854 
+
+ beh0lder42,     om,        <Channel name: shadowkekw>,       2024-11-07 10:48:57.944750 
+
+ beh0lder42,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:49:19.869384 
+
+ beh0lder42,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:49:41.130332 
+
+ beh0lder42,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.921985 
+
+ beh0lder42,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.652237 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 10:52:47.052398 
+
+ beh0lder42,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:53:09.221174 
+
+ beh0lder42,     israel,        <Channel name: shadowkekw>,       2024-11-07 10:53:49.159297 
+
+ beh0lder42,     pg,        <Channel name: shadowkekw>,       2024-11-07 10:54:12.168611 
+
+ beh0lder42,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:54:36.289701 
+
+ beh0lder42,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:54:56.893062 
+
+ beh0lder42,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:39.053381 
+
+ beh0lder42,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:55:58.626447 
+
+ beh0lder42,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.732014 
+
+ beh0lder42,     om,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.373055 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 10:57:28.738130 
+
+ beh0lder42,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:58:12.556879 
+
+ beh0lder42,     re,        <Channel name: shadowkekw>,       2024-11-07 10:59:09.358302 
+
+ beh0lder42,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:59:54.891555 
+
+ beh0lder42,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:30.717440 
+
+ beh0lder42,     au,        <Channel name: shadowkekw>,       2024-11-07 11:01:14.928322 
+
+ beh0lder42,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:01:32.014137 
+
+ beh0lder42,     lx,        <Channel name: shadowkekw>,       2024-11-07 11:02:32.969518 
+
+ beh0lder42,     re,        <Channel name: shadowkekw>,       2024-11-07 11:04:34.002562 
+
+ beh0lder42,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:04:58.722200 
+
+ beh0lder42,     za,        <Channel name: shadowkekw>,       2024-11-07 11:05:51.058367 
+
+ beh0lder42,     re,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.443328 
+
+ beh0lder42,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:06:04.249806 
+
+ beh0lder42,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:06:54.901802 
+
+ beh0lder42,     dp,        <Channel name: shadowkekw>,       2024-11-07 11:07:02.178042 
+
+ beh0lder42,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:07:12.277648 
+
+ beh0lder42,     tw,        <Channel name: shadowkekw>,       2024-11-07 11:07:45.380250 
+
+ beh0lder42,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.985999 
+
+ beh0lder42,     it,        <Channel name: shadowkekw>,       2024-11-07 11:08:01.033456 
+
+ beh0lder42,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:08:13.621556 
+
+ beh0lder42,     combodia,        <Channel name: shadowkekw>,       2024-11-07 11:08:35.293663 
+
+ beh0lder42,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:13.342959 
+
+ beh0lder42,     latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:29.280860 
+
+ beh0lder42,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:10:32.306606 
+
+ beh0lder42,     lx,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.441259 
+
+ beh0lder42,     belgium,        <Channel name: shadowkekw>,       2024-11-07 11:11:21.067820 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 11:11:30.263174 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.398181 
+
+ beh0lder42,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.777003 
+
+ beh0lder42,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:12:43.758171 
+
+ beh0lder42,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:12:52.583478 
+
+ beh0lder42,     it,        <Channel name: shadowkekw>,       2024-11-07 11:13:16.434525 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.963821 
+
+ beh0lder42,     tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:13:39.099843 
+
+ beh0lder42,     do,        <Channel name: shadowkekw>,       2024-11-07 11:14:22.730210 

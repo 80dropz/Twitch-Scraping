@@ -1,0 +1,6 @@
+
+ syndiquid10,     !gmae,        <Channel name: mongraal>,       2024-11-07 13:24:43.034789 
+
+ syndiquid10,     !game,        <Channel name: mongraal>,       2024-11-07 13:24:58.897602 
+
+ syndiquid10,     !lb,        <Channel name: mongraal>,       2024-11-07 13:26:15.769850 

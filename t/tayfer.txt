@@ -1,0 +1,34 @@
+
+ tayfer,     bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:07:57.891970 
+
+ tayfer,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:08:28.469102 
+
+ tayfer,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:03.358613 
+
+ tayfer,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:10:17.852187 
+
+ tayfer,     angola,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.452994 
+
+ tayfer,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:10.113104 
+
+ tayfer,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:13:50.096463 
+
+ tayfer,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:48.804527 
+
+ tayfer,     kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:17:27.635356 
+
+ tayfer,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.713170 
+
+ tayfer,     uae,        <Channel name: shadowkekw>,       2024-11-07 10:20:50.947157 
+
+ tayfer,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.989378 
+
+ tayfer,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:31.002345 
+
+ tayfer,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.011836 
+
+ tayfer,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:23:44.578063 
+
+ tayfer,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.767817 
+
+ tayfer,     india,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.695179 

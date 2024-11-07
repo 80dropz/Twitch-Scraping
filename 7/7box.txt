@@ -1,0 +1,4 @@
+
+ 7box,     W,        <Channel name: kaicenat>,       2024-11-07 12:26:48.458102 
+
+ 7box,     WW,        <Channel name: kaicenat>,       2024-11-07 12:27:06.013274 

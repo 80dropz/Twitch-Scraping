@@ -1,0 +1,6 @@
+
+ ldutra_,     !move,        <Channel name: mongraal>,       2024-11-07 12:00:09.163639 
+
+ ldutra_,     !moviment,        <Channel name: mongraal>,       2024-11-07 12:00:21.233141 
+
+ ldutra_,     !movement,        <Channel name: mongraal>,       2024-11-07 12:00:55.712679 

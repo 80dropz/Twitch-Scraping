@@ -1,0 +1,514 @@
+
+ geroyigr,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:06:54.384982 
+
+ geroyigr,     seul,        <Channel name: shadowkekw>,       2024-11-07 10:06:56.670533 
+
+ geroyigr,     soul,        <Channel name: shadowkekw>,       2024-11-07 10:06:58.025624 
+
+ geroyigr,     china,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.022118 
+
+ geroyigr,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:07:20.312026 
+
+ geroyigr,     keepr,        <Channel name: shadowkekw>,       2024-11-07 10:07:57.345061 
+
+ geroyigr,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:08:02.495490 
+
+ geroyigr,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:08:15.652617 
+
+ geroyigr,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:22.491435 
+
+ geroyigr,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:46.533560 
+
+ geroyigr,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:05.399200 
+
+ geroyigr,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:10:32.329027 
+
+ geroyigr,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.340796 
+
+ geroyigr,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:11:13.880350 
+
+ geroyigr,     tailand,        <Channel name: shadowkekw>,       2024-11-07 10:11:32.219222 
+
+ geroyigr,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.930939 
+
+ geroyigr,     serbia,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.369930 
+
+ geroyigr,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:12:57.171531 
+
+ geroyigr,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.569506 
+
+ geroyigr,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.176118 
+
+ geroyigr,     br,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.930033 
+
+ geroyigr,     eng,        <Channel name: shadowkekw>,       2024-11-07 10:16:09.530072 
+
+ geroyigr,     kenia,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.786572 
+
+ geroyigr,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:16:29.496087 
+
+ geroyigr,     au,        <Channel name: shadowkekw>,       2024-11-07 10:16:32.773413 
+
+ geroyigr,     swi,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.565206 
+
+ geroyigr,     mng,        <Channel name: shadowkekw>,       2024-11-07 10:17:21.717122 
+
+ geroyigr,     az,        <Channel name: shadowkekw>,       2024-11-07 10:17:35.521968 
+
+ geroyigr,     po,        <Channel name: shadowkekw>,       2024-11-07 10:17:39.246739 
+
+ geroyigr,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:17:57.564248 
+
+ geroyigr,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:18:07.327118 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.007057 
+
+ geroyigr,     ger,        <Channel name: shadowkekw>,       2024-11-07 10:18:38.231807 
+
+ geroyigr,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:19:05.393918 
+
+ geroyigr,     tunis,        <Channel name: shadowkekw>,       2024-11-07 10:19:12.321055 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:19:30.551351 
+
+ geroyigr,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:19:34.618725 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:19:37.727071 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:19:44.075071 
+
+ geroyigr,     swi,        <Channel name: shadowkekw>,       2024-11-07 10:19:53.811356 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:19:59.789580 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:20:10.127867 
+
+ geroyigr,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:20:19.127252 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:20:25.345026 
+
+ geroyigr,     it,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.925554 
+
+ geroyigr,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:36.556839 
+
+ geroyigr,     ura,        <Channel name: shadowkekw>,       2024-11-07 10:20:53.296974 
+
+ geroyigr,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:20:55.749350 
+
+ geroyigr,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:21:10.639020 
+
+ geroyigr,     it,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.355061 
+
+ geroyigr,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:21:44.951476 
+
+ geroyigr,     br,        <Channel name: shadowkekw>,       2024-11-07 10:21:48.194809 
+
+ geroyigr,     bz,        <Channel name: shadowkekw>,       2024-11-07 10:21:50.372741 
+
+ geroyigr,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:22:09.257387 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:22:35.659728 
+
+ geroyigr,     az,        <Channel name: shadowkekw>,       2024-11-07 10:22:44.987157 
+
+ geroyigr,     mex,        <Channel name: shadowkekw>,       2024-11-07 10:22:57.071015 
+
+ geroyigr,     au,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.923552 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.153258 
+
+ geroyigr,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:23:16.788431 
+
+ geroyigr,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:23:32.007004 
+
+ geroyigr,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:33.656638 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.392438 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:23:45.887603 
+
+ geroyigr,     por,        <Channel name: shadowkekw>,       2024-11-07 10:23:51.401892 
+
+ geroyigr,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.329640 
+
+ geroyigr,     po,        <Channel name: shadowkekw>,       2024-11-07 10:24:15.164578 
+
+ geroyigr,     tr,        <Channel name: shadowkekw>,       2024-11-07 10:24:18.130207 
+
+ geroyigr,     po,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.390676 
+
+ geroyigr,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.415160 
+
+ geroyigr,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:25:06.574510 
+
+ geroyigr,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:25:08.085989 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:25:09.788142 
+
+ geroyigr,     mex,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.492741 
+
+ geroyigr,     rom,        <Channel name: shadowkekw>,       2024-11-07 10:25:46.784340 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:25:47.893539 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:25:49.405090 
+
+ geroyigr,     au,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.434241 
+
+ geroyigr,     aus,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.566153 
+
+ geroyigr,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:26:03.833133 
+
+ geroyigr,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:26:07.241538 
+
+ geroyigr,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:26:34.821866 
+
+ geroyigr,     er,        <Channel name: shadowkekw>,       2024-11-07 10:26:37.065568 
+
+ geroyigr,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.581875 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:26:42.168768 
+
+ geroyigr,     me,        <Channel name: shadowkekw>,       2024-11-07 10:26:49.750441 
+
+ geroyigr,     mex,        <Channel name: shadowkekw>,       2024-11-07 10:26:51.044509 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:26:57.525221 
+
+ geroyigr,     br,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.479169 
+
+ geroyigr,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.760617 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.802005 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.475408 
+
+ geroyigr,     au,        <Channel name: shadowkekw>,       2024-11-07 10:27:36.768231 
+
+ geroyigr,     st,        <Channel name: shadowkekw>,       2024-11-07 10:27:38.738490 
+
+ geroyigr,     uc,        <Channel name: shadowkekw>,       2024-11-07 10:27:56.916428 
+
+ geroyigr,     az,        <Channel name: shadowkekw>,       2024-11-07 10:28:00.999458 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:28:06.872660 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.030290 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.381079 
+
+ geroyigr,     mex,        <Channel name: shadowkekw>,       2024-11-07 10:29:04.599848 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:29:20.147659 
+
+ geroyigr,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:29:22.043412 
+
+ geroyigr,     ita,        <Channel name: shadowkekw>,       2024-11-07 10:29:26.628522 
+
+ geroyigr,     it,        <Channel name: shadowkekw>,       2024-11-07 10:29:27.529268 
+
+ geroyigr,     ser,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.411625 
+
+ geroyigr,     ger,        <Channel name: shadowkekw>,       2024-11-07 10:29:38.086143 
+
+ geroyigr,     it,        <Channel name: shadowkekw>,       2024-11-07 10:29:39.448044 
+
+ geroyigr,     dn,        <Channel name: shadowkekw>,       2024-11-07 10:29:41.523143 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:29:43.501756 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:29:50.738321 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.712963 
+
+ geroyigr,     se,        <Channel name: shadowkekw>,       2024-11-07 10:30:12.476404 
+
+ geroyigr,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.030574 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:30:50.989179 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:31:01.411226 
+
+ geroyigr,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:31:04.607167 
+
+ geroyigr,     po,        <Channel name: shadowkekw>,       2024-11-07 10:31:22.683709 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:31:25.282141 
+
+ geroyigr,     br,        <Channel name: shadowkekw>,       2024-11-07 10:31:43.644684 
+
+ geroyigr,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:31:46.313582 
+
+ geroyigr,     lat,        <Channel name: shadowkekw>,       2024-11-07 10:31:49.557987 
+
+ geroyigr,     estfin,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.050178 
+
+ geroyigr,     be,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.010707 
+
+ geroyigr,     ita,        <Channel name: shadowkekw>,       2024-11-07 10:32:18.567188 
+
+ geroyigr,     rom,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.306851 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:32:20.580838 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.614503 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.266372 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.249120 
+
+ geroyigr,     dm,        <Channel name: shadowkekw>,       2024-11-07 10:32:59.616427 
+
+ geroyigr,     pol,        <Channel name: shadowkekw>,       2024-11-07 10:33:01.883627 
+
+ geroyigr,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.874970 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:33:30.654448 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.649701 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:33:34.875226 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.446929 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.957273 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:33:59.573029 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:34:01.883437 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:34:12.825272 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:34:13.718554 
+
+ geroyigr,     ger,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.205101 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:47.542728 
+
+ geroyigr,     mex,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.939511 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:35:01.776119 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:35:03.709306 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:35:04.939405 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:35:35.346602 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.053105 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:35:53.989384 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:35:55.544821 
+
+ geroyigr,     sk,        <Channel name: shadowkekw>,       2024-11-07 10:36:03.037558 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:36:16.319886 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:36:18.600294 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:36:20.202153 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:36:54.137894 
+
+ geroyigr,     br,        <Channel name: shadowkekw>,       2024-11-07 10:37:19.446461 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:37:28.587982 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:37:29.864745 
+
+ geroyigr,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:37:31.334285 
+
+ geroyigr,     swi,        <Channel name: shadowkekw>,       2024-11-07 10:37:36.823313 
+
+ geroyigr,     au,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.502531 
+
+ geroyigr,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.341377 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.939098 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.033356 
+
+ geroyigr,     gr,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.176277 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:38:17.156455 
+
+ geroyigr,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.745427 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:38:24.679155 
+
+ geroyigr,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.779652 
+
+ geroyigr,     ke,        <Channel name: shadowkekw>,       2024-11-07 10:38:32.630622 
+
+ geroyigr,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:38:42.310686 
+
+ geroyigr,     it,        <Channel name: shadowkekw>,       2024-11-07 10:38:42.906209 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:39:06.282703 
+
+ geroyigr,     po,        <Channel name: shadowkekw>,       2024-11-07 10:39:19.998423 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:39:39.925603 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:39:41.566471 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:39:43.645947 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:39:57.550850 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:40:09.575452 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:40:11.674393 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:40:15.433331 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:40:23.646115 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:40:36.601112 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:40:37.693414 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:40:39.960035 
+
+ geroyigr,     gw,        <Channel name: shadowkekw>,       2024-11-07 10:40:56.797940 
+
+ geroyigr,     me,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.629418 
+
+ geroyigr,     jap,        <Channel name: shadowkekw>,       2024-11-07 10:41:07.357432 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.011162 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:17.721948 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:41:20.816400 
+
+ geroyigr,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.629560 
+
+ geroyigr,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.795988 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.804558 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.261413 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.039361 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:41:44.386092 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:42:42.313521 
+
+ geroyigr,     est,        <Channel name: shadowkekw>,       2024-11-07 10:42:44.612842 
+
+ geroyigr,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:42:46.150402 
+
+ geroyigr,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:42:49.700198 
+
+ geroyigr,     es,        <Channel name: shadowkekw>,       2024-11-07 10:43:19.362040 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:43:20.620597 
+
+ geroyigr,     boco,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.862077 
+
+ geroyigr,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:26.810469 
+
+ geroyigr,     th,        <Channel name: shadowkekw>,       2024-11-07 10:43:36.425176 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:43:50.121618 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:43:51.373591 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.451587 
+
+ geroyigr,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:14.477212 
+
+ geroyigr,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.292529 
+
+ geroyigr,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.948649 
+
+ geroyigr,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.623270 
+
+ geroyigr,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.321923 
+
+ geroyigr,     swiita,        <Channel name: shadowkekw>,       2024-11-07 10:44:48.345690 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:45:00.670380 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:45:45.166594 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:46:00.264915 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.388859 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:46:39.936276 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:47:00.634770 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:47:18.308306 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:47:47.356581 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 10:48:24.779406 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:48:37.838641 
+
+ geroyigr,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:48:52.850962 
+
+ geroyigr,     swe,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.832988 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.149468 
+
+ geroyigr,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.729592 
+
+ geroyigr,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:30.984562 
+
+ geroyigr,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:50:51.462400 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.758816 
+
+ geroyigr,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:51:32.869630 
+
+ geroyigr,     laos,        <Channel name: shadowkekw>,       2024-11-07 10:52:20.035437 
+
+ geroyigr,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:52:34.612174 
+
+ geroyigr,     gw,        <Channel name: shadowkekw>,       2024-11-07 10:53:01.006388 
+
+ geroyigr,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:53:21.573881 
+
+ geroyigr,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:54:07.227869 
+
+ geroyigr,     do,        <Channel name: shadowkekw>,       2024-11-07 10:54:32.276711 
+
+ geroyigr,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:54:52.406291 
+
+ geroyigr,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:55:21.234358 
+
+ geroyigr,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:55:35.977658 
+
+ geroyigr,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.656124 
+
+ geroyigr,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.243837 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:56:45.468980 
+
+ geroyigr,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:57:21.470951 
+
+ geroyigr,     cr,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.536784 
+
+ geroyigr,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.057561 
+
+ geroyigr,     co,        <Channel name: shadowkekw>,       2024-11-07 11:00:05.250331 
+
+ geroyigr,     ph,        <Channel name: shadowkekw>,       2024-11-07 11:00:49.226068 
+
+ geroyigr,     usporesthbocoke,        <Channel name: shadowkekw>,       2024-11-07 11:01:58.925787 
+
+ geroyigr,     usporesthbocokemxltcofnnw,        <Channel name: shadowkekw>,       2024-11-07 11:03:03.085811 
+
+ geroyigr,     usporesthbocokemxltcofnnwphhgthidomeskrjapanama,        <Channel name: shadowkekw>,       2024-11-07 11:04:03.270017 
+
+ geroyigr,     usporesthbocokemxltcofnnwphhgthidomeskrjapanamado,        <Channel name: shadowkekw>,       2024-11-07 11:04:50.944365 
+
+ geroyigr,     usporesthbocokemxltcofnnwphhgthidomeskrjapanamadoisirgb,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.881600 
+
+ geroyigr,     usporesthbocokemxltcofnnwphhgthidomeskrjapanamadoisirgb,        <Channel name: shadowkekw>,       2024-11-07 11:06:45.240732 

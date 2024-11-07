@@ -1,0 +1,6 @@
+
+ klumpe111,     !res,        <Channel name: mongraal>,       2024-11-07 10:10:46.363148 
+
+ klumpe111,     !dpi,        <Channel name: mongraal>,       2024-11-07 10:11:07.130476 
+
+ klumpe111,     !settings,        <Channel name: mongraal>,       2024-11-07 10:11:16.096966 

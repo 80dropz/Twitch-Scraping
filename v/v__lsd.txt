@@ -1,0 +1,12 @@
+
+ v__lsd,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:07:41.885046 
+
+ v__lsd,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:10:00.403091 
+
+ v__lsd,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:10:22.990107 
+
+ v__lsd,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:12:49.389302 
+
+ v__lsd,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:17:08.452234 
+
+ v__lsd,     y,        <Channel name: shadowkekw>,       2024-11-07 11:24:24.113237 

@@ -1,0 +1,20 @@
+
+ afemis,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:49:44.930540 
+
+ afemis,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:50:11.787667 
+
+ afemis,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:41.068022 
+
+ afemis,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:51:02.892806 
+
+ afemis,     Brazik,        <Channel name: shadowkekw>,       2024-11-07 10:51:23.517001 
+
+ afemis,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:51:54.388792 
+
+ afemis,     Columbia,        <Channel name: shadowkekw>,       2024-11-07 10:52:29.058388 
+
+ afemis,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:55:10.334751 
+
+ afemis,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:55:25.875103 
+
+ afemis,     hi,        <Channel name: shadowkekw>,       2024-11-07 10:56:37.966038 

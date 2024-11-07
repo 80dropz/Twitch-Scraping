@@ -1,0 +1,6 @@
+
+ ahmed249goat,     !Role,        <Channel name: mongraal>,       2024-11-07 11:34:51.234353 
+
+ ahmed249goat,     !Trio,        <Channel name: mongraal>,       2024-11-07 11:35:29.839716 
+
+ ahmed249goat,     !Role,        <Channel name: clix>,       2024-11-07 11:36:57.959040 

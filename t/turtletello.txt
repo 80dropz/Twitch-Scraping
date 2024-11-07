@@ -1,0 +1,6 @@
+
+ turtletello,     is there a timer for the subathon,        <Channel name: mongraal>,       2024-11-07 10:54:45.606090 
+
+ turtletello,     !age,        <Channel name: mongraal>,       2024-11-07 10:56:11.265439 
+
+ turtletello,     we cant see ur facecam in the way,        <Channel name: mongraal>,       2024-11-07 13:13:33.897522 

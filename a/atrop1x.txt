@@ -1,0 +1,30 @@
+
+ atrop1x,     india,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.224482 
+
+ atrop1x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:48:57.197249 
+
+ atrop1x,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.240205 
+
+ atrop1x,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.159890 
+
+ atrop1x,     da,        <Channel name: shadowkekw>,       2024-11-07 10:51:15.546525 
+
+ atrop1x,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.702256 
+
+ atrop1x,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:52:49.877552 
+
+ atrop1x,     cameroun,        <Channel name: shadowkekw>,       2024-11-07 10:53:12.157438 
+
+ atrop1x,     san juan,        <Channel name: shadowkekw>,       2024-11-07 10:54:32.012831 
+
+ atrop1x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:26.412768 
+
+ atrop1x,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:56:38.813273 
+
+ atrop1x,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.976595 
+
+ atrop1x,     china,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.129498 
+
+ atrop1x,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:59:07.828146 
+
+ atrop1x,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:59:42.285644 

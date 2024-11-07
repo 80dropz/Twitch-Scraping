@@ -22,3 +22,17 @@
  d1_kinng,     cap,        <Channel name: kaicenat>,       2024-11-07 02:40:40.940542 
 
  d1_kinng,     it’s 6 17,        <Channel name: kaicenat>,       2024-11-07 09:17:50.401746 
+
+ d1_kinng,     yes,        <Channel name: kaicenat>,       2024-11-07 12:49:02.028673 
+
+ d1_kinng,     yes,        <Channel name: kaicenat>,       2024-11-07 13:00:30.581886 
+
+ d1_kinng,     w save,        <Channel name: kaicenat>,       2024-11-07 13:07:00.781744 
+
+ d1_kinng,     w,        <Channel name: kaicenat>,       2024-11-07 13:07:09.994504 
+
+ d1_kinng,     let him sleep,        <Channel name: kaicenat>,       2024-11-07 13:09:52.264828 
+
+ d1_kinng,     let him sleep,        <Channel name: kaicenat>,       2024-11-07 13:10:52.903448 
+
+ d1_kinng,     rakai water?,        <Channel name: kaicenat>,       2024-11-07 13:36:47.299389 

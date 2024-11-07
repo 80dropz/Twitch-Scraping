@@ -1,0 +1,10 @@
+
+ zayymb,     is that rakai?,        <Channel name: kaicenat>,       2024-11-07 10:11:55.742205 
+
+ zayymb,     who in chair,        <Channel name: kaicenat>,       2024-11-07 10:12:15.451512 
+
+ zayymb,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:28.036182 
+
+ zayymb,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:04.434775 
+
+ zayymb,     !time,        <Channel name: kaicenat>,       2024-11-07 10:16:10.773132 

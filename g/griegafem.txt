@@ -1,0 +1,88 @@
+
+ griegafem,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.879393 
+
+ griegafem,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:29:27.580852 
+
+ griegafem,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.708234 
+
+ griegafem,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:09.680063 
+
+ griegafem,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:31:50.988980 
+
+ griegafem,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.774225 
+
+ griegafem,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.681422 
+
+ griegafem,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.529610 
+
+ griegafem,     ID,        <Channel name: shadowkekw>,       2024-11-07 10:35:13.910129 
+
+ griegafem,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:36:42.569326 
+
+ griegafem,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:37:38.227312 
+
+ griegafem,     senegal,        <Channel name: shadowkekw>,       2024-11-07 10:38:33.239975 
+
+ griegafem,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:38:49.483714 
+
+ griegafem,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.455542 
+
+ griegafem,     tr,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.234096 
+
+ griegafem,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.878642 
+
+ griegafem,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:40:47.231613 
+
+ griegafem,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.612059 
+
+ griegafem,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:41:27.623139 
+
+ griegafem,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:13.933025 
+
+ griegafem,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:30.760861 
+
+ griegafem,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:52.146820 
+
+ griegafem,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:43:27.314752 
+
+ griegafem,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:44:48.237200 
+
+ griegafem,     sz,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.658000 
+
+ griegafem,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.925010 
+
+ griegafem,     au,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.292784 
+
+ griegafem,     id,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.504581 
+
+ griegafem,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.770247 
+
+ griegafem,     id,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.379488 
+
+ griegafem,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:48:56.887485 
+
+ griegafem,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.111784 
+
+ griegafem,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:51:14.150627 
+
+ griegafem,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:51:41.801824 
+
+ griegafem,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:52:06.375845 
+
+ griegafem,     za,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.291971 
+
+ griegafem,     id,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.047441 
+
+ griegafem,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:54:11.928487 
+
+ griegafem,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.918732 
+
+ griegafem,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:24.800439 
+
+ griegafem,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:57:11.926448 
+
+ griegafem,     nepal,        <Channel name: shadowkekw>,       2024-11-07 10:57:50.733959 
+
+ griegafem,     finland,        <Channel name: shadowkekw>,       2024-11-07 10:59:27.345220 
+
+ griegafem,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 11:00:15.845115 

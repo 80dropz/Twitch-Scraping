@@ -1,0 +1,10 @@
+
+ velpz_fn09,     !time,        <Channel name: clix>,       2024-11-07 12:14:16.032976 
+
+ velpz_fn09,     !time,        <Channel name: kaicenat>,       2024-11-07 12:15:10.433464 
+
+ velpz_fn09,     !TIME,        <Channel name: kaicenat>,       2024-11-07 12:15:47.765494 
+
+ velpz_fn09,     !time,        <Channel name: kaicenat>,       2024-11-07 12:16:04.138775 
+
+ velpz_fn09,     !time,        <Channel name: kaicenat>,       2024-11-07 12:16:47.859162 

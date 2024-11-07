@@ -1,0 +1,16 @@
+
+ genholdmedown,     #FREEMILES,        <Channel name: kaicenat>,       2024-11-07 10:57:36.526489 
+
+ genholdmedown,     ?,        <Channel name: kaicenat>,       2024-11-07 11:01:05.911281 
+
+ genholdmedown,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:01:54.526419 
+
+ genholdmedown,     :(,        <Channel name: kaicenat>,       2024-11-07 11:02:57.637457 
+
+ genholdmedown,     !points,        <Channel name: kaicenat>,       2024-11-07 11:03:17.152946 
+
+ genholdmedown,     !roulette 2500,        <Channel name: kaicenat>,       2024-11-07 11:03:24.232318 
+
+ genholdmedown,     !roulette 2501,        <Channel name: kaicenat>,       2024-11-07 11:03:42.255646 
+
+ genholdmedown,     omg,        <Channel name: kaicenat>,       2024-11-07 11:03:45.184175 

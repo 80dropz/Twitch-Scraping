@@ -1,0 +1,8 @@
+
+ thatcorner25,     !myd,        <Channel name: nadeshot>,       2024-11-07 09:58:07.891551 
+
+ thatcorner25,     !myd,        <Channel name: nadeshot>,       2024-11-07 09:58:39.388567 
+
+ thatcorner25,     !fetch,        <Channel name: nadeshot>,       2024-11-07 10:45:58.657858 
+
+ thatcorner25,     !weatheril,        <Channel name: nadeshot>,       2024-11-07 10:55:02.262317 

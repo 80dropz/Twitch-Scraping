@@ -1,0 +1,58 @@
+
+ klef1s,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:48:03.156417 
+
+ klef1s,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:48:22.607172 
+
+ klef1s,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:50:05.340354 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.510631 
+
+ klef1s,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.011385 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.444167 
+
+ klef1s,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:51:36.380732 
+
+ klef1s,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:52:02.315382 
+
+ klef1s,     Lybia,        <Channel name: shadowkekw>,       2024-11-07 10:52:27.051452 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:53:22.645607 
+
+ klef1s,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:53:52.645655 
+
+ klef1s,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:55:16.153325 
+
+ klef1s,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:55:33.886362 
+
+ klef1s,     Dermany,        <Channel name: shadowkekw>,       2024-11-07 10:56:03.660254 
+
+ klef1s,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:57:07.608227 
+
+ klef1s,     Papua New Guinea,        <Channel name: shadowkekw>,       2024-11-07 10:58:24.801204 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 10:59:38.723552 
+
+ klef1s,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:00:25.179072 
+
+ klef1s,     New ziland,        <Channel name: shadowkekw>,       2024-11-07 11:01:00.848618 
+
+ klef1s,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 11:01:40.459432 
+
+ klef1s,     brazil,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.815380 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 11:04:07.923114 
+
+ klef1s,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:05:26.451334 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.090922 
+
+ klef1s,     France,        <Channel name: shadowkekw>,       2024-11-07 11:06:25.022394 
+
+ klef1s,     Sudan,        <Channel name: shadowkekw>,       2024-11-07 11:06:50.902996 
+
+ klef1s,     India,        <Channel name: shadowkekw>,       2024-11-07 11:08:47.282181 
+
+ klef1s,     Poland,        <Channel name: shadowkekw>,       2024-11-07 11:10:08.088895 
+
+ klef1s,     Papau new guinea,        <Channel name: shadowkekw>,       2024-11-07 11:15:23.217470 

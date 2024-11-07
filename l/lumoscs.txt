@@ -1,0 +1,6 @@
+
+ lumoscs,     what,        <Channel name: kaicenat>,       2024-11-07 11:41:29.602974 
+
+ lumoscs,     f,        <Channel name: kaicenat>,       2024-11-07 11:41:43.800217 
+
+ lumoscs,     dfs,        <Channel name: kaicenat>,       2024-11-07 11:41:50.770212 

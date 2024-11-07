@@ -1,0 +1,4 @@
+
+ fiulu1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:01:50.114378 
+
+ fiulu1,     !ROULETTE 1630,        <Channel name: kaicenat>,       2024-11-07 10:02:04.902025 

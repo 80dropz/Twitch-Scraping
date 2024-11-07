@@ -1,0 +1,48 @@
+
+ m0n1x_322,     mhm,        <Channel name: shadowkekw>,       2024-11-07 09:53:59.724556 
+
+ m0n1x_322,     90 120,        <Channel name: shadowkekw>,       2024-11-07 09:54:29.888489 
+
+ m0n1x_322,     OAS,        <Channel name: shadowkekw>,       2024-11-07 10:12:44.364115 
+
+ m0n1x_322,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:16:08.911165 
+
+ m0n1x_322,     islandia,        <Channel name: shadowkekw>,       2024-11-07 10:37:43.445553 
+
+ m0n1x_322,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:38:05.801578 
+
+ m0n1x_322,     us,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.570608 
+
+ m0n1x_322,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:38:33.532711 
+
+ m0n1x_322,     SISI,        <Channel name: shadowkekw>,       2024-11-07 10:38:56.872139 
+
+ m0n1x_322,     SISI SISI,        <Channel name: shadowkekw>,       2024-11-07 10:39:13.645014 
+
+ m0n1x_322,     ia,        <Channel name: shadowkekw>,       2024-11-07 10:40:22.122762 
+
+ m0n1x_322,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:40:48.906200 
+
+ m0n1x_322,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:41:06.913484 
+
+ m0n1x_322,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.611459 
+
+ m0n1x_322,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:43:00.585153 
+
+ m0n1x_322,     r,        <Channel name: shadowkekw>,       2024-11-07 10:43:12.078899 
+
+ m0n1x_322,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:44:07.071814 
+
+ m0n1x_322,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:44:16.252315 
+
+ m0n1x_322,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:44:17.857808 
+
+ m0n1x_322,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:44:19.377578 
+
+ m0n1x_322,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:44:21.895070 
+
+ m0n1x_322,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:05:50.781500 
+
+ m0n1x_322,     322,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.775073 
+
+ m0n1x_322,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:34.116960 

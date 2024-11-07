@@ -1,0 +1,24 @@
+
+ jack_cases,     50 gift incoming,        <Channel name: kaicenat>,       2024-11-07 12:44:16.520648 
+
+ jack_cases,     40,        <Channel name: kaicenat>,       2024-11-07 12:45:38.277018 
+
+ jack_cases,     wwwwww 5,        <Channel name: kaicenat>,       2024-11-07 12:47:05.735223 
+
+ jack_cases,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 12:47:42.161468 
+
+ jack_cases,     100 gift now,        <Channel name: kaicenat>,       2024-11-07 12:49:14.679227 
+
+ jack_cases,     wwwwwww 240K,        <Channel name: kaicenat>,       2024-11-07 12:49:48.777894 
+
+ jack_cases,     GET THE PHONE AND MIC BRUH,        <Channel name: kaicenat>,       2024-11-07 13:05:02.961854 
+
+ jack_cases,     GET RYAN,        <Channel name: kaicenat>,       2024-11-07 13:18:22.092816 
+
+ jack_cases,     RYAN GET THERE,        <Channel name: kaicenat>,       2024-11-07 13:18:31.493273 
+
+ jack_cases,     GET RYAN UP THERE. BRUH,        <Channel name: kaicenat>,       2024-11-07 13:19:18.243279 
+
+ jack_cases,     @kaicenat RYAN UP THERE,        <Channel name: kaicenat>,       2024-11-07 13:21:09.846385 
+
+ jack_cases,     wwwww 230’,        <Channel name: kaicenat>,       2024-11-07 13:28:49.985773 

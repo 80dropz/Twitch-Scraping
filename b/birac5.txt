@@ -1,0 +1,4 @@
+
+ birac5,     !sens,        <Channel name: mongraal>,       2024-11-07 09:58:08.691981 
+
+ birac5,     @Mongraal how you rate this season in 1 to 10,        <Channel name: mongraal>,       2024-11-07 09:59:16.936064 

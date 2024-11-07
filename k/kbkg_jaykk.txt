@@ -10,3 +10,9 @@
  kbkg_jaykk,     L ADS,        <Channel name: kaicenat>,       2024-11-07 09:43:42.526904 
 
  kbkg_jaykk,     @Fossabot BRO IM POOR,        <Channel name: kaicenat>,       2024-11-07 09:43:56.713181 
+
+ kbkg_jaykk,     !moneyt,        <Channel name: kaicenat>,       2024-11-07 10:03:35.281846 
+
+ kbkg_jaykk,     !money,        <Channel name: kaicenat>,       2024-11-07 10:03:39.118932 
+
+ kbkg_jaykk,     !time,        <Channel name: kaicenat>,       2024-11-07 10:03:44.848067 

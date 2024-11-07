@@ -1,0 +1,16 @@
+
+ bi0nnnn,     bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.459758 
+
+ bi0nnnn,     0,        <Channel name: shadowkekw>,       2024-11-07 10:13:38.423702 
+
+ bi0nnnn,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:13:44.374956 
+
+ bi0nnnn,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:14:52.363051 
+
+ bi0nnnn,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:15:45.290470 
+
+ bi0nnnn,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:16:07.975045 
+
+ bi0nnnn,     tanzania,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.333429 
+
+ bi0nnnn,     bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:17:04.879916 

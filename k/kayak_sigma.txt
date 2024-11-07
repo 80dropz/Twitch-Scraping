@@ -1,0 +1,90 @@
+
+ kayak_sigma,     sr,        <Channel name: shadowkekw>,       2024-11-07 10:07:58.242252 
+
+ kayak_sigma,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:08:26.934262 
+
+ kayak_sigma,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:09:00.502742 
+
+ kayak_sigma,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:10:08.402343 
+
+ kayak_sigma,     am,        <Channel name: shadowkekw>,       2024-11-07 10:10:41.257606 
+
+ kayak_sigma,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.050969 
+
+ kayak_sigma,     csr,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.985953 
+
+ kayak_sigma,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:12:07.626050 
+
+ kayak_sigma,     us,        <Channel name: shadowkekw>,       2024-11-07 10:12:45.344299 
+
+ kayak_sigma,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:15:03.486997 
+
+ kayak_sigma,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.450979 
+
+ kayak_sigma,     os,        <Channel name: shadowkekw>,       2024-11-07 10:15:57.872542 
+
+ kayak_sigma,     hg,        <Channel name: shadowkekw>,       2024-11-07 10:16:10.480742 
+
+ kayak_sigma,     hi,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.334921 
+
+ kayak_sigma,     oi,        <Channel name: shadowkekw>,       2024-11-07 10:16:15.902756 
+
+ kayak_sigma,     eq,        <Channel name: shadowkekw>,       2024-11-07 10:16:41.594778 
+
+ kayak_sigma,     ti,        <Channel name: shadowkekw>,       2024-11-07 10:16:56.052859 
+
+ kayak_sigma,     fi\,        <Channel name: shadowkekw>,       2024-11-07 10:17:03.105670 
+
+ kayak_sigma,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:17:17.748415 
+
+ kayak_sigma,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:17:28.270336 
+
+ kayak_sigma,     le,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.580133 
+
+ kayak_sigma,     il,        <Channel name: shadowkekw>,       2024-11-07 10:19:00.456819 
+
+ kayak_sigma,     zv',        <Channel name: shadowkekw>,       2024-11-07 10:19:18.349414 
+
+ kayak_sigma,     gi,        <Channel name: shadowkekw>,       2024-11-07 10:19:52.491106 
+
+ kayak_sigma,     fg,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.085689 
+
+ kayak_sigma,     ea,        <Channel name: shadowkekw>,       2024-11-07 10:21:13.718823 
+
+ kayak_sigma,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:21:24.196942 
+
+ kayak_sigma,     iu,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.133145 
+
+ kayak_sigma,     ra,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.699004 
+
+ kayak_sigma,     yt,        <Channel name: shadowkekw>,       2024-11-07 10:21:39.242141 
+
+ kayak_sigma,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.755052 
+
+ kayak_sigma,     we,        <Channel name: shadowkekw>,       2024-11-07 10:21:48.431048 
+
+ kayak_sigma,     opk[,        <Channel name: shadowkekw>,       2024-11-07 10:21:58.634424 
+
+ kayak_sigma,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.163195 
+
+ kayak_sigma,     sd,        <Channel name: shadowkekw>,       2024-11-07 10:28:35.566937 
+
+ kayak_sigma,     jk,        <Channel name: shadowkekw>,       2024-11-07 10:28:49.656012 
+
+ kayak_sigma,     us,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.951495 
+
+ kayak_sigma,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.278375 
+
+ kayak_sigma,     da,        <Channel name: shadowkekw>,       2024-11-07 10:30:07.634378 
+
+ kayak_sigma,     fc,        <Channel name: shadowkekw>,       2024-11-07 10:31:10.450555 
+
+ kayak_sigma,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:31:25.793395 
+
+ kayak_sigma,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.415597 
+
+ kayak_sigma,     hg,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.640476 
+
+ kayak_sigma,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:32:27.638307 
+
+ kayak_sigma,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:32:34.133986 

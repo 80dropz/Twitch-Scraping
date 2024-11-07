@@ -100,3 +100,9 @@
  givingexamples,     We always try to tell bro,        <Channel name: kaicenat>,       2024-11-07 09:43:52.863601 
 
  givingexamples,     kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:43:57.258825 
+
+ givingexamples,     Hi miles,        <Channel name: kaicenat>,       2024-11-07 11:28:02.886402 
+
+ givingexamples,     kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 11:28:39.976447 
+
+ givingexamples,     W miles,        <Channel name: kaicenat>,       2024-11-07 11:28:57.808310 

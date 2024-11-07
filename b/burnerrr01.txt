@@ -1,0 +1,10 @@
+
+ burnerrr01,     W,        <Channel name: kaicenat>,       2024-11-07 10:11:23.538150 
+
+ burnerrr01,     !size,        <Channel name: kaicenat>,       2024-11-07 10:11:29.689952 
+
+ burnerrr01,     !dsise,        <Channel name: kaicenat>,       2024-11-07 10:11:43.012582 
+
+ burnerrr01,     !dsize,        <Channel name: kaicenat>,       2024-11-07 10:11:46.959696 
+
+ burnerrr01,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:13.024802 

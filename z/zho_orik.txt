@@ -1,0 +1,46 @@
+
+ zho_orik,     Cuba,        <Channel name: shadowkekw>,       2024-11-07 10:16:59.569877 
+
+ zho_orik,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:17:35.798737 
+
+ zho_orik,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:18:09.151547 
+
+ zho_orik,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:29.268283 
+
+ zho_orik,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:19:08.527978 
+
+ zho_orik,     lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:19:14.093451 
+
+ zho_orik,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:19:29.489482 
+
+ zho_orik,     us,        <Channel name: shadowkekw>,       2024-11-07 10:20:26.594148 
+
+ zho_orik,     is,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.209435 
+
+ zho_orik,     egpt,        <Channel name: shadowkekw>,       2024-11-07 10:20:46.546229 
+
+ zho_orik,     it,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.904607 
+
+ zho_orik,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:21:45.600403 
+
+ zho_orik,     es,        <Channel name: shadowkekw>,       2024-11-07 10:22:24.841796 
+
+ zho_orik,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.133469 
+
+ zho_orik,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:22:53.811345 
+
+ zho_orik,     au,        <Channel name: shadowkekw>,       2024-11-07 10:23:35.114417 
+
+ zho_orik,     le,        <Channel name: shadowkekw>,       2024-11-07 10:23:50.530369 
+
+ zho_orik,     pt,        <Channel name: shadowkekw>,       2024-11-07 10:23:54.835710 
+
+ zho_orik,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:24:14.156276 
+
+ zho_orik,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.082468 
+
+ zho_orik,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.612532 
+
+ zho_orik,     it,        <Channel name: shadowkekw>,       2024-11-07 10:25:51.790690 
+
+ zho_orik,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:25:53.665061 

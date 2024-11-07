@@ -1,0 +1,4 @@
+
+ ihatejord,     !movement,        <Channel name: mrlust>,       2024-11-07 11:25:23.008472 
+
+ ihatejord,     !cmds,        <Channel name: mrlust>,       2024-11-07 11:25:31.328622 

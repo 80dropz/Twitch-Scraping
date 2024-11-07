@@ -1,0 +1,38 @@
+
+ r3ve1ve,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:43:54.446671 
+
+ r3ve1ve,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:45:17.223247 
+
+ r3ve1ve,     croatia,        <Channel name: shadowkekw>,       2024-11-07 10:46:30.628960 
+
+ r3ve1ve,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.515346 
+
+ r3ve1ve,     grece],        <Channel name: shadowkekw>,       2024-11-07 10:47:28.613117 
+
+ r3ve1ve,     monako,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.100854 
+
+ r3ve1ve,     grece,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.945061 
+
+ r3ve1ve,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:49:22.731654 
+
+ r3ve1ve,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.386352 
+
+ r3ve1ve,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:50:12.257180 
+
+ r3ve1ve,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:51:04.215131 
+
+ r3ve1ve,     romanua,        <Channel name: shadowkekw>,       2024-11-07 10:51:24.221559 
+
+ r3ve1ve,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:51:42.684031 
+
+ r3ve1ve,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:57:16.306708 
+
+ r3ve1ve,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.071998 
+
+ r3ve1ve,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:59:47.803757 
+
+ r3ve1ve,     south africa,        <Channel name: shadowkekw>,       2024-11-07 11:00:36.871075 
+
+ r3ve1ve,     sa,        <Channel name: shadowkekw>,       2024-11-07 11:01:57.155938 
+
+ r3ve1ve,     ue,        <Channel name: shadowkekw>,       2024-11-07 11:03:21.810113 

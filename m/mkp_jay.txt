@@ -1,0 +1,8 @@
+
+ mkp_jay,     how  do u fix input dleay this season its so bad,        <Channel name: mongraal>,       2024-11-07 11:58:40.022681 
+
+ mkp_jay,     !colourblind,        <Channel name: mongraal>,       2024-11-07 12:06:03.027760 
+
+ mkp_jay,     !colourbindsetting,        <Channel name: mongraal>,       2024-11-07 12:06:31.715108 
+
+ mkp_jay,     !resolution,        <Channel name: mongraal>,       2024-11-07 12:12:12.036953 

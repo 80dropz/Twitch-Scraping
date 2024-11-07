@@ -1,0 +1,8 @@
+
+ pridsfv,     !KEYBOARD,        <Channel name: mongraal>,       2024-11-07 10:01:50.456468 
+
+ pridsfv,     !crosshair,        <Channel name: mongraal>,       2024-11-07 10:02:14.738345 
+
+ pridsfv,     !colourblind,        <Channel name: mongraal>,       2024-11-07 11:44:04.167959 
+
+ pridsfv,     !brightness,        <Channel name: mongraal>,       2024-11-07 11:44:08.824128 

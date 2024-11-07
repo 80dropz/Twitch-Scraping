@@ -1,0 +1,16 @@
+
+ w009d,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:08:14.194234 
+
+ w009d,     GIFT 100 S,        <Channel name: kaicenat>,       2024-11-07 12:08:21.434615 
+
+ w009d,     GIFT 100 S S,        <Channel name: kaicenat>,       2024-11-07 12:08:23.096254 
+
+ w009d,     GIFT 100 S S S,        <Channel name: kaicenat>,       2024-11-07 12:08:24.460604 
+
+ w009d,     SOMEONE DONATE 200,        <Channel name: kaicenat>,       2024-11-07 12:16:16.499075 
+
+ w009d,     omE,        <Channel name: kaicenat>,       2024-11-07 12:26:23.318968 
+
+ w009d,     owoh,        <Channel name: kaicenat>,       2024-11-07 12:26:48.464107 
+
+ w009d,     L EARTH QUAKE,        <Channel name: kaicenat>,       2024-11-07 12:51:42.048358 

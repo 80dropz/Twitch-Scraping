@@ -1,0 +1,12 @@
+
+ clxmpz2lxgit,     camera,        <Channel name: kaicenat>,       2024-11-07 10:43:52.607575 
+
+ clxmpz2lxgit,     cam,        <Channel name: kaicenat>,       2024-11-07 10:43:55.911279 
+
+ clxmpz2lxgit,     bruh,        <Channel name: kaicenat>,       2024-11-07 10:43:57.887412 
+
+ clxmpz2lxgit,     loook,        <Channel name: kaicenat>,       2024-11-07 10:44:01.449278 
+
+ clxmpz2lxgit,     at,        <Channel name: kaicenat>,       2024-11-07 10:44:04.792496 
+
+ clxmpz2lxgit,     chat,        <Channel name: kaicenat>,       2024-11-07 10:44:07.279609 

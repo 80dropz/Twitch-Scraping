@@ -1,0 +1,16 @@
+
+ nigsud,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:25:17.684314 
+
+ nigsud,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:26:13.122115 
+
+ nigsud,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:30:48.388339 
+
+ nigsud,     !gambl,        <Channel name: kaicenat>,       2024-11-07 12:32:03.049632 
+
+ nigsud,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:33:41.765498 
+
+ nigsud,     !gamble,        <Channel name: kaicenat>,       2024-11-07 12:38:15.278570 
+
+ nigsud,     !gamble points,        <Channel name: kaicenat>,       2024-11-07 12:39:22.687409 
+
+ nigsud,     !gamble points,        <Channel name: kaicenat>,       2024-11-07 12:40:28.832108 

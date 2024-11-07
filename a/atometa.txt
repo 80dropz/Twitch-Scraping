@@ -1,0 +1,12 @@
+
+ atometa,     wut,        <Channel name: kaicenat>,       2024-11-07 11:50:21.841296 
+
+ atometa,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:05:55.771470 
+
+ atometa,     NAHH,        <Channel name: kaicenat>,       2024-11-07 13:15:25.371428 
+
+ atometa,     GG NAHH,        <Channel name: kaicenat>,       2024-11-07 13:23:12.070731 
+
+ atometa,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:25:02.163398 
+
+ atometa,     NAHH,        <Channel name: kaicenat>,       2024-11-07 13:26:21.835973 

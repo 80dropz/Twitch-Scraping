@@ -1,0 +1,8 @@
+
+ quad__4,     7,        <Channel name: lacy>,       2024-11-07 12:39:29.466929 
+
+ quad__4,     what a great guy,        <Channel name: lacy>,       2024-11-07 12:44:39.608551 
+
+ quad__4,     no,        <Channel name: lacy>,       2024-11-07 12:45:30.413667 
+
+ quad__4,     why not,        <Channel name: lacy>,       2024-11-07 13:03:19.726452 

@@ -1,0 +1,158 @@
+
+ extramire,     oh,        <Channel name: shadowkekw>,       2024-11-07 10:35:53.947678 
+
+ extramire,     aga,        <Channel name: shadowkekw>,       2024-11-07 10:36:35.908600 
+
+ extramire,     da,        <Channel name: shadowkekw>,       2024-11-07 10:36:51.144917 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:18.227405 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:37:26.814545 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:38:19.681235 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.685801 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:39:13.602014 
+
+ extramire,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.107349 
+
+ extramire,     ska,        <Channel name: shadowkekw>,       2024-11-07 10:39:36.445299 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:39:44.950266 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:40:12.769023 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:40.427416 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.448269 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:22.053988 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:41:34.042532 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.410361 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.493832 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.230674 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:42:46.617359 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:43:07.545065 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:43:22.634894 
+
+ extramire,     ez,        <Channel name: shadowkekw>,       2024-11-07 10:47:17.016440 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:49:31.464306 
+
+ extramire,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.128850 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:28.810545 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:51:11.314344 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.152571 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:52:01.766829 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.588681 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:04.019233 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:56.847497 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:56:28.342246 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:56:44.498413 
+
+ extramire,     eh,        <Channel name: shadowkekw>,       2024-11-07 10:57:18.245899 
+
+ extramire,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.231128 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:58:53.572480 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 10:59:31.539402 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:00:46.004149 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:01:25.621651 
+
+ extramire,     g,        <Channel name: shadowkekw>,       2024-11-07 11:01:38.044673 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:02:42.033288 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:04:39.503940 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:06.754184 
+
+ extramire,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:06:11.275340 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:27.743427 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:06:29.924826 
+
+ extramire,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:06:34.065680 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:59.330260 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:07:28.251218 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.941530 
+
+ extramire,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:08:29.183312 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.591466 
+
+ extramire,     au,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.575262 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:48.328601 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:10:49.559484 
+
+ extramire,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.752824 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.512128 
+
+ extramire,     br,        <Channel name: shadowkekw>,       2024-11-07 11:11:29.678809 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:11:56.399763 
+
+ extramire,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:12.807932 
+
+ extramire,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:12:18.050381 
+
+ extramire,     au,        <Channel name: shadowkekw>,       2024-11-07 11:12:23.411941 
+
+ extramire,     by,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.808742 
+
+ extramire,     au,        <Channel name: shadowkekw>,       2024-11-07 11:13:30.549223 
+
+ extramire,     hk,        <Channel name: shadowkekw>,       2024-11-07 11:13:44.034351 
+
+ extramire,     0,        <Channel name: shadowkekw>,       2024-11-07 11:14:45.688431 
+
+ extramire,     25,        <Channel name: shadowkekw>,       2024-11-07 11:35:04.654405 
+
+ extramire,     25 25,        <Channel name: shadowkekw>,       2024-11-07 11:35:07.510208 
+
+ extramire,     hz,        <Channel name: shadowkekw>,       2024-11-07 11:39:34.543138 
+
+ extramire,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:41:04.425026 
+
+ extramire,     @shadowkekw HI MASYA,        <Channel name: kaicenat>,       2024-11-07 11:41:44.492722 
+
+ extramire,     )),        <Channel name: shadowkekw>,       2024-11-07 11:41:59.892596 
+
+ extramire,     @shadowkekw SOSAL?,        <Channel name: kaicenat>,       2024-11-07 11:42:45.996883 
+
+ extramire,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:30.847720 
+
+ extramire,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:45.032308 
+
+ extramire,     zaza,        <Channel name: shadowkekw>,       2024-11-07 12:11:41.256498 
+
+ extramire,     )),        <Channel name: shadowkekw>,       2024-11-07 12:18:47.613703 
+
+ extramire,     )),        <Channel name: shadowkekw>,       2024-11-07 12:36:24.443565 

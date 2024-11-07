@@ -1,0 +1,8 @@
+
+ taee_00,     wtf,        <Channel name: kaicenat>,       2024-11-07 11:20:05.112553 
+
+ taee_00,     w npc,        <Channel name: kaicenat>,       2024-11-07 11:23:10.281120 
+
+ taee_00,     w npc.,        <Channel name: kaicenat>,       2024-11-07 11:23:20.983264 
+
+ taee_00,     those,        <Channel name: kaicenat>,       2024-11-07 11:23:55.524629 

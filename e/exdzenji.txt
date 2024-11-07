@@ -14,3 +14,7 @@
  exdzenji,     ww,        <Channel name: mongraal>,       2024-11-07 09:37:55.506032 
 
  exdzenji,     w,        <Channel name: mongraal>,       2024-11-07 09:37:56.454732 
+
+ exdzenji,     ***,        <Channel name: mongraal>,       2024-11-07 10:29:25.030286 
+
+ exdzenji,     ***,        <Channel name: mongraal>,       2024-11-07 10:30:15.626865 

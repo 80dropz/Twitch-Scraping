@@ -1,0 +1,8 @@
+
+ miniom_potato,     !cashcup,        <Channel name: mongraal>,       2024-11-07 09:55:16.311762 
+
+ miniom_potato,     !lb,        <Channel name: mongraal>,       2024-11-07 09:55:27.530052 
+
+ miniom_potato,     !eor,        <Channel name: mongraal>,       2024-11-07 09:56:24.811508 
+
+ miniom_potato,     !time,        <Channel name: mongraal>,       2024-11-07 09:56:40.734202 

@@ -1,0 +1,28 @@
+
+ maximbourne,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.375683 
+
+ maximbourne,     Ph,        <Channel name: shadowkekw>,       2024-11-07 10:20:16.405880 
+
+ maximbourne,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:22:30.934580 
+
+ maximbourne,     Netherland,        <Channel name: shadowkekw>,       2024-11-07 10:27:43.532389 
+
+ maximbourne,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:28.875824 
+
+ maximbourne,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:28:50.935348 
+
+ maximbourne,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.798111 
+
+ maximbourne,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.064202 
+
+ maximbourne,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.390610 
+
+ maximbourne,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.983829 
+
+ maximbourne,     Lebanon,        <Channel name: shadowkekw>,       2024-11-07 10:49:51.437141 
+
+ maximbourne,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:51:00.722550 
+
+ maximbourne,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:07:53.976468 
+
+ maximbourne,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 11:14:44.409371 

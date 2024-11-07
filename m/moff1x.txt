@@ -14,3 +14,59 @@
  moff1x,     ((,        <Channel name: shadowkekw>,       2024-11-07 09:42:44.114080 
 
  moff1x,     OH,        <Channel name: shadowkekw>,       2024-11-07 09:43:26.964417 
+
+ moff1x,     0-0,        <Channel name: shadowkekw>,       2024-11-07 09:52:47.535126 
+
+ moff1x,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:53:14.611800 
+
+ moff1x,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:24.084377 
+
+ moff1x,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:53:27.589310 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 09:54:25.599829 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 09:55:20.427123 
+
+ moff1x,     00,        <Channel name: shadowkekw>,       2024-11-07 09:56:52.553857 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 09:56:53.746460 
+
+ moff1x,     322,        <Channel name: shadowkekw>,       2024-11-07 09:58:56.344831 
+
+ moff1x,     28\,        <Channel name: shadowkekw>,       2024-11-07 10:00:43.560820 
+
+ moff1x,     28,        <Channel name: shadowkekw>,       2024-11-07 10:00:45.049579 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 10:01:13.462021 
+
+ moff1x,     norwey,        <Channel name: shadowkekw>,       2024-11-07 10:08:36.066516 
+
+ moff1x,     2020,        <Channel name: shadowkekw>,       2024-11-07 11:49:42.644680 
+
+ moff1x,     ww,        <Channel name: shadowkekw>,       2024-11-07 11:50:23.461218 
+
+ moff1x,     wow,        <Channel name: shadowkekw>,       2024-11-07 11:52:07.305520 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 11:54:41.750928 
+
+ moff1x,     hi,        <Channel name: shadowkekw>,       2024-11-07 11:54:49.334111 
+
+ moff1x,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:35.483961 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 12:01:54.853477 
+
+ moff1x,     112,        <Channel name: shadowkekw>,       2024-11-07 12:02:54.962551 
+
+ moff1x,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:57.665237 
+
+ moff1x,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:04:29.729716 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 12:06:49.073827 
+
+ moff1x,     900,        <Channel name: shadowkekw>,       2024-11-07 12:07:35.331031 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 12:19:21.991601 
+
+ moff1x,     )),        <Channel name: shadowkekw>,       2024-11-07 12:35:27.607062 
+
+ moff1x,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:54:59.101581 

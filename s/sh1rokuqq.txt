@@ -1,0 +1,348 @@
+
+ sh1rokuqq,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:06:58.275180 
+
+ sh1rokuqq,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:07:15.265300 
+
+ sh1rokuqq,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:07:43.504681 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:06.083737 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:10:18.097291 
+
+ sh1rokuqq,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:33.814435 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:54.445203 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:11:34.945156 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.987250 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:13:18.876455 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:13:21.591832 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:13:40.595004 
+
+ sh1rokuqq,     Mexiko,        <Channel name: shadowkekw>,       2024-11-07 10:13:48.765477 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:14:02.247983 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:14:10.377346 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.705234 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:14:38.788808 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:02.568356 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:16:00.532496 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:19:27.160027 
+
+ sh1rokuqq,     Ukraine\,        <Channel name: shadowkekw>,       2024-11-07 10:19:47.710826 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:20:09.352814 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:20:23.332931 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:20:42.579859 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:20:44.104884 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:01.141464 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:21:03.562615 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:19.723373 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:21:20.952258 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:21:42.850009 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:21:43.705065 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:00.448576 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:01.304005 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:18.045206 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:19.452873 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:44.818140 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:22:45.472129 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:23:11.119337 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:23:11.710526 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:24:07.241517 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:24:08.275879 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:24:34.301011 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:24:35.250845 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:25:07.834803 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:25:08.555850 
+
+ sh1rokuqq,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:25:17.000280 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:25:26.692094 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:25:27.510543 
+
+ sh1rokuqq,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:38.877174 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:25:48.012141 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:25:48.737956 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:26:02.753319 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:26:03.690833 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:26:31.904311 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:26:33.017927 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:26:47.548020 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:26:48.326266 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:27:13.157501 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:13.969091 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:27:28.320173 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:28.898694 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:28:20.706364 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:28:21.627652 
+
+ sh1rokuqq,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:29:03.965135 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:29:20.523217 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:29:21.237430 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:29:39.304825 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:29:40.442422 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:04.794312 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:30:06.251576 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:27.883983 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:30:28.747526 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:42.504570 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:30:42.943850 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:31:02.546532 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:03.552738 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:31:22.292826 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:22.993853 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:31:42.205397 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:42.928032 
+
+ sh1rokuqq,     Zimbaba,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.239811 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:02.238247 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:32:03.207669 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:20.438431 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.470960 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:41.202855 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:32:42.707903 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:00.446697 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:33:01.341254 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:29.687746 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:33:30.510285 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:33:58.249090 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:33:59.273874 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:34:38.750142 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:34:40.087176 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:04.991436 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:35:05.846575 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:29.393625 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:35:30.219957 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.808878 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:35:56.024231 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:36:16.413081 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:36:17.258638 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:36:36.737136 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.889884 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.686813 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:31.184641 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:37:52.700535 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:53.594679 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:16.559181 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:38:17.320334 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:01.857536 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:39:02.561346 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:39:16.667697 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:39:41.964394 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:40:09.748068 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:11.179718 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:40:36.846265 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:38.065253 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.300132 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:40:56.563502 
+
+ sh1rokuqq,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:41:06.617598 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:41:18.570717 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:41:19.721838 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.895115 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:41:41.112247 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:42:04.920368 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:42:05.866116 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:42:18.194917 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:42:45.162362 
+
+ sh1rokuqq,     FranceFrance,        <Channel name: shadowkekw>,       2024-11-07 10:43:04.839293 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:43:20.338333 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.917046 
+
+ sh1rokuqq,     FranceUkraine,        <Channel name: shadowkekw>,       2024-11-07 10:43:49.492168 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:43:50.572772 
+
+ sh1rokuqq,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:44:03.724570 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:15.117802 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:44:16.501943 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:44:39.969494 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.468548 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:45:01.212173 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:45:24.045725 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:45:45.582300 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:46:00.796815 
+
+ sh1rokuqq,     France,        <Channel name: shadowkekw>,       2024-11-07 10:46:19.228431 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:46:41.038029 
+
+ sh1rokuqq,     france,        <Channel name: shadowkekw>,       2024-11-07 10:46:59.134472 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:47:19.510108 
+
+ sh1rokuqq,     france,        <Channel name: shadowkekw>,       2024-11-07 10:47:36.951106 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:02.545464 
+
+ sh1rokuqq,     france,        <Channel name: shadowkekw>,       2024-11-07 10:48:20.263687 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:38.556072 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:48:53.892408 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:50:13.701977 
+
+ sh1rokuqq,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.710264 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:51:32.714459 
+
+ sh1rokuqq,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:52:22.010435 
+
+ sh1rokuqq,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:53:19.987040 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:53:40.847584 
+
+ sh1rokuqq,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:54:02.475403 
+
+ sh1rokuqq,     zimbaba,        <Channel name: shadowkekw>,       2024-11-07 10:54:35.721979 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:55:17.576804 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:55:52.151936 
+
+ sh1rokuqq,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:56:19.464954 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:56:40.248644 
+
+ sh1rokuqq,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.585883 
+
+ sh1rokuqq,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:57:19.955163 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:58:03.135195 
+
+ sh1rokuqq,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:00:41.849250 
+
+ sh1rokuqq,     italy,        <Channel name: shadowkekw>,       2024-11-07 11:03:02.528332 
+
+ sh1rokuqq,     gg,        <Channel name: shadowkekw>,       2024-11-07 11:04:42.866080 
+
+ sh1rokuqq,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:05:23.514810 
+
+ sh1rokuqq,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:53:31.715885 
+
+ sh1rokuqq,     )),        <Channel name: shadowkekw>,       2024-11-07 11:53:40.817058 

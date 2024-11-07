@@ -1,0 +1,32 @@
+
+ ravni_i,     !wr,        <Channel name: kaicenat>,       2024-11-07 10:11:55.906473 
+
+ ravni_i,     !join,        <Channel name: kaicenat>,       2024-11-07 10:15:10.136553 
+
+ ravni_i,     !points,        <Channel name: kaicenat>,       2024-11-07 10:15:36.904655 
+
+ ravni_i,     @shameelwagheed do it yourself :D,        <Channel name: kaicenat>,       2024-11-07 10:20:49.609116 
+
+ ravni_i,     @chefseiza do it yourself my guy xD,        <Channel name: kaicenat>,       2024-11-07 10:28:43.709457 
+
+ ravni_i,     !points,        <Channel name: kaicenat>,       2024-11-07 10:32:40.374855 
+
+ ravni_i,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:25:39.007485 
+
+ ravni_i,     @FlashInTime allright you start,        <Channel name: kaicenat>,       2024-11-07 12:23:30.273643 
+
+ ravni_i,     @HarSwizzy i will,        <Channel name: kaicenat>,       2024-11-07 12:24:36.401902 
+
+ ravni_i,     @FlashInTime did you gift a sub? didnt see it,        <Channel name: kaicenat>,       2024-11-07 12:26:35.090328 
+
+ ravni_i,     @FlashInTime fair play,        <Channel name: kaicenat>,       2024-11-07 12:27:40.284943 
+
+ ravni_i,     @flashintime we did our part, now its up to the rest of the chat LUL,        <Channel name: kaicenat>,       2024-11-07 12:29:49.544223 
+
+ ravni_i,     @FlashInTime facts LUL,        <Channel name: kaicenat>,       2024-11-07 12:31:04.854002 
+
+ ravni_i,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 12:34:53.632415 
+
+ ravni_i,     !points,        <Channel name: kaicenat>,       2024-11-07 12:36:27.276390 
+
+ ravni_i,     @Denofu you do it. no balls,        <Channel name: kaicenat>,       2024-11-07 12:39:04.206998 

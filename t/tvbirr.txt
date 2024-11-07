@@ -1,0 +1,6 @@
+
+ tvbirr,     100,        <Channel name: kaicenat>,       2024-11-07 12:58:31.866829 
+
+ tvbirr,     1000,        <Channel name: kaicenat>,       2024-11-07 12:58:51.973108 
+
+ tvbirr,     100,        <Channel name: kaicenat>,       2024-11-07 12:58:59.078137 

@@ -1,0 +1,26 @@
+
+ dima2d,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:26.113682 
+
+ dima2d,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:53:53.720562 
+
+ dima2d,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.282437 
+
+ dima2d,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:55:25.418044 
+
+ dima2d,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:56:33.780959 
+
+ dima2d,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:57:30.856524 
+
+ dima2d,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:14.430398 
+
+ dima2d,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.111096 
+
+ dima2d,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:01:53.340824 
+
+ dima2d,     Nz,        <Channel name: shadowkekw>,       2024-11-07 11:03:11.423743 
+
+ dima2d,     Pl,        <Channel name: shadowkekw>,       2024-11-07 11:04:36.781948 
+
+ dima2d,     India,        <Channel name: shadowkekw>,       2024-11-07 11:08:35.033030 
+
+ dima2d,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:37.721783 

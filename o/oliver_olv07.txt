@@ -1,0 +1,10 @@
+
+ oliver_olv07,     !PV,        <Channel name: mongraal>,       2024-11-07 12:54:44.327436 
+
+ oliver_olv07,     !PC,        <Channel name: mongraal>,       2024-11-07 12:54:50.381085 
+
+ oliver_olv07,     !SPECS,        <Channel name: mongraal>,       2024-11-07 12:55:09.918460 
+
+ oliver_olv07,     !pc,        <Channel name: mongraal>,       2024-11-07 12:55:53.682132 
+
+ oliver_olv07,     specs,        <Channel name: mongraal>,       2024-11-07 12:56:19.192348 

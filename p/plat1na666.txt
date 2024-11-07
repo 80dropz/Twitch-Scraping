@@ -1,0 +1,4 @@
+
+ plat1na666,     !settings,        <Channel name: mrlust>,       2024-11-07 11:30:19.098383 
+
+ plat1na666,     Is that directX11?,        <Channel name: mrlust>,       2024-11-07 11:32:15.090901 

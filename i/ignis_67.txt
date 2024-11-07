@@ -1,0 +1,4 @@
+
+ ignis_67,     !gamble all,        <Channel name: clix>,       2024-11-07 11:40:06.491568 
+
+ ignis_67,     !command,        <Channel name: clix>,       2024-11-07 11:40:32.330315 

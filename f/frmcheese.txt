@@ -1,0 +1,4 @@
+
+ frmcheese,     switch camera,        <Channel name: kaicenat>,       2024-11-07 10:43:07.991474 
+
+ frmcheese,     switch cam,        <Channel name: kaicenat>,       2024-11-07 10:43:30.797419 

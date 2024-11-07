@@ -1,0 +1,18 @@
+
+ jb_boy013,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 09:55:12.204951 
+
+ jb_boy013,     !roulette 9000,        <Channel name: kaicenat>,       2024-11-07 09:56:11.335153 
+
+ jb_boy013,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:56:21.963136 
+
+ jb_boy013,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:56:52.099246 
+
+ jb_boy013,     !roulette 21,        <Channel name: kaicenat>,       2024-11-07 09:57:06.336477 
+
+ jb_boy013,     !roulette 42,        <Channel name: kaicenat>,       2024-11-07 09:57:26.561666 
+
+ jb_boy013,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:58:01.204099 
+
+ jb_boy013,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:58:27.448073 
+
+ jb_boy013,     !point,        <Channel name: kaicenat>,       2024-11-07 10:00:38.807126 

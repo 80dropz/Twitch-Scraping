@@ -1,0 +1,72 @@
+
+ aquanil1,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:45:14.651775 
+
+ aquanil1,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:07.925416 
+
+ aquanil1,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:47:09.286767 
+
+ aquanil1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:47:26.264206 
+
+ aquanil1,     Netherlands,        <Channel name: shadowkekw>,       2024-11-07 10:47:48.612679 
+
+ aquanil1,     Sweaden,        <Channel name: shadowkekw>,       2024-11-07 10:49:19.642774 
+
+ aquanil1,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:49:46.411701 
+
+ aquanil1,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:33.957283 
+
+ aquanil1,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:50:53.014577 
+
+ aquanil1,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.125605 
+
+ aquanil1,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:05.321840 
+
+ aquanil1,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:52:25.090314 
+
+ aquanil1,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:52:43.156344 
+
+ aquanil1,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.328242 
+
+ aquanil1,     Chilie,        <Channel name: shadowkekw>,       2024-11-07 10:54:40.581132 
+
+ aquanil1,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:55:05.117636 
+
+ aquanil1,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:55:59.205336 
+
+ aquanil1,     India,        <Channel name: shadowkekw>,       2024-11-07 10:56:27.659876 
+
+ aquanil1,     Brasil,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.905729 
+
+ aquanil1,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:58:26.451158 
+
+ aquanil1,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:59:46.414999 
+
+ aquanil1,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.632436 
+
+ aquanil1,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.027322 
+
+ aquanil1,     India,        <Channel name: shadowkekw>,       2024-11-07 11:03:09.359473 
+
+ aquanil1,     US,        <Channel name: shadowkekw>,       2024-11-07 11:04:05.783169 
+
+ aquanil1,     Austria,        <Channel name: shadowkekw>,       2024-11-07 11:05:05.223835 
+
+ aquanil1,     Greece,        <Channel name: shadowkekw>,       2024-11-07 11:06:04.849974 
+
+ aquanil1,     China,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.207995 
+
+ aquanil1,     US,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.381334 
+
+ aquanil1,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.928067 
+
+ aquanil1,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.869165 
+
+ aquanil1,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:30.081484 
+
+ aquanil1,     France,        <Channel name: shadowkekw>,       2024-11-07 11:11:17.261656 
+
+ aquanil1,     )),        <Channel name: shadowkekw>,       2024-11-07 11:11:55.150580 
+
+ aquanil1,     France,        <Channel name: shadowkekw>,       2024-11-07 11:12:51.912520 
+
+ aquanil1,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:14:28.694775 

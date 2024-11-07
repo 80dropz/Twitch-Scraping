@@ -1,0 +1,12 @@
+
+ ne_scene,     What mission,        <Channel name: kaicenat>,       2024-11-07 10:22:10.503514 
+
+ ne_scene,     This one,        <Channel name: kaicenat>,       2024-11-07 10:22:58.550749 
+
+ ne_scene,     LOL,        <Channel name: kaicenat>,       2024-11-07 10:23:55.483215 
+
+ ne_scene,     INSANE,        <Channel name: kaicenat>,       2024-11-07 10:24:01.164566 
+
+ ne_scene,     My dude has dialogue for days I'm ded lol,        <Channel name: kaicenat>,       2024-11-07 10:24:28.323973 
+
+ ne_scene,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 10:25:18.571959 

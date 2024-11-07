@@ -1,0 +1,4 @@
+
+ adx0l,     GET UPO,        <Channel name: kaicenat>,       2024-11-07 11:30:23.262523 
+
+ adx0l,     X,        <Channel name: kaicenat>,       2024-11-07 11:35:12.623329 

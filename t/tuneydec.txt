@@ -1,0 +1,8 @@
+
+ tuneydec,     30,        <Channel name: shadowkekw>,       2024-11-07 10:21:14.453898 
+
+ tuneydec,     1-0000,        <Channel name: shadowkekw>,       2024-11-07 10:32:18.060698 
+
+ tuneydec,     ???,        <Channel name: shadowkekw>,       2024-11-07 11:59:20.107636 
+
+ tuneydec,     ....\,        <Channel name: shadowkekw>,       2024-11-07 12:09:23.850459 

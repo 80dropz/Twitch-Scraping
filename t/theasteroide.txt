@@ -1,0 +1,4 @@
+
+ theasteroide,     !config,        <Channel name: mongraal>,       2024-11-07 12:23:02.506246 
+
+ theasteroide,     !pc,        <Channel name: mongraal>,       2024-11-07 12:23:15.633404 

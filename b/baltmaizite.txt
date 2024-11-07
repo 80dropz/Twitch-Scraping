@@ -1,0 +1,4 @@
+
+ baltmaizite,     !cheer 100,        <Channel name: kaicenat>,       2024-11-07 11:36:50.956492 
+
+ baltmaizite,     cheer100,        <Channel name: kaicenat>,       2024-11-07 11:37:22.501946 

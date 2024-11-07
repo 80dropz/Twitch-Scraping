@@ -118,3 +118,399 @@
  scorpyl2,     8 am,        <Channel name: clix>,       2024-11-07 09:10:49.051922 
 
  scorpyl2,     !downtime,        <Channel name: jasontheween>,       2024-11-07 09:42:48.402142 
+
+ scorpyl2,     dude what is ur name,        <Channel name: jasontheween>,       2024-11-07 10:58:22.599313 
+
+ scorpyl2,     okay,        <Channel name: lacy>,       2024-11-07 12:04:49.529737 
+
+ scorpyl2,     im ready,        <Channel name: lacy>,       2024-11-07 12:04:51.814810 
+
+ scorpyl2,     u can go l1ve,        <Channel name: lacy>,       2024-11-07 12:05:00.584623 
+
+ scorpyl2,     hey man,        <Channel name: lacy>,       2024-11-07 12:05:54.526836 
+
+ scorpyl2,     fein feni fein,        <Channel name: clix>,       2024-11-07 12:10:24.146425 
+
+ scorpyl2,     hola,        <Channel name: clix>,       2024-11-07 12:10:39.210552 
+
+ scorpyl2,     taeyeo9Wave,        <Channel name: clix>,       2024-11-07 12:10:41.812022 
+
+ scorpyl2,     taeyeo9Hey,        <Channel name: clix>,       2024-11-07 12:10:49.374523 
+
+ scorpyl2,     KonCha,        <Channel name: clix>,       2024-11-07 12:10:58.290602 
+
+ scorpyl2,     fsmWave,        <Channel name: clix>,       2024-11-07 12:11:02.663475 
+
+ scorpyl2,     clixWave,        <Channel name: clix>,       2024-11-07 12:11:05.948494 
+
+ scorpyl2,     elisWave,        <Channel name: clix>,       2024-11-07 12:11:09.167605 
+
+ scorpyl2,     guraWave,        <Channel name: clix>,       2024-11-07 12:11:12.891413 
+
+ scorpyl2,     nnysWave,        <Channel name: clix>,       2024-11-07 12:11:19.674094 
+
+ scorpyl2,     clixHey,        <Channel name: clix>,       2024-11-07 12:11:42.564707 
+
+ scorpyl2,     scorpy14K,        <Channel name: clix>,       2024-11-07 12:11:49.819482 
+
+ scorpyl2,     taeyeo9Kiss,        <Channel name: clix>,       2024-11-07 12:11:53.185156 
+
+ scorpyl2,     fsmKiss,        <Channel name: clix>,       2024-11-07 12:11:55.782024 
+
+ scorpyl2,     elisKissu,        <Channel name: clix>,       2024-11-07 12:12:01.982788 
+
+ scorpyl2,     fsmGothKiss,        <Channel name: clix>,       2024-11-07 12:12:09.572998 
+
+ scorpyl2,     he got farmed for it,        <Channel name: clix>,       2024-11-07 12:12:29.565861 
+
+ scorpyl2,     el o el,        <Channel name: clix>,       2024-11-07 12:12:32.312057 
+
+ scorpyl2,     scorpy44,        <Channel name: clix>,       2024-11-07 12:12:45.957070 
+
+ scorpyl2,     @NotMarkX su pfatty,        <Channel name: clix>,       2024-11-07 12:13:54.711258 
+
+ scorpyl2,     @Jackon11 2023 fo llower lmaoo,        <Channel name: clix>,       2024-11-07 12:15:43.039025 
+
+ scorpyl2,     pipe down,        <Channel name: clix>,       2024-11-07 12:15:46.943104 
+
+ scorpyl2,     @Jackon11 no one knows you,        <Channel name: clix>,       2024-11-07 12:15:56.210387 
+
+ scorpyl2,     @Jackon11 how many people say hi to u when u type in chat? O,        <Channel name: clix>,       2024-11-07 12:16:21.269907 
+
+ scorpyl2,     yea they do,        <Channel name: clix>,       2024-11-07 12:16:27.874509 
+
+ scorpyl2,     nah im full ego now,        <Channel name: clix>,       2024-11-07 12:16:34.202188 
+
+ scorpyl2,     @Jackon11 did u know i am a m0dd for r0n,        <Channel name: clix>,       2024-11-07 12:17:02.050535 
+
+ scorpyl2,     and adadpt,        <Channel name: clix>,       2024-11-07 12:17:05.112186 
+
+ scorpyl2,     and xqc vip,        <Channel name: clix>,       2024-11-07 12:17:10.330100 
+
+ scorpyl2,     fuck u,        <Channel name: clix>,       2024-11-07 12:17:14.008502 
+
+ scorpyl2,     ass hat,        <Channel name: clix>,       2024-11-07 12:17:16.318397 
+
+ scorpyl2,     no one knows u,        <Channel name: clix>,       2024-11-07 12:17:19.057047 
+
+ scorpyl2,     dont @ me ever again,        <Channel name: clix>,       2024-11-07 12:17:24.632536 
+
+ scorpyl2,     does xqc click on ur tiktoks?,        <Channel name: clix>,       2024-11-07 12:17:31.715066 
+
+ scorpyl2,     no,        <Channel name: clix>,       2024-11-07 12:17:33.625663 
+
+ scorpyl2,     did u rratio silkjy on twitter,        <Channel name: clix>,       2024-11-07 12:18:00.635950 
+
+ scorpyl2,     no,        <Channel name: clix>,       2024-11-07 12:18:02.016018 
+
+ scorpyl2,     did u get a fuck you from the whole faze roster on twitter?,        <Channel name: clix>,       2024-11-07 12:18:16.945547 
+
+ scorpyl2,     no,        <Channel name: clix>,       2024-11-07 12:18:18.791323 
+
+ scorpyl2,     why arent u typing,        <Channel name: clix>,       2024-11-07 12:18:49.337789 
+
+ scorpyl2,     ass hat,        <Channel name: clix>,       2024-11-07 12:19:03.875689 
+
+ scorpyl2,     ome344,        <Channel name: clix>,       2024-11-07 12:20:04.767296 
+
+ scorpyl2,     ome44,        <Channel name: clix>,       2024-11-07 12:20:06.742251 
+
+ scorpyl2,     im the coolest loser,        <Channel name: clix>,       2024-11-07 12:20:42.933940 
+
+ scorpyl2,     that was the cringies shi ive said ngl,        <Channel name: clix>,       2024-11-07 12:25:02.929902 
+
+ scorpyl2,     hes just sitting there with his pump out,        <Channel name: clix>,       2024-11-07 12:27:07.900572 
+
+ scorpyl2,     like a how,        <Channel name: clix>,       2024-11-07 12:27:11.912546 
+
+ scorpyl2,     yo,        <Channel name: lacy>,       2024-11-07 12:27:27.558866 
+
+ scorpyl2,     hi lacy,        <Channel name: lacy>,       2024-11-07 12:27:37.930729 
+
+ scorpyl2,     oh nah,        <Channel name: lacy>,       2024-11-07 12:31:36.154470 
+
+ scorpyl2,     wiat thats fake decent,        <Channel name: lacy>,       2024-11-07 12:31:45.123086 
+
+ scorpyl2,     wear it,        <Channel name: lacy>,       2024-11-07 12:32:02.331180 
+
+ scorpyl2,     @jdxmon dmss,        <Channel name: lacy>,       2024-11-07 12:32:15.602115 
+
+ scorpyl2,     tell his cousin to fuck off,        <Channel name: lacy>,       2024-11-07 12:32:24.997695 
+
+ scorpyl2,     wear it,        <Channel name: lacy>,       2024-11-07 12:33:22.105381 
+
+ scorpyl2,     put it on,        <Channel name: lacy>,       2024-11-07 12:33:23.994349 
+
+ scorpyl2,     can u put it on,        <Channel name: lacy>,       2024-11-07 12:33:43.008344 
+
+ scorpyl2,     ty jd,        <Channel name: lacy>,       2024-11-07 12:34:18.849066 
+
+ scorpyl2,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:34:30.657097 
+
+ scorpyl2,     aww,        <Channel name: lacy>,       2024-11-07 12:34:41.274339 
+
+ scorpyl2,     nah w ac milan,        <Channel name: lacy>,       2024-11-07 12:34:58.738322 
+
+ scorpyl2,     theres no way ur that delayed,        <Channel name: lacy>,       2024-11-07 12:36:31.279729 
+
+ scorpyl2,     ?,        <Channel name: lacy>,       2024-11-07 12:37:41.200810 
+
+ scorpyl2,     get a sled and ride with her,        <Channel name: lacy>,       2024-11-07 12:38:35.707542 
+
+ scorpyl2,     u copied going to the mall from adin,        <Channel name: lacy>,       2024-11-07 12:39:09.479447 
+
+ scorpyl2,     u copied going to the mall from adin,        <Channel name: lacy>,       2024-11-07 12:39:38.260616 
+
+ scorpyl2,     scorpy14Pray grey legging linaa,        <Channel name: lacy>,       2024-11-07 12:40:38.780765 
+
+ scorpyl2,     elisClassic,        <Channel name: lacy>,       2024-11-07 12:41:36.366472 
+
+ scorpyl2,     she should get lost and find her way to my house ngl,        <Channel name: lacy>,       2024-11-07 12:42:03.642074 
+
+ scorpyl2,     whys bro trembling,        <Channel name: lacy>,       2024-11-07 12:42:37.664969 
+
+ scorpyl2,     oh nah,        <Channel name: lacy>,       2024-11-07 12:42:54.250431 
+
+ scorpyl2,     lacy thugs moving different,        <Channel name: lacy>,       2024-11-07 12:43:50.590759 
+
+ scorpyl2,     dude that was weak asf,        <Channel name: lacy>,       2024-11-07 12:44:24.518005 
+
+ scorpyl2,     dude play with him?,        <Channel name: lacy>,       2024-11-07 12:44:41.084674 
+
+ scorpyl2,     dude play fort with him,        <Channel name: lacy>,       2024-11-07 12:45:16.402089 
+
+ scorpyl2,     ive tried scorpy14Mhm,        <Channel name: lacy>,       2024-11-07 12:45:55.292483 
+
+ scorpyl2,     @hxtur_ ?? LMFAO,        <Channel name: lacy>,       2024-11-07 12:46:21.413979 
+
+ scorpyl2,     haha,        <Channel name: lacy>,       2024-11-07 12:46:46.227932 
+
+ scorpyl2,     @sayluhh taeyeo9Wave heyyaa,        <Channel name: lacy>,       2024-11-07 12:47:09.249790 
+
+ scorpyl2,     great now that ur herew,        <Channel name: lacy>,       2024-11-07 12:47:43.418986 
+
+ scorpyl2,     Cinema DREW,        <Channel name: lacy>,       2024-11-07 12:50:11.549367 
+
+ scorpyl2,     Cinema DREW,        <Channel name: lacy>,       2024-11-07 12:50:18.524553 
+
+ scorpyl2,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:50:26.111476 
+
+ scorpyl2,     ......,        <Channel name: lacy>,       2024-11-07 12:51:20.309419 
+
+ scorpyl2,     ......,        <Channel name: lacy>,       2024-11-07 12:51:22.164047 
+
+ scorpyl2,     leave her alone.,        <Channel name: lacy>,       2024-11-07 12:51:54.502558 
+
+ scorpyl2,     leave her alone.,        <Channel name: lacy>,       2024-11-07 12:52:09.632377 
+
+ scorpyl2,     leave her alone,        <Channel name: lacy>,       2024-11-07 12:52:36.791145 
+
+ scorpyl2,     hi,        <Channel name: clix>,       2024-11-07 12:53:11.017200 
+
+ scorpyl2,     NOWAY,        <Channel name: lacy>,       2024-11-07 12:53:40.022171 
+
+ scorpyl2,     hey,        <Channel name: clix>,       2024-11-07 12:53:50.016820 
+
+ scorpyl2,     big snow more like big lacy,        <Channel name: lacy>,       2024-11-07 12:54:15.124046 
+
+ scorpyl2,     escape room with lina ome5,        <Channel name: lacy>,       2024-11-07 12:55:21.351797 
+
+ scorpyl2,     the WHAT,        <Channel name: lacy>,       2024-11-07 12:55:32.124874 
+
+ scorpyl2,     the WHAT ??,        <Channel name: lacy>,       2024-11-07 12:55:35.885199 
+
+ scorpyl2,     does lina use double movement?,        <Channel name: clix>,       2024-11-07 12:56:04.823847 
+
+ scorpyl2,     can u react to the item shop with lina?,        <Channel name: lacy>,       2024-11-07 12:56:26.458624 
+
+ scorpyl2,     can u react to the item shop with lina?,        <Channel name: lacy>,       2024-11-07 12:56:52.952903 
+
+ scorpyl2,     PIECE,        <Channel name: lacy>,       2024-11-07 12:57:08.423341 
+
+ scorpyl2,     can u react to the item shop with lina?,        <Channel name: lacy>,       2024-11-07 12:57:27.956317 
+
+ scorpyl2,     i just closed it,        <Channel name: clix>,       2024-11-07 12:58:20.804808 
+
+ scorpyl2,     here we go,        <Channel name: lacy>,       2024-11-07 12:58:51.210491 
+
+ scorpyl2,     elisClassic,        <Channel name: lacy>,       2024-11-07 12:59:04.937177 
+
+ scorpyl2,     daily ragebait farm,        <Channel name: lacy>,       2024-11-07 12:59:16.442128 
+
+ scorpyl2,     daily ragebait farm,        <Channel name: lacy>,       2024-11-07 12:59:25.472651 
+
+ scorpyl2,     daily ragebait farm,        <Channel name: lacy>,       2024-11-07 12:59:36.105481 
+
+ scorpyl2,     yoxic not posting this bro,        <Channel name: lacy>,       2024-11-07 12:59:59.004310 
+
+ scorpyl2,     Lv,        <Channel name: lacy>,       2024-11-07 13:00:00.247391 
+
+ scorpyl2,     ur spamming this,        <Channel name: lacy>,       2024-11-07 13:00:23.933912 
+
+ scorpyl2,     ur spamming this farm,        <Channel name: lacy>,       2024-11-07 13:00:43.473330 
+
+ scorpyl2,     jorkin,        <Channel name: lacy>,       2024-11-07 13:00:56.423875 
+
+ scorpyl2,     O MA,        <Channel name: lacy>,       2024-11-07 13:01:15.125858 
+
+ scorpyl2,     O MA,        <Channel name: lacy>,       2024-11-07 13:01:17.655447 
+
+ scorpyl2,     O MA,        <Channel name: lacy>,       2024-11-07 13:01:21.605048 
+
+ scorpyl2,     what about u?,        <Channel name: lacy>,       2024-11-07 13:01:31.127745 
+
+ scorpyl2,     will u be in a bikini?,        <Channel name: lacy>,       2024-11-07 13:01:50.812650 
+
+ scorpyl2,     will u be in a bikini?,        <Channel name: lacy>,       2024-11-07 13:01:52.664244 
+
+ scorpyl2,     will u be in a bikini?,        <Channel name: lacy>,       2024-11-07 13:02:02.572056 
+
+ scorpyl2,     scorpy14Pray GREY LEGGINGS,        <Channel name: lacy>,       2024-11-07 13:02:48.861623 
+
+ scorpyl2,     scorpy14Pray GREY LEGGINGS,        <Channel name: lacy>,       2024-11-07 13:02:49.978158 
+
+ scorpyl2,     scorpy14Pray GREY LEGGINGS,        <Channel name: lacy>,       2024-11-07 13:02:51.187359 
+
+ scorpyl2,     lmaoo,        <Channel name: lacy>,       2024-11-07 13:03:10.830498 
+
+ scorpyl2,     OMGGGG,        <Channel name: lacy>,       2024-11-07 13:04:35.502952 
+
+ scorpyl2,     OMGGGG,        <Channel name: lacy>,       2024-11-07 13:04:39.826943 
+
+ scorpyl2,     that was giid,        <Channel name: lacy>,       2024-11-07 13:05:26.543500 
+
+ scorpyl2,     that was goodddd,        <Channel name: lacy>,       2024-11-07 13:05:34.825905 
+
+ scorpyl2,     keep at it king scorpy14Mhm,        <Channel name: lacy>,       2024-11-07 13:05:53.472147 
+
+ scorpyl2,     @aniruram128 LMFAO ????,        <Channel name: lacy>,       2024-11-07 13:06:28.418206 
+
+ scorpyl2,     @gen4ss its her,        <Channel name: lacy>,       2024-11-07 13:07:38.101686 
+
+ scorpyl2,     keep drew down,        <Channel name: lacy>,       2024-11-07 13:09:09.604426 
+
+ scorpyl2,     @gen4ss mm,        <Channel name: lacy>,       2024-11-07 13:09:22.144898 
+
+ scorpyl2,     okayy shes trolling now,        <Channel name: lacy>,       2024-11-07 13:10:54.744636 
+
+ scorpyl2,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/lacy,        <Channel name: lacy>,       2024-11-07 13:11:43.689443 
+
+ scorpyl2,     chat chill,        <Channel name: lacy>,       2024-11-07 13:12:11.081765 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:29.802179 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:30.674029 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:36.723471 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:37.412527 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:43.870620 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:44.438070 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:12:46.084260 
+
+ scorpyl2,     its good now,        <Channel name: lacy>,       2024-11-07 13:13:07.638472 
+
+ scorpyl2,     dw its fine,        <Channel name: lacy>,       2024-11-07 13:13:17.282658 
+
+ scorpyl2,     dw its fine,        <Channel name: lacy>,       2024-11-07 13:13:45.080551 
+
+ scorpyl2,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/lacy,        <Channel name: lacy>,       2024-11-07 13:14:22.135393 
+
+ scorpyl2,     @airbranback taeyeo9Wave,        <Channel name: lacy>,       2024-11-07 13:14:47.046066 
+
+ scorpyl2,     streams fine, dw,        <Channel name: lacy>,       2024-11-07 13:14:57.966575 
+
+ scorpyl2,     !fixstream,        <Channel name: lacy>,       2024-11-07 13:15:26.827071 
+
+ scorpyl2,     it should be good now,        <Channel name: lacy>,       2024-11-07 13:15:32.745632 
+
+ scorpyl2,     i got yall,        <Channel name: lacy>,       2024-11-07 13:15:40.657999 
+
+ scorpyl2,     we bring the DOME!,        <Channel name: lacy>,       2024-11-07 13:16:20.529258 
+
+ scorpyl2,     haha,        <Channel name: lacy>,       2024-11-07 13:16:22.917781 
+
+ scorpyl2,     its fine lacy,        <Channel name: lacy>,       2024-11-07 13:17:00.240016 
+
+ scorpyl2,     its fine lacy,        <Channel name: lacy>,       2024-11-07 13:17:05.054053 
+
+ scorpyl2,     its good dw,        <Channel name: lacy>,       2024-11-07 13:17:14.039794 
+
+ scorpyl2,     its good dw,        <Channel name: lacy>,       2024-11-07 13:17:14.809345 
+
+ scorpyl2,     its good dw,        <Channel name: lacy>,       2024-11-07 13:17:24.000880 
+
+ scorpyl2,     its good dw,        <Channel name: lacy>,       2024-11-07 13:17:25.654465 
+
+ scorpyl2,     comfort her,        <Channel name: lacy>,       2024-11-07 13:18:19.304746 
+
+ scorpyl2,     roll with her,        <Channel name: lacy>,       2024-11-07 13:18:53.577755 
+
+ scorpyl2,     its fine,        <Channel name: lacy>,       2024-11-07 13:20:22.925277 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:30.598077 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:31.084894 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:31.317263 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:31.607582 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:31.970795 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:20:32.371986 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:21:35.119235 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:21:35.351460 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:21:35.818380 
+
+ scorpyl2,     its not lagging,        <Channel name: lacy>,       2024-11-07 13:21:57.656528 
+
+ scorpyl2,     WW,        <Channel name: lacy>,       2024-11-07 13:22:57.834000 
+
+ scorpyl2,     great job lina!,        <Channel name: lacy>,       2024-11-07 13:23:08.083944 
+
+ scorpyl2,     great job lina! scorpy14YAY,        <Channel name: lacy>,       2024-11-07 13:23:15.606768 
+
+ scorpyl2,     great job lina! scorpy14YAY,        <Channel name: lacy>,       2024-11-07 13:23:21.895176 
+
+ scorpyl2,     relax chat,        <Channel name: lacy>,       2024-11-07 13:25:06.958600 
+
+ scorpyl2,     its just this spot dw,        <Channel name: lacy>,       2024-11-07 13:26:29.904457 
+
+ scorpyl2,     great job lina! scorpy14YAY,        <Channel name: lacy>,       2024-11-07 13:26:41.236769 
+
+ scorpyl2,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:27:01.987791 
+
+ scorpyl2,     looool,        <Channel name: lacy>,       2024-11-07 13:27:27.534163 
+
+ scorpyl2,     @1xgianna go help her dude,        <Channel name: lacy>,       2024-11-07 13:28:29.397613 
+
+ scorpyl2,     ive done this in club penguin before,        <Channel name: lacy>,       2024-11-07 13:28:52.390257 
+
+ scorpyl2,     ive done this in club penguin before,        <Channel name: lacy>,       2024-11-07 13:29:05.233884 
+
+ scorpyl2,     its easy,        <Channel name: lacy>,       2024-11-07 13:29:09.869104 
+
+ scorpyl2,     @1xgianna KPOPTT unfortunate,        <Channel name: lacy>,       2024-11-07 13:29:47.623613 
+
+ scorpyl2,     its just this spot chat,        <Channel name: lacy>,       2024-11-07 13:31:00.069569 
+
+ scorpyl2,     its just this spot chat,        <Channel name: lacy>,       2024-11-07 13:31:02.837388 
+
+ scorpyl2,     its just this spot chat,        <Channel name: lacy>,       2024-11-07 13:31:09.543411 
+
+ scorpyl2,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:32:34.629715 
+
+ scorpyl2,     omg,        <Channel name: lacy>,       2024-11-07 13:35:29.656664 
+
+ scorpyl2,     OMGGG,        <Channel name: lacy>,       2024-11-07 13:35:33.813335 
+
+ scorpyl2,     nah u snapped with that angle drew,        <Channel name: lacy>,       2024-11-07 13:36:07.950626 
+
+ scorpyl2,     i really thought :(,        <Channel name: lacy>,       2024-11-07 13:36:16.010063 

@@ -1,0 +1,54 @@
+
+ kkizaka,     tw,        <Channel name: shadowkekw>,       2024-11-07 10:07:17.636761 
+
+ kkizaka,     it,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.064961 
+
+ kkizaka,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:08:30.668562 
+
+ kkizaka,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.117706 
+
+ kkizaka,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:09:43.010618 
+
+ kkizaka,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:10:32.617123 
+
+ kkizaka,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.488296 
+
+ kkizaka,     atge,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.550957 
+
+ kkizaka,     ge,        <Channel name: shadowkekw>,       2024-11-07 10:10:58.498078 
+
+ kkizaka,     at,        <Channel name: shadowkekw>,       2024-11-07 10:11:15.458993 
+
+ kkizaka,     china,        <Channel name: shadowkekw>,       2024-11-07 10:11:30.689307 
+
+ kkizaka,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:11:55.265788 
+
+ kkizaka,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:07.828533 
+
+ kkizaka,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:12:45.071834 
+
+ kkizaka,     india,        <Channel name: shadowkekw>,       2024-11-07 10:13:20.975484 
+
+ kkizaka,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:14:02.807115 
+
+ kkizaka,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.128053 
+
+ kkizaka,     lv,        <Channel name: shadowkekw>,       2024-11-07 10:14:17.013452 
+
+ kkizaka,     pe,        <Channel name: shadowkekw>,       2024-11-07 10:14:37.376445 
+
+ kkizaka,     fi,        <Channel name: shadowkekw>,       2024-11-07 10:15:19.364051 
+
+ kkizaka,     evelone,        <Channel name: shadowkekw>,       2024-11-07 10:15:33.455507 
+
+ kkizaka,     us,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.966441 
+
+ kkizaka,     sa,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.268102 
+
+ kkizaka,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:16:13.408561 
+
+ kkizaka,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:16:33.846413 
+
+ kkizaka,     x,        <Channel name: shadowkekw>,       2024-11-07 10:16:37.349130 
+
+ kkizaka,     sws,        <Channel name: shadowkekw>,       2024-11-07 10:24:49.273037 

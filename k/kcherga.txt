@@ -1,0 +1,18 @@
+
+ kcherga,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:04:42.288515 
+
+ kcherga,     us,        <Channel name: shadowkekw>,       2024-11-07 11:06:48.245543 
+
+ kcherga,     france,        <Channel name: shadowkekw>,       2024-11-07 11:09:30.618150 
+
+ kcherga,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.196085 
+
+ kcherga,     us,        <Channel name: shadowkekw>,       2024-11-07 11:10:08.969753 
+
+ kcherga,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:10:29.993378 
+
+ kcherga,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:14:11.507689 
+
+ kcherga,     da mne davai,        <Channel name: shadowkekw>,       2024-11-07 11:17:37.939624 
+
+ kcherga,     50 50,        <Channel name: shadowkekw>,       2024-11-07 11:44:19.764602 

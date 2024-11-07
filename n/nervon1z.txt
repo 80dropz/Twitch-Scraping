@@ -1,0 +1,150 @@
+
+ nervon1z,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:17:30.655769 
+
+ nervon1z,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:24:52.902763 
+
+ nervon1z,     england,        <Channel name: shadowkekw>,       2024-11-07 10:27:22.270202 
+
+ nervon1z,     kyrgizstan,        <Channel name: shadowkekw>,       2024-11-07 10:29:12.693930 
+
+ nervon1z,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.933853 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:29:56.975494 
+
+ nervon1z,     kyrgizstan,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.436633 
+
+ nervon1z,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:33:42.326013 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:34:23.715517 
+
+ nervon1z,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.275938 
+
+ nervon1z,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.803530 
+
+ nervon1z,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:35:44.522775 
+
+ nervon1z,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.075353 
+
+ nervon1z,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.244928 
+
+ nervon1z,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.471909 
+
+ nervon1z,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.948437 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:38:04.208859 
+
+ nervon1z,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.651824 
+
+ nervon1z,     us,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.931230 
+
+ nervon1z,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:30.176275 
+
+ nervon1z,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.594870 
+
+ nervon1z,     us,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.401572 
+
+ nervon1z,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:41:53.537480 
+
+ nervon1z,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:48.056284 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:44:32.254188 
+
+ nervon1z,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:45:13.345855 
+
+ nervon1z,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.611714 
+
+ nervon1z,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:46:50.807750 
+
+ nervon1z,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:47:48.553713 
+
+ nervon1z,     om,        <Channel name: shadowkekw>,       2024-11-07 10:48:42.536965 
+
+ nervon1z,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:16.181657 
+
+ nervon1z,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:49:34.769115 
+
+ nervon1z,     om,        <Channel name: shadowkekw>,       2024-11-07 10:50:01.652703 
+
+ nervon1z,     ky,        <Channel name: shadowkekw>,       2024-11-07 10:50:35.349438 
+
+ nervon1z,     om,        <Channel name: shadowkekw>,       2024-11-07 10:50:54.406660 
+
+ nervon1z,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:51:16.031714 
+
+ nervon1z,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.076412 
+
+ nervon1z,     chile pr,        <Channel name: shadowkekw>,       2024-11-07 10:52:10.998023 
+
+ nervon1z,     lb,        <Channel name: shadowkekw>,       2024-11-07 10:54:20.450676 
+
+ nervon1z,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:55:08.502952 
+
+ nervon1z,     us,        <Channel name: shadowkekw>,       2024-11-07 10:56:01.981876 
+
+ nervon1z,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:56:52.255423 
+
+ nervon1z,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:57:34.031207 
+
+ nervon1z,     id,        <Channel name: shadowkekw>,       2024-11-07 10:58:08.704568 
+
+ nervon1z,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:59:01.048531 
+
+ nervon1z,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:59:41.646956 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:00:35.858634 
+
+ nervon1z,     usperu,        <Channel name: shadowkekw>,       2024-11-07 11:01:47.008804 
+
+ nervon1z,     sg,        <Channel name: shadowkekw>,       2024-11-07 11:02:51.972895 
+
+ nervon1z,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:03:55.353979 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:04:49.414899 
+
+ nervon1z,     switzerland,        <Channel name: shadowkekw>,       2024-11-07 11:05:05.993749 
+
+ nervon1z,     uz,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.902314 
+
+ nervon1z,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:04.348315 
+
+ nervon1z,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:07:43.159587 
+
+ nervon1z,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:07:51.389979 
+
+ nervon1z,     brasil,        <Channel name: shadowkekw>,       2024-11-07 11:08:04.118842 
+
+ nervon1z,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:08:29.601512 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:08:40.312695 
+
+ nervon1z,     uz,        <Channel name: shadowkekw>,       2024-11-07 11:09:00.009138 
+
+ nervon1z,     co,        <Channel name: shadowkekw>,       2024-11-07 11:09:16.594536 
+
+ nervon1z,     paraguay,        <Channel name: shadowkekw>,       2024-11-07 11:09:43.222156 
+
+ nervon1z,     uz,        <Channel name: shadowkekw>,       2024-11-07 11:10:15.301126 
+
+ nervon1z,     mo,        <Channel name: shadowkekw>,       2024-11-07 11:10:36.911645 
+
+ nervon1z,     ex,        <Channel name: shadowkekw>,       2024-11-07 11:11:37.469423 
+
+ nervon1z,     ec,        <Channel name: shadowkekw>,       2024-11-07 11:11:39.222398 
+
+ nervon1z,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:12:26.591560 
+
+ nervon1z,     ur,        <Channel name: shadowkekw>,       2024-11-07 11:12:32.022666 
+
+ nervon1z,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:12:50.757891 
+
+ nervon1z,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:13:00.728789 
+
+ nervon1z,     uz,        <Channel name: shadowkekw>,       2024-11-07 11:13:50.529676 
+
+ nervon1z,     malta,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.657666 
+
+ nervon1z,     go garchik,        <Channel name: shadowkekw>,       2024-11-07 11:18:28.571860 
+
+ nervon1z,     kakoy nibud,        <Channel name: shadowkekw>,       2024-11-07 11:18:31.754238 
+
+ nervon1z,     aahahahah,        <Channel name: shadowkekw>,       2024-11-07 12:02:45.450227 

@@ -1,0 +1,4 @@
+
+ lilrandog,     real,        <Channel name: lacy>,       2024-11-07 13:00:24.224021 
+
+ lilrandog,     REAL,        <Channel name: lacy>,       2024-11-07 13:00:32.966438 

@@ -1,0 +1,4 @@
+
+ lincons69,     !gamble 400,        <Channel name: kaicenat>,       2024-11-07 10:23:21.570386 
+
+ lincons69,     @roulete 400,        <Channel name: kaicenat>,       2024-11-07 10:23:34.814421 

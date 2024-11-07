@@ -4,3 +4,11 @@
  sk_too_proper,     bruh,        <Channel name: kaicenat>,       2024-11-07 01:20:12.969143 
 
  sk_too_proper,     kaicCryy,        <Channel name: kaicenat>,       2024-11-07 01:21:39.480870 
+
+ sk_too_proper,     cooked,        <Channel name: kaicenat>,       2024-11-07 11:22:24.807764 
+
+ sk_too_proper,     glitch for the twitch,        <Channel name: kaicenat>,       2024-11-07 11:24:18.027387 
+
+ sk_too_proper,     bruh,        <Channel name: kaicenat>,       2024-11-07 11:25:32.664308 
+
+ sk_too_proper,     kaicMug,        <Channel name: kaicenat>,       2024-11-07 11:25:51.335972 

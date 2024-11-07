@@ -1,0 +1,4 @@
+
+ zoee_ggs,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 12:25:26.528328 
+
+ zoee_ggs,     me,        <Channel name: kaicenat>,       2024-11-07 12:59:51.271545 

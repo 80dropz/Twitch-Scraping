@@ -1,0 +1,4 @@
+
+ pepote_fn,     !colourblind,        <Channel name: clix>,       2024-11-07 09:56:01.338748 
+
+ pepote_fn,     !brightness,        <Channel name: clix>,       2024-11-07 09:59:16.567147 

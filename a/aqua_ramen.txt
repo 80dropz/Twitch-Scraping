@@ -346,3 +346,7 @@
  aqua_ramen,     kailer uhh,        <Channel name: kaicenat>,       2024-11-07 02:35:28.373987 
 
  aqua_ramen,     OfCourse ohhh,        <Channel name: kaicenat>,       2024-11-07 02:36:18.508665 
+
+ aqua_ramen,     bleh x ta,        <Channel name: plaqueboymax>,       2024-11-07 13:25:34.340153 
+
+ aqua_ramen,     MaxAndJasonWhenitComesToBeingGay,        <Channel name: plaqueboymax>,       2024-11-07 13:34:00.251446 

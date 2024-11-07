@@ -14,3 +14,9 @@
  dazzillinkid,     kaicBed_TK,        <Channel name: kaicenat>,       2024-11-07 09:42:57.176604 
 
  dazzillinkid,     lol,        <Channel name: kaicenat>,       2024-11-07 09:43:19.056500 
+
+ dazzillinkid,     !points,        <Channel name: kaicenat>,       2024-11-07 09:52:17.574539 
+
+ dazzillinkid,     VENOM IN NIKE PROS,        <Channel name: kaicenat>,       2024-11-07 09:55:57.609150 
+
+ dazzillinkid,     we,        <Channel name: kaicenat>,       2024-11-07 09:56:23.570360 

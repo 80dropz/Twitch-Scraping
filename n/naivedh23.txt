@@ -1,0 +1,22 @@
+
+ naivedh23,     W,        <Channel name: kaicenat>,       2024-11-07 11:32:52.402842 
+
+ naivedh23,     SeemsGood SeemsGood,        <Channel name: kaicenat>,       2024-11-07 11:34:06.906146 
+
+ naivedh23,     SUBprise,        <Channel name: kaicenat>,       2024-11-07 11:38:39.075017 
+
+ naivedh23,     WW,        <Channel name: kaicenat>,       2024-11-07 11:40:21.009904 
+
+ naivedh23,     GunRun,        <Channel name: kaicenat>,       2024-11-07 11:40:36.770099 
+
+ naivedh23,     WWW,        <Channel name: kaicenat>,       2024-11-07 11:48:19.333087 
+
+ naivedh23,     WWWW,        <Channel name: kaicenat>,       2024-11-07 12:01:41.102226 
+
+ naivedh23,     Squid1 Squid3 Squid4,        <Channel name: kaicenat>,       2024-11-07 12:01:56.664805 
+
+ naivedh23,     GunRun,        <Channel name: kaicenat>,       2024-11-07 12:02:16.427956 
+
+ naivedh23,     KappaPride,        <Channel name: kaicenat>,       2024-11-07 12:02:32.021699 
+
+ naivedh23,     FrankerZ,        <Channel name: kaicenat>,       2024-11-07 12:04:00.769542 

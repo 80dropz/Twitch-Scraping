@@ -1,0 +1,12 @@
+
+ eleqa1603,     ????,        <Channel name: kaicenat>,       2024-11-07 11:03:26.511982 
+
+ eleqa1603,     ?????,        <Channel name: kaicenat>,       2024-11-07 11:03:29.479101 
+
+ eleqa1603,     ??????,        <Channel name: kaicenat>,       2024-11-07 11:03:33.240780 
+
+ eleqa1603,     ???????,        <Channel name: kaicenat>,       2024-11-07 11:03:37.589306 
+
+ eleqa1603,     ????????,        <Channel name: kaicenat>,       2024-11-07 11:03:40.015010 
+
+ eleqa1603,     ?????????????,        <Channel name: kaicenat>,       2024-11-07 11:03:42.384230 

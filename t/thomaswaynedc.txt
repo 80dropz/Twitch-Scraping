@@ -1,0 +1,42 @@
+
+ thomaswaynedc,     Gift,        <Channel name: kaicenat>,       2024-11-07 10:09:36.948944 
+
+ thomaswaynedc,     Where is drums,        <Channel name: kaicenat>,       2024-11-07 10:11:11.124850 
+
+ thomaswaynedc,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:11:22.348422 
+
+ thomaswaynedc,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:12:05.046353 
+
+ thomaswaynedc,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:12:24.901121 
+
+ thomaswaynedc,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:12:46.216520 
+
+ thomaswaynedc,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:13:11.502394 
+
+ thomaswaynedc,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:13:23.348495 
+
+ thomaswaynedc,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:13:35.666578 
+
+ thomaswaynedc,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:14:02.718290 
+
+ thomaswaynedc,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:14:19.475641 
+
+ thomaswaynedc,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:14:32.678525 
+
+ thomaswaynedc,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:14:59.029020 
+
+ thomaswaynedc,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:15:06.554349 
+
+ thomaswaynedc,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:16.123942 
+
+ thomaswaynedc,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:15:30.056052 
+
+ thomaswaynedc,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:39.125453 
+
+ thomaswaynedc,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:15:48.427780 
+
+ thomaswaynedc,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:15:53.981556 
+
+ thomaswaynedc,     Gambled all my money,        <Channel name: kaicenat>,       2024-11-07 10:16:14.437327 
+
+ thomaswaynedc,     How long has been sleeping,        <Channel name: kaicenat>,       2024-11-07 10:17:15.810317 

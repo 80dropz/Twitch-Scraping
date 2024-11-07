@@ -1,0 +1,116 @@
+
+ lexichzy,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:31:09.579406 
+
+ lexichzy,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:24.377311 
+
+ lexichzy,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.553156 
+
+ lexichzy,     Jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:22.936292 
+
+ lexichzy,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:38:00.751606 
+
+ lexichzy,     India,        <Channel name: shadowkekw>,       2024-11-07 10:38:09.175086 
+
+ lexichzy,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:38:28.351570 
+
+ lexichzy,     da,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.757529 
+
+ lexichzy,     kr,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.147084 
+
+ lexichzy,     India,        <Channel name: shadowkekw>,       2024-11-07 10:39:50.314730 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.627630 
+
+ lexichzy,     co,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.610741 
+
+ lexichzy,     da,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.452880 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:19.868785 
+
+ lexichzy,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.164557 
+
+ lexichzy,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:50.315269 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:43:07.131907 
+
+ lexichzy,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:43:17.283115 
+
+ lexichzy,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:43:50.322816 
+
+ lexichzy,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:38.965603 
+
+ lexichzy,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:53.558676 
+
+ lexichzy,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:45:15.319717 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:45:51.085622 
+
+ lexichzy,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:46:13.756792 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:46:32.407770 
+
+ lexichzy,     Th,        <Channel name: shadowkekw>,       2024-11-07 10:47:07.829027 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:48:57.620227 
+
+ lexichzy,     uy,        <Channel name: shadowkekw>,       2024-11-07 10:49:17.326259 
+
+ lexichzy,     fs,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.197760 
+
+ lexichzy,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:34.448291 
+
+ lexichzy,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:51:26.088687 
+
+ lexichzy,     co,        <Channel name: shadowkekw>,       2024-11-07 10:51:46.649095 
+
+ lexichzy,     china,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.148809 
+
+ lexichzy,     Th,        <Channel name: shadowkekw>,       2024-11-07 10:52:41.753447 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:04.446514 
+
+ lexichzy,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:55:23.463200 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:55:38.489226 
+
+ lexichzy,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:56:04.746737 
+
+ lexichzy,     da,        <Channel name: shadowkekw>,       2024-11-07 10:56:34.951022 
+
+ lexichzy,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:57:40.065796 
+
+ lexichzy,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:58:14.354781 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 10:58:59.348549 
+
+ lexichzy,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:45.371207 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:37.419211 
+
+ lexichzy,     mn,        <Channel name: shadowkekw>,       2024-11-07 11:02:13.089346 
+
+ lexichzy,     br,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.212558 
+
+ lexichzy,     of,        <Channel name: shadowkekw>,       2024-11-07 11:04:33.568183 
+
+ lexichzy,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:05:29.404720 
+
+ lexichzy,     th,        <Channel name: shadowkekw>,       2024-11-07 11:08:58.051070 
+
+ lexichzy,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.566212 
+
+ lexichzy,     id,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.854608 
+
+ lexichzy,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:11:08.555682 
+
+ lexichzy,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:14.398070 
+
+ lexichzy,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.903159 
+
+ lexichzy,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:14:21.391068 
+
+ lexichzy,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:50.026081 
+
+ lexichzy,     gay',        <Channel name: shadowkekw>,       2024-11-07 12:02:33.745393 
+
+ lexichzy,     FeelsSunnyMan: he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:29.223507 

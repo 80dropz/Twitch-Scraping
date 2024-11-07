@@ -1,0 +1,160 @@
+
+ brawlxyis,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:12:13.176807 
+
+ brawlxyis,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:13:08.591094 
+
+ brawlxyis,     algeria,        <Channel name: shadowkekw>,       2024-11-07 10:13:29.503468 
+
+ brawlxyis,     litvania,        <Channel name: shadowkekw>,       2024-11-07 10:14:25.511052 
+
+ brawlxyis,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:16:14.353274 
+
+ brawlxyis,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:18:18.357128 
+
+ brawlxyis,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:19:07.059356 
+
+ brawlxyis,     united kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:20:39.442103 
+
+ brawlxyis,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:21:30.557146 
+
+ brawlxyis,     australia,        <Channel name: shadowkekw>,       2024-11-07 10:23:01.724212 
+
+ brawlxyis,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:05.785067 
+
+ brawlxyis,     South africa,        <Channel name: shadowkekw>,       2024-11-07 10:25:45.103670 
+
+ brawlxyis,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:27:05.325652 
+
+ brawlxyis,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.175189 
+
+ brawlxyis,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:28:13.866851 
+
+ brawlxyis,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:28:33.364869 
+
+ brawlxyis,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.169166 
+
+ brawlxyis,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:13.870947 
+
+ brawlxyis,     Japen,        <Channel name: shadowkekw>,       2024-11-07 10:29:37.717742 
+
+ brawlxyis,     New Zeeland,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.751004 
+
+ brawlxyis,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.404686 
+
+ brawlxyis,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:31:18.342046 
+
+ brawlxyis,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:31:38.355562 
+
+ brawlxyis,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.753445 
+
+ brawlxyis,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:32:32.011388 
+
+ brawlxyis,     Colonbia,        <Channel name: shadowkekw>,       2024-11-07 10:32:37.678236 
+
+ brawlxyis,     New Zeeland,        <Channel name: shadowkekw>,       2024-11-07 10:32:55.916214 
+
+ brawlxyis,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:33:20.356757 
+
+ brawlxyis,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:24.923706 
+
+ brawlxyis,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:34:33.595624 
+
+ brawlxyis,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.950272 
+
+ brawlxyis,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:26.125238 
+
+ brawlxyis,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.013173 
+
+ brawlxyis,     malta,        <Channel name: shadowkekw>,       2024-11-07 10:38:06.497099 
+
+ brawlxyis,     ae,        <Channel name: shadowkekw>,       2024-11-07 10:42:42.698898 
+
+ brawlxyis,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:43:18.837326 
+
+ brawlxyis,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:43:27.910396 
+
+ brawlxyis,     za,        <Channel name: shadowkekw>,       2024-11-07 10:43:34.017517 
+
+ brawlxyis,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:43:56.927676 
+
+ brawlxyis,     lb,        <Channel name: shadowkekw>,       2024-11-07 10:45:24.925123 
+
+ brawlxyis,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:48.851729 
+
+ brawlxyis,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:46:05.836352 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:46:24.778196 
+
+ brawlxyis,     om,        <Channel name: shadowkekw>,       2024-11-07 10:46:54.497736 
+
+ brawlxyis,     ro,        <Channel name: shadowkekw>,       2024-11-07 10:47:22.432146 
+
+ brawlxyis,     mi,        <Channel name: shadowkekw>,       2024-11-07 10:47:42.072670 
+
+ brawlxyis,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:48:08.904210 
+
+ brawlxyis,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.267997 
+
+ brawlxyis,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:48:44.655662 
+
+ brawlxyis,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:49:12.523532 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.624571 
+
+ brawlxyis,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:49:56.233920 
+
+ brawlxyis,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:50:34.601926 
+
+ brawlxyis,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.523777 
+
+ brawlxyis,     es,        <Channel name: shadowkekw>,       2024-11-07 10:51:26.163723 
+
+ brawlxyis,     ponama,        <Channel name: shadowkekw>,       2024-11-07 10:51:51.193140 
+
+ brawlxyis,     kh,        <Channel name: shadowkekw>,       2024-11-07 10:52:05.420434 
+
+ brawlxyis,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:05.194745 
+
+ brawlxyis,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:53:44.050902 
+
+ brawlxyis,     co,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.079408 
+
+ brawlxyis,     da,        <Channel name: shadowkekw>,       2024-11-07 10:54:46.523880 
+
+ brawlxyis,     co,        <Channel name: shadowkekw>,       2024-11-07 10:55:37.812552 
+
+ brawlxyis,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.314356 
+
+ brawlxyis,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:58:09.038890 
+
+ brawlxyis,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.174856 
+
+ brawlxyis,     th,        <Channel name: shadowkekw>,       2024-11-07 11:00:29.734987 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.085358 
+
+ brawlxyis,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.979360 
+
+ brawlxyis,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:04:30.320036 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.850602 
+
+ brawlxyis,     u,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.692286 
+
+ brawlxyis,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 11:09:14.703541 
+
+ brawlxyis,     fl,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.942875 
+
+ brawlxyis,     fn,        <Channel name: shadowkekw>,       2024-11-07 11:10:18.711994 
+
+ brawlxyis,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:10:22.477616 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:11:03.016781 
+
+ brawlxyis,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.530236 
+
+ brawlxyis,     us,        <Channel name: shadowkekw>,       2024-11-07 11:12:13.531279 
+
+ brawlxyis,     th,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.071357 
+
+ brawlxyis,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:14:01.056064 

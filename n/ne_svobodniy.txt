@@ -1,0 +1,24 @@
+
+ ne_svobodniy,     sui,        <Channel name: kaicenat>,       2024-11-07 11:26:02.215303 
+
+ ne_svobodniy,     salami,        <Channel name: kaicenat>,       2024-11-07 11:26:05.693054 
+
+ ne_svobodniy,     sui,        <Channel name: kaicenat>,       2024-11-07 11:26:27.017517 
+
+ ne_svobodniy,     ww,        <Channel name: kaicenat>,       2024-11-07 11:27:00.009256 
+
+ ne_svobodniy,     wake up,        <Channel name: kaicenat>,       2024-11-07 11:28:25.221423 
+
+ ne_svobodniy,     Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! WW SHADOW!! Russian Streamer Shadow WW!! W,        <Channel name: kaicenat>,       2024-11-07 11:36:22.144976 
+
+ ne_svobodniy,     RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW,        <Channel name: kaicenat>,       2024-11-07 11:37:14.420635 
+
+ ne_svobodniy,     RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW RUSSIAN STREAMERS WW,        <Channel name: kaicenat>,       2024-11-07 11:38:35.149705 
+
+ ne_svobodniy,     hi kai,        <Channel name: kaicenat>,       2024-11-07 11:44:39.703030 
+
+ ne_svobodniy,     hi die,        <Channel name: kaicenat>,       2024-11-07 11:46:31.210312 
+
+ ne_svobodniy,     wtf,        <Channel name: kaicenat>,       2024-11-07 11:46:56.294215 
+
+ ne_svobodniy,     www,        <Channel name: kaicenat>,       2024-11-07 11:53:44.276832 

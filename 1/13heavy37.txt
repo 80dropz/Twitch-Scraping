@@ -1,0 +1,28 @@
+
+ 13heavy37,     Urugvai,        <Channel name: shadowkekw>,       2024-11-07 10:49:57.907159 
+
+ 13heavy37,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:51:39.193818 
+
+ 13heavy37,     China,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.889105 
+
+ 13heavy37,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.625072 
+
+ 13heavy37,     tk,        <Channel name: shadowkekw>,       2024-11-07 11:01:01.302983 
+
+ 13heavy37,     iraq,        <Channel name: shadowkekw>,       2024-11-07 11:01:49.887573 
+
+ 13heavy37,     UAR,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.422496 
+
+ 13heavy37,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:04:27.636167 
+
+ 13heavy37,     trk,        <Channel name: shadowkekw>,       2024-11-07 11:05:22.928782 
+
+ 13heavy37,     netherlands,        <Channel name: shadowkekw>,       2024-11-07 11:06:07.466591 
+
+ 13heavy37,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:06:19.337560 
+
+ 13heavy37,     uar,        <Channel name: shadowkekw>,       2024-11-07 11:06:23.196074 
+
+ 13heavy37,     uar,        <Channel name: shadowkekw>,       2024-11-07 11:08:02.629014 
+
+ 13heavy37,     canada,        <Channel name: shadowkekw>,       2024-11-07 11:08:07.496410 

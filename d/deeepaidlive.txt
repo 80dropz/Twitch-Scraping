@@ -1,0 +1,10 @@
+
+ deeepaidlive,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 12:24:30.829894 
+
+ deeepaidlive,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 12:25:08.112691 
+
+ deeepaidlive,     !roulette 489,        <Channel name: kaicenat>,       2024-11-07 12:25:41.099153 
+
+ deeepaidlive,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 12:26:08.918397 
+
+ deeepaidlive,     !roulette 384,        <Channel name: kaicenat>,       2024-11-07 12:26:31.354755 

@@ -1,0 +1,8 @@
+
+ panya20,     !hud,        <Channel name: clix>,       2024-11-07 13:06:58.610298 
+
+ panya20,     !!brightness,        <Channel name: clix>,       2024-11-07 13:08:05.680321 
+
+ panya20,     !settings,        <Channel name: clix>,       2024-11-07 13:08:23.153494 
+
+ panya20,     !sens,        <Channel name: clix>,       2024-11-07 13:08:37.855165 

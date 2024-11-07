@@ -1,0 +1,2 @@
+
+ el1_8_3,     !time,        <Channel name: kaicenat>,       2024-11-07 12:19:44.666610 

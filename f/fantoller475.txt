@@ -1,0 +1,50 @@
+
+ fantoller475,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.007683 
+
+ fantoller475,     Germane,        <Channel name: shadowkekw>,       2024-11-07 10:28:38.548662 
+
+ fantoller475,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.466792 
+
+ fantoller475,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:28:57.211554 
+
+ fantoller475,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:29:43.156528 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:15.394859 
+
+ fantoller475,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:34:20.902954 
+
+ fantoller475,     India,        <Channel name: shadowkekw>,       2024-11-07 10:34:50.653716 
+
+ fantoller475,     in,        <Channel name: shadowkekw>,       2024-11-07 10:35:19.506721 
+
+ fantoller475,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:35:41.106633 
+
+ fantoller475,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:41:36.777098 
+
+ fantoller475,     Chule,        <Channel name: shadowkekw>,       2024-11-07 10:41:40.557322 
+
+ fantoller475,     India,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.562925 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:51:35.645859 
+
+ fantoller475,     India,        <Channel name: shadowkekw>,       2024-11-07 10:52:04.120243 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:52:23.029228 
+
+ fantoller475,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:53:00.295506 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:53:23.014596 
+
+ fantoller475,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.097746 
+
+ fantoller475,     Ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:59.988967 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:56:43.928092 
+
+ fantoller475,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:58:11.277172 
+
+ fantoller475,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:59:37.185610 
+
+ fantoller475,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:00:44.702462 
+
+ fantoller475,     UK,        <Channel name: shadowkekw>,       2024-11-07 11:02:02.514752 

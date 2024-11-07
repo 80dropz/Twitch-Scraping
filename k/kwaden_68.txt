@@ -4,3 +4,7 @@
  kwaden_68,     Cam,        <Channel name: ricci>,       2024-11-07 09:11:29.066128 
 
  kwaden_68,     Fix cam,        <Channel name: ricci>,       2024-11-07 09:11:36.334612 
+
+ kwaden_68,     Gn @ricci,        <Channel name: ricci>,       2024-11-07 10:21:38.467767 
+
+ kwaden_68,     What's the song name,        <Channel name: ricci>,       2024-11-07 10:25:22.472849 

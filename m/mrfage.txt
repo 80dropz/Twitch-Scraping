@@ -1,0 +1,10 @@
+
+ mrfage,     !pc,        <Channel name: mongraal>,       2024-11-07 11:51:38.933905 
+
+ mrfage,     !PC,        <Channel name: mongraal>,       2024-11-07 11:52:11.038053 
+
+ mrfage,     !c,        <Channel name: mongraal>,       2024-11-07 11:56:56.923220 
+
+ mrfage,     !pc,        <Channel name: clix>,       2024-11-07 12:02:04.269876 
+
+ mrfage,     !computer,        <Channel name: clix>,       2024-11-07 12:02:19.865648 

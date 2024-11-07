@@ -1,0 +1,8 @@
+
+ mannychan00,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 09:52:37.421323 
+
+ mannychan00,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 09:53:38.913243 
+
+ mannychan00,     !roulette 5k,        <Channel name: kaicenat>,       2024-11-07 09:54:45.957990 
+
+ mannychan00,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:55:16.153106 

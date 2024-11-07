@@ -1,0 +1,92 @@
+
+ gl1twi,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:33:47.208540 
+
+ gl1twi,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.229519 
+
+ gl1twi,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:55.033612 
+
+ gl1twi,     CH,        <Channel name: shadowkekw>,       2024-11-07 10:35:13.962703 
+
+ gl1twi,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.045698 
+
+ gl1twi,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:39:45.732842 
+
+ gl1twi,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:40:25.965693 
+
+ gl1twi,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.741840 
+
+ gl1twi,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:41:51.165455 
+
+ gl1twi,     dubai,        <Channel name: shadowkekw>,       2024-11-07 10:42:29.082426 
+
+ gl1twi,     yemen,        <Channel name: shadowkekw>,       2024-11-07 10:43:35.341894 
+
+ gl1twi,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:43:58.293443 
+
+ gl1twi,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:46:28.838732 
+
+ gl1twi,     oman,        <Channel name: shadowkekw>,       2024-11-07 10:48:58.376734 
+
+ gl1twi,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:49:56.483587 
+
+ gl1twi,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:50:57.256718 
+
+ gl1twi,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:39.865683 
+
+ gl1twi,     argentina,        <Channel name: shadowkekw>,       2024-11-07 10:52:15.653445 
+
+ gl1twi,     kg,        <Channel name: shadowkekw>,       2024-11-07 10:53:45.359599 
+
+ gl1twi,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:54:19.540739 
+
+ gl1twi,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:54:57.302504 
+
+ gl1twi,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:56:02.209826 
+
+ gl1twi,     kg,        <Channel name: shadowkekw>,       2024-11-07 10:56:32.256017 
+
+ gl1twi,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:57:37.137328 
+
+ gl1twi,     honk kong,        <Channel name: shadowkekw>,       2024-11-07 10:58:14.532947 
+
+ gl1twi,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:28.622756 
+
+ gl1twi,     CHAD,        <Channel name: shadowkekw>,       2024-11-07 11:00:36.384797 
+
+ gl1twi,     uzbekistan,        <Channel name: shadowkekw>,       2024-11-07 11:01:52.482525 
+
+ gl1twi,     madagaskar,        <Channel name: shadowkekw>,       2024-11-07 11:03:14.556114 
+
+ gl1twi,     finland,        <Channel name: shadowkekw>,       2024-11-07 11:04:38.348937 
+
+ gl1twi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:07:31.938081 
+
+ gl1twi,     jordan,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.738662 
+
+ gl1twi,     malaysia,        <Channel name: shadowkekw>,       2024-11-07 11:09:42.532215 
+
+ gl1twi,     kg,        <Channel name: shadowkekw>,       2024-11-07 11:10:30.428845 
+
+ gl1twi,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.315369 
+
+ gl1twi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.453519 
+
+ gl1twi,     spain,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.720880 
+
+ gl1twi,     portugal,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.507260 
+
+ gl1twi,     kg,        <Channel name: shadowkekw>,       2024-11-07 11:11:25.923080 
+
+ gl1twi,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:11:48.164288 
+
+ gl1twi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:12:21.980792 
+
+ gl1twi,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.913413 
+
+ gl1twi,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.199564 
+
+ gl1twi,     kenya,        <Channel name: shadowkekw>,       2024-11-07 11:12:56.528988 
+
+ gl1twi,     ireland,        <Channel name: shadowkekw>,       2024-11-07 11:13:15.254983 
+
+ gl1twi,     poland,        <Channel name: shadowkekw>,       2024-11-07 11:14:30.677305 

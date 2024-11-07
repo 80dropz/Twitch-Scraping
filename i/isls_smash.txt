@@ -1,0 +1,8 @@
+
+ isls_smash,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:38:42.167256 
+
+ isls_smash,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:38:53.420444 
+
+ isls_smash,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 10:39:02.877319 
+
+ isls_smash,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:49:02.567324 

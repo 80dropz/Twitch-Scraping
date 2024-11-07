@@ -1,0 +1,530 @@
+
+ odium192,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:09:04.840957 
+
+ odium192,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:09:19.956478 
+
+ odium192,     islane,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.577430 
+
+ odium192,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:41.418130 
+
+ odium192,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:09:42.663236 
+
+ odium192,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:10:02.370521 
+
+ odium192,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:12.830365 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:18:38.281212 
+
+ odium192,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:18:40.107796 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.327341 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.389153 
+
+ odium192,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:20:00.508115 
+
+ odium192,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:23:13.579683 
+
+ odium192,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:23:14.985413 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:23:19.095212 
+
+ odium192,     cy,        <Channel name: shadowkekw>,       2024-11-07 10:23:55.732970 
+
+ odium192,     dj,        <Channel name: shadowkekw>,       2024-11-07 10:24:00.177943 
+
+ odium192,     df,        <Channel name: shadowkekw>,       2024-11-07 10:24:02.462373 
+
+ odium192,     dpdn,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.165690 
+
+ odium192,     od,        <Channel name: shadowkekw>,       2024-11-07 10:24:22.584274 
+
+ odium192,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:24:26.279329 
+
+ odium192,     gn,        <Channel name: shadowkekw>,       2024-11-07 10:24:37.867832 
+
+ odium192,     gd,        <Channel name: shadowkekw>,       2024-11-07 10:24:41.131875 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:24:47.385161 
+
+ odium192,     np,        <Channel name: shadowkekw>,       2024-11-07 10:24:54.930660 
+
+ odium192,     gn,        <Channel name: shadowkekw>,       2024-11-07 10:25:12.347367 
+
+ odium192,     oz,        <Channel name: shadowkekw>,       2024-11-07 10:25:13.996752 
+
+ odium192,     pa,        <Channel name: shadowkekw>,       2024-11-07 10:25:29.970818 
+
+ odium192,     nu,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.747989 
+
+ odium192,     al,        <Channel name: shadowkekw>,       2024-11-07 10:26:08.015249 
+
+ odium192,     re,        <Channel name: shadowkekw>,       2024-11-07 10:26:28.583085 
+
+ odium192,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:26:35.082200 
+
+ odium192,     ek,        <Channel name: shadowkekw>,       2024-11-07 10:26:37.000576 
+
+ odium192,     mb,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.633391 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:27:15.345003 
+
+ odium192,     gm,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.817943 
+
+ odium192,     op,        <Channel name: shadowkekw>,       2024-11-07 10:27:45.926183 
+
+ odium192,     re,        <Channel name: shadowkekw>,       2024-11-07 10:27:48.165476 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:27:59.431088 
+
+ odium192,     bj,        <Channel name: shadowkekw>,       2024-11-07 10:28:10.946946 
+
+ odium192,     mg,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.784669 
+
+ odium192,     mh,        <Channel name: shadowkekw>,       2024-11-07 10:28:26.252119 
+
+ odium192,     mg,        <Channel name: shadowkekw>,       2024-11-07 10:28:37.456373 
+
+ odium192,     ml,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.003183 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.598619 
+
+ odium192,     op,        <Channel name: shadowkekw>,       2024-11-07 10:29:25.198366 
+
+ odium192,     bh,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.445398 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:29:40.115968 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:29:43.045962 
+
+ odium192,     bg,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.889168 
+
+ odium192,     bm,        <Channel name: shadowkekw>,       2024-11-07 10:29:57.597808 
+
+ odium192,     gnb,        <Channel name: shadowkekw>,       2024-11-07 10:30:08.471345 
+
+ odium192,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.417072 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.534260 
+
+ odium192,     cm,        <Channel name: shadowkekw>,       2024-11-07 10:30:28.706004 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:30:30.190829 
+
+ odium192,     rm,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.549921 
+
+ odium192,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.675577 
+
+ odium192,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:31:05.587003 
+
+ odium192,     cm,        <Channel name: shadowkekw>,       2024-11-07 10:31:07.472668 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:31:25.869395 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:31:29.375020 
+
+ odium192,     ad,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.570064 
+
+ odium192,     cg,        <Channel name: shadowkekw>,       2024-11-07 10:31:48.195806 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:31:50.869343 
+
+ odium192,     th,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.102178 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:32:03.884110 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:32:05.311825 
+
+ odium192,     gm,        <Channel name: shadowkekw>,       2024-11-07 10:32:09.328717 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.983201 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:32:24.190894 
+
+ odium192,     gn,        <Channel name: shadowkekw>,       2024-11-07 10:32:28.255082 
+
+ odium192,     bd,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.688903 
+
+ odium192,     ve,        <Channel name: shadowkekw>,       2024-11-07 10:32:46.511699 
+
+ odium192,     ecnz,        <Channel name: shadowkekw>,       2024-11-07 10:32:51.576619 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:33:01.486367 
+
+ odium192,     in,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.493378 
+
+ odium192,     id,        <Channel name: shadowkekw>,       2024-11-07 10:33:03.711601 
+
+ odium192,     im,        <Channel name: shadowkekw>,       2024-11-07 10:33:04.628983 
+
+ odium192,     fd,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.120605 
+
+ odium192,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.749362 
+
+ odium192,     nh,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.534764 
+
+ odium192,     bt,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.789754 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:38.622791 
+
+ odium192,     cl,        <Channel name: shadowkekw>,       2024-11-07 10:33:53.686583 
+
+ odium192,     bh,        <Channel name: shadowkekw>,       2024-11-07 10:33:58.393207 
+
+ odium192,     bv,        <Channel name: shadowkekw>,       2024-11-07 10:34:01.037068 
+
+ odium192,     cn,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.444093 
+
+ odium192,     nv,        <Channel name: shadowkekw>,       2024-11-07 10:34:42.888266 
+
+ odium192,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:34:54.126670 
+
+ odium192,     bh,        <Channel name: shadowkekw>,       2024-11-07 10:35:08.310889 
+
+ odium192,     nl,        <Channel name: shadowkekw>,       2024-11-07 10:35:10.414094 
+
+ odium192,     nb,        <Channel name: shadowkekw>,       2024-11-07 10:35:31.330388 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:35:33.576766 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.511846 
+
+ odium192,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:35:57.786061 
+
+ odium192,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.878518 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.499502 
+
+ odium192,     mn,        <Channel name: shadowkekw>,       2024-11-07 10:36:57.614313 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.878825 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:37:15.971870 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.079033 
+
+ odium192,     LL,        <Channel name: shadowkekw>,       2024-11-07 10:37:27.675322 
+
+ odium192,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.001042 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.844538 
+
+ odium192,     ec,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.715550 
+
+ odium192,     lslm,        <Channel name: shadowkekw>,       2024-11-07 10:38:24.193795 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.162426 
+
+ odium192,     gm,        <Channel name: shadowkekw>,       2024-11-07 10:38:31.609958 
+
+ odium192,     bn,        <Channel name: shadowkekw>,       2024-11-07 10:38:47.506654 
+
+ odium192,     bo,        <Channel name: shadowkekw>,       2024-11-07 10:38:55.546762 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.739593 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:39:05.865651 
+
+ odium192,     ir,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.728343 
+
+ odium192,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:39:09.711556 
+
+ odium192,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:39:20.968265 
+
+ odium192,     rome,        <Channel name: shadowkekw>,       2024-11-07 10:39:45.361862 
+
+ odium192,     nb,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.087950 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.808580 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:40:01.137515 
+
+ odium192,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:40:08.706312 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:10.595724 
+
+ odium192,     ea,        <Channel name: shadowkekw>,       2024-11-07 10:40:14.732833 
+
+ odium192,     india,        <Channel name: shadowkekw>,       2024-11-07 10:40:26.987681 
+
+ odium192,     ug,        <Channel name: shadowkekw>,       2024-11-07 10:40:31.482446 
+
+ odium192,     il,        <Channel name: shadowkekw>,       2024-11-07 10:40:40.645196 
+
+ odium192,     bh,        <Channel name: shadowkekw>,       2024-11-07 10:40:41.681712 
+
+ odium192,     india,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.013005 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.277469 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:41:02.136922 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:41:06.584982 
+
+ odium192,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:41:10.709909 
+
+ odium192,     vm,        <Channel name: shadowkekw>,       2024-11-07 10:41:20.682677 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:41:21.338975 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:23.483317 
+
+ odium192,     ca,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.275026 
+
+ odium192,     ar,        <Channel name: shadowkekw>,       2024-11-07 10:41:38.507782 
+
+ odium192,     em,        <Channel name: shadowkekw>,       2024-11-07 10:41:39.857118 
+
+ odium192,     um,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.310794 
+
+ odium192,     bh,        <Channel name: shadowkekw>,       2024-11-07 10:41:45.954970 
+
+ odium192,     co,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.629050 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:42:06.126882 
+
+ odium192,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:42:06.984114 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:42:12.339548 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:42:19.773054 
+
+ odium192,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:20.645363 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.746503 
+
+ odium192,     eg,        <Channel name: shadowkekw>,       2024-11-07 10:42:48.524877 
+
+ odium192,     it,        <Channel name: shadowkekw>,       2024-11-07 10:42:51.836172 
+
+ odium192,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:42:55.511778 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:43:19.145705 
+
+ odium192,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:43:22.256774 
+
+ odium192,     uz,        <Channel name: shadowkekw>,       2024-11-07 10:43:32.889640 
+
+ odium192,     gh,        <Channel name: shadowkekw>,       2024-11-07 10:43:53.710290 
+
+ odium192,     in,        <Channel name: shadowkekw>,       2024-11-07 10:44:00.067991 
+
+ odium192,     co,        <Channel name: shadowkekw>,       2024-11-07 10:44:04.408566 
+
+ odium192,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:44:05.843073 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:44:18.192085 
+
+ odium192,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:44:24.262834 
+
+ odium192,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:39.724540 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:40.363936 
+
+ odium192,     eu,        <Channel name: shadowkekw>,       2024-11-07 10:44:42.126331 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.070136 
+
+ odium192,     nz,        <Channel name: shadowkekw>,       2024-11-07 10:44:51.287626 
+
+ odium192,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:45:33.796901 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:46:03.885175 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:47:11.905599 
+
+ odium192,     lu,        <Channel name: shadowkekw>,       2024-11-07 10:47:45.259784 
+
+ odium192,     mko,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.729809 
+
+ odium192,     fx,        <Channel name: shadowkekw>,       2024-11-07 10:49:59.720115 
+
+ odium192,     ko,        <Channel name: shadowkekw>,       2024-11-07 10:50:48.469715 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:53:08.034105 
+
+ odium192,     sp,        <Channel name: shadowkekw>,       2024-11-07 10:54:10.406092 
+
+ odium192,     nw,        <Channel name: shadowkekw>,       2024-11-07 10:54:34.140095 
+
+ odium192,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:54:56.812498 
+
+ odium192,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.823757 
+
+ odium192,     ??,        <Channel name: shadowkekw>,       2024-11-07 10:56:38.777719 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 10:57:11.199977 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 10:58:58.029386 
+
+ odium192,     es,        <Channel name: shadowkekw>,       2024-11-07 10:59:52.117396 
+
+ odium192,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:00:50.250718 
+
+ odium192,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.129917 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:04:06.041799 
+
+ odium192,     co,        <Channel name: shadowkekw>,       2024-11-07 11:05:46.528893 
+
+ odium192,     kz,        <Channel name: shadowkekw>,       2024-11-07 11:06:00.819717 
+
+ odium192,     ng,        <Channel name: shadowkekw>,       2024-11-07 11:06:04.213827 
+
+ odium192,     co,        <Channel name: shadowkekw>,       2024-11-07 11:06:07.970698 
+
+ odium192,     mh,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.011314 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:06:23.959971 
+
+ odium192,     mn,        <Channel name: shadowkekw>,       2024-11-07 11:06:24.704180 
+
+ odium192,     ko,        <Channel name: shadowkekw>,       2024-11-07 11:06:53.969853 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:07:00.193789 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 11:07:10.583170 
+
+ odium192,     fr,        <Channel name: shadowkekw>,       2024-11-07 11:07:22.001610 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 11:07:25.651362 
+
+ odium192,     se,        <Channel name: shadowkekw>,       2024-11-07 11:07:29.047301 
+
+ odium192,     is,        <Channel name: shadowkekw>,       2024-11-07 11:07:49.334879 
+
+ odium192,     we,        <Channel name: shadowkekw>,       2024-11-07 11:07:56.010603 
+
+ odium192,     es,        <Channel name: shadowkekw>,       2024-11-07 11:08:11.159072 
+
+ odium192,     gb,        <Channel name: shadowkekw>,       2024-11-07 11:08:14.903358 
+
+ odium192,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:08:17.656502 
+
+ odium192,     eo,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.923580 
+
+ odium192,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:08:27.685972 
+
+ odium192,     ch,        <Channel name: shadowkekw>,       2024-11-07 11:08:49.912792 
+
+ odium192,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:08:52.558648 
+
+ odium192,     ir,        <Channel name: shadowkekw>,       2024-11-07 11:08:58.178101 
+
+ odium192,     og,        <Channel name: shadowkekw>,       2024-11-07 11:09:05.104880 
+
+ odium192,     gd,        <Channel name: shadowkekw>,       2024-11-07 11:09:36.532910 
+
+ odium192,     ap,        <Channel name: shadowkekw>,       2024-11-07 11:09:40.820446 
+
+ odium192,     fg,        <Channel name: shadowkekw>,       2024-11-07 11:09:44.509494 
+
+ odium192,     hf,        <Channel name: shadowkekw>,       2024-11-07 11:09:48.672426 
+
+ odium192,     f;,        <Channel name: shadowkekw>,       2024-11-07 11:10:06.630937 
+
+ odium192,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:10:17.770788 
+
+ odium192,     om,        <Channel name: shadowkekw>,       2024-11-07 11:10:28.656161 
+
+ odium192,     es,        <Channel name: shadowkekw>,       2024-11-07 11:10:31.884551 
+
+ odium192,     as,        <Channel name: shadowkekw>,       2024-11-07 11:10:49.523937 
+
+ odium192,     ag,        <Channel name: shadowkekw>,       2024-11-07 11:10:51.940995 
+
+ odium192,     mn,        <Channel name: shadowkekw>,       2024-11-07 11:10:58.913054 
+
+ odium192,     gn,        <Channel name: shadowkekw>,       2024-11-07 11:11:07.279556 
+
+ odium192,     mo,        <Channel name: shadowkekw>,       2024-11-07 11:11:18.058048 
+
+ odium192,     nr,        <Channel name: shadowkekw>,       2024-11-07 11:11:34.183489 
+
+ odium192,     ko,        <Channel name: shadowkekw>,       2024-11-07 11:11:46.237549 
+
+ odium192,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:11:50.353464 
+
+ odium192,     cz,        <Channel name: shadowkekw>,       2024-11-07 11:12:08.390300 
+
+ odium192,     ko,        <Channel name: shadowkekw>,       2024-11-07 11:12:09.935580 
+
+ odium192,     ov,        <Channel name: shadowkekw>,       2024-11-07 11:12:17.728823 
+
+ odium192,     po,        <Channel name: shadowkekw>,       2024-11-07 11:12:30.242110 
+
+ odium192,     no,        <Channel name: shadowkekw>,       2024-11-07 11:12:34.577683 
+
+ odium192,     raid kaicenat WW shadowkekw WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:33.040079 
+
+ odium192,     raid kaicenat WW shadowkekw WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:38.790130 
+
+ odium192,     raid kaicenat WW shadowkekw WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:46.433850 
+
+ odium192,     fm,        <Channel name: shadowkekw>,       2024-11-07 11:36:14.879332 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT,        <Channel name: shadowkekw>,       2024-11-07 11:38:43.067309 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT,        <Channel name: shadowkekw>,       2024-11-07 11:39:01.374606 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT,        <Channel name: shadowkekw>,       2024-11-07 11:39:56.693779 
+
+ odium192,     i,        <Channel name: shadowkekw>,       2024-11-07 11:40:20.860782 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT,        <Channel name: shadowkekw>,       2024-11-07 11:40:54.199758 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:41:17.569346 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:46:59.809236 
+
+ odium192,     o,        <Channel name: shadowkekw>,       2024-11-07 11:52:44.463671 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:53:16.817320 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:53:26.115085 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:54:17.594429 
+
+ odium192,     o,        <Channel name: shadowkekw>,       2024-11-07 11:54:40.258699 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:54:44.367681 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:55:04.463993 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:55:49.500090 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:55:58.102674 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 11:56:13.953860 
+
+ odium192,     <3,        <Channel name: shadowkekw>,       2024-11-07 11:56:44.647351 
+
+ odium192,     FeelsSunnyMan: he was giving out vip for 500 gifted the other day,        <Channel name: shadowkekw>,       2024-11-07 12:03:30.778219 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:05:41.224125 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:05:54.043663 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:06:12.951087 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:06:35.560104 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw  WW,        <Channel name: shadowkekw>,       2024-11-07 12:06:53.597283 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:07:41.308345 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw    WW,        <Channel name: shadowkekw>,       2024-11-07 12:07:50.706274 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:08:11.193514 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw     WW,        <Channel name: shadowkekw>,       2024-11-07 12:08:18.662187 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:08:36.562926 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:18:23.977162 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 12:18:56.722004 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw      WW,        <Channel name: shadowkekw>,       2024-11-07 12:19:14.366087 
+
+ odium192,     https://www.twitch.tv/shadowkekw/clip/MuddyPiliableFishRalpherZ-yTJgrTB7jtOSeUMT @shadowkekw      WW,        <Channel name: shadowkekw>,       2024-11-07 12:19:40.186821 

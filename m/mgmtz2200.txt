@@ -1,0 +1,76 @@
+
+ mgmtz2200,     wrong can,        <Channel name: kaicenat>,       2024-11-07 10:42:52.327092 
+
+ mgmtz2200,     wrong camera,        <Channel name: kaicenat>,       2024-11-07 10:42:59.024308 
+
+ mgmtz2200,     Wrong Camera,        <Channel name: kaicenat>,       2024-11-07 10:43:05.801843 
+
+ mgmtz2200,     Wrong Cam,        <Channel name: kaicenat>,       2024-11-07 10:43:18.156029 
+
+ mgmtz2200,     L Production,        <Channel name: kaicenat>,       2024-11-07 10:43:46.123440 
+
+ mgmtz2200,     Wrong Cam,        <Channel name: kaicenat>,       2024-11-07 10:43:51.261035 
+
+ mgmtz2200,     L production,        <Channel name: kaicenat>,       2024-11-07 10:44:12.872542 
+
+ mgmtz2200,     Wrong Cam,        <Channel name: kaicenat>,       2024-11-07 10:44:15.990922 
+
+ mgmtz2200,     production,        <Channel name: kaicenat>,       2024-11-07 10:44:57.651531 
+
+ mgmtz2200,     L production,        <Channel name: kaicenat>,       2024-11-07 10:45:01.099611 
+
+ mgmtz2200,     switch cams,        <Channel name: kaicenat>,       2024-11-07 10:45:13.066517 
+
+ mgmtz2200,     change cams,        <Channel name: kaicenat>,       2024-11-07 10:45:18.906784 
+
+ mgmtz2200,     use other cams,        <Channel name: kaicenat>,       2024-11-07 10:45:24.600912 
+
+ mgmtz2200,     switch cams,        <Channel name: kaicenat>,       2024-11-07 10:45:28.805083 
+
+ mgmtz2200,     L production,        <Channel name: kaicenat>,       2024-11-07 10:45:36.363621 
+
+ mgmtz2200,     switch cams,        <Channel name: kaicenat>,       2024-11-07 10:45:41.175691 
+
+ mgmtz2200,     Change cams,        <Channel name: kaicenat>,       2024-11-07 10:45:45.396925 
+
+ mgmtz2200,     change cams,        <Channel name: kaicenat>,       2024-11-07 10:45:53.581099 
+
+ mgmtz2200,     RIP PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:45:59.661089 
+
+ mgmtz2200,     L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:46:06.645200 
+
+ mgmtz2200,     CHANGE CAMS,        <Channel name: kaicenat>,       2024-11-07 10:46:14.586451 
+
+ mgmtz2200,     SWITCH CAMS,        <Channel name: kaicenat>,       2024-11-07 10:46:19.997292 
+
+ mgmtz2200,     @guzzzzzzzy TELL PRODUCTION TO SEITCH CAMS,        <Channel name: kaicenat>,       2024-11-07 10:46:46.205037 
+
+ mgmtz2200,     Fire production,        <Channel name: kaicenat>,       2024-11-07 10:47:24.645546 
+
+ mgmtz2200,     Switch Cams,        <Channel name: kaicenat>,       2024-11-07 10:47:34.561146 
+
+ mgmtz2200,     finally,        <Channel name: kaicenat>,       2024-11-07 10:48:11.988289 
+
+ mgmtz2200,     who’s rich and has 100 gifted,        <Channel name: kaicenat>,       2024-11-07 12:52:47.159504 
+
+ mgmtz2200,     we need 100 gifted,        <Channel name: kaicenat>,       2024-11-07 12:55:16.190316 
+
+ mgmtz2200,     WHERE IS RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:12:03.562227 
+
+ mgmtz2200,     WHERE IS THIS NIGGA,        <Channel name: kaicenat>,       2024-11-07 13:12:11.858735 
+
+ mgmtz2200,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 13:16:09.735433 
+
+ mgmtz2200,     CUP OF WATER,        <Channel name: kaicenat>,       2024-11-07 13:21:54.838111 
+
+ mgmtz2200,     JUST DO A CUT,        <Channel name: kaicenat>,       2024-11-07 13:22:25.362825 
+
+ mgmtz2200,     GOOD MORNING,        <Channel name: kaicenat>,       2024-11-07 13:23:59.942670 
+
+ mgmtz2200,     RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK,        <Channel name: kaicenat>,       2024-11-07 13:34:26.105289 
+
+ mgmtz2200,     RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK,        <Channel name: kaicenat>,       2024-11-07 13:35:27.058764 
+
+ mgmtz2200,     yea,        <Channel name: kaicenat>,       2024-11-07 13:35:54.812716 
+
+ mgmtz2200,     RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK,        <Channel name: kaicenat>,       2024-11-07 13:36:21.971858 

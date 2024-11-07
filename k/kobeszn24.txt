@@ -4,3 +4,9 @@
  kobeszn24,     @chat can I get a sub plz,        <Channel name: kaicenat>,       2024-11-07 02:46:59.414556 
 
  kobeszn24,     @chat can I get a sub plz.,        <Channel name: kaicenat>,       2024-11-07 02:47:05.392578 
+
+ kobeszn24,     !watchtimr,        <Channel name: kaicenat>,       2024-11-07 13:10:33.494955 
+
+ kobeszn24,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 13:10:45.043483 
+
+ kobeszn24,     !followage,        <Channel name: kaicenat>,       2024-11-07 13:12:45.175480 

@@ -1,0 +1,164 @@
+
+ kotikvchate,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:40.370132 
+
+ kotikvchate,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:06:42.730937 
+
+ kotikvchate,     china,        <Channel name: shadowkekw>,       2024-11-07 10:07:01.412970 
+
+ kotikvchate,     afghanistan,        <Channel name: shadowkekw>,       2024-11-07 10:07:45.284869 
+
+ kotikvchate,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:07:51.966960 
+
+ kotikvchate,     malazia,        <Channel name: shadowkekw>,       2024-11-07 10:08:13.750362 
+
+ kotikvchate,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:08:37.862124 
+
+ kotikvchate,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:08:49.972478 
+
+ kotikvchate,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:01.414534 
+
+ kotikvchate,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.320865 
+
+ kotikvchate,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:10:07.981909 
+
+ kotikvchate,     india,        <Channel name: shadowkekw>,       2024-11-07 10:19:11.567184 
+
+ kotikvchate,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:20:13.190621 
+
+ kotikvchate,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.457045 
+
+ kotikvchate,     keniya,        <Channel name: shadowkekw>,       2024-11-07 10:21:08.784298 
+
+ kotikvchate,     o,        <Channel name: shadowkekw>,       2024-11-07 10:21:17.386563 
+
+ kotikvchate,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:21:32.780640 
+
+ kotikvchate,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:51.857303 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:22:25.370339 
+
+ kotikvchate,     north korea,        <Channel name: shadowkekw>,       2024-11-07 10:22:38.892664 
+
+ kotikvchate,     austria,        <Channel name: shadowkekw>,       2024-11-07 10:23:12.952967 
+
+ kotikvchate,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.974427 
+
+ kotikvchate,     litva,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.384890 
+
+ kotikvchate,     monako,        <Channel name: shadowkekw>,       2024-11-07 10:23:33.411436 
+
+ kotikvchate,     north korea,        <Channel name: shadowkekw>,       2024-11-07 10:23:44.084503 
+
+ kotikvchate,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:23:48.065578 
+
+ kotikvchate,     bangluadesh,        <Channel name: shadowkekw>,       2024-11-07 10:23:51.240335 
+
+ kotikvchate,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:23:53.675213 
+
+ kotikvchate,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:23:59.063418 
+
+ kotikvchate,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:24:15.027270 
+
+ kotikvchate,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.314265 
+
+ kotikvchate,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:24:44.262052 
+
+ kotikvchate,     latvian,        <Channel name: shadowkekw>,       2024-11-07 10:24:56.673430 
+
+ kotikvchate,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:11.445226 
+
+ kotikvchate,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.692348 
+
+ kotikvchate,     belarus,        <Channel name: shadowkekw>,       2024-11-07 10:25:54.217966 
+
+ kotikvchate,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:10.508254 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:26:13.142745 
+
+ kotikvchate,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:26:52.092912 
+
+ kotikvchate,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:26:56.591366 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:27:40.661079 
+
+ kotikvchate,     north korea,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.541714 
+
+ kotikvchate,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:28:05.980274 
+
+ kotikvchate,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:28:12.567362 
+
+ kotikvchate,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.762046 
+
+ kotikvchate,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.521997 
+
+ kotikvchate,     indonesian,        <Channel name: shadowkekw>,       2024-11-07 10:29:01.641929 
+
+ kotikvchate,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:29:24.739594 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:29:31.134064 
+
+ kotikvchate,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:29:50.952324 
+
+ kotikvchate,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.353583 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:16.945197 
+
+ kotikvchate,     indonesian,        <Channel name: shadowkekw>,       2024-11-07 10:30:22.466208 
+
+ kotikvchate,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:30:48.176744 
+
+ kotikvchate,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.313820 
+
+ kotikvchate,     ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:31:27.725079 
+
+ kotikvchate,     slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:32:21.835465 
+
+ kotikvchate,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.643658 
+
+ kotikvchate,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:33:05.549656 
+
+ kotikvchate,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.671747 
+
+ kotikvchate,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:33:34.000899 
+
+ kotikvchate,     usamexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.847201 
+
+ kotikvchate,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:46.203178 
+
+ kotikvchate,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:35:12.951520 
+
+ kotikvchate,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.534348 
+
+ kotikvchate,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:36:44.124312 
+
+ kotikvchate,     lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:36:51.446358 
+
+ kotikvchate,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:36:55.109573 
+
+ kotikvchate,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:21.332673 
+
+ kotikvchate,     ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:54.128793 
+
+ kotikvchate,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:37:57.505990 
+
+ kotikvchate,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:38:24.457274 
+
+ kotikvchate,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:38:27.082894 
+
+ kotikvchate,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:38:34.052005 
+
+ kotikvchate,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:40:19.429323 
+
+ kotikvchate,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:40:41.841880 
+
+ kotikvchate,     colombia,        <Channel name: shadowkekw>,       2024-11-07 10:40:58.782521 
+
+ kotikvchate,     taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:41:09.320702 
+
+ kotikvchate,     thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:16.741928 
+
+ kotikvchate,     oae,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.827102 
+
+ kotikvchate,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.364816 
+
+ kotikvchate,     lituania,        <Channel name: shadowkekw>,       2024-11-07 10:43:00.879330 

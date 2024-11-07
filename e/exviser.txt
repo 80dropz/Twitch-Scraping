@@ -1,0 +1,12 @@
+
+ exviser,     France,        <Channel name: shadowkekw>,       2024-11-07 10:12:34.815119 
+
+ exviser,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.480872 
+
+ exviser,     Qatar,        <Channel name: shadowkekw>,       2024-11-07 10:15:37.112288 
+
+ exviser,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.540485 
+
+ exviser,     Estonia,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.850371 
+
+ exviser,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:18:11.921665 

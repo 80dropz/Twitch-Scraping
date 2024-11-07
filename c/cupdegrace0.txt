@@ -1,0 +1,38 @@
+
+ cupdegrace0,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:38.854715 
+
+ cupdegrace0,     china,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.906759 
+
+ cupdegrace0,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:32:59.530233 
+
+ cupdegrace0,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.999547 
+
+ cupdegrace0,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:33:52.721354 
+
+ cupdegrace0,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:33:56.957730 
+
+ cupdegrace0,     russian federation,        <Channel name: shadowkekw>,       2024-11-07 10:34:38.105491 
+
+ cupdegrace0,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.975712 
+
+ cupdegrace0,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:35:00.294306 
+
+ cupdegrace0,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:35:43.518601 
+
+ cupdegrace0,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:15.078796 
+
+ cupdegrace0,     england,        <Channel name: shadowkekw>,       2024-11-07 10:36:50.071981 
+
+ cupdegrace0,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:38:32.989077 
+
+ cupdegrace0,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:38:40.786325 
+
+ cupdegrace0,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.720656 
+
+ cupdegrace0,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:40:05.523040 
+
+ cupdegrace0,     f,        <Channel name: shadowkekw>,       2024-11-07 10:40:34.970616 
+
+ cupdegrace0,     africa,        <Channel name: shadowkekw>,       2024-11-07 10:40:55.053759 
+
+ cupdegrace0,     india,        <Channel name: shadowkekw>,       2024-11-07 10:42:03.121747 

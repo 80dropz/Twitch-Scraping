@@ -1,0 +1,124 @@
+
+ ranaronx,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:20:30.367198 
+
+ ranaronx,     north macedonia,        <Channel name: shadowkekw>,       2024-11-07 10:22:32.194688 
+
+ ranaronx,     New zealand,        <Channel name: shadowkekw>,       2024-11-07 10:22:55.623797 
+
+ ranaronx,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:23:03.899234 
+
+ ranaronx,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.910493 
+
+ ranaronx,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:25:36.492451 
+
+ ranaronx,     reunion,        <Channel name: shadowkekw>,       2024-11-07 10:26:17.215087 
+
+ ranaronx,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:26:58.463097 
+
+ ranaronx,     Ar,        <Channel name: shadowkekw>,       2024-11-07 10:26:59.930434 
+
+ ranaronx,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:17.880455 
+
+ ranaronx,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:51.967976 
+
+ ranaronx,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:27:58.721200 
+
+ ranaronx,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:28:09.245871 
+
+ ranaronx,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:28:38.485047 
+
+ ranaronx,     Africa,        <Channel name: shadowkekw>,       2024-11-07 10:29:08.646647 
+
+ ranaronx,     uar,        <Channel name: shadowkekw>,       2024-11-07 10:33:08.222193 
+
+ ranaronx,     Uar,        <Channel name: shadowkekw>,       2024-11-07 10:33:11.926058 
+
+ ranaronx,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:33:20.739076 
+
+ ranaronx,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.380021 
+
+ ranaronx,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:35:17.460146 
+
+ ranaronx,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:35:40.163133 
+
+ ranaronx,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.696737 
+
+ ranaronx,     ng,        <Channel name: shadowkekw>,       2024-11-07 10:45:33.047022 
+
+ ranaronx,     panama,        <Channel name: shadowkekw>,       2024-11-07 10:46:06.301580 
+
+ ranaronx,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:46:27.848224 
+
+ ranaronx,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:46:49.675014 
+
+ ranaronx,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:47:13.461415 
+
+ ranaronx,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:48:28.680085 
+
+ ranaronx,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:48:45.661595 
+
+ ranaronx,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.524430 
+
+ ranaronx,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 10:49:45.217807 
+
+ ranaronx,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.224449 
+
+ ranaronx,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:52:13.219772 
+
+ ranaronx,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.072154 
+
+ ranaronx,     Curacao,        <Channel name: shadowkekw>,       2024-11-07 10:54:25.761445 
+
+ ranaronx,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:54:55.571006 
+
+ ranaronx,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:57:08.813454 
+
+ ranaronx,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:58:07.452278 
+
+ ranaronx,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:58:55.602766 
+
+ ranaronx,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 10:59:49.808983 
+
+ ranaronx,     R,        <Channel name: shadowkekw>,       2024-11-07 11:01:03.967771 
+
+ ranaronx,     Bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:01:45.247792 
+
+ ranaronx,     Chile,        <Channel name: shadowkekw>,       2024-11-07 11:02:47.969976 
+
+ ranaronx,     Reunion,        <Channel name: shadowkekw>,       2024-11-07 11:04:19.852895 
+
+ ranaronx,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:04:57.131745 
+
+ ranaronx,     Romania,        <Channel name: shadowkekw>,       2024-11-07 11:06:06.414550 
+
+ ranaronx,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 11:06:10.574038 
+
+ ranaronx,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 11:06:52.242808 
+
+ ranaronx,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.302760 
+
+ ranaronx,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:07:35.380651 
+
+ ranaronx,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 11:07:41.867176 
+
+ ranaronx,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.096365 
+
+ ranaronx,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:08:54.439791 
+
+ ranaronx,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 11:09:17.542500 
+
+ ranaronx,     Eswatini,        <Channel name: shadowkekw>,       2024-11-07 11:09:28.566104 
+
+ ranaronx,     Botswana,        <Channel name: shadowkekw>,       2024-11-07 11:10:59.090256 
+
+ ranaronx,     Uae,        <Channel name: shadowkekw>,       2024-11-07 11:11:02.687909 
+
+ ranaronx,     Reunion,        <Channel name: shadowkekw>,       2024-11-07 11:11:48.959146 
+
+ ranaronx,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.911636 
+
+ ranaronx,     Philippines,        <Channel name: shadowkekw>,       2024-11-07 11:13:35.147100 
+
+ ranaronx,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:13:45.507761 
+
+ ranaronx,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:14:12.107382 

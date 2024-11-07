@@ -1,0 +1,12 @@
+
+ pvndda,     echooooo,        <Channel name: nadeshot>,       2024-11-07 11:56:38.125325 
+
+ pvndda,     hey,        <Channel name: nadeshot>,       2024-11-07 12:03:03.784278 
+
+ pvndda,     wtf,        <Channel name: nadeshot>,       2024-11-07 12:04:23.525250 
+
+ pvndda,     ???,        <Channel name: nadeshot>,       2024-11-07 12:04:28.255594 
+
+ pvndda,     omfg,        <Channel name: nadeshot>,       2024-11-07 12:14:52.964314 
+
+ pvndda,     Hey,        <Channel name: nadeshot>,       2024-11-07 12:16:42.768626 

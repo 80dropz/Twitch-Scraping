@@ -1,2 +1,48 @@
 
  arxxi,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:41:47.288035 
+
+ arxxi,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:09:07.605463 
+
+ arxxi,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:09:46.164597 
+
+ arxxi,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:10:07.013894 
+
+ arxxi,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.464445 
+
+ arxxi,     z,        <Channel name: shadowkekw>,       2024-11-07 10:11:11.445158 
+
+ arxxi,     EZ,        <Channel name: shadowkekw>,       2024-11-07 10:11:19.034879 
+
+ arxxi,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:14:37.991045 
+
+ arxxi,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:15:42.848246 
+
+ arxxi,     Bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:17:22.925646 
+
+ arxxi,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.257337 
+
+ arxxi,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.787393 
+
+ arxxi,     Uneted States,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.113934 
+
+ arxxi,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:18:59.913984 
+
+ arxxi,     Bostwani,        <Channel name: shadowkekw>,       2024-11-07 10:19:17.318879 
+
+ arxxi,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:19:50.835946 
+
+ arxxi,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:20:11.731276 
+
+ arxxi,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.365603 
+
+ arxxi,     UAE,        <Channel name: shadowkekw>,       2024-11-07 10:20:47.530029 
+
+ arxxi,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:21:08.389948 
+
+ arxxi,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:21:25.613647 
+
+ arxxi,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:21:48.245970 
+
+ arxxi,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:22:57.122020 
+
+ arxxi,     Panama,        <Channel name: shadowkekw>,       2024-11-07 10:23:04.622859 

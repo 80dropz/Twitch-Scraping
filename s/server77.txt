@@ -1,0 +1,4 @@
+
+ server77,     www,        <Channel name: kaicenat>,       2024-11-07 10:48:32.543082 
+
+ server77,     wwww,        <Channel name: kaicenat>,       2024-11-07 10:50:44.919542 

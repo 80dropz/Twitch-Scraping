@@ -1,0 +1,4 @@
+
+ trueno_gr86,     ………,        <Channel name: swagg>,       2024-11-07 12:03:34.476587 
+
+ trueno_gr86,     …….,        <Channel name: swagg>,       2024-11-07 12:03:50.630765 

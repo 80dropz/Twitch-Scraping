@@ -1,0 +1,14 @@
+
+ g1mmetheloot,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.498970 
+
+ g1mmetheloot,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.035838 
+
+ g1mmetheloot,     us,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.841020 
+
+ g1mmetheloot,     monaco,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.178069 
+
+ g1mmetheloot,     Fr,        <Channel name: shadowkekw>,       2024-11-07 10:39:27.536442 
+
+ g1mmetheloot,     ph,        <Channel name: shadowkekw>,       2024-11-07 10:41:05.251830 
+
+ g1mmetheloot,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:42:51.782576 

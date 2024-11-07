@@ -12,3 +12,9 @@
  alexmancool,     GET  A NEW WHEEL MF ome3iguess,        <Channel name: kaicenat>,       2024-11-07 01:31:46.435156 
 
  alexmancool,     1 MINUTE,        <Channel name: kaicenat>,       2024-11-07 01:40:05.318607 
+
+ alexmancool,     not in the movies idiot,        <Channel name: kaicenat>,       2024-11-07 10:31:00.564189 
+
+ alexmancool,     not in the movie idiot,        <Channel name: kaicenat>,       2024-11-07 10:31:15.273605 
+
+ alexmancool,     FINALLY,        <Channel name: kaicenat>,       2024-11-07 10:47:57.882403 

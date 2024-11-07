@@ -1,0 +1,6 @@
+
+ kera_leigh3000,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 11:17:04.439137 
+
+ kera_leigh3000,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 11:17:41.539326 
+
+ kera_leigh3000,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:18:16.690430 

@@ -1,0 +1,4 @@
+
+ bergilicieux,     Nade using the v3 pro,        <Channel name: nadeshot>,       2024-11-07 12:04:22.090281 
+
+ bergilicieux,     !mouse,        <Channel name: nadeshot>,       2024-11-07 12:04:27.738367 

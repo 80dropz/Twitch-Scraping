@@ -14,3 +14,5 @@
  supibot,     immortalmochi, Your daily cookie: Smile. Tomorrow is another day.,        <Channel name: aceu>,       2024-11-07 01:58:09.708272 
 
  supibot,     Successfully given your cookie for today to bardokitty supiniOkay,        <Channel name: aceu>,       2024-11-07 02:32:51.873761 
+
+ supibot,     felblade, You already opened or gifted a fortune cookie today. You can get another one at midnight UTC, which is in 8h, 34m.,        <Channel name: aceu>,       2024-11-07 10:26:09.361547 

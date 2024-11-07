@@ -1,0 +1,78 @@
+
+ mctrachen,     Chuna,        <Channel name: shadowkekw>,       2024-11-07 10:26:20.736030 
+
+ mctrachen,     Asia,        <Channel name: shadowkekw>,       2024-11-07 10:26:25.908780 
+
+ mctrachen,     afrika,        <Channel name: shadowkekw>,       2024-11-07 10:27:52.068658 
+
+ mctrachen,     ni,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.936912 
+
+ mctrachen,     lt,        <Channel name: shadowkekw>,       2024-11-07 10:36:58.023023 
+
+ mctrachen,     ch,        <Channel name: shadowkekw>,       2024-11-07 10:36:59.839449 
+
+ mctrachen,     gb,        <Channel name: shadowkekw>,       2024-11-07 10:37:08.323464 
+
+ mctrachen,     112,        <Channel name: shadowkekw>,       2024-11-07 10:37:14.566571 
+
+ mctrachen,     1121,        <Channel name: shadowkekw>,       2024-11-07 10:37:17.450761 
+
+ mctrachen,     rf,        <Channel name: shadowkekw>,       2024-11-07 10:38:37.081219 
+
+ mctrachen,     afsdsdfsd,        <Channel name: shadowkekw>,       2024-11-07 10:40:45.570469 
+
+ mctrachen,     f,        <Channel name: shadowkekw>,       2024-11-07 10:40:50.146407 
+
+ mctrachen,     cpppp,        <Channel name: shadowkekw>,       2024-11-07 10:40:53.240392 
+
+ mctrachen,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:24.887896 
+
+ mctrachen,     hk,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.663405 
+
+ mctrachen,     vi,        <Channel name: shadowkekw>,       2024-11-07 10:51:09.128938 
+
+ mctrachen,     jojo,        <Channel name: shadowkekw>,       2024-11-07 10:51:40.385503 
+
+ mctrachen,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:59.950697 
+
+ mctrachen,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.573348 
+
+ mctrachen,     ao,        <Channel name: shadowkekw>,       2024-11-07 10:52:33.788871 
+
+ mctrachen,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:52:59.980575 
+
+ mctrachen,     pr,        <Channel name: shadowkekw>,       2024-11-07 10:53:22.531039 
+
+ mctrachen,     gn,        <Channel name: shadowkekw>,       2024-11-07 10:53:39.137304 
+
+ mctrachen,     za,        <Channel name: shadowkekw>,       2024-11-07 10:54:02.358840 
+
+ mctrachen,     fr,        <Channel name: shadowkekw>,       2024-11-07 10:54:25.054289 
+
+ mctrachen,     ;'tgruzdjg',        <Channel name: shadowkekw>,       2024-11-07 10:54:59.232732 
+
+ mctrachen,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:55:18.448984 
+
+ mctrachen,     ad,        <Channel name: shadowkekw>,       2024-11-07 10:55:31.411446 
+
+ mctrachen,     jp,        <Channel name: shadowkekw>,       2024-11-07 10:55:53.175748 
+
+ mctrachen,     rh,        <Channel name: shadowkekw>,       2024-11-07 10:56:22.810518 
+
+ mctrachen,     kz,        <Channel name: shadowkekw>,       2024-11-07 10:56:48.459901 
+
+ mctrachen,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:57:26.354024 
+
+ mctrachen,     ka,        <Channel name: shadowkekw>,       2024-11-07 10:58:31.705178 
+
+ mctrachen,     of,        <Channel name: shadowkekw>,       2024-11-07 10:59:05.375509 
+
+ mctrachen,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:59:39.096634 
+
+ mctrachen,     UYHRE',        <Channel name: shadowkekw>,       2024-11-07 11:00:28.269212 
+
+ mctrachen,     KZ,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.342540 
+
+ mctrachen,     j,        <Channel name: shadowkekw>,       2024-11-07 11:02:30.819218 
+
+ mctrachen,     ve,        <Channel name: shadowkekw>,       2024-11-07 11:03:31.972256 

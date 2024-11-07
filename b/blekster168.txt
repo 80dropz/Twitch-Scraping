@@ -1,0 +1,156 @@
+
+ blekster168,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:56.032562 
+
+ blekster168,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:05.183960 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:14:05.948481 
+
+ blekster168,     chine,        <Channel name: shadowkekw>,       2024-11-07 10:15:10.551577 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:15:30.145595 
+
+ blekster168,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:16:08.186180 
+
+ blekster168,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:16:16.111043 
+
+ blekster168,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:18:16.004515 
+
+ blekster168,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.179182 
+
+ blekster168,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:19:20.760089 
+
+ blekster168,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:19:53.725945 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:20:02.582501 
+
+ blekster168,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:20:15.620502 
+
+ blekster168,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:20:40.597716 
+
+ blekster168,     French,        <Channel name: shadowkekw>,       2024-11-07 10:21:40.610391 
+
+ blekster168,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:22:55.937534 
+
+ blekster168,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:09.253607 
+
+ blekster168,     moldova,        <Channel name: shadowkekw>,       2024-11-07 10:23:25.933724 
+
+ blekster168,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.289761 
+
+ blekster168,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:25:05.092721 
+
+ blekster168,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:25:17.640966 
+
+ blekster168,     maroco,        <Channel name: shadowkekw>,       2024-11-07 10:25:45.456636 
+
+ blekster168,     Madagascar,        <Channel name: shadowkekw>,       2024-11-07 10:26:43.691855 
+
+ blekster168,     malaise,        <Channel name: shadowkekw>,       2024-11-07 10:27:09.538650 
+
+ blekster168,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:26.445690 
+
+ blekster168,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.651666 
+
+ blekster168,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:27:53.742066 
+
+ blekster168,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:28:16.725146 
+
+ blekster168,     Georgia,        <Channel name: shadowkekw>,       2024-11-07 10:28:59.014604 
+
+ blekster168,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:31:20.704421 
+
+ blekster168,     French,        <Channel name: shadowkekw>,       2024-11-07 10:31:54.385991 
+
+ blekster168,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:31:59.108282 
+
+ blekster168,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:32:17.136410 
+
+ blekster168,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:32:19.166144 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:37.801454 
+
+ blekster168,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:33:00.247184 
+
+ blekster168,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:33:25.054344 
+
+ blekster168,     iceland,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.157785 
+
+ blekster168,     Finland,        <Channel name: shadowkekw>,       2024-11-07 10:34:33.273289 
+
+ blekster168,     iraq,        <Channel name: shadowkekw>,       2024-11-07 10:34:57.688075 
+
+ blekster168,     ne,        <Channel name: shadowkekw>,       2024-11-07 10:35:28.598422 
+
+ blekster168,     au,        <Channel name: shadowkekw>,       2024-11-07 10:35:49.016968 
+
+ blekster168,     Siri,        <Channel name: shadowkekw>,       2024-11-07 10:37:10.478686 
+
+ blekster168,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:37:39.102372 
+
+ blekster168,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:37:45.294888 
+
+ blekster168,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:39:17.085053 
+
+ blekster168,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:39:30.355400 
+
+ blekster168,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:41:07.478526 
+
+ blekster168,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:41:13.919701 
+
+ blekster168,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:42:56.273072 
+
+ blekster168,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:43:16.202766 
+
+ blekster168,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:44:01.579510 
+
+ blekster168,     ag,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.450576 
+
+ blekster168,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:44:10.786934 
+
+ blekster168,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:44:55.716764 
+
+ blekster168,     cu,        <Channel name: shadowkekw>,       2024-11-07 10:44:59.574165 
+
+ blekster168,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:45:20.332735 
+
+ blekster168,     ua,        <Channel name: shadowkekw>,       2024-11-07 10:45:55.768946 
+
+ blekster168,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:46:37.627154 
+
+ blekster168,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:46:58.964549 
+
+ blekster168,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:47:34.470010 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:47:55.869089 
+
+ blekster168,     French,        <Channel name: shadowkekw>,       2024-11-07 10:48:14.269054 
+
+ blekster168,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:48:30.293208 
+
+ blekster168,     Moldova,        <Channel name: shadowkekw>,       2024-11-07 10:48:47.496457 
+
+ blekster168,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:49:04.419607 
+
+ blekster168,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:49:40.454868 
+
+ blekster168,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:59.370762 
+
+ blekster168,     tiawan,        <Channel name: shadowkekw>,       2024-11-07 10:51:57.680366 
+
+ blekster168,     honk kong,        <Channel name: shadowkekw>,       2024-11-07 10:52:24.112434 
+
+ blekster168,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:52:44.388213 
+
+ blekster168,     Uganda,        <Channel name: shadowkekw>,       2024-11-07 10:53:14.858115 
+
+ blekster168,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:54:25.670443 
+
+ blekster168,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:54:46.807095 
+
+ blekster168,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.276202 
+
+ blekster168,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:56:04.495366 
+
+ blekster168,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:38.438262 
+
+ blekster168,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:56:52.097359 

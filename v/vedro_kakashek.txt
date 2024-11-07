@@ -1,0 +1,44 @@
+
+ vedro_kakashek,     eyhiopy,        <Channel name: shadowkekw>,       2024-11-07 10:07:47.221843 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:01.846057 
+
+ vedro_kakashek,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:09:06.448225 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.435940 
+
+ vedro_kakashek,     canda,        <Channel name: shadowkekw>,       2024-11-07 10:10:20.422143 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:20.100463 
+
+ vedro_kakashek,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:11:41.989694 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:54.507999 
+
+ vedro_kakashek,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:11:58.018804 
+
+ vedro_kakashek,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:12:00.582310 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:12:38.723236 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:13:23.195109 
+
+ vedro_kakashek,     columbia,        <Channel name: shadowkekw>,       2024-11-07 10:13:30.528912 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:13:44.669952 
+
+ vedro_kakashek,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:13:51.690660 
+
+ vedro_kakashek,     cuba,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.661361 
+
+ vedro_kakashek,     china,        <Channel name: shadowkekw>,       2024-11-07 10:15:09.340661 
+
+ vedro_kakashek,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.256987 
+
+ vedro_kakashek,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.306755 
+
+ vedro_kakashek,     ethiopia,        <Channel name: shadowkekw>,       2024-11-07 10:16:39.233448 
+
+ vedro_kakashek,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:17:59.331187 
+
+ vedro_kakashek,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:18:48.569900 

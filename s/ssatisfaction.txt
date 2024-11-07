@@ -1,0 +1,44 @@
+
+ ssatisfaction,     China,        <Channel name: shadowkekw>,       2024-11-07 10:07:10.447621 
+
+ ssatisfaction,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:07:50.813872 
+
+ ssatisfaction,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.061675 
+
+ ssatisfaction,     Itailia,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.339139 
+
+ ssatisfaction,     PAR,        <Channel name: shadowkekw>,       2024-11-07 10:08:07.765410 
+
+ ssatisfaction,     Zimbabwe,        <Channel name: shadowkekw>,       2024-11-07 10:08:22.317658 
+
+ ssatisfaction,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:08:36.671076 
+
+ ssatisfaction,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:08:52.881588 
+
+ ssatisfaction,     Ukraine .,        <Channel name: shadowkekw>,       2024-11-07 10:09:11.431325 
+
+ ssatisfaction,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:14.413631 
+
+ ssatisfaction,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:09:57.505049 
+
+ ssatisfaction,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:08.555130 
+
+ ssatisfaction,     Porttugal,        <Channel name: shadowkekw>,       2024-11-07 10:11:42.102068 
+
+ ssatisfaction,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.059983 
+
+ ssatisfaction,     OAE,        <Channel name: shadowkekw>,       2024-11-07 10:12:28.437929 
+
+ ssatisfaction,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:13:13.689539 
+
+ ssatisfaction,     Bangladesh,        <Channel name: shadowkekw>,       2024-11-07 10:13:33.531527 
+
+ ssatisfaction,     Montenegro,        <Channel name: shadowkekw>,       2024-11-07 10:13:56.364524 
+
+ ssatisfaction,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:14:25.594560 
+
+ ssatisfaction,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:14:57.226020 
+
+ ssatisfaction,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:10.416938 
+
+ ssatisfaction,     texas,        <Channel name: shadowkekw>,       2024-11-07 10:33:54.196524 

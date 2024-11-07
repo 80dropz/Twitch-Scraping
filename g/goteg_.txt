@@ -1,0 +1,24 @@
+
+ goteg_,     !watchtime,        <Channel name: mrlust>,       2024-11-07 10:10:08.704529 
+
+ goteg_,     Asieenézaiereréamaoieenéteie teie acoueioiereréo moauechooe,        <Channel name: mrlust>,       2024-11-07 10:12:08.936334 
+
+ goteg_,     !crosshair,        <Channel name: mrlust>,       2024-11-07 10:13:56.272949 
+
+ goteg_,     !settings,        <Channel name: mrlust>,       2024-11-07 10:15:17.334430 
+
+ goteg_,     !watchtime,        <Channel name: mrlust>,       2024-11-07 10:16:21.045278 
+
+ goteg_,     !watchtime,        <Channel name: mrlust>,       2024-11-07 10:18:24.274272 
+
+ goteg_,     gg,        <Channel name: mrlust>,       2024-11-07 10:19:58.333879 
+
+ goteg_,     !watchtime,        <Channel name: mrlust>,       2024-11-07 10:20:02.796764 
+
+ goteg_,     Algún español?¿,        <Channel name: mrlust>,       2024-11-07 10:20:42.530828 
+
+ goteg_,     Son clips,        <Channel name: mrlust>,       2024-11-07 10:21:09.628097 
+
+ goteg_,     Los graban y luego los ponen en twitch,        <Channel name: mrlust>,       2024-11-07 10:21:20.655319 
+
+ goteg_,     Es obvio perooo buenoo,        <Channel name: mrlust>,       2024-11-07 10:22:07.690295 

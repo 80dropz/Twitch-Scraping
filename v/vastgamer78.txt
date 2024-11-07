@@ -1,0 +1,4 @@
+
+ vastgamer78,     roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:32.285754 
+
+ vastgamer78,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:52:41.100638 

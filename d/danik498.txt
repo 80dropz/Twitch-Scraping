@@ -32,3 +32,51 @@
  danik498,     )),        <Channel name: shadowkekw>,       2024-11-07 09:42:16.073976 
 
  danik498,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:43:35.850959 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:44:48.517672 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:40.298286 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:47:54.950698 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:48:45.326800 
+
+ danik498,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:05.562150 
+
+ danik498,     and,        <Channel name: shadowkekw>,       2024-11-07 11:49:36.707633 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:29.937653 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:50:44.673311 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:52:01.360257 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:54:24.693370 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:55:48.098523 
+
+ danik498,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:00:35.177765 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:01:46.697392 
+
+ danik498,     ((,        <Channel name: shadowkekw>,       2024-11-07 12:03:59.088663 
+
+ danik498,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:13:22.770580 
+
+ danik498,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:47:21.458268 
+
+ danik498,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:48:00.858633 
+
+ danik498,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:48:46.939667 
+
+ danik498,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:50:49.446532 
+
+ danik498,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:52:10.234603 
+
+ danik498,     dans,        <Channel name: shadowkekw>,       2024-11-07 12:53:57.299468 
+
+ danik498,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:54:22.045742 
+
+ danik498,     TrumpDance,        <Channel name: shadowkekw>,       2024-11-07 12:55:40.416349 
+
+ danik498,     )),        <Channel name: shadowkekw>,       2024-11-07 12:56:51.248759 

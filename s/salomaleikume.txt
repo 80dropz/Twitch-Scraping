@@ -1,0 +1,26 @@
+
+ salomaleikume,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.026719 
+
+ salomaleikume,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:41:49.853028 
+
+ salomaleikume,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.250820 
+
+ salomaleikume,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:44:26.190594 
+
+ salomaleikume,     kipr,        <Channel name: shadowkekw>,       2024-11-07 10:49:33.716354 
+
+ salomaleikume,     scotland,        <Channel name: shadowkekw>,       2024-11-07 10:50:00.180311 
+
+ salomaleikume,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:51:17.292605 
+
+ salomaleikume,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:51:42.751029 
+
+ salomaleikume,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:52:47.693686 
+
+ salomaleikume,     kenya,        <Channel name: shadowkekw>,       2024-11-07 10:53:27.469719 
+
+ salomaleikume,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:54:37.365911 
+
+ salomaleikume,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:56:31.979810 
+
+ salomaleikume,     greece,        <Channel name: shadowkekw>,       2024-11-07 10:57:35.301225 

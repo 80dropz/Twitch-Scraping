@@ -1,2 +1,48 @@
 
  ech_0o_,     Deal,        <Channel name: kaicenat>,       2024-11-07 01:23:20.999151 
+
+ ech_0o_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:05:17.853322 
+
+ ech_0o_,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 10:05:25.088246 
+
+ ech_0o_,     !roulette 11,        <Channel name: kaicenat>,       2024-11-07 10:05:31.289017 
+
+ ech_0o_,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:05:37.393159 
+
+ ech_0o_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:05:41.435300 
+
+ ech_0o_,     !roulette 6,        <Channel name: kaicenat>,       2024-11-07 10:05:48.552457 
+
+ ech_0o_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:05:59.556940 
+
+ ech_0o_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:06:04.508985 
+
+ ech_0o_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:06:13.119083 
+
+ ech_0o_,     !roulette,        <Channel name: kaicenat>,       2024-11-07 10:06:17.672913 
+
+ ech_0o_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:06:22.330869 
+
+ ech_0o_,     f,        <Channel name: kaicenat>,       2024-11-07 10:06:24.580786 
+
+ ech_0o_,     ff,        <Channel name: kaicenat>,       2024-11-07 10:06:28.124052 
+
+ ech_0o_,     f,        <Channel name: kaicenat>,       2024-11-07 10:06:29.375487 
+
+ ech_0o_,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:06:40.592775 
+
+ ech_0o_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:06:44.958364 
+
+ ech_0o_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:06:51.281516 
+
+ ech_0o_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:06:54.534173 
+
+ ech_0o_,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 10:07:02.468603 
+
+ ech_0o_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:07:08.247541 
+
+ ech_0o_,     w NPC,        <Channel name: kaicenat>,       2024-11-07 10:20:28.503680 
+
+ ech_0o_,     ILY miles,        <Channel name: kaicenat>,       2024-11-07 10:20:57.900678 
+
+ ech_0o_,     @silentxkillerxinside MODS,        <Channel name: kaicenat>,       2024-11-07 10:27:08.172720 

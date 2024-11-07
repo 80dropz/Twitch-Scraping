@@ -1,2 +1,12 @@
 
  satovas,     900,        <Channel name: shadowkekw>,       2024-11-07 09:16:44.453812 
+
+ satovas,     ),        <Channel name: shadowkekw>,       2024-11-07 10:10:48.883691 
+
+ satovas,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:11:02.531784 
+
+ satovas,     India,        <Channel name: shadowkekw>,       2024-11-07 10:12:38.287705 
+
+ satovas,     Swedland,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.085239 
+
+ satovas,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:34.895081 

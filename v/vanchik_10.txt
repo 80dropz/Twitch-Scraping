@@ -1,2 +1,6 @@
 
  vanchik_10,     WW WW WW WW WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:47.549246 
+
+ vanchik_10,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:27:57.767523 
+
+ vanchik_10,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:11.174078 

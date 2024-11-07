@@ -1,0 +1,4 @@
+
+ hkg_nofaxe,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:16:14.975749 
+
+ hkg_nofaxe,     !points,        <Channel name: kaicenat>,       2024-11-07 10:17:13.297040 

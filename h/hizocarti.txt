@@ -2,3 +2,15 @@
  hizocarti,     des0ut,        <Channel name: shadowkekw>,       2024-11-07 09:27:22.218320 
 
  hizocarti,     4 3,        <Channel name: shadowkekw>,       2024-11-07 09:37:03.628951 
+
+ hizocarti,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:08:31.069892 
+
+ hizocarti,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:09:12.022476 
+
+ hizocarti,     China,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.974827 
+
+ hizocarti,     USAa,        <Channel name: shadowkekw>,       2024-11-07 10:10:28.283352 
+
+ hizocarti,     KENIYA,        <Channel name: shadowkekw>,       2024-11-07 10:12:45.618219 
+
+ hizocarti,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:13:09.061089 

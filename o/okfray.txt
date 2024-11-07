@@ -1,0 +1,8 @@
+
+ okfray,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:53:58.076053 
+
+ okfray,     !roulette 20k,        <Channel name: kaicenat>,       2024-11-07 09:54:22.543806 
+
+ okfray,     !roulette 20000,        <Channel name: kaicenat>,       2024-11-07 09:55:11.320898 
+
+ okfray,     !roulette 5k,        <Channel name: kaicenat>,       2024-11-07 09:56:07.719828 

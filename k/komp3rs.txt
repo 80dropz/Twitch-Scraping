@@ -20,3 +20,131 @@
  komp3rs,     0-0,        <Channel name: shadowkekw>,       2024-11-07 09:42:54.086384 
 
  komp3rs,     pp,        <Channel name: shadowkekw>,       2024-11-07 09:43:10.269533 
+
+ komp3rs,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:52:44.136122 
+
+ komp3rs,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:53:19.350760 
+
+ komp3rs,     28,        <Channel name: shadowkekw>,       2024-11-07 10:00:32.553182 
+
+ komp3rs,     NELOL,        <Channel name: shadowkekw>,       2024-11-07 10:05:26.209117 
+
+ komp3rs,     Italia,        <Channel name: shadowkekw>,       2024-11-07 10:08:14.305056 
+
+ komp3rs,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:09:31.650237 
+
+ komp3rs,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:17.403900 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:15:04.209181 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.068948 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:17:19.132871 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:19:36.090295 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:22:52.183248 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:24:40.334844 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:25:55.338371 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.114388 
+
+ komp3rs,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.353603 
+
+ komp3rs,     France,        <Channel name: shadowkekw>,       2024-11-07 10:29:14.395145 
+
+ komp3rs,     Serdia,        <Channel name: shadowkekw>,       2024-11-07 10:29:33.026787 
+
+ komp3rs,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:29:52.230249 
+
+ komp3rs,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.583922 
+
+ komp3rs,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:32:14.541260 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:33:49.434443 
+
+ komp3rs,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:34:53.081750 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:34:56.702432 
+
+ komp3rs,     NI,        <Channel name: shadowkekw>,       2024-11-07 10:35:21.954807 
+
+ komp3rs,     900,        <Channel name: shadowkekw>,       2024-11-07 10:35:59.005884 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:38:57.798253 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:40:52.908332 
+
+ komp3rs,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:41:12.751949 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:42:02.971921 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:44:37.829225 
+
+ komp3rs,     38,        <Channel name: shadowkekw>,       2024-11-07 10:44:44.003681 
+
+ komp3rs,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 10:49:48.985538 
+
+ komp3rs,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:51:02.033792 
+
+ komp3rs,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:51:47.418694 
+
+ komp3rs,     Senegal,        <Channel name: shadowkekw>,       2024-11-07 10:53:14.996305 
+
+ komp3rs,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:53:31.419603 
+
+ komp3rs,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:54:26.317923 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:55:15.414425 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:55:51.605346 
+
+ komp3rs,     SOSI,        <Channel name: shadowkekw>,       2024-11-07 10:56:14.628769 
+
+ komp3rs,     oh,        <Channel name: shadowkekw>,       2024-11-07 10:56:40.730730 
+
+ komp3rs,     d,        <Channel name: shadowkekw>,       2024-11-07 10:56:59.282413 
+
+ komp3rs,     br,        <Channel name: shadowkekw>,       2024-11-07 10:57:40.258383 
+
+ komp3rs,     dm,        <Channel name: shadowkekw>,       2024-11-07 11:10:42.737793 
+
+ komp3rs,     )),        <Channel name: shadowkekw>,       2024-11-07 11:12:06.411549 
+
+ komp3rs,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.882111 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:15:48.300901 
+
+ komp3rs,     )),        <Channel name: shadowkekw>,       2024-11-07 11:15:59.106256 
+
+ komp3rs,     )),        <Channel name: shadowkekw>,       2024-11-07 11:16:56.239929 
+
+ komp3rs,     -rep,        <Channel name: shadowkekw>,       2024-11-07 11:18:33.490155 
+
+ komp3rs,     LL,        <Channel name: shadowkekw>,       2024-11-07 11:18:37.301624 
+
+ komp3rs,     zaza,        <Channel name: shadowkekw>,       2024-11-07 11:24:10.490216 
+
+ komp3rs,     )),        <Channel name: shadowkekw>,       2024-11-07 11:24:32.800660 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:25:07.224819 
+
+ komp3rs,     hz,        <Channel name: shadowkekw>,       2024-11-07 11:27:47.189732 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:32:30.041408 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 11:33:06.328772 
+
+ komp3rs,     @shadowkekw,        <Channel name: kaicenat>,       2024-11-07 11:34:28.568093 
+
+ komp3rs,     yo,        <Channel name: kaicenat>,       2024-11-07 11:35:15.741433 
+
+ komp3rs,     WW,        <Channel name: shadowkekw>,       2024-11-07 12:31:48.239299 
+
+ komp3rs,     900,        <Channel name: shadowkekw>,       2024-11-07 12:40:19.788679 
+
+ komp3rs,     bb,        <Channel name: shadowkekw>,       2024-11-07 12:47:53.783082 
+
+ komp3rs,     sps,        <Channel name: shadowkekw>,       2024-11-07 12:48:08.022272 

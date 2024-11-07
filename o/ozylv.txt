@@ -1,0 +1,4 @@
+
+ ozylv,     MUTER,        <Channel name: kaicenat>,       2024-11-07 11:41:17.529346 
+
+ ozylv,     MUTED,        <Channel name: kaicenat>,       2024-11-07 11:41:25.934343 

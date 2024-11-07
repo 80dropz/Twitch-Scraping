@@ -1,0 +1,74 @@
+
+ papasha_bustera,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:06:39.770470 
+
+ papasha_bustera,     UKRAINE,        <Channel name: shadowkekw>,       2024-11-07 10:06:43.537501 
+
+ papasha_bustera,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:06:56.800307 
+
+ papasha_bustera,     CHINA,        <Channel name: shadowkekw>,       2024-11-07 10:06:59.994102 
+
+ papasha_bustera,     SPAIN,        <Channel name: shadowkekw>,       2024-11-07 10:07:16.655667 
+
+ papasha_bustera,     PORTUGAL,        <Channel name: shadowkekw>,       2024-11-07 10:07:23.387289 
+
+ papasha_bustera,     MALAIZIA,        <Channel name: shadowkekw>,       2024-11-07 10:08:05.215952 
+
+ papasha_bustera,     NEW ZEALAND,        <Channel name: shadowkekw>,       2024-11-07 10:08:32.504589 
+
+ papasha_bustera,     ENGLAND,        <Channel name: shadowkekw>,       2024-11-07 10:09:08.727494 
+
+ papasha_bustera,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:09:23.476473 
+
+ papasha_bustera,     TURKEY,        <Channel name: shadowkekw>,       2024-11-07 10:10:49.921596 
+
+ papasha_bustera,     SPAIN,        <Channel name: shadowkekw>,       2024-11-07 10:11:30.759955 
+
+ papasha_bustera,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:11:53.578463 
+
+ papasha_bustera,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:45.501903 
+
+ papasha_bustera,     USA /,        <Channel name: shadowkekw>,       2024-11-07 10:13:02.976092 
+
+ papasha_bustera,     YUSA,        <Channel name: shadowkekw>,       2024-11-07 10:13:45.823535 
+
+ papasha_bustera,     CHINA,        <Channel name: shadowkekw>,       2024-11-07 10:36:09.779605 
+
+ papasha_bustera,     BRAZIL,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.910379 
+
+ papasha_bustera,     BRAZIL,        <Channel name: shadowkekw>,       2024-11-07 10:37:36.040342 
+
+ papasha_bustera,     ITALY,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.975802 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:41:28.983668 
+
+ papasha_bustera,     GOVNO,        <Channel name: shadowkekw>,       2024-11-07 10:41:37.216900 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:41:46.409533 
+
+ papasha_bustera,     AE,        <Channel name: shadowkekw>,       2024-11-07 10:42:41.127758 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:43:59.644066 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:47:23.954772 
+
+ papasha_bustera,     BR /,        <Channel name: shadowkekw>,       2024-11-07 10:47:44.015891 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:49:29.798897 
+
+ papasha_bustera,     OZ,        <Channel name: shadowkekw>,       2024-11-07 10:54:15.636366 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.672115 
+
+ papasha_bustera,     BR/,        <Channel name: shadowkekw>,       2024-11-07 10:56:01.339019 
+
+ papasha_bustera,     BRAZIL,        <Channel name: shadowkekw>,       2024-11-07 10:56:25.048256 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 10:57:10.814650 
+
+ papasha_bustera,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.596140 
+
+ papasha_bustera,     BRAZIL,        <Channel name: shadowkekw>,       2024-11-07 11:00:31.761414 
+
+ papasha_bustera,     BR,        <Channel name: shadowkekw>,       2024-11-07 11:01:43.191614 
+
+ papasha_bustera,     ESTONIA,        <Channel name: shadowkekw>,       2024-11-07 11:02:48.041527 

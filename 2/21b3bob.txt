@@ -1,0 +1,42 @@
+
+ 21b3bob,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:56:09.203036 
+
+ 21b3bob,     Peru,        <Channel name: shadowkekw>,       2024-11-07 10:57:22.690593 
+
+ 21b3bob,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:58:36.249467 
+
+ 21b3bob,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:59:26.539082 
+
+ 21b3bob,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:00:49.737863 
+
+ 21b3bob,     Usa,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.205649 
+
+ 21b3bob,     Germany,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.367474 
+
+ 21b3bob,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:04:25.726447 
+
+ 21b3bob,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:05:41.387854 
+
+ 21b3bob,     Kazahstan,        <Channel name: shadowkekw>,       2024-11-07 11:06:15.141769 
+
+ 21b3bob,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 11:07:42.955855 
+
+ 21b3bob,     Vietnam,        <Channel name: shadowkekw>,       2024-11-07 11:07:54.750635 
+
+ 21b3bob,     Mali,        <Channel name: shadowkekw>,       2024-11-07 11:09:18.115315 
+
+ 21b3bob,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 11:09:55.416756 
+
+ 21b3bob,     South Corea,        <Channel name: shadowkekw>,       2024-11-07 11:10:34.534133 
+
+ 21b3bob,     south corea,        <Channel name: shadowkekw>,       2024-11-07 11:10:40.741524 
+
+ 21b3bob,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:11:10.550362 
+
+ 21b3bob,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:11:34.422584 
+
+ 21b3bob,     Equador,        <Channel name: shadowkekw>,       2024-11-07 11:12:33.875055 
+
+ 21b3bob,     Colombia,        <Channel name: shadowkekw>,       2024-11-07 11:13:36.662471 
+
+ 21b3bob,     Guatemala,        <Channel name: shadowkekw>,       2024-11-07 11:13:43.918966 

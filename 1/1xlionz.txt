@@ -1,0 +1,4 @@
+
+ 1xlionz,     !config,        <Channel name: mongraal>,       2024-11-07 12:23:41.622857 
+
+ 1xlionz,     !seetings,        <Channel name: mongraal>,       2024-11-07 12:23:54.024903 

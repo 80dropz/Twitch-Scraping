@@ -1,0 +1,28 @@
+
+ q_v_i_z,     @shadowkekw qvizGun5 qvizGun5 qvizGun5 qvizGun5,        <Channel name: kaicenat>,       2024-11-07 11:42:25.198183 
+
+ q_v_i_z,     @shadowkekw qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5,        <Channel name: kaicenat>,       2024-11-07 11:43:09.602474 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5,        <Channel name: kaicenat>,       2024-11-07 11:43:57.298630 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5,        <Channel name: shadowkekw>,       2024-11-07 11:59:59.132540 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5 qvizGun5,        <Channel name: kaicenat>,       2024-11-07 12:00:14.724806 
+
+ q_v_i_z,     qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:00:49.355633 
+
+ q_v_i_z,     qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:01:05.138620 
+
+ q_v_i_z,     qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:01:18.960444 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:01:42.205664 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:02:02.286589 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:02:54.460534 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:03:05.244956 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:04:11.876494 
+
+ q_v_i_z,     qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE qvizGun5 qvizGun5 qvizGun5 qvizDANCE,        <Channel name: kaicenat>,       2024-11-07 12:04:35.488729 

@@ -1,0 +1,30 @@
+
+ wquel,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.714907 
+
+ wquel,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:29.664971 
+
+ wquel,     Candad,        <Channel name: shadowkekw>,       2024-11-07 10:34:25.474680 
+
+ wquel,     France,        <Channel name: shadowkekw>,       2024-11-07 10:35:39.094712 
+
+ wquel,     India,        <Channel name: shadowkekw>,       2024-11-07 10:37:00.315463 
+
+ wquel,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:43.055789 
+
+ wquel,     Malaysia,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.701210 
+
+ wquel,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:40:59.558722 
+
+ wquel,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:41:56.536452 
+
+ wquel,     USa,        <Channel name: shadowkekw>,       2024-11-07 10:42:11.628631 
+
+ wquel,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:45:11.948575 
+
+ wquel,     za,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.871376 
+
+ wquel,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:46:42.544719 
+
+ wquel,     Swedne,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.199446 
+
+ wquel,     in,        <Channel name: shadowkekw>,       2024-11-07 10:52:08.674190 

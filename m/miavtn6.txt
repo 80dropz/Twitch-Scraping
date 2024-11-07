@@ -1,0 +1,36 @@
+
+ miavtn6,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:11:56.608799 
+
+ miavtn6,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:13:49.869124 
+
+ miavtn6,     korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:08.041869 
+
+ miavtn6,     br,        <Channel name: shadowkekw>,       2024-11-07 10:15:24.820834 
+
+ miavtn6,     us,        <Channel name: shadowkekw>,       2024-11-07 10:16:03.560573 
+
+ miavtn6,     sw,        <Channel name: shadowkekw>,       2024-11-07 10:16:15.800537 
+
+ miavtn6,     au,        <Channel name: shadowkekw>,       2024-11-07 10:16:19.585287 
+
+ miavtn6,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:16:41.267236 
+
+ miavtn6,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:17:37.441182 
+
+ miavtn6,     au,        <Channel name: shadowkekw>,       2024-11-07 10:17:40.779999 
+
+ miavtn6,     us,        <Channel name: shadowkekw>,       2024-11-07 10:18:43.920663 
+
+ miavtn6,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.050124 
+
+ miavtn6,     it,        <Channel name: shadowkekw>,       2024-11-07 10:21:28.618761 
+
+ miavtn6,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:22:10.218598 
+
+ miavtn6,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:22:56.160045 
+
+ miavtn6,     us,        <Channel name: shadowkekw>,       2024-11-07 10:23:37.883481 
+
+ miavtn6,     ys,        <Channel name: shadowkekw>,       2024-11-07 10:28:53.879268 
+
+ miavtn6,     sl,        <Channel name: shadowkekw>,       2024-11-07 10:30:00.170547 

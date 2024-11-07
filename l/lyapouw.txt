@@ -1,0 +1,168 @@
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:25:56.978669 
+
+ lyapouw,     france,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.845429 
+
+ lyapouw,     turkey,        <Channel name: shadowkekw>,       2024-11-07 10:27:39.942487 
+
+ lyapouw,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:27:46.149875 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:28:50.175708 
+
+ lyapouw,     latvia,        <Channel name: shadowkekw>,       2024-11-07 10:28:56.920021 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:29:00.881909 
+
+ lyapouw,     japan,        <Channel name: shadowkekw>,       2024-11-07 10:29:28.156896 
+
+ lyapouw,     estonia,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.833735 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:30:46.757274 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:30:52.227311 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:31:26.841456 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:31:46.217090 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.835823 
+
+ lyapouw,     egypt,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.772495 
+
+ lyapouw,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:33:18.681283 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.166569 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.429943 
+
+ lyapouw,     benin,        <Channel name: shadowkekw>,       2024-11-07 10:34:43.627193 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.341176 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:35:10.246953 
+
+ lyapouw,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:23.150268 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.999411 
+
+ lyapouw,     km,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.935899 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.286632 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:39:48.808902 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:40:13.836870 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.017591 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:42:09.376581 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:42:11.930418 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:43:57.326059 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:44:43.931086 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:44:46.953367 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:45:38.436421 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:46:02.806423 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:46:44.547539 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:47:04.696417 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:47:22.781639 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:48:25.194028 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:48:43.199976 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:48:55.175791 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:50:02.785199 
+
+ lyapouw,     denmark,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.150423 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:51:37.683093 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:52:03.990075 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:52:40.339826 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:53:03.080323 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:53:24.924765 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 10:53:43.270497 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:54:10.108621 
+
+ lyapouw,     112,        <Channel name: shadowkekw>,       2024-11-07 10:54:52.330781 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 10:55:19.945805 
+
+ lyapouw,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.163546 
+
+ lyapouw,     cz,        <Channel name: shadowkekw>,       2024-11-07 10:56:08.788904 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:56:29.953331 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 10:57:12.101931 
+
+ lyapouw,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:58:31.821955 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 10:59:21.766935 
+
+ lyapouw,     ko,        <Channel name: shadowkekw>,       2024-11-07 11:00:08.669363 
+
+ lyapouw,     nr\,        <Channel name: shadowkekw>,       2024-11-07 11:02:08.211655 
+
+ lyapouw,     nr,        <Channel name: shadowkekw>,       2024-11-07 11:03:15.691149 
+
+ lyapouw,     cl,        <Channel name: shadowkekw>,       2024-11-07 11:04:04.250544 
+
+ lyapouw,     nr,        <Channel name: shadowkekw>,       2024-11-07 11:05:31.110004 
+
+ lyapouw,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:05:55.632347 
+
+ lyapouw,     andorra,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.636988 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 11:06:06.676179 
+
+ lyapouw,     romania,        <Channel name: shadowkekw>,       2024-11-07 11:07:11.007274 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:07:33.267936 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 11:07:35.063535 
+
+ lyapouw,     bolivia,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.186587 
+
+ lyapouw,     nw,        <Channel name: shadowkekw>,       2024-11-07 11:08:27.193656 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:08:57.348080 
+
+ lyapouw,     112,        <Channel name: shadowkekw>,       2024-11-07 11:10:04.344525 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:10:13.301979 
+
+ lyapouw,     sw,        <Channel name: shadowkekw>,       2024-11-07 11:10:19.561664 
+
+ lyapouw,     li,        <Channel name: shadowkekw>,       2024-11-07 11:10:34.291183 
+
+ lyapouw,     nr,        <Channel name: shadowkekw>,       2024-11-07 11:10:52.838360 
+
+ lyapouw,     ru,        <Channel name: shadowkekw>,       2024-11-07 11:11:02.939133 
+
+ lyapouw,     germany,        <Channel name: shadowkekw>,       2024-11-07 11:11:13.211291 
+
+ lyapouw,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:16.350686 
+
+ lyapouw,     tunis,        <Channel name: shadowkekw>,       2024-11-07 11:11:32.938288 
+
+ lyapouw,     gr,        <Channel name: shadowkekw>,       2024-11-07 11:13:00.543662 
+
+ lyapouw,     th,        <Channel name: shadowkekw>,       2024-11-07 11:13:20.112453 
+
+ lyapouw,     chile,        <Channel name: shadowkekw>,       2024-11-07 11:14:23.303324 

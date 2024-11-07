@@ -1,0 +1,4 @@
+
+ foreign_34,     kaicWAVE kaicWAVE kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 11:00:04.158388 
+
+ foreign_34,     camyslLOCKED camyslLOCKED camyslLOCKED camyslLOCKED camyslLOCKED,        <Channel name: kaicenat>,       2024-11-07 11:02:15.764230 

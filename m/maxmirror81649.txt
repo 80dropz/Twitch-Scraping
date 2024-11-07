@@ -1,0 +1,6 @@
+
+ maxmirror81649,     !time,        <Channel name: kaicenat>,       2024-11-07 10:20:41.546922 
+
+ maxmirror81649,     o,        <Channel name: kaicenat>,       2024-11-07 10:21:16.553378 
+
+ maxmirror81649,     !time,        <Channel name: kaicenat>,       2024-11-07 10:21:20.112509 

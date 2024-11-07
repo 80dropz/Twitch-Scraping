@@ -4,3 +4,13 @@
  ur0ku,     !balance,        <Channel name: kaicenat>,       2024-11-07 09:06:04.101120 
 
  ur0ku,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:06:24.966481 
+
+ ur0ku,     WW,        <Channel name: kaicenat>,       2024-11-07 11:05:18.290074 
+
+ ur0ku,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 11:05:19.952931 
+
+ ur0ku,     WWwW,        <Channel name: kaicenat>,       2024-11-07 11:05:21.427179 
+
+ ur0ku,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 12:47:42.019846 
+
+ ur0ku,     W,        <Channel name: kaicenat>,       2024-11-07 12:47:50.658646 

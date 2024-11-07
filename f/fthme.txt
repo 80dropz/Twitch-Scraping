@@ -1,0 +1,10 @@
+
+ fthme,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 12:25:31.096044 
+
+ fthme,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 12:25:56.923591 
+
+ fthme,     !roulette,        <Channel name: kaicenat>,       2024-11-07 12:26:12.833399 
+
+ fthme,     !roulette help,        <Channel name: kaicenat>,       2024-11-07 12:26:32.635168 
+
+ fthme,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 12:26:45.494213 

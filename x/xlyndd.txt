@@ -1,0 +1,4 @@
+
+ xlyndd,     !dpi,        <Channel name: clix>,       2024-11-07 12:28:49.125748 
+
+ xlyndd,     !sensitivity,        <Channel name: clix>,       2024-11-07 12:29:07.679596 

@@ -1,0 +1,4 @@
+
+ rmf_jakob,     14 hour ??,        <Channel name: ricci>,       2024-11-07 10:30:00.710459 
+
+ rmf_jakob,     Ricci going crazy,        <Channel name: ricci>,       2024-11-07 10:30:05.290456 

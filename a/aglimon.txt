@@ -1,0 +1,10 @@
+
+ aglimon,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:53.733399 
+
+ aglimon,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:14:18.180230 
+
+ aglimon,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:14:28.676800 
+
+ aglimon,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:00.428650 
+
+ aglimon,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:15:25.748749 

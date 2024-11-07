@@ -1,0 +1,4 @@
+
+ adel2zone,     GUYS SUB,        <Channel name: mongraal>,       2024-11-07 10:25:03.316692 
+
+ adel2zone,     when finals?,        <Channel name: mongraal>,       2024-11-07 11:34:19.898597 

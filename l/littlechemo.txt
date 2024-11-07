@@ -1,0 +1,6 @@
+
+ littlechemo,     sens!,        <Channel name: mongraal>,       2024-11-07 12:56:38.353848 
+
+ littlechemo,     !sens,        <Channel name: mongraal>,       2024-11-07 12:57:16.821532 
+
+ littlechemo,     !res,        <Channel name: mongraal>,       2024-11-07 12:57:39.140028 

@@ -1,2 +1,6 @@
 
  very_bored_cat,     miles morales,        <Channel name: kaicenat>,       2024-11-07 09:06:55.563053 
+
+ very_bored_cat,     how long was bro awake for,        <Channel name: kaicenat>,       2024-11-07 09:52:42.525556 
+
+ very_bored_cat,     !roll 300,        <Channel name: kaicenat>,       2024-11-07 09:52:56.748500 

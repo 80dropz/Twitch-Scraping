@@ -1,0 +1,326 @@
+
+ 1nternetkid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:41.553606 
+
+ 1nternetkid,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:06:58.438742 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:07:17.246217 
+
+ 1nternetkid,     England,        <Channel name: shadowkekw>,       2024-11-07 10:08:03.275909 
+
+ 1nternetkid,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.005400 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:09:00.322296 
+
+ 1nternetkid,     Litva,        <Channel name: shadowkekw>,       2024-11-07 10:09:09.220165 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:09:20.419872 
+
+ 1nternetkid,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:09:24.301532 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:04.368280 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:10:53.429288 
+
+ 1nternetkid,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:56.061134 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:11:14.196512 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:11:26.771938 
+
+ 1nternetkid,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:12:06.139269 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:12:09.538678 
+
+ 1nternetkid,     China,        <Channel name: shadowkekw>,       2024-11-07 10:12:23.919074 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:12:32.876313 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:13:18.305029 
+
+ 1nternetkid,     SloveniaMongolia,        <Channel name: shadowkekw>,       2024-11-07 10:13:45.814562 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:14:01.984214 
+
+ 1nternetkid,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:14:14.210069 
+
+ 1nternetkid,     Ukrain,        <Channel name: shadowkekw>,       2024-11-07 10:14:21.051090 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:14:36.017249 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:14:39.008570 
+
+ 1nternetkid,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:14:47.407709 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:15:19.355049 
+
+ 1nternetkid,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:15:39.776773 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:15:56.212034 
+
+ 1nternetkid,     Chili,        <Channel name: shadowkekw>,       2024-11-07 10:16:23.560102 
+
+ 1nternetkid,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:16:41.668294 
+
+ 1nternetkid,     SloveniaAustria,        <Channel name: shadowkekw>,       2024-11-07 10:17:17.740407 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:17:34.737337 
+
+ 1nternetkid,     SloveniaAustralia,        <Channel name: shadowkekw>,       2024-11-07 10:17:54.909623 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:18:05.061444 
+
+ 1nternetkid,     Belgia,        <Channel name: shadowkekw>,       2024-11-07 10:18:10.345657 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:18:24.461383 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:18:27.250127 
+
+ 1nternetkid,     New Zeland,        <Channel name: shadowkekw>,       2024-11-07 10:18:44.115188 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:18:53.859648 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:19:27.299538 
+
+ 1nternetkid,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:19:33.908123 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:19:46.698233 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:20:12.375360 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:20:27.399867 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:20:44.563957 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:21:23.255464 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:21:27.207469 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:21:44.047654 
+
+ 1nternetkid,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:21:53.214888 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:22:03.255655 
+
+ 1nternetkid,     Romania,        <Channel name: shadowkekw>,       2024-11-07 10:22:26.782656 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:22:48.594979 
+
+ 1nternetkid,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:23:21.983137 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:24:11.818786 
+
+ 1nternetkid,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:24:16.906398 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:24:30.515059 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:24:37.047477 
+
+ 1nternetkid,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:24:51.789845 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:25:34.120386 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:25:50.639252 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:26:09.207402 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.106276 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:26:36.289296 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:26:44.890404 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:26:50.810775 
+
+ 1nternetkid,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:26:56.386276 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:27:14.895268 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:27:16.894494 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:28:24.179560 
+
+ 1nternetkid,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:28:27.939155 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:28:45.612442 
+
+ 1nternetkid,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:29:05.021176 
+
+ 1nternetkid,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:29:30.044662 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:29:43.889006 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.870500 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:30:06.425601 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.903698 
+
+ 1nternetkid,     Italy,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.344930 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:30:45.322432 
+
+ 1nternetkid,     Sweedan,        <Channel name: shadowkekw>,       2024-11-07 10:31:14.015025 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.413605 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:31:43.980809 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:31:45.030898 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:31:47.502084 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:04.194349 
+
+ 1nternetkid,     Ukrain,        <Channel name: shadowkekw>,       2024-11-07 10:32:23.317379 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:32:44.677301 
+
+ 1nternetkid,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:02.914911 
+
+ 1nternetkid,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:33:14.566756 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:33:19.195742 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:32.466433 
+
+ 1nternetkid,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:33:39.925246 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:34:00.809756 
+
+ 1nternetkid,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:34:16.674497 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.325426 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:34:41.335386 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:35:32.929738 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:35:34.823197 
+
+ 1nternetkid,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:35:38.821869 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:36:19.255415 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:36:21.314843 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:36:53.894884 
+
+ 1nternetkid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:22.196920 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:37:32.069098 
+
+ 1nternetkid,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:38:02.075745 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:38:18.567223 
+
+ 1nternetkid,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:38:48.727453 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:39:03.944588 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:39:24.284809 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:39:43.875951 
+
+ 1nternetkid,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:40:12.938088 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:40:38.861724 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:40:46.228042 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:40:57.816099 
+
+ 1nternetkid,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:41:42.652936 
+
+ 1nternetkid,     Nepal,        <Channel name: shadowkekw>,       2024-11-07 10:41:50.565425 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:06.819055 
+
+ 1nternetkid,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:42:21.062528 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:42:26.198285 
+
+ 1nternetkid,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:42:31.053244 
+
+ 1nternetkid,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:42:45.912782 
+
+ 1nternetkid,     Netherland,        <Channel name: shadowkekw>,       2024-11-07 10:43:02.467735 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:43:20.983969 
+
+ 1nternetkid,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:43:28.437706 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:43:52.597605 
+
+ 1nternetkid,     CAnada,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.655790 
+
+ 1nternetkid,     Chilie,        <Channel name: shadowkekw>,       2024-11-07 10:44:41.458548 
+
+ 1nternetkid,     Austria,        <Channel name: shadowkekw>,       2024-11-07 10:44:52.143781 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:45:04.462476 
+
+ 1nternetkid,     India,        <Channel name: shadowkekw>,       2024-11-07 10:45:46.558699 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:46:21.696971 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:47:02.575483 
+
+ 1nternetkid,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:47:20.664087 
+
+ 1nternetkid,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:47:38.592825 
+
+ 1nternetkid,     Indonesia,        <Channel name: shadowkekw>,       2024-11-07 10:48:09.595902 
+
+ 1nternetkid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:48:29.208852 
+
+ 1nternetkid,     AUSTRALIA,        <Channel name: shadowkekw>,       2024-11-07 10:49:00.001883 
+
+ 1nternetkid,     Slovakia,        <Channel name: shadowkekw>,       2024-11-07 10:49:19.145784 
+
+ 1nternetkid,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:49:47.278252 
+
+ 1nternetkid,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:50:33.831778 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:51:12.630230 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:51:34.974146 
+
+ 1nternetkid,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:52:18.437096 
+
+ 1nternetkid,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:52:39.580085 
+
+ 1nternetkid,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.698728 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:53:29.717585 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 10:54:29.267612 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:54:50.593362 
+
+ 1nternetkid,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:55:42.922923 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:56:20.592308 
+
+ 1nternetkid,     Chilie,        <Channel name: shadowkekw>,       2024-11-07 10:57:20.177920 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:58:05.050490 
+
+ 1nternetkid,     United Kingdom,        <Channel name: shadowkekw>,       2024-11-07 10:59:04.114898 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 10:59:38.582244 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:00:45.577679 
+
+ 1nternetkid,     USA,        <Channel name: shadowkekw>,       2024-11-07 11:01:27.277084 
+
+ 1nternetkid,     South Africa,        <Channel name: shadowkekw>,       2024-11-07 11:02:29.252952 
+
+ 1nternetkid,     Australia,        <Channel name: shadowkekw>,       2024-11-07 11:04:09.750803 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:06:26.197475 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:10:05.155691 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:12:10.810387 
+
+ 1nternetkid,     Slovenia,        <Channel name: shadowkekw>,       2024-11-07 11:13:14.969603 

@@ -1,0 +1,40 @@
+
+ dimqn4ik,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:27:28.227663 
+
+ dimqn4ik,     British,        <Channel name: shadowkekw>,       2024-11-07 10:28:46.637810 
+
+ dimqn4ik,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:29:53.920767 
+
+ dimqn4ik,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:32:10.555405 
+
+ dimqn4ik,     Maroko,        <Channel name: shadowkekw>,       2024-11-07 10:32:45.990082 
+
+ dimqn4ik,     Brazilia,        <Channel name: shadowkekw>,       2024-11-07 10:32:48.370645 
+
+ dimqn4ik,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:33:16.502787 
+
+ dimqn4ik,     Egipet,        <Channel name: shadowkekw>,       2024-11-07 10:33:43.289362 
+
+ dimqn4ik,     EgipetBrazilia,        <Channel name: shadowkekw>,       2024-11-07 10:34:03.236609 
+
+ dimqn4ik,     Egipet,        <Channel name: shadowkekw>,       2024-11-07 10:34:45.827553 
+
+ dimqn4ik,     Dubai,        <Channel name: shadowkekw>,       2024-11-07 10:34:49.510364 
+
+ dimqn4ik,     Bra,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.116934 
+
+ dimqn4ik,     Kazah,        <Channel name: shadowkekw>,       2024-11-07 10:36:56.678337 
+
+ dimqn4ik,     Egipet,        <Channel name: shadowkekw>,       2024-11-07 10:36:59.948645 
+
+ dimqn4ik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:37:04.503496 
+
+ dimqn4ik,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:39:04.302597 
+
+ dimqn4ik,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.833985 
+
+ dimqn4ik,     Usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:39.323374 
+
+ dimqn4ik,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:39:41.399992 
+
+ dimqn4ik,     Portual,        <Channel name: shadowkekw>,       2024-11-07 10:39:45.937004 

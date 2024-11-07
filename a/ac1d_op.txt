@@ -1,0 +1,38 @@
+
+ ac1d_op,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 10:37:17.228999 
+
+ ac1d_op,     !rouletteall,        <Channel name: kaicenat>,       2024-11-07 10:38:37.917451 
+
+ ac1d_op,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:39:16.500168 
+
+ ac1d_op,     !gamble half,        <Channel name: kaicenat>,       2024-11-07 10:39:42.334763 
+
+ ac1d_op,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:40:05.035505 
+
+ ac1d_op,     !roulette half,        <Channel name: kaicenat>,       2024-11-07 10:40:37.360741 
+
+ ac1d_op,     roulette all,        <Channel name: kaicenat>,       2024-11-07 10:40:48.808602 
+
+ ac1d_op,     !points,        <Channel name: kaicenat>,       2024-11-07 10:41:03.474357 
+
+ ac1d_op,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:41:18.803568 
+
+ ac1d_op,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:42:04.518844 
+
+ ac1d_op,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:42:36.804972 
+
+ ac1d_op,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:44:13.468039 
+
+ ac1d_op,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:44:34.993631 
+
+ ac1d_op,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:44:43.316076 
+
+ ac1d_op,     !gamble 90,        <Channel name: kaicenat>,       2024-11-07 10:45:01.733599 
+
+ ac1d_op,     !roulette 90,        <Channel name: kaicenat>,       2024-11-07 10:45:17.478446 
+
+ ac1d_op,     !points,        <Channel name: kaicenat>,       2024-11-07 10:45:22.969453 
+
+ ac1d_op,     !work,        <Channel name: kaicenat>,       2024-11-07 10:45:31.512179 
+
+ ac1d_op,     !steal,        <Channel name: kaicenat>,       2024-11-07 10:45:42.703949 

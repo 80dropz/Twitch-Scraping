@@ -1,0 +1,12 @@
+
+ mheeso1,     w,        <Channel name: kaicenat>,       2024-11-07 11:58:22.222237 
+
+ mheeso1,     w,        <Channel name: kaicenat>,       2024-11-07 11:59:03.128716 
+
+ mheeso1,     !follow,        <Channel name: kaicenat>,       2024-11-07 12:06:30.749426 
+
+ mheeso1,     !sub,        <Channel name: kaicenat>,       2024-11-07 12:06:46.372098 
+
+ mheeso1,     !giftme,        <Channel name: kaicenat>,       2024-11-07 12:11:30.084966 
+
+ mheeso1,     give me sub,        <Channel name: kaicenat>,       2024-11-07 12:11:58.039604 

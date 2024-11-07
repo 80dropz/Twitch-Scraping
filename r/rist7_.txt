@@ -1,0 +1,26 @@
+
+ rist7_,     botswana,        <Channel name: shadowkekw>,       2024-11-07 11:00:17.206253 
+
+ rist7_,     su,        <Channel name: shadowkekw>,       2024-11-07 11:00:56.000598 
+
+ rist7_,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:01:30.307578 
+
+ rist7_,     botswana,        <Channel name: shadowkekw>,       2024-11-07 11:04:53.301890 
+
+ rist7_,     england,        <Channel name: shadowkekw>,       2024-11-07 11:07:06.942634 
+
+ rist7_,     malta,        <Channel name: shadowkekw>,       2024-11-07 11:07:43.900572 
+
+ rist7_,     ghana,        <Channel name: shadowkekw>,       2024-11-07 11:09:14.081656 
+
+ rist7_,     eswatini,        <Channel name: shadowkekw>,       2024-11-07 11:09:29.017090 
+
+ rist7_,     australia,        <Channel name: shadowkekw>,       2024-11-07 11:11:22.744367 
+
+ rist7_,     senegal,        <Channel name: shadowkekw>,       2024-11-07 11:12:22.599235 
+
+ rist7_,     sri lanka,        <Channel name: shadowkekw>,       2024-11-07 11:12:55.829538 
+
+ rist7_,     indonesia,        <Channel name: shadowkekw>,       2024-11-07 11:13:00.292200 
+
+ rist7_,     japan,        <Channel name: shadowkekw>,       2024-11-07 11:13:21.248486 

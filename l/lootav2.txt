@@ -50,3 +50,43 @@
  lootav2,     WW,        <Channel name: clix>,       2024-11-07 01:43:29.744261 
 
  lootav2,     uuh,        <Channel name: clix>,       2024-11-07 02:48:34.319392 
+
+ lootav2,     WWWWWW,        <Channel name: lacy>,       2024-11-07 13:05:10.186533 
+
+ lootav2,     RIZZZ,        <Channel name: lacy>,       2024-11-07 13:05:13.766108 
+
+ lootav2,     taw,        <Channel name: lacy>,       2024-11-07 13:05:18.521071 
+
+ lootav2,     WW RIZZ,        <Channel name: lacy>,       2024-11-07 13:05:33.696856 
+
+ lootav2,     WWWWWWWWW,        <Channel name: lacy>,       2024-11-07 13:05:48.583028 
+
+ lootav2,     gg,        <Channel name: lacy>,       2024-11-07 13:19:38.084685 
+
+ lootav2,     WWWWWW,        <Channel name: lacy>,       2024-11-07 13:23:22.337607 
+
+ lootav2,     WWWWWWW,        <Channel name: lacy>,       2024-11-07 13:23:29.391850 
+
+ lootav2,     WWW,        <Channel name: lacy>,       2024-11-07 13:23:31.562320 
+
+ lootav2,     WWWW,        <Channel name: lacy>,       2024-11-07 13:23:38.139531 
+
+ lootav2,     ggg,        <Channel name: lacy>,       2024-11-07 13:24:02.682735 
+
+ lootav2,     gg,        <Channel name: lacy>,       2024-11-07 13:24:03.366421 
+
+ lootav2,     ???,        <Channel name: lacy>,       2024-11-07 13:25:55.550519 
+
+ lootav2,     Wwwwwwww,        <Channel name: lacy>,       2024-11-07 13:27:23.791177 
+
+ lootav2,     WWWWWW,        <Channel name: lacy>,       2024-11-07 13:27:28.818156 
+
+ lootav2,     GG,        <Channel name: lacy>,       2024-11-07 13:28:26.212886 
+
+ lootav2,     ggs,        <Channel name: lacy>,       2024-11-07 13:28:55.540125 
+
+ lootav2,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:32:24.045848 
+
+ lootav2,     GG,        <Channel name: lacy>,       2024-11-07 13:32:30.360132 
+
+ lootav2,     LOL,        <Channel name: lacy>,       2024-11-07 13:32:34.331934 

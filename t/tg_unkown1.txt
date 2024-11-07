@@ -1,2 +1,16 @@
 
  tg_unkown1,     break him,        <Channel name: kaicenat>,       2024-11-07 09:39:58.179120 
+
+ tg_unkown1,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:52:12.821029 
+
+ tg_unkown1,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:53:31.631127 
+
+ tg_unkown1,     !points,        <Channel name: kaicenat>,       2024-11-07 09:53:50.551628 
+
+ tg_unkown1,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:15:06.150725 
+
+ tg_unkown1,     lets see a house tour! (production do yo thang),        <Channel name: kaicenat>,       2024-11-07 10:37:49.445453 
+
+ tg_unkown1,     kaicHands,        <Channel name: kaicenat>,       2024-11-07 10:45:21.815327 
+
+ tg_unkown1,     KaiMafia2,        <Channel name: kaicenat>,       2024-11-07 12:22:50.564390 

@@ -1,0 +1,4 @@
+
+ modelarue_,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 10:17:53.434747 
+
+ modelarue_,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:18:08.538368 

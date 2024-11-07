@@ -24,3 +24,9 @@
  bowserforlife,     djprecLove djprecLove,        <Channel name: kaicenat>,       2024-11-07 09:40:28.518144 
 
  bowserforlife,     djprecSanic djprecSanic djprecSanic,        <Channel name: kaicenat>,       2024-11-07 09:41:24.975857 
+
+ bowserforlife,     !join,        <Channel name: kaicenat>,       2024-11-07 09:52:03.692455 
+
+ bowserforlife,     juntsuPIGEON,        <Channel name: kaicenat>,       2024-11-07 09:52:50.571590 
+
+ bowserforlife,     BratChat,        <Channel name: kaicenat>,       2024-11-07 09:53:43.673011 

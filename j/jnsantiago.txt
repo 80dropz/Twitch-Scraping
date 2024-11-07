@@ -1,2 +1,6 @@
 
  jnsantiago,     !time,        <Channel name: kaicenat>,       2024-11-07 01:24:58.915193 
+
+ jnsantiago,     !time,        <Channel name: kaicenat>,       2024-11-07 11:19:40.884060 
+
+ jnsantiago,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 11:24:20.908416 

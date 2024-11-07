@@ -1,0 +1,32 @@
+
+ ineyw,     PERU,        <Channel name: shadowkekw>,       2024-11-07 10:31:55.493131 
+
+ ineyw,     INDIA,        <Channel name: shadowkekw>,       2024-11-07 10:32:15.122361 
+
+ ineyw,     UEA,        <Channel name: shadowkekw>,       2024-11-07 10:33:25.143891 
+
+ ineyw,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:33:37.703072 
+
+ ineyw,     MEXICA,        <Channel name: shadowkekw>,       2024-11-07 10:33:50.510292 
+
+ ineyw,     AFRIKA,        <Channel name: shadowkekw>,       2024-11-07 10:34:51.902617 
+
+ ineyw,     PAKISTNA,        <Channel name: shadowkekw>,       2024-11-07 10:36:12.335237 
+
+ ineyw,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:36:22.014763 
+
+ ineyw,     RUSSIA,        <Channel name: shadowkekw>,       2024-11-07 10:37:47.764656 
+
+ ineyw,     ARGENTINA,        <Channel name: shadowkekw>,       2024-11-07 10:39:07.126963 
+
+ ineyw,     NEPAL,        <Channel name: shadowkekw>,       2024-11-07 10:39:26.350126 
+
+ ineyw,     ITALY,        <Channel name: shadowkekw>,       2024-11-07 10:39:32.004002 
+
+ ineyw,     BANGLADESH,        <Channel name: shadowkekw>,       2024-11-07 10:40:42.384730 
+
+ ineyw,     SIRIA,        <Channel name: shadowkekw>,       2024-11-07 10:42:18.129964 
+
+ ineyw,     NIGERIA,        <Channel name: shadowkekw>,       2024-11-07 10:45:06.923964 
+
+ ineyw,     WW,        <Channel name: shadowkekw>,       2024-11-07 10:45:27.109354 

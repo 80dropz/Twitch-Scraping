@@ -1,0 +1,4 @@
+
+ ekajrenots,     poll,        <Channel name: kaicenat>,       2024-11-07 13:16:29.641409 
+
+ ekajrenots,     POLL,        <Channel name: kaicenat>,       2024-11-07 13:17:52.588735 

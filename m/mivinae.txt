@@ -1,0 +1,200 @@
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:11:28.361240 
+
+ mivinae,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:12:40.802400 
+
+ mivinae,     chilie,        <Channel name: shadowkekw>,       2024-11-07 10:13:07.950333 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:14:16.441145 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:15:21.670299 
+
+ mivinae,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:16:04.169804 
+
+ mivinae,     us,        <Channel name: shadowkekw>,       2024-11-07 10:18:42.586608 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:19:35.145728 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:21:26.487320 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:23:45.686336 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:39.209651 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:25:32.243782 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:26:55.645459 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:27:00.377758 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:38.933959 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:28:25.721201 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:28:30.482159 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:29:48.187959 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.706578 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:31:11.973116 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:31:31.938401 
+
+ mivinae,     p,        <Channel name: shadowkekw>,       2024-11-07 10:31:51.562572 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:32:08.234736 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.099869 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:32:53.748637 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:07.903386 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:33:40.277494 
+
+ mivinae,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:33:45.401591 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:34:19.954100 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:35:15.656590 
+
+ mivinae,     tai,        <Channel name: shadowkekw>,       2024-11-07 10:36:08.446864 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:39.540182 
+
+ mivinae,     r,        <Channel name: shadowkekw>,       2024-11-07 10:38:01.314827 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:03.810000 
+
+ mivinae,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:38:30.065155 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:38:54.557392 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:08.942339 
+
+ mivinae,     r,        <Channel name: shadowkekw>,       2024-11-07 10:41:04.238945 
+
+ mivinae,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:42:58.104691 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:43:27.203142 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:44:50.918424 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:45:48.536200 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.216075 
+
+ mivinae,     ghana,        <Channel name: shadowkekw>,       2024-11-07 10:48:44.746062 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:49:10.557070 
+
+ mivinae,     polish,        <Channel name: shadowkekw>,       2024-11-07 10:49:38.311667 
+
+ mivinae,     irak,        <Channel name: shadowkekw>,       2024-11-07 10:50:14.205731 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:50:49.501656 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:51:21.341049 
+
+ mivinae,     per,        <Channel name: shadowkekw>,       2024-11-07 10:51:42.906482 
+
+ mivinae,     tai,        <Channel name: shadowkekw>,       2024-11-07 10:52:06.011062 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:52:27.462016 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:53:06.553420 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:53:41.511125 
+
+ mivinae,     mx,        <Channel name: shadowkekw>,       2024-11-07 10:54:15.405478 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:54:53.932348 
+
+ mivinae,     poland,        <Channel name: shadowkekw>,       2024-11-07 10:55:22.694505 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:55.990274 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:56:27.321531 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:56:53.257425 
+
+ mivinae,     argentib,        <Channel name: shadowkekw>,       2024-11-07 10:57:36.243201 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:58:25.418709 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 10:59:25.182670 
+
+ mivinae,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:00:08.049158 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:00:48.840340 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:01:29.689365 
+
+ mivinae,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:02:35.079600 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:03:35.121141 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:04:24.088500 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:05:27.114548 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:05:34.093887 
+
+ mivinae,     chili,        <Channel name: shadowkekw>,       2024-11-07 11:06:02.407205 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:06:28.172192 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:06:29.442298 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:06:56.337314 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:06:57.089979 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:07:02.732050 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:07:07.969090 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:07:30.396507 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:07:35.582558 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:08:15.267154 
+
+ mivinae,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:08:18.558066 
+
+ mivinae,     mx,        <Channel name: shadowkekw>,       2024-11-07 11:08:23.186700 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:08:51.922420 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:08:59.646965 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:05.838575 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:10:15.179518 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:10:53.046160 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:10:56.270307 
+
+ mivinae,     hu,        <Channel name: shadowkekw>,       2024-11-07 11:11:15.741187 
+
+ mivinae,     au,        <Channel name: shadowkekw>,       2024-11-07 11:11:33.064805 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:11:47.410593 
+
+ mivinae,     uk,        <Channel name: shadowkekw>,       2024-11-07 11:11:51.005227 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:11:52.986407 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:12:41.618222 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:13:15.612581 
+
+ mivinae,     jp,        <Channel name: shadowkekw>,       2024-11-07 11:13:19.360189 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:13:51.612756 
+
+ mivinae,     usa,        <Channel name: shadowkekw>,       2024-11-07 11:13:57.861104 
+
+ mivinae,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 11:14:15.870505 

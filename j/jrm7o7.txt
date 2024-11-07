@@ -1,0 +1,26 @@
+
+ jrm7o7,     yooo,        <Channel name: kaicenat>,       2024-11-07 09:52:41.330840 
+
+ jrm7o7,     !gamble 800,        <Channel name: kaicenat>,       2024-11-07 09:55:26.384602 
+
+ jrm7o7,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:57:44.262458 
+
+ jrm7o7,     !roulette 800,        <Channel name: kaicenat>,       2024-11-07 10:01:17.886490 
+
+ jrm7o7,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:01:43.261798 
+
+ jrm7o7,     !roulette 800,        <Channel name: kaicenat>,       2024-11-07 10:01:55.621483 
+
+ jrm7o7,     !gamble 800,        <Channel name: kaicenat>,       2024-11-07 10:02:12.814366 
+
+ jrm7o7,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 10:03:48.804945 
+
+ jrm7o7,     kaicRAT_HFI,        <Channel name: kaicenat>,       2024-11-07 10:10:03.568116 
+
+ jrm7o7,     BloodTrail,        <Channel name: kaicenat>,       2024-11-07 10:10:29.110396 
+
+ jrm7o7,     kaicRAT_HFI,        <Channel name: kaicenat>,       2024-11-07 10:10:37.793852 
+
+ jrm7o7,     kaicRAT_HF,        <Channel name: kaicenat>,       2024-11-07 10:11:13.116117 
+
+ jrm7o7,     kaicRAT_HF,        <Channel name: kaicenat>,       2024-11-07 10:11:42.904977 

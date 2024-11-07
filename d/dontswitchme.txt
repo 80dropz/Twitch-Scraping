@@ -1,0 +1,10 @@
+
+ dontswitchme,     tell Kai get up,        <Channel name: kaicenat>,       2024-11-07 12:05:37.622663 
+
+ dontswitchme,     get up,        <Channel name: kaicenat>,       2024-11-07 12:05:46.176945 
+
+ dontswitchme,     spam get up,        <Channel name: kaicenat>,       2024-11-07 12:06:18.713885 
+
+ dontswitchme,     get up,        <Channel name: kaicenat>,       2024-11-07 12:06:30.070622 
+
+ dontswitchme,     get up,        <Channel name: kaicenat>,       2024-11-07 12:07:06.195381 

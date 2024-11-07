@@ -1,0 +1,6 @@
+
+ clapnessz,     move cam,        <Channel name: mongraal>,       2024-11-07 11:36:30.993130 
+
+ clapnessz,     who is twi chat,        <Channel name: mongraal>,       2024-11-07 11:54:07.317271 
+
+ clapnessz,     !settings,        <Channel name: mongraal>,       2024-11-07 12:01:35.033052 

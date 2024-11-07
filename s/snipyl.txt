@@ -20,3 +20,71 @@
  snipyl,     MILES,        <Channel name: kaicenat>,       2024-11-07 09:19:06.252454 
 
  snipyl,     W miles,        <Channel name: kaicenat>,       2024-11-07 09:20:03.032368 
+
+ snipyl,     lol,        <Channel name: kaicenat>,       2024-11-07 10:45:56.254437 
+
+ snipyl,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 10:51:31.338714 
+
+ snipyl,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:54:34.732822 
+
+ snipyl,     uh,        <Channel name: kaicenat>,       2024-11-07 10:54:49.102144 
+
+ snipyl,     !roulette 6060,        <Channel name: kaicenat>,       2024-11-07 10:55:26.397786 
+
+ snipyl,     WW,        <Channel name: kaicenat>,       2024-11-07 11:50:57.099436 
+
+ snipyl,     Hii kai,        <Channel name: kaicenat>,       2024-11-07 11:51:13.310714 
+
+ snipyl,     Hii  kai,        <Channel name: kaicenat>,       2024-11-07 11:51:15.889452 
+
+ snipyl,     Hii kai,        <Channel name: kaicenat>,       2024-11-07 11:51:25.804194 
+
+ snipyl,     Hii  kai,        <Channel name: kaicenat>,       2024-11-07 11:51:34.466266 
+
+ snipyl,     Hii kai,        <Channel name: kaicenat>,       2024-11-07 11:51:51.242019 
+
+ snipyl,     Hii  kai,        <Channel name: kaicenat>,       2024-11-07 11:52:00.644686 
+
+ snipyl,     WW 230k,        <Channel name: kaicenat>,       2024-11-07 12:55:03.083013 
+
+ snipyl,     WW,        <Channel name: kaicenat>,       2024-11-07 12:55:15.508880 
+
+ snipyl,     RODORIGESUUU onzuu,        <Channel name: kaicenat>,       2024-11-07 12:58:04.264610 
+
+ snipyl,     @FeelsSunnyMan gift 100,        <Channel name: kaicenat>,       2024-11-07 12:58:36.636901 
+
+ snipyl,     @FeelsSunnyMan  gift 100,        <Channel name: kaicenat>,       2024-11-07 12:58:42.860846 
+
+ snipyl,     @FeelsSunnyMan gift 100,        <Channel name: kaicenat>,       2024-11-07 12:58:46.443272 
+
+ snipyl,     @FeelsSunnyMan  gift 100,        <Channel name: kaicenat>,       2024-11-07 12:58:54.393541 
+
+ snipyl,     @FeelsSunnyMan gift 100,        <Channel name: kaicenat>,       2024-11-07 12:59:00.918406 
+
+ snipyl,     RODORIGESUUU,        <Channel name: kaicenat>,       2024-11-07 12:59:04.715341 
+
+ snipyl,     RODORIGESUUU xwockyJAMM,        <Channel name: kaicenat>,       2024-11-07 12:59:14.826672 
+
+ snipyl,     RODORIGESUUU  xwockyJAMM,        <Channel name: kaicenat>,       2024-11-07 12:59:20.463466 
+
+ snipyl,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:01:13.515249 
+
+ snipyl,     Pffttt,        <Channel name: kaicenat>,       2024-11-07 13:02:36.167952 
+
+ snipyl,     ome32,        <Channel name: kaicenat>,       2024-11-07 13:12:39.008817 
+
+ snipyl,     wake up HELP,        <Channel name: kaicenat>,       2024-11-07 13:13:01.230648 
+
+ snipyl,     wake  up HELP,        <Channel name: kaicenat>,       2024-11-07 13:13:13.898576 
+
+ snipyl,     HURRY UP,        <Channel name: kaicenat>,       2024-11-07 13:18:43.229437 
+
+ snipyl,     HURRY UP TF U DOING,        <Channel name: kaicenat>,       2024-11-07 13:19:38.338550 
+
+ snipyl,     TOO LATEE,        <Channel name: kaicenat>,       2024-11-07 13:24:53.077024 
+
+ snipyl,     WW,        <Channel name: kaicenat>,       2024-11-07 13:30:29.957171 
+
+ snipyl,     WW MILESSSSSS,        <Channel name: kaicenat>,       2024-11-07 13:30:40.012703 
+
+ snipyl,     WW  MILESSSSSS,        <Channel name: kaicenat>,       2024-11-07 13:30:54.035405 

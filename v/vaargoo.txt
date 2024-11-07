@@ -1,0 +1,8 @@
+
+ vaargoo,     !time,        <Channel name: clix>,       2024-11-07 10:25:20.921216 
+
+ vaargoo,     come on daddy wake up,        <Channel name: clix>,       2024-11-07 10:25:40.441600 
+
+ vaargoo,     !tweaks,        <Channel name: clix>,       2024-11-07 10:26:45.409306 
+
+ vaargoo,     what app is this?,        <Channel name: mongraal>,       2024-11-07 10:36:42.074440 

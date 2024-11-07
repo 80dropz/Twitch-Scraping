@@ -1,0 +1,6 @@
+
+ 27twi,     1 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvs 1,        <Channel name: mongraal>,       2024-11-07 11:35:48.605071 
+
+ 27twi,     me,        <Channel name: mongraal>,       2024-11-07 11:35:49.601594 
+
+ 27twi,     dm me when,        <Channel name: mongraal>,       2024-11-07 11:36:10.501438 

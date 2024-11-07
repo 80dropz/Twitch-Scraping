@@ -1,0 +1,8 @@
+
+ st0mpnjnr,     L cam,        <Channel name: kaicenat>,       2024-11-07 10:42:14.534726 
+
+ st0mpnjnr,     L production,        <Channel name: kaicenat>,       2024-11-07 10:42:43.293702 
+
+ st0mpnjnr,     !points,        <Channel name: kaicenat>,       2024-11-07 10:45:40.910519 
+
+ st0mpnjnr,     L production,        <Channel name: kaicenat>,       2024-11-07 10:46:17.847344 

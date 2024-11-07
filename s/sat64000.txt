@@ -1,0 +1,2 @@
+
+ sat64000,     W,        <Channel name: kaicenat>,       2024-11-07 11:24:55.486804 

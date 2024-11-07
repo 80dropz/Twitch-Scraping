@@ -1,0 +1,12 @@
+
+ penguinguy_1,     wake him up,        <Channel name: clix>,       2024-11-07 12:23:22.052640 
+
+ penguinguy_1,     !watchtime,        <Channel name: clix>,       2024-11-07 12:23:41.366827 
+
+ penguinguy_1,     it time to wake up,        <Channel name: clix>,       2024-11-07 12:24:58.445571 
+
+ penguinguy_1,     WAKEY WAKEY,        <Channel name: clix>,       2024-11-07 12:25:07.099176 
+
+ penguinguy_1,     someone wake him up,        <Channel name: clix>,       2024-11-07 12:25:57.472255 
+
+ penguinguy_1,     !time,        <Channel name: clix>,       2024-11-07 12:26:08.290356 

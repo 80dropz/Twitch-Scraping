@@ -2,3 +2,5 @@
  xdasjo,     Play with Twi,        <Channel name: mongraal>,       2024-11-07 09:35:20.080458 
 
  xdasjo,     Twi,        <Channel name: mongraal>,       2024-11-07 09:35:23.105917 
+
+ xdasjo,     No pc crash right,        <Channel name: mongraal>,       2024-11-07 11:26:59.249587 

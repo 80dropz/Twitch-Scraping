@@ -1,0 +1,30 @@
+
+ gogor_1,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:13:30.942384 
+
+ gogor_1,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 10:13:48.985880 
+
+ gogor_1,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 10:15:00.010436 
+
+ gogor_1,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:15:34.892768 
+
+ gogor_1,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 10:16:12.910117 
+
+ gogor_1,     !roulette 49,        <Channel name: kaicenat>,       2024-11-07 10:16:30.215993 
+
+ gogor_1,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:16:48.683460 
+
+ gogor_1,     !roulette 47,        <Channel name: kaicenat>,       2024-11-07 10:17:03.371884 
+
+ gogor_1,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 10:17:16.464484 
+
+ gogor_1,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:17:36.004529 
+
+ gogor_1,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:18:02.935723 
+
+ gogor_1,     !smp 10,        <Channel name: kaicenat>,       2024-11-07 10:18:41.197612 
+
+ gogor_1,     NotLikeThis,        <Channel name: mrlust>,       2024-11-07 10:20:44.514377 
+
+ gogor_1,     clixLovee,        <Channel name: clix>,       2024-11-07 10:21:51.160342 
+
+ gogor_1,     DarkKnight,        <Channel name: clix>,       2024-11-07 10:22:04.038285 

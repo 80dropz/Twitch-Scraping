@@ -1,0 +1,34 @@
+
+ banji580,     !followage,        <Channel name: kaicenat>,       2024-11-07 10:11:24.111599 
+
+ banji580,     !accountrage,        <Channel name: kaicenat>,       2024-11-07 10:11:50.439136 
+
+ banji580,     !AccountRage,        <Channel name: kaicenat>,       2024-11-07 10:13:12.296301 
+
+ banji580,     !points,        <Channel name: kaicenat>,       2024-11-07 10:13:51.227195 
+
+ banji580,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:14:40.125319 
+
+ banji580,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 10:14:58.587683 
+
+ banji580,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:15:13.443481 
+
+ banji580,     !roulette 26,        <Channel name: kaicenat>,       2024-11-07 10:15:28.890066 
+
+ banji580,     !time,        <Channel name: kaicenat>,       2024-11-07 10:29:43.416136 
+
+ banji580,     broke character,        <Channel name: kaicenat>,       2024-11-07 10:30:56.606824 
+
+ banji580,     hm,        <Channel name: kaicenat>,       2024-11-07 10:32:22.483490 
+
+ banji580,     !sub,        <Channel name: kaicenat>,       2024-11-07 10:37:00.787492 
+
+ banji580,     freshestConfused,        <Channel name: kaicenat>,       2024-11-07 10:37:34.564379 
+
+ banji580,     production camera on miles,        <Channel name: kaicenat>,       2024-11-07 10:40:56.043069 
+
+ banji580,     PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 10:41:17.312424 
+
+ banji580,     !production,        <Channel name: kaicenat>,       2024-11-07 10:42:14.212284 
+
+ banji580,     PRODUCTION!!!!!,        <Channel name: kaicenat>,       2024-11-07 10:43:48.790490 

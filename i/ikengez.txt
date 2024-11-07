@@ -1,0 +1,16 @@
+
+ ikengez,     Chad,        <Channel name: shadowkekw>,       2024-11-07 10:22:13.334985 
+
+ ikengez,     Portugal,        <Channel name: shadowkekw>,       2024-11-07 10:22:34.984194 
+
+ ikengez,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:23:22.989301 
+
+ ikengez,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:41.784790 
+
+ ikengez,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:27:35.915080 
+
+ ikengez,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 10:27:43.224135 
+
+ ikengez,     Germany,        <Channel name: shadowkekw>,       2024-11-07 10:27:49.261286 
+
+ ikengez,     France,        <Channel name: shadowkekw>,       2024-11-07 10:27:53.410892 

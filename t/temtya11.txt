@@ -1,0 +1,4 @@
+
+ temtya11,     !res,        <Channel name: mongraal>,       2024-11-07 12:14:25.993087 
+
+ temtya11,     !res,        <Channel name: clix>,       2024-11-07 12:15:40.599636 

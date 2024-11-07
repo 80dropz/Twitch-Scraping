@@ -1,0 +1,26 @@
+
+ monokke1,     russia,        <Channel name: shadowkekw>,       2024-11-07 10:31:37.569832 
+
+ monokke1,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:31:41.669473 
+
+ monokke1,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:32:00.784281 
+
+ monokke1,     italy,        <Channel name: shadowkekw>,       2024-11-07 10:32:36.785533 
+
+ monokke1,     new zeland,        <Channel name: shadowkekw>,       2024-11-07 10:32:58.493315 
+
+ monokke1,     peru,        <Channel name: shadowkekw>,       2024-11-07 10:33:57.368240 
+
+ monokke1,     india,        <Channel name: shadowkekw>,       2024-11-07 10:35:28.013794 
+
+ monokke1,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:37:27.886025 
+
+ monokke1,     caf,        <Channel name: shadowkekw>,       2024-11-07 10:38:39.272020 
+
+ monokke1,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:39:58.504584 
+
+ monokke1,     spain,        <Channel name: shadowkekw>,       2024-11-07 10:50:12.143638 
+
+ monokke1,     ru,        <Channel name: shadowkekw>,       2024-11-07 10:50:40.473249 
+
+ monokke1,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:51:43.607990 

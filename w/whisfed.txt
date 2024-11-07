@@ -1,2 +1,38 @@
 
  whisfed,     des0ut,        <Channel name: shadowkekw>,       2024-11-07 09:33:13.547476 
+
+ whisfed,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:06:43.226253 
+
+ whisfed,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:07:14.061956 
+
+ whisfed,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:08:27.786081 
+
+ whisfed,     Ireland,        <Channel name: shadowkekw>,       2024-11-07 10:09:05.285957 
+
+ whisfed,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:10:09.975394 
+
+ whisfed,     Tailand,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.673684 
+
+ whisfed,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:13:05.774326 
+
+ whisfed,     South corea,        <Channel name: shadowkekw>,       2024-11-07 10:15:12.351158 
+
+ whisfed,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:17:07.142181 
+
+ whisfed,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:17:58.057290 
+
+ whisfed,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:18:17.231251 
+
+ whisfed,     Lissabon,        <Channel name: shadowkekw>,       2024-11-07 10:19:06.333969 
+
+ whisfed,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:19:58.438921 
+
+ whisfed,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:20:14.297670 
+
+ whisfed,     Bruney,        <Channel name: shadowkekw>,       2024-11-07 10:20:29.133379 
+
+ whisfed,     USA,        <Channel name: shadowkekw>,       2024-11-07 10:21:35.969549 
+
+ whisfed,     Algir,        <Channel name: shadowkekw>,       2024-11-07 10:21:55.938338 
+
+ whisfed,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:22:22.242057 

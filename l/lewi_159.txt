@@ -1,0 +1,20 @@
+
+ lewi_159,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.262866 
+
+ lewi_159,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:35:46.508449 
+
+ lewi_159,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:36:07.787304 
+
+ lewi_159,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:37:24.904249 
+
+ lewi_159,     Norwegia,        <Channel name: shadowkekw>,       2024-11-07 10:39:56.185971 
+
+ lewi_159,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.487134 
+
+ lewi_159,     New Zealand,        <Channel name: shadowkekw>,       2024-11-07 10:57:47.530009 
+
+ lewi_159,     Japan,        <Channel name: shadowkekw>,       2024-11-07 11:03:17.289673 
+
+ lewi_159,     Dominican,        <Channel name: shadowkekw>,       2024-11-07 11:10:38.346461 
+
+ lewi_159,     Bolgaria,        <Channel name: shadowkekw>,       2024-11-07 11:14:34.138478 

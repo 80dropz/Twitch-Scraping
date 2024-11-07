@@ -1,2 +1,34 @@
 
  k1doq,     ww,        <Channel name: shadowkekw>,       2024-11-07 09:18:10.246756 
+
+ k1doq,     canada,        <Channel name: shadowkekw>,       2024-11-07 10:10:23.942476 
+
+ k1doq,     brazil,        <Channel name: shadowkekw>,       2024-11-07 10:56:56.565606 
+
+ k1doq,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:57:29.351891 
+
+ k1doq,     China,        <Channel name: shadowkekw>,       2024-11-07 10:58:17.505027 
+
+ k1doq,     bolgaria,        <Channel name: shadowkekw>,       2024-11-07 10:59:57.535952 
+
+ k1doq,     peru,        <Channel name: shadowkekw>,       2024-11-07 11:00:54.709175 
+
+ k1doq,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:02:37.730076 
+
+ k1doq,     Thailand,        <Channel name: shadowkekw>,       2024-11-07 11:03:38.130469 
+
+ k1doq,     Peru,        <Channel name: shadowkekw>,       2024-11-07 11:04:29.270302 
+
+ k1doq,     France,        <Channel name: shadowkekw>,       2024-11-07 11:07:01.950179 
+
+ k1doq,     d,        <Channel name: shadowkekw>,       2024-11-07 11:07:20.755210 
+
+ k1doq,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:07:35.705317 
+
+ k1doq,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 11:09:12.844249 
+
+ k1doq,     Chad,        <Channel name: shadowkekw>,       2024-11-07 11:09:25.507817 
+
+ k1doq,     Norway,        <Channel name: shadowkekw>,       2024-11-07 11:10:23.474575 
+
+ k1doq,     Finland,        <Channel name: shadowkekw>,       2024-11-07 11:10:33.878661 

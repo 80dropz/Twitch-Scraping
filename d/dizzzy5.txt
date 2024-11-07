@@ -1,0 +1,292 @@
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:09:11.886268 
+
+ dizzzy5,     Iceland,        <Channel name: shadowkekw>,       2024-11-07 10:09:25.004270 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:10:39.367046 
+
+ dizzzy5,     Norway,        <Channel name: shadowkekw>,       2024-11-07 10:10:42.984301 
+
+ dizzzy5,     Bulgaria,        <Channel name: shadowkekw>,       2024-11-07 10:11:19.823619 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:11:40.760379 
+
+ dizzzy5,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:12:49.420881 
+
+ dizzzy5,     Mongolia,        <Channel name: shadowkekw>,       2024-11-07 10:13:12.731660 
+
+ dizzzy5,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:13:48.899269 
+
+ dizzzy5,     Hungary,        <Channel name: shadowkekw>,       2024-11-07 10:14:45.111170 
+
+ dizzzy5,     Korea,        <Channel name: shadowkekw>,       2024-11-07 10:15:12.157965 
+
+ dizzzy5,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:15:23.288988 
+
+ dizzzy5,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:15:26.793108 
+
+ dizzzy5,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:15:29.820918 
+
+ dizzzy5,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:15:40.282027 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:15:46.098562 
+
+ dizzzy5,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:16:01.291575 
+
+ dizzzy5,     India,        <Channel name: shadowkekw>,       2024-11-07 10:16:20.718040 
+
+ dizzzy5,     Malta,        <Channel name: shadowkekw>,       2024-11-07 10:16:25.452088 
+
+ dizzzy5,     Ghana,        <Channel name: shadowkekw>,       2024-11-07 10:20:17.230217 
+
+ dizzzy5,     Holland,        <Channel name: shadowkekw>,       2024-11-07 10:20:37.122156 
+
+ dizzzy5,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:20:52.456795 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:21:13.229408 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:21:51.931887 
+
+ dizzzy5,     Turkey,        <Channel name: shadowkekw>,       2024-11-07 10:21:54.548996 
+
+ dizzzy5,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 10:23:03.963259 
+
+ dizzzy5,     Argentina,        <Channel name: shadowkekw>,       2024-11-07 10:23:08.617990 
+
+ dizzzy5,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:23:17.884833 
+
+ dizzzy5,     Holland,        <Channel name: shadowkekw>,       2024-11-07 10:23:39.822174 
+
+ dizzzy5,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:23:43.993690 
+
+ dizzzy5,     Spain,        <Channel name: shadowkekw>,       2024-11-07 10:23:47.325779 
+
+ dizzzy5,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:23:56.198644 
+
+ dizzzy5,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:24:01.932001 
+
+ dizzzy5,     Turkyie,        <Channel name: shadowkekw>,       2024-11-07 10:24:26.450937 
+
+ dizzzy5,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:24:38.522249 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:24:41.526151 
+
+ dizzzy5,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:25:14.783194 
+
+ dizzzy5,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:25:35.673898 
+
+ dizzzy5,     Canada,        <Channel name: shadowkekw>,       2024-11-07 10:25:39.433523 
+
+ dizzzy5,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:26:12.727328 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:26:19.145920 
+
+ dizzzy5,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:26:38.966328 
+
+ dizzzy5,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 10:26:54.292940 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:27:01.737662 
+
+ dizzzy5,     Australia,        <Channel name: shadowkekw>,       2024-11-07 10:27:06.359250 
+
+ dizzzy5,     Kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:27:33.468096 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:27:41.650166 
+
+ dizzzy5,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:28:10.820200 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:28:29.704345 
+
+ dizzzy5,     Russia,        <Channel name: shadowkekw>,       2024-11-07 10:28:43.839197 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:29:12.843547 
+
+ dizzzy5,     Egypt,        <Channel name: shadowkekw>,       2024-11-07 10:29:29.219287 
+
+ dizzzy5,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:29:47.645833 
+
+ dizzzy5,     Greece,        <Channel name: shadowkekw>,       2024-11-07 10:30:09.976870 
+
+ dizzzy5,     Algeria,        <Channel name: shadowkekw>,       2024-11-07 10:30:13.561340 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:30:18.129027 
+
+ dizzzy5,     Brazil,        <Channel name: shadowkekw>,       2024-11-07 10:30:31.091121 
+
+ dizzzy5,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 10:30:47.583556 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:30:56.371338 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:31:08.048029 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:31:28.044081 
+
+ dizzzy5,     Japan,        <Channel name: shadowkekw>,       2024-11-07 10:32:12.976472 
+
+ dizzzy5,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:32:15.860279 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:32:30.346059 
+
+ dizzzy5,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:32:33.937881 
+
+ dizzzy5,     Ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:32:47.052705 
+
+ dizzzy5,     Switzerland,        <Channel name: shadowkekw>,       2024-11-07 10:32:54.991333 
+
+ dizzzy5,     Oman,        <Channel name: shadowkekw>,       2024-11-07 10:33:22.504369 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:34:06.373890 
+
+ dizzzy5,     Kyrgyzstan,        <Channel name: shadowkekw>,       2024-11-07 10:34:30.167898 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:35:13.116449 
+
+ dizzzy5,     Thailan,        <Channel name: shadowkekw>,       2024-11-07 10:35:23.864288 
+
+ dizzzy5,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:35:46.088050 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:35:48.637047 
+
+ dizzzy5,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:35:54.162448 
+
+ dizzzy5,     South korea,        <Channel name: shadowkekw>,       2024-11-07 10:36:11.557365 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:36:47.375577 
+
+ dizzzy5,     Pakistan,        <Channel name: shadowkekw>,       2024-11-07 10:37:22.002718 
+
+ dizzzy5,     Iraq,        <Channel name: shadowkekw>,       2024-11-07 10:37:24.544969 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:37:45.855598 
+
+ dizzzy5,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:37:47.479304 
+
+ dizzzy5,     Poland,        <Channel name: shadowkekw>,       2024-11-07 10:38:12.863062 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:38:30.583869 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:10.221255 
+
+ dizzzy5,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:39:13.177489 
+
+ dizzzy5,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:39:49.066842 
+
+ dizzzy5,     Chile,        <Channel name: shadowkekw>,       2024-11-07 10:40:21.269741 
+
+ dizzzy5,     Uruguay,        <Channel name: shadowkekw>,       2024-11-07 10:40:27.884003 
+
+ dizzzy5,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:41:11.245948 
+
+ dizzzy5,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:41:33.381189 
+
+ dizzzy5,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:41:54.650043 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.032624 
+
+ dizzzy5,     Denmark,        <Channel name: shadowkekw>,       2024-11-07 10:43:35.758861 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:43:42.082182 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:44:06.965183 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:44:25.939432 
+
+ dizzzy5,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 10:44:28.135966 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:44:34.366743 
+
+ dizzzy5,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:44:54.536527 
+
+ dizzzy5,     Iran,        <Channel name: shadowkekw>,       2024-11-07 10:45:37.877190 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:45:52.263435 
+
+ dizzzy5,     Monaco,        <Channel name: shadowkekw>,       2024-11-07 10:46:10.210106 
+
+ dizzzy5,     Turkiye,        <Channel name: shadowkekw>,       2024-11-07 10:46:53.677010 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:47:16.169208 
+
+ dizzzy5,     Kenya,        <Channel name: shadowkekw>,       2024-11-07 10:47:41.329261 
+
+ dizzzy5,     Cyprus,        <Channel name: shadowkekw>,       2024-11-07 10:48:11.274990 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:48:31.687694 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:48:59.902862 
+
+ dizzzy5,     Nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:49:49.235498 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:50:55.481079 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:52:09.963848 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:52:37.423486 
+
+ dizzzy5,     Rwansa,        <Channel name: shadowkekw>,       2024-11-07 10:53:07.558684 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:53:45.258908 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:55:00.345875 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:55:43.656548 
+
+ dizzzy5,     Singapore,        <Channel name: shadowkekw>,       2024-11-07 10:56:12.653031 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 10:56:36.639801 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 10:56:57.676461 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 10:57:29.030501 
+
+ dizzzy5,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 10:58:18.663143 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 10:58:57.749533 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:59:45.446803 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 11:00:49.122470 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 11:01:44.922148 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:02:47.012009 
+
+ dizzzy5,     Rwanda,        <Channel name: shadowkekw>,       2024-11-07 11:03:50.880467 
+
+ dizzzy5,     Tunisia,        <Channel name: shadowkekw>,       2024-11-07 11:05:01.394510 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:05:32.774979 
+
+ dizzzy5,     Russia,        <Channel name: shadowkekw>,       2024-11-07 11:06:01.140822 
+
+ dizzzy5,     Ukraine,        <Channel name: shadowkekw>,       2024-11-07 11:06:08.218027 
+
+ dizzzy5,     Ni,        <Channel name: shadowkekw>,       2024-11-07 11:07:02.548409 
+
+ dizzzy5,     Morocco,        <Channel name: shadowkekw>,       2024-11-07 11:08:02.287986 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:08:17.691553 
+
+ dizzzy5,     Luxembourg,        <Channel name: shadowkekw>,       2024-11-07 11:08:22.407861 
+
+ dizzzy5,     Taiwan,        <Channel name: shadowkekw>,       2024-11-07 11:08:35.392168 
+
+ dizzzy5,     Canada,        <Channel name: shadowkekw>,       2024-11-07 11:09:35.823155 
+
+ dizzzy5,     Chille,        <Channel name: shadowkekw>,       2024-11-07 11:09:45.052608 
+
+ dizzzy5,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:09:49.876195 
+
+ dizzzy5,     Latvia,        <Channel name: shadowkekw>,       2024-11-07 11:10:24.350125 
+
+ dizzzy5,     Croatia,        <Channel name: shadowkekw>,       2024-11-07 11:11:53.253339 
+
+ dizzzy5,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 11:12:01.113979 
+
+ dizzzy5,     Belgium,        <Channel name: shadowkekw>,       2024-11-07 11:12:47.326219 
+
+ dizzzy5,     Mexico,        <Channel name: shadowkekw>,       2024-11-07 11:12:58.863956 
+
+ dizzzy5,     Lithuania,        <Channel name: shadowkekw>,       2024-11-07 11:13:56.013924 
+
+ dizzzy5,     Lichtenstein,        <Channel name: shadowkekw>,       2024-11-07 11:14:20.136861 

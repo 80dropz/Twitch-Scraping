@@ -2,3 +2,39 @@
  reaper_kill4,     Leaked,        <Channel name: kaicenat>,       2024-11-07 09:21:32.805429 
 
  reaper_kill4,     Miles leaked,        <Channel name: kaicenat>,       2024-11-07 09:21:56.521338 
+
+ reaper_kill4,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:57:54.702977 
+
+ reaper_kill4,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 10:11:31.366550 
+
+ reaper_kill4,     !join,        <Channel name: kaicenat>,       2024-11-07 10:12:31.357973 
+
+ reaper_kill4,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:14:24.380594 
+
+ reaper_kill4,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 10:16:18.555523 
+
+ reaper_kill4,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:17:00.195692 
+
+ reaper_kill4,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:17:23.738756 
+
+ reaper_kill4,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 10:17:32.564663 
+
+ reaper_kill4,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 10:17:42.002560 
+
+ reaper_kill4,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:17:49.042164 
+
+ reaper_kill4,     !roulette 250,        <Channel name: kaicenat>,       2024-11-07 10:18:02.318489 
+
+ reaper_kill4,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 10:18:17.052355 
+
+ reaper_kill4,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 10:18:22.246398 
+
+ reaper_kill4,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 10:18:31.962004 
+
+ reaper_kill4,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 10:18:38.170265 
+
+ reaper_kill4,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 10:18:45.294219 
+
+ reaper_kill4,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:18:50.927357 
+
+ reaper_kill4,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 10:18:59.316569 

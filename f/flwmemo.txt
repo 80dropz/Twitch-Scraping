@@ -1,0 +1,10 @@
+
+ flwmemo,     how long you been in for?,        <Channel name: kaicenat>,       2024-11-07 11:19:28.046942 
+
+ flwmemo,     !sub,        <Channel name: kaicenat>,       2024-11-07 12:26:25.843610 
+
+ flwmemo,     yeeee,        <Channel name: kaicenat>,       2024-11-07 12:28:39.384268 
+
+ flwmemo,     !roulette,        <Channel name: kaicenat>,       2024-11-07 12:28:47.578595 
+
+ flwmemo,     !time,        <Channel name: kaicenat>,       2024-11-07 12:28:59.757345 

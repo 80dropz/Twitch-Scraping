@@ -1,0 +1,4 @@
+
+ tides5343,     !settings,        <Channel name: mongraal>,       2024-11-07 10:14:28.114888 
+
+ tides5343,     !binds,        <Channel name: mongraal>,       2024-11-07 10:16:37.422624 

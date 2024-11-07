@@ -1,0 +1,8 @@
+
+ goofsval1,     hello@miles,        <Channel name: kaicenat>,       2024-11-07 10:07:48.913730 
+
+ goofsval1,     !join,        <Channel name: kaicenat>,       2024-11-07 10:13:54.879479 
+
+ goofsval1,     !pp,        <Channel name: kaicenat>,       2024-11-07 10:14:36.634356 
+
+ goofsval1,     !from,        <Channel name: kaicenat>,       2024-11-07 10:14:39.879541 

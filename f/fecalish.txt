@@ -1,0 +1,116 @@
+
+ fecalish,     sudan,        <Channel name: shadowkekw>,       2024-11-07 10:33:15.039403 
+
+ fecalish,     costa rica,        <Channel name: shadowkekw>,       2024-11-07 10:33:22.598392 
+
+ fecalish,     south africa,        <Channel name: shadowkekw>,       2024-11-07 10:34:24.337839 
+
+ fecalish,     costa rica,        <Channel name: shadowkekw>,       2024-11-07 10:34:26.669434 
+
+ fecalish,     polnad,        <Channel name: shadowkekw>,       2024-11-07 10:35:10.579290 
+
+ fecalish,     marocco,        <Channel name: shadowkekw>,       2024-11-07 10:35:18.821541 
+
+ fecalish,     nigeria,        <Channel name: shadowkekw>,       2024-11-07 10:35:36.055867 
+
+ fecalish,     china,        <Channel name: shadowkekw>,       2024-11-07 10:36:08.621104 
+
+ fecalish,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:36:43.879795 
+
+ fecalish,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:37:02.587888 
+
+ fecalish,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:37:20.024475 
+
+ fecalish,     kazakshtan,        <Channel name: shadowkekw>,       2024-11-07 10:37:33.782909 
+
+ fecalish,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:37:55.187403 
+
+ fecalish,     milan,        <Channel name: shadowkekw>,       2024-11-07 10:37:59.230666 
+
+ fecalish,     kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:38:19.926357 
+
+ fecalish,     mexico,        <Channel name: shadowkekw>,       2024-11-07 10:38:22.776166 
+
+ fecalish,     chad,        <Channel name: shadowkekw>,       2024-11-07 10:38:25.503725 
+
+ fecalish,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:38:30.210804 
+
+ fecalish,     germany,        <Channel name: shadowkekw>,       2024-11-07 10:38:44.499247 
+
+ fecalish,     ecuador,        <Channel name: shadowkekw>,       2024-11-07 10:38:46.793078 
+
+ fecalish,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:40:16.044819 
+
+ fecalish,     brasil,        <Channel name: shadowkekw>,       2024-11-07 10:41:03.144544 
+
+ fecalish,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:41:43.809427 
+
+ fecalish,     congo,        <Channel name: shadowkekw>,       2024-11-07 10:41:47.031517 
+
+ fecalish,     portugal,        <Channel name: shadowkekw>,       2024-11-07 10:42:10.425763 
+
+ fecalish,     usa,        <Channel name: shadowkekw>,       2024-11-07 10:42:11.665633 
+
+ fecalish,     congo,        <Channel name: shadowkekw>,       2024-11-07 10:42:32.313626 
+
+ fecalish,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:43:23.529874 
+
+ fecalish,     iran,        <Channel name: shadowkekw>,       2024-11-07 10:47:08.864222 
+
+ fecalish,     kazakhstan,        <Channel name: shadowkekw>,       2024-11-07 10:47:29.128769 
+
+ fecalish,     norway,        <Channel name: shadowkekw>,       2024-11-07 10:49:55.704793 
+
+ fecalish,     qatar,        <Channel name: shadowkekw>,       2024-11-07 10:51:05.802122 
+
+ fecalish,     congo,        <Channel name: shadowkekw>,       2024-11-07 10:51:52.035258 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:52:57.387433 
+
+ fecalish,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 10:54:14.173626 
+
+ fecalish,     Sweden,        <Channel name: shadowkekw>,       2024-11-07 10:55:02.201518 
+
+ fecalish,     Lesotho,        <Channel name: shadowkekw>,       2024-11-07 10:55:21.176359 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:55:36.858763 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:56:47.577935 
+
+ fecalish,     Kribati,        <Channel name: shadowkekw>,       2024-11-07 10:58:10.929299 
+
+ fecalish,     sweden,        <Channel name: shadowkekw>,       2024-11-07 10:58:48.795020 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 10:59:52.598400 
+
+ fecalish,     Bhutan,        <Channel name: shadowkekw>,       2024-11-07 11:00:26.207340 
+
+ fecalish,     Gabon,        <Channel name: shadowkekw>,       2024-11-07 11:01:12.934095 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 11:01:28.624664 
+
+ fecalish,     gobro,        <Channel name: shadowkekw>,       2024-11-07 11:02:31.597589 
+
+ fecalish,     san marino,        <Channel name: shadowkekw>,       2024-11-07 11:03:34.965854 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 11:04:23.861823 
+
+ fecalish,     mongolia,        <Channel name: shadowkekw>,       2024-11-07 11:11:31.637999 
+
+ fecalish,     gabon,        <Channel name: shadowkekw>,       2024-11-07 11:11:53.191722 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 11:15:20.580506 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 11:16:10.491922 
+
+ fecalish,     F5 F5 F5,        <Channel name: shadowkekw>,       2024-11-07 11:16:18.327064 
+
+ fecalish,     Tuvalu,        <Channel name: shadowkekw>,       2024-11-07 11:16:49.538890 
+
+ fecalish,     OAE,        <Channel name: shadowkekw>,       2024-11-07 11:16:53.585837 
+
+ fecalish,     322,        <Channel name: shadowkekw>,       2024-11-07 11:17:41.476819 
+
+ fecalish,     322 322 322 322,        <Channel name: shadowkekw>,       2024-11-07 11:17:45.014751 
+
+ fecalish,     322,        <Channel name: shadowkekw>,       2024-11-07 11:18:53.630247 
