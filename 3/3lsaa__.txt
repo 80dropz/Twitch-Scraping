@@ -1,0 +1,12 @@
+
+ 3lsaa__,     do 33 sec for KC3,        <Channel name: kaicenat>,       2024-11-07 01:41:32.295989 
+
+ 3lsaa__,     do 33 secs for KC3,        <Channel name: kaicenat>,       2024-11-07 01:41:41.746244 
+
+ 3lsaa__,     do 33 sec for KC3,        <Channel name: kaicenat>,       2024-11-07 01:41:45.506902 
+
+ 3lsaa__,     do 33 secs for KC3,        <Channel name: kaicenat>,       2024-11-07 01:41:58.722999 
+
+ 3lsaa__,     NO,        <Channel name: kaicenat>,       2024-11-07 01:43:22.112540 
+
+ 3lsaa__,     do 30 or 33 secs,        <Channel name: kaicenat>,       2024-11-07 01:43:45.497301 
