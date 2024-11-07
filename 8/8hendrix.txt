@@ -1,0 +1,8 @@
+
+ 8hendrix,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:31:34.476530 
+
+ 8hendrix,     RIGGED ASSSS,        <Channel name: kaicenat>,       2024-11-07 01:34:37.390406 
+
+ 8hendrix,     1MIN,        <Channel name: kaicenat>,       2024-11-07 01:40:24.238266 
+
+ 8hendrix,     leak,        <Channel name: kaicenat>,       2024-11-07 02:16:53.200175 
