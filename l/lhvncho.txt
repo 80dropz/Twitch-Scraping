@@ -1,0 +1,26 @@
+lhvncho,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:07:04.052991 
+lhvncho,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:48.277315 
+lhvncho,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:54.093615 
+lhvncho,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:11.512264 
+lhvncho,     awww,        <Channel name: stableronaldo>,       2024-11-07 16:08:32.237080 
+lhvncho,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:08:41.897238 
+lhvncho,     I was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:31.610273 
+lhvncho,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:05.120161 
+lhvncho,     No,        <Channel name: stableronaldo>,       2024-11-07 16:10:18.985224 
+lhvncho,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:11:16.168513 
+lhvncho,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:32.985351 
+lhvncho,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:12:04.060719 
+lhvncho,     mmm,        <Channel name: stableronaldo>,       2024-11-07 16:12:12.698859 
+lhvncho,     mmmm,        <Channel name: stableronaldo>,       2024-11-07 16:12:28.943663 
+lhvncho,     mmm,        <Channel name: stableronaldo>,       2024-11-07 16:12:30.962367 
+lhvncho,     LMAOOO,        <Channel name: stableronaldo>,       2024-11-07 16:13:13.212922 
+lhvncho,     GOAL,        <Channel name: stableronaldo>,       2024-11-07 16:13:53.896777 
+lhvncho,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:14:55.040214 
+lhvncho,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:53.020872 
+lhvncho,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:03.285957 
+lhvncho,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:19.325272 
+lhvncho,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:42.237626 
+lhvncho,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:25:00.062426 
+lhvncho,     ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:15.097364 
+lhvncho,     cmonBruh,        <Channel name: stableronaldo>,       2024-11-07 16:25:28.230073 
+lhvncho,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:11.339422 

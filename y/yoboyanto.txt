@@ -1,0 +1,2 @@
+yoboyanto,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:52.370152 
+yoboyanto,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:08:17.817273 

@@ -4,3 +4,5 @@
  hdrisdad,     1GUY,        <Channel name: lacy>,       2024-11-07 12:56:45.971528 
 
  hdrisdad,     1 GUYD,        <Channel name: lacy>,       2024-11-07 12:56:54.767925 
+hdrisdad,     yes,        <Channel name: lacy>,       2024-11-07 15:36:37.879649 
+hdrisdad,     A KID,        <Channel name: lacy>,       2024-11-07 16:26:33.025744 

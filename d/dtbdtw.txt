@@ -26,3 +26,6 @@
  dtbdtw,     kaicRNH kaicRNH kaicRNH,        <Channel name: kaicenat>,       2024-11-07 12:54:15.969184 
 
  dtbdtw,     kaicRNH kaicRNH kaicRNH kaicRNH kaicRNH,        <Channel name: kaicenat>,       2024-11-07 12:54:18.918945 
+dtbdtw,     !!!,        <Channel name: kaicenat>,       2024-11-07 16:52:28.710680 
+dtbdtw,     !!!!,        <Channel name: kaicenat>,       2024-11-07 16:52:32.832817 
+dtbdtw,     !,        <Channel name: kaicenat>,       2024-11-07 16:52:33.871472 

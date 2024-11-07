@@ -1,2 +1,6 @@
 
  greasy1z,     voice mail fye,        <Channel name: plaqueboymax>,       2024-11-07 01:40:08.129155 
+
+ greasy1z,     !bracket,        <Channel name: adapt>,       2024-11-07 14:52:29.965951 
+
+ greasy1z,     WHAT TIME IS THE TOURNEY,        <Channel name: adapt>,       2024-11-07 14:54:10.584650 

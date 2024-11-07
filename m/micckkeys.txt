@@ -1,0 +1,5 @@
+micckkeys,     wait for it to get hot,        <Channel name: kaicenat>,       2024-11-07 16:28:18.800594 
+micckkeys,     u can sprinkle some on to see if the water turns to vapor,        <Channel name: kaicenat>,       2024-11-07 16:31:34.316182 
+micckkeys,     just splash a bit to see if it’s hot enough first,        <Channel name: kaicenat>,       2024-11-07 16:32:01.230179 
+micckkeys,     it’s not really hot enough yet,        <Channel name: kaicenat>,       2024-11-07 16:32:36.072165 
+micckkeys,     do it again in 10 min,        <Channel name: kaicenat>,       2024-11-07 16:32:52.857107 

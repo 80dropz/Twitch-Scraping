@@ -1,0 +1,5 @@
+noir05,     POKELOL,        <Channel name: pokelawls>,       2024-11-07 15:37:17.287922 
+noir05,     ewwww,        <Channel name: pokelawls>,       2024-11-07 15:40:46.894044 
+noir05,     no,        <Channel name: pokelawls>,       2024-11-07 15:42:16.924456 
+noir05,     W script,        <Channel name: pokelawls>,       2024-11-07 15:42:58.587400 
+noir05,     yes,        <Channel name: pokelawls>,       2024-11-07 15:43:39.717677 

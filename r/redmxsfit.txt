@@ -1,0 +1,6 @@
+redmxsfit,     W,        <Channel name: clix>,       2024-11-07 15:36:08.104762 
+redmxsfit,     30,        <Channel name: clix>,       2024-11-07 15:47:36.521296 
+redmxsfit,     20-30,        <Channel name: clix>,       2024-11-07 15:47:48.720091 
+redmxsfit,     !playlist,        <Channel name: clix>,       2024-11-07 15:57:02.719208 
+redmxsfit,     genetics,        <Channel name: clix>,       2024-11-07 15:59:11.903813 
+redmxsfit,     Steve just wants to get involved lol,        <Channel name: clix>,       2024-11-07 16:01:31.620638 

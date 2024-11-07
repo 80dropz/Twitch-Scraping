@@ -2,3 +2,68 @@
  dullah_sa,     W 230,        <Channel name: kaicenat>,       2024-11-07 13:29:41.382174 
 
  dullah_sa,     W 230K,        <Channel name: kaicenat>,       2024-11-07 13:29:57.602654 
+dullah_sa,     CHAT STOP ASKING BOUT RAKAI,        <Channel name: kaicenat>,       2024-11-07 16:20:27.046052 
+dullah_sa,     CHAT STOP ASKING BOUT KAI,        <Channel name: kaicenat>,       2024-11-07 16:21:04.832160 
+dullah_sa,     CHAT STOP ASKING BOUT KAII,        <Channel name: kaicenat>,       2024-11-07 16:21:17.658440 
+dullah_sa,     YES,        <Channel name: kaicenat>,       2024-11-07 16:21:41.700335 
+dullah_sa,     GIRLS?,        <Channel name: kaicenat>,       2024-11-07 16:22:18.190727 
+dullah_sa,     GIRLS??,        <Channel name: kaicenat>,       2024-11-07 16:22:27.671817 
+dullah_sa,     YE,        <Channel name: kaicenat>,       2024-11-07 16:22:42.279770 
+dullah_sa,     YESS,        <Channel name: kaicenat>,       2024-11-07 16:22:44.288361 
+dullah_sa,     YESSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:22:50.624706 
+dullah_sa,     DO IT NIGGA,        <Channel name: kaicenat>,       2024-11-07 16:22:57.660646 
+dullah_sa,     NIGGA U DONT DO FUN SHIT NO MORE,        <Channel name: kaicenat>,       2024-11-07 16:23:14.048247 
+dullah_sa,     NIGGA U DONT DO FUN SHIT NO MOREE,        <Channel name: kaicenat>,       2024-11-07 16:23:19.228253 
+dullah_sa,     NIGGA U DONT DO FUN SHIT NO MOREEE,        <Channel name: kaicenat>,       2024-11-07 16:23:31.754543 
+dullah_sa,     CAM FINISHED,        <Channel name: kaicenat>,       2024-11-07 16:25:15.334366 
+dullah_sa,     RIP CAM,        <Channel name: kaicenat>,       2024-11-07 16:25:26.434987 
+dullah_sa,     RIP CAM,        <Channel name: kaicenat>,       2024-11-07 16:25:56.567296 
+dullah_sa,     YES,        <Channel name: kaicenat>,       2024-11-07 16:26:02.063228 
+dullah_sa,     YES,        <Channel name: kaicenat>,       2024-11-07 16:28:11.140482 
+dullah_sa,     YE,        <Channel name: kaicenat>,       2024-11-07 16:29:41.102010 
+dullah_sa,     YES,        <Channel name: kaicenat>,       2024-11-07 16:29:43.118855 
+dullah_sa,     YH,        <Channel name: kaicenat>,       2024-11-07 16:30:02.172066 
+dullah_sa,     8,        <Channel name: kaicenat>,       2024-11-07 16:30:29.765189 
+dullah_sa,     88,        <Channel name: kaicenat>,       2024-11-07 16:30:35.536970 
+dullah_sa,     88888,        <Channel name: kaicenat>,       2024-11-07 16:30:37.221002 
+dullah_sa,     88,        <Channel name: kaicenat>,       2024-11-07 16:30:40.686051 
+dullah_sa,     COOL,        <Channel name: kaicenat>,       2024-11-07 16:30:56.189997 
+dullah_sa,     PUT A BIT,        <Channel name: kaicenat>,       2024-11-07 16:31:22.821979 
+dullah_sa,     A BIT,        <Channel name: kaicenat>,       2024-11-07 16:31:28.663732 
+dullah_sa,     PUT A LITTLE,        <Channel name: kaicenat>,       2024-11-07 16:31:37.937846 
+dullah_sa,     ONE LADLE,        <Channel name: kaicenat>,       2024-11-07 16:31:51.292368 
+dullah_sa,     SHOULDVE DONE IT BEFORE,        <Channel name: kaicenat>,       2024-11-07 16:33:11.656473 
+dullah_sa,     MORE,        <Channel name: kaicenat>,       2024-11-07 16:33:41.560498 
+dullah_sa,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:33:46.096421 
+dullah_sa,     PLAY MUSIC,        <Channel name: kaicenat>,       2024-11-07 16:33:54.009267 
+dullah_sa,     UP THE HEAT,        <Channel name: kaicenat>,       2024-11-07 16:34:42.420173 
+dullah_sa,     UP THE HEATT,        <Channel name: kaicenat>,       2024-11-07 16:34:47.219974 
+dullah_sa,     NO NIGGA,        <Channel name: kaicenat>,       2024-11-07 16:34:55.302166 
+dullah_sa,     UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:35:20.172411 
+dullah_sa,     UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:35:21.773096 
+dullah_sa,     UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:35:25.025232 
+dullah_sa,     UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:35:42.975109 
+dullah_sa,     GLO,        <Channel name: kaicenat>,       2024-11-07 16:35:48.082964 
+dullah_sa,     GLORILLA,        <Channel name: kaicenat>,       2024-11-07 16:35:52.915842 
+dullah_sa,     GLO,        <Channel name: kaicenat>,       2024-11-07 16:35:58.722153 
+dullah_sa,     UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:36:19.936993 
+dullah_sa,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:37:04.883027 
+dullah_sa,     WATERR,        <Channel name: kaicenat>,       2024-11-07 16:37:08.616434 
+dullah_sa,     SWIM,        <Channel name: kaicenat>,       2024-11-07 16:41:11.510551 
+dullah_sa,     FUCK THIS,        <Channel name: kaicenat>,       2024-11-07 16:41:19.176669 
+dullah_sa,     YES,        <Channel name: kaicenat>,       2024-11-07 16:45:08.329954 
+dullah_sa,     WATER UPP HEAT,        <Channel name: kaicenat>,       2024-11-07 16:45:24.682160 
+dullah_sa,     WATTER,        <Channel name: kaicenat>,       2024-11-07 16:45:27.591931 
+dullah_sa,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:30.838760 
+dullah_sa,     WATERR,        <Channel name: kaicenat>,       2024-11-07 16:45:37.492247 
+dullah_sa,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:46.114725 
+dullah_sa,     WATER90,        <Channel name: kaicenat>,       2024-11-07 16:45:59.471966 
+dullah_sa,     AD WATER,        <Channel name: kaicenat>,       2024-11-07 16:46:04.567855 
+dullah_sa,     YEAHH,        <Channel name: kaicenat>,       2024-11-07 16:47:40.798919 
+dullah_sa,     W,        <Channel name: kaicenat>,       2024-11-07 16:47:43.983632 
+dullah_sa,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:47:44.990131 
+dullah_sa,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:47:46.714112 
+dullah_sa,     W STEPZ,        <Channel name: kaicenat>,       2024-11-07 16:48:07.678004 
+dullah_sa,     STICKYYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:31.570206 
+dullah_sa,     UHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:54:31.417695 
+dullah_sa,     SWIM,        <Channel name: kaicenat>,       2024-11-07 16:55:20.158006 

@@ -1,0 +1,4 @@
+trayflame,     check on rakai,        <Channel name: kaicenat>,       2024-11-07 16:18:20.652165 
+trayflame,     I got timed out for saying check in rakai,        <Channel name: kaicenat>,       2024-11-07 16:19:11.158862 
+trayflame,     they wrong for phrase 303,        <Channel name: kaicenat>,       2024-11-07 16:21:21.682655 
+trayflame,     a kickback,        <Channel name: kaicenat>,       2024-11-07 16:23:18.522942 

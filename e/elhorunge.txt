@@ -1,0 +1,28 @@
+
+ elhorunge,     L L L L,        <Channel name: lacy>,       2024-11-07 15:27:02.549720 
+
+ elhorunge,     L,        <Channel name: lacy>,       2024-11-07 15:27:04.321564 
+
+ elhorunge,     L L,        <Channel name: lacy>,       2024-11-07 15:27:06.028118 
+
+ elhorunge,     L,        <Channel name: lacy>,       2024-11-07 15:27:07.757153 
+
+ elhorunge,     L L L L L,        <Channel name: lacy>,       2024-11-07 15:27:11.956917 
+
+ elhorunge,     L L L L L L L L L L L L,        <Channel name: lacy>,       2024-11-07 15:27:16.086429 
+
+ elhorunge,     L,        <Channel name: lacy>,       2024-11-07 15:27:17.953114 
+
+ elhorunge,     L L L L,        <Channel name: lacy>,       2024-11-07 15:27:20.615468 
+
+ elhorunge,     L L L L L L L L,        <Channel name: lacy>,       2024-11-07 15:27:24.615014 
+
+ elhorunge,     L L L L,        <Channel name: lacy>,       2024-11-07 15:27:26.944452 
+
+ elhorunge,     L,        <Channel name: lacy>,       2024-11-07 15:27:31.657723 
+
+ elhorunge,     L L,        <Channel name: lacy>,       2024-11-07 15:27:36.258485 
+
+ elhorunge,     L L L L L L L L L L L L,        <Channel name: lacy>,       2024-11-07 15:27:41.464660 
+
+ elhorunge,     L L L L L L,        <Channel name: lacy>,       2024-11-07 15:27:43.400635 

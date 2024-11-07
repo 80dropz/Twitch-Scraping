@@ -1,0 +1,3 @@
+theo_diddy,     UR MIC DEAD,        <Channel name: kaicenat>,       2024-11-07 16:54:21.081930 
+theo_diddy,     UR MIC DONT WORK,        <Channel name: kaicenat>,       2024-11-07 16:54:26.451669 
+theo_diddy,     MIC DEAD,        <Channel name: kaicenat>,       2024-11-07 16:56:01.489858 

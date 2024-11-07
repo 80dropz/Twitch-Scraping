@@ -6,3 +6,4 @@
  toxicboy8054,     !Subs,        <Channel name: mongraal>,       2024-11-07 13:13:41.713409 
 
  toxicboy8054,     !height,        <Channel name: mongraal>,       2024-11-07 13:14:02.198506 
+toxicboy8054,     !Crosshair,        <Channel name: mongraal>,       2024-11-07 16:37:00.172344 

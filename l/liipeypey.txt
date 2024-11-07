@@ -1,0 +1,8 @@
+liipeypey,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:34:52.755907 
+liipeypey,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:35:26.540847 
+liipeypey,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:36:09.759916 
+liipeypey,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:36:53.789539 
+liipeypey,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:37:34.858546 
+liipeypey,     !points,        <Channel name: kaicenat>,       2024-11-07 15:38:05.107933 
+liipeypey,     !roulette 1500,        <Channel name: kaicenat>,       2024-11-07 15:40:33.284366 
+liipeypey,     !points,        <Channel name: kaicenat>,       2024-11-07 15:41:01.961983 

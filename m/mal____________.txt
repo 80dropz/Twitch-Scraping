@@ -1,2 +1,5 @@
 
  mal____________,     1,        <Channel name: clix>,       2024-11-07 02:08:12.896740 
+mal____________,     LMAO,        <Channel name: clix>,       2024-11-07 15:31:59.329879 
+mal____________,     OMG,        <Channel name: clix>,       2024-11-07 15:33:18.122106 
+mal____________,     yea,        <Channel name: clix>,       2024-11-07 15:33:40.785754 

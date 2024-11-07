@@ -2,3 +2,7 @@
  stategoose39,     skibidi,        <Channel name: clix>,       2024-11-07 02:01:29.989690 
 
  stategoose39,     skibidi,        <Channel name: clix>,       2024-11-07 02:02:45.516026 
+
+ stategoose39,     make drew do it,        <Channel name: lacy>,       2024-11-07 14:52:22.049614 
+
+ stategoose39,     drew turn,        <Channel name: lacy>,       2024-11-07 14:53:03.585768 

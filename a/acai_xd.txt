@@ -1,0 +1,4 @@
+acai_xd,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:41:44.274096 
+acai_xd,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:16.960839 
+acai_xd,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:42:27.152382 
+acai_xd,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:40.333456 

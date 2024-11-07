@@ -1,0 +1,3 @@
+drew_ggxx,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:57:48.396790 
+drew_ggxx,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:57:53.614618 
+drew_ggxx,     !subage,        <Channel name: kaicenat>,       2024-11-07 15:58:03.835428 

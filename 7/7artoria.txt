@@ -1,0 +1,4 @@
+7artoria,     uuh,        <Channel name: lacy>,       2024-11-07 15:56:30.408625 
+7artoria,     cap,        <Channel name: stableronaldo>,       2024-11-07 15:58:45.607845 
+7artoria,     uuh,        <Channel name: stableronaldo>,       2024-11-07 15:58:54.379425 
+7artoria,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:02.684789 

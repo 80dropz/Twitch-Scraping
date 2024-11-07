@@ -1,0 +1,15 @@
+bhadfeli,     too much water,        <Channel name: kaicenat>,       2024-11-07 16:34:48.494426 
+bhadfeli,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:52.089227 
+bhadfeli,     no more,        <Channel name: kaicenat>,       2024-11-07 16:34:55.125055 
+bhadfeli,     no more water,        <Channel name: kaicenat>,       2024-11-07 16:35:13.414729 
+bhadfeli,     you just gotta wait till it heats up,        <Channel name: kaicenat>,       2024-11-07 16:35:41.449420 
+bhadfeli,     nooo,        <Channel name: kaicenat>,       2024-11-07 16:37:39.394838 
+bhadfeli,     kaiii noo,        <Channel name: kaicenat>,       2024-11-07 16:37:43.169426 
+bhadfeli,     nooooo,        <Channel name: kaicenat>,       2024-11-07 16:37:52.823611 
+bhadfeli,     noooooo,        <Channel name: kaicenat>,       2024-11-07 16:37:55.153327 
+bhadfeli,     no more,        <Channel name: kaicenat>,       2024-11-07 16:40:06.612321 
+bhadfeli,     no more water,        <Channel name: kaicenat>,       2024-11-07 16:40:18.588400 
+bhadfeli,     stoppp,        <Channel name: kaicenat>,       2024-11-07 16:40:22.585544 
+bhadfeli,     no more water,        <Channel name: kaicenat>,       2024-11-07 16:40:28.267163 
+bhadfeli,     stoppp,        <Channel name: kaicenat>,       2024-11-07 16:41:01.234233 
+bhadfeli,     you gotta turn the heat up,        <Channel name: kaicenat>,       2024-11-07 16:41:38.710585 

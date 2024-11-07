@@ -58,3 +58,26 @@
  rj1x_x,     those bags,        <Channel name: lacy>,       2024-11-07 13:36:19.472088 
 
  rj1x_x,     yes,        <Channel name: lacy>,       2024-11-07 13:36:41.353748 
+
+ rj1x_x,     yooo,        <Channel name: adapt>,       2024-11-07 14:43:43.971680 
+
+ rj1x_x,     sus sounds,        <Channel name: lacy>,       2024-11-07 14:45:32.321746 
+
+ rj1x_x,     I'm blind whats going on?,        <Channel name: lacy>,       2024-11-07 14:45:50.924131 
+
+ rj1x_x,     ayo,        <Channel name: lacy>,       2024-11-07 14:46:52.065590 
+
+ rj1x_x,     sus sounds,        <Channel name: lacy>,       2024-11-07 14:47:52.453733 
+
+ rj1x_x,     uuh,        <Channel name: lacy>,       2024-11-07 14:49:01.820345 
+
+ rj1x_x,     throw up on that thang,        <Channel name: lacy>,       2024-11-07 14:49:49.312865 
+rj1x_x,     OKAY,        <Channel name: lacy>,       2024-11-07 15:55:17.815376 
+rj1x_x,     BET,        <Channel name: lacy>,       2024-11-07 15:55:22.951288 
+rj1x_x,     Money shot,        <Channel name: lacy>,       2024-11-07 16:00:20.172496 
+rj1x_x,     LACY DUMBASS,        <Channel name: lacy>,       2024-11-07 16:08:42.673656 
+rj1x_x,     GUYAT,        <Channel name: lacy>,       2024-11-07 16:10:56.840394 
+rj1x_x,     close the door,        <Channel name: lacy>,       2024-11-07 16:16:34.429107 
+rj1x_x,     theres a camera,        <Channel name: lacy>,       2024-11-07 16:17:04.345796 
+rj1x_x,     THERE'S A CAMERA,        <Channel name: lacy>,       2024-11-07 16:17:10.617121 
+rj1x_x,     CAMERA,        <Channel name: lacy>,       2024-11-07 16:17:21.588957 

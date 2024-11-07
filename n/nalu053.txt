@@ -8,3 +8,4 @@
  nalu053,     !subs,        <Channel name: kaicenat>,       2024-11-07 12:37:00.962289 
 
  nalu053,     SHUT UP,        <Channel name: kaicenat>,       2024-11-07 12:50:23.819672 
+nalu053,     WAY HOTTER,        <Channel name: kaicenat>,       2024-11-07 16:34:43.599009 

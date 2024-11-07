@@ -1,2 +1,4 @@
 
  greent3a,     Is Lina playing Sue Storm?,        <Channel name: lacy>,       2024-11-07 12:40:17.475191 
+greent3a,     is he saying Drew is the smartest one in the room?,        <Channel name: lacy>,       2024-11-07 15:40:43.349612 
+greent3a,     Drew?,        <Channel name: lacy>,       2024-11-07 16:18:25.095850 

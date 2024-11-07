@@ -34,3 +34,25 @@
  psalmslw,     sus,        <Channel name: lacy>,       2024-11-07 12:48:16.797952 
 
  psalmslw,     classic,        <Channel name: lacy>,       2024-11-07 12:55:24.223550 
+psalmslw,     AY AY CAPTAIN,        <Channel name: lacy>,       2024-11-07 15:30:01.626881 
+psalmslw,     ome32,        <Channel name: lacy>,       2024-11-07 15:33:00.081926 
+psalmslw,     sus,        <Channel name: lacy>,       2024-11-07 15:33:21.555987 
+psalmslw,     D:,        <Channel name: lacy>,       2024-11-07 15:33:59.543027 
+psalmslw,     D:,        <Channel name: lacy>,       2024-11-07 15:35:33.417948 
+psalmslw,     stop shaking the camera,        <Channel name: lacy>,       2024-11-07 15:47:49.416084 
+psalmslw,     NOWAY,        <Channel name: lacy>,       2024-11-07 15:49:23.561141 
+psalmslw,     DREW STOP SHAKING LOCK IN,        <Channel name: lacy>,       2024-11-07 16:04:39.691992 
+psalmslw,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:05:10.407991 
+psalmslw,     OOOO,        <Channel name: lacy>,       2024-11-07 16:07:32.252694 
+psalmslw,     LOL,        <Channel name: lacy>,       2024-11-07 16:12:48.167580 
+psalmslw,     ta,        <Channel name: lacy>,       2024-11-07 16:14:29.745661 
+psalmslw,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:14:33.555742 
+psalmslw,     sus,        <Channel name: lacy>,       2024-11-07 16:15:26.257545 
+psalmslw,     NOWAY,        <Channel name: lacy>,       2024-11-07 16:15:33.779635 
+psalmslw,     D:,        <Channel name: lacy>,       2024-11-07 16:16:21.747766 
+psalmslw,     HUH,        <Channel name: lacy>,       2024-11-07 16:16:32.476992 
+psalmslw,     Yes,        <Channel name: lacy>,       2024-11-07 16:22:54.021119 
+psalmslw,     W Snipers,        <Channel name: lacy>,       2024-11-07 16:23:40.949595 
+psalmslw,     uuh,        <Channel name: lacy>,       2024-11-07 16:24:01.503818 
+psalmslw,     FIVE GUYS NOWAY,        <Channel name: lacy>,       2024-11-07 16:24:21.061521 
+psalmslw,     Pffttt,        <Channel name: lacy>,       2024-11-07 16:25:25.842639 

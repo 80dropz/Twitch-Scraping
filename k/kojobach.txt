@@ -1,0 +1,6 @@
+kojobach,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:43.639434 
+kojobach,     bad,        <Channel name: stableronaldo>,       2024-11-07 15:57:54.651617 
+kojobach,     BA,        <Channel name: stableronaldo>,       2024-11-07 15:57:56.287816 
+kojobach,     BAD,        <Channel name: stableronaldo>,       2024-11-07 15:57:58.718641 
+kojobach,     YES,        <Channel name: stableronaldo>,       2024-11-07 15:58:30.143387 
+kojobach,     Yes,        <Channel name: stableronaldo>,       2024-11-07 15:59:27.636602 

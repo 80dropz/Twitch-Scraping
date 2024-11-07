@@ -44,3 +44,6 @@
  cnkcs,     WATCH LOL,        <Channel name: kaicenat>,       2024-11-07 13:28:50.589060 
 
  cnkcs,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:29:23.660048 
+cnkcs,     lebronJAM,        <Channel name: kaicenat>,       2024-11-07 16:52:41.158235 
+cnkcs,     lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM   lebronJAM,        <Channel name: kaicenat>,       2024-11-07 16:52:47.003678 
+cnkcs,     lebronArrive,        <Channel name: kaicenat>,       2024-11-07 16:53:03.032227 

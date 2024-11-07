@@ -1,0 +1,6 @@
+dark_izma,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:56:14.015116 
+dark_izma,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:56:22.827295 
+dark_izma,     here we go,        <Channel name: stableronaldo>,       2024-11-07 15:58:49.896426 
+dark_izma,     Lfe,        <Channel name: stableronaldo>,       2024-11-07 15:59:03.724829 
+dark_izma,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:59:06.997498 
+dark_izma,     end stream to go to hospital,        <Channel name: stableronaldo>,       2024-11-07 16:01:43.034673 

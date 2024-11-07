@@ -1,0 +1,5 @@
+zoop07,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:02:09.210718 
+zoop07,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:48.694178 
+zoop07,     no,        <Channel name: stableronaldo>,       2024-11-07 16:03:42.670695 
+zoop07,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:56.410518 
+zoop07,     scopes team is getting ran through,        <Channel name: adapt>,       2024-11-07 16:21:46.481940 

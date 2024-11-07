@@ -1,0 +1,8 @@
+lucifer_actual,     i have a brain tumor. go get an MRI,        <Channel name: stableronaldo>,       2024-11-07 16:01:43.195618 
+lucifer_actual,     go get an MRI,        <Channel name: stableronaldo>,       2024-11-07 16:02:15.570995 
+lucifer_actual,     no,        <Channel name: stableronaldo>,       2024-11-07 16:03:40.020923 
+lucifer_actual,     1k views,        <Channel name: stableronaldo>,       2024-11-07 16:03:43.524978 
+lucifer_actual,     RIP burger,        <Channel name: stableronaldo>,       2024-11-07 16:06:03.967323 
+lucifer_actual,     boy uuh,        <Channel name: stableronaldo>,       2024-11-07 16:09:11.647429 
+lucifer_actual,     fake car,        <Channel name: stableronaldo>,       2024-11-07 16:09:49.701410 
+lucifer_actual,     nah ur so ugly,        <Channel name: stableronaldo>,       2024-11-07 16:10:29.869332 

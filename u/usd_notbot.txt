@@ -1,0 +1,2 @@
+usd_notbot,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:40:31.004368 
+usd_notbot,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:42:51.992436 

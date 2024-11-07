@@ -1,0 +1,16 @@
+
+ ayoub_160603,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:50:10.148484 
+
+ ayoub_160603,     RAKAIII,        <Channel name: kaicenat>,       2024-11-07 14:50:16.479473 
+
+ ayoub_160603,     RAKAIIII,        <Channel name: kaicenat>,       2024-11-07 14:50:22.702897 
+
+ ayoub_160603,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:50:33.456917 
+
+ ayoub_160603,     RAKAIIII,        <Channel name: kaicenat>,       2024-11-07 14:52:28.663101 
+
+ ayoub_160603,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:52:38.780783 
+
+ ayoub_160603,     RAKAIIII,        <Channel name: kaicenat>,       2024-11-07 14:52:50.867690 
+
+ ayoub_160603,     RAKAIIIIIIIII,        <Channel name: kaicenat>,       2024-11-07 14:53:15.474232 

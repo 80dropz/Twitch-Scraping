@@ -1,0 +1,14 @@
+
+ twitch_lemouton,     g,        <Channel name: mongraal>,       2024-11-07 14:43:34.046890 
+
+ twitch_lemouton,     gg,        <Channel name: mongraal>,       2024-11-07 14:43:37.844154 
+
+ twitch_lemouton,     gg bro,        <Channel name: mongraal>,       2024-11-07 14:43:55.418948 
+
+ twitch_lemouton,     gg bro good fight,        <Channel name: mongraal>,       2024-11-07 14:44:27.566027 
+
+ twitch_lemouton,     i am french and you chat,        <Channel name: mongraal>,       2024-11-07 14:46:26.063280 
+
+ twitch_lemouton,     please your skin irl,        <Channel name: mongraal>,       2024-11-07 14:50:04.218832 
+
+ twitch_lemouton,     yeah,        <Channel name: mongraal>,       2024-11-07 14:51:40.004803 

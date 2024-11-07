@@ -10,3 +10,4 @@
  kos_dem,     na,        <Channel name: silky>,       2024-11-07 02:39:34.060399 
 
  kos_dem,     ngl max he smoking wit snoop u not in dis,        <Channel name: silky>,       2024-11-07 02:45:09.280358 
+kos_dem,     put the sniper down,        <Channel name: adapt>,       2024-11-07 15:29:07.279555 

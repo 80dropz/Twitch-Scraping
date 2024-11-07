@@ -68,3 +68,7 @@
  gimpy_god,     TA TA TA,        <Channel name: kaicenat>,       2024-11-07 02:22:55.586890 
 
  gimpy_god,     TA TA TAT AAA,        <Channel name: kaicenat>,       2024-11-07 02:23:00.115291 
+gimpy_god,     W SCRIPT,        <Channel name: kaicenat>,       2024-11-07 16:46:07.445613 
+gimpy_god,     USE THE SCOOP,        <Channel name: kaicenat>,       2024-11-07 16:47:12.941478 
+gimpy_god,     USE THS SCOOP,        <Channel name: kaicenat>,       2024-11-07 16:47:18.963029 
+gimpy_god,     ITS GETTING DIDDDYYYYYY,        <Channel name: kaicenat>,       2024-11-07 16:49:01.628953 

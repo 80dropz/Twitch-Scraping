@@ -68,3 +68,14 @@
  twrblue,     !time,        <Channel name: kaicenat>,       2024-11-07 12:23:22.968617 
 
  twrblue,     !time,        <Channel name: kaicenat>,       2024-11-07 12:57:04.741754 
+
+ twrblue,     NIGA,        <Channel name: kaicenat>,       2024-11-07 15:23:22.897219 
+
+ twrblue,     L ADS MF,        <Channel name: kaicenat>,       2024-11-07 15:23:22.956152 
+
+ twrblue,     STOP WITH THE ADS,        <Channel name: kaicenat>,       2024-11-07 15:23:27.121502 
+
+ twrblue,     10 ads,        <Channel name: kaicenat>,       2024-11-07 15:23:50.107487 
+twrblue,     what is bro doing,        <Channel name: kaicenat>,       2024-11-07 16:39:26.405389 
+twrblue,     Whos been here since they were sleeping,        <Channel name: kaicenat>,       2024-11-07 16:47:05.927372 
+twrblue,     kaicCuff kaicCuff,        <Channel name: kaicenat>,       2024-11-07 16:47:12.993199 

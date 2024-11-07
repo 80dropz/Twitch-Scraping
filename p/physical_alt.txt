@@ -1,0 +1,5 @@
+
+ physical_alt,     yo,        <Channel name: clix>,       2024-11-07 15:26:16.860488 
+physical_alt,     aaaaaaaaaaaaaaaaaaaa,        <Channel name: clix>,       2024-11-07 15:32:04.018918 
+physical_alt,     aaaaaaaaaaaaaa,        <Channel name: clix>,       2024-11-07 15:32:06.031438 
+physical_alt,     nah thats sad,        <Channel name: clix>,       2024-11-07 15:32:13.163804 

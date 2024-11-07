@@ -1,0 +1,6 @@
+llowlili,     hiiii,        <Channel name: stableronaldo>,       2024-11-07 15:58:31.673051 
+llowlili,     What,        <Channel name: stableronaldo>,       2024-11-07 15:58:59.366410 
+llowlili,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 15:59:17.950691 
+llowlili,     yeah,        <Channel name: stableronaldo>,       2024-11-07 15:59:26.557703 
+llowlili,     yes,        <Channel name: stableronaldo>,       2024-11-07 15:59:28.713175 
+llowlili,     100%,        <Channel name: stableronaldo>,       2024-11-07 15:59:33.836863 

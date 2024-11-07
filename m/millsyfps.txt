@@ -4,3 +4,4 @@
  millsyfps,     yes,        <Channel name: nadeshot>,       2024-11-07 12:35:41.563606 
 
  millsyfps,     poll,        <Channel name: nadeshot>,       2024-11-07 12:35:47.633559 
+millsyfps,     !brackket,        <Channel name: nadeshot>,       2024-11-07 16:36:19.426396 

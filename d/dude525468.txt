@@ -1,0 +1,3 @@
+dude525468,     PLEASE NO,        <Channel name: stableronaldo>,       2024-11-07 16:16:28.408681 
+dude525468,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:16:34.018637 
+dude525468,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:19:19.069893 

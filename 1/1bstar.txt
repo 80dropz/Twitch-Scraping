@@ -1,0 +1,2 @@
+1bstar,     !pc,        <Channel name: sinatraa>,       2024-11-07 16:32:53.046797 
+1bstar,     !specs,        <Channel name: sinatraa>,       2024-11-07 16:32:57.315599 

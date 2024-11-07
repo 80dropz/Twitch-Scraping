@@ -1,0 +1,24 @@
+
+ dctrippy,     lol,        <Channel name: kaicenat>,       2024-11-07 15:25:03.889137 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:04.025110 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:16.415501 
+
+ dctrippy,     l,        <Channel name: kaicenat>,       2024-11-07 15:25:30.360153 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:31.625053 
+
+ dctrippy,     l,        <Channel name: kaicenat>,       2024-11-07 15:25:33.144327 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:34.660111 
+
+ dctrippy,     l,        <Channel name: kaicenat>,       2024-11-07 15:25:35.991994 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:37.211608 
+
+ dctrippy,     l,        <Channel name: kaicenat>,       2024-11-07 15:25:38.607641 
+
+ dctrippy,     w,        <Channel name: kaicenat>,       2024-11-07 15:25:39.765510 
+
+ dctrippy,     l,        <Channel name: kaicenat>,       2024-11-07 15:25:41.307357 

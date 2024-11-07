@@ -1,0 +1,15 @@
+elnata005,     drop the song,        <Channel name: stableronaldo>,       2024-11-07 15:55:40.722201 
+elnata005,     fire,        <Channel name: stableronaldo>,       2024-11-07 15:56:07.864165 
+elnata005,     ww,        <Channel name: stableronaldo>,       2024-11-07 15:56:11.601573 
+elnata005,     we,        <Channel name: stableronaldo>,       2024-11-07 15:56:11.668634 
+elnata005,     w,        <Channel name: stableronaldo>,       2024-11-07 15:56:14.445204 
+elnata005,     fire,        <Channel name: stableronaldo>,       2024-11-07 15:56:24.080712 
+elnata005,     drop the song,        <Channel name: stableronaldo>,       2024-11-07 15:56:54.596343 
+elnata005,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:14.969763 
+elnata005,     drop the song drop the song,        <Channel name: stableronaldo>,       2024-11-07 16:02:34.529681 
+elnata005,     stabeHead stabeHead stabeHead,        <Channel name: stableronaldo>,       2024-11-07 16:02:49.036022 
+elnata005,     drop the song,        <Channel name: stableronaldo>,       2024-11-07 16:10:47.025354 
+elnata005,     we need the song,        <Channel name: stableronaldo>,       2024-11-07 16:10:57.364090 
+elnata005,     w song,        <Channel name: stableronaldo>,       2024-11-07 16:11:07.287854 
+elnata005,     drop it,        <Channel name: stableronaldo>,       2024-11-07 16:11:12.920958 
+elnata005,     w,        <Channel name: stableronaldo>,       2024-11-07 16:11:15.967083 

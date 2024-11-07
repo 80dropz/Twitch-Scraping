@@ -1,0 +1,6 @@
+wc_ranger,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:02:13.812003 
+wc_ranger,     OVER REACTING,        <Channel name: stableronaldo>,       2024-11-07 16:02:28.227786 
+wc_ranger,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:02:34.167865 
+wc_ranger,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:46.244977 
+wc_ranger,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:03:21.977558 
+wc_ranger,     no,        <Channel name: stableronaldo>,       2024-11-07 16:03:38.363156 

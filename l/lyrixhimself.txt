@@ -1,0 +1,6 @@
+lyrixhimself,     hi,        <Channel name: clix>,       2024-11-07 15:49:31.447330 
+lyrixhimself,     yo,        <Channel name: clix>,       2024-11-07 15:49:39.996183 
+lyrixhimself,     wassup,        <Channel name: clix>,       2024-11-07 15:49:44.969244 
+lyrixhimself,     hi,        <Channel name: mongraal>,       2024-11-07 15:51:06.041978 
+lyrixhimself,     wassup,        <Channel name: mongraal>,       2024-11-07 15:51:11.552967 
+lyrixhimself,     bro hi,        <Channel name: mongraal>,       2024-11-07 15:51:17.608960 

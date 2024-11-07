@@ -1,0 +1,8 @@
+hockeydude_98,     w,        <Channel name: stableronaldo>,       2024-11-07 15:54:52.230731 
+hockeydude_98,     W,        <Channel name: stableronaldo>,       2024-11-07 15:56:30.642331 
+hockeydude_98,     we good,        <Channel name: stableronaldo>,       2024-11-07 15:56:41.156978 
+hockeydude_98,     PATRICK,        <Channel name: stableronaldo>,       2024-11-07 15:56:46.503259 
+hockeydude_98,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:05.060535 
+hockeydude_98,     terrible,        <Channel name: stableronaldo>,       2024-11-07 15:57:18.254529 
+hockeydude_98,     REAL,        <Channel name: stableronaldo>,       2024-11-07 15:58:16.713727 
+hockeydude_98,     ???,        <Channel name: stableronaldo>,       2024-11-07 16:22:34.973397 

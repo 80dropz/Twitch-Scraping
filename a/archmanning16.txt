@@ -1,0 +1,4 @@
+archmanning16,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:57:16.548844 
+archmanning16,     !followage.,        <Channel name: kaicenat>,       2024-11-07 15:57:40.026911 
+archmanning16,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:57:53.526607 
+archmanning16,     827017,        <Channel name: kaicenat>,       2024-11-07 15:58:34.728838 

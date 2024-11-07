@@ -1,0 +1,4 @@
+sav122557,     yes,        <Channel name: kaicenat>,       2024-11-07 16:17:53.410783 
+sav122557,     FAX XX,        <Channel name: kaicenat>,       2024-11-07 16:18:05.629218 
+sav122557,     1m,        <Channel name: kaicenat>,       2024-11-07 16:18:43.469818 
+sav122557,     15,        <Channel name: kaicenat>,       2024-11-07 16:18:54.101848 

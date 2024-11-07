@@ -1,0 +1,6 @@
+certified_mystt_fn,     you should coch me,        <Channel name: clix>,       2024-11-07 15:45:40.883640 
+certified_mystt_fn,     can you coch me,        <Channel name: clix>,       2024-11-07 15:46:07.329630 
+certified_mystt_fn,     can you coch me dad,        <Channel name: clix>,       2024-11-07 15:46:37.861612 
+certified_mystt_fn,     coch me,        <Channel name: clix>,       2024-11-07 15:46:46.269696 
+certified_mystt_fn,     can you coch me pls,        <Channel name: clix>,       2024-11-07 15:47:03.288880 
+certified_mystt_fn,     pls coch me fly me out,        <Channel name: clix>,       2024-11-07 15:47:33.269704 

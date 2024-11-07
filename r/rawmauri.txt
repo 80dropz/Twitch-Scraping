@@ -10,3 +10,6 @@
  rawmauri,     ww,        <Channel name: kaicenat>,       2024-11-07 09:52:54.769429 
 
  rawmauri,     www,        <Channel name: kaicenat>,       2024-11-07 09:52:55.601953 
+rawmauri,     W,        <Channel name: kaicenat>,       2024-11-07 16:04:45.774132 
+rawmauri,     w,        <Channel name: kaicenat>,       2024-11-07 16:04:47.488020 
+rawmauri,     W,        <Channel name: kaicenat>,       2024-11-07 16:04:48.788209 

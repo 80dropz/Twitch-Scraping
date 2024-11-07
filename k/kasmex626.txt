@@ -1,0 +1,6 @@
+kasmex626,     Aware,        <Channel name: pokelawls>,       2024-11-07 15:52:40.457544 
+kasmex626,     pmE,        <Channel name: pokelawls>,       2024-11-07 16:05:17.102351 
+kasmex626,     NOWAYING,        <Channel name: pokelawls>,       2024-11-07 16:16:32.698260 
+kasmex626,     BugginMyself,        <Channel name: pokelawls>,       2024-11-07 16:16:55.096848 
+kasmex626,     pmE,        <Channel name: pokelawls>,       2024-11-07 16:17:15.968951 
+kasmex626,     omE,        <Channel name: pokelawls>,       2024-11-07 16:18:57.812869 

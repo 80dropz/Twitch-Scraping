@@ -1,0 +1,4 @@
+mystiklivee,     !pc,        <Channel name: swagg>,       2024-11-07 15:28:39.206291 
+mystiklivee,     !monitor,        <Channel name: swagg>,       2024-11-07 15:33:10.123907 
+mystiklivee,     !res,        <Channel name: swagg>,       2024-11-07 15:33:42.864519 
+mystiklivee,     !resolution,        <Channel name: swagg>,       2024-11-07 15:34:05.552674 

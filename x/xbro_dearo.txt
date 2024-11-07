@@ -1,0 +1,2 @@
+xbro_dearo,     999,        <Channel name: kaicenat>,       2024-11-07 15:31:24.749461 
+xbro_dearo,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:29.257321 

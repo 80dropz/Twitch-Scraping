@@ -1,0 +1,4 @@
+fw_me334,     vercet1Gift vercet1Gift vercet1Gift vercet1Gift vercet1Gift vercet1Gift,        <Channel name: kaicenat>,       2024-11-07 15:41:28.436575 
+fw_me334,     ayyyyy,        <Channel name: kaicenat>,       2024-11-07 15:43:21.458929 
+fw_me334,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:43:39.584568 
+fw_me334,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:44:18.570106 

@@ -1,0 +1,13 @@
+za_brandon,     !pc,        <Channel name: mrlust>,       2024-11-07 16:17:11.875250 
+za_brandon,     !mouse,        <Channel name: mrlust>,       2024-11-07 16:17:21.447847 
+za_brandon,     !keyboard,        <Channel name: mrlust>,       2024-11-07 16:17:40.980149 
+za_brandon,     !monitor,        <Channel name: mrlust>,       2024-11-07 16:18:42.250956 
+za_brandon,     !crosshair,        <Channel name: mrlust>,       2024-11-07 16:18:56.187262 
+za_brandon,     !rank,        <Channel name: mrlust>,       2024-11-07 16:19:29.089923 
+za_brandon,     !fps,        <Channel name: mrlust>,       2024-11-07 16:20:16.395533 
+za_brandon,     !ping,        <Channel name: mrlust>,       2024-11-07 16:20:29.704923 
+za_brandon,     !sense,        <Channel name: mrlust>,       2024-11-07 16:23:39.834190 
+za_brandon,     !sens,        <Channel name: mrlust>,       2024-11-07 16:23:52.957195 
+za_brandon,     !jk,        <Channel name: mrlust>,       2024-11-07 16:24:12.041662 
+za_brandon,     !wifi,        <Channel name: mrlust>,       2024-11-07 16:24:36.129417 
+za_brandon,     !internet speed,        <Channel name: mrlust>,       2024-11-07 16:24:49.720159 

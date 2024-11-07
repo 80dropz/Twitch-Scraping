@@ -1,0 +1,6 @@
+pelybird,     w,        <Channel name: swagg>,       2024-11-07 16:55:35.868321 
+pelybird,     wwww,        <Channel name: swagg>,       2024-11-07 16:55:39.998283 
+pelybird,     ww,        <Channel name: swagg>,       2024-11-07 16:55:47.831978 
+pelybird,     w,        <Channel name: swagg>,       2024-11-07 16:55:50.520880 
+pelybird,     ww,        <Channel name: swagg>,       2024-11-07 16:56:05.064842 
+pelybird,     w,        <Channel name: swagg>,       2024-11-07 16:56:07.642339 

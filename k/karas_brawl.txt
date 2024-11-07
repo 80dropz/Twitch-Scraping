@@ -6,3 +6,25 @@
  karas_brawl,     YO MILES RUB SOME BABY OIL DOWN EM,        <Channel name: kaicenat>,       2024-11-07 09:01:14.875243 
 
  karas_brawl,     !time,        <Channel name: kaicenat>,       2024-11-07 10:29:47.001666 
+karas_brawl,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:15.125647 
+karas_brawl,     W JUICE 999,        <Channel name: kaicenat>,       2024-11-07 15:29:29.514712 
+karas_brawl,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:42.735496 
+karas_brawl,     Legends never die,        <Channel name: kaicenat>,       2024-11-07 15:30:01.441325 
+karas_brawl,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:06.490566 
+karas_brawl,     KC DO IT,        <Channel name: kaicenat>,       2024-11-07 16:31:44.606946 
+karas_brawl,     I think u messed up,        <Channel name: kaicenat>,       2024-11-07 16:32:50.916988 
+karas_brawl,     KC DO IT,        <Channel name: kaicenat>,       2024-11-07 16:32:59.099273 
+karas_brawl,     FUCK IT DUMP IT,        <Channel name: kaicenat>,       2024-11-07 16:33:10.963373 
+karas_brawl,     I think it's not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:33:46.385874 
+karas_brawl,     It's not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:34:02.445855 
+karas_brawl,     Let it get hotter,        <Channel name: kaicenat>,       2024-11-07 16:35:13.483170 
+karas_brawl,     Make me sweat make me hotter,        <Channel name: kaicenat>,       2024-11-07 16:35:27.358185 
+karas_brawl,     JUICE WASTED,        <Channel name: kaicenat>,       2024-11-07 16:35:42.331942 
+karas_brawl,     JUICE,        <Channel name: kaicenat>,       2024-11-07 16:35:47.744242 
+karas_brawl,     JUICE WRLD,        <Channel name: kaicenat>,       2024-11-07 16:36:01.169091 
+karas_brawl,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:38:47.510804 
+karas_brawl,     THERE IS SOME SMOKE,        <Channel name: kaicenat>,       2024-11-07 16:41:01.516137 
+karas_brawl,     Add a lil water,        <Channel name: kaicenat>,       2024-11-07 16:44:53.544616 
+karas_brawl,     L production,        <Channel name: kaicenat>,       2024-11-07 16:45:30.840107 
+karas_brawl,     Add some water,        <Channel name: kaicenat>,       2024-11-07 16:46:14.399125 
+karas_brawl,     atp get out of there bro,        <Channel name: kaicenat>,       2024-11-07 16:47:18.788830 

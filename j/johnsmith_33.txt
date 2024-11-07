@@ -1,0 +1,4 @@
+johnsmith_33,     yo,        <Channel name: kaicenat>,       2024-11-07 15:54:33.876365 
+johnsmith_33,     yhh,        <Channel name: kaicenat>,       2024-11-07 15:54:40.073043 
+johnsmith_33,     kaka,        <Channel name: kaicenat>,       2024-11-07 15:54:42.717126 
+johnsmith_33,     masoko,        <Channel name: kaicenat>,       2024-11-07 15:54:47.835519 

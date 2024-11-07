@@ -1,2 +1,3 @@
 
  db_tradirt,     SCAMMED,        <Channel name: kaicenat>,       2024-11-07 09:14:49.255047 
+db_tradirt,     FREE YB,        <Channel name: kaicenat>,       2024-11-07 16:12:01.531795 

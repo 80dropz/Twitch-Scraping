@@ -1,0 +1,5 @@
+santahomie66,     put it on the ground,        <Channel name: kaicenat>,       2024-11-07 16:26:22.101627 
+santahomie66,     no heat on ground,        <Channel name: kaicenat>,       2024-11-07 16:26:26.299757 
+santahomie66,     on ground,        <Channel name: kaicenat>,       2024-11-07 16:26:29.927869 
+santahomie66,     put it on the ground,        <Channel name: kaicenat>,       2024-11-07 16:26:37.531805 
+santahomie66,     heat rises,        <Channel name: kaicenat>,       2024-11-07 16:26:39.946095 

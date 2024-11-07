@@ -46,3 +46,13 @@
  zenoxt,     DTM,        <Channel name: kaicenat>,       2024-11-07 02:47:55.600437 
 
  zenoxt,     WW ACTING,        <Channel name: kaicenat>,       2024-11-07 02:51:29.809907 
+
+ zenoxt,     lebronJAM,        <Channel name: kaicenat>,       2024-11-07 14:50:33.043418 
+
+ zenoxt,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:50:38.015098 
+
+ zenoxt,     DUKE,        <Channel name: kaicenat>,       2024-11-07 14:51:32.177645 
+
+ zenoxt,     WW,        <Channel name: kaicenat>,       2024-11-07 14:52:55.090913 
+zenoxt,     bring faze,        <Channel name: kaicenat>,       2024-11-07 16:23:38.212377 
+zenoxt,     WW POOL HOUSE,        <Channel name: kaicenat>,       2024-11-07 16:23:54.561523 

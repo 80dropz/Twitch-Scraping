@@ -1,0 +1,8 @@
+iamcruell,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:28.214714 
+iamcruell,     rip,        <Channel name: stableronaldo>,       2024-11-07 16:01:31.699970 
+iamcruell,     500,        <Channel name: stableronaldo>,       2024-11-07 16:07:24.616304 
+iamcruell,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:49.121118 
+iamcruell,     me,        <Channel name: stableronaldo>,       2024-11-07 16:09:54.934607 
+iamcruell,     damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:10.297198 
+iamcruell,     fat,        <Channel name: stableronaldo>,       2024-11-07 16:10:21.978079 
+iamcruell,     you look fat,        <Channel name: stableronaldo>,       2024-11-07 16:10:27.278273 

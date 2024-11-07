@@ -1,0 +1,4 @@
+da_godfatha98,     Memphis,        <Channel name: swagg>,       2024-11-07 15:51:05.890125 
+da_godfatha98,     1,        <Channel name: swagg>,       2024-11-07 16:15:46.889914 
+da_godfatha98,     1,        <Channel name: swagg>,       2024-11-07 16:16:19.540894 
+da_godfatha98,     1,        <Channel name: swagg>,       2024-11-07 16:16:56.015927 

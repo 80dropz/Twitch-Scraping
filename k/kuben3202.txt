@@ -1,0 +1,15 @@
+kuben3202,     Concerned,        <Channel name: pokelawls>,       2024-11-07 16:23:41.411619 
+kuben3202,     Classic,        <Channel name: pokelawls>,       2024-11-07 16:24:26.558934 
+kuben3202,     uuh,        <Channel name: pokelawls>,       2024-11-07 16:24:32.139981 
+kuben3202,     omE,        <Channel name: pokelawls>,       2024-11-07 16:25:11.980877 
+kuben3202,     forsen,        <Channel name: pokelawls>,       2024-11-07 16:28:11.373676 
+kuben3202,     PepeLa,        <Channel name: pokelawls>,       2024-11-07 16:28:18.967597 
+kuben3202,     aza,        <Channel name: pokelawls>,       2024-11-07 16:29:19.289983 
+kuben3202,     aga,        <Channel name: pokelawls>,       2024-11-07 16:30:17.105063 
+kuben3202,     GROUP,        <Channel name: pokelawls>,       2024-11-07 16:38:17.774577 
+kuben3202,     picklee,        <Channel name: pokelawls>,       2024-11-07 16:39:00.329047 
+kuben3202,     picklee ALERTT,        <Channel name: pokelawls>,       2024-11-07 16:39:03.696850 
+kuben3202,     SAJ,        <Channel name: pokelawls>,       2024-11-07 16:41:50.731076 
+kuben3202,     omE,        <Channel name: pokelawls>,       2024-11-07 16:45:54.141558 
+kuben3202,     aga -> aza -> agastoned,        <Channel name: pokelawls>,       2024-11-07 16:50:36.903966 
+kuben3202,     hesRight,        <Channel name: pokelawls>,       2024-11-07 16:52:35.276805 

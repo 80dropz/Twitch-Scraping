@@ -38,3 +38,135 @@
  not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 13:28:32.308116 
 
  not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 13:35:50.043514 
+
+ not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 15:25:04.216973 
+
+ not_yoda7,     gulp,        <Channel name: clix>,       2024-11-07 15:25:04.251365 
+
+ not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 15:26:18.493076 
+
+ not_yoda7,     wow,        <Channel name: clix>,       2024-11-07 15:27:55.402222 
+not_yoda7,     cringe,        <Channel name: clix>,       2024-11-07 15:31:47.607443 
+not_yoda7,     wow,        <Channel name: clix>,       2024-11-07 15:31:54.503808 
+not_yoda7,     ex,        <Channel name: clix>,       2024-11-07 15:31:55.711885 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 15:31:59.715882 
+not_yoda7,     GULP,        <Channel name: clix>,       2024-11-07 15:32:32.049634 
+not_yoda7,     WOW,        <Channel name: clix>,       2024-11-07 15:33:16.174091 
+not_yoda7,     GG,        <Channel name: clix>,       2024-11-07 15:33:17.920890 
+not_yoda7,     gg ez 30,        <Channel name: clix>,       2024-11-07 15:33:41.299843 
+not_yoda7,     wwwwww,        <Channel name: clix>,       2024-11-07 15:34:11.663036 
+not_yoda7,     WWWWWWW,        <Channel name: clix>,       2024-11-07 15:34:32.142945 
+not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 15:34:34.218122 
+not_yoda7,     fcuk u,        <Channel name: clix>,       2024-11-07 15:34:37.624111 
+not_yoda7,     WWWWWWWWW,        <Channel name: clix>,       2024-11-07 15:34:47.772824 
+not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 15:34:52.161951 
+not_yoda7,     NOWAYING,        <Channel name: clix>,       2024-11-07 15:34:56.607311 
+not_yoda7,     WW STEVE,        <Channel name: clix>,       2024-11-07 15:36:24.034866 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 15:37:21.438170 
+not_yoda7,     ewwww,        <Channel name: clix>,       2024-11-07 15:37:33.565269 
+not_yoda7,     ewwwwwwwwwwwwwwwwwwwwwwwww,        <Channel name: clix>,       2024-11-07 15:37:36.750389 
+not_yoda7,     ew,        <Channel name: clix>,       2024-11-07 15:37:38.090764 
+not_yoda7,     AURA,        <Channel name: clix>,       2024-11-07 15:38:02.261623 
+not_yoda7,     wwwwww,        <Channel name: clix>,       2024-11-07 15:38:20.860781 
+not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 15:38:22.643910 
+not_yoda7,     NOWAYS,        <Channel name: clix>,       2024-11-07 15:38:30.414013 
+not_yoda7,     NOWAYINGS,        <Channel name: clix>,       2024-11-07 15:38:32.525025 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 15:38:34.365926 
+not_yoda7,     AURA,        <Channel name: clix>,       2024-11-07 15:38:35.424426 
+not_yoda7,     UUH,        <Channel name: clix>,       2024-11-07 15:39:32.422970 
+not_yoda7,     HUH,        <Channel name: clix>,       2024-11-07 15:39:34.269178 
+not_yoda7,     jorkin,        <Channel name: clix>,       2024-11-07 15:39:37.206157 
+not_yoda7,     WW MOMENT,        <Channel name: clix>,       2024-11-07 15:39:42.914543 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 15:41:27.686194 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 15:42:40.691598 
+not_yoda7,     JS GIVE ME MY MONEY,        <Channel name: clix>,       2024-11-07 15:42:46.762640 
+not_yoda7,     rt,        <Channel name: clix>,       2024-11-07 15:42:48.528641 
+not_yoda7,     ww,        <Channel name: clix>,       2024-11-07 15:43:46.036831 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 15:43:47.564788 
+not_yoda7,     YESSSSSS,        <Channel name: clix>,       2024-11-07 15:44:00.390583 
+not_yoda7,     YE,        <Channel name: clix>,       2024-11-07 15:44:02.058707 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 15:44:10.509774 
+not_yoda7,     EW,        <Channel name: clix>,       2024-11-07 15:49:37.092128 
+not_yoda7,     eww get away clix,        <Channel name: clix>,       2024-11-07 15:49:43.057900 
+not_yoda7,     me,        <Channel name: clix>,       2024-11-07 15:54:38.447045 
+not_yoda7,     ww,        <Channel name: clix>,       2024-11-07 16:13:53.054174 
+not_yoda7,     rizz dot,        <Channel name: clix>,       2024-11-07 16:13:58.112824 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:14:16.359490 
+not_yoda7,     RIZZ DOT,        <Channel name: clix>,       2024-11-07 16:14:21.842650 
+not_yoda7,     EWW,        <Channel name: clix>,       2024-11-07 16:14:55.754910 
+not_yoda7,     LMAO,        <Channel name: clix>,       2024-11-07 16:15:27.868939 
+not_yoda7,     LOL,        <Channel name: clix>,       2024-11-07 16:15:29.966676 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:15:48.497661 
+not_yoda7,     WEDIDIT,        <Channel name: clix>,       2024-11-07 16:15:53.888981 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:16:08.620061 
+not_yoda7,     WW EVERYTHING,        <Channel name: clix>,       2024-11-07 16:16:24.932725 
+not_yoda7,     T UP,        <Channel name: clix>,       2024-11-07 16:16:52.764779 
+not_yoda7,     W,        <Channel name: clix>,       2024-11-07 16:17:12.944806 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:17:14.827033 
+not_yoda7,     BEND KNEES,        <Channel name: clix>,       2024-11-07 16:17:18.223990 
+not_yoda7,     BEND KNEESS,        <Channel name: clix>,       2024-11-07 16:17:23.744220 
+not_yoda7,     BEND KNEES @Clix,        <Channel name: clix>,       2024-11-07 16:17:28.901243 
+not_yoda7,     BEND KNEES,        <Channel name: clix>,       2024-11-07 16:17:35.310680 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:17:40.939145 
+not_yoda7,     WW AURA,        <Channel name: clix>,       2024-11-07 16:17:57.181094 
+not_yoda7,     WW AURAAA,        <Channel name: clix>,       2024-11-07 16:18:02.498114 
+not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 16:18:08.913063 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:18:14.253392 
+not_yoda7,     WW STEVE,        <Channel name: clix>,       2024-11-07 16:18:40.435711 
+not_yoda7,     AURAAAAAAAAAAAAAAAAAAA,        <Channel name: clix>,       2024-11-07 16:18:47.598171 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:18:51.481815 
+not_yoda7,     LMAO,        <Channel name: clix>,       2024-11-07 16:18:54.100835 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:18:56.866865 
+not_yoda7,     uh,        <Channel name: clix>,       2024-11-07 16:19:03.011338 
+not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 16:19:04.226941 
+not_yoda7,     weird,        <Channel name: clix>,       2024-11-07 16:19:05.842008 
+not_yoda7,     ?,        <Channel name: clix>,       2024-11-07 16:19:24.591346 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:19:26.395252 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:19:53.624884 
+not_yoda7,     RIZZ,        <Channel name: clix>,       2024-11-07 16:19:55.124079 
+not_yoda7,     THAT HIT,        <Channel name: clix>,       2024-11-07 16:19:58.749984 
+not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 16:20:08.938358 
+not_yoda7,     WHAT,        <Channel name: clix>,       2024-11-07 16:20:10.853095 
+not_yoda7,     HUH,        <Channel name: clix>,       2024-11-07 16:20:11.973884 
+not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 16:20:13.311043 
+not_yoda7,     Pffttt,        <Channel name: clix>,       2024-11-07 16:20:16.571373 
+not_yoda7,     STILL NO FNCS HAH,        <Channel name: clix>,       2024-11-07 16:20:36.732106 
+not_yoda7,     ZESTY,        <Channel name: clix>,       2024-11-07 16:21:20.081613 
+not_yoda7,     zesty,        <Channel name: clix>,       2024-11-07 16:21:23.994863 
+not_yoda7,     ww,        <Channel name: clix>,       2024-11-07 16:21:39.402008 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:21:41.171297 
+not_yoda7,     ZESTY,        <Channel name: clix>,       2024-11-07 16:21:45.287118 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:21:48.560477 
+not_yoda7,     WW BETTER,        <Channel name: clix>,       2024-11-07 16:21:56.027290 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:22:39.545666 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:22:59.314589 
+not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 16:23:09.019385 
+not_yoda7,     rizz,        <Channel name: clix>,       2024-11-07 16:23:13.782619 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:23:16.801528 
+not_yoda7,     noway,        <Channel name: clix>,       2024-11-07 16:23:20.399227 
+not_yoda7,     uuh,        <Channel name: clix>,       2024-11-07 16:23:29.695198 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:23:32.425589 
+not_yoda7,     gyat,        <Channel name: clix>,       2024-11-07 16:23:49.774654 
+not_yoda7,     GYAT,        <Channel name: clix>,       2024-11-07 16:23:51.243385 
+not_yoda7,     HAH,        <Channel name: clix>,       2024-11-07 16:23:54.443299 
+not_yoda7,     NOWAY,        <Channel name: clix>,       2024-11-07 16:23:57.127200 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:24:04.802679 
+not_yoda7,     RIZZ,        <Channel name: clix>,       2024-11-07 16:24:07.504205 
+not_yoda7,     GYATT,        <Channel name: clix>,       2024-11-07 16:24:12.063572 
+not_yoda7,     SKIBIDY GYAT steve,        <Channel name: clix>,       2024-11-07 16:24:20.108412 
+not_yoda7,     WW RIZZ,        <Channel name: clix>,       2024-11-07 16:24:30.833363 
+not_yoda7,     GYATTT,        <Channel name: clix>,       2024-11-07 16:24:44.044080 
+not_yoda7,     GYAT,        <Channel name: clix>,       2024-11-07 16:24:47.503327 
+not_yoda7,     GYATT,        <Channel name: clix>,       2024-11-07 16:24:52.000293 
+not_yoda7,     ta shit,        <Channel name: clix>,       2024-11-07 16:24:56.807319 
+not_yoda7,     MMMM,        <Channel name: clix>,       2024-11-07 16:25:01.360130 
+not_yoda7,     AURA,        <Channel name: clix>,       2024-11-07 16:25:09.035560 
+not_yoda7,     WWW,        <Channel name: clix>,       2024-11-07 16:25:22.102468 
+not_yoda7,     HIM,        <Channel name: clix>,       2024-11-07 16:25:24.808719 
+not_yoda7,     AURA,        <Channel name: clix>,       2024-11-07 16:25:26.300308 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:25:36.593213 
+not_yoda7,     NOWAU,        <Channel name: clix>,       2024-11-07 16:25:41.050291 
+not_yoda7,     WW,        <Channel name: clix>,       2024-11-07 16:25:42.433910 
+not_yoda7,     HIM,        <Channel name: clix>,       2024-11-07 16:25:44.240656 
+not_yoda7,     W UNC,        <Channel name: clix>,       2024-11-07 16:26:06.614538 
+not_yoda7,     eww,        <Channel name: clix>,       2024-11-07 16:26:31.400427 

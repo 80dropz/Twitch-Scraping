@@ -1,0 +1,4 @@
+m_jiggy,     W,        <Channel name: swagg>,       2024-11-07 16:47:39.517496 
+m_jiggy,     W!!,        <Channel name: swagg>,       2024-11-07 16:53:50.764327 
+m_jiggy,     Let’s go Herman Miller,        <Channel name: swagg>,       2024-11-07 16:54:06.263433 
+m_jiggy,     swegTurnmeup swegTurnmeup swegGang,        <Channel name: swagg>,       2024-11-07 16:54:35.073870 

@@ -84,3 +84,22 @@
  skyhighcam,     TAKE THE PIC,        <Channel name: kaicenat>,       2024-11-07 13:30:03.309306 
 
  skyhighcam,     TAKE IT,        <Channel name: kaicenat>,       2024-11-07 13:31:31.540979 
+
+ skyhighcam,     CRACKHEAD,        <Channel name: kaicenat>,       2024-11-07 14:47:15.386446 
+
+ skyhighcam,     YOUNGEST VIEWER,        <Channel name: kaicenat>,       2024-11-07 14:47:59.506482 
+
+ skyhighcam,     DUKE HENDRIX,        <Channel name: kaicenat>,       2024-11-07 14:51:01.392596 
+
+ skyhighcam,     NO,        <Channel name: kaicenat>,       2024-11-07 14:54:16.078448 
+
+ skyhighcam,     WEEDING BAND,        <Channel name: kaicenat>,       2024-11-07 14:54:42.430030 
+skyhighcam,     Ayoo,        <Channel name: kaicenat>,       2024-11-07 15:35:12.712694 
+skyhighcam,     YUHH,        <Channel name: kaicenat>,       2024-11-07 15:35:37.712217 
+skyhighcam,     uziDance,        <Channel name: kaicenat>,       2024-11-07 15:35:43.844757 
+skyhighcam,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 15:35:55.601293 
+skyhighcam,     TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 15:36:13.482916 
+skyhighcam,     kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:36:51.783890 
+skyhighcam,     uziDance,        <Channel name: kaicenat>,       2024-11-07 15:37:09.634031 
+skyhighcam,     How the cam don’t get overheated,        <Channel name: kaicenat>,       2024-11-07 16:43:15.288016 
+skyhighcam,     HOW IS YOUR PHONE NOT OVERHEATING,        <Channel name: kaicenat>,       2024-11-07 16:55:16.767523 

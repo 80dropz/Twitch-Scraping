@@ -4,3 +4,6 @@
  joshaldo_2,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 13:05:22.551445 
 
  joshaldo_2,     WW,        <Channel name: kaicenat>,       2024-11-07 13:05:28.010265 
+joshaldo_2,     dougie,        <Channel name: kaicenat>,       2024-11-07 16:49:06.060240 
+joshaldo_2,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:21.176896 
+joshaldo_2,     moshin moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:32.511853 

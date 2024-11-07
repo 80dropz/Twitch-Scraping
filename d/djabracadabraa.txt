@@ -1,0 +1,6 @@
+djabracadabraa,     sauna,        <Channel name: kaicenat>,       2024-11-07 16:19:25.608833 
+djabracadabraa,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:45.278111 
+djabracadabraa,     yes,        <Channel name: kaicenat>,       2024-11-07 16:22:18.802464 
+djabracadabraa,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:53.516511 
+djabracadabraa,     666666666666,        <Channel name: kaicenat>,       2024-11-07 16:31:00.241818 
+djabracadabraa,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:32.273772 

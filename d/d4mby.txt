@@ -1,0 +1,3 @@
+d4mby,     snuss time,        <Channel name: mongraal>,       2024-11-07 16:23:16.919291 
+d4mby,     monG snuss time,        <Channel name: mongraal>,       2024-11-07 16:23:46.667512 
+d4mby,     gotta pop snuss,        <Channel name: mongraal>,       2024-11-07 16:31:28.957004 

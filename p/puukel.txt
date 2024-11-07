@@ -1,0 +1,2 @@
+puukel,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:56:43.144529 
+puukel,     ome32 ome32,        <Channel name: stableronaldo>,       2024-11-07 15:56:50.780303 

@@ -1,0 +1,8 @@
+minesuklaa,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:31:31.810852 
+minesuklaa,     WATER BRO,        <Channel name: kaicenat>,       2024-11-07 16:31:41.734774 
+minesuklaa,     Put water then,        <Channel name: kaicenat>,       2024-11-07 16:31:46.387832 
+minesuklaa,     Many water,        <Channel name: kaicenat>,       2024-11-07 16:31:52.593181 
+minesuklaa,     atleast 3 spoons,        <Channel name: kaicenat>,       2024-11-07 16:32:05.345788 
+minesuklaa,     HOW MANY WATER,        <Channel name: kaicenat>,       2024-11-07 16:32:13.624062 
+minesuklaa,     IT AINT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:32.100359 
+minesuklaa,     NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:42.850141 

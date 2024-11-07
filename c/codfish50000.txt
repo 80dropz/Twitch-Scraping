@@ -1,0 +1,1 @@
+codfish50000,     YUM,        <Channel name: clix>,       2024-11-07 15:36:15.930749 

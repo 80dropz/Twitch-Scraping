@@ -1,0 +1,5 @@
+f0zui,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:36:14.597738 
+f0zui,     !pointz,        <Channel name: kaicenat>,       2024-11-07 15:38:55.447447 
+f0zui,     !points,        <Channel name: kaicenat>,       2024-11-07 15:39:02.388955 
+f0zui,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:01.726009 
+f0zui,     !p,        <Channel name: kaicenat>,       2024-11-07 15:45:35.650549 

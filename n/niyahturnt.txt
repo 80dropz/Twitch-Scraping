@@ -1,0 +1,4 @@
+niyahturnt,     mic,        <Channel name: kaicenat>,       2024-11-07 16:44:32.594209 
+niyahturnt,     MIC,        <Channel name: kaicenat>,       2024-11-07 16:44:39.356871 
+niyahturnt,     MICC,        <Channel name: kaicenat>,       2024-11-07 16:44:41.246404 
+niyahturnt,     Miccc,        <Channel name: kaicenat>,       2024-11-07 16:44:45.496387 

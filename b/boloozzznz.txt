@@ -1,0 +1,44 @@
+boloozzznz,     SET TEMP,        <Channel name: kaicenat>,       2024-11-07 16:28:11.230135 
+boloozzznz,     AND POUR WATER ON THE COAL,        <Channel name: kaicenat>,       2024-11-07 16:28:11.284171 
+boloozzznz,     2-3 cups,        <Channel name: kaicenat>,       2024-11-07 16:28:21.435025 
+boloozzznz,     2 - 3 spoon fulls,        <Channel name: kaicenat>,       2024-11-07 16:28:36.995751 
+boloozzznz,     2-3 spoonfuls,        <Channel name: kaicenat>,       2024-11-07 16:28:43.526808 
+boloozzznz,     2-3 spoonfulls of water,        <Channel name: kaicenat>,       2024-11-07 16:28:51.979115 
+boloozzznz,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:10.936333 
+boloozzznz,     180,        <Channel name: kaicenat>,       2024-11-07 16:30:27.565397 
+boloozzznz,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:40.708749 
+boloozzznz,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:50.206345 
+boloozzznz,     no,        <Channel name: kaicenat>,       2024-11-07 16:31:08.314648 
+boloozzznz,     20 mins,        <Channel name: kaicenat>,       2024-11-07 16:31:27.477766 
+boloozzznz,     3 SPOONFULLS,        <Channel name: kaicenat>,       2024-11-07 16:31:35.301095 
+boloozzznz,     3 SPOONFULLS  OF WATER,        <Channel name: kaicenat>,       2024-11-07 16:31:43.234930 
+boloozzznz,     AND THEN U HAVE TO DO IT EVERY 5-10 MINS,        <Channel name: kaicenat>,       2024-11-07 16:32:35.521114 
+boloozzznz,     NO U DO IT AGAIN EVERY 5 MINS,        <Channel name: kaicenat>,       2024-11-07 16:32:54.210821 
+boloozzznz,     DONT,        <Channel name: kaicenat>,       2024-11-07 16:33:07.332797 
+boloozzznz,     don't,        <Channel name: kaicenat>,       2024-11-07 16:33:11.790521 
+boloozzznz,     you pour more water every 5 mins,        <Channel name: kaicenat>,       2024-11-07 16:33:27.384370 
+boloozzznz,     pour more water every 5 mins,        <Channel name: kaicenat>,       2024-11-07 16:33:39.178955 
+boloozzznz,     pour 1 spoonful of water every 10 mins,        <Channel name: kaicenat>,       2024-11-07 16:33:55.634124 
+boloozzznz,     BRO pour 1 spoonful of water every 10 mins,        <Channel name: kaicenat>,       2024-11-07 16:34:09.739384 
+boloozzznz,     NO,        <Channel name: kaicenat>,       2024-11-07 16:34:13.176654 
+boloozzznz,     OMG,        <Channel name: kaicenat>,       2024-11-07 16:34:18.482080 
+boloozzznz,     nah,        <Channel name: kaicenat>,       2024-11-07 16:34:24.135161 
+boloozzznz,     stupid,        <Channel name: kaicenat>,       2024-11-07 16:34:27.670106 
+boloozzznz,     NO MORE,        <Channel name: kaicenat>,       2024-11-07 16:34:54.854215 
+boloozzznz,     wait 10 mins then do more,        <Channel name: kaicenat>,       2024-11-07 16:35:07.507229 
+boloozzznz,     wait 10 mins then do it okay,        <Channel name: kaicenat>,       2024-11-07 16:35:14.170477 
+boloozzznz,     JUST WAIT 10 MINS THEN DO IT,        <Channel name: kaicenat>,       2024-11-07 16:35:22.586891 
+boloozzznz,     WAIT 10 MINS,        <Channel name: kaicenat>,       2024-11-07 16:35:27.444491 
+boloozzznz,     10 MINS,        <Channel name: kaicenat>,       2024-11-07 16:35:30.488231 
+boloozzznz,     10 MINUTES,        <Channel name: kaicenat>,       2024-11-07 16:35:35.724284 
+boloozzznz,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:35:47.006309 
+boloozzznz,     UR SO IMPATIENT,        <Channel name: kaicenat>,       2024-11-07 16:35:52.652101 
+boloozzznz,     can someone pretty pls gift me sub,        <Channel name: kaicenat>,       2024-11-07 16:40:15.591748 
+boloozzznz,     you broke it,        <Channel name: kaicenat>,       2024-11-07 16:40:43.351706 
+boloozzznz,     you've broken it,        <Channel name: kaicenat>,       2024-11-07 16:40:47.414369 
+boloozzznz,     it's broken,        <Channel name: kaicenat>,       2024-11-07 16:40:58.105959 
+boloozzznz,     you broke it,        <Channel name: kaicenat>,       2024-11-07 16:41:02.381181 
+boloozzznz,     you've broken it,        <Channel name: kaicenat>,       2024-11-07 16:41:13.600944 
+boloozzznz,     that's way too much water,        <Channel name: kaicenat>,       2024-11-07 16:41:18.992472 
+boloozzznz,     ur PHONE,        <Channel name: kaicenat>,       2024-11-07 16:41:31.170684 
+boloozzznz,     YOUR PHONE,        <Channel name: kaicenat>,       2024-11-07 16:41:36.267386 

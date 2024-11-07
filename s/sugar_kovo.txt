@@ -1,0 +1,3 @@
+sugar_kovo,     Use TTs and put the speaker outside the door,        <Channel name: kaicenat>,       2024-11-07 16:29:42.616876 
+sugar_kovo,     Use TTs and put the speaker outside the door,        <Channel name: kaicenat>,       2024-11-07 16:30:19.860067 
+sugar_kovo,     Use TTs and put the speaker outside the door,        <Channel name: kaicenat>,       2024-11-07 16:33:01.857947 

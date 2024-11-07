@@ -1,0 +1,2 @@
+valle213,     h,        <Channel name: kaicenat>,       2024-11-07 15:50:32.490226 
+valle213,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:54:56.327533 

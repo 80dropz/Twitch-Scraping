@@ -1,0 +1,2 @@
+gui0675,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:51.449738 
+gui0675,     999,        <Channel name: kaicenat>,       2024-11-07 15:31:06.031991 

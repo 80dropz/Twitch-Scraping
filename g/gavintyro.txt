@@ -1,0 +1,21 @@
+
+ gavintyro,     SHADOOKIE SANDERS,        <Channel name: kaicenat>,       2024-11-07 14:53:33.163331 
+
+ gavintyro,     WHAT WAS NLE DOING,        <Channel name: kaicenat>,       2024-11-07 14:54:52.635827 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:10.705688 
+gavintyro,     LLJW THE PARTY NEVER ENDS,        <Channel name: kaicenat>,       2024-11-07 15:29:46.792731 
+gavintyro,     THE PARTY NEVER ENDS NOV 22,        <Channel name: kaicenat>,       2024-11-07 15:29:57.636752 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:33.225878 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:31:10.321993 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:31:43.517831 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:32:36.913574 
+gavintyro,     99,        <Channel name: kaicenat>,       2024-11-07 15:32:39.712035 
+gavintyro,     999,        <Channel name: kaicenat>,       2024-11-07 15:32:41.239027 
+gavintyro,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:37:55.978942 
+gavintyro,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:38:18.311379 
+gavintyro,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 15:40:40.511865 
+gavintyro,     PLAY DAVE BLUNTS,        <Channel name: kaicenat>,       2024-11-07 15:44:26.833053 
+gavintyro,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:15.733582 
+gavintyro,     w,        <Channel name: kaicenat>,       2024-11-07 15:50:08.680846 
+gavintyro,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:54:33.167356 
+gavintyro,     sza is cheeks,        <Channel name: kaicenat>,       2024-11-07 15:56:39.292285 

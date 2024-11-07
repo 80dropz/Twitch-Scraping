@@ -1,0 +1,24 @@
+
+ joobou,     dd,        <Channel name: lacy>,       2024-11-07 15:26:43.341709 
+
+ joobou,     gg,        <Channel name: lacy>,       2024-11-07 15:26:45.858542 
+joobou,     L Drew,        <Channel name: lacy>,       2024-11-07 15:28:33.544749 
+joobou,     where u been?,        <Channel name: stableronaldo>,       2024-11-07 16:04:39.292516 
+joobou,     where u been? @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:04:56.332215 
+joobou,     shave head @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:10:27.438271 
+joobou,     shaved head looked bbetter @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:10:40.134522 
+joobou,     shaved head better,        <Channel name: stableronaldo>,       2024-11-07 16:10:56.604690 
+joobou,     shave head segment,        <Channel name: stableronaldo>,       2024-11-07 16:11:45.284564 
+joobou,     shave head,        <Channel name: stableronaldo>,       2024-11-07 16:13:14.283857 
+joobou,     GOALLLLL,        <Channel name: stableronaldo>,       2024-11-07 16:13:53.565078 
+joobou,     lacy,        <Channel name: stableronaldo>,       2024-11-07 16:15:45.095012 
+joobou,     SHAVE HEAD SEGMENT @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:17:42.608140 
+joobou,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:58.763150 
+joobou,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:54.134568 
+joobou,     RON ON DA ROAD @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:19:58.241890 
+joobou,     RON ON DA ROAD,        <Channel name: stableronaldo>,       2024-11-07 16:20:18.449343 
+joobou,     RON ON DA ROAD @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:20:26.273994 
+joobou,     RON ON DA ROAD! @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:21:09.860045 
+joobou,     RON ON DA ROAD @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:22:04.871334 
+joobou,     RON ON DA ROAD @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:23:51.126493 
+joobou,     RON ON DA ROAD @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:24:34.594420 

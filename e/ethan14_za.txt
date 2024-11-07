@@ -1,0 +1,3 @@
+ethan14_za,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:51:48.119763 
+ethan14_za,     RT,        <Channel name: lacy>,       2024-11-07 16:01:52.182184 
+ethan14_za,     ya,        <Channel name: lacy>,       2024-11-07 16:14:48.729269 

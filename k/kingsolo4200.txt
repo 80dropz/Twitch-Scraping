@@ -1,0 +1,3 @@
+kingsolo4200,     s#s##s#ss,        <Channel name: stableronaldo>,       2024-11-07 15:56:58.689980 
+kingsolo4200,     s,        <Channel name: stableronaldo>,       2024-11-07 15:56:59.724265 
+kingsolo4200,     dd,        <Channel name: stableronaldo>,       2024-11-07 15:57:08.119284 

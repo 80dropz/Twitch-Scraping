@@ -1,0 +1,6 @@
+yardstixk,     TA,        <Channel name: lacy>,       2024-11-07 16:14:34.497958 
+yardstixk,     ta ta ta,        <Channel name: lacy>,       2024-11-07 16:14:41.074748 
+yardstixk,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:14:54.551907 
+yardstixk,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:46.630848 
+yardstixk,     drew rizz dot,        <Channel name: lacy>,       2024-11-07 16:18:51.430089 
+yardstixk,     CAUGHT,        <Channel name: lacy>,       2024-11-07 16:20:36.923909 

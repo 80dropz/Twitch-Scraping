@@ -1,0 +1,3 @@
+agntbells,     OMG,        <Channel name: clix>,       2024-11-07 15:32:07.683911 
+agntbells,     EZ,        <Channel name: clix>,       2024-11-07 15:32:10.977910 
+agntbells,     NOOO,        <Channel name: clix>,       2024-11-07 15:33:23.073644 

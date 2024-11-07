@@ -1,0 +1,3 @@
+notprefix_,     LIKE $5K,        <Channel name: stableronaldo>,       2024-11-07 16:07:31.293243 
+notprefix_,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:45.244652 
+notprefix_,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:47.825371 

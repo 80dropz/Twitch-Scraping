@@ -1,0 +1,11 @@
+kxr1zma,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:24.974900 
+kxr1zma,     999 .,        <Channel name: kaicenat>,       2024-11-07 15:29:31.946633 
+kxr1zma,     999,,        <Channel name: kaicenat>,       2024-11-07 15:29:34.272357 
+kxr1zma,     999;,        <Channel name: kaicenat>,       2024-11-07 15:29:35.670333 
+kxr1zma,     999',        <Channel name: kaicenat>,       2024-11-07 15:29:37.153477 
+kxr1zma,     999o,        <Channel name: kaicenat>,       2024-11-07 15:29:38.532510 
+kxr1zma,     999p,        <Channel name: kaicenat>,       2024-11-07 15:29:39.803455 
+kxr1zma,     999[,        <Channel name: kaicenat>,       2024-11-07 15:29:40.963399 
+kxr1zma,     999],        <Channel name: kaicenat>,       2024-11-07 15:29:42.341522 
+kxr1zma,     999\,        <Channel name: kaicenat>,       2024-11-07 15:29:43.650728 
+kxr1zma,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:44.779619 

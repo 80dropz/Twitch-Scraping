@@ -1,0 +1,2 @@
+slapzz105,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:03:55.610872 
+slapzz105,     !followage,        <Channel name: kaicenat>,       2024-11-07 16:04:22.053891 

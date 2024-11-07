@@ -1,0 +1,12 @@
+
+ rrd24,     check on rakai,        <Channel name: kaicenat>,       2024-11-07 14:44:25.277518 
+
+ rrd24,     rakia,        <Channel name: kaicenat>,       2024-11-07 14:44:46.071036 
+
+ rrd24,     rakai,        <Channel name: kaicenat>,       2024-11-07 14:45:27.306620 
+
+ rrd24,     LLL seatbelt,        <Channel name: kaicenat>,       2024-11-07 14:53:02.573841 
+
+ rrd24,     sometimes,        <Channel name: kaicenat>,       2024-11-07 14:54:09.323525 
+
+ rrd24,     it depends on what you want,        <Channel name: kaicenat>,       2024-11-07 14:54:33.964127 

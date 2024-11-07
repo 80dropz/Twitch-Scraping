@@ -1,2 +1,6 @@
 
  ziondennis1,     bacon wrapped chicken breast with 4 eggs 5 waffles and 2 snack wraps,        <Channel name: swagg>,       2024-11-07 12:57:03.081882 
+ziondennis1,     1,        <Channel name: swagg>,       2024-11-07 16:16:00.784358 
+ziondennis1,     w,        <Channel name: swagg>,       2024-11-07 16:54:14.102687 
+ziondennis1,     year,        <Channel name: swagg>,       2024-11-07 16:55:15.633664 
+ziondennis1,     w,        <Channel name: swagg>,       2024-11-07 16:55:19.458905 

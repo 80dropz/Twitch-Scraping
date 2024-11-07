@@ -2,3 +2,9 @@
  naneg05,     MILES BLINK IF YOU NEED HELP,        <Channel name: kaicenat>,       2024-11-07 12:54:45.305643 
 
  naneg05,     MILES BLINK IF YOU NEED HELPPP,        <Channel name: kaicenat>,       2024-11-07 12:55:22.443579 
+
+ naneg05,     check on rakai,        <Channel name: kaicenat>,       2024-11-07 14:50:50.548876 
+
+ naneg05,     rakai,        <Channel name: kaicenat>,       2024-11-07 14:50:56.929875 
+
+ naneg05,     check on Rakai,        <Channel name: kaicenat>,       2024-11-07 14:51:11.210782 

@@ -1,0 +1,6 @@
+rwandi,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:57:12.877633 
+rwandi,     nt,        <Channel name: adapt>,       2024-11-07 16:03:27.500779 
+rwandi,     !bracket,        <Channel name: adapt>,       2024-11-07 16:05:09.602234 
+rwandi,     WW,        <Channel name: adapt>,       2024-11-07 16:07:14.084860 
+rwandi,     FOCUS,        <Channel name: adapt>,       2024-11-07 16:07:35.491305 
+rwandi,     WW,        <Channel name: adapt>,       2024-11-07 16:11:14.115449 

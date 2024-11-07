@@ -1,0 +1,17 @@
+sushwyd,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:56:04.196440 
+sushwyd,     EWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:29.175794 
+sushwyd,     EWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:35.323608 
+sushwyd,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:05.616971 
+sushwyd,     IG,        <Channel name: stableronaldo>,       2024-11-07 15:58:45.693760 
+sushwyd,     Classic,        <Channel name: stableronaldo>,       2024-11-07 15:58:51.502044 
+sushwyd,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:28.065679 
+sushwyd,     yes?,        <Channel name: stableronaldo>,       2024-11-07 16:00:13.605825 
+sushwyd,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:40.397839 
+sushwyd,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:00:43.742520 
+sushwyd,     OV,        <Channel name: stableronaldo>,       2024-11-07 16:00:54.237355 
+sushwyd,     g,        <Channel name: stableronaldo>,       2024-11-07 16:00:55.488721 
+sushwyd,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:57.143050 
+sushwyd,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:13:09.877896 
+sushwyd,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:57.671305 
+sushwyd,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:04.882073 
+sushwyd,     NOWAYY,        <Channel name: stableronaldo>,       2024-11-07 16:19:08.542179 

@@ -1,0 +1,2 @@
+fslixy,     !duo,        <Channel name: clix>,       2024-11-07 15:52:48.225282 
+fslixy,     !trio,        <Channel name: clix>,       2024-11-07 15:53:09.844197 

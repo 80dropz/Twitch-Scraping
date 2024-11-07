@@ -4,3 +4,6 @@
  rajiola,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:07:36.765962 
 
  rajiola,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:13:37.666501 
+rajiola,     go slower,        <Channel name: kaicenat>,       2024-11-07 15:30:48.353534 
+rajiola,     omg go lower,        <Channel name: kaicenat>,       2024-11-07 16:00:18.735606 
+rajiola,     terrible form,        <Channel name: kaicenat>,       2024-11-07 16:00:29.738672 

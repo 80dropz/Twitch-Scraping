@@ -1,0 +1,2 @@
+cesarmed420,     1,        <Channel name: swagg>,       2024-11-07 16:16:02.233680 
+cesarmed420,     W,        <Channel name: swagg>,       2024-11-07 16:55:19.789706 

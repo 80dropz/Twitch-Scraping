@@ -2,3 +2,10 @@
  trueno_gr86,     ………,        <Channel name: swagg>,       2024-11-07 12:03:34.476587 
 
  trueno_gr86,     …….,        <Channel name: swagg>,       2024-11-07 12:03:50.630765 
+trueno_gr86,     1,        <Channel name: swagg>,       2024-11-07 16:15:57.325644 
+trueno_gr86,     11,        <Channel name: swagg>,       2024-11-07 16:16:07.951785 
+trueno_gr86,     1,        <Channel name: swagg>,       2024-11-07 16:16:09.289074 
+trueno_gr86,     11,        <Channel name: swagg>,       2024-11-07 16:16:14.118262 
+trueno_gr86,     1,        <Channel name: swagg>,       2024-11-07 16:16:17.154060 
+trueno_gr86,     111,        <Channel name: swagg>,       2024-11-07 16:16:19.446594 
+trueno_gr86,     1,        <Channel name: swagg>,       2024-11-07 16:16:21.485709 

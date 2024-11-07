@@ -1,0 +1,4 @@
+
+ jayb8690,     1match,        <Channel name: mongraal>,       2024-11-07 14:48:00.719314 
+
+ jayb8690,     !match,        <Channel name: mongraal>,       2024-11-07 14:48:17.651577 

@@ -1,0 +1,8 @@
+csmsmokes,     !duo,        <Channel name: clix>,       2024-11-07 15:55:44.002698 
+csmsmokes,     sss,        <Channel name: clix>,       2024-11-07 15:55:53.312107 
+csmsmokes,     !duo,        <Channel name: clix>,       2024-11-07 15:55:56.407954 
+csmsmokes,     !trio,        <Channel name: clix>,       2024-11-07 15:56:05.091979 
+csmsmokes,     steven,        <Channel name: clix>,       2024-11-07 15:59:30.362547 
+csmsmokes,     on cam,        <Channel name: clix>,       2024-11-07 15:59:32.840630 
+csmsmokes,     stev,        <Channel name: clix>,       2024-11-07 15:59:35.269291 
+csmsmokes,     put strev on cam,        <Channel name: clix>,       2024-11-07 15:59:43.691672 

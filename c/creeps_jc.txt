@@ -1,0 +1,3 @@
+
+ creeps_jc,     what time does the tourney start?,        <Channel name: nadeshot>,       2024-11-07 14:50:12.534255 
+creeps_jc,     lets goooo,        <Channel name: nadeshot>,       2024-11-07 16:11:20.301729 

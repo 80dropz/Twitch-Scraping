@@ -1,0 +1,4 @@
+
+ tiktokfg_zida,     !points,        <Channel name: mongraal>,       2024-11-07 14:48:47.574300 
+
+ tiktokfg_zida,     !place,        <Channel name: mongraal>,       2024-11-07 14:49:02.662758 

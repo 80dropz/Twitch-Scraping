@@ -1,0 +1,4 @@
+john37_,     gg,        <Channel name: kaicenat>,       2024-11-07 16:32:29.941579 
+john37_,     wait,        <Channel name: kaicenat>,       2024-11-07 16:32:46.840907 
+john37_,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:55.612491 
+john37_,     noo,        <Channel name: kaicenat>,       2024-11-07 16:34:57.633871 

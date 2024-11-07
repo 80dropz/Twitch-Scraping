@@ -1,0 +1,11 @@
+dokia9o,     THROW WATER IF IT FIZZLES,        <Channel name: kaicenat>,       2024-11-07 16:32:12.682889 
+dokia9o,     THROW WATER IF IT SIZZLES,        <Channel name: kaicenat>,       2024-11-07 16:32:18.406064 
+dokia9o,     SCOOP AT A TIME,        <Channel name: kaicenat>,       2024-11-07 16:32:22.306886 
+dokia9o,     TRY IT FIRST,        <Channel name: kaicenat>,       2024-11-07 16:32:24.713867 
+dokia9o,     TAKE A SHOWER,        <Channel name: kaicenat>,       2024-11-07 16:33:13.859025 
+dokia9o,     BEFORE SAUNA,        <Channel name: kaicenat>,       2024-11-07 16:33:15.575130 
+dokia9o,     TAKE A LIL SHOWER ALWAYS BEFORE SAUNA,        <Channel name: kaicenat>,       2024-11-07 16:33:19.953948 
+dokia9o,     DONT DUMP,        <Channel name: kaicenat>,       2024-11-07 16:33:31.551225 
+dokia9o,     TAKE A SHOWE BEFORE BRO,        <Channel name: kaicenat>,       2024-11-07 16:33:50.392294 
+dokia9o,     TAKE A LIL SHOWER WITH WATER BEFORE SAUNA ALWAYS,        <Channel name: kaicenat>,       2024-11-07 16:34:09.870955 
+dokia9o,     TAKE A LIL SHOWER WITH WATER BEFORE SAUNA ALWAYS!,        <Channel name: kaicenat>,       2024-11-07 16:34:14.513853 

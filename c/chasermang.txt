@@ -1,0 +1,2 @@
+chasermang,     L,        <Channel name: kaicenat>,       2024-11-07 16:47:36.531170 
+chasermang,     L SONG,        <Channel name: kaicenat>,       2024-11-07 16:47:40.168129 

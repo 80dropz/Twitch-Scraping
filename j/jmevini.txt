@@ -1,0 +1,8 @@
+jmevini,     gggggggggggggggggggggggggggg,        <Channel name: lacy>,       2024-11-07 16:12:51.759771 
+jmevini,     gg,        <Channel name: lacy>,       2024-11-07 16:12:57.363392 
+jmevini,     gggg,        <Channel name: lacy>,       2024-11-07 16:13:00.519710 
+jmevini,     gg,        <Channel name: lacy>,       2024-11-07 16:13:01.579935 
+jmevini,     g,        <Channel name: lacy>,       2024-11-07 16:13:02.672741 
+jmevini,     gg,        <Channel name: lacy>,       2024-11-07 16:13:03.781576 
+jmevini,     ggg,        <Channel name: lacy>,       2024-11-07 16:13:05.373900 
+jmevini,     i love black people,        <Channel name: lacy>,       2024-11-07 16:13:23.338006 

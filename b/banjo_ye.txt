@@ -334,3 +334,51 @@
  banjo_ye,     @NotMarkX EU One?,        <Channel name: clix>,       2024-11-07 12:59:15.651837 
 
  banjo_ye,     @NotMarkX Check Discord,        <Channel name: clix>,       2024-11-07 13:02:41.073251 
+
+ banjo_ye,     ome44,        <Channel name: clix>,       2024-11-07 14:43:31.198913 
+
+ banjo_ye,     uuh,        <Channel name: clix>,       2024-11-07 14:47:03.493469 
+
+ banjo_ye,     ??,        <Channel name: clix>,       2024-11-07 14:48:07.163344 
+
+ banjo_ye,     Chatting FirstTimeChatter,        <Channel name: clix>,       2024-11-07 15:23:22.909524 
+
+ banjo_ye,     wsg,        <Channel name: clix>,       2024-11-07 15:24:00.667199 
+
+ banjo_ye,     EZ,        <Channel name: clix>,       2024-11-07 15:25:04.183189 
+
+ banjo_ye,     OOOO,        <Channel name: clix>,       2024-11-07 15:25:04.212927 
+
+ banjo_ye,     poomp,        <Channel name: clix>,       2024-11-07 15:26:09.110013 
+
+ banjo_ye,     HUH,        <Channel name: clix>,       2024-11-07 15:26:12.437564 
+
+ banjo_ye,     WHAT,        <Channel name: clix>,       2024-11-07 15:26:13.863306 
+banjo_ye,     hehehe,        <Channel name: clix>,       2024-11-07 15:28:33.567313 
+banjo_ye,     EZ,        <Channel name: clix>,       2024-11-07 15:28:52.436308 
+banjo_ye,     uuh,        <Channel name: clix>,       2024-11-07 15:30:06.595629 
+banjo_ye,     ome44,        <Channel name: clix>,       2024-11-07 15:31:55.276305 
+banjo_ye,     LMAOO,        <Channel name: clix>,       2024-11-07 15:31:56.687922 
+banjo_ye,     LMAOOO,        <Channel name: clix>,       2024-11-07 15:32:00.345672 
+banjo_ye,     MONKA,        <Channel name: clix>,       2024-11-07 15:32:48.076810 
+banjo_ye,     SNIFFA,        <Channel name: clix>,       2024-11-07 15:33:08.448072 
+banjo_ye,     DAMN,        <Channel name: clix>,       2024-11-07 15:33:16.074001 
+banjo_ye,     HAH,        <Channel name: clix>,       2024-11-07 15:33:17.639875 
+banjo_ye,     YES,        <Channel name: clix>,       2024-11-07 15:33:39.711893 
+banjo_ye,     WW,        <Channel name: clix>,       2024-11-07 15:34:09.942337 
+banjo_ye,     bye,        <Channel name: clix>,       2024-11-07 15:34:21.754856 
+banjo_ye,     Capping,        <Channel name: clix>,       2024-11-07 15:34:29.467993 
+banjo_ye,     uuh,        <Channel name: clix>,       2024-11-07 15:34:31.294050 
+banjo_ye,     end already tired of listening to you,        <Channel name: clix>,       2024-11-07 15:34:59.283984 
+banjo_ye,     WW,        <Channel name: clix>,       2024-11-07 15:35:29.647062 
+banjo_ye,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:03.208009 
+banjo_ye,     OFC,        <Channel name: clix>,       2024-11-07 15:36:43.140052 
+banjo_ye,     LMAOO,        <Channel name: clix>,       2024-11-07 15:37:57.812074 
+banjo_ye,     5'4,        <Channel name: clix>,       2024-11-07 15:38:51.360297 
+banjo_ye,     F,        <Channel name: clix>,       2024-11-07 15:38:58.724291 
+banjo_ye,     BOOBA,        <Channel name: clix>,       2024-11-07 15:39:30.701389 
+banjo_ye,     WW,        <Channel name: clix>,       2024-11-07 15:40:07.869430 
+banjo_ye,     WW,        <Channel name: clix>,       2024-11-07 15:40:10.427245 
+banjo_ye,     Harry,        <Channel name: clix>,       2024-11-07 15:40:22.397451 
+banjo_ye,     MSF,        <Channel name: clix>,       2024-11-07 15:40:48.702436 
+banjo_ye,     NOWAY,        <Channel name: clix>,       2024-11-07 15:41:10.274514 

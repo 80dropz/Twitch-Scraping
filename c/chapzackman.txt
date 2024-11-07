@@ -1,0 +1,23 @@
+chapzackman,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.154412 
+chapzackman,     when it’s hot,        <Channel name: kaicenat>,       2024-11-07 16:28:11.384759 
+chapzackman,     look at the thermometer,        <Channel name: kaicenat>,       2024-11-07 16:28:18.405646 
+chapzackman,     170-180°,        <Channel name: kaicenat>,       2024-11-07 16:29:00.029837 
+chapzackman,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:45.572951 
+chapzackman,     180°,        <Channel name: kaicenat>,       2024-11-07 16:30:01.199164 
+chapzackman,     lol at the wall,        <Channel name: kaicenat>,       2024-11-07 16:31:16.012400 
+chapzackman,     the thermometer on the wall,        <Channel name: kaicenat>,       2024-11-07 16:31:27.419812 
+chapzackman,     3,        <Channel name: kaicenat>,       2024-11-07 16:31:51.720935 
+chapzackman,     add more,        <Channel name: kaicenat>,       2024-11-07 16:33:38.993365 
+chapzackman,     dump it,        <Channel name: kaicenat>,       2024-11-07 16:34:00.018227 
+chapzackman,     stop,        <Channel name: kaicenat>,       2024-11-07 16:40:21.964330 
+chapzackman,     nooo,        <Channel name: kaicenat>,       2024-11-07 16:40:24.874814 
+chapzackman,     chill,        <Channel name: kaicenat>,       2024-11-07 16:40:34.390388 
+chapzackman,     let the steam rise,        <Channel name: kaicenat>,       2024-11-07 16:40:44.410587 
+chapzackman,     just do bits at a time,        <Channel name: kaicenat>,       2024-11-07 16:41:07.149474 
+chapzackman,     water,        <Channel name: kaicenat>,       2024-11-07 16:44:25.141720 
+chapzackman,     add more water,        <Channel name: kaicenat>,       2024-11-07 16:45:57.624915 
+chapzackman,     WATER YOUR PLANTS,        <Channel name: kaicenat>,       2024-11-07 16:46:20.551844 
+chapzackman,     TURN UP,        <Channel name: kaicenat>,       2024-11-07 16:47:34.438904 
+chapzackman,     w,        <Channel name: kaicenat>,       2024-11-07 16:53:57.566953 
+chapzackman,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:16.322081 
+chapzackman,     ICE BATH,        <Channel name: kaicenat>,       2024-11-07 16:54:59.138354 

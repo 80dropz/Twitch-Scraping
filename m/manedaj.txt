@@ -1,0 +1,4 @@
+manedaj,     ResidentSleeper,        <Channel name: kaicenat>,       2024-11-07 16:36:55.452252 
+manedaj,     Let him cook,        <Channel name: kaicenat>,       2024-11-07 16:38:38.783868 
+manedaj,     Play tyla,        <Channel name: kaicenat>,       2024-11-07 16:44:08.131872 
+manedaj,     Play water by tyla,        <Channel name: kaicenat>,       2024-11-07 16:44:20.313144 

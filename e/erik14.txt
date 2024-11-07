@@ -14,3 +14,5 @@
  erik14,     bro use the KSV,        <Channel name: nadeshot>,       2024-11-07 13:32:46.578836 
 
  erik14,     Jesus,        <Channel name: nadeshot>,       2024-11-07 13:34:58.302915 
+erik14,     !bracket,        <Channel name: nadeshot>,       2024-11-07 15:47:35.602637 
+erik14,     !maps,        <Channel name: nadeshot>,       2024-11-07 15:47:56.632499 

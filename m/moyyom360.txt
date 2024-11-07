@@ -1,0 +1,2 @@
+moyyom360,     ON,        <Channel name: kaicenat>,       2024-11-07 16:01:57.979719 
+moyyom360,     ONE WAY,        <Channel name: kaicenat>,       2024-11-07 16:02:04.778847 

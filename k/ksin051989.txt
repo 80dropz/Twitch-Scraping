@@ -1,0 +1,11 @@
+ksin051989,     w,        <Channel name: swagg>,       2024-11-07 16:55:37.802504 
+ksin051989,     w w,        <Channel name: swagg>,       2024-11-07 16:55:44.516706 
+ksin051989,     w w w,        <Channel name: swagg>,       2024-11-07 16:55:47.942366 
+ksin051989,     wwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:52.657837 
+ksin051989,     w,        <Channel name: swagg>,       2024-11-07 16:55:55.244200 
+ksin051989,     wwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:59.181567 
+ksin051989,     w,        <Channel name: swagg>,       2024-11-07 16:56:01.546441 
+ksin051989,     ww,        <Channel name: swagg>,       2024-11-07 16:56:04.366749 
+ksin051989,     wwww,        <Channel name: swagg>,       2024-11-07 16:56:06.074964 
+ksin051989,     ww,        <Channel name: swagg>,       2024-11-07 16:56:08.074730 
+ksin051989,     w,        <Channel name: swagg>,       2024-11-07 16:56:09.437577 

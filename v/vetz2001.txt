@@ -12,3 +12,11 @@
  vetz2001,     IT WAS RAKAI PLANNING,        <Channel name: kaicenat>,       2024-11-07 13:28:55.827464 
 
  vetz2001,     230K,        <Channel name: kaicenat>,       2024-11-07 13:30:53.524636 
+
+ vetz2001,     rakai,        <Channel name: kaicenat>,       2024-11-07 14:52:50.785519 
+
+ vetz2001,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:52:56.595072 
+vetz2001,     left right,        <Channel name: kaicenat>,       2024-11-07 16:14:01.563973 
+vetz2001,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:14:23.137943 
+vetz2001,     W,        <Channel name: kaicenat>,       2024-11-07 16:14:24.492925 
+vetz2001,     RAKAI?,        <Channel name: kaicenat>,       2024-11-07 16:24:16.981256 

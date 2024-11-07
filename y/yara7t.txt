@@ -1,0 +1,12 @@
+yara7t,     ….,        <Channel name: stableronaldo>,       2024-11-07 16:16:23.717813 
+yara7t,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:16:31.791231 
+yara7t,     be were cooler?,        <Channel name: stableronaldo>,       2024-11-07 16:17:13.042879 
+yara7t,     Jason leaving faze,        <Channel name: stableronaldo>,       2024-11-07 16:18:12.877139 
+yara7t,     ???,        <Channel name: stableronaldo>,       2024-11-07 16:19:30.877046 
+yara7t,     AYOOOOOO????,        <Channel name: stableronaldo>,       2024-11-07 16:23:57.957303 
+yara7t,     I think the WiFi cut out?,        <Channel name: stableronaldo>,       2024-11-07 16:24:38.237182 
+yara7t,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:25:27.572540 
+yara7t,     NECAAAAAAA,        <Channel name: stableronaldo>,       2024-11-07 16:25:34.983824 
+yara7t,     AHAHAHA,        <Channel name: stableronaldo>,       2024-11-07 16:25:43.797635 
+yara7t,     ME,        <Channel name: stableronaldo>,       2024-11-07 16:26:00.115536 
+yara7t,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:19.735123 

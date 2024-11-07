@@ -1,0 +1,3 @@
+randolph02,     lol,        <Channel name: clix>,       2024-11-07 16:18:59.006890 
+randolph02,     www,        <Channel name: clix>,       2024-11-07 16:19:29.737896 
+randolph02,     www,        <Channel name: clix>,       2024-11-07 16:20:31.696160 

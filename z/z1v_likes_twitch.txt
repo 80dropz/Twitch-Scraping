@@ -6,3 +6,4 @@
  z1v_likes_twitch,     LAGG,        <Channel name: lacy>,       2024-11-07 13:35:28.850179 
 
  z1v_likes_twitch,     lag,        <Channel name: lacy>,       2024-11-07 13:35:59.213556 
+z1v_likes_twitch,     tell her she’s the key of your heart,        <Channel name: lacy>,       2024-11-07 15:57:52.560593 

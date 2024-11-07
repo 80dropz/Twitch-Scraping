@@ -814,3 +814,207 @@
  inpulsexda,     crazy,        <Channel name: clix>,       2024-11-07 13:36:19.130654 
 
  inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 13:36:50.024031 
+
+ inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 14:43:20.253167 
+
+ inpulsexda,     ome5,        <Channel name: clix>,       2024-11-07 14:47:03.674226 
+
+ inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 14:47:34.100160 
+
+ inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 14:47:37.122775 
+
+ inpulsexda,     PizzaTime,        <Channel name: clix>,       2024-11-07 15:23:22.751999 
+
+ inpulsexda,     WW,        <Channel name: clix>,       2024-11-07 15:23:38.908218 
+
+ inpulsexda,     uuh,        <Channel name: clix>,       2024-11-07 15:25:28.985274 
+
+ inpulsexda,     HUH,        <Channel name: clix>,       2024-11-07 15:25:51.555510 
+
+ inpulsexda,     poomp,        <Channel name: clix>,       2024-11-07 15:26:04.114194 
+
+ inpulsexda,     HUH,        <Channel name: clix>,       2024-11-07 15:26:09.696636 
+
+ inpulsexda,     oh my,        <Channel name: clix>,       2024-11-07 15:27:48.713151 
+
+ inpulsexda,     RIPBOZO,        <Channel name: clix>,       2024-11-07 15:27:52.281787 
+inpulsexda,     ome66,        <Channel name: clix>,       2024-11-07 15:28:33.474350 
+inpulsexda,     ome676,        <Channel name: clix>,       2024-11-07 15:28:33.479351 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:28:33.482346 
+inpulsexda,     i cant type today,        <Channel name: clix>,       2024-11-07 15:28:33.511442 
+inpulsexda,     hehehe,        <Channel name: clix>,       2024-11-07 15:28:33.563307 
+inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 15:28:33.573822 
+inpulsexda,     GoldPLZ,        <Channel name: clix>,       2024-11-07 15:29:38.839789 
+inpulsexda,     dude,        <Channel name: clix>,       2024-11-07 15:29:54.653521 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:29:58.846528 
+inpulsexda,     DIESOFCRINGE,        <Channel name: clix>,       2024-11-07 15:30:03.971903 
+inpulsexda,     WW,        <Channel name: clix>,       2024-11-07 15:30:55.328544 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 15:31:28.596872 
+inpulsexda,     what a weirdo,        <Channel name: clix>,       2024-11-07 15:31:37.800957 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 15:31:54.133703 
+inpulsexda,     ome4,        <Channel name: clix>,       2024-11-07 15:31:57.290544 
+inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 15:31:58.493604 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:32:00.872480 
+inpulsexda,     RIPBOZO,        <Channel name: clix>,       2024-11-07 15:32:14.936484 
+inpulsexda,     GULP,        <Channel name: clix>,       2024-11-07 15:32:27.608559 
+inpulsexda,     Hmm,        <Channel name: clix>,       2024-11-07 15:32:40.217952 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 15:32:45.346060 
+inpulsexda,     wait hold on,        <Channel name: clix>,       2024-11-07 15:32:55.582441 
+inpulsexda,     hold on,        <Channel name: clix>,       2024-11-07 15:33:07.895524 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 15:33:11.791613 
+inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 15:33:13.383914 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:33:14.659789 
+inpulsexda,     he cooked you,        <Channel name: clix>,       2024-11-07 15:33:18.339714 
+inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 15:33:26.176705 
+inpulsexda,     GG,        <Channel name: clix>,       2024-11-07 15:33:29.668640 
+inpulsexda,     yes,        <Channel name: clix>,       2024-11-07 15:33:38.447868 
+inpulsexda,     Okey,        <Channel name: clix>,       2024-11-07 15:34:03.402195 
+inpulsexda,     WW,        <Channel name: clix>,       2024-11-07 15:34:04.477648 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 15:34:14.598822 
+inpulsexda,     Okey,        <Channel name: clix>,       2024-11-07 15:34:16.500114 
+inpulsexda,     ok,        <Channel name: clix>,       2024-11-07 15:34:20.249432 
+inpulsexda,     uuh,        <Channel name: clix>,       2024-11-07 15:34:28.453016 
+inpulsexda,     LieMeter,        <Channel name: clix>,       2024-11-07 15:34:31.215792 
+inpulsexda,     Capping,        <Channel name: clix>,       2024-11-07 15:34:44.291845 
+inpulsexda,     Shirley,        <Channel name: clix>,       2024-11-07 15:34:50.012673 
+inpulsexda,     HAHAHA,        <Channel name: clix>,       2024-11-07 15:35:08.889139 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:35:11.226913 
+inpulsexda,     :),        <Channel name: clix>,       2024-11-07 15:35:20.889087 
+inpulsexda,     buhFlipExplode,        <Channel name: clix>,       2024-11-07 15:35:25.931858 
+inpulsexda,     uuh,        <Channel name: clix>,       2024-11-07 15:35:27.499819 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 15:35:30.064916 
+inpulsexda,     WW,        <Channel name: clix>,       2024-11-07 15:35:31.711109 
+inpulsexda,     ome5,        <Channel name: clix>,       2024-11-07 15:35:33.138806 
+inpulsexda,     Fridge,        <Channel name: clix>,       2024-11-07 15:35:39.283966 
+inpulsexda,     mmmm,        <Channel name: clix>,       2024-11-07 15:35:44.151116 
+inpulsexda,     mmmmm,        <Channel name: clix>,       2024-11-07 15:35:46.100772 
+inpulsexda,     me,        <Channel name: clix>,       2024-11-07 15:35:47.525456 
+inpulsexda,     cmonBruh,        <Channel name: clix>,       2024-11-07 15:35:52.504938 
+inpulsexda,     chat cmonBruh,        <Channel name: clix>,       2024-11-07 15:35:55.170924 
+inpulsexda,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:02.142025 
+inpulsexda,     SMH,        <Channel name: clix>,       2024-11-07 15:36:08.781126 
+inpulsexda,     SMH2,        <Channel name: clix>,       2024-11-07 15:36:09.785971 
+inpulsexda,     come on,        <Channel name: clix>,       2024-11-07 15:36:13.861738 
+inpulsexda,     SMH,        <Channel name: clix>,       2024-11-07 15:36:16.470059 
+inpulsexda,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:18.748273 
+inpulsexda,     woah,        <Channel name: clix>,       2024-11-07 15:36:23.273178 
+inpulsexda,     damn,        <Channel name: clix>,       2024-11-07 15:36:25.601022 
+inpulsexda,     thats insane,        <Channel name: clix>,       2024-11-07 15:36:28.992067 
+inpulsexda,     clixTubby,        <Channel name: clix>,       2024-11-07 15:36:43.090834 
+inpulsexda,     munyun,        <Channel name: clix>,       2024-11-07 15:36:49.476607 
+inpulsexda,     mmm,        <Channel name: clix>,       2024-11-07 15:36:54.722122 
+inpulsexda,     OMG hi @VecVeum,        <Channel name: clix>,       2024-11-07 15:37:06.103219 
+inpulsexda,     @Yemen_RMA wsg,        <Channel name: clix>,       2024-11-07 15:37:27.280158 
+inpulsexda,     uuh,        <Channel name: clix>,       2024-11-07 15:37:31.218780 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 15:37:36.401619 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 15:37:47.249934 
+inpulsexda,     @VecVeum,        <Channel name: clix>,       2024-11-07 15:37:55.472199 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 15:37:59.763980 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 15:38:00.852917 
+inpulsexda,     cmonBruh,        <Channel name: clix>,       2024-11-07 15:38:15.512232 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 15:38:22.921736 
+inpulsexda,     mmmmmm,        <Channel name: clix>,       2024-11-07 15:38:25.408071 
+inpulsexda,     BabyRage,        <Channel name: clix>,       2024-11-07 15:39:12.882333 
+inpulsexda,     nah,        <Channel name: clix>,       2024-11-07 15:39:22.004988 
+inpulsexda,     jorkin,        <Channel name: clix>,       2024-11-07 15:39:24.902616 
+inpulsexda,     BOOBA,        <Channel name: clix>,       2024-11-07 15:39:28.976975 
+inpulsexda,     goClix l,        <Channel name: clix>,       2024-11-07 15:39:36.366362 
+inpulsexda,     goClix,        <Channel name: clix>,       2024-11-07 15:39:39.888070 
+inpulsexda,     :),        <Channel name: clix>,       2024-11-07 15:48:11.111781 
+inpulsexda,     rt,        <Channel name: clix>,       2024-11-07 15:49:01.945977 
+inpulsexda,     just grow it out for 1 time @Clix,        <Channel name: clix>,       2024-11-07 15:49:51.738199 
+inpulsexda,     Sadge,        <Channel name: clix>,       2024-11-07 15:49:58.649971 
+inpulsexda,     insane,        <Channel name: clix>,       2024-11-07 15:50:19.135325 
+inpulsexda,     AURA,        <Channel name: clix>,       2024-11-07 15:50:20.389000 
+inpulsexda,     hehehe,        <Channel name: clix>,       2024-11-07 15:50:59.051255 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 15:54:14.274399 
+inpulsexda,     me,        <Channel name: clix>,       2024-11-07 15:54:34.177056 
+inpulsexda,     wow,        <Channel name: clix>,       2024-11-07 15:54:49.466600 
+inpulsexda,     TriPls,        <Channel name: clix>,       2024-11-07 15:56:18.875233 
+inpulsexda,     TriKool,        <Channel name: clix>,       2024-11-07 15:56:28.727778 
+inpulsexda,     WOOO,        <Channel name: clix>,       2024-11-07 15:58:15.084240 
+inpulsexda,     awoo,        <Channel name: clix>,       2024-11-07 15:58:16.793740 
+inpulsexda,     awoo awoo,        <Channel name: clix>,       2024-11-07 15:58:30.437518 
+inpulsexda,     SoCute,        <Channel name: clix>,       2024-11-07 15:58:37.588410 
+inpulsexda,     WOOO,        <Channel name: clix>,       2024-11-07 15:58:46.009794 
+inpulsexda,     lebronJAM,        <Channel name: clix>,       2024-11-07 15:59:15.679462 
+inpulsexda,     TriDance,        <Channel name: clix>,       2024-11-07 15:59:18.944573 
+inpulsexda,     TriPls,        <Channel name: clix>,       2024-11-07 15:59:20.974612 
+inpulsexda,     true,        <Channel name: clix>,       2024-11-07 15:59:49.712875 
+inpulsexda,     jorkin,        <Channel name: clix>,       2024-11-07 16:00:02.288652 
+inpulsexda,     ngl doing a suabthon on your own is very hard. much easier if you have a group,        <Channel name: clix>,       2024-11-07 16:00:32.759681 
+inpulsexda,     lopl,        <Channel name: clix>,       2024-11-07 16:01:19.904815 
+inpulsexda,     lol,        <Channel name: clix>,       2024-11-07 16:01:21.208075 
+inpulsexda,     @value1x i cant type today Sadge,        <Channel name: clix>,       2024-11-07 16:01:28.310756 
+inpulsexda,     @value1x :/,        <Channel name: clix>,       2024-11-07 16:01:38.397969 
+inpulsexda,     kittyJam,        <Channel name: clix>,       2024-11-07 16:01:41.467030 
+inpulsexda,     Headbang,        <Channel name: clix>,       2024-11-07 16:03:06.273494 
+inpulsexda,     Headbang Headbang,        <Channel name: clix>,       2024-11-07 16:03:13.262175 
+inpulsexda,     NODDERS Headbang,        <Channel name: clix>,       2024-11-07 16:03:42.655603 
+inpulsexda,     wideVIBE,        <Channel name: clix>,       2024-11-07 16:03:49.685730 
+inpulsexda,     i like this song,        <Channel name: clix>,       2024-11-07 16:03:53.191885 
+inpulsexda,     VIBE,        <Channel name: clix>,       2024-11-07 16:03:58.838137 
+inpulsexda,     no,        <Channel name: clix>,       2024-11-07 16:06:14.189386 
+inpulsexda,     ome32,        <Channel name: clix>,       2024-11-07 16:06:42.389023 
+inpulsexda,     kittyJam,        <Channel name: clix>,       2024-11-07 16:07:01.063796 
+inpulsexda,     VIBE,        <Channel name: clix>,       2024-11-07 16:09:48.239719 
+inpulsexda,     NOWAY,        <Channel name: clix>,       2024-11-07 16:10:06.518725 
+inpulsexda,     Okey,        <Channel name: clix>,       2024-11-07 16:10:54.949369 
+inpulsexda,     GYAAAT,        <Channel name: clix>,       2024-11-07 16:11:23.915334 
+inpulsexda,     SNIFFA,        <Channel name: clix>,       2024-11-07 16:11:29.164518 
+inpulsexda,     LICKA,        <Channel name: clix>,       2024-11-07 16:11:30.285397 
+inpulsexda,     BOOPS,        <Channel name: clix>,       2024-11-07 16:11:33.579864 
+inpulsexda,     uuh,        <Channel name: clix>,       2024-11-07 16:11:38.863718 
+inpulsexda,     SNIFFA,        <Channel name: clix>,       2024-11-07 16:11:42.972509 
+inpulsexda,     GYAAAT,        <Channel name: clix>,       2024-11-07 16:11:47.606240 
+inpulsexda,     @value1x same,        <Channel name: clix>,       2024-11-07 16:13:27.337488 
+inpulsexda,     balls FeelsWowMan,        <Channel name: clix>,       2024-11-07 16:13:34.396592 
+inpulsexda,     @value1x UHMM,        <Channel name: clix>,       2024-11-07 16:13:50.750464 
+inpulsexda,     hhahahaha,        <Channel name: clix>,       2024-11-07 16:14:32.710963 
+inpulsexda,     Cheesin,        <Channel name: clix>,       2024-11-07 16:14:45.580014 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:14:59.517824 
+inpulsexda,     c!,        <Channel name: clix>,       2024-11-07 16:15:02.609544 
+inpulsexda,     Capping,        <Channel name: clix>,       2024-11-07 16:15:03.771061 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 16:15:36.473436 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:15:41.866008 
+inpulsexda,     cmonBruh,        <Channel name: clix>,       2024-11-07 16:16:15.717008 
+inpulsexda,     Okey,        <Channel name: clix>,       2024-11-07 16:16:33.313902 
+inpulsexda,     its alright,        <Channel name: clix>,       2024-11-07 16:17:09.263790 
+inpulsexda,     not bad,        <Channel name: clix>,       2024-11-07 16:17:11.317654 
+inpulsexda,     not good not bad,        <Channel name: clix>,       2024-11-07 16:17:15.344702 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 16:17:35.206804 
+inpulsexda,     oh my,        <Channel name: clix>,       2024-11-07 16:17:53.147878 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 16:18:43.142228 
+inpulsexda,     ome44,        <Channel name: clix>,       2024-11-07 16:18:44.727207 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:18:51.955359 
+inpulsexda,     eh,        <Channel name: clix>,       2024-11-07 16:19:20.665252 
+inpulsexda,     not bad not bad,        <Channel name: clix>,       2024-11-07 16:19:23.778021 
+inpulsexda,     its Okey,        <Channel name: clix>,       2024-11-07 16:19:33.183943 
+inpulsexda,     haha,        <Channel name: clix>,       2024-11-07 16:19:47.127909 
+inpulsexda,     bro,        <Channel name: clix>,       2024-11-07 16:20:04.501502 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:20:05.862341 
+inpulsexda,     WAIT lowkey clix got better,        <Channel name: clix>,       2024-11-07 16:20:22.084488 
+inpulsexda,     Okey,        <Channel name: clix>,       2024-11-07 16:20:47.796242 
+inpulsexda,     Binoculous,        <Channel name: clix>,       2024-11-07 16:20:54.596057 
+inpulsexda,     NOTED,        <Channel name: clix>,       2024-11-07 16:21:35.433464 
+inpulsexda,     LMFAO,        <Channel name: clix>,       2024-11-07 16:21:52.269774 
+inpulsexda,     lol,        <Channel name: clix>,       2024-11-07 16:21:54.617183 
+inpulsexda,     bro Pffttt,        <Channel name: clix>,       2024-11-07 16:22:54.961510 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:22:56.173040 
+inpulsexda,     ome67,        <Channel name: clix>,       2024-11-07 16:22:59.190703 
+inpulsexda,     Pffttt,        <Channel name: clix>,       2024-11-07 16:23:19.937666 
+inpulsexda,     GYAAAT,        <Channel name: clix>,       2024-11-07 16:23:42.908229 
+inpulsexda,     chat... Pffttt,        <Channel name: clix>,       2024-11-07 16:23:56.254188 
+inpulsexda,     ok ok,        <Channel name: clix>,       2024-11-07 16:24:21.481462 
+inpulsexda,     ta shi,        <Channel name: clix>,       2024-11-07 16:24:43.805374 
+inpulsexda,     those look good,        <Channel name: clix>,       2024-11-07 16:24:54.299285 
+inpulsexda,     TriHard,        <Channel name: clix>,       2024-11-07 16:25:09.723452 
+inpulsexda,     OH MY,        <Channel name: clix>,       2024-11-07 16:25:18.853348 
+inpulsexda,     HOW,        <Channel name: clix>,       2024-11-07 16:25:20.425709 
+inpulsexda,     DAMN,        <Channel name: clix>,       2024-11-07 16:25:21.605827 
+inpulsexda,     WOW,        <Channel name: clix>,       2024-11-07 16:25:28.516291 
+inpulsexda,     AURA,        <Channel name: clix>,       2024-11-07 16:25:34.612399 
+inpulsexda,     holy AURA,        <Channel name: clix>,       2024-11-07 16:25:38.012206 
+inpulsexda,     wow,        <Channel name: clix>,       2024-11-07 16:26:07.075695 
+inpulsexda,     SNIFFA,        <Channel name: clix>,       2024-11-07 16:26:28.577590 
+inpulsexda,     wow,        <Channel name: clix>,       2024-11-07 16:26:44.680550 

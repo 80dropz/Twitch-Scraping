@@ -30,3 +30,5 @@
  opt_tt,     YES,        <Channel name: kaicenat>,       2024-11-07 13:15:58.229126 
 
  opt_tt,     do it,        <Channel name: kaicenat>,       2024-11-07 13:34:06.935221 
+opt_tt,     rekai,        <Channel name: kaicenat>,       2024-11-07 16:21:00.412033 
+opt_tt,     check on rakai,        <Channel name: kaicenat>,       2024-11-07 16:21:05.013250 

@@ -1,0 +1,11 @@
+otik_kito,     yoo,        <Channel name: stableronaldo>,       2024-11-07 15:56:12.736759 
+otik_kito,     yes,        <Channel name: stableronaldo>,       2024-11-07 15:57:11.384376 
+otik_kito,     get a check up,        <Channel name: stableronaldo>,       2024-11-07 16:00:28.934052 
+otik_kito,     lol,        <Channel name: stableronaldo>,       2024-11-07 16:14:25.950507 
+otik_kito,     DO IT,        <Channel name: stableronaldo>,       2024-11-07 16:20:02.865622 
+otik_kito,     8K,        <Channel name: stableronaldo>,       2024-11-07 16:20:30.628897 
+otik_kito,     O,        <Channel name: stableronaldo>,       2024-11-07 16:21:06.608088 
+otik_kito,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.045235 
+otik_kito,     ur cooked,        <Channel name: stableronaldo>,       2024-11-07 16:21:41.421710 
+otik_kito,     lol,        <Channel name: stableronaldo>,       2024-11-07 16:22:01.921212 
+otik_kito,     nooooooooo,        <Channel name: stableronaldo>,       2024-11-07 16:26:29.468323 

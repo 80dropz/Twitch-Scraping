@@ -1,0 +1,2 @@
+tydus02,     !add,e,        <Channel name: mrlust>,       2024-11-07 16:14:02.161467 
+tydus02,     !addme,        <Channel name: mrlust>,       2024-11-07 16:14:04.026683 

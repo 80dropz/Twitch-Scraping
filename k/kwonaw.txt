@@ -1,0 +1,4 @@
+kwonaw,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:08:26.100509 
+kwonaw,     rakiki,        <Channel name: kaicenat>,       2024-11-07 16:25:47.851405 
+kwonaw,     qt,        <Channel name: kaicenat>,       2024-11-07 16:29:08.473058 
+kwonaw,     !play ads,        <Channel name: kaicenat>,       2024-11-07 16:34:05.355018 

@@ -1,0 +1,8 @@
+amook6,     Gud,        <Channel name: stableronaldo>,       2024-11-07 15:57:18.794629 
+amook6,     Iiiiiii,        <Channel name: stableronaldo>,       2024-11-07 16:01:29.349956 
+amook6,     Mutted,        <Channel name: stableronaldo>,       2024-11-07 16:18:43.872504 
+amook6,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:50.971167 
+amook6,     No,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.478080 
+amook6,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:03.424632 
+amook6,     Rt,        <Channel name: stableronaldo>,       2024-11-07 16:24:10.421668 
+amook6,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:29.232053 

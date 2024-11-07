@@ -1,0 +1,16 @@
+unknown09_____,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:49:32.004056 
+unknown09_____,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:50:09.706722 
+unknown09_____,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:55:41.977602 
+unknown09_____,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:56:46.350381 
+unknown09_____,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:57:19.832534 
+unknown09_____,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:13:56.093743 
+unknown09_____,     why they block u from saying?,        <Channel name: kaicenat>,       2024-11-07 16:14:56.272590 
+unknown09_____,     why they block u from saying rakai,        <Channel name: kaicenat>,       2024-11-07 16:15:28.569620 
+unknown09_____,     bro the bot block people from saying rak,        <Channel name: kaicenat>,       2024-11-07 16:18:38.513665 
+unknown09_____,     !playlist,        <Channel name: kaicenat>,       2024-11-07 16:52:52.784272 
+unknown09_____,     !song,        <Channel name: kaicenat>,       2024-11-07 16:53:19.476650 
+unknown09_____,     !spotify,        <Channel name: kaicenat>,       2024-11-07 16:53:29.182871 
+unknown09_____,     !psise,        <Channel name: kaicenat>,       2024-11-07 16:54:54.845350 
+unknown09_____,     !psize,        <Channel name: kaicenat>,       2024-11-07 16:55:00.225810 
+unknown09_____,     !size,        <Channel name: kaicenat>,       2024-11-07 16:55:13.467841 
+unknown09_____,     !psize,        <Channel name: kaicenat>,       2024-11-07 16:55:22.386932 

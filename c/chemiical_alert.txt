@@ -1,0 +1,8 @@
+
+ chemiical_alert,     zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE,        <Channel name: nadeshot>,       2024-11-07 15:25:04.056160 
+
+ chemiical_alert,     W,        <Channel name: nadeshot>,       2024-11-07 15:25:06.219231 
+
+ chemiical_alert,     zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE zoomaaSAUSAGE,        <Channel name: nadeshot>,       2024-11-07 15:25:22.224165 
+
+ chemiical_alert,     chrisishidZIN chrisishidZIN chrisishidZIN chrisishidZIN chrisishidZIN,        <Channel name: nadeshot>,       2024-11-07 15:26:04.385070 

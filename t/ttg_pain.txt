@@ -1,0 +1,2 @@
+ttg_pain,     W,        <Channel name: kaicenat>,       2024-11-07 15:34:09.808192 
+ttg_pain,     yoo,        <Channel name: kaicenat>,       2024-11-07 15:34:16.942753 

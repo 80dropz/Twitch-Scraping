@@ -1,2 +1,5 @@
 
  1faze_ta,     TAWAY,        <Channel name: lacy>,       2024-11-07 12:26:34.020930 
+1faze_ta,     snooze fest,        <Channel name: stableronaldo>,       2024-11-07 16:00:25.654333 
+1faze_ta,     snooze fest,        <Channel name: lacy>,       2024-11-07 16:00:50.578012 
+1faze_ta,     TwitchVotes Drewall: this nigga Lacy making me mad,        <Channel name: lacy>,       2024-11-07 16:01:55.673854 

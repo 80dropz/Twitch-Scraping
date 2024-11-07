@@ -1,0 +1,6 @@
+srtoo_torres,     !sens,        <Channel name: mongraal>,       2024-11-07 15:51:49.310692 
+srtoo_torres,     !dpi,        <Channel name: mongraal>,       2024-11-07 15:53:22.222141 
+srtoo_torres,     !sens,        <Channel name: mongraal>,       2024-11-07 15:53:31.650003 
+srtoo_torres,     !controles,        <Channel name: mongraal>,       2024-11-07 15:56:40.213019 
+srtoo_torres,     !control,        <Channel name: mongraal>,       2024-11-07 15:56:45.101274 
+srtoo_torres,     !sens,        <Channel name: mrlust>,       2024-11-07 15:59:01.665496 

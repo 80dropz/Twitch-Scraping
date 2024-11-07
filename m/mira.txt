@@ -1,2 +1,4 @@
 
  mira,     miraHa miraHa,        <Channel name: mira>,       2024-11-07 02:40:03.184084 
+mira,     https://twitter.com/miraslabs/status/1854566108336210020?s=46&t=zuB-mJ_TB0dZ8Nwta5ZTQA,        <Channel name: mira>,       2024-11-07 15:39:13.547203 
+mira,     https://twitter.com/miranowhere/status/1854567540309344378?s=46&t=zuB-mJ_TB0dZ8Nwta5ZTQA miraQ,        <Channel name: mira>,       2024-11-07 15:39:28.058662 

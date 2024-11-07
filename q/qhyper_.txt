@@ -37,3 +37,6 @@
 
  qhyper_,     39,        <Channel name: kaicenat>,       2024-11-07 01:59:52.928010 
 >>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
+qhyper_,     who's hosting this tournament why r the rules so weird,        <Channel name: adapt>,       2024-11-07 15:46:53.783046 
+qhyper_,     i need to see adapts pov there how does he lose that,        <Channel name: nadeshot>,       2024-11-07 16:03:01.509972 
+qhyper_,     the subathon cap should be level 1000,        <Channel name: nadeshot>,       2024-11-07 16:14:12.780032 

@@ -1,0 +1,3 @@
+ineptunel,     predead,        <Channel name: stableronaldo>,       2024-11-07 16:18:03.139022 
+ineptunel,     wtf,        <Channel name: stableronaldo>,       2024-11-07 16:23:32.734817 
+ineptunel,     CRASH OUT,        <Channel name: stableronaldo>,       2024-11-07 16:23:38.196216 

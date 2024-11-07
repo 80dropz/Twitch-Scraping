@@ -1,0 +1,5 @@
+5point_aar0n,     canes,        <Channel name: stableronaldo>,       2024-11-07 16:08:04.900205 
+5point_aar0n,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:11:16.282897 
+5point_aar0n,     no  carried,        <Channel name: stableronaldo>,       2024-11-07 16:11:57.255529 
+5point_aar0n,     jason peon voice,        <Channel name: stableronaldo>,       2024-11-07 16:12:01.257667 
+5point_aar0n,     ask jason,        <Channel name: stableronaldo>,       2024-11-07 16:18:06.235461 

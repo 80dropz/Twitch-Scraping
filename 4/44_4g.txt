@@ -4,3 +4,9 @@
  44_4g,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 11:44:54.469962 
 
  44_4g,     WWWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:54.368814 
+
+ 44_4g,     RAY AURA,        <Channel name: kaicenat>,       2024-11-07 14:46:30.590296 
+
+ 44_4g,     HOOD MILES,        <Channel name: kaicenat>,       2024-11-07 14:49:07.587363 
+
+ 44_4g,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:51:52.607029 

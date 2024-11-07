@@ -8,3 +8,12 @@
  mar5119,     clixWave clixWave,        <Channel name: clix>,       2024-11-07 12:12:08.583964 
 
  mar5119,     close,        <Channel name: clix>,       2024-11-07 12:12:31.668884 
+
+ mar5119,     uhhhh….,        <Channel name: clix>,       2024-11-07 14:52:18.729975 
+mar5119,     Steve unmute,        <Channel name: clix>,       2024-11-07 16:02:14.860646 
+mar5119,     STEVE UNMUTE,        <Channel name: clix>,       2024-11-07 16:02:17.403081 
+mar5119,     UNMUTE STEVE,        <Channel name: clix>,       2024-11-07 16:02:20.431967 
+mar5119,     auraaa,        <Channel name: clix>,       2024-11-07 16:25:37.443428 
+mar5119,     AURAAA,        <Channel name: clix>,       2024-11-07 16:25:38.982035 
+mar5119,     AURA,        <Channel name: clix>,       2024-11-07 16:25:40.754784 
+mar5119,     AURA WWW,        <Channel name: clix>,       2024-11-07 16:25:42.541313 

@@ -1,0 +1,4 @@
+snipertron122,     ww,        <Channel name: swagg>,       2024-11-07 16:55:46.831543 
+snipertron122,     W,        <Channel name: swagg>,       2024-11-07 16:55:53.625432 
+snipertron122,     wwww,        <Channel name: swagg>,       2024-11-07 16:55:59.770926 
+snipertron122,     www,        <Channel name: swagg>,       2024-11-07 16:56:04.083781 

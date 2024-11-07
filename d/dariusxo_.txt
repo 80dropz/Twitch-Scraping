@@ -240,3 +240,38 @@
  dariusxo_,     !roulette 10k,        <Channel name: kaicenat>,       2024-11-07 11:55:06.033500 
 
  dariusxo_,     I’m here now,        <Channel name: lacy>,       2024-11-07 12:27:21.632842 
+dariusxo_,     !P,        <Channel name: kaicenat>,       2024-11-07 15:45:19.255477 
+dariusxo_,     @Sisem yo,        <Channel name: kaicenat>,       2024-11-07 15:45:32.638574 
+dariusxo_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:46:47.815705 
+dariusxo_,     bra,        <Channel name: kaicenat>,       2024-11-07 15:47:00.797597 
+dariusxo_,     Pffttt,        <Channel name: kaicenat>,       2024-11-07 15:47:08.639060 
+dariusxo_,     @issacldn darius128SlowDown,        <Channel name: kaicenat>,       2024-11-07 15:47:27.044501 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:47:18.313206 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:47:21.812415 
+dariusxo_,     DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:47:30.734246 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:48:39.365974 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:48:44.092553 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:48:49.467377 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:49:11.177560 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:49:22.461450 
+dariusxo_,     uuh,        <Channel name: kaicenat>,       2024-11-07 16:49:29.536183 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:49:46.899295 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:49:49.456419 
+dariusxo_,     JUSTS2,        <Channel name: kaicenat>,       2024-11-07 16:49:53.497655 
+dariusxo_,     plaqueboyTwerk,        <Channel name: kaicenat>,       2024-11-07 16:50:04.167248 
+dariusxo_,     plaqueboyTwerk,        <Channel name: kaicenat>,       2024-11-07 16:50:09.542704 
+dariusxo_,     plaqueboyTwerk,        <Channel name: kaicenat>,       2024-11-07 16:50:40.259405 
+dariusxo_,     huh huh huh huh,        <Channel name: kaicenat>,       2024-11-07 16:52:11.243429 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:52:13.470623 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:52:16.513563 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:52:29.653483 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:52:50.273504 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:53:06.124527 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:53:09.546262 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:53:13.888710 
+dariusxo_,     elisDancy,        <Channel name: kaicenat>,       2024-11-07 16:53:36.922304 
+dariusxo_,     prePffttt,        <Channel name: kaicenat>,       2024-11-07 16:53:47.053697 
+dariusxo_,     prePffttt,        <Channel name: kaicenat>,       2024-11-07 16:53:55.492292 
+dariusxo_,     Pffttt,        <Channel name: kaicenat>,       2024-11-07 16:54:13.527541 
+dariusxo_,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:16.322081 
+dariusxo_,     Pffttt,        <Channel name: kaicenat>,       2024-11-07 16:54:51.080717 

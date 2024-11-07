@@ -1,2 +1,4 @@
 
  one_piecefn,     !time,        <Channel name: clix>,       2024-11-07 11:50:16.013009 
+
+ one_piecefn,     stay on this camera for the mics,        <Channel name: lacy>,       2024-11-07 14:53:50.216893 

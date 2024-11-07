@@ -24,3 +24,9 @@
  sir_clappyy,     pour the water,        <Channel name: kaicenat>,       2024-11-07 13:33:45.164125 
 
  sir_clappyy,     pour it,        <Channel name: kaicenat>,       2024-11-07 13:35:42.649717 
+
+ sir_clappyy,     bring back hood Myles,        <Channel name: kaicenat>,       2024-11-07 14:49:47.963858 
+
+ sir_clappyy,     Hood Myles,        <Channel name: kaicenat>,       2024-11-07 14:50:06.223247 
+
+ sir_clappyy,     yeah,        <Channel name: kaicenat>,       2024-11-07 15:25:04.099409 

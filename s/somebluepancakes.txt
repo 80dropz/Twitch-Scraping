@@ -1,0 +1,4 @@
+somebluepancakes,     !time,        <Channel name: kaicenat>,       2024-11-07 16:01:21.754879 
+somebluepancakes,     !chattime,        <Channel name: kaicenat>,       2024-11-07 16:01:32.168843 
+somebluepancakes,     !watch time,        <Channel name: kaicenat>,       2024-11-07 16:01:50.183745 
+somebluepancakes,     big,        <Channel name: kaicenat>,       2024-11-07 16:02:20.973150 

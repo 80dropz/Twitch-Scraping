@@ -9,3 +9,6 @@
 
  7xchopper,     skibidi,        <Channel name: clix>,       2024-11-07 01:52:46.369830 
 >>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
+7xchopper,     !dou,        <Channel name: clix>,       2024-11-07 15:53:09.067779 
+7xchopper,     !name,        <Channel name: clix>,       2024-11-07 16:03:41.634798 
+7xchopper,     !1v1,        <Channel name: clix>,       2024-11-07 16:10:12.077445 

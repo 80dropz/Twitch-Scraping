@@ -2,3 +2,7 @@
  toastns,     LMFAOOO,        <Channel name: kaicenat>,       2024-11-07 12:49:03.728867 
 
  toastns,     NO EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 12:58:53.560226 
+toastns,     LETS GO,        <Channel name: kaicenat>,       2024-11-07 16:03:40.736088 
+toastns,     LETS GO KAI,        <Channel name: kaicenat>,       2024-11-07 16:11:13.369865 
+toastns,     @KaiCenat what workout should i hit today,        <Channel name: kaicenat>,       2024-11-07 16:24:30.868017 
+toastns,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:34.852438 

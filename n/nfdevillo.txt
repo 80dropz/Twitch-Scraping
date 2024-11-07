@@ -1,0 +1,34 @@
+
+ nfdevillo,     w,        <Channel name: kaicenat>,       2024-11-07 14:43:49.623018 
+
+ nfdevillo,     ww,        <Channel name: kaicenat>,       2024-11-07 14:43:59.746102 
+
+ nfdevillo,     www,        <Channel name: kaicenat>,       2024-11-07 14:44:05.268101 
+
+ nfdevillo,     W,        <Channel name: kaicenat>,       2024-11-07 14:44:16.756121 
+
+ nfdevillo,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:23.312296 
+
+ nfdevillo,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:29.448104 
+
+ nfdevillo,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:34.608064 
+
+ nfdevillo,     WWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:36.918429 
+
+ nfdevillo,     W,        <Channel name: kaicenat>,       2024-11-07 14:44:40.618483 
+
+ nfdevillo,     WW,        <Channel name: kaicenat>,       2024-11-07 14:44:49.789964 
+
+ nfdevillo,     W,        <Channel name: kaicenat>,       2024-11-07 14:44:52.189219 
+
+ nfdevillo,     WWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:55.945080 
+
+ nfdevillo,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 14:44:58.833300 
+
+ nfdevillo,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 14:45:01.476261 
+
+ nfdevillo,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 14:45:07.540564 
+
+ nfdevillo,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 14:45:11.316298 
+
+ nfdevillo,     WWW,        <Channel name: kaicenat>,       2024-11-07 14:45:14.227156 

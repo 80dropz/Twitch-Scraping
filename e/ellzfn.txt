@@ -1,0 +1,27 @@
+ellzfn,     888,        <Channel name: kaicenat>,       2024-11-07 16:30:52.543727 
+ellzfn,     8,        <Channel name: kaicenat>,       2024-11-07 16:30:53.744043 
+ellzfn,     8.5,        <Channel name: kaicenat>,       2024-11-07 16:30:59.461056 
+ellzfn,     8.5 bro,        <Channel name: kaicenat>,       2024-11-07 16:31:03.297927 
+ellzfn,     it’s not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:33:02.734822 
+ellzfn,     TURN THE HEAT UPP,        <Channel name: kaicenat>,       2024-11-07 16:33:10.365411 
+ellzfn,     TURN THE HEAR,        <Channel name: kaicenat>,       2024-11-07 16:33:42.252659 
+ellzfn,     MORE HEAT,        <Channel name: kaicenat>,       2024-11-07 16:33:45.104350 
+ellzfn,     MORE HEATTY,        <Channel name: kaicenat>,       2024-11-07 16:33:47.564643 
+ellzfn,     MAKE IT HOTTER,        <Channel name: kaicenat>,       2024-11-07 16:33:51.559730 
+ellzfn,     MORE HEAT,        <Channel name: kaicenat>,       2024-11-07 16:34:52.007134 
+ellzfn,     HEAT,        <Channel name: kaicenat>,       2024-11-07 16:34:57.756139 
+ellzfn,     HEAATTYT,        <Channel name: kaicenat>,       2024-11-07 16:35:00.025311 
+ellzfn,     HEATTT,        <Channel name: kaicenat>,       2024-11-07 16:35:01.333164 
+ellzfn,     INCREASE HEAT,        <Channel name: kaicenat>,       2024-11-07 16:35:20.418384 
+ellzfn,     bro,        <Channel name: kaicenat>,       2024-11-07 16:35:27.814186 
+ellzfn,     temp up nigga,        <Channel name: kaicenat>,       2024-11-07 16:37:42.014208 
+ellzfn,     bro temp up,        <Channel name: kaicenat>,       2024-11-07 16:37:46.583756 
+ellzfn,     turn up temp,        <Channel name: kaicenat>,       2024-11-07 16:37:51.628401 
+ellzfn,     turn up the temp dumb ah,        <Channel name: kaicenat>,       2024-11-07 16:40:01.216521 
+ellzfn,     HEAT IT UPPP,        <Channel name: kaicenat>,       2024-11-07 16:40:18.176550 
+ellzfn,     PUT TEMP UP,        <Channel name: kaicenat>,       2024-11-07 16:42:11.325771 
+ellzfn,     TEMP UP NOJJA,        <Channel name: kaicenat>,       2024-11-07 16:42:18.125654 
+ellzfn,     TEMP UP,        <Channel name: kaicenat>,       2024-11-07 16:42:20.599200 
+ellzfn,     SET HEAT GO 10,        <Channel name: kaicenat>,       2024-11-07 16:42:27.189869 
+ellzfn,     POOOL,        <Channel name: kaicenat>,       2024-11-07 16:56:08.635572 
+ellzfn,     GOOO,        <Channel name: kaicenat>,       2024-11-07 16:56:11.428056 

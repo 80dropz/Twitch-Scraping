@@ -4,3 +4,6 @@
  auwatchers,     T2G,        <Channel name: nadeshot>,       2024-11-07 02:38:19.045092 
 
  auwatchers,     self sabotage,        <Channel name: nadeshot>,       2024-11-07 02:42:13.301970 
+auwatchers,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:07:18.767023 
+auwatchers,     Zini let a warzone kid shit on him,        <Channel name: nadeshot>,       2024-11-07 16:33:57.505293 
+auwatchers,     that whole scrap clap is rubbing off,        <Channel name: nadeshot>,       2024-11-07 16:50:09.336266 

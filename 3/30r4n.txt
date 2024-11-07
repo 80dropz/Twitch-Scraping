@@ -1,0 +1,3 @@
+30r4n,     ........,        <Channel name: lacy>,       2024-11-07 16:18:46.702370 
+30r4n,     wt,        <Channel name: clix>,       2024-11-07 16:19:20.475842 
+30r4n,     wth,        <Channel name: clix>,       2024-11-07 16:19:22.723329 

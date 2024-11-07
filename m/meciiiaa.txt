@@ -6,3 +6,6 @@
  meciiiaa,     phone,        <Channel name: kaicenat>,       2024-11-07 13:19:34.538537 
 
  meciiiaa,     his phone,        <Channel name: kaicenat>,       2024-11-07 13:22:15.406632 
+meciiiaa,     go to 10,        <Channel name: kaicenat>,       2024-11-07 16:51:01.475216 
+meciiiaa,     10,        <Channel name: kaicenat>,       2024-11-07 16:52:48.078591 
+meciiiaa,     turn the heater to 10,        <Channel name: kaicenat>,       2024-11-07 16:53:07.693314 

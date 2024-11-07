@@ -1,0 +1,7 @@
+matalski,     yo,        <Channel name: pokelawls>,       2024-11-07 15:34:38.014522 
+matalski,     aga,        <Channel name: pokelawls>,       2024-11-07 15:36:24.356094 
+matalski,     Alright,        <Channel name: pokelawls>,       2024-11-07 15:37:18.641043 
+matalski,     aga,        <Channel name: pokelawls>,       2024-11-07 15:38:00.776034 
+matalski,     Glorp,        <Channel name: pokelawls>,       2024-11-07 15:42:40.958347 
+matalski,     :)),        <Channel name: pokelawls>,       2024-11-07 15:43:59.213411 
+matalski,     aga  w sponsor,        <Channel name: pokelawls>,       2024-11-07 15:45:16.308565 

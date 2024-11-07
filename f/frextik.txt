@@ -2,3 +2,5 @@
  frextik,     bro what,        <Channel name: mongraal>,       2024-11-07 11:43:21.856439 
 
  frextik,     !eor,        <Channel name: mongraal>,       2024-11-07 11:48:29.988959 
+frextik,     @rnrmaguire ??????????,        <Channel name: mongraal>,       2024-11-07 15:46:34.269567 
+frextik,     !followage,        <Channel name: mongraal>,       2024-11-07 16:02:12.220886 

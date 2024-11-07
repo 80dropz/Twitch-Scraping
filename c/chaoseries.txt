@@ -4,3 +4,5 @@
  chaoseries,     GG,        <Channel name: caseoh_>,       2024-11-07 01:47:56.910560 
 
  chaoseries,     WWWWWWWWWWW,        <Channel name: caseoh_>,       2024-11-07 01:49:05.076106 
+
+ chaoseries,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 14:46:44.533463 

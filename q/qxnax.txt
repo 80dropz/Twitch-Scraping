@@ -1,0 +1,15 @@
+qxnax,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:25.868455 
+qxnax,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:54.805606 
+qxnax,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:40.530934 
+qxnax,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:03:22.811447 
+qxnax,     KappaPride,        <Channel name: stableronaldo>,       2024-11-07 16:04:37.039151 
+qxnax,     ta,        <Channel name: stableronaldo>,       2024-11-07 16:10:50.497199 
+qxnax,     stfu,        <Channel name: stableronaldo>,       2024-11-07 16:11:42.955715 
+qxnax,     real,        <Channel name: stableronaldo>,       2024-11-07 16:13:12.724031 
+qxnax,     fire,        <Channel name: stableronaldo>,       2024-11-07 16:13:42.255509 
+qxnax,     u just started it,        <Channel name: stableronaldo>,       2024-11-07 16:14:20.146600 
+qxnax,     lacy,        <Channel name: stableronaldo>,       2024-11-07 16:15:43.306821 
+qxnax,     stabeTA,        <Channel name: stableronaldo>,       2024-11-07 16:16:32.695754 
+qxnax,     say no,        <Channel name: stableronaldo>,       2024-11-07 16:19:12.385997 
+qxnax,     nah,        <Channel name: stableronaldo>,       2024-11-07 16:26:21.472867 
+qxnax,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:27.607445 

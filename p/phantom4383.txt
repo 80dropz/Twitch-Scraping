@@ -1,0 +1,2 @@
+phantom4383,     !sens,        <Channel name: mongraal>,       2024-11-07 15:36:12.666515 
+phantom4383,     !dpi,        <Channel name: mongraal>,       2024-11-07 15:36:22.094023 

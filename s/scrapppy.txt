@@ -1,0 +1,6 @@
+scrapppy,     ironic,        <Channel name: lacy>,       2024-11-07 15:45:33.293715 
+scrapppy,     rip,        <Channel name: lacy>,       2024-11-07 15:45:39.819720 
+scrapppy,     shrimp alfredo,        <Channel name: lacy>,       2024-11-07 15:46:37.142050 
+scrapppy,     Lmfaooo,        <Channel name: lacy>,       2024-11-07 15:50:32.683262 
+scrapppy,     thats hot,        <Channel name: lacy>,       2024-11-07 15:50:44.406309 
+scrapppy,     call alexa again,        <Channel name: lacy>,       2024-11-07 15:51:33.710104 

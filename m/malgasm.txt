@@ -44,3 +44,5 @@
  malgasm,     LMFAO LMFAO LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:27:54.520395 
 
  malgasm,     sub count is off center,        <Channel name: kaicenat>,       2024-11-07 13:31:04.736188 
+malgasm,     w,        <Channel name: pokelawls>,       2024-11-07 15:40:01.019257 
+malgasm,     MrDestructoid we in,        <Channel name: pokelawls>,       2024-11-07 15:40:18.918349 

@@ -1,2 +1,5 @@
 
  jpvenom19,     gm,        <Channel name: nadeshot>,       2024-11-07 11:12:05.661286 
+jpvenom19,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:51:56.840046 
+jpvenom19,     <Message Gooned on by Nade>,        <Channel name: nadeshot>,       2024-11-07 15:54:07.176697 
+jpvenom19,     @Nadeshot Yo its me Scrap on my burner can I get a raise,        <Channel name: nadeshot>,       2024-11-07 15:54:39.030271 

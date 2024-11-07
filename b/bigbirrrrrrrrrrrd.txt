@@ -1,0 +1,3 @@
+bigbirrrrrrrrrrrd,     CAp,        <Channel name: stableronaldo>,       2024-11-07 16:06:41.273481 
+bigbirrrrrrrrrrrd,     IN N OUT,        <Channel name: stableronaldo>,       2024-11-07 16:08:05.591512 
+bigbirrrrrrrrrrrd,     ????????,        <Channel name: stableronaldo>,       2024-11-07 16:08:33.693071 

@@ -1,0 +1,28 @@
+doose2x,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:00.021515 
+doose2x,     lmfao,        <Channel name: stableronaldo>,       2024-11-07 16:04:28.735971 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:31.517268 
+doose2x,     WW MOM,        <Channel name: stableronaldo>,       2024-11-07 16:07:25.751093 
+doose2x,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:43.051450 
+doose2x,     RT FAX,        <Channel name: stableronaldo>,       2024-11-07 16:07:57.001338 
+doose2x,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:08:34.386108 
+doose2x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:49.737525 
+doose2x,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:09:03.094115 
+doose2x,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:06.485440 
+doose2x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:58.137582 
+doose2x,     we couldnt even hear it,        <Channel name: stableronaldo>,       2024-11-07 16:11:46.500500 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:48.785890 
+doose2x,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:14:58.505799 
+doose2x,     LMAOOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:15:15.958870 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:48.692697 
+doose2x,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:17:00.629102 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:17:43.554091 
+doose2x,     MMMMMMMMM,        <Channel name: stableronaldo>,       2024-11-07 16:19:48.389962 
+doose2x,     O,        <Channel name: stableronaldo>,       2024-11-07 16:21:04.420138 
+doose2x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:21.937623 
+doose2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:42.741585 
+doose2x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:33.902549 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:55.898650 
+doose2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:00.223089 
+doose2x,     ????,        <Channel name: stableronaldo>,       2024-11-07 16:25:27.993377 
+doose2x,     im ronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:25:48.690542 
+doose2x,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:26:45.002801 

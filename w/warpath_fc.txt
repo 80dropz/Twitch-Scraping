@@ -1,0 +1,4 @@
+warpath_fc,     What's formals squad?,        <Channel name: formal>,       2024-11-07 16:10:11.155443 
+warpath_fc,     Were the squads picked randomly?,        <Channel name: formal>,       2024-11-07 16:11:09.991243 
+warpath_fc,     BAGGIO',        <Channel name: formal>,       2024-11-07 16:32:16.729138 
+warpath_fc,     NICE!!!,        <Channel name: formal>,       2024-11-07 16:37:30.936194 

@@ -6,3 +6,5 @@
  cofeiin,     f,        <Channel name: lacy>,       2024-11-07 13:24:58.765066 
 
  cofeiin,     FFFF,        <Channel name: lacy>,       2024-11-07 13:30:49.116355 
+cofeiin,     xdd,        <Channel name: clix>,       2024-11-07 15:33:19.392720 
+cofeiin,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 16:44:54.690121 

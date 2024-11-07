@@ -1,0 +1,6 @@
+gavext,     hola clixxxxxxxxxxxx,        <Channel name: clix>,       2024-11-07 16:12:43.566950 
+gavext,     clix you r professional,        <Channel name: clix>,       2024-11-07 16:16:13.299805 
+gavext,     use my wood,        <Channel name: clix>,       2024-11-07 16:16:56.159958 
+gavext,     mid,        <Channel name: clix>,       2024-11-07 16:17:22.325937 
+gavext,     he pro,        <Channel name: clix>,       2024-11-07 16:17:37.115656 
+gavext,     what a swing,        <Channel name: clix>,       2024-11-07 16:17:57.304156 

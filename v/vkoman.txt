@@ -1,0 +1,2 @@
+vkoman,     go to europe,        <Channel name: clix>,       2024-11-07 15:48:08.996768 
+vkoman,     what song it is,        <Channel name: clix>,       2024-11-07 15:49:38.736989 

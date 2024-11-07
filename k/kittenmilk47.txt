@@ -6,3 +6,4 @@
  kittenmilk47,     fax,        <Channel name: mongraal>,       2024-11-07 11:12:11.342972 
 
  kittenmilk47,     !delay,        <Channel name: mongraal>,       2024-11-07 12:22:29.809449 
+kittenmilk47,     !points,        <Channel name: mongraal>,       2024-11-07 15:46:28.725894 

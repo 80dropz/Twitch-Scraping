@@ -1,0 +1,6 @@
+zaachny,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:41:11.409158 
+zaachny,     !points,        <Channel name: kaicenat>,       2024-11-07 15:41:39.645502 
+zaachny,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:41:47.492426 
+zaachny,     !points,        <Channel name: kaicenat>,       2024-11-07 15:42:17.520301 
+zaachny,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:42:27.707726 
+zaachny,     !points,        <Channel name: kaicenat>,       2024-11-07 15:42:46.710638 

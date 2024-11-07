@@ -1,0 +1,18 @@
+kylercope,     poor water on the heater,        <Channel name: kaicenat>,       2024-11-07 16:25:44.244179 
+kylercope,     poor water on the heater,        <Channel name: kaicenat>,       2024-11-07 16:26:28.222785 
+kylercope,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.196565 
+kylercope,     a lot of,        <Channel name: kaicenat>,       2024-11-07 16:28:13.407464 
+kylercope,     do it,        <Channel name: kaicenat>,       2024-11-07 16:33:04.123830 
+kylercope,     10,        <Channel name: kaicenat>,       2024-11-07 16:33:39.992279 
+kylercope,     1010,        <Channel name: kaicenat>,       2024-11-07 16:33:54.158931 
+kylercope,     10,        <Channel name: kaicenat>,       2024-11-07 16:33:56.170249 
+kylercope,     1,        <Channel name: kaicenat>,       2024-11-07 16:34:24.134152 
+kylercope,     10,        <Channel name: kaicenat>,       2024-11-07 16:34:31.784979 
+kylercope,     1010,        <Channel name: kaicenat>,       2024-11-07 16:34:36.193364 
+kylercope,     10,        <Channel name: kaicenat>,       2024-11-07 16:34:53.913956 
+kylercope,     PUT IT ON 10,        <Channel name: kaicenat>,       2024-11-07 16:35:32.401754 
+kylercope,     PUT IT ON 10,        <Channel name: kaicenat>,       2024-11-07 16:36:08.498165 
+kylercope,     MORE WATER,        <Channel name: kaicenat>,       2024-11-07 16:39:02.864899 
+kylercope,     MORE WATER,        <Channel name: kaicenat>,       2024-11-07 16:39:34.677596 
+kylercope,     more water,        <Channel name: kaicenat>,       2024-11-07 16:44:25.773140 
+kylercope,     more water,        <Channel name: kaicenat>,       2024-11-07 16:44:55.825650 

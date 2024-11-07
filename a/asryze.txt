@@ -1,0 +1,3 @@
+asryze,     CAUGHT,        <Channel name: lacy>,       2024-11-07 16:20:35.326984 
+asryze,     yes,        <Channel name: lacy>,       2024-11-07 16:23:01.967215 
+asryze,     L ego,        <Channel name: lacy>,       2024-11-07 16:24:03.659497 

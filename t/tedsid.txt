@@ -1,0 +1,5 @@
+tedsid,     @Lloydz lollllll,        <Channel name: mongraal>,       2024-11-07 16:51:59.571557 
+tedsid,     7,        <Channel name: mongraal>,       2024-11-07 16:53:07.092140 
+tedsid,     8,        <Channel name: mongraal>,       2024-11-07 16:53:10.873607 
+tedsid,     9,        <Channel name: mongraal>,       2024-11-07 16:53:15.612838 
+tedsid,     bro is doin em push ups,        <Channel name: mongraal>,       2024-11-07 16:55:01.735540 

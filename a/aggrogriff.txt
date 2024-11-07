@@ -1,0 +1,5 @@
+aggrogriff,     1,        <Channel name: swagg>,       2024-11-07 16:15:55.763980 
+aggrogriff,     1,        <Channel name: swagg>,       2024-11-07 16:55:03.833316 
+aggrogriff,     w,        <Channel name: swagg>,       2024-11-07 16:55:04.910882 
+aggrogriff,     w,        <Channel name: swagg>,       2024-11-07 16:55:42.171922 
+aggrogriff,     ww,        <Channel name: swagg>,       2024-11-07 16:56:08.584564 

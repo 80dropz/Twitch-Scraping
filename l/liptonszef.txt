@@ -1,0 +1,4 @@
+liptonszef,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:13:52.003345 
+liptonszef,     !settings,        <Channel name: mongraal>,       2024-11-07 16:29:06.115255 
+liptonszef,     !res\,        <Channel name: mongraal>,       2024-11-07 16:40:24.689564 
+liptonszef,     !res,        <Channel name: mongraal>,       2024-11-07 16:40:26.189307 

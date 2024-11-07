@@ -14,3 +14,6 @@
  tenthave,     PackTime,        <Channel name: pokelawls>,       2024-11-07 11:31:32.498958 
 
  tenthave,     OuttaPocket cari trying to narc,        <Channel name: pokelawls>,       2024-11-07 13:14:02.546222 
+
+ tenthave,     whale im in discord with these guy Okay,        <Channel name: pokelawls>,       2024-11-07 14:44:41.433294 
+tenthave,     dogArrive,        <Channel name: pokelawls>,       2024-11-07 15:31:53.338684 

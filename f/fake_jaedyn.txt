@@ -70,3 +70,60 @@
  fake_jaedyn,     WW 230K kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:30:53.201864 
 
  fake_jaedyn,     WW 230k kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:31:32.945060 
+
+ fake_jaedyn,     oldest kai viewer,        <Channel name: kaicenat>,       2024-11-07 14:47:30.471309 
+
+ fake_jaedyn,     DUKE,        <Channel name: kaicenat>,       2024-11-07 14:50:32.668023 
+
+ fake_jaedyn,     wedding band and engagement ring,        <Channel name: kaicenat>,       2024-11-07 14:54:46.861020 
+
+ fake_jaedyn,     yes,        <Channel name: kaicenat>,       2024-11-07 15:25:03.944302 
+fake_jaedyn,     Listening,        <Channel name: kaicenat>,       2024-11-07 15:56:57.168743 
+fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 15:57:22.991258 
+fake_jaedyn,     Dance,        <Channel name: kaicenat>,       2024-11-07 15:58:21.757570 
+fake_jaedyn,     PYT,        <Channel name: kaicenat>,       2024-11-07 15:58:39.807901 
+fake_jaedyn,     Dance,        <Channel name: kaicenat>,       2024-11-07 15:58:43.878550 
+fake_jaedyn,     WW,        <Channel name: kaicenat>,       2024-11-07 16:16:24.807850 
+fake_jaedyn,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:37.729106 
+fake_jaedyn,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:42.475530 
+fake_jaedyn,     ome30,        <Channel name: kaicenat>,       2024-11-07 16:36:21.544330 
+fake_jaedyn,     BODACIOUS,        <Channel name: kaicenat>,       2024-11-07 16:36:39.546783 
+fake_jaedyn,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:43.673369 
+fake_jaedyn,     HOT IN HERE ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:18.042497 
+fake_jaedyn,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:22.696889 
+fake_jaedyn,     CLOTHES OFF,        <Channel name: kaicenat>,       2024-11-07 16:37:26.709814 
+fake_jaedyn,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:30.084964 
+fake_jaedyn,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:38:35.324557 
+fake_jaedyn,     Jamgie,        <Channel name: kaicenat>,       2024-11-07 16:41:24.728733 
+fake_jaedyn,     CLOSEEE,        <Channel name: kaicenat>,       2024-11-07 16:41:30.130168 
+fake_jaedyn,     FOREVERRR,        <Channel name: kaicenat>,       2024-11-07 16:41:34.419823 
+fake_jaedyn,     SURE,        <Channel name: kaicenat>,       2024-11-07 16:41:41.299653 
+fake_jaedyn,     BETTER,        <Channel name: kaicenat>,       2024-11-07 16:41:45.729306 
+fake_jaedyn,     Jamgie,        <Channel name: kaicenat>,       2024-11-07 16:41:48.450018 
+fake_jaedyn,     NIGHTS,        <Channel name: kaicenat>,       2024-11-07 16:41:53.086099 
+fake_jaedyn,     ALRIGHT,        <Channel name: kaicenat>,       2024-11-07 16:41:56.697720 
+fake_jaedyn,     ALRIGHTTT,        <Channel name: kaicenat>,       2024-11-07 16:42:08.894510 
+fake_jaedyn,     NO ONE,        <Channel name: kaicenat>,       2024-11-07 16:42:11.191493 
+fake_jaedyn,     NO ONEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:42:15.508749 
+fake_jaedyn,     Jamgie,        <Channel name: kaicenat>,       2024-11-07 16:42:18.578001 
+fake_jaedyn,     DOWNNN,        <Channel name: kaicenat>,       2024-11-07 16:42:45.757863 
+fake_jaedyn,     HURTING,        <Channel name: kaicenat>,       2024-11-07 16:42:51.437810 
+fake_jaedyn,     AROUNDDD,        <Channel name: kaicenat>,       2024-11-07 16:42:56.775352 
+fake_jaedyn,     CERTAIN,        <Channel name: kaicenat>,       2024-11-07 16:43:02.099774 
+fake_jaedyn,     Jamgie,        <Channel name: kaicenat>,       2024-11-07 16:43:06.487629 
+fake_jaedyn,     ALRIGHTTTT,        <Channel name: kaicenat>,       2024-11-07 16:43:22.222022 
+fake_jaedyn,     NO ONE,        <Channel name: kaicenat>,       2024-11-07 16:43:26.044444 
+fake_jaedyn,     NO ONEEEE,        <Channel name: kaicenat>,       2024-11-07 16:43:29.600668 
+fake_jaedyn,     Jamgie,        <Channel name: kaicenat>,       2024-11-07 16:43:33.925443 
+fake_jaedyn,     O O OOOOO,        <Channel name: kaicenat>,       2024-11-07 16:44:54.434671 
+fake_jaedyn,     OHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:45:00.351949 
+fake_jaedyn,     it is,        <Channel name: kaicenat>,       2024-11-07 16:45:07.486825 
+fake_jaedyn,     STICKYYYY wideduckass,        <Channel name: kaicenat>,       2024-11-07 16:48:34.136377 
+fake_jaedyn,     ITS GETTING STICKYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:46.328923 
+fake_jaedyn,     wideduckass,        <Channel name: kaicenat>,       2024-11-07 16:49:23.195987 
+fake_jaedyn,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:53:04.473681 
+fake_jaedyn,     SLEEP,        <Channel name: kaicenat>,       2024-11-07 16:53:14.177856 
+fake_jaedyn,     YOU OR ME,        <Channel name: kaicenat>,       2024-11-07 16:53:20.578010 
+fake_jaedyn,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:53:24.902399 
+fake_jaedyn,     moshin FIGHTING MY DEMONS,        <Channel name: kaicenat>,       2024-11-07 16:54:14.870542 
+fake_jaedyn,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:18.967585 

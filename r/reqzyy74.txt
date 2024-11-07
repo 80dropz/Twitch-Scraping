@@ -1,2 +1,5 @@
 
  reqzyy74,     THEY ARE IN COMP,        <Channel name: mongraal>,       2024-11-07 11:49:22.802856 
+reqzyy74,     20 ping,        <Channel name: clix>,       2024-11-07 15:47:32.130959 
+reqzyy74,     rt,        <Channel name: clix>,       2024-11-07 15:49:10.085565 
+reqzyy74,     fax,        <Channel name: clix>,       2024-11-07 16:08:34.248466 

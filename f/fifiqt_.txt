@@ -1,0 +1,2 @@
+fifiqt_,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:24:01.950500 
+fifiqt_,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:05.365900 

@@ -1,0 +1,5 @@
+slimbutshady2,     play your song,        <Channel name: kaicenat>,       2024-11-07 16:51:42.448580 
+slimbutshady2,     bop,        <Channel name: kaicenat>,       2024-11-07 16:51:44.481094 
+slimbutshady2,     play bop,        <Channel name: kaicenat>,       2024-11-07 16:52:01.832692 
+slimbutshady2,     BOP,        <Channel name: kaicenat>,       2024-11-07 16:52:12.379832 
+slimbutshady2,     PLAY BOPPPO,        <Channel name: kaicenat>,       2024-11-07 16:52:17.856544 

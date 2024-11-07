@@ -1,2 +1,8 @@
 
  rarilowkey,     hm,        <Channel name: kaicenat>,       2024-11-07 12:01:29.478458 
+rarilowkey,     w,        <Channel name: swagg>,       2024-11-07 16:55:50.020341 
+rarilowkey,     we,        <Channel name: swagg>,       2024-11-07 16:55:59.407943 
+rarilowkey,     www,        <Channel name: swagg>,       2024-11-07 16:56:01.708407 
+rarilowkey,     w,        <Channel name: swagg>,       2024-11-07 16:56:04.532571 
+rarilowkey,     wwww,        <Channel name: swagg>,       2024-11-07 16:56:08.848440 
+rarilowkey,     w,        <Channel name: swagg>,       2024-11-07 16:56:11.172848 

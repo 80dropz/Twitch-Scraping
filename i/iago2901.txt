@@ -1,0 +1,3 @@
+iago2901,     !static,        <Channel name: swagg>,       2024-11-07 16:04:45.974223 
+iago2901,     !sensi,        <Channel name: swagg>,       2024-11-07 16:09:24.817555 
+iago2901,     !config,        <Channel name: swagg>,       2024-11-07 16:09:40.309600 

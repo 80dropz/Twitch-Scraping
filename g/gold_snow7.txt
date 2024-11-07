@@ -1,2 +1,4 @@
 
  gold_snow7,     Naked,        <Channel name: lacy>,       2024-11-07 13:02:39.440151 
+gold_snow7,     D:,        <Channel name: lacy>,       2024-11-07 15:50:25.180701 
+gold_snow7,     L abuser,        <Channel name: lacy>,       2024-11-07 16:02:15.974817 

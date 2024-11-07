@@ -1,0 +1,7 @@
+yenx_ttv,     use ur shirt to wave the air around,        <Channel name: kaicenat>,       2024-11-07 16:29:31.765569 
+yenx_ttv,     get ur phone out,        <Channel name: kaicenat>,       2024-11-07 16:33:36.003921 
+yenx_ttv,     no phone,        <Channel name: kaicenat>,       2024-11-07 16:33:40.781930 
+yenx_ttv,     the sauna is done,        <Channel name: kaicenat>,       2024-11-07 16:41:24.014224 
+yenx_ttv,     put a spoon on,        <Channel name: kaicenat>,       2024-11-07 16:45:57.600095 
+yenx_ttv,     a spoon,        <Channel name: kaicenat>,       2024-11-07 16:46:04.967830 
+yenx_ttv,     and wave it around,        <Channel name: kaicenat>,       2024-11-07 16:46:08.458908 

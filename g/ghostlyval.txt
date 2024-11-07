@@ -1,0 +1,17 @@
+ghostlyval,     i was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:28.626162 
+ghostlyval,     LL SHIFT,        <Channel name: stableronaldo>,       2024-11-07 16:09:46.650539 
+ghostlyval,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:41.734837 
+ghostlyval,     ITS LACY ome32,        <Channel name: stableronaldo>,       2024-11-07 16:15:46.657878 
+ghostlyval,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:17:05.827684 
+ghostlyval,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:17:14.511902 
+ghostlyval,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:17:48.958956 
+ghostlyval,     ome23,        <Channel name: stableronaldo>,       2024-11-07 16:18:44.701019 
+ghostlyval,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.290040 
+ghostlyval,     WW WW WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:50.220649 
+ghostlyval,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:27.660279 
+ghostlyval,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:28.720208 
+ghostlyval,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:24:58.423989 
+ghostlyval,     im ronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:25:52.404245 
+ghostlyval,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:53.615190 
+ghostlyval,     IM RONALDO TAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:04.733932 
+ghostlyval,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:19.075779 

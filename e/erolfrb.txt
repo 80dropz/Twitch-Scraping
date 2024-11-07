@@ -1,2 +1,4 @@
 
  erolfrb,     !crosshair,        <Channel name: mongraal>,       2024-11-07 09:12:03.229516 
+erolfrb,     !watchtime,        <Channel name: clix>,       2024-11-07 15:31:50.330460 
+erolfrb,     hey,        <Channel name: clix>,       2024-11-07 15:32:25.401660 

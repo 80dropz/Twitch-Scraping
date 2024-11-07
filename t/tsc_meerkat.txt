@@ -1,0 +1,10 @@
+
+ tsc_meerkat,     LMFAO,        <Channel name: lacy>,       2024-11-07 14:45:12.051113 
+tsc_meerkat,     W,        <Channel name: stableronaldo>,       2024-11-07 15:57:19.306320 
+tsc_meerkat,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:57:21.883212 
+tsc_meerkat,     ome44,        <Channel name: stableronaldo>,       2024-11-07 15:57:45.107301 
+tsc_meerkat,     omfg drew, why are you swaying so much arky and allan clear ur fuckin ass,        <Channel name: lacy>,       2024-11-07 16:09:28.333503 
+tsc_meerkat,     no,        <Channel name: lacy>,       2024-11-07 16:11:29.950358 
+tsc_meerkat,     its elements dawg,        <Channel name: lacy>,       2024-11-07 16:11:43.528573 
+tsc_meerkat,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:21:04.192450 
+tsc_meerkat,     LMAOO,        <Channel name: stableronaldo>,       2024-11-07 16:23:08.443540 

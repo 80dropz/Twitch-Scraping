@@ -1,0 +1,19 @@
+
+ licqid,     !bop !bop !bop,        <Channel name: kaicenat>,       2024-11-07 15:26:34.520142 
+
+ licqid,     !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:39.380094 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:43.778929 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:46.270030 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:48.819629 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:53.792146 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:26:57.725667 
+
+ licqid,     !duel !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:27:05.909116 
+
+ licqid,     !duel !duel !duel,        <Channel name: kaicenat>,       2024-11-07 15:27:08.880414 
+licqid,     yvl,        <Channel name: kaicenat>,       2024-11-07 16:47:00.412071 

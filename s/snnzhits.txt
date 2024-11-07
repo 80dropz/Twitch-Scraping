@@ -1,0 +1,3 @@
+snnzhits,     !tro,        <Channel name: clix>,       2024-11-07 15:53:57.172824 
+snnzhits,     !trio,        <Channel name: clix>,       2024-11-07 15:54:04.285108 
+snnzhits,     !trio,        <Channel name: clix>,       2024-11-07 15:54:47.313393 

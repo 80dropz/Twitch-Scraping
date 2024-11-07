@@ -92,3 +92,9 @@
  scorpy_twitch_test,     -carti nemo got dark matter on ars isnt that badass,        <Channel name: gilbert_irl>,       2024-11-07 02:21:58.239481 
 
  scorpy_twitch_test,     dabosskiller_, @nasdeh i wish bro, <Channel name: gilbert_irl>, 2024-11-07 02:17:44.115498 dabosskiller_, Yeah i finna go crazy tmr., <Channel name: gilbert_irl>, 2024-11-07 02:18:06.476815 dabosskiller_, this lacy lina dream mall stream gonna HIT, <Channel name: gilbert_irl>, 2024-11-07 02:18:47.479040 dabosskiller_, ill stop asking clipping questions after this one. on tiktok i posted 2 videos and they are,        <Channel name: gilbert_irl>,       2024-11-07 02:22:55.679353 
+scorpy_twitch_test,     test,        <Channel name: gilbert_irl>,       2024-11-07 15:28:52.600483 
+scorpy_twitch_test,     YOOO,        <Channel name: gilbert_irl>,       2024-11-07 15:28:57.576279 
+scorpy_twitch_test,     test,        <Channel name: kaicenat>,       2024-11-07 15:35:50.209996 
+scorpy_twitch_test,     -echo yo @scorpyl2,        <Channel name: lacy>,       2024-11-07 15:37:20.817328 
+scorpy_twitch_test,     -weather ca,        <Channel name: lacy>,       2024-11-07 15:37:43.390283 
+scorpy_twitch_test,     @scorpyl2 i know your in here boy,        <Channel name: lacy>,       2024-11-07 15:38:24.134330 

@@ -1,2 +1,5 @@
 
  easttyx,     hi,        <Channel name: clix>,       2024-11-07 13:30:50.944689 
+easttyx,     discord,        <Channel name: clix>,       2024-11-07 15:42:28.027819 
+easttyx,     !discord,        <Channel name: clix>,       2024-11-07 15:42:41.474214 
+easttyx,     !discord,        <Channel name: clix>,       2024-11-07 15:43:35.653345 

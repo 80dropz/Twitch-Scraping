@@ -1,0 +1,2 @@
+bounceycake,     !duo,        <Channel name: clix>,       2024-11-07 16:25:44.223571 
+bounceycake,     !trio,        <Channel name: clix>,       2024-11-07 16:25:56.108312 

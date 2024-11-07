@@ -6,3 +6,5 @@
  miushell,     WTF ya la tienes,        <Channel name: vickypalami>,       2024-11-07 01:57:48.677006 
 
  miushell,     WTF sisi, es invisible,        <Channel name: vickypalami>,       2024-11-07 01:58:41.504597 
+miushell,     ¿taco,        <Channel name: vickypalami>,       2024-11-07 16:43:49.053734 
+miushell,     um,        <Channel name: vickypalami>,       2024-11-07 16:43:51.722754 

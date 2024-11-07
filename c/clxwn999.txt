@@ -1,0 +1,5 @@
+clxwn999,     HIIIIII,        <Channel name: stableronaldo>,       2024-11-07 15:55:47.824204 
+clxwn999,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:54.067209 
+clxwn999,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:56:24.485486 
+clxwn999,     CARRIED,        <Channel name: stableronaldo>,       2024-11-07 15:56:28.731776 
+clxwn999,     NAH,        <Channel name: stableronaldo>,       2024-11-07 15:57:10.609171 

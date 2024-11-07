@@ -1,0 +1,4 @@
+detroitmase,     1,        <Channel name: swagg>,       2024-11-07 16:15:49.622961 
+detroitmase,     1,        <Channel name: swagg>,       2024-11-07 16:54:03.755103 
+detroitmase,     WWWWWWWWWWWWWWWWWWW,        <Channel name: swagg>,       2024-11-07 16:54:08.445642 
+detroitmase,     1,        <Channel name: swagg>,       2024-11-07 16:54:11.872734 

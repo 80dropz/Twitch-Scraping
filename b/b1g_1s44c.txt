@@ -1,0 +1,3 @@
+b1g_1s44c,     sstop sniping,        <Channel name: adapt>,       2024-11-07 15:32:29.928033 
+b1g_1s44c,     plz,        <Channel name: adapt>,       2024-11-07 15:32:33.286781 
+b1g_1s44c,     stoop ssniping,        <Channel name: adapt>,       2024-11-07 15:32:38.053601 

@@ -20,3 +20,4 @@
  thegreatarthur_dk,     GG,        <Channel name: nickeh30>,       2024-11-07 12:22:56.853803 
 
  thegreatarthur_dk,     !pc,        <Channel name: nickeh30>,       2024-11-07 12:24:42.772692 
+thegreatarthur_dk,     Woah,        <Channel name: nickeh30>,       2024-11-07 15:40:40.050399 

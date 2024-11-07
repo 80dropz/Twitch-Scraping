@@ -1,0 +1,3 @@
+bravt0,     !monitor,        <Channel name: mongraal>,       2024-11-07 16:41:07.545637 
+bravt0,     !mouse,        <Channel name: mongraal>,       2024-11-07 16:42:34.371517 
+bravt0,     !sens,        <Channel name: mongraal>,       2024-11-07 16:42:38.177212 

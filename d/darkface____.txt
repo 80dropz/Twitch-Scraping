@@ -1,0 +1,7 @@
+darkface____,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:54:44.064139 
+darkface____,     O7,        <Channel name: stableronaldo>,       2024-11-07 15:59:45.029827 
+darkface____,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:00:05.905545 
+darkface____,     mhm,        <Channel name: stableronaldo>,       2024-11-07 16:00:35.112654 
+darkface____,     no,        <Channel name: stableronaldo>,       2024-11-07 16:03:39.242698 
+darkface____,     mhm,        <Channel name: stableronaldo>,       2024-11-07 16:06:45.169998 
+darkface____,     omeStare,        <Channel name: stableronaldo>,       2024-11-07 16:08:58.270115 

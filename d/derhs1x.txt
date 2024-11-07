@@ -1,0 +1,7 @@
+derhs1x,     !res,        <Channel name: mongraal>,       2024-11-07 16:38:00.915381 
+derhs1x,     !sens,        <Channel name: mongraal>,       2024-11-07 16:38:25.080741 
+derhs1x,     !buildsense,        <Channel name: mongraal>,       2024-11-07 16:38:31.431843 
+derhs1x,     !buildsens,        <Channel name: mongraal>,       2024-11-07 16:38:34.418504 
+derhs1x,     !edit,        <Channel name: mongraal>,       2024-11-07 16:38:40.069591 
+derhs1x,     !dpi,        <Channel name: mongraal>,       2024-11-07 16:38:59.245923 
+derhs1x,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:39:26.472270 

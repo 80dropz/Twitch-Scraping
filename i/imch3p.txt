@@ -1,0 +1,6 @@
+
+ imch3p,     W,        <Channel name: kaicenat>,       2024-11-07 14:53:35.822309 
+
+ imch3p,     w,        <Channel name: kaicenat>,       2024-11-07 14:54:04.756900 
+
+ imch3p,     no,        <Channel name: kaicenat>,       2024-11-07 14:54:16.407775 

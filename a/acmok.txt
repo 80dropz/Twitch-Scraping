@@ -1,0 +1,6 @@
+acmok,     !bracket,        <Channel name: adapt>,       2024-11-07 15:32:36.222489 
+acmok,     drazah is frying,        <Channel name: adapt>,       2024-11-07 15:44:27.959875 
+acmok,     sym should snipe hes mnk,        <Channel name: adapt>,       2024-11-07 15:47:33.862612 
+acmok,     EWW,        <Channel name: stableronaldo>,       2024-11-07 16:13:57.335276 
+acmok,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:14:10.071652 
+acmok,     it is,        <Channel name: stableronaldo>,       2024-11-07 16:14:24.019801 

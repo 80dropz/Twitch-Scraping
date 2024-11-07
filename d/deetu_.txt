@@ -8,3 +8,18 @@
  deetu_,     Belarus,        <Channel name: shadowkekw>,       2024-11-07 10:14:23.433099 
 
  deetu_,     JP,        <Channel name: shadowkekw>,       2024-11-07 10:15:20.755174 
+deetu_,     !points,        <Channel name: kaicenat>,       2024-11-07 15:28:33.521974 
+deetu_,     !slots 200,        <Channel name: kaicenat>,       2024-11-07 15:28:33.586338 
+deetu_,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:28:36.544520 
+deetu_,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:39:53.410853 
+deetu_,     naaah\,        <Channel name: kaicenat>,       2024-11-07 15:39:57.683171 
+deetu_,     W,        <Channel name: kaicenat>,       2024-11-07 15:40:36.082239 
+deetu_,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 15:42:49.474603 
+deetu_,     !roulette 1300,        <Channel name: kaicenat>,       2024-11-07 15:42:57.260671 
+deetu_,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 15:43:05.619337 
+deetu_,     w,        <Channel name: kaicenat>,       2024-11-07 15:43:09.806742 
+deetu_,     !points,        <Channel name: kaicenat>,       2024-11-07 15:51:26.799367 
+deetu_,     W SONG,        <Channel name: kaicenat>,       2024-11-07 15:52:03.770026 
+deetu_,     I CAN SEE THE FUTURE,        <Channel name: kaicenat>,       2024-11-07 15:53:58.155081 
+deetu_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:54:57.050654 
+deetu_,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:55:40.921458 

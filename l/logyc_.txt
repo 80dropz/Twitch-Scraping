@@ -1,2 +1,4 @@
 
  logyc_,     WW,        <Channel name: jasontheween>,       2024-11-07 01:57:23.744855 
+logyc_,     ye,        <Channel name: pokelawls>,       2024-11-07 15:43:40.417705 
+logyc_,     LOL,        <Channel name: pokelawls>,       2024-11-07 15:49:42.338727 

@@ -1,0 +1,3 @@
+bitt_ark,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 15:30:56.911488 
+bitt_ark,     kaicTOXIC kaicPray,        <Channel name: kaicenat>,       2024-11-07 15:35:25.693909 
+bitt_ark,     kaicPray kaicPray kaicPray kaicPray kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 15:35:33.683974 

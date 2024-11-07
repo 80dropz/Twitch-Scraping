@@ -14,3 +14,26 @@
  thatdude_45,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:32:05.481423 
 
  thatdude_45,     yes,        <Channel name: lacy>,       2024-11-07 13:36:41.070874 
+thatdude_45,     WW,        <Channel name: lacy>,       2024-11-07 15:28:33.515961 
+thatdude_45,     F,        <Channel name: lacy>,       2024-11-07 15:30:49.706461 
+thatdude_45,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:32:39.097838 
+thatdude_45,     uuh,        <Channel name: lacy>,       2024-11-07 15:43:25.638523 
+thatdude_45,     uuh,        <Channel name: lacy>,       2024-11-07 15:50:45.844837 
+thatdude_45,     WEDIDIT,        <Channel name: lacy>,       2024-11-07 15:54:29.201333 
+thatdude_45,     uuh,        <Channel name: lacy>,       2024-11-07 15:55:11.012113 
+thatdude_45,     jorkin,        <Channel name: lacy>,       2024-11-07 15:59:12.280452 
+thatdude_45,     rt,        <Channel name: lacy>,       2024-11-07 16:01:35.008701 
+thatdude_45,     uuh,        <Channel name: lacy>,       2024-11-07 16:03:52.591152 
+thatdude_45,     gg,        <Channel name: lacy>,       2024-11-07 16:12:52.536444 
+thatdude_45,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:13:02.415764 
+thatdude_45,     ta,        <Channel name: lacy>,       2024-11-07 16:14:30.960624 
+thatdude_45,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:34.706611 
+thatdude_45,     NOWAY,        <Channel name: lacy>,       2024-11-07 16:15:37.657858 
+thatdude_45,     HUH,        <Channel name: lacy>,       2024-11-07 16:16:29.194167 
+thatdude_45,     gg,        <Channel name: lacy>,       2024-11-07 16:19:53.317596 
+thatdude_45,     KEKW,        <Channel name: lacy>,       2024-11-07 16:19:58.083911 
+thatdude_45,     WW,        <Channel name: lacy>,       2024-11-07 16:20:43.932483 
+thatdude_45,     WW WEDIDIT,        <Channel name: lacy>,       2024-11-07 16:20:46.692609 
+thatdude_45,     WWWWW,        <Channel name: lacy>,       2024-11-07 16:20:50.886244 
+thatdude_45,     WWWW,        <Channel name: lacy>,       2024-11-07 16:20:52.441553 
+thatdude_45,     yes,        <Channel name: lacy>,       2024-11-07 16:22:56.025537 

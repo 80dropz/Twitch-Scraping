@@ -1,0 +1,9 @@
+gravitywo0,     TAWAY,        <Channel name: lacy>,       2024-11-07 15:40:01.138662 
+gravitywo0,     TA,        <Channel name: lacy>,       2024-11-07 15:40:10.097472 
+gravitywo0,     TAWATU,        <Channel name: lacy>,       2024-11-07 15:40:11.635586 
+gravitywo0,     TA,        <Channel name: lacy>,       2024-11-07 15:40:13.430004 
+gravitywo0,     TAWAY,        <Channel name: lacy>,       2024-11-07 15:40:15.181176 
+gravitywo0,     TA,        <Channel name: lacy>,       2024-11-07 15:40:16.186058 
+gravitywo0,     TA,        <Channel name: lacy>,       2024-11-07 16:20:39.082523 
+gravitywo0,     taway,        <Channel name: lacy>,       2024-11-07 16:20:41.060801 
+gravitywo0,     CAUGHT,        <Channel name: lacy>,       2024-11-07 16:21:37.419511 

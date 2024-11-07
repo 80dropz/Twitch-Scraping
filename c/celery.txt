@@ -1,0 +1,22 @@
+celery,     ju,        <Channel name: stableronaldo>,       2024-11-07 16:08:34.827293 
+celery,     ju,        <Channel name: stableronaldo>,       2024-11-07 16:08:35.499337 
+celery,     justttt,        <Channel name: stableronaldo>,       2024-11-07 16:08:37.028178 
+celery,     justtt,        <Channel name: stableronaldo>,       2024-11-07 16:08:38.016493 
+celery,     jsuttt,        <Channel name: stableronaldo>,       2024-11-07 16:08:40.550146 
+celery,     JUSTTTT,        <Channel name: stableronaldo>,       2024-11-07 16:08:43.412601 
+celery,     JUSTTTT,        <Channel name: stableronaldo>,       2024-11-07 16:08:44.480373 
+celery,     GIMMIEE MY MONEEYYY,        <Channel name: stableronaldo>,       2024-11-07 16:08:47.217251 
+celery,     HEY MAN,        <Channel name: stableronaldo>,       2024-11-07 16:09:01.823646 
+celery,     a celery segment?? am i a fucking object to u?,        <Channel name: stableronaldo>,       2024-11-07 16:09:21.943471 
+celery,     this shit was fye,        <Channel name: stableronaldo>,       2024-11-07 16:12:20.000565 
+celery,     the process of making the song is honestly entertaining af,        <Channel name: stableronaldo>,       2024-11-07 16:12:33.614445 
+celery,     no thanks,        <Channel name: stableronaldo>,       2024-11-07 16:16:32.412086 
+celery,     shes smart af,        <Channel name: stableronaldo>,       2024-11-07 16:17:26.994857 
+celery,     BRUCE,        <Channel name: stableronaldo>,       2024-11-07 16:17:44.803723 
+celery,     OMG,        <Channel name: stableronaldo>,       2024-11-07 16:19:00.508321 
+celery,     THATS YOU,        <Channel name: stableronaldo>,       2024-11-07 16:19:18.464472 
+celery,     OH NAH SHE COOKIN,        <Channel name: stableronaldo>,       2024-11-07 16:19:48.480538 
+celery,     RON ON DA ROAD,        <Channel name: stableronaldo>,       2024-11-07 16:19:56.539002 
+celery,     no dont send that..,        <Channel name: stableronaldo>,       2024-11-07 16:20:34.337941 
+celery,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:21:05.745658 
+celery,     lol,        <Channel name: stableronaldo>,       2024-11-07 16:26:39.689900 

@@ -46,3 +46,11 @@
  set_down_boy,     ????,        <Channel name: mongraal>,       2024-11-07 10:12:29.153476 
 
  set_down_boy,     bye,        <Channel name: mongraal>,       2024-11-07 10:12:51.805358 
+
+ set_down_boy,     wow,        <Channel name: mongraal>,       2024-11-07 14:43:19.731598 
+
+ set_down_boy,     daddy chill,        <Channel name: mongraal>,       2024-11-07 14:43:44.885433 
+
+ set_down_boy,     lol,        <Channel name: mongraal>,       2024-11-07 14:46:35.287453 
+
+ set_down_boy,     always Eminem gun,        <Channel name: mongraal>,       2024-11-07 14:48:14.457711 

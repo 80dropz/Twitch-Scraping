@@ -78,3 +78,8 @@
  esoteryx,     MUTTED call in,        <Channel name: silky>,       2024-11-07 02:48:30.520869 
 
  esoteryx,     Rakkai not made for this barely slept 1hr,        <Channel name: kaicenat>,       2024-11-07 12:02:10.323785 
+esoteryx,     !team,        <Channel name: adapt>,       2024-11-07 16:13:42.778458 
+esoteryx,     !bracket,        <Channel name: adapt>,       2024-11-07 16:13:51.365003 
+esoteryx,     formal op,        <Channel name: adapt>,       2024-11-07 16:18:56.555460 
+esoteryx,     formal only goat in 3 different games,        <Channel name: adapt>,       2024-11-07 16:19:05.368133 
+esoteryx,     WW,        <Channel name: adapt>,       2024-11-07 16:19:47.800285 

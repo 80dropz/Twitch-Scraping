@@ -1,0 +1,8 @@
+cactusjuice910,     gum,        <Channel name: kaicenat>,       2024-11-07 16:01:55.942164 
+cactusjuice910,     @you,        <Channel name: kaicenat>,       2024-11-07 16:02:33.012619 
+cactusjuice910,     @kaicenat,        <Channel name: kaicenat>,       2024-11-07 16:02:41.188526 
+cactusjuice910,     @me,        <Channel name: kaicenat>,       2024-11-07 16:02:44.223059 
+cactusjuice910,     @jude,        <Channel name: kaicenat>,       2024-11-07 16:02:48.039454 
+cactusjuice910,     @caseoh,        <Channel name: kaicenat>,       2024-11-07 16:02:55.940094 
+cactusjuice910,     @meatwaggon22,        <Channel name: kaicenat>,       2024-11-07 16:03:13.755711 
+cactusjuice910,     @caseoh_,        <Channel name: kaicenat>,       2024-11-07 16:03:21.355156 

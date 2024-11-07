@@ -1,0 +1,2 @@
+phoges,     gatekeeping font,        <Channel name: pokelawls>,       2024-11-07 15:41:30.909349 
+phoges,     YES,        <Channel name: pokelawls>,       2024-11-07 15:43:48.756330 

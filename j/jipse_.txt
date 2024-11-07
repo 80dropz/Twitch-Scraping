@@ -1,0 +1,13 @@
+jipse_,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 15:40:50.362385 
+jipse_,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 15:41:50.814306 
+jipse_,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 15:43:00.692305 
+jipse_,     !roulette 100000,        <Channel name: kaicenat>,       2024-11-07 15:43:41.086511 
+jipse_,     !roulette 70000,        <Channel name: kaicenat>,       2024-11-07 15:44:30.280361 
+jipse_,     roulette 1,        <Channel name: kaicenat>,       2024-11-07 15:45:29.511899 
+jipse_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:46:35.790931 
+jipse_,     !roulette50000,        <Channel name: kaicenat>,       2024-11-07 15:48:12.161988 
+jipse_,     !points,        <Channel name: kaicenat>,       2024-11-07 15:49:22.479906 
+jipse_,     yooo,        <Channel name: kaicenat>,       2024-11-07 15:49:49.349074 
+jipse_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:52:20.727919 
+jipse_,     !history,        <Channel name: kaicenat>,       2024-11-07 15:53:01.721908 
+jipse_,     any predictions,        <Channel name: kaicenat>,       2024-11-07 15:53:53.543011 

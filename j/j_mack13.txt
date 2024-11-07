@@ -1,0 +1,14 @@
+
+ j_mack13,     WHEN IT RAINS,        <Channel name: nadeshot>,       2024-11-07 15:24:14.448857 
+
+ j_mack13,     IT GOONS,        <Channel name: nadeshot>,       2024-11-07 15:24:16.176088 
+
+ j_mack13,     WINNI,        <Channel name: nadeshot>,       2024-11-07 15:26:20.853786 
+
+ j_mack13,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:27:41.953580 
+j_mack13,     PUT DOWN DRAZ,        <Channel name: nadeshot>,       2024-11-07 15:28:40.521282 
+j_mack13,     PUT DOWN DRAZ AGAIN,        <Channel name: nadeshot>,       2024-11-07 15:34:54.098705 
+j_mack13,     Was that an ACE?,        <Channel name: nadeshot>,       2024-11-07 15:44:18.485372 
+j_mack13,     T2G MAP 2,        <Channel name: nadeshot>,       2024-11-07 15:46:02.795533 
+j_mack13,     YOU GOT IT,        <Channel name: nadeshot>,       2024-11-07 15:46:05.333655 
+j_mack13,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:59:17.850754 

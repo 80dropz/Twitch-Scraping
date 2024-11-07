@@ -1,0 +1,3 @@
+faduzhimself,     !followage,        <Channel name: mongraal>,       2024-11-07 16:36:09.942535 
+faduzhimself,     squad fill,        <Channel name: mongraal>,       2024-11-07 16:38:23.335071 
+faduzhimself,     !eor,        <Channel name: mongraal>,       2024-11-07 16:38:45.428419 

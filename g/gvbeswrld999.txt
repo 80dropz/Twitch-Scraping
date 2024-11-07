@@ -1,2 +1,22 @@
 
  gvbeswrld999,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:35:21.412613 
+gvbeswrld999,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:26.102507 
+gvbeswrld999,     !addpoints @gvbeswrld999 1000000,        <Channel name: kaicenat>,       2024-11-07 15:46:15.712786 
+gvbeswrld999,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:47:31.854592 
+gvbeswrld999,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:48:25.799071 
+gvbeswrld999,     go report Hollywood Rick on YouTube he streamin kia,        <Channel name: kaicenat>,       2024-11-07 16:01:22.568804 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stuff on YouTube,        <Channel name: kaicenat>,       2024-11-07 16:04:17.465901 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube,        <Channel name: kaicenat>,       2024-11-07 16:18:22.561324 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube !!!!,        <Channel name: kaicenat>,       2024-11-07 16:18:31.200277 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube,        <Channel name: kaicenat>,       2024-11-07 16:18:46.175130 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube !!!!!!!,        <Channel name: kaicenat>,       2024-11-07 16:18:59.387142 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube,        <Channel name: kaicenat>,       2024-11-07 16:19:19.270059 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube !!!!!,        <Channel name: kaicenat>,       2024-11-07 16:19:46.498995 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube,        <Channel name: kaicenat>,       2024-11-07 16:20:42.425720 
+gvbeswrld999,     Kai Hollywood Rick is streaming your stream on YouTube !!!!!!!,        <Channel name: kaicenat>,       2024-11-07 16:21:09.133138 
+gvbeswrld999,     Kai play listen before I go by Billie eillish,        <Channel name: kaicenat>,       2024-11-07 16:30:55.806768 
+gvbeswrld999,     Kai play listen before I go by Billie eillish,        <Channel name: kaicenat>,       2024-11-07 16:31:37.164578 
+gvbeswrld999,     Kai play listen before I go by Billie eillish,        <Channel name: kaicenat>,       2024-11-07 16:32:56.351162 
+gvbeswrld999,     Kai play listen before I go by Billie eillish,        <Channel name: kaicenat>,       2024-11-07 16:33:34.466579 
+gvbeswrld999,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:36:36.446721 
+gvbeswrld999,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:38:55.885953 

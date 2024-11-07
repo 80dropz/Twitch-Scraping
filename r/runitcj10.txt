@@ -10,3 +10,4 @@
  runitcj10,     faking,        <Channel name: kaicenat>,       2024-11-07 13:13:12.830236 
 
  runitcj10,     he gone send rakai home,        <Channel name: kaicenat>,       2024-11-07 13:17:02.251247 
+runitcj10,     can i get my sub back,        <Channel name: kaicenat>,       2024-11-07 16:54:51.787605 

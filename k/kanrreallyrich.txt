@@ -1,0 +1,3 @@
+kanrreallyrich,     !sens,        <Channel name: mongraal>,       2024-11-07 15:54:25.530592 
+kanrreallyrich,     !scoped,        <Channel name: mongraal>,       2024-11-07 15:55:07.906355 
+kanrreallyrich,     !commands,        <Channel name: mongraal>,       2024-11-07 15:55:12.843646 

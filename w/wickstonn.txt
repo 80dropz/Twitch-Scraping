@@ -1,0 +1,3 @@
+wickstonn,     NOWAY NOWAY NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:10.911280 
+wickstonn,     mhm mhm mhm,        <Channel name: stableronaldo>,       2024-11-07 16:20:20.154188 
+wickstonn,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:31.802468 

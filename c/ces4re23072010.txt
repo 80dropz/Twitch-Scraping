@@ -2,3 +2,9 @@
  ces4re23072010,     ben,        <Channel name: mongraal>,       2024-11-07 10:37:06.109538 
 
  ces4re23072010,     Letsgoski,        <Channel name: mongraal>,       2024-11-07 10:43:20.136099 
+
+ ces4re23072010,     !points,        <Channel name: mongraal>,       2024-11-07 14:43:46.551951 
+
+ ces4re23072010,     !points,        <Channel name: mongraal>,       2024-11-07 14:47:28.682466 
+
+ ces4re23072010,     !match,        <Channel name: mongraal>,       2024-11-07 14:51:37.835515 

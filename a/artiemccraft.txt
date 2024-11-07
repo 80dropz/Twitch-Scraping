@@ -1,2 +1,8 @@
 
  artiemccraft,     w,        <Channel name: kaicenat>,       2024-11-07 09:16:36.850625 
+artiemccraft,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:44:53.402072 
+artiemccraft,     !commands,        <Channel name: kaicenat>,       2024-11-07 16:45:35.587101 
+artiemccraft,     !amp,        <Channel name: kaicenat>,       2024-11-07 16:47:33.817007 
+artiemccraft,     !following,        <Channel name: kaicenat>,       2024-11-07 16:47:48.021134 
+artiemccraft,     !followingsince,        <Channel name: kaicenat>,       2024-11-07 16:48:07.610945 
+artiemccraft,     !subathon,        <Channel name: kaicenat>,       2024-11-07 16:48:34.061273 

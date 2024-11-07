@@ -1,0 +1,3 @@
+lilfeets032,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:41:52.989479 
+lilfeets032,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:10.186606 
+lilfeets032,     !roulette 270,        <Channel name: kaicenat>,       2024-11-07 15:44:20.900755 

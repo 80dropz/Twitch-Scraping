@@ -1,0 +1,10 @@
+
+ chasereu,     !region,        <Channel name: clix>,       2024-11-07 15:27:07.787000 
+chasereu,     w,        <Channel name: clix>,       2024-11-07 15:28:33.521974 
+chasereu,     !keyboard,        <Channel name: clix>,       2024-11-07 15:29:17.009776 
+chasereu,     www,        <Channel name: clix>,       2024-11-07 15:32:12.585007 
+chasereu,     !pc,        <Channel name: mongraal>,       2024-11-07 15:36:05.236889 
+chasereu,     !specs,        <Channel name: mongraal>,       2024-11-07 15:36:13.483915 
+chasereu,     play fortnite,        <Channel name: mongraal>,       2024-11-07 15:37:59.335026 
+chasereu,     play fn,        <Channel name: mongraal>,       2024-11-07 15:39:45.928539 
+chasereu,     www,        <Channel name: mongraal>,       2024-11-07 15:43:43.261666 

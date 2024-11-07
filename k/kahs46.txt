@@ -1,0 +1,6 @@
+kahs46,     SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:23.253496 
+kahs46,     SHOES NEEDS TO BE OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:39.643025 
+kahs46,     SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:53.705355 
+kahs46,     USE ZIP LOCK BAG,        <Channel name: kaicenat>,       2024-11-07 16:26:43.664987 
+kahs46,     LIE DOWN,        <Channel name: kaicenat>,       2024-11-07 16:34:05.813286 
+kahs46,     LIE DOWN NOW,        <Channel name: kaicenat>,       2024-11-07 16:34:18.193207 

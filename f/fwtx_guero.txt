@@ -60,3 +60,12 @@
  fwtx_guero,     BRO,        <Channel name: kaicenat>,       2024-11-07 13:02:24.769178 
 
  fwtx_guero,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 13:02:33.038063 
+fwtx_guero,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:43:41.012452 
+fwtx_guero,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 15:43:52.067006 
+fwtx_guero,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 15:43:56.632453 
+fwtx_guero,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:44:14.422962 
+fwtx_guero,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:44:20.740509 
+fwtx_guero,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 15:44:25.936306 
+fwtx_guero,     BRO,        <Channel name: kaicenat>,       2024-11-07 16:33:04.927924 
+fwtx_guero,     BROOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:34:14.943284 
+fwtx_guero,     GG,        <Channel name: kaicenat>,       2024-11-07 16:35:07.198013 

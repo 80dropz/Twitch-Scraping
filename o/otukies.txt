@@ -1,0 +1,8 @@
+otukies,     uuh,        <Channel name: adapt>,       2024-11-07 15:29:00.480790 
+otukies,     Ono,        <Channel name: adapt>,       2024-11-07 15:30:17.473857 
+otukies,     WW,        <Channel name: adapt>,       2024-11-07 15:31:00.201111 
+otukies,     U got this unc,        <Channel name: adapt>,       2024-11-07 15:32:17.059678 
+otukies,     WW 5,        <Channel name: adapt>,       2024-11-07 15:35:21.577966 
+otukies,     NT,        <Channel name: adapt>,       2024-11-07 15:38:19.010312 
+otukies,     RT,        <Channel name: adapt>,       2024-11-07 15:49:37.514731 
+otukies,     LOCK IN,        <Channel name: adapt>,       2024-11-07 15:54:49.254286 

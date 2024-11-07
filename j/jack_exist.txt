@@ -1,0 +1,5 @@
+jack_exist,     xoke,        <Channel name: pokelawls>,       2024-11-07 16:18:03.671173 
+jack_exist,     wtf,        <Channel name: pokelawls>,       2024-11-07 16:23:53.037249 
+jack_exist,     STOP,        <Channel name: pokelawls>,       2024-11-07 16:24:06.663618 
+jack_exist,     please take that off man,        <Channel name: pokelawls>,       2024-11-07 16:24:25.793946 
+jack_exist,     put a fan in,        <Channel name: pokelawls>,       2024-11-07 16:25:05.789486 

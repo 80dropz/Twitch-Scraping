@@ -1,0 +1,9 @@
+flysolog,     swegJam swegJam swegJam swegJam swegJam,        <Channel name: kaicenat>,       2024-11-07 16:47:17.077757 
+flysolog,     swegWiggle swegWiggle swegWiggle swegWiggle swegWiggle,        <Channel name: kaicenat>,       2024-11-07 16:47:47.716887 
+flysolog,     the skin look crazy,        <Channel name: swagg>,       2024-11-07 16:49:27.529156 
+flysolog,     LETS GOOOO,        <Channel name: swagg>,       2024-11-07 16:53:59.493299 
+flysolog,     W,        <Channel name: swagg>,       2024-11-07 16:54:03.047469 
+flysolog,     tourvaPrayers tourvaPrayers tourvaPrayers,        <Channel name: swagg>,       2024-11-07 16:54:19.037385 
+flysolog,     swegBirthday swegBirthday swegBirthday swegBirthday,        <Channel name: swagg>,       2024-11-07 16:54:55.372902 
+flysolog,     w,        <Channel name: swagg>,       2024-11-07 16:55:59.847750 
+flysolog,     W,        <Channel name: swagg>,       2024-11-07 16:56:10.981783 

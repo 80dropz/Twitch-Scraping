@@ -1,0 +1,5 @@
+marty_byrde009,     san diego,        <Channel name: swagg>,       2024-11-07 15:51:33.975258 
+marty_byrde009,     1,        <Channel name: swagg>,       2024-11-07 16:15:43.035115 
+marty_byrde009,     W,        <Channel name: swagg>,       2024-11-07 16:54:18.695399 
+marty_byrde009,     need it!,        <Channel name: swagg>,       2024-11-07 16:55:06.675556 
+marty_byrde009,     w,        <Channel name: swagg>,       2024-11-07 16:55:36.015682 

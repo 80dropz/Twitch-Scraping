@@ -66,3 +66,12 @@
  ramyxd02,     GIFT A  100,        <Channel name: kaicenat>,       2024-11-07 12:58:30.410946 
 
  ramyxd02,     WW,        <Channel name: kaicenat>,       2024-11-07 12:59:51.887540 
+ramyxd02,     W,        <Channel name: kaicenat>,       2024-11-07 15:28:47.803399 
+ramyxd02,     !p,        <Channel name: kaicenat>,       2024-11-07 15:38:13.077398 
+ramyxd02,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:38:17.807223 
+ramyxd02,     wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 15:38:30.919242 
+ramyxd02,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:38:32.620151 
+ramyxd02,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:38:34.218892 
+ramyxd02,     WWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:38:36.797154 
+ramyxd02,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:38:37.957221 
+ramyxd02,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:38:39.825969 

@@ -132,3 +132,76 @@
  bmm_fitness,     wwww,        <Channel name: kaicenat>,       2024-11-07 13:06:54.247921 
 
  bmm_fitness,     WWWW,        <Channel name: kaicenat>,       2024-11-07 13:29:04.237789 
+
+ bmm_fitness,     Thursday 7th,        <Channel name: kaicenat>,       2024-11-07 15:23:58.188910 
+
+ bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 15:24:14.313079 
+
+ bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 15:25:04.116106 
+
+ bmm_fitness,     good,        <Channel name: kaicenat>,       2024-11-07 15:25:04.134295 
+
+ bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 15:25:04.253365 
+
+ bmm_fitness,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:27:21.596561 
+bmm_fitness,     cmon kai,        <Channel name: kaicenat>,       2024-11-07 15:42:51.224581 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 15:46:44.880635 
+bmm_fitness,     cmon kai,        <Channel name: kaicenat>,       2024-11-07 15:47:02.073530 
+bmm_fitness,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:53:26.007217 
+bmm_fitness,     push kai,        <Channel name: kaicenat>,       2024-11-07 15:58:13.729785 
+bmm_fitness,     yes MJ,        <Channel name: kaicenat>,       2024-11-07 15:58:20.839463 
+bmm_fitness,     W MJ,        <Channel name: kaicenat>,       2024-11-07 15:58:26.634306 
+bmm_fitness,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:59:02.082693 
+bmm_fitness,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:59:08.185483 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 15:59:09.802835 
+bmm_fitness,     W song,        <Channel name: kaicenat>,       2024-11-07 15:59:15.848367 
+bmm_fitness,     cmon kai,        <Channel name: kaicenat>,       2024-11-07 16:00:32.895626 
+bmm_fitness,     yes Kai,        <Channel name: kaicenat>,       2024-11-07 16:03:01.778922 
+bmm_fitness,     yess,        <Channel name: kaicenat>,       2024-11-07 16:03:45.826739 
+bmm_fitness,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:03:49.219229 
+bmm_fitness,     wwwww,        <Channel name: kaicenat>,       2024-11-07 16:03:50.850165 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 16:04:55.050350 
+bmm_fitness,     W Kai,        <Channel name: kaicenat>,       2024-11-07 16:06:54.019385 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 16:06:55.810494 
+bmm_fitness,     lock in Kai,        <Channel name: kaicenat>,       2024-11-07 16:07:02.959040 
+bmm_fitness,     cmon kai,        <Channel name: kaicenat>,       2024-11-07 16:10:22.383589 
+bmm_fitness,     lock in Kai,        <Channel name: kaicenat>,       2024-11-07 16:11:42.336375 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 16:12:02.363953 
+bmm_fitness,     WW,        <Channel name: kaicenat>,       2024-11-07 16:12:05.975662 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 16:12:08.015351 
+bmm_fitness,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:12:12.600456 
+bmm_fitness,     one more,        <Channel name: kaicenat>,       2024-11-07 16:12:16.439417 
+bmm_fitness,     W Song,        <Channel name: kaicenat>,       2024-11-07 16:14:05.701873 
+bmm_fitness,     W Kai,        <Channel name: kaicenat>,       2024-11-07 16:14:11.893658 
+bmm_fitness,     w workout,        <Channel name: kaicenat>,       2024-11-07 16:17:47.243721 
+bmm_fitness,     fac,        <Channel name: kaicenat>,       2024-11-07 16:17:49.762713 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:18:30.532385 
+bmm_fitness,     25min,        <Channel name: kaicenat>,       2024-11-07 16:18:43.466802 
+bmm_fitness,     25mins,        <Channel name: kaicenat>,       2024-11-07 16:18:49.493976 
+bmm_fitness,     25,        <Channel name: kaicenat>,       2024-11-07 16:18:54.957477 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:19:36.835452 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:46.519406 
+bmm_fitness,     W Pool House,        <Channel name: kaicenat>,       2024-11-07 16:23:51.999505 
+bmm_fitness,     it’s better,        <Channel name: kaicenat>,       2024-11-07 16:24:09.017822 
+bmm_fitness,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:21.920663 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:49.396209 
+bmm_fitness,     yes it is,        <Channel name: kaicenat>,       2024-11-07 16:29:54.220802 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:56.471910 
+bmm_fitness,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:50.301093 
+bmm_fitness,     yes,        <Channel name: kaicenat>,       2024-11-07 16:30:57.722732 
+bmm_fitness,     W Song,        <Channel name: kaicenat>,       2024-11-07 16:36:22.019583 
+bmm_fitness,     it’s getting hot in here,        <Channel name: kaicenat>,       2024-11-07 16:37:18.170345 
+bmm_fitness,     W Song,        <Channel name: kaicenat>,       2024-11-07 16:41:44.738691 
+bmm_fitness,     no one,        <Channel name: kaicenat>,       2024-11-07 16:42:15.923248 
+bmm_fitness,     ooooo,        <Channel name: kaicenat>,       2024-11-07 16:44:45.226655 
+bmm_fitness,     o o o,        <Channel name: kaicenat>,       2024-11-07 16:44:48.845556 
+bmm_fitness,     ooo,        <Channel name: kaicenat>,       2024-11-07 16:44:51.484142 
+bmm_fitness,     oooo,        <Channel name: kaicenat>,       2024-11-07 16:44:53.385119 
+bmm_fitness,     ooooo,        <Channel name: kaicenat>,       2024-11-07 16:44:55.970750 
+bmm_fitness,     ooo,        <Channel name: kaicenat>,       2024-11-07 16:44:58.983005 
+bmm_fitness,     oo,        <Channel name: kaicenat>,       2024-11-07 16:45:01.128803 
+bmm_fitness,     we can still hear you,        <Channel name: kaicenat>,       2024-11-07 16:45:13.095677 
+bmm_fitness,     it’s fine,        <Channel name: kaicenat>,       2024-11-07 16:45:18.415768 
+bmm_fitness,     W Song,        <Channel name: kaicenat>,       2024-11-07 16:47:51.109869 
+bmm_fitness,     www,        <Channel name: kaicenat>,       2024-11-07 16:48:07.681089 
+bmm_fitness,     sticky,        <Channel name: kaicenat>,       2024-11-07 16:48:42.370570 

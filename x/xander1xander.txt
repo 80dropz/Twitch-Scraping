@@ -1,0 +1,4 @@
+
+ xander1xander,     !points,        <Channel name: kaicenat>,       2024-11-07 15:27:37.566154 
+xander1xander,     !points,        <Channel name: kaicenat>,       2024-11-07 15:33:56.212584 
+xander1xander,     !watchtime SigCri,        <Channel name: kaicenat>,       2024-11-07 15:52:28.519909 

@@ -1,0 +1,17 @@
+motadamove,     GET DAVID,        <Channel name: kaicenat>,       2024-11-07 16:28:11.095780 
+motadamove,     GET GOGGINSS,        <Channel name: kaicenat>,       2024-11-07 16:28:11.125425 
+motadamove,     YOU NEED DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:11.236134 
+motadamove,     GET DAVID,        <Channel name: kaicenat>,       2024-11-07 16:28:11.366480 
+motadamove,     GET GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:11.392386 
+motadamove,     GET DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:12.578053 
+motadamove,     GET DAVID,        <Channel name: kaicenat>,       2024-11-07 16:28:21.812128 
+motadamove,     GET GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:27.468624 
+motadamove,     GET DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:33.386194 
+motadamove,     YOU NEED DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:28:40.239874 
+motadamove,     GET DAVID GOGINS,        <Channel name: kaicenat>,       2024-11-07 16:29:13.388891 
+motadamove,     PHONES GONNA OVERHEAT,        <Channel name: kaicenat>,       2024-11-07 16:29:21.447573 
+motadamove,     GET DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:29:26.955769 
+motadamove,     PHONE OVERHEAT,        <Channel name: kaicenat>,       2024-11-07 16:29:33.007737 
+motadamove,     PHONE WILL OVERHEAT,        <Channel name: kaicenat>,       2024-11-07 16:29:43.017986 
+motadamove,     P[HONE WILL OVERHEAT GET DAVID GOGGINS,        <Channel name: kaicenat>,       2024-11-07 16:30:16.365582 
+motadamove,     PHONE WILL OVER HEAT,        <Channel name: kaicenat>,       2024-11-07 16:30:27.682171 

@@ -4,3 +4,65 @@
  luggxo,     WWW,        <Channel name: kaicenat>,       2024-11-07 01:49:29.863699 
 
  luggxo,     ggs,        <Channel name: kaicenat>,       2024-11-07 13:15:53.503774 
+
+ luggxo,     kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 15:23:22.763186 
+
+ luggxo,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:23:30.575048 
+
+ luggxo,     W,        <Channel name: kaicenat>,       2024-11-07 15:24:02.150915 
+
+ luggxo,     YES,        <Channel name: kaicenat>,       2024-11-07 15:25:03.941280 
+
+ luggxo,     GOOD,        <Channel name: kaicenat>,       2024-11-07 15:25:04.063160 
+
+ luggxo,     kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:25:24.537599 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:25:31.604414 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:25:45.595637 
+
+ luggxo,     W,        <Channel name: kaicenat>,       2024-11-07 15:25:54.485839 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:25:57.457515 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:26:02.211220 
+
+ luggxo,     kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 15:26:10.744492 
+
+ luggxo,     kaicLovinit,        <Channel name: kaicenat>,       2024-11-07 15:26:17.877536 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:26:22.800513 
+
+ luggxo,     W MORNING,        <Channel name: kaicenat>,       2024-11-07 15:26:36.013963 
+
+ luggxo,     kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:26:45.753185 
+
+ luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:27:04.719154 
+
+ luggxo,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:27:29.163412 
+luggxo,     !points,        <Channel name: kaicenat>,       2024-11-07 15:28:33.480356 
+luggxo,     kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 15:29:05.710445 
+luggxo,     RIP JUICE,        <Channel name: kaicenat>,       2024-11-07 15:29:11.383976 
+luggxo,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:21.084529 
+luggxo,     kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 15:32:32.783552 
+luggxo,     kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:32:35.874905 
+luggxo,     kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:33:16.229585 
+luggxo,     kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 15:33:19.413798 
+luggxo,     kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 15:38:29.688403 
+luggxo,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 15:40:48.362171 
+luggxo,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:40:51.655992 
+luggxo,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 15:41:33.397416 
+luggxo,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 15:41:49.072235 
+luggxo,     !roulette 499,        <Channel name: kaicenat>,       2024-11-07 15:42:00.754107 
+luggxo,     !roulette 700,        <Channel name: kaicenat>,       2024-11-07 15:42:10.877595 
+luggxo,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:26.090625 
+luggxo,     !roulette 69,        <Channel name: kaicenat>,       2024-11-07 15:42:36.475547 
+luggxo,     !roulette 138,        <Channel name: kaicenat>,       2024-11-07 15:43:18.749276 
+luggxo,     fuuuuck,        <Channel name: kaicenat>,       2024-11-07 15:43:23.870403 
+luggxo,     kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 15:44:23.884354 
+luggxo,     WWW SONG,        <Channel name: kaicenat>,       2024-11-07 15:52:09.873176 
+luggxo,     I can see the future,        <Channel name: kaicenat>,       2024-11-07 15:52:36.022118 
+luggxo,     WWW,        <Channel name: kaicenat>,       2024-11-07 15:52:52.573068 
+luggxo,     W,        <Channel name: kaicenat>,       2024-11-07 15:56:13.118387 
+luggxo,     kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:00:27.462766 
+luggxo,     kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 16:04:05.379606 

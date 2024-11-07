@@ -76,3 +76,17 @@
  itsusuallyalotsmaller,     Yeag,        <Channel name: nadeshot>,       2024-11-07 12:35:43.385457 
 
  itsusuallyalotsmaller,     Yes,        <Channel name: nadeshot>,       2024-11-07 12:35:49.521496 
+
+ itsusuallyalotsmaller,     TIME 2 GOON,        <Channel name: nadeshot>,       2024-11-07 15:23:42.554447 
+itsusuallyalotsmaller,     TIME 2 GOON,        <Channel name: nadeshot>,       2024-11-07 15:28:33.530487 
+itsusuallyalotsmaller,     LOCK IN,        <Channel name: nadeshot>,       2024-11-07 15:30:09.196428 
+itsusuallyalotsmaller,     lock in,        <Channel name: nadeshot>,       2024-11-07 15:37:09.941099 
+itsusuallyalotsmaller,     Let go,        <Channel name: nadeshot>,       2024-11-07 15:39:44.848329 
+itsusuallyalotsmaller,     FUK,        <Channel name: nadeshot>,       2024-11-07 15:41:23.360149 
+itsusuallyalotsmaller,     Lock tf in, let's goo,        <Channel name: nadeshot>,       2024-11-07 15:41:46.551833 
+itsusuallyalotsmaller,     Smoked,        <Channel name: nadeshot>,       2024-11-07 15:42:15.764276 
+itsusuallyalotsmaller,     Damn,        <Channel name: nadeshot>,       2024-11-07 15:42:21.012245 
+itsusuallyalotsmaller,     Fk that map,        <Channel name: nadeshot>,       2024-11-07 15:42:35.679312 
+itsusuallyalotsmaller,     Hahahahah,        <Channel name: nadeshot>,       2024-11-07 15:45:20.751700 
+itsusuallyalotsmaller,     Smoke him,        <Channel name: nadeshot>,       2024-11-07 15:45:24.797426 
+itsusuallyalotsmaller,     Deadas,        <Channel name: nadeshot>,       2024-11-07 15:52:30.321023 

@@ -1,0 +1,4 @@
+thelkzfnn,     eor on or off,        <Channel name: mongraal>,       2024-11-07 16:41:32.989468 
+thelkzfnn,     !crosshaire,        <Channel name: mongraal>,       2024-11-07 16:48:03.162147 
+thelkzfnn,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:48:09.239685 
+thelkzfnn,     w,        <Channel name: mongraal>,       2024-11-07 16:51:08.884921 

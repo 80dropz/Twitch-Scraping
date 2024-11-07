@@ -16,3 +16,4 @@
  kassbonthtgas,     COOKEDDDDDD,        <Channel name: kaicenat>,       2024-11-07 01:50:52.502803 
 
  kassbonthtgas,     LOCK IN,        <Channel name: kaicenat>,       2024-11-07 01:53:53.433552 
+kassbonthtgas,     TEXT TO SPEECH,        <Channel name: kaicenat>,       2024-11-07 16:28:11.246705 

@@ -1,0 +1,12 @@
+thehugebarnicle,     w uzi,        <Channel name: kaicenat>,       2024-11-07 15:38:39.177231 
+thehugebarnicle,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:39:13.441919 
+thehugebarnicle,     !points,        <Channel name: kaicenat>,       2024-11-07 15:39:37.598263 
+thehugebarnicle,     song?,        <Channel name: kaicenat>,       2024-11-07 15:40:54.407294 
+thehugebarnicle,     !gamble 4,        <Channel name: kaicenat>,       2024-11-07 15:41:56.898318 
+thehugebarnicle,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 15:43:01.645559 
+thehugebarnicle,     !roulette 6,        <Channel name: kaicenat>,       2024-11-07 15:43:13.063505 
+thehugebarnicle,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 15:43:33.147210 
+thehugebarnicle,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 15:44:02.594523 
+thehugebarnicle,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 15:44:18.965726 
+thehugebarnicle,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:44:28.080132 
+thehugebarnicle,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 15:44:50.960663 

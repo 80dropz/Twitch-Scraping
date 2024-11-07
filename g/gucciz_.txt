@@ -320,3 +320,6 @@
  gucciz_,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:47:39.899256 
 
  gucciz_,     mhm,        <Channel name: kaicenat>,       2024-11-07 02:48:01.969157 
+gucciz_,     W,        <Channel name: kaicenat>,       2024-11-07 16:03:52.099992 
+gucciz_,     @CushiMan0 fsm,        <Channel name: kaicenat>,       2024-11-07 16:04:17.125914 
+gucciz_,     @AjrafNafiu fsm,        <Channel name: kaicenat>,       2024-11-07 16:28:22.252535 

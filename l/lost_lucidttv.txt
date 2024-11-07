@@ -1,0 +1,3 @@
+lost_lucidttv,     hi,        <Channel name: nadeshot>,       2024-11-07 15:39:44.723975 
+lost_lucidttv,     bo6 is amazing,        <Channel name: nadeshot>,       2024-11-07 15:39:57.521414 
+lost_lucidttv,     CerberusDog,        <Channel name: nadeshot>,       2024-11-07 15:40:42.477174 

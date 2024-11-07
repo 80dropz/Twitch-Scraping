@@ -1,0 +1,26 @@
+gbdose,     gg,        <Channel name: lacy>,       2024-11-07 16:16:04.280631 
+gbdose,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:55.152518 
+gbdose,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:18:13.833160 
+gbdose,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:47.851699 
+gbdose,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.731994 
+gbdose,     WW,        <Channel name: kaicenat>,       2024-11-07 16:19:59.981083 
+gbdose,     WhatTaahFuck,        <Channel name: lacy>,       2024-11-07 16:20:18.688201 
+gbdose,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:50.953342 
+gbdose,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:25:12.133011 
+gbdose,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:19.064218 
+gbdose,     gg,        <Channel name: kaicenat>,       2024-11-07 16:32:13.471085 
+gbdose,     gg,        <Channel name: kaicenat>,       2024-11-07 16:32:55.753973 
+gbdose,     LMAO,        <Channel name: kaicenat>,       2024-11-07 16:33:15.694042 
+gbdose,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:08.593937 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:09.002544 
+gbdose,     ome32 ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:15.802918 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:28.657448 
+gbdose,     ome32 ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:44.949553 
+gbdose,     gg,        <Channel name: kaicenat>,       2024-11-07 16:37:23.496636 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:38:34.667570 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:43:07.497167 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:43:52.550835 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:44:22.835722 
+gbdose,     no,        <Channel name: kaicenat>,       2024-11-07 16:45:02.512766 
+gbdose,     gg,        <Channel name: kaicenat>,       2024-11-07 16:45:58.137858 
+gbdose,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:46:09.118179 

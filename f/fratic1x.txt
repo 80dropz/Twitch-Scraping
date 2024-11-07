@@ -1,0 +1,52 @@
+fratic1x,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:08.951265 
+fratic1x,     GG,        <Channel name: stableronaldo>,       2024-11-07 16:18:29.825124 
+fratic1x,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:30.909241 
+fratic1x,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:18:33.426023 
+fratic1x,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:57.173375 
+fratic1x,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.460802 
+fratic1x,     TAWAY TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:01.092233 
+fratic1x,     NOWAY NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:05.641262 
+fratic1x,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:07.925228 
+fratic1x,     NOWAY NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:32.336890 
+fratic1x,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:58.699184 
+fratic1x,     WW WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:00.609085 
+fratic1x,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:59.863013 
+fratic1x,     WW WW,        <Channel name: stableronaldo>,       2024-11-07 16:21:01.415090 
+fratic1x,     CONTENT FOR ONCE,        <Channel name: stableronaldo>,       2024-11-07 16:21:04.729506 
+fratic1x,     FINALLY CONTENT,        <Channel name: stableronaldo>,       2024-11-07 16:21:08.707163 
+fratic1x,     FINALLY GOT CONTENT,        <Channel name: stableronaldo>,       2024-11-07 16:21:19.336326 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:26.151580 
+fratic1x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:28.030481 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:33.977004 
+fratic1x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:45.557647 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:03.523050 
+fratic1x,     LMFAOP,        <Channel name: stableronaldo>,       2024-11-07 16:22:05.710543 
+fratic1x,     LMFAO LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:08.469085 
+fratic1x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:34.804576 
+fratic1x,     uuh uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:37.866390 
+fratic1x,     sold,        <Channel name: stableronaldo>,       2024-11-07 16:23:06.439329 
+fratic1x,     SOLD,        <Channel name: stableronaldo>,       2024-11-07 16:23:09.418397 
+fratic1x,     !skipsegment,        <Channel name: stableronaldo>,       2024-11-07 16:23:25.058722 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:31.692487 
+fratic1x,     CHAINED TOGETHER CHAINED TOGETHER,        <Channel name: stableronaldo>,       2024-11-07 16:23:38.660738 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:40.949595 
+fratic1x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:42.685308 
+fratic1x,     NO ONE SADI THAT,        <Channel name: stableronaldo>,       2024-11-07 16:24:06.348614 
+fratic1x,     RT\,        <Channel name: stableronaldo>,       2024-11-07 16:24:14.061600 
+fratic1x,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:15.703488 
+fratic1x,     RT RTR,        <Channel name: stableronaldo>,       2024-11-07 16:24:16.997573 
+fratic1x,     RT RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:18.325691 
+fratic1x,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:24:43.100538 
+fratic1x,     WW WW,        <Channel name: stableronaldo>,       2024-11-07 16:24:44.937325 
+fratic1x,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:56.055259 
+fratic1x,     ome32 ome32,        <Channel name: stableronaldo>,       2024-11-07 16:25:01.436330 
+fratic1x,     hah,        <Channel name: stableronaldo>,       2024-11-07 16:25:17.566003 
+fratic1x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:18.730204 
+fratic1x,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:25:20.061491 
+fratic1x,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:25:21.352362 
+fratic1x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:22.635803 
+fratic1x,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:25:34.346672 
+fratic1x,     im ronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:25:49.588599 
+fratic1x,     acc giggled,        <Channel name: stableronaldo>,       2024-11-07 16:25:54.390729 
+fratic1x,     ACC GIGGLED,        <Channel name: stableronaldo>,       2024-11-07 16:25:57.368823 
+fratic1x,     acc giggled,        <Channel name: stableronaldo>,       2024-11-07 16:26:08.049782 

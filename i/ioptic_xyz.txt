@@ -1,0 +1,3 @@
+ioptic_xyz,     lol,        <Channel name: pokelawls>,       2024-11-07 16:36:13.377479 
+ioptic_xyz,     eating pickles what,        <Channel name: pokelawls>,       2024-11-07 16:39:24.310949 
+ioptic_xyz,     omE,        <Channel name: pokelawls>,       2024-11-07 16:52:38.726041 

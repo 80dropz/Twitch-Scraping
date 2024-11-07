@@ -1,0 +1,15 @@
+lulmetr0,     2 hr,        <Channel name: kaicenat>,       2024-11-07 16:18:51.531430 
+lulmetr0,     hr,        <Channel name: kaicenat>,       2024-11-07 16:19:42.854959 
+lulmetr0,     u,        <Channel name: kaicenat>,       2024-11-07 16:21:15.826273 
+lulmetr0,     invite me,        <Channel name: kaicenat>,       2024-11-07 16:23:04.226510 
+lulmetr0,     the camera on there,        <Channel name: kaicenat>,       2024-11-07 16:26:25.529976 
+lulmetr0,     gg,        <Channel name: kaicenat>,       2024-11-07 16:26:41.265043 
+lulmetr0,     touch it,        <Channel name: kaicenat>,       2024-11-07 16:31:48.044134 
+lulmetr0,     go head,        <Channel name: kaicenat>,       2024-11-07 16:32:41.052286 
+lulmetr0,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:33.198287 
+lulmetr0,     more,        <Channel name: kaicenat>,       2024-11-07 16:34:51.298279 
+lulmetr0,     yea,        <Channel name: kaicenat>,       2024-11-07 16:35:06.499228 
+lulmetr0,     no,        <Channel name: kaicenat>,       2024-11-07 16:35:10.110561 
+lulmetr0,     gg,        <Channel name: kaicenat>,       2024-11-07 16:40:12.914471 
+lulmetr0,     it’s never gonna get hot,        <Channel name: kaicenat>,       2024-11-07 16:41:14.425018 
+lulmetr0,     it’s broke now,        <Channel name: kaicenat>,       2024-11-07 16:41:21.393827 

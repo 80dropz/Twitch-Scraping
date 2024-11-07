@@ -1,0 +1,6 @@
+atro426,     GYYYAAAAAAAAAT,        <Channel name: clix>,       2024-11-07 16:23:59.758922 
+atro426,     GYAt,        <Channel name: clix>,       2024-11-07 16:24:03.856386 
+atro426,     GYAT,        <Channel name: clix>,       2024-11-07 16:24:05.555964 
+atro426,     GYAAAAAT,        <Channel name: clix>,       2024-11-07 16:24:08.112635 
+atro426,     GYYYYYYAAAAAAAAAAT,        <Channel name: clix>,       2024-11-07 16:24:13.424670 
+atro426,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:10.724700 

@@ -1,0 +1,4 @@
+faxuty_,     www,        <Channel name: mongraal>,       2024-11-07 15:30:10.855393 
+faxuty_,     grotto,        <Channel name: mongraal>,       2024-11-07 15:30:15.140673 
+faxuty_,     GoatEmotey GoatEmotey GoatEmotey GoatEmotey GoatEmotey,        <Channel name: mongraal>,       2024-11-07 15:32:13.306039 
+faxuty_,     refresh com @mongraal,        <Channel name: mongraal>,       2024-11-07 15:35:35.139731 

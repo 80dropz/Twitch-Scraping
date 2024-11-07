@@ -1,0 +1,14 @@
+elxte_1,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:51.752623 
+elxte_1,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:17:10.921077 
+elxte_1,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:17:21.290278 
+elxte_1,     W METHOD,        <Channel name: stableronaldo>,       2024-11-07 16:17:24.551337 
+elxte_1,     W METHODD,        <Channel name: stableronaldo>,       2024-11-07 16:17:32.210655 
+elxte_1,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:55.599146 
+elxte_1,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:01.580935 
+elxte_1,     Glaze,        <Channel name: stableronaldo>,       2024-11-07 16:19:29.018311 
+elxte_1,     Mmmmmmmm,        <Channel name: stableronaldo>,       2024-11-07 16:20:12.691033 
+elxte_1,     Cap,        <Channel name: stableronaldo>,       2024-11-07 16:20:28.925086 
+elxte_1,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:53.659189 
+elxte_1,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:23:07.092841 
+elxte_1,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:29.455341 
+elxte_1,     Yes ur ugly,        <Channel name: stableronaldo>,       2024-11-07 16:24:03.355735 

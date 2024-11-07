@@ -6,3 +6,7 @@
  ghoost_official,     !p,        <Channel name: mongraal>,       2024-11-07 13:20:28.932343 
 
  ghoost_official,     !points,        <Channel name: mongraal>,       2024-11-07 13:21:19.332306 
+
+ ghoost_official,     XDDDDD,        <Channel name: mongraal>,       2024-11-07 14:43:20.778322 
+
+ ghoost_official,     WWWW G,        <Channel name: mongraal>,       2024-11-07 14:43:45.947345 

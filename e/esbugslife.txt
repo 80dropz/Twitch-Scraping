@@ -4,3 +4,29 @@
  esbugslife,     W,        <Channel name: adapt>,       2024-11-07 01:57:13.252458 
 
  esbugslife,     L,        <Channel name: lacy>,       2024-11-07 12:52:39.804151 
+
+ esbugslife,     W KOOLAID MAN,        <Channel name: lacy>,       2024-11-07 14:49:33.032394 
+
+ esbugslife,     bruh,        <Channel name: lacy>,       2024-11-07 15:25:37.534551 
+
+ esbugslife,     ...,        <Channel name: lacy>,       2024-11-07 15:25:38.996570 
+
+ esbugslife,     .....,        <Channel name: lacy>,       2024-11-07 15:27:37.184453 
+esbugslife,     BACK UP,        <Channel name: lacy>,       2024-11-07 15:45:02.496706 
+esbugslife,     NNN,        <Channel name: lacy>,       2024-11-07 15:48:37.217083 
+esbugslife,     OVER,        <Channel name: lacy>,       2024-11-07 15:48:39.351777 
+esbugslife,     WOAHHHHH,        <Channel name: lacy>,       2024-11-07 15:50:40.475635 
+esbugslife,     yooooooooo,        <Channel name: lacy>,       2024-11-07 15:54:57.126145 
+esbugslife,     ??????????,        <Channel name: lacy>,       2024-11-07 15:54:59.121759 
+esbugslife,     GO LOWER,        <Channel name: lacy>,       2024-11-07 15:58:59.447771 
+esbugslife,     ON TGHE GROUND,        <Channel name: lacy>,       2024-11-07 15:59:07.537502 
+esbugslife,     SHEEEEEEEEEEEESH,        <Channel name: lacy>,       2024-11-07 15:59:15.389518 
+esbugslife,     HELP HER,        <Channel name: lacy>,       2024-11-07 15:59:30.526486 
+esbugslife,     I SKIP THOS [ART,        <Channel name: lacy>,       2024-11-07 15:59:37.152712 
+esbugslife,     HELP ME STEP BROOOOOOOO,        <Channel name: lacy>,       2024-11-07 15:59:54.407058 
+esbugslife,     LMAOOOOOO,        <Channel name: lacy>,       2024-11-07 16:10:16.588051 
+esbugslife,     HOLY,        <Channel name: lacy>,       2024-11-07 16:10:56.079965 
+esbugslife,     BRUHHH,        <Channel name: lacy>,       2024-11-07 16:11:58.337379 
+esbugslife,     STUPID MF,        <Channel name: lacy>,       2024-11-07 16:18:51.579996 
+esbugslife,     HES JUST LIKE M,E,        <Channel name: lacy>,       2024-11-07 16:20:38.515908 
+esbugslife,     IM FAST TOOOOOOOOOOO,        <Channel name: lacy>,       2024-11-07 16:20:42.152178 

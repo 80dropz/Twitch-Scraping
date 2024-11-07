@@ -1,0 +1,5 @@
+holsj0812,     brain tumour,        <Channel name: stableronaldo>,       2024-11-07 16:00:01.773723 
+holsj0812,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:55.739046 
+holsj0812,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:07.946434 
+holsj0812,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:39.715607 
+holsj0812,     get a ct scan,        <Channel name: stableronaldo>,       2024-11-07 16:01:50.664777 

@@ -1,0 +1,4 @@
+roguewaterstbutcher,     !time,        <Channel name: kaicenat>,       2024-11-07 15:58:37.589409 
+roguewaterstbutcher,     !time watched,        <Channel name: kaicenat>,       2024-11-07 15:58:54.517484 
+roguewaterstbutcher,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:59:14.978779 
+roguewaterstbutcher,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:03:36.876796 

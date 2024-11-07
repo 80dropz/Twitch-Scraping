@@ -1,0 +1,5 @@
+lac_dee,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 16:21:19.848049 
+lac_dee,     !commands,        <Channel name: kaicenat>,       2024-11-07 16:47:31.549182 
+lac_dee,     !chatstats,        <Channel name: kaicenat>,       2024-11-07 16:51:17.101138 
+lac_dee,     !uptime,        <Channel name: kaicenat>,       2024-11-07 16:51:31.337098 
+lac_dee,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:51:46.418294 

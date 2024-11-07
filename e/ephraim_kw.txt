@@ -1,2 +1,8 @@
 
  ephraim_kw,     ggs,        <Channel name: kaicenat>,       2024-11-07 13:26:46.603126 
+ephraim_kw,     poll,        <Channel name: kaicenat>,       2024-11-07 15:35:30.512246 
+ephraim_kw,     polll,        <Channel name: kaicenat>,       2024-11-07 15:35:34.112099 
+ephraim_kw,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:40:45.689571 
+ephraim_kw,     poll,        <Channel name: kaicenat>,       2024-11-07 15:50:17.606839 
+ephraim_kw,     mods,        <Channel name: kaicenat>,       2024-11-07 15:50:19.750806 
+ephraim_kw,     sunny poll,        <Channel name: kaicenat>,       2024-11-07 15:52:01.597516 

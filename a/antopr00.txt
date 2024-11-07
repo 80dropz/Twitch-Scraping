@@ -1,0 +1,2 @@
+antopr00,     15,        <Channel name: kaicenat>,       2024-11-07 16:18:47.741911 
+antopr00,     15 mins,        <Channel name: kaicenat>,       2024-11-07 16:18:58.275965 

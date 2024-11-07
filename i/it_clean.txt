@@ -1,0 +1,5 @@
+it_clean,     got emm,        <Channel name: nadeshot>,       2024-11-07 15:45:59.929528 
+it_clean,     double decker lol,        <Channel name: nadeshot>,       2024-11-07 16:12:26.780621 
+it_clean,     unc just carried,        <Channel name: nadeshot>,       2024-11-07 16:15:07.293923 
+it_clean,     LOL,        <Channel name: nadeshot>,       2024-11-07 16:23:43.628136 
+it_clean,     unc letting nephew take the reigns,        <Channel name: nadeshot>,       2024-11-07 16:54:57.385584 

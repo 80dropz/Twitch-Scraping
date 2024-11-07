@@ -1,0 +1,11 @@
+tons124,     Wwww,        <Channel name: stableronaldo>,       2024-11-07 16:24:46.626140 
+tons124,     Www,        <Channel name: stableronaldo>,       2024-11-07 16:24:51.506371 
+tons124,     Wwww,        <Channel name: stableronaldo>,       2024-11-07 16:25:38.458312 
+tons124,     Www,        <Channel name: stableronaldo>,       2024-11-07 16:25:42.183810 
+tons124,     W,        <Channel name: stableronaldo>,       2024-11-07 16:25:54.782046 
+tons124,     Wwww,        <Channel name: stableronaldo>,       2024-11-07 16:25:58.409219 
+tons124,     Www,        <Channel name: stableronaldo>,       2024-11-07 16:26:03.130772 
+tons124,     Ww,        <Channel name: stableronaldo>,       2024-11-07 16:26:08.537718 
+tons124,     Www,        <Channel name: stableronaldo>,       2024-11-07 16:26:35.106753 
+tons124,     W,        <Channel name: stableronaldo>,       2024-11-07 16:26:37.081757 
+tons124,     Ww,        <Channel name: stableronaldo>,       2024-11-07 16:26:39.781801 

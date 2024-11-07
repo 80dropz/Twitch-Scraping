@@ -1,0 +1,8 @@
+itspham,     HANDCUFFED 24HR,        <Channel name: stableronaldo>,       2024-11-07 16:16:29.973826 
+itspham,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:16:32.022824 
+itspham,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:05.477735 
+itspham,     LIM,        <Channel name: stableronaldo>,       2024-11-07 16:17:12.564836 
+itspham,     She asking for jason,        <Channel name: stableronaldo>,       2024-11-07 16:18:01.941918 
+itspham,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:19:00.997256 
+itspham,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.670234 
+itspham,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:44.738592 

@@ -1,0 +1,13 @@
+
+ raccoon_g59,     !myd,        <Channel name: nadeshot>,       2024-11-07 14:52:54.541698 
+
+ raccoon_g59,     !Myd,        <Channel name: nadeshot>,       2024-11-07 14:53:24.354942 
+
+ raccoon_g59,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:23:22.876375 
+
+ raccoon_g59,     !t2g,        <Channel name: nadeshot>,       2024-11-07 15:24:09.066467 
+
+ raccoon_g59,     kaicSturdyy,        <Channel name: nadeshot>,       2024-11-07 15:25:13.710399 
+raccoon_g59,     L,        <Channel name: nadeshot>,       2024-11-07 15:42:15.282112 
+raccoon_g59,     @hbbix scump,        <Channel name: nadeshot>,       2024-11-07 16:29:35.094107 
+raccoon_g59,     Ggs lmao,        <Channel name: nadeshot>,       2024-11-07 16:54:42.801993 

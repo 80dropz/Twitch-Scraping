@@ -1,0 +1,3 @@
+senseidripfd,     !ak-47,        <Channel name: swagg>,       2024-11-07 16:40:38.992745 
+senseidripfd,     !ak-74,        <Channel name: swagg>,       2024-11-07 16:40:48.585212 
+senseidripfd,     tehe,        <Channel name: swagg>,       2024-11-07 16:40:50.871893 

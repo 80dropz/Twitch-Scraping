@@ -1,0 +1,4 @@
+tre_108,     where rakai,        <Channel name: kaicenat>,       2024-11-07 15:35:44.935793 
+tre_108,     did rakai leave?,        <Channel name: kaicenat>,       2024-11-07 15:36:22.269891 
+tre_108,     did mini Kai leave,        <Channel name: kaicenat>,       2024-11-07 15:36:59.397243 
+tre_108,     did mini Kai leave?,        <Channel name: kaicenat>,       2024-11-07 16:19:17.781266 

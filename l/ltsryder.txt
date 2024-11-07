@@ -1,2 +1,4 @@
 
  ltsryder,     !leftfootcam,        <Channel name: nadeshot>,       2024-11-07 09:54:19.752985 
+ltsryder,     nadeLOL,        <Channel name: adapt>,       2024-11-07 16:20:30.205525 
+ltsryder,     Real shit,        <Channel name: adapt>,       2024-11-07 16:20:45.937050 

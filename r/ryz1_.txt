@@ -1,0 +1,3 @@
+ryz1_,     o,        <Channel name: stableronaldo>,       2024-11-07 16:05:19.313016 
+ryz1_,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:16.976292 
+ryz1_,     no,        <Channel name: stableronaldo>,       2024-11-07 16:11:54.465324 

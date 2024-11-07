@@ -1,0 +1,2 @@
+szymeq_twitch_tv,     !POINTS,        <Channel name: mongraal>,       2024-11-07 15:31:37.013806 
+szymeq_twitch_tv,     !points,        <Channel name: mongraal>,       2024-11-07 15:31:47.750803 

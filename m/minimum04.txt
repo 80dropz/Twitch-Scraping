@@ -1,0 +1,7 @@
+minimum04,     DANNNM,        <Channel name: clix>,       2024-11-07 15:33:20.402257 
+minimum04,     WWWWWWW,        <Channel name: clix>,       2024-11-07 16:18:02.413735 
+minimum04,     WWWW,        <Channel name: clix>,       2024-11-07 16:18:07.639994 
+minimum04,     GO STEVE,        <Channel name: clix>,       2024-11-07 16:18:40.555317 
+minimum04,     WWWW,        <Channel name: clix>,       2024-11-07 16:18:45.584386 
+minimum04,     WWW STEVE,        <Channel name: clix>,       2024-11-07 16:18:49.355820 
+minimum04,     W STEVE,        <Channel name: clix>,       2024-11-07 16:19:24.124182 

@@ -6,3 +6,17 @@
  pridsfv,     !colourblind,        <Channel name: mongraal>,       2024-11-07 11:44:04.167959 
 
  pridsfv,     !brightness,        <Channel name: mongraal>,       2024-11-07 11:44:08.824128 
+pridsfv,     !eor,        <Channel name: mongraal>,       2024-11-07 15:34:19.019998 
+pridsfv,     !nvidia,        <Channel name: mongraal>,       2024-11-07 15:34:31.717215 
+pridsfv,     !zonewars,        <Channel name: mongraal>,       2024-11-07 15:39:30.020218 
+pridsfv,     !1v1,        <Channel name: mongraal>,       2024-11-07 15:39:38.425392 
+pridsfv,     !boxfights,        <Channel name: mongraal>,       2024-11-07 15:39:45.516807 
+pridsfv,     !trio,        <Channel name: mongraal>,       2024-11-07 15:39:52.151165 
+pridsfv,     !marius,        <Channel name: mongraal>,       2024-11-07 15:40:22.861617 
+pridsfv,     !trio,        <Channel name: mongraal>,       2024-11-07 16:44:49.132302 
+pridsfv,     !duo,        <Channel name: mongraal>,       2024-11-07 16:45:09.930740 
+pridsfv,     !dad,        <Channel name: mongraal>,       2024-11-07 16:45:24.158911 
+pridsfv,     !scrollwheel,        <Channel name: mongraal>,       2024-11-07 16:46:02.802956 
+pridsfv,     !reset,        <Channel name: mongraal>,       2024-11-07 16:46:08.620922 
+pridsfv,     !binds,        <Channel name: mongraal>,       2024-11-07 16:46:15.209904 
+pridsfv,     would u ever join another org,        <Channel name: mongraal>,       2024-11-07 16:47:22.941670 

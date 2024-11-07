@@ -1,0 +1,7 @@
+monkeytron520,     LET SYM SNIPEE,        <Channel name: adapt>,       2024-11-07 15:46:23.719098 
+monkeytron520,     LET SYMFUHNY SNIPE,        <Channel name: adapt>,       2024-11-07 15:46:33.103860 
+monkeytron520,     TELL SYM TO SNIPE,        <Channel name: adapt>,       2024-11-07 15:46:49.596833 
+monkeytron520,     TELL SYMFUHNY TO SNIPE!!!,        <Channel name: adapt>,       2024-11-07 15:47:05.068838 
+monkeytron520,     LET SYM SNIPE ADAPT,        <Channel name: adapt>,       2024-11-07 15:47:19.285813 
+monkeytron520,     LET SYM SNIPE,        <Channel name: adapt>,       2024-11-07 15:47:38.601715 
+monkeytron520,     YES,        <Channel name: adapt>,       2024-11-07 15:49:29.829993 

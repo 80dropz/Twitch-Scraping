@@ -1,0 +1,6 @@
+
+ bigzekn,     !team,        <Channel name: formal>,       2024-11-07 15:23:30.543090 
+
+ bigzekn,     this team is nice,        <Channel name: formal>,       2024-11-07 15:23:45.656280 
+
+ bigzekn,     ah man i wanna hotdog,        <Channel name: nadeshot>,       2024-11-07 15:25:34.025737 

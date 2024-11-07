@@ -1,0 +1,1 @@
+nizar_tkt,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:52.002677 

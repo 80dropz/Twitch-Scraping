@@ -1,0 +1,4 @@
+
+ greg0201,     !bracket,        <Channel name: adapt>,       2024-11-07 14:46:23.430206 
+greg0201,     hi,        <Channel name: adapt>,       2024-11-07 15:51:41.470566 
+greg0201,     lol,        <Channel name: stableronaldo>,       2024-11-07 16:23:36.019685 

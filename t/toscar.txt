@@ -1,0 +1,5 @@
+toscar,     Clap,        <Channel name: pokelawls>,       2024-11-07 16:13:08.489394 
+toscar,     SCHIZO,        <Channel name: pokelawls>,       2024-11-07 16:13:10.134558 
+toscar,     play lacaris sound now,        <Channel name: pokelawls>,       2024-11-07 16:13:33.797660 
+toscar,     yes,        <Channel name: pokelawls>,       2024-11-07 16:18:01.852682 
+toscar,     Gregory,        <Channel name: pokelawls>,       2024-11-07 16:45:57.440201 

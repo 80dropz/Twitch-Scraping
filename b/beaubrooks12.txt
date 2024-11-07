@@ -1,0 +1,11 @@
+beaubrooks12,     put the bucket on the grate and let it boil and then dump water on it,        <Channel name: kaicenat>,       2024-11-07 16:42:34.701783 
+beaubrooks12,     put bucket on grate and let water boil,        <Channel name: kaicenat>,       2024-11-07 16:43:09.732559 
+beaubrooks12,     put bucket on grate with water in it and let it boil,        <Channel name: kaicenat>,       2024-11-07 16:43:56.432972 
+beaubrooks12,     boil water,        <Channel name: kaicenat>,       2024-11-07 16:45:13.492195 
+beaubrooks12,     boil water with the bucket,        <Channel name: kaicenat>,       2024-11-07 16:45:25.931127 
+beaubrooks12,     boil water with bucket,        <Channel name: kaicenat>,       2024-11-07 16:45:39.195533 
+beaubrooks12,     boil water with bucket,        <Channel name: kaicenat>,       2024-11-07 16:46:11.986176 
+beaubrooks12,     for steam,        <Channel name: kaicenat>,       2024-11-07 16:46:17.869482 
+beaubrooks12,     boil water with bucket for steam,        <Channel name: kaicenat>,       2024-11-07 16:46:36.363126 
+beaubrooks12,     boil water with bucket,        <Channel name: kaicenat>,       2024-11-07 16:47:33.579167 
+beaubrooks12,     boil water with bucket,        <Channel name: kaicenat>,       2024-11-07 16:48:13.200963 

@@ -1,0 +1,4 @@
+braytop,     gg,        <Channel name: kaicenat>,       2024-11-07 16:38:09.598361 
+braytop,     gg,        <Channel name: kaicenat>,       2024-11-07 16:40:41.946734 
+braytop,     g,        <Channel name: kaicenat>,       2024-11-07 16:40:43.072720 
+braytop,     gg,        <Channel name: kaicenat>,       2024-11-07 16:42:04.808992 

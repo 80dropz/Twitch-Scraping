@@ -1,0 +1,2 @@
+misaczek01,     Close the door,        <Channel name: kaicenat>,       2024-11-07 16:35:06.174197 
+misaczek01,     Close the door.,        <Channel name: kaicenat>,       2024-11-07 16:35:38.088383 

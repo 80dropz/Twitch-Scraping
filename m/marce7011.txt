@@ -12,3 +12,6 @@
  marce7011,     average clix stream,        <Channel name: clix>,       2024-11-07 13:18:56.155212 
 
  marce7011,     it was funny and we understood it was a joke,        <Channel name: clix>,       2024-11-07 13:21:04.261600 
+
+ marce7011,     didnt know aussie was chill like that,        <Channel name: clix>,       2024-11-07 14:52:35.722813 
+marce7011,     lmao,        <Channel name: clix>,       2024-11-07 15:30:12.456961 

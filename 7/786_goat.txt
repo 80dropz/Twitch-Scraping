@@ -1,0 +1,8 @@
+786_goat,     WW,        <Channel name: mongraal>,       2024-11-07 15:43:58.048435 
+786_goat,     LOL,        <Channel name: mongraal>,       2024-11-07 15:53:36.900492 
+786_goat,     WWW,        <Channel name: mongraal>,       2024-11-07 15:53:42.559174 
+786_goat,     WWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 15:54:44.976378 
+786_goat,     MMMMMMMMMMM,        <Channel name: mongraal>,       2024-11-07 15:56:35.002300 
+786_goat,     NOOOOOOOOOOOOOOOOOOOOOOOOO,        <Channel name: mongraal>,       2024-11-07 15:57:23.144953 
+786_goat,     YOOOOOOOOOOOOOOOOOO,        <Channel name: mongraal>,       2024-11-07 16:18:27.628839 
+786_goat,     LOL,        <Channel name: mongraal>,       2024-11-07 16:18:30.210963 

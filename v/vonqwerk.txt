@@ -1,0 +1,4 @@
+vonqwerk,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:32.062538 
+vonqwerk,     ggs,        <Channel name: kaicenat>,       2024-11-07 16:34:11.353868 
+vonqwerk,     GGS,        <Channel name: kaicenat>,       2024-11-07 16:37:41.861276 
+vonqwerk,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:40:19.226597 

@@ -6,3 +6,4 @@
  trendz1_,     dump water on kai,        <Channel name: kaicenat>,       2024-11-07 09:29:26.491071 
 
  trendz1_,     LOL,        <Channel name: mongraal>,       2024-11-07 09:43:49.383063 
+trendz1_,     cap,        <Channel name: lacy>,       2024-11-07 16:22:31.545434 

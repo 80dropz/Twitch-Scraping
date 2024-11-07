@@ -1,0 +1,3 @@
+mir_sh,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:05.695415 
+mir_sh,     mmmmmmmm,        <Channel name: stableronaldo>,       2024-11-07 16:20:07.941103 
+mir_sh,     rock interview,        <Channel name: stableronaldo>,       2024-11-07 16:20:39.215265 

@@ -1,0 +1,2 @@
+a999d1,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:27.502038 
+a999d1,     W,        <Channel name: stableronaldo>,       2024-11-07 16:19:51.387279 

@@ -1,0 +1,54 @@
+
+ ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 15:27:35.901772 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 15:28:33.547750 
+ocean_waves14,     the locker,        <Channel name: lacy>,       2024-11-07 15:28:57.011477 
+ocean_waves14,     SMH,        <Channel name: lacy>,       2024-11-07 15:29:00.227418 
+ocean_waves14,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:29:25.673764 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 15:32:02.975651 
+ocean_waves14,     poor lina,        <Channel name: lacy>,       2024-11-07 15:33:05.510543 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 15:34:37.061682 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 15:45:30.065508 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 15:50:09.472899 
+ocean_waves14,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:50:24.136160 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 15:50:45.248884 
+ocean_waves14,     <message shook by Drew>,        <Channel name: lacy>,       2024-11-07 15:51:09.939849 
+ocean_waves14,     @jjaidens1226 shush,        <Channel name: lacy>,       2024-11-07 15:53:36.688451 
+ocean_waves14,     @jjaidens1226 I don’t have one,        <Channel name: lacy>,       2024-11-07 15:54:02.299491 
+ocean_waves14,     @jjaidens1226 then who is it mf,        <Channel name: lacy>,       2024-11-07 15:54:31.776369 
+ocean_waves14,     @jjaidens1226 he’s not my bf retard,        <Channel name: lacy>,       2024-11-07 15:54:49.801106 
+ocean_waves14,     @jjaidens1226 we barely talk,        <Channel name: lacy>,       2024-11-07 15:55:12.244271 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 15:55:59.292425 
+ocean_waves14,     LMAO,        <Channel name: lacy>,       2024-11-07 15:56:47.058275 
+ocean_waves14,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:57:00.291932 
+ocean_waves14,     ayo,        <Channel name: lacy>,       2024-11-07 15:58:42.902834 
+ocean_waves14,     LMAOOO,        <Channel name: lacy>,       2024-11-07 15:59:23.338906 
+ocean_waves14,     lacySexo,        <Channel name: lacy>,       2024-11-07 16:00:47.535799 
+ocean_waves14,     yup,        <Channel name: lacy>,       2024-11-07 16:01:21.268113 
+ocean_waves14,     LOL,        <Channel name: lacy>,       2024-11-07 16:01:28.383776 
+ocean_waves14,     squid,        <Channel name: lacy>,       2024-11-07 16:04:02.981828 
+ocean_waves14,     cmonBruh,        <Channel name: lacy>,       2024-11-07 16:05:40.309480 
+ocean_waves14,     WHAT,        <Channel name: lacy>,       2024-11-07 16:06:59.063042 
+ocean_waves14,     mmmm,        <Channel name: lacy>,       2024-11-07 16:11:43.748721 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:12:27.697343 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 16:12:48.053788 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:13:37.116524 
+ocean_waves14,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:40.076670 
+ocean_waves14,     ta,        <Channel name: lacy>,       2024-11-07 16:15:43.161029 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:16:16.211895 
+ocean_waves14,     D:,        <Channel name: lacy>,       2024-11-07 16:16:19.004789 
+ocean_waves14,     cum,        <Channel name: lacy>,       2024-11-07 16:16:31.962117 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:17:12.062118 
+ocean_waves14,     guuh,        <Channel name: lacy>,       2024-11-07 16:17:17.721762 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:18:25.044355 
+ocean_waves14,     LMAO,        <Channel name: lacy>,       2024-11-07 16:19:08.025853 
+ocean_waves14,     LMFAO,        <Channel name: lacy>,       2024-11-07 16:19:18.360074 
+ocean_waves14,     LMAO,        <Channel name: lacy>,       2024-11-07 16:19:59.071918 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:20:17.374034 
+ocean_waves14,     AYO,        <Channel name: lacy>,       2024-11-07 16:20:28.627073 
+ocean_waves14,     LMAO,        <Channel name: lacy>,       2024-11-07 16:21:01.409091 
+ocean_waves14,     LMAO,        <Channel name: lacy>,       2024-11-07 16:22:56.853743 
+ocean_waves14,     yes,        <Channel name: lacy>,       2024-11-07 16:23:00.095234 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:23:13.869052 
+ocean_waves14,     gg,        <Channel name: lacy>,       2024-11-07 16:23:22.492556 
+ocean_waves14,     uuh,        <Channel name: lacy>,       2024-11-07 16:24:37.213749 
+ocean_waves14,     YO,        <Channel name: lacy>,       2024-11-07 16:26:02.130784 

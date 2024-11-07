@@ -1,2 +1,4 @@
 
  logansrude,     peace,        <Channel name: caseoh_>,       2024-11-07 02:12:39.753498 
+logansrude,     whats the song called,        <Channel name: nadeshot>,       2024-11-07 15:50:19.125808 
+logansrude,     RIP,        <Channel name: nadeshot>,       2024-11-07 15:56:25.340276 

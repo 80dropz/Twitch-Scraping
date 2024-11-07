@@ -1,0 +1,2 @@
+vresplend,     !commands,        <Channel name: nadeshot>,       2024-11-07 15:34:01.605877 
+vresplend,     nt brother,        <Channel name: nadeshot>,       2024-11-07 15:45:15.014583 

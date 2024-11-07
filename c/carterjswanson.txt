@@ -1,0 +1,3 @@
+carterjswanson,     L SON,        <Channel name: stableronaldo>,       2024-11-07 16:08:41.926494 
+carterjswanson,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:11.122467 
+carterjswanson,     no,        <Channel name: stableronaldo>,       2024-11-07 16:10:22.438603 

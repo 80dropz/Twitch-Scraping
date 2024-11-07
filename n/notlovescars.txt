@@ -2,3 +2,9 @@
  notlovescars,     T2G,        <Channel name: nadeshot>,       2024-11-07 11:36:59.804165 
 
  notlovescars,     T2P LETSGO,        <Channel name: nadeshot>,       2024-11-07 11:37:42.801554 
+
+ notlovescars,     POGGERS,        <Channel name: nadeshot>,       2024-11-07 15:27:32.984214 
+notlovescars,     RareParrot,        <Channel name: nadeshot>,       2024-11-07 15:32:15.217048 
+notlovescars,     PepePls,        <Channel name: nadeshot>,       2024-11-07 15:33:39.865945 
+notlovescars,     pepeClap,        <Channel name: nadeshot>,       2024-11-07 15:34:59.048045 
+notlovescars,     Sadge,        <Channel name: nadeshot>,       2024-11-07 15:42:24.636655 

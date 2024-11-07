@@ -1,0 +1,13 @@
+adddam_kk,     w,        <Channel name: kaicenat>,       2024-11-07 16:24:31.267816 
+adddam_kk,     yes,        <Channel name: kaicenat>,       2024-11-07 16:26:07.399611 
+adddam_kk,     good,        <Channel name: kaicenat>,       2024-11-07 16:26:14.045777 
+adddam_kk,     warm it to be hot and then spray it w water,        <Channel name: kaicenat>,       2024-11-07 16:28:11.368675 
+adddam_kk,     just spill it over,        <Channel name: kaicenat>,       2024-11-07 16:28:16.962351 
+adddam_kk,     no,        <Channel name: kaicenat>,       2024-11-07 16:29:51.685833 
+adddam_kk,     try and youll see,        <Channel name: kaicenat>,       2024-11-07 16:32:04.352143 
+adddam_kk,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:52.933035 
+adddam_kk,     no,        <Channel name: kaicenat>,       2024-11-07 16:33:02.059160 
+adddam_kk,     wait for it to be real hot,        <Channel name: kaicenat>,       2024-11-07 16:33:15.451022 
+adddam_kk,     put it on 10,        <Channel name: kaicenat>,       2024-11-07 16:34:01.784868 
+adddam_kk,     put it on 10,        <Channel name: kaicenat>,       2024-11-07 16:35:20.323930 
+adddam_kk,     put it on level 10,        <Channel name: kaicenat>,       2024-11-07 16:35:38.668370 

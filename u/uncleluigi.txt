@@ -1,0 +1,5 @@
+uncleluigi,     !points,        <Channel name: kaicenat>,       2024-11-07 15:41:36.465150 
+uncleluigi,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:41:51.032458 
+uncleluigi,     !gamble 4,        <Channel name: kaicenat>,       2024-11-07 15:42:09.882672 
+uncleluigi,     !points,        <Channel name: kaicenat>,       2024-11-07 15:42:24.468797 
+uncleluigi,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:42:33.853253 

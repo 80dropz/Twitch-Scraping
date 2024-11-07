@@ -1,2 +1,4 @@
 
  havoc_aris,     no,        <Channel name: nadeshot>,       2024-11-07 12:35:20.997609 
+havoc_aris,     LUL,        <Channel name: nadeshot>,       2024-11-07 15:28:40.541320 
+havoc_aris,     DinoDance DinoDance DinoDance DinoDance,        <Channel name: nadeshot>,       2024-11-07 15:48:31.548085 

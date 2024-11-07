@@ -60,3 +60,15 @@
  deeshebomb,     potatoes salad with raisins,        <Channel name: swagg>,       2024-11-07 13:02:57.588801 
 
  deeshebomb,     uncooked chicken,        <Channel name: swagg>,       2024-11-07 13:03:39.993165 
+deeshebomb,     LETS GOOOOOOOO,        <Channel name: swagg>,       2024-11-07 16:53:58.994090 
+deeshebomb,     swegVamos swegVamos swegVamos swegVamos swegVamos,        <Channel name: swagg>,       2024-11-07 16:54:01.221571 
+deeshebomb,     swegVamos swegVamos swegVamos swegVamos,        <Channel name: swagg>,       2024-11-07 16:54:29.502956 
+deeshebomb,     Come onnnnnn,        <Channel name: swagg>,       2024-11-07 16:54:44.013645 
+deeshebomb,     w,        <Channel name: swagg>,       2024-11-07 16:55:40.592210 
+deeshebomb,     wwwwww,        <Channel name: swagg>,       2024-11-07 16:55:42.337479 
+deeshebomb,     w,        <Channel name: swagg>,       2024-11-07 16:55:48.096441 
+deeshebomb,     wwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:51.334764 
+deeshebomb,     ww,        <Channel name: swagg>,       2024-11-07 16:55:53.594275 
+deeshebomb,     wwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:57.112854 
+deeshebomb,     ww,        <Channel name: swagg>,       2024-11-07 16:55:59.025062 
+deeshebomb,     w,        <Channel name: swagg>,       2024-11-07 16:56:00.172596 

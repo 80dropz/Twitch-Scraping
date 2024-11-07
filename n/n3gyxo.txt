@@ -1,0 +1,18 @@
+
+ n3gyxo,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 15:26:44.294223 
+
+ n3gyxo,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 15:27:34.163148 
+n3gyxo,     Mods coin flip?,        <Channel name: kaicenat>,       2024-11-07 15:41:38.415667 
+n3gyxo,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:42:19.244325 
+n3gyxo,     !roulette 158,        <Channel name: kaicenat>,       2024-11-07 15:42:29.557720 
+n3gyxo,     !roulette 316,        <Channel name: kaicenat>,       2024-11-07 15:42:47.460505 
+n3gyxo,     !roulette 38,        <Channel name: kaicenat>,       2024-11-07 15:42:58.335377 
+n3gyxo,     !roulette 34,        <Channel name: kaicenat>,       2024-11-07 15:43:07.559311 
+n3gyxo,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 15:43:18.929304 
+n3gyxo,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:43:37.307296 
+n3gyxo,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 15:43:44.094779 
+n3gyxo,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 15:43:53.067710 
+n3gyxo,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 15:44:04.302090 
+n3gyxo,     !roulette 225,        <Channel name: kaicenat>,       2024-11-07 15:44:23.415399 
+n3gyxo,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 15:44:39.478772 
+n3gyxo,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:54.213377 

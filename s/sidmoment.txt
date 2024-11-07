@@ -1,0 +1,6 @@
+sidmoment,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:27.375789 
+sidmoment,     ur life is over brother,        <Channel name: stableronaldo>,       2024-11-07 16:06:52.075982 
+sidmoment,     true,        <Channel name: stableronaldo>,       2024-11-07 16:07:03.104542 
+sidmoment,     TRUE,        <Channel name: stableronaldo>,       2024-11-07 16:07:41.881211 
+sidmoment,     eat better food,        <Channel name: stableronaldo>,       2024-11-07 16:07:48.349613 
+sidmoment,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:08:07.407100 

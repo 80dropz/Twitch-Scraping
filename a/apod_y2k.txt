@@ -1,0 +1,5 @@
+apod_y2k,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:09.703593 
+apod_y2k,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:11.056751 
+apod_y2k,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:13.319749 
+apod_y2k,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:57.362506 
+apod_y2k,     YES,        <Channel name: kaicenat>,       2024-11-07 16:56:01.551735 

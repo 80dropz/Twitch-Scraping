@@ -1,0 +1,4 @@
+magicrecord13,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:17.420504 
+magicrecord13,     She is right.,        <Channel name: stableronaldo>,       2024-11-07 16:08:04.248410 
+magicrecord13,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:10:45.350144 
+magicrecord13,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:50.340560 

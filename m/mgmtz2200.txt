@@ -74,3 +74,11 @@
  mgmtz2200,     yea,        <Channel name: kaicenat>,       2024-11-07 13:35:54.812716 
 
  mgmtz2200,     RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK/RAKAI HAS TO DO HOMEWORK,        <Channel name: kaicenat>,       2024-11-07 13:36:21.971858 
+
+ mgmtz2200,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:10.754383 
+
+ mgmtz2200,     RAKAI CAM,        <Channel name: kaicenat>,       2024-11-07 14:53:36.533775 
+
+ mgmtz2200,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:54:12.707185 
+
+ mgmtz2200,     RAKAI CAM,        <Channel name: kaicenat>,       2024-11-07 14:54:20.082742 

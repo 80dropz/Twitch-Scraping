@@ -1,0 +1,2 @@
+splunk304,     dude just got kissed by a minor,        <Channel name: lacy>,       2024-11-07 16:26:18.032229 
+splunk304,     pin,        <Channel name: lacy>,       2024-11-07 16:26:44.860720 

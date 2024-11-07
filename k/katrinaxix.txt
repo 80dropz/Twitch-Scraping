@@ -12,3 +12,5 @@
  katrinaxix,     41,        <Channel name: kaicenat>,       2024-11-07 12:45:08.932262 
 
  katrinaxix,     40,        <Channel name: kaicenat>,       2024-11-07 12:45:15.356060 
+katrinaxix,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:43:52.936381 
+katrinaxix,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:44:16.666684 

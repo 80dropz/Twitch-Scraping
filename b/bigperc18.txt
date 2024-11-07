@@ -1,0 +1,2 @@
+bigperc18,     it tkaes like 30 minutes,        <Channel name: kaicenat>,       2024-11-07 16:36:06.686049 
+bigperc18,     it takes like 30 minutes,        <Channel name: kaicenat>,       2024-11-07 16:36:13.423065 

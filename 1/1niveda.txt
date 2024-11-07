@@ -1,0 +1,32 @@
+1niveda,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:45.422843 
+1niveda,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:06.262295 
+1niveda,     good,        <Channel name: stableronaldo>,       2024-11-07 15:57:58.183915 
+1niveda,     RT,        <Channel name: stableronaldo>,       2024-11-07 15:58:13.171431 
+1niveda,     cap,        <Channel name: stableronaldo>,       2024-11-07 15:58:51.860385 
+1niveda,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:00.477785 
+1niveda,     OV,        <Channel name: stableronaldo>,       2024-11-07 16:00:20.705769 
+1niveda,     1/1,        <Channel name: stableronaldo>,       2024-11-07 16:00:58.419609 
+1niveda,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:07.226593 
+1niveda,     yea gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:24.843002 
+1niveda,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:49.455904 
+1niveda,     10k,        <Channel name: stableronaldo>,       2024-11-07 16:03:37.791594 
+1niveda,     LMAOO,        <Channel name: stableronaldo>,       2024-11-07 16:04:08.694191 
+1niveda,     me,        <Channel name: stableronaldo>,       2024-11-07 16:05:09.613762 
+1niveda,     ONG I REMEMBER THIS,        <Channel name: stableronaldo>,       2024-11-07 16:05:18.404322 
+1niveda,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:05:23.966904 
+1niveda,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:05:27.189856 
+1niveda,     LMAOO,        <Channel name: stableronaldo>,       2024-11-07 16:05:53.342219 
+1niveda,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:07:03.693105 
+1niveda,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:10.438109 
+1niveda,     LMAOO,        <Channel name: stableronaldo>,       2024-11-07 16:08:21.373194 
+1niveda,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:08:36.707591 
+1niveda,     LMAOO,        <Channel name: stableronaldo>,       2024-11-07 16:08:46.383501 
+1niveda,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:50.697283 
+1niveda,     ??,        <Channel name: stableronaldo>,       2024-11-07 16:09:02.962238 
+1niveda,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:16.782399 
+1niveda,     i miss this old ron,        <Channel name: stableronaldo>,       2024-11-07 16:09:22.230336 
+1niveda,     IWASHERE,        <Channel name: stableronaldo>,       2024-11-07 16:09:27.521713 
+1niveda,     on my life IWASHERE,        <Channel name: stableronaldo>,       2024-11-07 16:09:35.108567 
+1niveda,     MEE,        <Channel name: stableronaldo>,       2024-11-07 16:09:53.701524 
+1niveda,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:04.908390 
+1niveda,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:10:38.355212 

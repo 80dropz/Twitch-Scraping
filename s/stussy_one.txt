@@ -1,0 +1,4 @@
+stussy_one,     GET SOME FLOATYS,        <Channel name: kaicenat>,       2024-11-07 16:22:45.516325 
+stussy_one,     GET SOME FLOATY,        <Channel name: kaicenat>,       2024-11-07 16:23:01.036421 
+stussy_one,     DO A FLIP INTO THE POOL,        <Channel name: kaicenat>,       2024-11-07 16:23:38.104575 
+stussy_one,     DO A FLIP IN THE POOL,        <Channel name: kaicenat>,       2024-11-07 16:24:05.528335 

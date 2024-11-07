@@ -1,0 +1,6 @@
+iam_staka,     BRO STOP SWINGING,        <Channel name: kaicenat>,       2024-11-07 15:32:56.407728 
+iam_staka,     L SWING,        <Channel name: kaicenat>,       2024-11-07 15:33:01.060833 
+iam_staka,     L FORM,        <Channel name: kaicenat>,       2024-11-07 15:33:04.104900 
+iam_staka,     L SWING BRO,        <Channel name: kaicenat>,       2024-11-07 15:33:11.131999 
+iam_staka,     EONT SWING,        <Channel name: kaicenat>,       2024-11-07 15:33:19.104971 
+iam_staka,     ayoooooooooooooo,        <Channel name: kaicenat>,       2024-11-07 15:33:57.185116 

@@ -1,0 +1,2 @@
+abhound,     w,        <Channel name: kaicenat>,       2024-11-07 16:14:53.690549 
+abhound,     I’m on my bus right now,        <Channel name: kaicenat>,       2024-11-07 16:15:05.112016 

@@ -8,3 +8,32 @@
  dralix_x,     gg,        <Channel name: mongraal>,       2024-11-07 11:46:32.738909 
 
  dralix_x,     !res,        <Channel name: mongraal>,       2024-11-07 11:51:26.431620 
+dralix_x,     lol,        <Channel name: mongraal>,       2024-11-07 15:36:50.189967 
+dralix_x,     stop snus,        <Channel name: mongraal>,       2024-11-07 15:42:11.368613 
+dralix_x,     2x,        <Channel name: mongraal>,       2024-11-07 15:42:52.919040 
+dralix_x,     3x,        <Channel name: mongraal>,       2024-11-07 15:42:58.182699 
+dralix_x,     comeback 3x,        <Channel name: mongraal>,       2024-11-07 15:43:22.455766 
+dralix_x,     no 3x,        <Channel name: mongraal>,       2024-11-07 15:43:45.300440 
+dralix_x,     4x,        <Channel name: mongraal>,       2024-11-07 15:44:00.129502 
+dralix_x,     4x pushups,        <Channel name: mongraal>,       2024-11-07 15:44:13.618293 
+dralix_x,     2 more,        <Channel name: mongraal>,       2024-11-07 15:45:20.678483 
+dralix_x,     again,        <Channel name: mongraal>,       2024-11-07 15:46:08.918417 
+dralix_x,     2more,        <Channel name: mongraal>,       2024-11-07 15:46:51.223540 
+dralix_x,     WW,        <Channel name: mongraal>,       2024-11-07 15:47:00.243947 
+dralix_x,     lol,        <Channel name: mongraal>,       2024-11-07 15:47:11.093601 
+dralix_x,     yooooooooo,        <Channel name: mongraal>,       2024-11-07 15:48:37.160318 
+dralix_x,     haha,        <Channel name: mongraal>,       2024-11-07 15:48:44.586055 
+dralix_x,     again,        <Channel name: mongraal>,       2024-11-07 15:49:14.276671 
+dralix_x,     sccroll up again,        <Channel name: mongraal>,       2024-11-07 15:49:20.786823 
+dralix_x,     2x again,        <Channel name: mongraal>,       2024-11-07 15:49:30.835787 
+dralix_x,     1 more mongy,        <Channel name: mongraal>,       2024-11-07 15:50:06.090895 
+dralix_x,     XD,        <Channel name: mongraal>,       2024-11-07 15:52:38.033226 
+dralix_x,     3)PUSHUPS,        <Channel name: mongraal>,       2024-11-07 15:52:50.769031 
+dralix_x,     60PUSHUPS,        <Channel name: mongraal>,       2024-11-07 15:52:57.523617 
+dralix_x,     80PUSH UPS,        <Channel name: mongraal>,       2024-11-07 15:53:11.581355 
+dralix_x,     90 push ups,        <Channel name: mongraal>,       2024-11-07 15:53:24.917248 
+dralix_x,     78 pushups more,        <Channel name: mongraal>,       2024-11-07 15:54:19.313238 
+dralix_x,     xd,        <Channel name: mongraal>,       2024-11-07 15:54:29.567725 
+dralix_x,     88 push ups,        <Channel name: mongraal>,       2024-11-07 15:54:48.085122 
+dralix_x,     100pushups tomorow,        <Channel name: mongraal>,       2024-11-07 15:55:29.700550 
+dralix_x,     11??,        <Channel name: mongraal>,       2024-11-07 16:55:27.618860 

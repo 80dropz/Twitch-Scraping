@@ -1,2 +1,4 @@
 
  tweazy2k,     !crosshair,        <Channel name: mongraal>,       2024-11-07 11:37:24.295088 
+tweazy2k,     YP,        <Channel name: mongraal>,       2024-11-07 16:15:02.011675 
+tweazy2k,     !TRIO,        <Channel name: mongraal>,       2024-11-07 16:15:22.870632 

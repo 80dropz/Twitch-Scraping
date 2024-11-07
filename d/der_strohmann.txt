@@ -12,3 +12,21 @@
  der_strohmann,     Ask if she has any Probes ibabyUFO,        <Channel name: ibabyrainbow>,       2024-11-07 12:59:39.175881 
 
  der_strohmann,     !gamble 32,        <Channel name: ibabyrainbow>,       2024-11-07 13:01:05.222885 
+
+ der_strohmann,     It's Summer again in New England,        <Channel name: ibabyrainbow>,       2024-11-07 15:23:22.897219 
+
+ der_strohmann,     Bat country,        <Channel name: ibabyrainbow>,       2024-11-07 15:23:41.894176 
+
+ der_strohmann,     They're cute and they eat mosquitoes,        <Channel name: ibabyrainbow>,       2024-11-07 15:25:03.897193 
+
+ der_strohmann,     Looks like Kazakhstan,        <Channel name: ibabyrainbow>,       2024-11-07 15:27:01.620405 
+
+ der_strohmann,     LUL ibabyWiggle,        <Channel name: ibabyrainbow>,       2024-11-07 15:27:46.739270 
+der_strohmann,     Cows are hogging the WiFi,        <Channel name: ibabyrainbow>,       2024-11-07 15:31:23.044948 
+der_strohmann,     who was that?,        <Channel name: ibabyrainbow>,       2024-11-07 15:33:32.245582 
+der_strohmann,     Americas Got Tourettes,        <Channel name: ibabyrainbow>,       2024-11-07 15:34:26.105079 
+der_strohmann,     Is this StarLink now?,        <Channel name: ibabyrainbow>,       2024-11-07 15:35:06.905000 
+der_strohmann,     What Gen is your StarLink?,        <Channel name: ibabyrainbow>,       2024-11-07 15:36:46.104766 
+der_strohmann,     Pentagram link requires daily sacrifices,        <Channel name: ibabyrainbow>,       2024-11-07 15:37:31.772900 
+der_strohmann,     cig lighter is 12 volts?,        <Channel name: ibabyrainbow>,       2024-11-07 15:38:05.873112 
+der_strohmann,     Starlink gen 3 needs 60 volts,        <Channel name: ibabyrainbow>,       2024-11-07 15:38:22.100202 

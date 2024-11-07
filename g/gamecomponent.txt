@@ -1,0 +1,2 @@
+gamecomponent,     You need to hire someone to clean the house bro!,        <Channel name: kaicenat>,       2024-11-07 16:21:25.214718 
+gamecomponent,     mic,        <Channel name: kaicenat>,       2024-11-07 16:30:06.265694 

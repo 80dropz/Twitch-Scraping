@@ -1,0 +1,2 @@
+z3n20035,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:44.923150 
+z3n20035,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:46:46.682962 

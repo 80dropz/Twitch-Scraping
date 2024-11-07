@@ -1,0 +1,1 @@
+promr,     join,        <Channel name: felo>,       2024-11-07 16:40:28.278697 

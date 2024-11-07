@@ -1,0 +1,6 @@
+456luck,     sub me,        <Channel name: kaicenat>,       2024-11-07 15:28:33.487856 
+456luck,     sub mee,        <Channel name: kaicenat>,       2024-11-07 15:28:43.083434 
+456luck,     kaicCryy_SG,        <Channel name: kaicenat>,       2024-11-07 15:38:59.981571 
+456luck,     someone gift mee,        <Channel name: kaicenat>,       2024-11-07 15:54:06.280634 
+456luck,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 15:54:29.670276 
+456luck,     someone gift me!,        <Channel name: kaicenat>,       2024-11-07 15:54:52.345135 

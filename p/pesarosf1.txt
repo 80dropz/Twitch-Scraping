@@ -1,0 +1,2 @@
+pesarosf1,     low iron,        <Channel name: stableronaldo>,       2024-11-07 16:01:00.339044 
+pesarosf1,     iron deficiency,        <Channel name: stableronaldo>,       2024-11-07 16:01:33.287005 

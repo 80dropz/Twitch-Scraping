@@ -1,0 +1,2 @@
+topthugshooter,     !setup,        <Channel name: kaicenat>,       2024-11-07 16:51:22.502769 
+topthugshooter,     !setup,        <Channel name: mongraal>,       2024-11-07 16:51:51.395370 

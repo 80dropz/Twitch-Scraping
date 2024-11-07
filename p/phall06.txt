@@ -1,0 +1,7 @@
+phall06,     this needs to happen,        <Channel name: stableronaldo>,       2024-11-07 16:20:22.478694 
+phall06,     classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:39.605953 
+phall06,     CLASSIC,        <Channel name: stableronaldo>,       2024-11-07 16:20:48.683328 
+phall06,     Ww,        <Channel name: stableronaldo>,       2024-11-07 16:21:10.074720 
+phall06,     mmm,        <Channel name: stableronaldo>,       2024-11-07 16:23:24.080439 
+phall06,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:13.542479 
+phall06,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:24:22.229159 

@@ -1,0 +1,4 @@
+zod1n,     on god,        <Channel name: lacy>,       2024-11-07 15:50:22.623711 
+zod1n,     rt,        <Channel name: lacy>,       2024-11-07 15:50:25.850849 
+zod1n,     rtt,        <Channel name: lacy>,       2024-11-07 15:50:27.665617 
+zod1n,     rt,        <Channel name: lacy>,       2024-11-07 15:50:28.700033 

@@ -1,0 +1,6 @@
+ibbi_rl,     FARTIIII,        <Channel name: kaicenat>,       2024-11-07 16:14:54.385081 
+ibbi_rl,     CARTIIII,        <Channel name: kaicenat>,       2024-11-07 16:15:01.503853 
+ibbi_rl,     FWEAGGGHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:15:12.191871 
+ibbi_rl,     FWEAH,        <Channel name: kaicenat>,       2024-11-07 16:15:16.599513 
+ibbi_rl,     FWEAHHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:15:24.293119 
+ibbi_rl,     DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:15:55.960001 

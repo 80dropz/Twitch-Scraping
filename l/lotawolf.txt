@@ -1,0 +1,4 @@
+lotawolf,     !SUBATHON,        <Channel name: nadeshot>,       2024-11-07 16:32:03.360268 
+lotawolf,     !TTS,        <Channel name: nadeshot>,       2024-11-07 16:32:20.227856 
+lotawolf,     what day is he on ?,        <Channel name: nadeshot>,       2024-11-07 16:32:42.372402 
+lotawolf,     !uptime,        <Channel name: nadeshot>,       2024-11-07 16:34:28.013525 

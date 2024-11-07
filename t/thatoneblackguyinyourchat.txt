@@ -1,0 +1,2 @@
+thatoneblackguyinyourchat,     i,        <Channel name: kaicenat>,       2024-11-07 16:40:35.653611 
+thatoneblackguyinyourchat,     o,        <Channel name: kaicenat>,       2024-11-07 16:40:38.496584 

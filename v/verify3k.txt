@@ -2,3 +2,8 @@
  verify3k,     delay,        <Channel name: kaicenat>,       2024-11-07 01:40:43.507434 
 
  verify3k,     5v5,        <Channel name: kaicenat>,       2024-11-07 02:37:32.122159 
+verify3k,     !points,        <Channel name: kaicenat>,       2024-11-07 15:38:03.466112 
+verify3k,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:38:17.489349 
+verify3k,     !roulette 100000,        <Channel name: kaicenat>,       2024-11-07 15:38:51.599274 
+verify3k,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:39:10.084271 
+verify3k,     !gamble 50000,        <Channel name: kaicenat>,       2024-11-07 15:40:11.344202 

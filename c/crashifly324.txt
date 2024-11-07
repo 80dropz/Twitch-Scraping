@@ -170,3 +170,67 @@
  crashifly324,     !poll,        <Channel name: nadeshot>,       2024-11-07 12:43:33.221184 
 
  crashifly324,     HolidaySanta nadeHaley_HF nadeW nadeGracie nadeHaley HolidaySanta HolidayTree,        <Channel name: nadeshot>,       2024-11-07 12:45:12.825440 
+
+ crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 14:47:12.686505 
+
+ crashifly324,     !fetch,        <Channel name: nadeshot>,       2024-11-07 14:48:12.622589 
+
+ crashifly324,     !feed,        <Channel name: nadeshot>,       2024-11-07 14:48:42.139725 
+
+ crashifly324,     !pet,        <Channel name: nadeshot>,       2024-11-07 14:49:00.354785 
+
+ crashifly324,     nadeGary,        <Channel name: nadeshot>,       2024-11-07 14:49:18.300653 
+
+ crashifly324,     !mYd,        <Channel name: nadeshot>,       2024-11-07 14:53:04.119702 
+
+ crashifly324,     thugsParty thugsSway,        <Channel name: nadeshot>,       2024-11-07 14:53:38.610877 
+
+ crashifly324,     !mYd,        <Channel name: nadeshot>,       2024-11-07 14:53:53.245737 
+
+ crashifly324,     !myd,        <Channel name: nadeshot>,       2024-11-07 14:55:08.568824 
+
+ crashifly324,     nadeRambo nadeRambo nadeRambo nadeRambo nadeRambo nadeRambo nadeRambo,        <Channel name: nadeshot>,       2024-11-07 15:26:10.050565 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:28:33.584338 
+crashifly324,     T2G TIME 2 GOON GOONING T2G TIME 2 GOON GOONING T2G TIME 2 GOON GOONING,        <Channel name: nadeshot>,       2024-11-07 15:28:36.639708 
+crashifly324,     nT,        <Channel name: nadeshot>,       2024-11-07 15:29:06.899685 
+crashifly324,     nT,        <Channel name: nadeshot>,       2024-11-07 15:30:18.829654 
+crashifly324,     Good shit,        <Channel name: nadeshot>,       2024-11-07 15:32:12.605636 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:32:46.653630 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:33:34.902141 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:35:10.374076 
+crashifly324,     Make America Goon Again,        <Channel name: nadeshot>,       2024-11-07 15:35:55.141160 
+crashifly324,     nT nT,        <Channel name: nadeshot>,       2024-11-07 15:38:31.062306 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:39:54.006597 
+crashifly324,     0-0,        <Channel name: nadeshot>,       2024-11-07 15:43:17.705372 
+crashifly324,     nTnT,        <Channel name: nadeshot>,       2024-11-07 15:45:14.337840 
+crashifly324,     You guys got this,        <Channel name: nadeshot>,       2024-11-07 15:46:16.036455 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:46:28.244884 
+crashifly324,     scump5gifted scump5gifted scump5gifted scump5gifted scump5gifted,        <Channel name: nadeshot>,       2024-11-07 15:47:17.580836 
+crashifly324,     thugsParty thugsGoodvibes thugsSway thugsGoodvibes thugsParty thugsGoodvibes thugsSway,        <Channel name: nadeshot>,       2024-11-07 15:48:40.374913 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:49:06.301038 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:54:44.774228 
+crashifly324,     T2G TIME 2 GOON GOONING T2G TIME 2 GOON GOONING T2G TIME 2 GOON GOONING,        <Channel name: nadeshot>,       2024-11-07 15:54:58.731060 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:56:42.821293 
+crashifly324,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 15:59:20.466432 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:59:29.949743 
+crashifly324,     nTnT,        <Channel name: nadeshot>,       2024-11-07 16:00:46.456547 
+crashifly324,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 16:01:54.680940 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 16:02:00.792682 
+crashifly324,     nTnT,        <Channel name: nadeshot>,       2024-11-07 16:06:18.279172 
+crashifly324,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 16:07:20.399393 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 16:07:25.566152 
+crashifly324,     nTnT,        <Channel name: nadeshot>,       2024-11-07 16:08:35.914541 
+crashifly324,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 16:09:53.285367 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 16:09:58.436346 
+crashifly324,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 16:11:20.008281 
+crashifly324,     !T2G,        <Channel name: nadeshot>,       2024-11-07 16:11:24.034344 
+crashifly324,     nT,        <Channel name: nadeshot>,       2024-11-07 16:12:35.634682 
+crashifly324,     nadeBlind nadeBlind nadeBlind nadeBlind nadeBlind nadeBlind nadeBlind,        <Channel name: nadeshot>,       2024-11-07 16:15:58.526925 
+crashifly324,     thugsLove nadeHaley_HF nadeW nadeGracie nadeHaley thugsLove,        <Channel name: nadeshot>,       2024-11-07 16:18:02.241811 
+crashifly324,     nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 16:30:41.415193 
+crashifly324,     It’s the truth,        <Channel name: nadeshot>,       2024-11-07 16:38:23.177202 
+crashifly324,     L Simp - Limp,        <Channel name: nadeshot>,       2024-11-07 16:42:53.127537 
+crashifly324,     MAGA = MAKE AMERICANS GOON AGAIN,        <Channel name: nadeshot>,       2024-11-07 16:46:59.234121 
+crashifly324,     W Strat,        <Channel name: nadeshot>,       2024-11-07 16:51:44.430562 
+crashifly324,     Nade is right,        <Channel name: nadeshot>,       2024-11-07 16:52:38.227964 
+crashifly324,     LMFAOO,        <Channel name: nadeshot>,       2024-11-07 16:54:01.259815 

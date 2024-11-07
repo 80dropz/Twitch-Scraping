@@ -1,0 +1,7 @@
+
+ vision_things,     low tire pressure yeah,        <Channel name: ibabyrainbow>,       2024-11-07 14:45:52.630235 
+
+ vision_things,     sometimes when it gets cold those things come on for no reason though,        <Channel name: ibabyrainbow>,       2024-11-07 14:47:51.926917 
+
+ vision_things,     check the inside of the door for psi specs,        <Channel name: ibabyrainbow>,       2024-11-07 14:54:00.213287 
+vision_things,     I heard you can’t stream on star link, not enough upload speed,        <Channel name: ibabyrainbow>,       2024-11-07 15:36:37.700320 

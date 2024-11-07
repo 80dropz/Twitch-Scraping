@@ -46,3 +46,6 @@
  thedelux1,     both,        <Channel name: nadeshot>,       2024-11-07 12:42:50.158087 
 
  thedelux1,     WALEY,        <Channel name: nadeshot>,       2024-11-07 12:49:32.382018 
+thedelux1,     one goonmunnity,        <Channel name: nadeshot>,       2024-11-07 15:46:32.177049 
+thedelux1,     we're all in the goonverse together,        <Channel name: nadeshot>,       2024-11-07 15:46:54.007896 
+thedelux1,     RIP game battles,        <Channel name: nadeshot>,       2024-11-07 15:56:30.413627 

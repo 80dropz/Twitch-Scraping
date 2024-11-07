@@ -1,0 +1,4 @@
+parislwr,     !ames,        <Channel name: formal>,       2024-11-07 16:09:19.381343 
+parislwr,     !modell,        <Channel name: formal>,       2024-11-07 16:09:44.895174 
+parislwr,     !gpr,        <Channel name: formal>,       2024-11-07 16:10:01.426880 
+parislwr,     !class,        <Channel name: formal>,       2024-11-07 16:11:11.214298 

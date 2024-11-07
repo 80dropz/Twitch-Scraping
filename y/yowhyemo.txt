@@ -8,3 +8,6 @@
  yowhyemo,     Hahaha,        <Channel name: silky>,       2024-11-07 02:46:31.627891 
 
  yowhyemo,     Lmaoooooo,        <Channel name: silky>,       2024-11-07 02:46:33.562481 
+
+ yowhyemo,     What time is the tournament,        <Channel name: adapt>,       2024-11-07 15:23:58.783918 
+yowhyemo,     You sold,        <Channel name: adapt>,       2024-11-07 15:36:31.711060 

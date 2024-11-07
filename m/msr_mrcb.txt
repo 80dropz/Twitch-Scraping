@@ -1,0 +1,1 @@
+msr_mrcb,     wie gehts dir?,        <Channel name: mongraal>,       2024-11-07 16:33:34.143528 

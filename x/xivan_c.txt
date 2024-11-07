@@ -1,0 +1,2 @@
+xivan_c,     !bracket,        <Channel name: formal>,       2024-11-07 16:43:03.189921 
+xivan_c,     !mc,        <Channel name: formal>,       2024-11-07 16:46:59.059251 

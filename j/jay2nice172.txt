@@ -16,3 +16,8 @@
  jay2nice172,     get up,        <Channel name: kaicenat>,       2024-11-07 13:29:56.186522 
 
  jay2nice172,     yes,        <Channel name: kaicenat>,       2024-11-07 13:35:32.503444 
+jay2nice172,     turn it on,        <Channel name: kaicenat>,       2024-11-07 16:26:39.603433 
+jay2nice172,     mic,        <Channel name: kaicenat>,       2024-11-07 16:29:26.740498 
+jay2nice172,     lil,        <Channel name: kaicenat>,       2024-11-07 16:29:47.040045 
+jay2nice172,     play NLE version,        <Channel name: kaicenat>,       2024-11-07 16:37:11.762258 
+jay2nice172,     play NLE version,        <Channel name: kaicenat>,       2024-11-07 16:38:29.065831 

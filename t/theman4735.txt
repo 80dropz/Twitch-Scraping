@@ -1,0 +1,4 @@
+theman4735,     !hours,        <Channel name: kaicenat>,       2024-11-07 15:37:38.443248 
+theman4735,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:37:50.042191 
+theman4735,     !roulete,        <Channel name: kaicenat>,       2024-11-07 15:38:07.129930 
+theman4735,     !roulette 1900,        <Channel name: kaicenat>,       2024-11-07 15:38:27.857978 

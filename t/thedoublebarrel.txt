@@ -1,0 +1,8 @@
+thedoublebarrel,     RAIN SAN,        <Channel name: stableronaldo>,       2024-11-07 15:55:20.043209 
+thedoublebarrel,     LOW IRON,        <Channel name: stableronaldo>,       2024-11-07 16:00:42.620468 
+thedoublebarrel,     YES U HAVE LOW IRON,        <Channel name: stableronaldo>,       2024-11-07 16:00:56.275587 
+thedoublebarrel,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:01:43.895560 
+thedoublebarrel,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:24.932852 
+thedoublebarrel,     HE EATS LIKE SHIT,        <Channel name: stableronaldo>,       2024-11-07 16:08:00.805245 
+thedoublebarrel,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:10:19.188839 
+thedoublebarrel,     GOALLLL,        <Channel name: stableronaldo>,       2024-11-07 16:13:51.865563 

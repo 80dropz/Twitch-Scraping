@@ -8,3 +8,9 @@
  bludraquar,     11th,        <Channel name: mongraal>,       2024-11-07 11:42:23.098613 
 
  bludraquar,     no,        <Channel name: mongraal>,       2024-11-07 12:30:29.433425 
+
+ bludraquar,     bro who are you following,        <Channel name: mongraal>,       2024-11-07 14:43:12.892017 
+
+ bludraquar,     twi is s ogood,        <Channel name: mongraal>,       2024-11-07 14:44:34.118481 
+
+ bludraquar,     mongraal who are you following,        <Channel name: mongraal>,       2024-11-07 14:46:56.727134 

@@ -1,2 +1,48 @@
 
  the_player_game,     But im in,        <Channel name: kaicenat>,       2024-11-07 13:36:06.166433 
+the_player_game,     uziDance,        <Channel name: kaicenat>,       2024-11-07 15:35:54.018663 
+the_player_game,     uziDance,        <Channel name: kaicenat>,       2024-11-07 15:35:56.456236 
+the_player_game,     uziDance,        <Channel name: kaicenat>,       2024-11-07 15:35:58.638756 
+the_player_game,     ww,        <Channel name: kaicenat>,       2024-11-07 15:41:39.784235 
+the_player_game,     OOOOOOO,        <Channel name: kaicenat>,       2024-11-07 15:41:44.920555 
+the_player_game,     forget,        <Channel name: kaicenat>,       2024-11-07 15:41:49.969606 
+the_player_game,     OOOO,        <Channel name: kaicenat>,       2024-11-07 15:41:54.224223 
+the_player_game,     forget,        <Channel name: kaicenat>,       2024-11-07 15:42:01.676493 
+the_player_game,     WW,        <Channel name: kaicenat>,       2024-11-07 15:42:17.592374 
+the_player_game,     WW rod,        <Channel name: kaicenat>,       2024-11-07 15:42:19.719617 
+the_player_game,     WW rods wave,        <Channel name: kaicenat>,       2024-11-07 15:42:24.845566 
+the_player_game,     Clap,        <Channel name: kaicenat>,       2024-11-07 15:42:28.106281 
+the_player_game,     SwagVibe,        <Channel name: kaicenat>,       2024-11-07 15:44:53.766590 
+the_player_game,     SoVIBE,        <Channel name: kaicenat>,       2024-11-07 15:44:59.587578 
+the_player_game,     SwagVibe,        <Channel name: kaicenat>,       2024-11-07 15:45:17.687949 
+the_player_game,     SoVIBE,        <Channel name: kaicenat>,       2024-11-07 15:45:19.165941 
+the_player_game,     YoungboyPls,        <Channel name: kaicenat>,       2024-11-07 15:47:53.280565 
+the_player_game,     YoungboyPls,        <Channel name: kaicenat>,       2024-11-07 15:47:55.691145 
+the_player_game,     YoungboyPls,        <Channel name: kaicenat>,       2024-11-07 15:47:57.783127 
+the_player_game,     @slayerwarx Shhhh,        <Channel name: kaicenat>,       2024-11-07 15:48:57.349166 
+the_player_game,     omg,        <Channel name: kaicenat>,       2024-11-07 15:49:14.343463 
+the_player_game,     underrated song,        <Channel name: kaicenat>,       2024-11-07 15:49:24.551847 
+the_player_game,     Listening,        <Channel name: kaicenat>,       2024-11-07 15:52:18.798430 
+the_player_game,     Listening,        <Channel name: kaicenat>,       2024-11-07 15:52:20.993063 
+the_player_game,     Listening,        <Channel name: kaicenat>,       2024-11-07 15:52:23.156397 
+the_player_game,     Listening,        <Channel name: kaicenat>,       2024-11-07 15:56:52.485362 
+the_player_game,     wideVIBE,        <Channel name: kaicenat>,       2024-11-07 15:58:30.169692 
+the_player_game,     WalterVibe,        <Channel name: kaicenat>,       2024-11-07 15:58:35.129722 
+the_player_game,     WalterVibe,        <Channel name: kaicenat>,       2024-11-07 15:58:46.271700 
+the_player_game,     wideVIBE,        <Channel name: kaicenat>,       2024-11-07 15:58:52.033760 
+the_player_game,     wideVIBE,        <Channel name: kaicenat>,       2024-11-07 15:58:58.689864 
+the_player_game,     oh shit i give it all i got,        <Channel name: kaicenat>,       2024-11-07 16:02:57.272300 
+the_player_game,     me,        <Channel name: kaicenat>,       2024-11-07 16:03:39.280017 
+the_player_game,     SwagVibe,        <Channel name: kaicenat>,       2024-11-07 16:04:58.422134 
+the_player_game,     THIS SONG HERE,        <Channel name: kaicenat>,       2024-11-07 16:05:26.154068 
+the_player_game,     up,        <Channel name: kaicenat>,       2024-11-07 16:07:23.146491 
+the_player_game,     WW,        <Channel name: kaicenat>,       2024-11-07 16:07:29.116066 
+the_player_game,     drip,        <Channel name: kaicenat>,       2024-11-07 16:08:40.717470 
+the_player_game,     YoungboyPls,        <Channel name: kaicenat>,       2024-11-07 16:11:22.505329 
+the_player_game,     left right,        <Channel name: kaicenat>,       2024-11-07 16:13:54.893959 
+the_player_game,     cartiPls,        <Channel name: kaicenat>,       2024-11-07 16:14:54.040063 
+the_player_game,     cartiPls,        <Channel name: kaicenat>,       2024-11-07 16:15:05.701640 
+the_player_game,     cartiPls,        <Channel name: kaicenat>,       2024-11-07 16:15:08.152835 
+the_player_game,     its you,        <Channel name: kaicenat>,       2024-11-07 16:21:02.627256 
+the_player_game,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:42.714374 
+the_player_game,     its gettiung stickyyyyy,        <Channel name: kaicenat>,       2024-11-07 16:48:22.445630 

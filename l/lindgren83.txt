@@ -14,3 +14,4 @@
  lindgren83,     DO IT G,        <Channel name: kaicenat>,       2024-11-07 13:16:29.529443 
 
  lindgren83,     gg,        <Channel name: kaicenat>,       2024-11-07 13:16:37.459625 
+lindgren83,     !settings,        <Channel name: mongraal>,       2024-11-07 16:08:38.842129 

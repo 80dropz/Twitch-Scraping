@@ -10,3 +10,34 @@
  mtx_big_boss,     @tellumomy77_ ?,        <Channel name: lacy>,       2024-11-07 13:29:40.474512 
 
  mtx_big_boss,     fgg,        <Channel name: lacy>,       2024-11-07 13:31:40.190238 
+mtx_big_boss,     @Zhyein rt,        <Channel name: lacy>,       2024-11-07 16:13:17.701496 
+mtx_big_boss,     @Zaprx heyy,        <Channel name: lacy>,       2024-11-07 16:13:27.254668 
+mtx_big_boss,     uuh,        <Channel name: lacy>,       2024-11-07 16:14:24.062004 
+mtx_big_boss,     ta,        <Channel name: lacy>,       2024-11-07 16:14:31.345523 
+mtx_big_boss,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:14:54.038062 
+mtx_big_boss,     TAWAY ITS ta,        <Channel name: lacy>,       2024-11-07 16:15:05.559129 
+mtx_big_boss,     SAJ,        <Channel name: lacy>,       2024-11-07 16:15:07.674539 
+mtx_big_boss,     sus,        <Channel name: lacy>,       2024-11-07 16:15:19.122580 
+mtx_big_boss,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:38.582203 
+mtx_big_boss,     LMAO,        <Channel name: lacy>,       2024-11-07 16:16:03.219661 
+mtx_big_boss,     HAH,        <Channel name: lacy>,       2024-11-07 16:16:05.105102 
+mtx_big_boss,     D:,        <Channel name: lacy>,       2024-11-07 16:16:21.232081 
+mtx_big_boss,     D:,        <Channel name: lacy>,       2024-11-07 16:17:44.100924 
+mtx_big_boss,     WEDIDIT,        <Channel name: lacy>,       2024-11-07 16:20:51.207045 
+mtx_big_boss,     cap,        <Channel name: lacy>,       2024-11-07 16:22:27.072531 
+mtx_big_boss,     fuck,        <Channel name: lacy>,       2024-11-07 16:22:34.497137 
+mtx_big_boss,     yes,        <Channel name: lacy>,       2024-11-07 16:23:02.465585 
+mtx_big_boss,     NOWAY,        <Channel name: lacy>,       2024-11-07 16:23:39.903432 
+mtx_big_boss,     TUBSTER,        <Channel name: lacy>,       2024-11-07 16:23:44.452223 
+mtx_big_boss,     @4xtubster,        <Channel name: lacy>,       2024-11-07 16:23:49.036308 
+mtx_big_boss,     omeStare,        <Channel name: lacy>,       2024-11-07 16:24:07.712365 
+mtx_big_boss,     ????,        <Channel name: lacy>,       2024-11-07 16:24:34.379462 
+mtx_big_boss,     LMFAO,        <Channel name: lacy>,       2024-11-07 16:24:35.769748 
+mtx_big_boss,     jeez,        <Channel name: lacy>,       2024-11-07 16:24:47.026360 
+mtx_big_boss,     LMFAO,        <Channel name: lacy>,       2024-11-07 16:25:00.263716 
+mtx_big_boss,     LMFAO,        <Channel name: lacy>,       2024-11-07 16:25:56.260773 
+mtx_big_boss,     HAHAHAHA,        <Channel name: lacy>,       2024-11-07 16:25:59.654520 
+mtx_big_boss,     WTFFF,        <Channel name: lacy>,       2024-11-07 16:26:01.363368 
+mtx_big_boss,     HE KISSED U,        <Channel name: lacy>,       2024-11-07 16:26:23.360692 
+mtx_big_boss,     PINNED,        <Channel name: lacy>,       2024-11-07 16:26:43.749616 
+mtx_big_boss,     PIN,        <Channel name: lacy>,       2024-11-07 16:26:45.405549 

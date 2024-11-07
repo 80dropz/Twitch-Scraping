@@ -1,0 +1,4 @@
+aiden05526,     !ames,        <Channel name: swagg>,       2024-11-07 15:28:33.543623 
+aiden05526,     !ak74,        <Channel name: swagg>,       2024-11-07 15:51:37.623879 
+aiden05526,     !tantoo,        <Channel name: swagg>,       2024-11-07 16:26:19.586258 
+aiden05526,     !Tanto,        <Channel name: swagg>,       2024-11-07 16:26:29.431114 

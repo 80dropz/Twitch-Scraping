@@ -1,2 +1,4 @@
 
  katzestreamer,     mongaFlex1 mongaFlex2 mongaFlex3,        <Channel name: mongraal>,       2024-11-07 09:40:04.576157 
+katzestreamer,     XD,        <Channel name: mongraal>,       2024-11-07 16:22:11.986382 
+katzestreamer,     Who let bro cook,        <Channel name: mongraal>,       2024-11-07 16:22:20.214155 

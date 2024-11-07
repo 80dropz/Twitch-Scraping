@@ -1,0 +1,8 @@
+liaaalovesu,     NO,        <Channel name: kaicenat>,       2024-11-07 16:34:49.969271 
+liaaalovesu,     KAI STOP,        <Channel name: kaicenat>,       2024-11-07 16:34:52.166478 
+liaaalovesu,     NO,        <Channel name: kaicenat>,       2024-11-07 16:34:53.972019 
+liaaalovesu,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:35:01.024404 
+liaaalovesu,     KAI STOP,        <Channel name: kaicenat>,       2024-11-07 16:37:42.369593 
+liaaalovesu,     NO,        <Channel name: kaicenat>,       2024-11-07 16:37:46.351590 
+liaaalovesu,     moron,        <Channel name: kaicenat>,       2024-11-07 16:39:57.255620 
+liaaalovesu,     such a moron,        <Channel name: kaicenat>,       2024-11-07 16:40:01.344443 

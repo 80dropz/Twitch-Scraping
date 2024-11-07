@@ -1,0 +1,2 @@
+prvpane,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:44:52.119106 
+prvpane,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:45:14.117863 

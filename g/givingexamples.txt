@@ -106,3 +106,6 @@
  givingexamples,     kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 11:28:39.976447 
 
  givingexamples,     W miles,        <Channel name: kaicenat>,       2024-11-07 11:28:57.808310 
+givingexamples,     Damnnn,        <Channel name: kaicenat>,       2024-11-07 16:50:33.666408 
+givingexamples,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:15.559160 
+givingexamples,     kaicSturdyy fanumDANCEFANUM fanumDANCEFANUM kaicSturdyy fanumDANCEFANUM kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:51:31.702544 

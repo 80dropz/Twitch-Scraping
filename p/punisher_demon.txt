@@ -10,3 +10,5 @@
  punisher_demon,     pepeW,        <Channel name: robcdee>,       2024-11-07 02:15:53.467605 
 
  punisher_demon,     @Al3003 rcdKoncha,        <Channel name: robcdee>,       2024-11-07 02:17:21.548819 
+punisher_demon,     !give @TameniWoW 1,        <Channel name: robcdee>,       2024-11-07 15:58:01.456512 
+punisher_demon,     @above_average_viewer Suseg,        <Channel name: robcdee>,       2024-11-07 15:58:30.295590 

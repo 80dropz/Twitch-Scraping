@@ -1,0 +1,15 @@
+ben_skz,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:55:01.672370 
+ben_skz,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:56:18.863156 
+ben_skz,     WWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:22.809385 
+ben_skz,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:56:22.834304 
+ben_skz,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:32.997288 
+ben_skz,     tahi,        <Channel name: stableronaldo>,       2024-11-07 15:56:52.616359 
+ben_skz,     good,        <Channel name: stableronaldo>,       2024-11-07 15:57:20.231219 
+ben_skz,     it looks good,        <Channel name: stableronaldo>,       2024-11-07 15:58:01.399586 
+ben_skz,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:29.564349 
+ben_skz,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:58:51.120760 
+ben_skz,     what,        <Channel name: stableronaldo>,       2024-11-07 15:59:00.429977 
+ben_skz,     WHAT,        <Channel name: stableronaldo>,       2024-11-07 15:59:02.462478 
+ben_skz,     sounds like your not eating enough,        <Channel name: stableronaldo>,       2024-11-07 15:59:44.332579 
+ben_skz,     probably,        <Channel name: stableronaldo>,       2024-11-07 16:00:15.587720 
+ben_skz,     YESSSSS,        <Channel name: stableronaldo>,       2024-11-07 16:19:24.034900 

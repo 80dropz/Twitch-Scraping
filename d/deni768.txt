@@ -1,0 +1,5 @@
+deni768,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:42:00.749118 
+deni768,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 15:42:24.477318 
+deni768,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:35.371387 
+deni768,     !roulette 94,        <Channel name: kaicenat>,       2024-11-07 15:42:41.944738 
+deni768,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:42:47.022198 

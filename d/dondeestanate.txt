@@ -8,3 +8,7 @@
  dondeestanate,     jorkin,        <Channel name: lacy>,       2024-11-07 13:01:04.742110 
 
  dondeestanate,     jorkin rnut,        <Channel name: lacy>,       2024-11-07 13:01:28.777086 
+dondeestanate,     ag,        <Channel name: lacy>,       2024-11-07 16:14:06.713968 
+dondeestanate,     check in the game dreq,        <Channel name: lacy>,       2024-11-07 16:19:12.170642 
+dondeestanate,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:26.010103 
+dondeestanate,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:34.590419 

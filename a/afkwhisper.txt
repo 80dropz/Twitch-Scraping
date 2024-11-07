@@ -1,0 +1,3 @@
+afkwhisper,     EMO,        <Channel name: stableronaldo>,       2024-11-07 16:11:13.899077 
+afkwhisper,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:22.131378 
+afkwhisper,     emo yuh,        <Channel name: stableronaldo>,       2024-11-07 16:11:24.313668 

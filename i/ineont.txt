@@ -30,3 +30,7 @@
  ineont,     @oddynoff Ty my guy,        <Channel name: nadeshot>,       2024-11-07 11:46:36.393140 
 
  ineont,     @nadeshot Leaks of the Barret 50 cal. coming back,        <Channel name: nadeshot>,       2024-11-07 12:14:55.988465 
+
+ ineont,     @hayesislucid,        <Channel name: nadeshot>,       2024-11-07 15:26:14.985573 
+ineont,     @mcgowan pin that message @maimlng,        <Channel name: nadeshot>,       2024-11-07 15:55:21.207531 
+ineont,     @maimlng,        <Channel name: nadeshot>,       2024-11-07 16:13:30.575460 

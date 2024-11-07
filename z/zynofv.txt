@@ -1,0 +1,2 @@
+zynofv,     !duo,        <Channel name: clix>,       2024-11-07 15:34:39.568938 
+zynofv,     !duo,        <Channel name: clix>,       2024-11-07 15:35:22.970100 

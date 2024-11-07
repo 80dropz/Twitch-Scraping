@@ -12,3 +12,7 @@
  jj_td,     You from,        <Channel name: swagg>,       2024-11-07 12:30:04.089081 
 
  jj_td,     You from AZ you can handle some spicy foods bro.,        <Channel name: swagg>,       2024-11-07 12:30:27.029188 
+jj_td,     wwwww,        <Channel name: swagg>,       2024-11-07 16:54:56.587425 
+jj_td,     ww,        <Channel name: swagg>,       2024-11-07 16:55:56.111508 
+jj_td,     wwwww,        <Channel name: swagg>,       2024-11-07 16:55:59.510882 
+jj_td,     w,        <Channel name: swagg>,       2024-11-07 16:56:02.455772 

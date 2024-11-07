@@ -1,0 +1,4 @@
+loot3100,     STOPPING,        <Channel name: kaicenat>,       2024-11-07 16:37:26.771668 
+loot3100,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:37:27.840302 
+loot3100,     don’t do ts ur dumb,        <Channel name: kaicenat>,       2024-11-07 16:37:52.729945 
+loot3100,     gg,        <Channel name: kaicenat>,       2024-11-07 16:38:07.983899 

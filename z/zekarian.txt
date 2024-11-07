@@ -1,0 +1,7 @@
+zekarian,     OMG,        <Channel name: lacy>,       2024-11-07 16:20:11.926220 
+zekarian,     OMG OMG,        <Channel name: lacy>,       2024-11-07 16:20:13.078223 
+zekarian,     OMG,        <Channel name: lacy>,       2024-11-07 16:20:16.309509 
+zekarian,     LOL,        <Channel name: lacy>,       2024-11-07 16:20:44.135181 
+zekarian,     LOL LOL,        <Channel name: lacy>,       2024-11-07 16:20:46.817697 
+zekarian,     omr55,        <Channel name: lacy>,       2024-11-07 16:20:50.906953 
+zekarian,     W,        <Channel name: stableronaldo>,       2024-11-07 16:21:28.373400 

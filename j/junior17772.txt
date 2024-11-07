@@ -1,0 +1,5 @@
+junior17772,     TAW,        <Channel name: stableronaldo>,       2024-11-07 16:07:14.630343 
+junior17772,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:07:24.147943 
+junior17772,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.732431 
+junior17772,     She's right,        <Channel name: stableronaldo>,       2024-11-07 16:08:05.277325 
+junior17772,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:31.041268 

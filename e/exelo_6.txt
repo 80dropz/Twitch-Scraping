@@ -1,0 +1,9 @@
+exelo_6,     9,        <Channel name: kaicenat>,       2024-11-07 15:29:47.196425 
+exelo_6,     9999,        <Channel name: kaicenat>,       2024-11-07 15:29:48.254571 
+exelo_6,     99999,        <Channel name: kaicenat>,       2024-11-07 15:29:49.290406 
+exelo_6,     99999999999999,        <Channel name: kaicenat>,       2024-11-07 15:29:51.132625 
+exelo_6,     999999999999999,        <Channel name: kaicenat>,       2024-11-07 15:29:53.078363 
+exelo_6,     @leo_alb999 For me its 9 PM,        <Channel name: kaicenat>,       2024-11-07 15:32:46.171937 
+exelo_6,     YES,        <Channel name: kaicenat>,       2024-11-07 16:22:46.349157 
+exelo_6,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:46:19.085997 
+exelo_6,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:56:05.347054 

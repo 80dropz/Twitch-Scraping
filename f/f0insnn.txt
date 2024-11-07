@@ -1,0 +1,3 @@
+f0insnn,     w,        <Channel name: stableronaldo>,       2024-11-07 16:25:57.712923 
+f0insnn,     no one,        <Channel name: stableronaldo>,       2024-11-07 16:26:17.837479 
+f0insnn,     not mr,        <Channel name: stableronaldo>,       2024-11-07 16:26:26.093628 

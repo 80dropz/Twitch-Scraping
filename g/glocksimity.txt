@@ -1,0 +1,5 @@
+
+ glocksimity,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:27:57.163186 
+glocksimity,     nah that's tough,        <Channel name: nadeshot>,       2024-11-07 15:41:29.130232 
+glocksimity,     goosed a bit too hard there,        <Channel name: nadeshot>,       2024-11-07 15:41:42.639287 
+glocksimity,     gg,        <Channel name: nadeshot>,       2024-11-07 15:45:10.112584 

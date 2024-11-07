@@ -1,0 +1,4 @@
+chronic504,     Louisiana,        <Channel name: swagg>,       2024-11-07 15:50:34.282865 
+chronic504,     W,        <Channel name: swagg>,       2024-11-07 16:54:15.592467 
+chronic504,     W,        <Channel name: swagg>,       2024-11-07 16:55:31.416864 
+chronic504,     w,        <Channel name: swagg>,       2024-11-07 16:55:39.284619 

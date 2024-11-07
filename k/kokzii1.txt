@@ -1,0 +1,2 @@
+kokzii1,     !turnament,        <Channel name: mongraal>,       2024-11-07 16:21:46.442636 
+kokzii1,     !qual,        <Channel name: mongraal>,       2024-11-07 16:21:48.589127 

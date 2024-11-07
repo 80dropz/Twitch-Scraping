@@ -1,2 +1,5 @@
 
  thadonjj,     W,        <Channel name: nadeshot>,       2024-11-07 11:45:49.328928 
+
+ thadonjj,     ttg,        <Channel name: nadeshot>,       2024-11-07 15:26:14.284513 
+thadonjj,     W,        <Channel name: nadeshot>,       2024-11-07 15:38:29.649887 

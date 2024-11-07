@@ -1,0 +1,3 @@
+chutyyseven,     !settings,        <Channel name: mongraal>,       2024-11-07 16:38:23.908401 
+chutyyseven,     !config,        <Channel name: mongraal>,       2024-11-07 16:38:32.741578 
+chutyyseven,     !sens,        <Channel name: mongraal>,       2024-11-07 16:38:34.879818 

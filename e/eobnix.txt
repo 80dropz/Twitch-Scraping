@@ -8,3 +8,4 @@
  eobnix,     OFC SILKY,        <Channel name: jasontheween>,       2024-11-07 02:04:23.089688 
 
  eobnix,     DTM,        <Channel name: jasontheween>,       2024-11-07 02:04:26.536114 
+eobnix,     !bracket,        <Channel name: adapt>,       2024-11-07 16:13:29.117432 

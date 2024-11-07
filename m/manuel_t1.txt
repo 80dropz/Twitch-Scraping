@@ -1,0 +1,2 @@
+manuel_t1,     all in,        <Channel name: kaicenat>,       2024-11-07 16:13:26.816607 
+manuel_t1,     all mine,        <Channel name: kaicenat>,       2024-11-07 16:13:32.698979 

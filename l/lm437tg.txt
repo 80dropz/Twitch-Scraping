@@ -1,0 +1,4 @@
+lm437tg,     Shit,        <Channel name: kaicenat>,       2024-11-07 16:17:50.861230 
+lm437tg,     B,        <Channel name: kaicenat>,       2024-11-07 16:18:27.678882 
+lm437tg,     Shit,        <Channel name: kaicenat>,       2024-11-07 16:18:34.476208 
+lm437tg,     4min,        <Channel name: kaicenat>,       2024-11-07 16:19:06.411603 

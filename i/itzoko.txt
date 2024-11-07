@@ -1,0 +1,2 @@
+itzoko,     How many days has Nadeshot been going now ?,        <Channel name: nadeshot>,       2024-11-07 15:56:08.732905 
+itzoko,     Can he not switch ?,        <Channel name: nadeshot>,       2024-11-07 16:02:50.175804 

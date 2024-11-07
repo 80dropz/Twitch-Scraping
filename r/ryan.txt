@@ -1,0 +1,6 @@
+ryan,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:54.440659 
+ryan,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:55.509617 
+ryan,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:56.442768 
+ryan,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:57.465410 
+ryan,     LLJW,        <Channel name: kaicenat>,       2024-11-07 15:30:05.365425 
+ryan,     LLJW,        <Channel name: kaicenat>,       2024-11-07 15:30:06.292464 

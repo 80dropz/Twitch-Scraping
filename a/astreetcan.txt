@@ -1,0 +1,7 @@
+astreetcan,     water,        <Channel name: kaicenat>,       2024-11-07 16:25:11.877406 
+astreetcan,     pour watee,        <Channel name: kaicenat>,       2024-11-07 16:25:16.655445 
+astreetcan,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:31.501067 
+astreetcan,     good boy,        <Channel name: kaicenat>,       2024-11-07 16:31:04.114281 
+astreetcan,     AHHHHHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:31:23.385973 
+astreetcan,     do it then,        <Channel name: kaicenat>,       2024-11-07 16:33:01.045555 
+astreetcan,     dump,        <Channel name: kaicenat>,       2024-11-07 16:33:31.071096 

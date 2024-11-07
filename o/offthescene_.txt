@@ -2,3 +2,5 @@
  offthescene_,     He's got PTSG,        <Channel name: nadeshot>,       2024-11-07 12:04:51.347764 
 
  offthescene_,     He got that PTSG,        <Channel name: nadeshot>,       2024-11-07 12:12:17.184259 
+
+ offthescene_,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:25:04.162204 

@@ -1,0 +1,2 @@
+lipricon__,     !settings,        <Channel name: mongraal>,       2024-11-07 16:46:00.234891 
+lipricon__,     !res,        <Channel name: mongraal>,       2024-11-07 16:46:56.567150 

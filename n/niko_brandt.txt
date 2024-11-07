@@ -1,0 +1,4 @@
+
+ niko_brandt,     !time,        <Channel name: clix>,       2024-11-07 15:24:18.232942 
+niko_brandt,     GG,        <Channel name: clix>,       2024-11-07 15:33:26.793776 
+niko_brandt,     Nice game,        <Channel name: clix>,       2024-11-07 15:33:31.999707 

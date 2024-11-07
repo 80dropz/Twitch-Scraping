@@ -1,0 +1,2 @@
+luffsky,     !gamble 390,        <Channel name: kaicenat>,       2024-11-07 15:37:38.832522 
+luffsky,     !roulette 390,        <Channel name: kaicenat>,       2024-11-07 15:37:50.404026 

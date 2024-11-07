@@ -1,0 +1,8 @@
+donie_12391,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:11:24.691523 
+donie_12391,     No,        <Channel name: stableronaldo>,       2024-11-07 16:16:18.988741 
+donie_12391,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:26.776630 
+donie_12391,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:17:29.406907 
+donie_12391,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:54.392329 
+donie_12391,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:23:29.718341 
+donie_12391,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:33.170397 
+donie_12391,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:35.695999 

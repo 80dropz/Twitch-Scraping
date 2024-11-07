@@ -1,0 +1,2 @@
+stickybucket10,     !subathon,        <Channel name: nadeshot>,       2024-11-07 16:09:04.459252 
+stickybucket10,     !TTS,        <Channel name: nadeshot>,       2024-11-07 16:13:16.365812 

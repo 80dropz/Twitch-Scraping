@@ -22,3 +22,16 @@
  denyiai,     WW,        <Channel name: kaicenat>,       2024-11-07 12:59:48.808159 
 
  denyiai,     gg,        <Channel name: lacy>,       2024-11-07 13:19:22.392209 
+
+ denyiai,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:50:30.303662 
+denyiai,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:26.887248 
+denyiai,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:54.190463 
+denyiai,     :(,        <Channel name: stableronaldo>,       2024-11-07 16:09:16.484606 
+denyiai,     chaewonDance,        <Channel name: jasontheween>,       2024-11-07 16:18:13.165701 
+denyiai,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:50.525922 
+denyiai,     LLMAO,        <Channel name: stableronaldo>,       2024-11-07 16:19:46.032558 
+denyiai,     scorpy14Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:20:30.338140 
+denyiai,     o,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.205016 
+denyiai,     LLMAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:02.636213 
+denyiai,     LMFAOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:22:54.742364 
+denyiai,     LLMAO,        <Channel name: stableronaldo>,       2024-11-07 16:23:26.805183 

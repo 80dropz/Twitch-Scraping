@@ -14,3 +14,6 @@
  pops_070,     KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype KomodoHype,        <Channel name: kaicenat>,       2024-11-07 12:23:06.166571 
 
  pops_070,     WutFace WutFace,        <Channel name: kaicenat>,       2024-11-07 12:37:49.218735 
+pops_070,     Tails,        <Channel name: kaicenat>,       2024-11-07 15:29:48.393342 
+pops_070,     ,,        <Channel name: kaicenat>,       2024-11-07 15:38:21.444883 
+pops_070,     Riiiiiich,        <Channel name: kaicenat>,       2024-11-07 15:38:26.467206 

@@ -2,3 +2,7 @@
  mzumero12,     Production follow Recai,        <Channel name: kaicenat>,       2024-11-07 13:05:06.747077 
 
  mzumero12,     Rekai about to get kicked,        <Channel name: kaicenat>,       2024-11-07 13:13:56.876018 
+
+ mzumero12,     Wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 14:45:28.249181 
+
+ mzumero12,     Dee block duke,        <Channel name: kaicenat>,       2024-11-07 14:53:13.162273 

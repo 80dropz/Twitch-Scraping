@@ -1,0 +1,6 @@
+trazerone36,     TAWAY,        <Channel name: lacy>,       2024-11-07 15:46:35.188643 
+trazerone36,     RT,        <Channel name: lacy>,       2024-11-07 15:47:32.855154 
+trazerone36,     @jjaidens1226 uuh,        <Channel name: lacy>,       2024-11-07 15:53:45.034055 
+trazerone36,     TAWAY,        <Channel name: lacy>,       2024-11-07 15:54:31.466509 
+trazerone36,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:48.983854 
+trazerone36,     lacy,        <Channel name: stableronaldo>,       2024-11-07 16:15:44.422833 

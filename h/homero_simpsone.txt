@@ -1,0 +1,5 @@
+homero_simpsone,     offstream,        <Channel name: pokelawls>,       2024-11-07 15:46:36.257896 
+homero_simpsone,     BedgeCat,        <Channel name: pokelawls>,       2024-11-07 15:46:45.407588 
+homero_simpsone,     LOL,        <Channel name: pokelawls>,       2024-11-07 15:49:40.334029 
+homero_simpsone,     Jackass,        <Channel name: pokelawls>,       2024-11-07 15:51:37.541291 
+homero_simpsone,     HUH,        <Channel name: pokelawls>,       2024-11-07 15:52:59.735137 

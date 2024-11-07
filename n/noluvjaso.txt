@@ -1,0 +1,5 @@
+noluvjaso,     !duo,        <Channel name: clix>,       2024-11-07 15:35:12.716775 
+noluvjaso,     !discord,        <Channel name: clix>,       2024-11-07 15:35:40.306363 
+noluvjaso,     !community,        <Channel name: clix>,       2024-11-07 15:36:19.172284 
+noluvjaso,     !comm,        <Channel name: mongraal>,       2024-11-07 15:37:24.431880 
+noluvjaso,     !crosshair,        <Channel name: mongraal>,       2024-11-07 15:38:08.548345 

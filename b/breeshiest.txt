@@ -1,0 +1,23 @@
+breeshiest,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:51.614206 
+breeshiest,     too hot,        <Channel name: kaicenat>,       2024-11-07 16:30:12.301649 
+breeshiest,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:40.204752 
+breeshiest,     seven,        <Channel name: kaicenat>,       2024-11-07 16:30:53.741035 
+breeshiest,     yes,        <Channel name: kaicenat>,       2024-11-07 16:30:55.984763 
+breeshiest,     no,        <Channel name: kaicenat>,       2024-11-07 16:31:23.482122 
+breeshiest,     like 5 minutes,        <Channel name: kaicenat>,       2024-11-07 16:31:37.997978 
+breeshiest,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:32:33.157922 
+breeshiest,     ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:35.675143 
+breeshiest,     ITS NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:39.270939 
+breeshiest,     its not hot,        <Channel name: kaicenat>,       2024-11-07 16:32:52.016490 
+breeshiest,     you gotta wait tho,        <Channel name: kaicenat>,       2024-11-07 16:33:59.949010 
+breeshiest,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:23.086232 
+breeshiest,     he’s cooked,        <Channel name: kaicenat>,       2024-11-07 16:34:28.908740 
+breeshiest,     he’s done,        <Channel name: kaicenat>,       2024-11-07 16:34:32.443099 
+breeshiest,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:34.231844 
+breeshiest,     yes,        <Channel name: kaicenat>,       2024-11-07 16:34:58.210308 
+breeshiest,     L reader,        <Channel name: kaicenat>,       2024-11-07 16:35:10.439140 
+breeshiest,     be patient,        <Channel name: kaicenat>,       2024-11-07 16:35:28.483903 
+breeshiest,     close the door,        <Channel name: kaicenat>,       2024-11-07 16:36:02.043532 
+breeshiest,     the steam is getting out,        <Channel name: kaicenat>,       2024-11-07 16:36:13.754400 
+breeshiest,     the door not closed,        <Channel name: kaicenat>,       2024-11-07 16:36:19.872025 
+breeshiest,     W,        <Channel name: kaicenat>,       2024-11-07 16:36:23.509517 

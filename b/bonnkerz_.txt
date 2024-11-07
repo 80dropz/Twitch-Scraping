@@ -12,3 +12,5 @@
  bonnkerz_,     POL,        <Channel name: kaicenat>,       2024-11-07 01:44:57.957470 
 
  bonnkerz_,     POLL IT BRO,        <Channel name: kaicenat>,       2024-11-07 01:45:57.087365 
+bonnkerz_,     Sticky,        <Channel name: kaicenat>,       2024-11-07 16:50:09.263314 
+bonnkerz_,     add 1 cupo,        <Channel name: kaicenat>,       2024-11-07 16:52:09.569510 

@@ -2,3 +2,5 @@
  orin_xd,     how’s he still sleeping,        <Channel name: kaicenat>,       2024-11-07 12:08:32.598829 
 
  orin_xd,     me,        <Channel name: kaicenat>,       2024-11-07 12:11:17.622661 
+
+ orin_xd,     adds every 2 seconds,        <Channel name: kaicenat>,       2024-11-07 14:45:57.364271 

@@ -1,0 +1,4 @@
+cfoee4xx,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 16:24:46.288250 
+cfoee4xx,     kaicStare,        <Channel name: kaicenat>,       2024-11-07 16:25:40.488622 
+cfoee4xx,     kaicCryy,        <Channel name: kaicenat>,       2024-11-07 16:28:15.806602 
+cfoee4xx,     kaicCryy kaicStare kaicForhead,        <Channel name: kaicenat>,       2024-11-07 16:28:23.553682 

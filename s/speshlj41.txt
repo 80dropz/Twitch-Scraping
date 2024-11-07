@@ -1,0 +1,7 @@
+speshlj41,     Kevin hart jr,        <Channel name: kaicenat>,       2024-11-07 15:55:12.150597 
+speshlj41,     cooked,        <Channel name: kaicenat>,       2024-11-07 16:34:28.684788 
+speshlj41,     you have to wait,        <Channel name: kaicenat>,       2024-11-07 16:34:45.721267 
+speshlj41,     wait,        <Channel name: kaicenat>,       2024-11-07 16:34:50.108913 
+speshlj41,     needs to warm up,        <Channel name: kaicenat>,       2024-11-07 16:35:04.498465 
+speshlj41,     wait 10 min,        <Channel name: kaicenat>,       2024-11-07 16:35:18.583238 
+speshlj41,     10 min,        <Channel name: kaicenat>,       2024-11-07 16:35:20.618219 

@@ -4,3 +4,20 @@
  jawn_75,     !followage,        <Channel name: kaicenat>,       2024-11-07 12:58:11.361592 
 
  jawn_75,     wwwwwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 13:01:38.624486 
+jawn_75,     back at that loot,        <Channel name: mongraal>,       2024-11-07 16:18:57.770328 
+jawn_75,     w,        <Channel name: mongraal>,       2024-11-07 16:19:11.051260 
+jawn_75,     damn,        <Channel name: mongraal>,       2024-11-07 16:22:12.421671 
+jawn_75,     ggz,        <Channel name: mongraal>,       2024-11-07 16:22:17.593908 
+jawn_75,     algd,        <Channel name: kaicenat>,       2024-11-07 16:26:26.618725 
+jawn_75,     safe,        <Channel name: kaicenat>,       2024-11-07 16:26:30.112368 
+jawn_75,     you good,        <Channel name: kaicenat>,       2024-11-07 16:26:34.419341 
+jawn_75,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:11.492046 
+jawn_75,     noooooooooooooo,        <Channel name: kaicenat>,       2024-11-07 16:32:58.625805 
+jawn_75,     speaker,        <Channel name: kaicenat>,       2024-11-07 16:33:38.922224 
+jawn_75,     take the speaker out,        <Channel name: kaicenat>,       2024-11-07 16:34:00.536780 
+jawn_75,     ggs,        <Channel name: kaicenat>,       2024-11-07 16:34:15.141354 
+jawn_75,     awks,        <Channel name: kaicenat>,       2024-11-07 16:34:17.918085 
+jawn_75,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:25.673041 
+jawn_75,     dumbass,        <Channel name: kaicenat>,       2024-11-07 16:34:32.710834 
+jawn_75,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:50.533779 
+jawn_75,     YOU NEED TO DRINK SOME WATER,        <Channel name: kaicenat>,       2024-11-07 16:38:56.335957 

@@ -30,3 +30,11 @@
  covrrcs,     has to be tritanope,        <Channel name: mrlust>,       2024-11-07 12:19:36.190444 
 
  covrrcs,     1755x1080,        <Channel name: mrlust>,       2024-11-07 12:20:32.103454 
+covrrcs,     !watchtime,        <Channel name: mrlust>,       2024-11-07 16:11:09.842174 
+covrrcs,     no,        <Channel name: mrlust>,       2024-11-07 16:11:21.020501 
+covrrcs,     its 1755x1080,        <Channel name: mrlust>,       2024-11-07 16:11:27.177321 
+covrrcs,     !leaderboard,        <Channel name: mrlust>,       2024-11-07 16:12:01.867296 
+covrrcs,     1755,        <Channel name: mrlust>,       2024-11-07 16:12:06.518390 
+covrrcs,     yes it is,        <Channel name: mrlust>,       2024-11-07 16:12:27.993966 
+covrrcs,     @MRLUST,        <Channel name: mrlust>,       2024-11-07 16:12:43.209534 
+covrrcs,     what is it,        <Channel name: mrlust>,       2024-11-07 16:12:45.178861 

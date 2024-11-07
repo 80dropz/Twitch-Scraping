@@ -2,3 +2,5 @@
  golf_wang,     dogecoin,        <Channel name: pokelawls>,       2024-11-07 01:49:50.277953 
 
  golf_wang,     HUH,        <Channel name: pokelawls>,       2024-11-07 01:58:01.384810 
+golf_wang,     @chetbakr Pffttt,        <Channel name: pokelawls>,       2024-11-07 16:34:13.887010 
+golf_wang,     @josneh Pffttt,        <Channel name: pokelawls>,       2024-11-07 16:41:22.923768 

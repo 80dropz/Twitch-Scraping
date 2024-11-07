@@ -1,0 +1,3 @@
+mellyrl,     giig,        <Channel name: pokelawls>,       2024-11-07 15:37:08.617031 
+mellyrl,     NOO,        <Channel name: pokelawls>,       2024-11-07 15:37:27.370933 
+mellyrl,     D:,        <Channel name: pokelawls>,       2024-11-07 15:37:33.119426 

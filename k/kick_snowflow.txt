@@ -1,0 +1,3 @@
+kick_snowflow,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 15:34:39.970004 
+kick_snowflow,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 15:37:34.421294 
+kick_snowflow,     ?,        <Channel name: kaicenat>,       2024-11-07 15:51:28.172456 

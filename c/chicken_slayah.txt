@@ -6,3 +6,8 @@
  chicken_slayah,     play ranked,        <Channel name: mongraal>,       2024-11-07 10:56:33.622964 
 
  chicken_slayah,     ranked reload,        <Channel name: mongraal>,       2024-11-07 10:56:41.364862 
+chicken_slayah,     ww,        <Channel name: mongraal>,       2024-11-07 16:11:50.585644 
+chicken_slayah,     goat,        <Channel name: mongraal>,       2024-11-07 16:16:22.932035 
+chicken_slayah,     I'm getting smoked in diamond 1 and he's clapping these sweats in unreal tf,        <Channel name: mongraal>,       2024-11-07 16:17:15.469191 
+chicken_slayah,     reload,        <Channel name: mongraal>,       2024-11-07 16:35:52.284831 
+chicken_slayah,     reload pls,        <Channel name: mongraal>,       2024-11-07 16:36:08.606200 

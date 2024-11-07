@@ -1,0 +1,6 @@
+
+ nieoy,     !weather Estonia,        <Channel name: caseoh_>,       2024-11-07 15:23:22.951106 
+
+ nieoy,     !weather LA,        <Channel name: caseoh_>,       2024-11-07 15:27:42.070387 
+
+ nieoy,     !weather Los Angeles,        <Channel name: caseoh_>,       2024-11-07 15:27:56.519529 

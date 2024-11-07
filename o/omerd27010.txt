@@ -1,0 +1,23 @@
+omerd27010,     10,        <Channel name: kaicenat>,       2024-11-07 16:30:37.933845 
+omerd27010,     more,        <Channel name: kaicenat>,       2024-11-07 16:32:46.700943 
+omerd27010,     more,        <Channel name: kaicenat>,       2024-11-07 16:33:36.824987 
+omerd27010,     dump more,        <Channel name: kaicenat>,       2024-11-07 16:33:51.074874 
+omerd27010,     more,        <Channel name: kaicenat>,       2024-11-07 16:35:07.240279 
+omerd27010,     do it,        <Channel name: kaicenat>,       2024-11-07 16:35:13.314556 
+omerd27010,     fck it,        <Channel name: kaicenat>,       2024-11-07 16:35:17.978349 
+omerd27010,     the hole ting,        <Channel name: kaicenat>,       2024-11-07 16:35:24.778957 
+omerd27010,     max,        <Channel name: kaicenat>,       2024-11-07 16:35:35.992351 
+omerd27010,     w,        <Channel name: kaicenat>,       2024-11-07 16:36:13.664626 
+omerd27010,     more water,        <Channel name: kaicenat>,       2024-11-07 16:36:32.310495 
+omerd27010,     nigga,        <Channel name: kaicenat>,       2024-11-07 16:36:37.148551 
+omerd27010,     more water nigga,        <Channel name: kaicenat>,       2024-11-07 16:36:47.098318 
+omerd27010,     kai,        <Channel name: kaicenat>,       2024-11-07 16:37:10.710561 
+omerd27010,     w,        <Channel name: kaicenat>,       2024-11-07 16:37:15.378346 
+omerd27010,     more,        <Channel name: kaicenat>,       2024-11-07 16:37:19.763092 
+omerd27010,     dumb ass nigga,        <Channel name: kaicenat>,       2024-11-07 16:38:20.841363 
+omerd27010,     w,        <Channel name: kaicenat>,       2024-11-07 16:38:31.421805 
+omerd27010,     monkeyy,        <Channel name: kaicenat>,       2024-11-07 16:38:50.988553 
+omerd27010,     more water,        <Channel name: kaicenat>,       2024-11-07 16:39:03.654578 
+omerd27010,     nigga,        <Channel name: kaicenat>,       2024-11-07 16:39:07.360566 
+omerd27010,     its fake,        <Channel name: kaicenat>,       2024-11-07 16:39:20.136860 
+omerd27010,     more,        <Channel name: kaicenat>,       2024-11-07 16:39:47.284910 

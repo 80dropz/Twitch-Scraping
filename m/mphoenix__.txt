@@ -1,0 +1,6 @@
+mphoenix__,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:28.869465 
+mphoenix__,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:09.220673 
+mphoenix__,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:43:23.426780 
+mphoenix__,     !gamble 10,        <Channel name: kaicenat>,       2024-11-07 15:43:49.390996 
+mphoenix__,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:44:06.608529 
+mphoenix__,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:26.038822 

@@ -2,3 +2,16 @@
  crisss_o,     ¿taco,        <Channel name: vickypalami>,       2024-11-07 10:48:56.576689 
 
  crisss_o,     WalkDog,        <Channel name: vickypalami>,       2024-11-07 10:49:00.071390 
+crisss_o,     modCheck,        <Channel name: vickypalami>,       2024-11-07 15:40:33.034164 
+crisss_o,     ¿taco,        <Channel name: vickypalami>,       2024-11-07 15:48:54.674079 
+crisss_o,     !points,        <Channel name: aldo_geo>,       2024-11-07 16:23:28.309318 
+crisss_o,     !gamble 50m,        <Channel name: aldo_geo>,       2024-11-07 16:23:30.723258 
+crisss_o,     !sub pepetonos_geo,        <Channel name: aldo_geo>,       2024-11-07 16:33:51.657215 
+crisss_o,     scratchh,        <Channel name: vickypalami>,       2024-11-07 16:34:05.891372 
+crisss_o,     pe,        <Channel name: aldo_geo>,       2024-11-07 16:41:40.426938 
+crisss_o,     edu DinkDonk,        <Channel name: aldo_geo>,       2024-11-07 16:41:47.238592 
+crisss_o,     mete el qq,        <Channel name: aldo_geo>,       2024-11-07 16:41:49.851643 
+crisss_o,     qq,        <Channel name: vickypalami>,       2024-11-07 16:41:57.464470 
+crisss_o,     @ElTraidorTRP el qq,        <Channel name: aldo_geo>,       2024-11-07 16:55:18.165557 
+crisss_o,     emote Sisi,        <Channel name: aldo_geo>,       2024-11-07 16:55:20.663830 
+crisss_o,     ban al konglombiano DinkDonk,        <Channel name: aldo_geo>,       2024-11-07 16:55:27.706936 

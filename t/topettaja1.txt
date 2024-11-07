@@ -1,0 +1,4 @@
+topettaja1,     10,        <Channel name: kaicenat>,       2024-11-07 16:30:38.644180 
+topettaja1,     wait 1 hour and then try,        <Channel name: kaicenat>,       2024-11-07 16:32:43.114781 
+topettaja1,     NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis,        <Channel name: kaicenat>,       2024-11-07 16:38:32.535071 
+topettaja1,     NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis,        <Channel name: kaicenat>,       2024-11-07 16:38:49.307076 

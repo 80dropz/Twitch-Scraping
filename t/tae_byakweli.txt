@@ -1,0 +1,11 @@
+tae_byakweli,     song?,        <Channel name: kaicenat>,       2024-11-07 15:30:03.283714 
+tae_byakweli,     song name?,        <Channel name: kaicenat>,       2024-11-07 15:30:09.019587 
+tae_byakweli,     song?,        <Channel name: kaicenat>,       2024-11-07 15:30:31.876298 
+tae_byakweli,     song?what is the,        <Channel name: kaicenat>,       2024-11-07 15:41:57.713219 
+tae_byakweli,     Song?,        <Channel name: kaicenat>,       2024-11-07 15:42:01.712264 
+tae_byakweli,     what is the song called?,        <Channel name: kaicenat>,       2024-11-07 15:42:28.672901 
+tae_byakweli,     Song?,        <Channel name: kaicenat>,       2024-11-07 15:42:43.836022 
+tae_byakweli,     song?,        <Channel name: kaicenat>,       2024-11-07 15:42:57.870859 
+tae_byakweli,     name of the song?,        <Channel name: kaicenat>,       2024-11-07 15:43:26.052751 
+tae_byakweli,     song?,        <Channel name: kaicenat>,       2024-11-07 15:43:33.652455 
+tae_byakweli,     what is the name song?,        <Channel name: kaicenat>,       2024-11-07 15:43:51.169219 

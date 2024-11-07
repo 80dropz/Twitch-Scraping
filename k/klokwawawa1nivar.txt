@@ -1,0 +1,10 @@
+
+ klokwawawa1nivar,     INV DDG,        <Channel name: kaicenat>,       2024-11-07 15:23:22.719303 
+
+ klokwawawa1nivar,     DDGD,        <Channel name: kaicenat>,       2024-11-07 15:23:22.731426 
+
+ klokwawawa1nivar,     DDG,        <Channel name: kaicenat>,       2024-11-07 15:23:22.736939 
+
+ klokwawawa1nivar,     DDG INV,        <Channel name: kaicenat>,       2024-11-07 15:23:22.802225 
+
+ klokwawawa1nivar,     INV DDG,        <Channel name: kaicenat>,       2024-11-07 15:23:22.820372 

@@ -2,3 +2,4 @@
  flyingturtle555,     !points,        <Channel name: kaicenat>,       2024-11-07 09:11:51.156535 
 
  flyingturtle555,     !roulette 144,        <Channel name: kaicenat>,       2024-11-07 09:11:55.393302 
+flyingturtle555,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 15:40:13.539300 

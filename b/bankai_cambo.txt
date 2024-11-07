@@ -1,0 +1,2 @@
+bankai_cambo,     LUL,        <Channel name: clix>,       2024-11-07 15:31:59.669792 
+bankai_cambo,     dam,        <Channel name: clix>,       2024-11-07 15:33:15.573837 

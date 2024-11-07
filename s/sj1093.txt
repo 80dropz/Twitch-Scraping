@@ -1,0 +1,7 @@
+sj1093,     yo,        <Channel name: pokelawls>,       2024-11-07 15:40:00.207414 
+sj1093,     YeahThatsWhatIWouldaDid,        <Channel name: pokelawls>,       2024-11-07 15:40:36.318056 
+sj1093,     kek,        <Channel name: pokelawls>,       2024-11-07 15:46:53.680874 
+sj1093,     forsen,        <Channel name: pokelawls>,       2024-11-07 16:30:49.797951 
+sj1093,     Lamonting,        <Channel name: pokelawls>,       2024-11-07 16:31:04.063426 
+sj1093,     doid,        <Channel name: pokelawls>,       2024-11-07 16:39:31.471652 
+sj1093,     catEat,        <Channel name: pokelawls>,       2024-11-07 16:42:55.970731 

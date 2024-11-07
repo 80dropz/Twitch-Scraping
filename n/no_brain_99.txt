@@ -4,3 +4,8 @@
  no_brain_99,     WWW,        <Channel name: mongraal>,       2024-11-07 09:37:42.770492 
 
  no_brain_99,     LOL,        <Channel name: mongraal>,       2024-11-07 09:43:52.266503 
+no_brain_99,     WW,        <Channel name: mongraal>,       2024-11-07 16:18:09.992909 
+no_brain_99,     WWW,        <Channel name: mongraal>,       2024-11-07 16:18:27.857295 
+no_brain_99,     WW,        <Channel name: mongraal>,       2024-11-07 16:51:16.563233 
+no_brain_99,     W,        <Channel name: mongraal>,       2024-11-07 16:51:17.732431 
+no_brain_99,     WWWW,        <Channel name: mongraal>,       2024-11-07 16:51:22.008733 

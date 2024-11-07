@@ -36,3 +36,9 @@
  d1_kinng,     let him sleep,        <Channel name: kaicenat>,       2024-11-07 13:10:52.903448 
 
  d1_kinng,     rakai water?,        <Channel name: kaicenat>,       2024-11-07 13:36:47.299389 
+d1_kinng,     pool,        <Channel name: kaicenat>,       2024-11-07 16:20:06.223473 
+d1_kinng,     check in on lil rt,        <Channel name: kaicenat>,       2024-11-07 16:20:43.756288 
+d1_kinng,     usher,        <Channel name: kaicenat>,       2024-11-07 16:36:33.556627 
+d1_kinng,     play usher next,        <Channel name: kaicenat>,       2024-11-07 16:36:43.983239 
+d1_kinng,     jump in pool,        <Channel name: kaicenat>,       2024-11-07 16:55:23.966711 
+d1_kinng,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:25.687277 

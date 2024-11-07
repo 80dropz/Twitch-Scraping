@@ -1,0 +1,3 @@
+rickylb,     omE,        <Channel name: pokelawls>,       2024-11-07 15:54:27.284074 
+rickylb,     EZ,        <Channel name: pokelawls>,       2024-11-07 15:58:33.328309 
+rickylb,     omE,        <Channel name: pokelawls>,       2024-11-07 16:12:03.471620 

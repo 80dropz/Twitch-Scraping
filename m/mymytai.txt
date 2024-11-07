@@ -1,0 +1,19 @@
+
+ mymytai,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:51:02.186497 
+
+ mymytai,     WW,        <Channel name: kaicenat>,       2024-11-07 14:53:17.710782 
+
+ mymytai,     no,        <Channel name: kaicenat>,       2024-11-07 14:54:15.094768 
+mymytai,     wait,        <Channel name: kaicenat>,       2024-11-07 16:33:55.635120 
+mymytai,     stop,        <Channel name: kaicenat>,       2024-11-07 16:34:11.320075 
+mymytai,     its not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:34:38.039049 
+mymytai,     you can break it,        <Channel name: kaicenat>,       2024-11-07 16:35:06.202017 
+mymytai,     omg stop,        <Channel name: kaicenat>,       2024-11-07 16:37:57.884640 
+mymytai,     noo more,        <Channel name: kaicenat>,       2024-11-07 16:40:02.458814 
+mymytai,     he doing it on purpose,        <Channel name: kaicenat>,       2024-11-07 16:41:13.466166 
+mymytai,     WW STEPZ,        <Channel name: kaicenat>,       2024-11-07 16:47:45.350373 
+mymytai,     WW,        <Channel name: kaicenat>,       2024-11-07 16:47:53.716974 
+mymytai,     WW STEPZ,        <Channel name: kaicenat>,       2024-11-07 16:48:13.455050 
+mymytai,     STICKYYY,        <Channel name: kaicenat>,       2024-11-07 16:49:01.141454 
+mymytai,     sticky,        <Channel name: kaicenat>,       2024-11-07 16:49:04.562051 
+mymytai,     STICKYYYYYYYY,        <Channel name: kaicenat>,       2024-11-07 16:49:11.344111 

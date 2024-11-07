@@ -1,0 +1,10 @@
+tsdsh0ts,     clix,        <Channel name: clix>,       2024-11-07 15:56:38.143404 
+tsdsh0ts,     play jrdn,        <Channel name: clix>,       2024-11-07 15:56:44.527648 
+tsdsh0ts,     song called dopamine,        <Channel name: clix>,       2024-11-07 15:56:49.523850 
+tsdsh0ts,     clix,        <Channel name: clix>,       2024-11-07 15:58:40.836804 
+tsdsh0ts,     can you play a song called dopamine by jrdn,        <Channel name: clix>,       2024-11-07 15:58:51.749964 
+tsdsh0ts,     clix please,        <Channel name: clix>,       2024-11-07 16:00:41.964911 
+tsdsh0ts,     play dopamine by jrdn,        <Channel name: clix>,       2024-11-07 16:00:49.839763 
+tsdsh0ts,     it’s my big bro,        <Channel name: clix>,       2024-11-07 16:00:53.152153 
+tsdsh0ts,     please,        <Channel name: clix>,       2024-11-07 16:02:29.648383 
+tsdsh0ts,     dopamine by jrdn next :),        <Channel name: clix>,       2024-11-07 16:02:55.433201 

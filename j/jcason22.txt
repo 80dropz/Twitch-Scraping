@@ -1,0 +1,3 @@
+jcason22,     1,        <Channel name: swagg>,       2024-11-07 16:15:48.658890 
+jcason22,     do you have a Herman miller chair?,        <Channel name: swagg>,       2024-11-07 16:16:26.013926 
+jcason22,     I don’t want one of you don’t have one yourself,        <Channel name: swagg>,       2024-11-07 16:16:54.994339 

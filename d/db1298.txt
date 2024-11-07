@@ -2,3 +2,69 @@
  db1298,     where’s he at?,        <Channel name: mongraal>,       2024-11-07 09:03:49.120757 
 
  db1298,     !time,        <Channel name: clix>,       2024-11-07 11:04:12.066489 
+db1298,     WHAT,        <Channel name: clix>,       2024-11-07 15:39:28.973962 
+db1298,     are you gonna grow a beard,        <Channel name: clix>,       2024-11-07 15:47:30.652740 
+db1298,     grow a beard,        <Channel name: clix>,       2024-11-07 15:48:16.964888 
+db1298,     grow a beard bro,        <Channel name: clix>,       2024-11-07 15:49:14.949083 
+db1298,     grow a beard,        <Channel name: clix>,       2024-11-07 15:49:19.055346 
+db1298,     w beard,        <Channel name: clix>,       2024-11-07 15:49:48.442178 
+db1298,     beard makes you look not 14,        <Channel name: clix>,       2024-11-07 15:49:56.515047 
+db1298,     grow it out,        <Channel name: clix>,       2024-11-07 15:50:05.153994 
+db1298,     grow it our,        <Channel name: clix>,       2024-11-07 15:50:08.122838 
+db1298,     grow it,        <Channel name: clix>,       2024-11-07 15:50:12.166845 
+db1298,     grow beard,        <Channel name: clix>,       2024-11-07 15:50:14.750381 
+db1298,     u look 16,        <Channel name: clix>,       2024-11-07 15:51:43.838420 
+db1298,     are you 15?,        <Channel name: clix>,       2024-11-07 15:51:59.540198 
+db1298,     grow a beard,        <Channel name: clix>,       2024-11-07 15:52:35.947285 
+db1298,     you’re such a dad,        <Channel name: clix>,       2024-11-07 15:52:55.367478 
+db1298,     u look like speed,        <Channel name: clix>,       2024-11-07 15:53:33.997173 
+db1298,     you look like speed but white,        <Channel name: clix>,       2024-11-07 15:53:41.079194 
+db1298,     when u ending stream,        <Channel name: clix>,       2024-11-07 15:54:24.782502 
+db1298,     after the Subathon how often will you stream?,        <Channel name: clix>,       2024-11-07 15:54:48.398241 
+db1298,     after the subathon how often will you stream?,        <Channel name: clix>,       2024-11-07 15:55:05.868105 
+db1298,     after the subathon how often will you stream??,        <Channel name: clix>,       2024-11-07 15:55:38.938410 
+db1298,     after the subathon how often will you stream?,        <Channel name: clix>,       2024-11-07 15:56:14.167255 
+db1298,     will you be my pookie,        <Channel name: clix>,       2024-11-07 15:56:28.739308 
+db1298,     after the subathon how often will you stream?,        <Channel name: clix>,       2024-11-07 15:56:32.668410 
+db1298,     after the subathon how often will you stream??,        <Channel name: clix>,       2024-11-07 15:56:40.381754 
+db1298,     will you be my pookie,        <Channel name: clix>,       2024-11-07 15:56:47.392434 
+db1298,     after the subathon how often will you stream?,        <Channel name: clix>,       2024-11-07 15:56:50.018521 
+db1298,     will you be my pookie,        <Channel name: clix>,       2024-11-07 15:57:08.396802 
+db1298,     yay we gettin lots of clix content,        <Channel name: clix>,       2024-11-07 15:57:20.643867 
+db1298,     what’s the beeping,        <Channel name: clix>,       2024-11-07 15:58:27.111402 
+db1298,     how’d ur skin so clear bro,        <Channel name: clix>,       2024-11-07 15:58:38.539969 
+db1298,     are you good u look tired pookie,        <Channel name: clix>,       2024-11-07 15:58:49.273643 
+db1298,     are u ok u look tired pookie,        <Channel name: clix>,       2024-11-07 15:59:32.861097 
+db1298,     but like real shit are u good bro,        <Channel name: clix>,       2024-11-07 16:00:49.471734 
+db1298,     Hope your good bro,        <Channel name: clix>,       2024-11-07 16:01:15.614757 
+db1298,     just making sure bro,        <Channel name: clix>,       2024-11-07 16:01:51.451929 
+db1298,     Steve from Minecraft?,        <Channel name: clix>,       2024-11-07 16:02:23.381217 
+db1298,     never back down never what?,        <Channel name: clix>,       2024-11-07 16:03:14.827440 
+db1298,     never back down never give up?,        <Channel name: clix>,       2024-11-07 16:03:41.948924 
+db1298,     EEEEEHMAZING,        <Channel name: clix>,       2024-11-07 16:03:58.754225 
+db1298,     Clix u know im an OG,        <Channel name: clix>,       2024-11-07 16:05:31.251406 
+db1298,     how longs the drive bro,        <Channel name: clix>,       2024-11-07 16:06:25.058389 
+db1298,     Steve from Minecraft behind you,        <Channel name: clix>,       2024-11-07 16:07:01.370734 
+db1298,     Steve’s been cooking that up the whole car ride,        <Channel name: clix>,       2024-11-07 16:08:42.348798 
+db1298,     Steve’s been cooking that up the whole ride,        <Channel name: clix>,       2024-11-07 16:08:53.217160 
+db1298,     Steve’s been cooking that up the whole drive,        <Channel name: clix>,       2024-11-07 16:09:05.927551 
+db1298,     bro u gotta do a gym stream with NickEh30,        <Channel name: clix>,       2024-11-07 16:09:58.632370 
+db1298,     bro u gotta do a gym stream with NickEh30.,        <Channel name: clix>,       2024-11-07 16:10:16.409311 
+db1298,     bro u gotta do a gym stream with NickEh30,        <Channel name: clix>,       2024-11-07 16:10:24.781445 
+db1298,     bro u gotta do a gym stream with NickEh30 fr,        <Channel name: clix>,       2024-11-07 16:10:31.372685 
+db1298,     bro u gotta do a gym stream with NickEh30 bro,        <Channel name: clix>,       2024-11-07 16:10:38.957391 
+db1298,     bro u gotta do a gym stream with NickEh30,        <Channel name: clix>,       2024-11-07 16:10:48.729591 
+db1298,     w shoy,        <Channel name: clix>,       2024-11-07 16:15:58.698088 
+db1298,     w shot,        <Channel name: clix>,       2024-11-07 16:16:01.305106 
+db1298,     SO GOOD,        <Channel name: clix>,       2024-11-07 16:17:20.031876 
+db1298,     PROFESSIONAL,        <Channel name: clix>,       2024-11-07 16:17:23.250977 
+db1298,     CODY IS A PRO,        <Channel name: clix>,       2024-11-07 16:17:28.765274 
+db1298,     change title,        <Channel name: clix>,       2024-11-07 16:18:19.221601 
+db1298,     L STEVE,        <Channel name: clix>,       2024-11-07 16:18:49.147294 
+db1298,     STEEEEEVEY,        <Channel name: clix>,       2024-11-07 16:18:52.698880 
+db1298,     IM IN THE THICK OF IT,        <Channel name: clix>,       2024-11-07 16:20:36.626886 
+db1298,     Steve yapping bro stick to Minecraft,        <Channel name: clix>,       2024-11-07 16:21:26.875341 
+db1298,     Steve yapping bro stick to Minecraft,        <Channel name: clix>,       2024-11-07 16:23:03.306337 
+db1298,     Steve yapping bro stick to Minecraft,        <Channel name: clix>,       2024-11-07 16:23:47.290822 
+db1298,     Steve yapping bro stick to Minecraft,        <Channel name: clix>,       2024-11-07 16:24:45.279637 
+db1298,     Steve yapping bro stick to Minecraft,        <Channel name: clix>,       2024-11-07 16:25:33.010315 

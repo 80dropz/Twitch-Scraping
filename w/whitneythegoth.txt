@@ -1,0 +1,2 @@
+whitneythegoth,     hasFlex,        <Channel name: kaicenat>,       2024-11-07 15:30:01.475751 
+whitneythegoth,     hasBuff,        <Channel name: kaicenat>,       2024-11-07 15:30:43.519545 

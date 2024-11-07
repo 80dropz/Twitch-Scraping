@@ -1,2 +1,3 @@
 
  pogchamp_1234,     wtf,        <Channel name: mongraal>,       2024-11-07 09:44:01.528156 
+pogchamp_1234,     !lb,        <Channel name: mongraal>,       2024-11-07 15:55:32.736722 

@@ -1,0 +1,5 @@
+iamlee2x,     YOU HAVE TO CLOSE THE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:31:39.449166 
+iamlee2x,     SHUT THE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:31:41.693179 
+iamlee2x,     YOU HAVE TO SHUT THE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:31:47.343052 
+iamlee2x,     THE DOOR HAS TO CLOSE,        <Channel name: kaicenat>,       2024-11-07 16:35:30.833613 
+iamlee2x,     THE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:35:58.324689 

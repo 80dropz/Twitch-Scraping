@@ -1,0 +1,4 @@
+kue1x,     stfu value,        <Channel name: clix>,       2024-11-07 15:30:15.303488 
+kue1x,     drew wtf you doing,        <Channel name: lacy>,       2024-11-07 15:49:57.817956 
+kue1x,     damn,        <Channel name: lacy>,       2024-11-07 15:50:00.699815 
+kue1x,     fuck you drew,        <Channel name: lacy>,       2024-11-07 15:51:07.918199 

@@ -1,0 +1,6 @@
+chasexx14,     TANTALUM,        <Channel name: lacy>,       2024-11-07 16:16:01.328753 
+chasexx14,     WWWWWW,        <Channel name: lacy>,       2024-11-07 16:20:52.077817 
+chasexx14,     WWWWWWW,        <Channel name: lacy>,       2024-11-07 16:20:53.139125 
+chasexx14,     WWWW,        <Channel name: lacy>,       2024-11-07 16:20:54.208470 
+chasexx14,     WWWWWW,        <Channel name: lacy>,       2024-11-07 16:20:55.521019 
+chasexx14,     W SECURITY,        <Channel name: lacy>,       2024-11-07 16:22:03.986425 

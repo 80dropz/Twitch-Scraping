@@ -24,3 +24,6 @@
  rannsomm,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:53.877820 
 
  rannsomm,     YES,        <Channel name: kaicenat>,       2024-11-07 13:35:53.191336 
+rannsomm,     W KAI,        <Channel name: kaicenat>,       2024-11-07 16:16:04.054122 
+rannsomm,     w BRON,        <Channel name: kaicenat>,       2024-11-07 16:16:16.701830 
+rannsomm,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.244648 

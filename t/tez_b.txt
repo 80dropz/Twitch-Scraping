@@ -1,0 +1,6 @@
+
+ tez_b,     @hermanmillergaming lol,        <Channel name: swagg>,       2024-11-07 15:25:23.250163 
+tez_b,     1,        <Channel name: swagg>,       2024-11-07 16:15:47.105950 
+tez_b,     111111,        <Channel name: swagg>,       2024-11-07 16:15:48.182701 
+tez_b,     11,        <Channel name: swagg>,       2024-11-07 16:15:49.232987 
+tez_b,     1,        <Channel name: swagg>,       2024-11-07 16:15:51.720638 

@@ -1,2 +1,4 @@
 
  a98n,     chat lock in,        <Channel name: nadeshot>,       2024-11-07 02:18:20.311259 
+a98n,     change grande,        <Channel name: nadeshot>,       2024-11-07 15:29:29.497514 
+a98n,     @Drazah  you need to claim T2G,        <Channel name: nadeshot>,       2024-11-07 16:14:51.400689 

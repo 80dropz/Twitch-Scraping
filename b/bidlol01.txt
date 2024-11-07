@@ -1,0 +1,8 @@
+bidlol01,     TriHard,        <Channel name: stableronaldo>,       2024-11-07 15:56:18.868233 
+bidlol01,     W,        <Channel name: stableronaldo>,       2024-11-07 15:56:28.719255 
+bidlol01,     TriHard TriHard TriHard,        <Channel name: stableronaldo>,       2024-11-07 15:56:37.358756 
+bidlol01,     cmonBruh cmonBruh cmonBruh,        <Channel name: stableronaldo>,       2024-11-07 15:56:41.199509 
+bidlol01,     TriHard TriHard cmonBruh cmonBruh cmonBruh cmonBruh,        <Channel name: stableronaldo>,       2024-11-07 15:56:52.719208 
+bidlol01,     TriHard TriHard TriHard TriHard TriHard TriHard TriHard TriHard TriHard,        <Channel name: stableronaldo>,       2024-11-07 15:56:56.678916 
+bidlol01,     TriHard TriHard TriHard TriHard TriHard,        <Channel name: stableronaldo>,       2024-11-07 15:57:03.397396 
+bidlol01,     DoritosChip TriHard DoritosChip TriHard DoritosChip TriHard DoritosChip,        <Channel name: stableronaldo>,       2024-11-07 15:57:06.692206 

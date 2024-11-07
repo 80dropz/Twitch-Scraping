@@ -16,3 +16,6 @@
  ogjudas,     OOOO,        <Channel name: pokelawls>,       2024-11-07 02:49:26.024458 
 
  ogjudas,     HES HACKING OOOO,        <Channel name: pokelawls>,       2024-11-07 02:49:29.819498 
+ogjudas,     Chatting,        <Channel name: pokelawls>,       2024-11-07 15:49:34.637624 
+ogjudas,     LOL,        <Channel name: pokelawls>,       2024-11-07 15:49:44.395181 
+ogjudas,     too bright,        <Channel name: pokelawls>,       2024-11-07 15:49:48.553937 

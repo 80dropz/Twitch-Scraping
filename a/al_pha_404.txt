@@ -1,0 +1,10 @@
+
+ al_pha_404,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:50:31.301456 
+
+ al_pha_404,     DUKEEE,        <Channel name: kaicenat>,       2024-11-07 14:51:08.913569 
+
+ al_pha_404,     DUKE,        <Channel name: kaicenat>,       2024-11-07 14:51:30.549913 
+
+ al_pha_404,     DUKE AURA,        <Channel name: kaicenat>,       2024-11-07 14:51:50.980749 
+
+ al_pha_404,     WW,        <Channel name: kaicenat>,       2024-11-07 14:52:56.176916 

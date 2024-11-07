@@ -1,2 +1,4 @@
 
  njxky,     !TIME,        <Channel name: kaicenat>,       2024-11-07 09:17:16.091423 
+njxky,     !time,        <Channel name: kaicenat>,       2024-11-07 15:42:30.557439 
+njxky,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:43:16.401369 

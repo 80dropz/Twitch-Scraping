@@ -1,0 +1,8 @@
+
+ mx_galacktix,     HELLO,        <Channel name: mongraal>,       2024-11-07 14:49:29.909449 
+
+ mx_galacktix,     HELLO BOWSER,        <Channel name: mongraal>,       2024-11-07 14:50:10.749579 
+
+ mx_galacktix,     HELLO,        <Channel name: mongraal>,       2024-11-07 14:53:00.826689 
+
+ mx_galacktix,     you i ont ready bro,        <Channel name: mongraal>,       2024-11-07 14:54:23.168502 

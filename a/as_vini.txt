@@ -1,0 +1,3 @@
+as_vini,     put watere on i t,        <Channel name: kaicenat>,       2024-11-07 16:31:23.921805 
+as_vini,     onr thing,        <Channel name: kaicenat>,       2024-11-07 16:31:50.074817 
+as_vini,     water,        <Channel name: kaicenat>,       2024-11-07 16:35:27.968311 

@@ -1,0 +1,9 @@
+hendersona17,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:54:47.238659 
+hendersona17,     LFG,        <Channel name: nadeshot>,       2024-11-07 15:54:58.171361 
+hendersona17,     LFG,        <Channel name: nadeshot>,       2024-11-07 15:59:34.872901 
+hendersona17,     hit some pubs together,        <Channel name: nadeshot>,       2024-11-07 16:37:24.877117 
+hendersona17,     snd pubs to warm up,        <Channel name: nadeshot>,       2024-11-07 16:37:56.618620 
+hendersona17,     listen to adapt,        <Channel name: nadeshot>,       2024-11-07 16:48:04.117038 
+hendersona17,     yo nade listen to adapt,        <Channel name: nadeshot>,       2024-11-07 16:48:33.109071 
+hendersona17,     lock in,        <Channel name: nadeshot>,       2024-11-07 16:48:47.315362 
+hendersona17,     stay warm. stay locked,        <Channel name: nadeshot>,       2024-11-07 16:49:27.469224 

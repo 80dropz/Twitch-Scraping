@@ -1,0 +1,5 @@
+
+ fladhi,     YAAAY,        <Channel name: aldo_geo>,       2024-11-07 14:53:46.721722 
+fladhi,     tamare pe,        <Channel name: aldo_geo>,       2024-11-07 16:25:02.620436 
+fladhi,     tamare pe,        <Channel name: aldo_geo>,       2024-11-07 16:37:10.221556 
+fladhi,     ScaredDog,        <Channel name: aldo_geo>,       2024-11-07 16:41:00.703119 

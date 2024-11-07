@@ -1,0 +1,5 @@
+starda12_,     gg,        <Channel name: clix>,       2024-11-07 15:37:31.942153 
+starda12_,     lag,        <Channel name: clix>,       2024-11-07 15:43:15.244433 
+starda12_,     where are you going,        <Channel name: clix>,       2024-11-07 15:51:17.509108 
+starda12_,     me,        <Channel name: clix>,       2024-11-07 15:54:37.933763 
+starda12_,     !discord,        <Channel name: clix>,       2024-11-07 15:55:05.341148 

@@ -1,0 +1,4 @@
+sznvr,     YES,        <Channel name: stableronaldo>,       2024-11-07 15:59:29.121054 
+sznvr,     YESSS,        <Channel name: stableronaldo>,       2024-11-07 15:59:31.750694 
+sznvr,     YES,        <Channel name: stableronaldo>,       2024-11-07 15:59:32.996696 
+sznvr,     YESS,        <Channel name: stableronaldo>,       2024-11-07 15:59:34.564402 

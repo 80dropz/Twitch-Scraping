@@ -1,0 +1,2 @@
+snt_host,     clixLasered clixTOXIC clixTOXIC clixTOXIC clixTOXIC clixPout clixShambles clixShambles clixZzz clixHey,        <Channel name: clix>,       2024-11-07 15:31:00.186456 
+snt_host,     clixHey,        <Channel name: clix>,       2024-11-07 15:31:11.579618 

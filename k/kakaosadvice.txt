@@ -1,0 +1,2 @@
+kakaosadvice,     !saturation,        <Channel name: mongraal>,       2024-11-07 16:45:00.647732 
+kakaosadvice,     !color,        <Channel name: mongraal>,       2024-11-07 16:45:03.532132 

@@ -24,3 +24,5 @@
  gree3n_fn,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:25:33.810396 
 
  gree3n_fn,     WE GOT IT NIGGGA DAMN',        <Channel name: kaicenat>,       2024-11-07 13:34:18.787950 
+
+ gree3n_fn,     THATS BIG LEAK,        <Channel name: kaicenat>,       2024-11-07 14:50:00.273874 

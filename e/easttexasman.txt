@@ -1,0 +1,20 @@
+
+ easttexasman,     WWWW,        <Channel name: swagg>,       2024-11-07 15:25:51.758423 
+easttexasman,     COD Timing!,        <Channel name: swagg>,       2024-11-07 15:47:45.889837 
+easttexasman,     Texas in tha house,        <Channel name: swagg>,       2024-11-07 15:50:55.231893 
+easttexasman,     1,        <Channel name: swagg>,       2024-11-07 16:15:39.734021 
+easttexasman,     w,        <Channel name: swagg>,       2024-11-07 16:35:23.860414 
+easttexasman,     ww,        <Channel name: swagg>,       2024-11-07 16:35:24.885169 
+easttexasman,     www,        <Channel name: swagg>,       2024-11-07 16:35:26.120530 
+easttexasman,     w,        <Channel name: swagg>,       2024-11-07 16:47:40.026804 
+easttexasman,     ww,        <Channel name: swagg>,       2024-11-07 16:47:45.473575 
+easttexasman,     www,        <Channel name: swagg>,       2024-11-07 16:47:46.985445 
+easttexasman,     w,        <Channel name: swagg>,       2024-11-07 16:47:48.527703 
+easttexasman,     ww,        <Channel name: swagg>,       2024-11-07 16:47:49.950309 
+easttexasman,     LETS GO!!!!!,        <Channel name: swagg>,       2024-11-07 16:54:04.002443 
+easttexasman,     WW,        <Channel name: swagg>,       2024-11-07 16:54:05.671720 
+easttexasman,     W,        <Channel name: swagg>,       2024-11-07 16:54:06.706042 
+easttexasman,     WW,        <Channel name: swagg>,       2024-11-07 16:54:07.862791 
+easttexasman,     WWWW WW,        <Channel name: swagg>,       2024-11-07 16:54:10.419346 
+easttexasman,     WWWWWWWWWWW,        <Channel name: swagg>,       2024-11-07 16:54:13.469617 
+easttexasman,     Great job Swagg and Tim,        <Channel name: swagg>,       2024-11-07 16:54:48.587637 

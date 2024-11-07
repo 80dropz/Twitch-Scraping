@@ -10,3 +10,11 @@
  gacablu,     bro delay is far more than 2 minutes lmao,        <Channel name: mongraal>,       2024-11-07 12:30:47.499062 
 
  gacablu,     !delay,        <Channel name: mongraal>,       2024-11-07 12:30:52.763782 
+
+ gacablu,     NO BROO,        <Channel name: mongraal>,       2024-11-07 14:42:56.799940 
+
+ gacablu,     that was meant to be you ajhaha,        <Channel name: mongraal>,       2024-11-07 14:46:49.460194 
+
+ gacablu,     !lb,        <Channel name: mongraal>,       2024-11-07 14:49:56.720486 
+
+ gacablu,     !leaderboard,        <Channel name: mongraal>,       2024-11-07 14:50:06.747885 

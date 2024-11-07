@@ -1,0 +1,3 @@
+eliot0000,     send clip,        <Channel name: lacy>,       2024-11-07 15:59:45.614771 
+eliot0000,     SEND CLIPPP,        <Channel name: lacy>,       2024-11-07 15:59:51.663871 
+eliot0000,     WHO CLIPPES,        <Channel name: lacy>,       2024-11-07 16:01:22.353575 

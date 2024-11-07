@@ -1,0 +1,6 @@
+d1_______1,     ice bath bro,        <Channel name: kaicenat>,       2024-11-07 16:19:27.511551 
+d1_______1,     ice bath,        <Channel name: kaicenat>,       2024-11-07 16:19:31.142076 
+d1_______1,     ice Bath bro,        <Channel name: kaicenat>,       2024-11-07 16:19:40.553083 
+d1_______1,     Ice bath,        <Channel name: kaicenat>,       2024-11-07 16:19:49.273350 
+d1_______1,     ice bath,        <Channel name: kaicenat>,       2024-11-07 16:20:13.283322 
+d1_______1,     water,        <Channel name: kaicenat>,       2024-11-07 16:46:07.455129 

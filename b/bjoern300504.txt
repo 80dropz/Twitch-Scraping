@@ -1,0 +1,2 @@
+bjoern300504,     !sens,        <Channel name: mongraal>,       2024-11-07 16:42:46.246458 
+bjoern300504,     !dpi,        <Channel name: mongraal>,       2024-11-07 16:43:07.584800 

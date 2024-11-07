@@ -1,0 +1,14 @@
+lostcause58,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:29.357494 
+lostcause58,     W COACH,        <Channel name: kaicenat>,       2024-11-07 16:16:22.439876 
+lostcause58,     fax,        <Channel name: kaicenat>,       2024-11-07 16:17:53.543431 
+lostcause58,     20,        <Channel name: kaicenat>,       2024-11-07 16:18:44.608861 
+lostcause58,     POOL PARTY!,        <Channel name: kaicenat>,       2024-11-07 16:22:19.854056 
+lostcause58,     yesssss,        <Channel name: kaicenat>,       2024-11-07 16:22:49.802197 
+lostcause58,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:14.550417 
+lostcause58,     it’s fine,        <Channel name: kaicenat>,       2024-11-07 16:26:33.075073 
+lostcause58,     put water on rocks,        <Channel name: kaicenat>,       2024-11-07 16:28:11.103984 
+lostcause58,     YESSS,        <Channel name: kaicenat>,       2024-11-07 16:28:11.214530 
+lostcause58,     NO,        <Channel name: kaicenat>,       2024-11-07 16:30:07.847883 
+lostcause58,     yeah,        <Channel name: kaicenat>,       2024-11-07 16:31:25.942585 
+lostcause58,     water,        <Channel name: kaicenat>,       2024-11-07 16:31:51.133161 
+lostcause58,     then stop,        <Channel name: kaicenat>,       2024-11-07 16:34:47.162087 

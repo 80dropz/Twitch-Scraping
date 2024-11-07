@@ -18,3 +18,9 @@
  berkks_,     hahaha,        <Channel name: nadeshot>,       2024-11-07 12:14:07.040250 
 
  berkks_,     W Fam,        <Channel name: nadeshot>,       2024-11-07 12:18:09.832591 
+berkks_,     What car are you in?,        <Channel name: clix>,       2024-11-07 16:01:13.545669 
+berkks_,     no sht,        <Channel name: clix>,       2024-11-07 16:15:02.624825 
+berkks_,     no shot,        <Channel name: clix>,       2024-11-07 16:15:06.596994 
+berkks_,     oh no,        <Channel name: clix>,       2024-11-07 16:15:25.700771 
+berkks_,     with an iron lol,        <Channel name: clix>,       2024-11-07 16:16:37.295969 
+berkks_,     W swing,        <Channel name: clix>,       2024-11-07 16:18:14.800660 

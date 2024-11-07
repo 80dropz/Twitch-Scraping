@@ -1,0 +1,4 @@
+
+ avvio_nebulare,     !point,        <Channel name: mongraal>,       2024-11-07 15:25:57.697593 
+
+ avvio_nebulare,     !points,        <Channel name: mongraal>,       2024-11-07 15:26:02.713055 

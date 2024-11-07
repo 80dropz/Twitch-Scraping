@@ -1,0 +1,4 @@
+itsmechu_,     call Ray,        <Channel name: kaicenat>,       2024-11-07 16:35:36.175461 
+itsmechu_,     Ray,        <Channel name: kaicenat>,       2024-11-07 16:35:39.232952 
+itsmechu_,     call Ray today,        <Channel name: kaicenat>,       2024-11-07 16:35:50.682570 
+itsmechu_,     kaicENAT kaicENAT kaicENAT kaicENAT kaicE kaicE kaicE,        <Channel name: kaicenat>,       2024-11-07 16:43:04.478652 

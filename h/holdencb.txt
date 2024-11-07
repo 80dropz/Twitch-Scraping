@@ -1,0 +1,4 @@
+holdencb,     give it an hour,        <Channel name: kaicenat>,       2024-11-07 16:32:58.136313 
+holdencb,     W NELLY,        <Channel name: kaicenat>,       2024-11-07 16:36:16.836644 
+holdencb,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:37:22.478763 
+holdencb,     bro does not read,        <Channel name: kaicenat>,       2024-11-07 16:46:08.866117 

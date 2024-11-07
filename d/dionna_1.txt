@@ -1,0 +1,3 @@
+dionna_1,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:51.087277 
+dionna_1,     yup,        <Channel name: kaicenat>,       2024-11-07 16:21:53.409200 
+dionna_1,     yeah,        <Channel name: kaicenat>,       2024-11-07 16:21:55.901137 

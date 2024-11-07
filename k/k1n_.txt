@@ -1,0 +1,6 @@
+k1n_,     u carried,        <Channel name: stableronaldo>,       2024-11-07 16:11:47.299744 
+k1n_,     ome3,        <Channel name: stableronaldo>,       2024-11-07 16:13:21.817912 
+k1n_,     ome43,        <Channel name: stableronaldo>,       2024-11-07 16:13:45.782932 
+k1n_,     you give it to much attention so more people do it,        <Channel name: stableronaldo>,       2024-11-07 16:14:37.605828 
+k1n_,     ome43,        <Channel name: stableronaldo>,       2024-11-07 16:14:58.327285 
+k1n_,     def big,        <Channel name: stableronaldo>,       2024-11-07 16:21:10.504108 

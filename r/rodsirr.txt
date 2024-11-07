@@ -48,3 +48,6 @@
  rodsirr,     knight,        <Channel name: swagg>,       2024-11-07 02:53:19.161329 
 
  rodsirr,     but i love that spidey movie,        <Channel name: swagg>,       2024-11-07 02:53:34.278338 
+
+ rodsirr,     gg,        <Channel name: lacy>,       2024-11-07 15:26:51.850662 
+rodsirr,     gyattt,        <Channel name: lacy>,       2024-11-07 16:21:32.764463 

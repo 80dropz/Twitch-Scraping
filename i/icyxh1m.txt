@@ -1,0 +1,3 @@
+icyxh1m,     where is burger!,        <Channel name: stableronaldo>,       2024-11-07 16:10:32.045546 
+icyxh1m,     WHERE IS BURGER,        <Channel name: stableronaldo>,       2024-11-07 16:10:36.756394 
+icyxh1m,     WHERE IS BURGER!?!?,        <Channel name: stableronaldo>,       2024-11-07 16:10:48.190530 

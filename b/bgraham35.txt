@@ -20,3 +20,4 @@
  bgraham35,     The star of the stream!,        <Channel name: nadeshot>,       2024-11-07 12:49:55.048786 
 
  bgraham35,     WALEY,        <Channel name: nadeshot>,       2024-11-07 12:50:08.512933 
+bgraham35,     W pregame routine,        <Channel name: nadeshot>,       2024-11-07 16:51:56.773566 

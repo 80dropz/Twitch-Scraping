@@ -24,3 +24,4 @@
  heirs2theempire,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 11:32:17.263520 
 
  heirs2theempire,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 11:34:02.602184 
+heirs2theempire,     !dsize,        <Channel name: kaicenat>,       2024-11-07 15:48:29.029132 

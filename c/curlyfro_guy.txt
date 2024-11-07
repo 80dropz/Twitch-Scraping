@@ -1,0 +1,2 @@
+curlyfro_guy,     end stream,        <Channel name: stableronaldo>,       2024-11-07 15:57:37.354006 
+curlyfro_guy,     cap,        <Channel name: stableronaldo>,       2024-11-07 15:58:51.633577 

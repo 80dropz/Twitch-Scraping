@@ -1,0 +1,14 @@
+
+ cakekins,     WWWW,        <Channel name: adapt>,       2024-11-07 14:52:17.139649 
+
+ cakekins,     WWW,        <Channel name: adapt>,       2024-11-07 14:53:24.723291 
+
+ cakekins,     W,        <Channel name: adapt>,       2024-11-07 14:53:28.876771 
+
+ cakekins,     WWWWW,        <Channel name: adapt>,       2024-11-07 14:53:33.499190 
+
+ cakekins,     WWW,        <Channel name: adapt>,       2024-11-07 14:53:38.062776 
+
+ cakekins,     WWWWW,        <Channel name: adapt>,       2024-11-07 14:53:48.422159 
+cakekins,     yoo,        <Channel name: adapt>,       2024-11-07 15:51:50.707253 
+cakekins,     adapt2WTF,        <Channel name: adapt>,       2024-11-07 16:13:02.991961 

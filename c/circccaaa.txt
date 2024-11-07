@@ -160,3 +160,57 @@
  circccaaa,     WWWW,        <Channel name: nadeshot>,       2024-11-07 12:21:37.630820 
 
  circccaaa,     VIBES,        <Channel name: nadeshot>,       2024-11-07 12:21:59.679507 
+
+ circccaaa,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:27:52.671373 
+circccaaa,     LFG,        <Channel name: nadeshot>,       2024-11-07 15:28:37.654667 
+circccaaa,     GO OFF,        <Channel name: nadeshot>,       2024-11-07 15:28:58.440922 
+circccaaa,     straight up,        <Channel name: nadeshot>,       2024-11-07 15:30:29.127681 
+circccaaa,     LETSGOOOO,        <Channel name: nadeshot>,       2024-11-07 15:33:32.484781 
+circccaaa,     W,        <Channel name: nadeshot>,       2024-11-07 15:33:42.379553 
+circccaaa,     DEAD,        <Channel name: nadeshot>,       2024-11-07 15:34:44.279309 
+circccaaa,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:35:04.315168 
+circccaaa,     letsgoooooo,        <Channel name: nadeshot>,       2024-11-07 15:35:23.859883 
+circccaaa,     fuuuuuck,        <Channel name: nadeshot>,       2024-11-07 15:36:28.276820 
+circccaaa,     regain,        <Channel name: nadeshot>,       2024-11-07 15:36:47.562080 
+circccaaa,     @vimbai W,        <Channel name: nadeshot>,       2024-11-07 15:38:56.714044 
+circccaaa,     @gkafluffy hope you get back on your feet brother,        <Channel name: nadeshot>,       2024-11-07 15:39:27.434107 
+circccaaa,     quit going big door?,        <Channel name: nadeshot>,       2024-11-07 15:44:07.787966 
+circccaaa,     GG,        <Channel name: nadeshot>,       2024-11-07 15:45:13.017663 
+circccaaa,     nadeRIP nadeRIP nadeRIP nadeRIP nadeRIP,        <Channel name: nadeshot>,       2024-11-07 15:45:22.682573 
+circccaaa,     stoooop Nade,        <Channel name: nadeshot>,       2024-11-07 15:45:46.556879 
+circccaaa,     stooooop nade lol,        <Channel name: nadeshot>,       2024-11-07 15:45:52.658532 
+circccaaa,     lock the fuck in nade,        <Channel name: nadeshot>,       2024-11-07 15:46:05.066380 
+circccaaa,     love me some James Blake,        <Channel name: nadeshot>,       2024-11-07 15:48:09.705709 
+circccaaa,     this is James Blake,        <Channel name: nadeshot>,       2024-11-07 15:48:42.975949 
+circccaaa,     you got this,        <Channel name: nadeshot>,       2024-11-07 15:53:25.971240 
+circccaaa,     LFG,        <Channel name: nadeshot>,       2024-11-07 15:54:56.262517 
+circccaaa,     GG,        <Channel name: nadeshot>,       2024-11-07 15:55:37.433208 
+circccaaa,     WWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:21.560822 
+circccaaa,     W,        <Channel name: nadeshot>,       2024-11-07 15:59:24.150631 
+circccaaa,     LETS GOOOO,        <Channel name: nadeshot>,       2024-11-07 15:59:28.994726 
+circccaaa,     YUUUUUUGE,        <Channel name: nadeshot>,       2024-11-07 15:59:35.613402 
+circccaaa,     let’s goooo boys,        <Channel name: nadeshot>,       2024-11-07 16:00:54.791962 
+circccaaa,     nice kills!!!,        <Channel name: nadeshot>,       2024-11-07 16:01:54.140108 
+circccaaa,     W,        <Channel name: nadeshot>,       2024-11-07 16:01:59.476930 
+circccaaa,     have fun Nade!!!,        <Channel name: nadeshot>,       2024-11-07 16:05:54.073909 
+circccaaa,     let’s go boys,        <Channel name: nadeshot>,       2024-11-07 16:06:42.763065 
+circccaaa,     let’s goooooooo,        <Channel name: nadeshot>,       2024-11-07 16:07:14.837453 
+circccaaa,     LETS GOOOOOOOn,        <Channel name: nadeshot>,       2024-11-07 16:07:25.664255 
+circccaaa,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:07:38.387101 
+circccaaa,     ntntntnt,        <Channel name: nadeshot>,       2024-11-07 16:08:31.612516 
+circccaaa,     @statefarmjake13 good afternoon,        <Channel name: nadeshot>,       2024-11-07 16:09:00.631388 
+circccaaa,     LFG,        <Channel name: nadeshot>,       2024-11-07 16:09:56.160245 
+circccaaa,     W,        <Channel name: nadeshot>,       2024-11-07 16:09:59.963818 
+circccaaa,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:10:04.406209 
+circccaaa,     T2G!,        <Channel name: nadeshot>,       2024-11-07 16:10:16.561457 
+circccaaa,     LFG,        <Channel name: nadeshot>,       2024-11-07 16:11:16.109346 
+circccaaa,     WWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:11:21.948912 
+circccaaa,     GOOD ROUTE,        <Channel name: nadeshot>,       2024-11-07 16:11:27.525626 
+circccaaa,     GOOD SHIT,        <Channel name: nadeshot>,       2024-11-07 16:11:40.715658 
+circccaaa,     ahhh piss,        <Channel name: nadeshot>,       2024-11-07 16:12:33.106335 
+circccaaa,     nt,        <Channel name: nadeshot>,       2024-11-07 16:12:38.347594 
+circccaaa,     good try,        <Channel name: nadeshot>,       2024-11-07 16:12:45.967469 
+circccaaa,     actually funny,        <Channel name: nadeshot>,       2024-11-07 16:15:00.800120 
+circccaaa,     lol,        <Channel name: nadeshot>,       2024-11-07 16:20:34.513065 
+circccaaa,     lol,        <Channel name: nadeshot>,       2024-11-07 16:22:10.444466 
+circccaaa,     there it is lol,        <Channel name: nadeshot>,       2024-11-07 16:23:38.366705 

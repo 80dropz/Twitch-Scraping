@@ -60,3 +60,6 @@
  noduhh24,     decoration,        <Channel name: nadeshot>,       2024-11-07 12:43:03.751301 
 
  noduhh24,     W,        <Channel name: nadeshot>,       2024-11-07 12:56:14.292942 
+
+ noduhh24,     T2G GoonWall,        <Channel name: nadeshot>,       2024-11-07 15:23:56.036921 
+noduhh24,     when the glizzy is right, the aim is tight,        <Channel name: nadeshot>,       2024-11-07 16:20:29.891195 

@@ -1,2 +1,10 @@
 
  conor2271,     ego checked,        <Channel name: mongraal>,       2024-11-07 10:26:14.118145 
+
+ conor2271,     awareness checked yesterday,        <Channel name: mongraal>,       2024-11-07 14:43:41.677320 
+
+ conor2271,     delay?,        <Channel name: mongraal>,       2024-11-07 14:50:13.396547 
+
+ conor2271,     savage rotations are so hit or miss,        <Channel name: mongraal>,       2024-11-07 14:51:02.043714 
+conor2271,     !title,        <Channel name: mongraal>,       2024-11-07 16:44:47.431237 
+conor2271,     w title,        <Channel name: mongraal>,       2024-11-07 16:44:54.056712 

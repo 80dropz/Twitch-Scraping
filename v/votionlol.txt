@@ -1,0 +1,2 @@
+votionlol,     !myuptime,        <Channel name: faxuty>,       2024-11-07 16:04:08.978234 
+votionlol,     !watchtime,        <Channel name: faxuty>,       2024-11-07 16:04:21.727808 

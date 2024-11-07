@@ -1,2 +1,4 @@
 
  kyropx,     scuf,        <Channel name: nadeshot>,       2024-11-07 02:18:17.441872 
+kyropx,     goon tf up, come on nade,        <Channel name: nadeshot>,       2024-11-07 15:42:04.458544 
+kyropx,     !bracket,        <Channel name: nadeshot>,       2024-11-07 16:20:25.820647 

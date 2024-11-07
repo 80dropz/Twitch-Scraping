@@ -1,0 +1,7 @@
+real_dilly,     20 in arkansas,        <Channel name: clix>,       2024-11-07 15:47:41.753990 
+real_dilly,     When is the Snoop Dogg stream,        <Channel name: clix>,       2024-11-07 15:50:42.024201 
+real_dilly,     When is the Snoop Dogg stream,        <Channel name: clix>,       2024-11-07 15:51:42.836989 
+real_dilly,     WHEN IS THE SNOOP DOGG STREAM,        <Channel name: clix>,       2024-11-07 15:54:46.923480 
+real_dilly,     Are you good at golf,        <Channel name: clix>,       2024-11-07 15:57:28.507690 
+real_dilly,     Are  you  good  at  golf,        <Channel name: clix>,       2024-11-07 15:59:02.256556 
+real_dilly,     Do you like the new minigun,        <Channel name: clix>,       2024-11-07 16:02:07.044587 

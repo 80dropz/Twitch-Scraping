@@ -6,3 +6,5 @@
  astra_cam,     check profile,        <Channel name: nadeshot>,       2024-11-07 02:43:13.456544 
 
  astra_cam,     in streamdeck app,        <Channel name: nadeshot>,       2024-11-07 02:43:25.732510 
+
+ astra_cam,     oh nah im not watching nade in a hotdog costume right now am i,        <Channel name: nadeshot>,       2024-11-07 14:52:45.689296 

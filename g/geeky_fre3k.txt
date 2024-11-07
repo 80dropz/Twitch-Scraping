@@ -4,3 +4,5 @@
  geeky_fre3k,     no,        <Channel name: kaicenat>,       2024-11-07 13:30:15.720272 
 
  geeky_fre3k,     no thanks,        <Channel name: kaicenat>,       2024-11-07 13:31:42.460584 
+geeky_fre3k,     pause,        <Channel name: kaicenat>,       2024-11-07 15:28:33.460733 
+geeky_fre3k,     bring tv,        <Channel name: kaicenat>,       2024-11-07 16:26:30.092494 

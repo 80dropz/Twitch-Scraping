@@ -10,3 +10,4 @@
  dragonfire_0002,     !SUBS,        <Channel name: mongraal>,       2024-11-07 11:44:22.329090 
 
  dragonfire_0002,     IS FINALS AT 5?,        <Channel name: mongraal>,       2024-11-07 12:15:11.594586 
+dragonfire_0002,     !subs,        <Channel name: mongraal>,       2024-11-07 16:36:06.693188 

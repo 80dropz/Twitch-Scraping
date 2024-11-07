@@ -1,0 +1,7 @@
+logings,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.232137 
+logings,     add water when its hot,        <Channel name: kaicenat>,       2024-11-07 16:28:28.942608 
+logings,     barely,        <Channel name: kaicenat>,       2024-11-07 16:29:52.226855 
+logings,     NOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:32:31.842321 
+logings,     bro max it it needs to be almost boiling hot then you need to add water,        <Channel name: kaicenat>,       2024-11-07 16:33:04.246761 
+logings,     add water after aminute or so and only 1 scoop,        <Channel name: kaicenat>,       2024-11-07 16:33:53.873088 
+logings,     this guy has no pacience,        <Channel name: kaicenat>,       2024-11-07 16:35:43.140218 

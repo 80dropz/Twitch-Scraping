@@ -1,0 +1,4 @@
+piggygurll,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:07.260491 
+piggygurll,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:43:45.154699 
+piggygurll,     !roulette 110,        <Channel name: kaicenat>,       2024-11-07 15:44:52.631347 
+piggygurll,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:46:09.169074 

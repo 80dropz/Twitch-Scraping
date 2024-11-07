@@ -80,3 +80,7 @@
  jamal201111,     kaicRAT kaicRAT kaicRAT kaicRAT kaicRAT,        <Channel name: kaicenat>,       2024-11-07 12:55:08.525078 
 
  jamal201111,     kaicRAT kaicStareee,        <Channel name: kaicenat>,       2024-11-07 13:14:58.197785 
+jamal201111,     where is rakai,        <Channel name: kaicenat>,       2024-11-07 16:00:50.607850 
+jamal201111,     where is small kai,        <Channel name: kaicenat>,       2024-11-07 16:01:30.186901 
+jamal201111,     kaicRAT kaicStareee kaicRAT kaicStareee kaicRAT kaicStareee kaicRAT kaicStareee,        <Channel name: kaicenat>,       2024-11-07 16:01:45.421776 
+jamal201111,     where is rakai,        <Channel name: kaicenat>,       2024-11-07 16:09:28.022389 

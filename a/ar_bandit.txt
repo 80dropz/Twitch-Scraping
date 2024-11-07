@@ -2,3 +2,6 @@
  ar_bandit,     hot dog day, yes,        <Channel name: nadeshot>,       2024-11-07 12:05:59.160877 
 
  ar_bandit,     nade are you one of those families that just skip thanksgiving and go straight to Xmas?,        <Channel name: nadeshot>,       2024-11-07 12:27:56.951064 
+ar_bandit,     nade get the vibes up on the squad,        <Channel name: nadeshot>,       2024-11-07 16:39:14.695427 
+ar_bandit,     get everyone to switch their role and you snipe for 1 rd,        <Channel name: nadeshot>,       2024-11-07 16:39:28.882838 
+ar_bandit,     mastros is the same as Morton’s,        <Channel name: nadeshot>,       2024-11-07 16:43:57.046183 

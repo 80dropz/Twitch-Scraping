@@ -10,3 +10,35 @@
  official_rie,     wwwww,        <Channel name: kaicenat>,       2024-11-07 13:36:38.057976 
 
  official_rie,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 13:36:51.146713 
+
+ official_rie,     let’s gooo,        <Channel name: kaicenat>,       2024-11-07 15:23:49.262976 
+
+ official_rie,     yesss,        <Channel name: kaicenat>,       2024-11-07 15:24:02.586110 
+
+ official_rie,     yes,        <Channel name: kaicenat>,       2024-11-07 15:25:04.035136 
+
+ official_rie,     let’s go,        <Channel name: kaicenat>,       2024-11-07 15:25:04.174144 
+official_rie,     let’s go Kai,        <Channel name: kaicenat>,       2024-11-07 15:33:38.724508 
+official_rie,     lock in gang,        <Channel name: kaicenat>,       2024-11-07 15:33:43.238545 
+official_rie,     huh,        <Channel name: kaicenat>,       2024-11-07 15:33:44.452937 
+official_rie,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:36:33.560652 
+official_rie,     let’s go kai,        <Channel name: kaicenat>,       2024-11-07 16:00:14.216715 
+official_rie,     come Kai,        <Channel name: kaicenat>,       2024-11-07 16:00:18.985474 
+official_rie,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 16:00:21.332485 
+official_rie,     let’s go,        <Channel name: kaicenat>,       2024-11-07 16:04:01.449837 
+official_rie,     wwww,        <Channel name: kaicenat>,       2024-11-07 16:04:37.334899 
+official_rie,     wwwww,        <Channel name: kaicenat>,       2024-11-07 16:05:47.786878 
+official_rie,     www,        <Channel name: kaicenat>,       2024-11-07 16:06:16.200957 
+official_rie,     damn,        <Channel name: kaicenat>,       2024-11-07 16:06:42.907424 
+official_rie,     lock in Kai,        <Channel name: kaicenat>,       2024-11-07 16:07:39.768448 
+official_rie,     www,        <Channel name: kaicenat>,       2024-11-07 16:07:55.309935 
+official_rie,     www song,        <Channel name: kaicenat>,       2024-11-07 16:07:58.617534 
+official_rie,     let’s go Kai,        <Channel name: kaicenat>,       2024-11-07 16:08:13.096074 
+official_rie,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 16:08:15.890320 
+official_rie,     let’s go,        <Channel name: kaicenat>,       2024-11-07 16:15:00.993667 
+official_rie,     good shi Kai,        <Channel name: kaicenat>,       2024-11-07 16:15:52.258074 
+official_rie,     no,        <Channel name: kaicenat>,       2024-11-07 16:32:36.612246 
+official_rie,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 16:36:22.010290 
+official_rie,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 16:36:49.033068 
+official_rie,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 16:37:09.880065 
+official_rie,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:47:47.893493 

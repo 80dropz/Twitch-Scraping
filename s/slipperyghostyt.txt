@@ -2,3 +2,28 @@
  slipperyghostyt,     !wake,        <Channel name: clix>,       2024-11-07 12:14:53.435922 
 
  slipperyghostyt,     !time,        <Channel name: clix>,       2024-11-07 12:15:09.291667 
+slipperyghostyt,     2HRS 10MINS,        <Channel name: clix>,       2024-11-07 15:53:29.259428 
+slipperyghostyt,     2 HR 10,        <Channel name: clix>,       2024-11-07 15:53:42.695030 
+slipperyghostyt,     WILL THERE BE KBM,        <Channel name: clix>,       2024-11-07 15:57:08.079503 
+slipperyghostyt,     IS THERE GONNA BE KBM AT THE JBL EVENT,        <Channel name: clix>,       2024-11-07 16:00:51.608074 
+slipperyghostyt,     Is there finna be KBM at the JBL even,        <Channel name: clix>,       2024-11-07 16:01:43.984012 
+slipperyghostyt,     Is there finna be KBM at the JBL event,        <Channel name: clix>,       2024-11-07 16:02:05.778080 
+slipperyghostyt,     Is there finna be KBM at the JBL eventt,        <Channel name: clix>,       2024-11-07 16:02:21.294041 
+slipperyghostyt,     Is there finna be KBM at the JBL eventtt,        <Channel name: clix>,       2024-11-07 16:02:36.592126 
+slipperyghostyt,     Is There gonna be KBM at the event,        <Channel name: clix>,       2024-11-07 16:03:02.701830 
+slipperyghostyt,     Is There gonna be KBM at the eventt,        <Channel name: clix>,       2024-11-07 16:03:22.666733 
+slipperyghostyt,     Is There gonna be KBM at the eventtt,        <Channel name: clix>,       2024-11-07 16:03:27.234123 
+slipperyghostyt,     Alr thx,        <Channel name: clix>,       2024-11-07 16:03:42.557105 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,        <Channel name: clix>,       2024-11-07 16:05:31.556263 
+slipperyghostyt,     !mouse,        <Channel name: clix>,       2024-11-07 16:07:05.646539 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,        <Channel name: clix>,       2024-11-07 16:07:55.590596 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golff,        <Channel name: clix>,       2024-11-07 16:08:19.528167 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golfff,        <Channel name: clix>,       2024-11-07 16:08:29.700322 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf.,        <Channel name: clix>,       2024-11-07 16:08:41.584670 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,,        <Channel name: clix>,       2024-11-07 16:08:47.897167 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,        <Channel name: clix>,       2024-11-07 16:09:10.327435 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf...,        <Channel name: clix>,       2024-11-07 16:09:18.771260 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf.,        <Channel name: clix>,       2024-11-07 16:09:26.338752 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,        <Channel name: clix>,       2024-11-07 16:10:29.914875 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf,,        <Channel name: clix>,       2024-11-07 16:10:32.216664 
+slipperyghostyt,     Clix can i IRL stream Snipe you at the top golf..,        <Channel name: clix>,       2024-11-07 16:10:35.238325 

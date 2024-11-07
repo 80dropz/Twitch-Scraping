@@ -1,0 +1,2 @@
+manufn_99,     !duo,        <Channel name: clix>,       2024-11-07 15:45:43.264386 
+manufn_99,     !trio,        <Channel name: clix>,       2024-11-07 15:45:54.670423 

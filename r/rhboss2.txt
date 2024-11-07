@@ -1,0 +1,2 @@
+rhboss2,     Pause kai,        <Channel name: kaicenat>,       2024-11-07 16:55:37.360623 
+rhboss2,     Pause,        <Channel name: kaicenat>,       2024-11-07 16:55:46.535970 

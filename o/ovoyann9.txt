@@ -150,3 +150,33 @@
  ovoyann9,     8,        <Channel name: kaicenat>,       2024-11-07 02:06:58.911434 
 
  ovoyann9,     83,        <Channel name: kaicenat>,       2024-11-07 02:07:05.359751 
+
+ ovoyann9,     CINEMAA,        <Channel name: kaicenat>,       2024-11-07 14:42:21.920966 
+
+ ovoyann9,     CAPP,        <Channel name: kaicenat>,       2024-11-07 14:45:50.775284 
+
+ ovoyann9,     GREEN,        <Channel name: kaicenat>,       2024-11-07 14:46:27.461289 
+
+ ovoyann9,     WWW SPEED,        <Channel name: kaicenat>,       2024-11-07 14:46:49.840657 
+
+ ovoyann9,     OLDEST KAI VIEWER BTW,        <Channel name: kaicenat>,       2024-11-07 14:48:16.515644 
+
+ ovoyann9,     YOOO,        <Channel name: kaicenat>,       2024-11-07 14:50:05.373373 
+
+ ovoyann9,     HE WAS SCARYY,        <Channel name: kaicenat>,       2024-11-07 14:50:13.542651 
+
+ ovoyann9,     DUKEEE,        <Channel name: kaicenat>,       2024-11-07 14:50:43.699987 
+
+ ovoyann9,     DUKEEEE,        <Channel name: kaicenat>,       2024-11-07 14:50:47.220435 
+
+ ovoyann9,     AURAA,        <Channel name: kaicenat>,       2024-11-07 14:51:21.599535 
+
+ ovoyann9,     MY GOAT,        <Channel name: kaicenat>,       2024-11-07 14:51:33.201512 
+
+ ovoyann9,     DAMN,        <Channel name: kaicenat>,       2024-11-07 14:52:27.426280 
+
+ ovoyann9,     DUKEEE,        <Channel name: kaicenat>,       2024-11-07 14:52:30.186800 
+
+ ovoyann9,     WWW TRAV,        <Channel name: kaicenat>,       2024-11-07 14:52:52.877329 
+
+ ovoyann9,     DAMN,        <Channel name: kaicenat>,       2024-11-07 14:52:56.335907 

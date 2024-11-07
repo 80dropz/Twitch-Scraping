@@ -112,3 +112,21 @@
  jay_boozy,     uncooked potato’s,        <Channel name: swagg>,       2024-11-07 13:01:54.053762 
 
  jay_boozy,     uncooked potatoes talking about some “lemme put yall on”,        <Channel name: swagg>,       2024-11-07 13:03:39.772267 
+jay_boozy,     swegJam swegJam swegJam swegJam swegJam swegJam,        <Channel name: swagg>,       2024-11-07 16:49:03.981414 
+jay_boozy,     swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup swegTurnmeup,        <Channel name: swagg>,       2024-11-07 16:53:33.992096 
+jay_boozy,     wwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:53:58.846558 
+jay_boozy,     LETS GOOOOOOOO,        <Channel name: swagg>,       2024-11-07 16:54:02.643667 
+jay_boozy,     swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes swegFaZeNukes,        <Channel name: swagg>,       2024-11-07 16:54:47.363543 
+jay_boozy,     wwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:01.059801 
+jay_boozy,     wwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:25.930378 
+jay_boozy,     wwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:36.512760 
+jay_boozy,     wwwww,        <Channel name: swagg>,       2024-11-07 16:55:38.066917 
+jay_boozy,     wwwwwwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:44.934143 
+jay_boozy,     wwwwwwwwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:53.495978 
+jay_boozy,     wwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:55:56.308466 
+jay_boozy,     www,        <Channel name: swagg>,       2024-11-07 16:55:57.646752 
+jay_boozy,     wwwwwwwwwwwwwwwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:56:02.223445 
+jay_boozy,     wwwww,        <Channel name: swagg>,       2024-11-07 16:56:03.508231 
+jay_boozy,     wwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:56:06.034474 
+jay_boozy,     wwwwwwwwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:56:09.068469 
+jay_boozy,     wwwwwwwww,        <Channel name: swagg>,       2024-11-07 16:56:10.898072 

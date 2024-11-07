@@ -2,3 +2,5 @@
  44st0rm,     This is a W dad,        <Channel name: clix>,       2024-11-07 11:25:42.738985 
 
  44st0rm,     HAH,        <Channel name: lacy>,       2024-11-07 13:32:31.060563 
+44st0rm,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:50:45.583128 
+44st0rm,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:24.236773 

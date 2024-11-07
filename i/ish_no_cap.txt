@@ -14,3 +14,6 @@
  ish_no_cap,     it’s fine is crazy,        <Channel name: kaicenat>,       2024-11-07 13:19:35.436834 
 
  ish_no_cap,     don’t do that shit it’s gonna not sit well with chat @rajau,        <Channel name: kaicenat>,       2024-11-07 13:21:28.478607 
+ish_no_cap,     holy I need sub,        <Channel name: kaicenat>,       2024-11-07 15:34:30.933730 
+ish_no_cap,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:34.785609 
+ish_no_cap,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:42:59.456019 

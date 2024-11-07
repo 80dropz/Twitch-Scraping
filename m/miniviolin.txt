@@ -34,3 +34,7 @@
  miniviolin,     KEKW,        <Channel name: nadeshot>,       2024-11-07 13:27:52.236834 
 
  miniviolin,     LUL,        <Channel name: nadeshot>,       2024-11-07 13:36:45.155377 
+
+ miniviolin,     Charizard about to go crazy,        <Channel name: nadeshot>,       2024-11-07 15:26:22.492126 
+miniviolin,     @Gdubbzy this is 1st game,        <Channel name: nadeshot>,       2024-11-07 15:33:13.434695 
+miniviolin,     blows up on impact,        <Channel name: nadeshot>,       2024-11-07 16:03:11.944081 

@@ -24,3 +24,5 @@
  therealahmedtn,     LMAOOOOOOOOO,        <Channel name: nadeshot>,       2024-11-07 12:15:04.032520 
 
  therealahmedtn,     STAAY unc,        <Channel name: nadeshot>,       2024-11-07 12:15:40.835043 
+therealahmedtn,     !tts,        <Channel name: nadeshot>,       2024-11-07 16:43:15.203992 
+therealahmedtn,     !TTS,        <Channel name: nadeshot>,       2024-11-07 16:43:25.325950 

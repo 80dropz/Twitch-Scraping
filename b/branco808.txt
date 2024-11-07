@@ -1,0 +1,2 @@
+branco808,     1,        <Channel name: swagg>,       2024-11-07 16:15:43.442933 
+branco808,     USA only?,        <Channel name: swagg>,       2024-11-07 16:15:56.978892 

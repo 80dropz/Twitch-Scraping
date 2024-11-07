@@ -210,3 +210,6 @@
  xlegend_streams,     HOT CHIP,        <Channel name: swagg>,       2024-11-07 13:03:28.360613 
 
  xlegend_streams,     PROP HUNT BABY!!!!!!!,        <Channel name: swagg>,       2024-11-07 13:06:59.159967 
+xlegend_streams,     xlegen15Am xlegen15Am xlegen15Am,        <Channel name: swagg>,       2024-11-07 16:14:37.093969 
+xlegend_streams,     1,        <Channel name: swagg>,       2024-11-07 16:15:37.682004 
+xlegend_streams,     cartie3Modcheck cartie3Modcheck cartie3Modcheck cartie3Modcheck,        <Channel name: swagg>,       2024-11-07 16:16:10.246950 

@@ -1,0 +1,2 @@
+flashed07,     !bracket,        <Channel name: nadeshot>,       2024-11-07 15:30:57.540590 
+flashed07,     where is the bracket?,        <Channel name: nadeshot>,       2024-11-07 15:32:22.463598 

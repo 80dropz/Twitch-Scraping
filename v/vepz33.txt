@@ -1,0 +1,5 @@
+vepz33,     y,        <Channel name: clix>,       2024-11-07 16:06:43.644945 
+vepz33,     clixLovee clixLovee,        <Channel name: clix>,       2024-11-07 16:08:19.375323 
+vepz33,     clixEye clixLovee clixLovee,        <Channel name: clix>,       2024-11-07 16:08:24.965476 
+vepz33,     clixEye,        <Channel name: clix>,       2024-11-07 16:08:33.562323 
+vepz33,     clixEye clixEye,        <Channel name: clix>,       2024-11-07 16:08:35.614371 

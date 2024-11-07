@@ -1,0 +1,10 @@
+
+ ryan_gaye,     LL,        <Channel name: lacy>,       2024-11-07 15:27:23.911233 
+ryan_gaye,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:54:57.041526 
+ryan_gaye,     WWWWWWW,        <Channel name: stableronaldo>,       2024-11-07 15:54:58.103504 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:09:00.382529 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:10:01.942413 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:13:50.275032 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:14:53.161749 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:16:11.542178 
+ryan_gaye,     https://www.twitch.tv/lacy/clip/ExuberantExpensiveMangetoutMikeHogu-RStM6tUmRv0jITTP,        <Channel name: stableronaldo>,       2024-11-07 16:17:35.535029 

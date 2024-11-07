@@ -12,3 +12,5 @@
  supacoopy,     YES,        <Channel name: nadeshot>,       2024-11-07 12:36:00.885360 
 
  supacoopy,     A real goon would take it off no questions asked,        <Channel name: nadeshot>,       2024-11-07 12:38:11.027862 
+supacoopy,     How old is the house?,        <Channel name: nadeshot>,       2024-11-07 16:28:20.059483 
+supacoopy,     Stop letting zin try and run shit,        <Channel name: nadeshot>,       2024-11-07 16:37:20.744617 

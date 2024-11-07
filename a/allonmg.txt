@@ -2,3 +2,13 @@
  allonmg,     !watchtime,        <Channel name: plaqueboymax>,       2024-11-07 01:43:19.948906 
 
  allonmg,     !followage,        <Channel name: plaqueboymax>,       2024-11-07 01:43:44.627932 
+allonmg,     go to a doctor,        <Channel name: stableronaldo>,       2024-11-07 15:59:58.112512 
+allonmg,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:12.349740 
+allonmg,     yeah,        <Channel name: stableronaldo>,       2024-11-07 16:00:31.876835 
+allonmg,     u were weird yesterday,        <Channel name: stableronaldo>,       2024-11-07 16:00:36.760700 
+allonmg,     GO TO THE HOSPITAL,        <Channel name: stableronaldo>,       2024-11-07 16:00:47.339921 
+allonmg,     oh no,        <Channel name: stableronaldo>,       2024-11-07 16:01:06.197002 
+allonmg,     GO TO THE HOSPTIAL,        <Channel name: stableronaldo>,       2024-11-07 16:01:41.698803 
+allonmg,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:11.074142 
+allonmg,     yesss bro,        <Channel name: stableronaldo>,       2024-11-07 16:02:13.768607 
+allonmg,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:02.162317 

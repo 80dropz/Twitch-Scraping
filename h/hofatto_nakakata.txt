@@ -8,3 +8,5 @@
  hofatto_nakakata,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:21:16.740210 
 
  hofatto_nakakata,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:21:29.151858 
+
+ hofatto_nakakata,     brainrot dawg,        <Channel name: kaicenat>,       2024-11-07 14:48:12.536235 

@@ -1,0 +1,4 @@
+pablooptwitch,     monday 2 sunday,        <Channel name: kaicenat>,       2024-11-07 16:02:11.174070 
+pablooptwitch,     !song,        <Channel name: kaicenat>,       2024-11-07 16:07:11.759037 
+pablooptwitch,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:08:18.064136 
+pablooptwitch,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:54:07.185750 

@@ -1,0 +1,3 @@
+peppegg_,     W,        <Channel name: mongraal>,       2024-11-07 15:44:08.254774 
+peppegg_,     WWWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 15:44:13.341580 
+peppegg_,     w,        <Channel name: mongraal>,       2024-11-07 15:44:14.894587 

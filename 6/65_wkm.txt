@@ -1,0 +1,11 @@
+65_wkm,     whats the shoe name,        <Channel name: kaicenat>,       2024-11-07 16:29:27.470667 
+65_wkm,     what are your shoes named,        <Channel name: kaicenat>,       2024-11-07 16:29:37.258632 
+65_wkm,     whats the name of your ahow,        <Channel name: kaicenat>,       2024-11-07 16:30:02.446775 
+65_wkm,     names of your shoes,        <Channel name: kaicenat>,       2024-11-07 16:30:18.464403 
+65_wkm,     6-7,        <Channel name: kaicenat>,       2024-11-07 16:30:46.718951 
+65_wkm,     name of your shoes,        <Channel name: kaicenat>,       2024-11-07 16:31:05.285865 
+65_wkm,     what was the name of the shoes you was wearing,        <Channel name: kaicenat>,       2024-11-07 16:31:17.932986 
+65_wkm,     gg,        <Channel name: kaicenat>,       2024-11-07 16:32:32.116396 
+65_wkm,     pop smoke,        <Channel name: kaicenat>,       2024-11-07 16:35:43.502510 
+65_wkm,     pop amoke,        <Channel name: kaicenat>,       2024-11-07 16:35:46.343270 
+65_wkm,     pop smoke,        <Channel name: kaicenat>,       2024-11-07 16:35:49.408114 

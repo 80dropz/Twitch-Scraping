@@ -32,3 +32,6 @@
  dannedo_,     kaicHeart kaicHeart kaicHeart kaicHeart kaicHeart kaicHeart kaicHeart,        <Channel name: kaicenat>,       2024-11-07 12:23:55.490084 
 
  dannedo_,     kaicHeart kaicHeart kaicHeart kaicHeart kaicHeart,        <Channel name: kaicenat>,       2024-11-07 12:23:58.855482 
+
+ dannedo_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 14:54:02.102947 
+dannedo_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:55:41.574366 

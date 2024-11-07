@@ -1,0 +1,6 @@
+radzhabof,     W,        <Channel name: kaicenat>,       2024-11-07 16:14:57.531583 
+radzhabof,     W W W W,        <Channel name: kaicenat>,       2024-11-07 16:14:59.080581 
+radzhabof,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:15:00.473891 
+radzhabof,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:15:01.571588 
+radzhabof,     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:15:03.654819 
+radzhabof,     W,        <Channel name: kaicenat>,       2024-11-07 16:15:05.295018 

@@ -1,0 +1,7 @@
+d1aanzz,     GYAT,        <Channel name: lacy>,       2024-11-07 15:48:39.766977 
+d1aanzz,     GYATTT,        <Channel name: lacy>,       2024-11-07 15:56:54.776320 
+d1aanzz,     gyatt,        <Channel name: lacy>,       2024-11-07 15:59:09.239818 
+d1aanzz,     GYATT,        <Channel name: lacy>,       2024-11-07 16:00:44.419944 
+d1aanzz,     ta,        <Channel name: lacy>,       2024-11-07 16:03:56.229329 
+d1aanzz,     ta ta ta ta ta ta ta,        <Channel name: lacy>,       2024-11-07 16:14:46.498764 
+d1aanzz,     ta,        <Channel name: lacy>,       2024-11-07 16:15:31.658563 

@@ -2,3 +2,8 @@
  dbec_,     W,        <Channel name: nadeshot>,       2024-11-07 11:52:09.483046 
 
  dbec_,     Gooned too hard,        <Channel name: nadeshot>,       2024-11-07 11:53:22.823340 
+
+ dbec_,     LMAO,        <Channel name: nadeshot>,       2024-11-07 15:25:46.658086 
+dbec_,     All good,        <Channel name: nadeshot>,       2024-11-07 15:29:01.326874 
+dbec_,     Is that a Draz ace?,        <Channel name: nadeshot>,       2024-11-07 15:44:24.850528 
+dbec_,     W Route,        <Channel name: nadeshot>,       2024-11-07 16:01:55.389209 

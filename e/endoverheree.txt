@@ -172,3 +172,10 @@
  endoverheree,     do q cup,        <Channel name: kaicenat>,       2024-11-07 13:22:26.088555 
 
  endoverheree,     h guys took 20 hears,        <Channel name: kaicenat>,       2024-11-07 13:27:58.395178 
+
+ endoverheree,     this team is shit besides u,        <Channel name: adapt>,       2024-11-07 15:27:35.739272 
+endoverheree,     yup ggs,        <Channel name: adapt>,       2024-11-07 15:28:58.643622 
+endoverheree,     already lost the tournament,        <Channel name: adapt>,       2024-11-07 15:29:10.109873 
+endoverheree,     ggs,        <Channel name: adapt>,       2024-11-07 15:30:04.427710 
+endoverheree,     bye,        <Channel name: adapt>,       2024-11-07 15:30:17.468816 
+endoverheree,     Raikai,        <Channel name: kaicenat>,       2024-11-07 16:15:55.984809 

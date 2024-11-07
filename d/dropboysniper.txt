@@ -1,2 +1,4 @@
 
  dropboysniper,     W,        <Channel name: mongraal>,       2024-11-07 12:30:17.078279 
+dropboysniper,     fr,        <Channel name: mongraal>,       2024-11-07 15:30:27.840711 
+dropboysniper,     w edit,        <Channel name: mongraal>,       2024-11-07 15:32:49.587657 

@@ -1,0 +1,2 @@
+nuclear_naod,     l,        <Channel name: kaicenat>,       2024-11-07 16:20:21.654067 
+nuclear_naod,     ll,        <Channel name: kaicenat>,       2024-11-07 16:20:31.401628 

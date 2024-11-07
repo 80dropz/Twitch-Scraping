@@ -1,0 +1,3 @@
+dropmetv,     Z,        <Channel name: kaicenat>,       2024-11-07 15:55:04.420466 
+dropmetv,     ZOV,        <Channel name: kaicenat>,       2024-11-07 15:55:33.665247 
+dropmetv,     GOIDA,        <Channel name: kaicenat>,       2024-11-07 15:55:41.949409 

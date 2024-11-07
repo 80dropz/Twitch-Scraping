@@ -1,0 +1,2 @@
+iws64,     !gamble 752,        <Channel name: kaicenat>,       2024-11-07 15:42:14.638171 
+iws64,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:42:39.273514 

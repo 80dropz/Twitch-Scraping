@@ -52,3 +52,30 @@
  notkp22,     DO IT NOW,        <Channel name: kaicenat>,       2024-11-07 13:34:23.785783 
 
  notkp22,     DO IT,        <Channel name: kaicenat>,       2024-11-07 13:34:30.351979 
+notkp22,     YOUUUU,        <Channel name: kaicenat>,       2024-11-07 16:43:59.130822 
+notkp22,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:44:01.688072 
+notkp22,     WW,        <Channel name: kaicenat>,       2024-11-07 16:44:03.279628 
+notkp22,     NO ONEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:44:24.286973 
+notkp22,     ONEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:44:35.759058 
+notkp22,     FELLINGGGGG,        <Channel name: kaicenat>,       2024-11-07 16:44:39.135751 
+notkp22,     ohhh oh oh oh ohhhhhh,        <Channel name: kaicenat>,       2024-11-07 16:44:51.231092 
+notkp22,     ohhhh oh oh oh ohhhhhhhhh,        <Channel name: kaicenat>,       2024-11-07 16:45:01.245652 
+notkp22,     it is,        <Channel name: kaicenat>,       2024-11-07 16:45:07.668097 
+notkp22,     wth,        <Channel name: kaicenat>,       2024-11-07 16:49:37.312059 
+notkp22,     uhh ok,        <Channel name: kaicenat>,       2024-11-07 16:49:41.341548 
+notkp22,     …..,        <Channel name: kaicenat>,       2024-11-07 16:49:42.677756 
+notkp22,     …,        <Channel name: kaicenat>,       2024-11-07 16:49:45.117097 
+notkp22,     Www,        <Channel name: kaicenat>,       2024-11-07 16:53:31.096891 
+notkp22,     WW,        <Channel name: kaicenat>,       2024-11-07 16:53:33.561493 
+notkp22,     W,        <Channel name: kaicenat>,       2024-11-07 16:53:36.341514 
+notkp22,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:54:04.309852 
+notkp22,     WW,        <Channel name: kaicenat>,       2024-11-07 16:54:13.003889 
+notkp22,     YUHHHHHHH,        <Channel name: kaicenat>,       2024-11-07 16:54:15.996416 
+notkp22,     W,        <Channel name: kaicenat>,       2024-11-07 16:54:25.378438 
+notkp22,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:28.436778 
+notkp22,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:31.527483 
+notkp22,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:34.326108 
+notkp22,     MOSHINNN,        <Channel name: kaicenat>,       2024-11-07 16:54:36.138505 
+notkp22,     MOSHIN,        <Channel name: kaicenat>,       2024-11-07 16:54:38.169777 
+notkp22,     NAAA,        <Channel name: kaicenat>,       2024-11-07 16:54:55.267823 
+notkp22,     sit ur ass down,        <Channel name: kaicenat>,       2024-11-07 16:55:17.132012 

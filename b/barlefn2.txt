@@ -1,0 +1,2 @@
+barlefn2,     !watchtime,        <Channel name: clix>,       2024-11-07 15:43:32.440596 
+barlefn2,     !followage,        <Channel name: clix>,       2024-11-07 15:43:55.504470 

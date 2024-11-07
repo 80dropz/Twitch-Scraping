@@ -1,0 +1,2 @@
+gavoac,     !mc,        <Channel name: formal>,       2024-11-07 16:22:20.479099 
+gavoac,     !mc,        <Channel name: formal>,       2024-11-07 16:53:02.038004 

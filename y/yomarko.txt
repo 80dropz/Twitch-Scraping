@@ -1,0 +1,2 @@
+yomarko,     YO,        <Channel name: adapt>,       2024-11-07 15:51:44.759107 
+yomarko,     yo,        <Channel name: adapt>,       2024-11-07 15:51:53.092309 

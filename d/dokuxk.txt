@@ -1,0 +1,7 @@
+dokuxk,     !sens,        <Channel name: mongraal>,       2024-11-07 16:44:31.538901 
+dokuxk,     !sensitivity,        <Channel name: mongraal>,       2024-11-07 16:44:39.398789 
+dokuxk,     !sens,        <Channel name: mongraal>,       2024-11-07 16:44:56.562062 
+dokuxk,     HAHAHAHA,        <Channel name: mongraal>,       2024-11-07 16:53:46.796449 
+dokuxk,     HAHAHAHAAHA,        <Channel name: mongraal>,       2024-11-07 16:54:26.293176 
+dokuxk,     HAHAHAHAHAHAH,        <Channel name: mongraal>,       2024-11-07 16:54:30.124506 
+dokuxk,     LMAOOO,        <Channel name: mongraal>,       2024-11-07 16:54:32.664492 

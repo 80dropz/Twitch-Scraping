@@ -1,0 +1,2 @@
+gt5s,     10,        <Channel name: kaicenat>,       2024-11-07 16:30:37.776983 
+gt5s,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:46.919729 

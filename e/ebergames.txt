@@ -8,3 +8,5 @@
  ebergames,     SCAM ICANT,        <Channel name: kaicenat>,       2024-11-07 13:03:05.669459 
 
  ebergames,     wW SCAM,        <Channel name: kaicenat>,       2024-11-07 13:03:19.908531 
+
+ ebergames,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:27:40.595397 

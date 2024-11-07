@@ -1,0 +1,11 @@
+insre_,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:54:56.219593 
+insre_,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:07.609728 
+insre_,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:09:00.432153 
+insre_,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:09:08.505189 
+insre_,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:01.189022 
+insre_,     SHE SAW THE NBA FINALS VIDEO,        <Channel name: stableronaldo>,       2024-11-07 16:19:37.875024 
+insre_,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:45.254691 
+insre_,     HAH LITTLE GUY,        <Channel name: stableronaldo>,       2024-11-07 16:21:14.689175 
+insre_,     BOBA HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:55.656313 
+insre_,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:05.382497 
+insre_,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:24.970670 

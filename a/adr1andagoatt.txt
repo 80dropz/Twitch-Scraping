@@ -1,0 +1,13 @@
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:43.704565 
+adr1andagoatt,     999999,        <Channel name: kaicenat>,       2024-11-07 15:29:44.983890 
+adr1andagoatt,     999999999,        <Channel name: kaicenat>,       2024-11-07 15:29:46.276440 
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:47.535359 
+adr1andagoatt,     d,        <Channel name: kaicenat>,       2024-11-07 15:29:58.727724 
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:00.227344 
+adr1andagoatt,     f,        <Channel name: kaicenat>,       2024-11-07 15:30:04.991352 
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:06.437356 
+adr1andagoatt,     x,        <Channel name: kaicenat>,       2024-11-07 15:30:09.888611 
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:11.045368 
+adr1andagoatt,     x,        <Channel name: kaicenat>,       2024-11-07 15:30:12.289851 
+adr1andagoatt,     n,        <Channel name: kaicenat>,       2024-11-07 15:30:17.083342 
+adr1andagoatt,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:43.030902 

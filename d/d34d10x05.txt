@@ -1,0 +1,7 @@
+d34d10x05,     more water,        <Channel name: kaicenat>,       2024-11-07 16:33:04.294153 
+d34d10x05,     more water slowly,        <Channel name: kaicenat>,       2024-11-07 16:33:11.544260 
+d34d10x05,     more more,        <Channel name: kaicenat>,       2024-11-07 16:33:35.868071 
+d34d10x05,     more,        <Channel name: kaicenat>,       2024-11-07 16:33:41.717946 
+d34d10x05,     keep pouring,        <Channel name: kaicenat>,       2024-11-07 16:33:52.690169 
+d34d10x05,     no,        <Channel name: kaicenat>,       2024-11-07 16:35:04.242060 
+d34d10x05,     all,        <Channel name: kaicenat>,       2024-11-07 16:35:22.561213 

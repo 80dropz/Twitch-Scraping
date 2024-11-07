@@ -1,0 +1,19 @@
+nvr2bright,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:28.931793 
+nvr2bright,     no it will over heat,        <Channel name: kaicenat>,       2024-11-07 16:26:38.316411 
+nvr2bright,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.269617 
+nvr2bright,     wait til its hot then pour 3 spoon full,        <Channel name: kaicenat>,       2024-11-07 16:28:46.541550 
+nvr2bright,     might wait to take out ALL electronics,        <Channel name: kaicenat>,       2024-11-07 16:29:22.573796 
+nvr2bright,     its low but fine,        <Channel name: kaicenat>,       2024-11-07 16:30:06.046528 
+nvr2bright,     bo,        <Channel name: kaicenat>,       2024-11-07 16:30:17.369083 
+nvr2bright,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:18.730788 
+nvr2bright,     110,        <Channel name: kaicenat>,       2024-11-07 16:30:33.984789 
+nvr2bright,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:54.151779 
+nvr2bright,     yes,        <Channel name: kaicenat>,       2024-11-07 16:31:07.054027 
+nvr2bright,     wait,        <Channel name: kaicenat>,       2024-11-07 16:31:38.549812 
+nvr2bright,     2 scoops,        <Channel name: kaicenat>,       2024-11-07 16:32:05.793410 
+nvr2bright,     its not ready,        <Channel name: kaicenat>,       2024-11-07 16:32:30.470083 
+nvr2bright,     its not hot enough if its not steaming,        <Channel name: kaicenat>,       2024-11-07 16:32:49.769018 
+nvr2bright,     nigga just wait,        <Channel name: kaicenat>,       2024-11-07 16:33:37.316574 
+nvr2bright,     gg to the electronics,        <Channel name: kaicenat>,       2024-11-07 16:33:58.678763 
+nvr2bright,     rip phone,        <Channel name: kaicenat>,       2024-11-07 16:34:16.986781 
+nvr2bright,     this nigga,        <Channel name: kaicenat>,       2024-11-07 16:34:27.096560 

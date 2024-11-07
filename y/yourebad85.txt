@@ -1,0 +1,3 @@
+yourebad85,     !duo,        <Channel name: clix>,       2024-11-07 16:11:42.575752 
+yourebad85,     !trio,        <Channel name: clix>,       2024-11-07 16:11:58.525555 
+yourebad85,     !duo,        <Channel name: clix>,       2024-11-07 16:12:15.315749 

@@ -1,0 +1,5 @@
+craigmcg0,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:45.572707 
+craigmcg0,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 15:44:02.107719 
+craigmcg0,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 15:44:12.942294 
+craigmcg0,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:37.664899 
+craigmcg0,     h,        <Channel name: kaicenat>,       2024-11-07 15:46:11.224689 

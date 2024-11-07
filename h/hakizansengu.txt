@@ -8,3 +8,30 @@
  hakizansengu,     250 more LET'S GO,        <Channel name: kaicenat>,       2024-11-07 12:08:47.473583 
 
  hakizansengu,     150....,        <Channel name: kaicenat>,       2024-11-07 12:24:42.582799 
+hakizansengu,     Yesss,        <Channel name: kaicenat>,       2024-11-07 16:29:50.514852 
+hakizansengu,     Noo,        <Channel name: kaicenat>,       2024-11-07 16:30:07.496432 
+hakizansengu,     Medium,        <Channel name: kaicenat>,       2024-11-07 16:30:24.434176 
+hakizansengu,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:35.319770 
+hakizansengu,     77,        <Channel name: kaicenat>,       2024-11-07 16:31:08.352723 
+hakizansengu,     Few minutes,        <Channel name: kaicenat>,       2024-11-07 16:31:23.316315 
+hakizansengu,     Put water,        <Channel name: kaicenat>,       2024-11-07 16:31:28.211133 
+hakizansengu,     One,        <Channel name: kaicenat>,       2024-11-07 16:31:55.556251 
+hakizansengu,     No don't,        <Channel name: kaicenat>,       2024-11-07 16:32:24.107125 
+hakizansengu,     That's okay,        <Channel name: kaicenat>,       2024-11-07 16:32:28.379883 
+hakizansengu,     Stop,        <Channel name: kaicenat>,       2024-11-07 16:32:39.305351 
+hakizansengu,     Yess,        <Channel name: kaicenat>,       2024-11-07 16:32:42.509438 
+hakizansengu,     Stop,        <Channel name: kaicenat>,       2024-11-07 16:32:46.436020 
+hakizansengu,     Nooooooooooo,        <Channel name: kaicenat>,       2024-11-07 16:33:01.650237 
+hakizansengu,     Noooooo,        <Channel name: kaicenat>,       2024-11-07 16:33:05.427975 
+hakizansengu,     Just seat,        <Channel name: kaicenat>,       2024-11-07 16:33:12.761237 
+hakizansengu,     Seat,        <Channel name: kaicenat>,       2024-11-07 16:33:16.228200 
+hakizansengu,     Sit and wait,        <Channel name: kaicenat>,       2024-11-07 16:33:22.698178 
+hakizansengu,     Put music,        <Channel name: kaicenat>,       2024-11-07 16:33:28.112203 
+hakizansengu,     Noooo,        <Channel name: kaicenat>,       2024-11-07 16:34:34.125951 
+hakizansengu,     Nooo,        <Channel name: kaicenat>,       2024-11-07 16:34:37.588093 
+hakizansengu,     Noooo,        <Channel name: kaicenat>,       2024-11-07 16:34:41.609924 
+hakizansengu,     That's enough,        <Channel name: kaicenat>,       2024-11-07 16:34:46.016814 
+hakizansengu,     Stop,        <Channel name: kaicenat>,       2024-11-07 16:34:50.950460 
+hakizansengu,     Waaaaaaaaaaait,        <Channel name: kaicenat>,       2024-11-07 16:35:14.374545 
+hakizansengu,     Just sit and wait,        <Channel name: kaicenat>,       2024-11-07 16:35:27.481949 
+hakizansengu,     Noooo,        <Channel name: kaicenat>,       2024-11-07 16:37:43.528130 

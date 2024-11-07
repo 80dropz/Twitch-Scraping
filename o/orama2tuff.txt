@@ -16,3 +16,5 @@
  orama2tuff,     poll,        <Channel name: kaicenat>,       2024-11-07 01:48:02.240331 
 
  orama2tuff,     GGGGG,        <Channel name: kaicenat>,       2024-11-07 01:50:00.583648 
+orama2tuff,     !gamble 2000,        <Channel name: kaicenat>,       2024-11-07 15:44:21.661773 
+orama2tuff,     MORE WATERRR,        <Channel name: kaicenat>,       2024-11-07 16:45:55.363878 

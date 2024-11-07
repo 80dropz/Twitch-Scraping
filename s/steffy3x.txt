@@ -16,3 +16,20 @@
  steffy3x,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 13:13:15.498152 
 
  steffy3x,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 13:13:52.771514 
+steffy3x,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:37:39.669245 
+steffy3x,     !roulette 10!,        <Channel name: kaicenat>,       2024-11-07 15:38:00.480296 
+steffy3x,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:38:12.416022 
+steffy3x,     !roulette 19,        <Channel name: kaicenat>,       2024-11-07 15:40:53.858155 
+steffy3x,     !roulette10,        <Channel name: kaicenat>,       2024-11-07 15:41:10.210385 
+steffy3x,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:41:22.987559 
+steffy3x,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:41:33.002024 
+steffy3x,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:41:49.208626 
+steffy3x,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:42:49.607044 
+steffy3x,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 15:42:58.836378 
+steffy3x,     !roulette 9,        <Channel name: kaicenat>,       2024-11-07 15:43:06.670382 
+steffy3x,     !gamble,        <Channel name: kaicenat>,       2024-11-07 15:43:15.615826 
+steffy3x,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 15:43:26.746609 
+steffy3x,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:48:21.678475 
+steffy3x,     kaicSturdyy kaicSturdyy kaicSturdyy kaicDubs kaicDubs,        <Channel name: kaicenat>,       2024-11-07 15:48:26.014983 
+steffy3x,     !points,        <Channel name: kaicenat>,       2024-11-07 15:49:44.498827 
+steffy3x,     !points,        <Channel name: kaicenat>,       2024-11-07 15:50:30.221306 

@@ -2,3 +2,5 @@
  j9_05,     ruined his shirt,        <Channel name: lacy>,       2024-11-07 12:28:51.804670 
 
  j9_05,     weight limit,        <Channel name: lacy>,       2024-11-07 12:30:01.682827 
+j9_05,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:48.050112 
+j9_05,     wtf,        <Channel name: lacy>,       2024-11-07 16:26:06.872558 

@@ -1,0 +1,2 @@
+szlks_plays,     !dpi,        <Channel name: clix>,       2024-11-07 16:01:35.254925 
+szlks_plays,     !building sense,        <Channel name: clix>,       2024-11-07 16:02:48.867927 

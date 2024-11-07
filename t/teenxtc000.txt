@@ -1,0 +1,2 @@
+teenxtc000,     CARTI CARTI,        <Channel name: kaicenat>,       2024-11-07 16:15:16.735624 
+teenxtc000,     shower,        <Channel name: kaicenat>,       2024-11-07 16:17:16.262958 

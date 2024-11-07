@@ -46,3 +46,259 @@
  wize89l,     MISSION FILLED,        <Channel name: kaicenat>,       2024-11-07 13:24:50.039794 
 
  wize89l,     WW 230K,        <Channel name: kaicenat>,       2024-11-07 13:30:00.264726 
+
+ wize89l,     WW LEBRON,        <Channel name: kaicenat>,       2024-11-07 15:23:55.434590 
+
+ wize89l,     ASTROWORLD TODAY,        <Channel name: kaicenat>,       2024-11-07 15:24:16.729187 
+
+ wize89l,     YUP,        <Channel name: kaicenat>,       2024-11-07 15:25:03.961815 
+
+ wize89l,     GOOD,        <Channel name: kaicenat>,       2024-11-07 15:25:04.070303 
+
+ wize89l,     WE GOOD,        <Channel name: kaicenat>,       2024-11-07 15:25:04.125246 
+
+ wize89l,     LET'S GO,        <Channel name: kaicenat>,       2024-11-07 15:25:20.311624 
+
+ wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:25:43.281969 
+
+ wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:26:16.598095 
+
+ wize89l,     LET'S GO KAI GO KAI,        <Channel name: kaicenat>,       2024-11-07 15:26:46.436239 
+
+ wize89l,     BET,        <Channel name: kaicenat>,       2024-11-07 15:27:41.771180 
+wize89l,     WW JAMES,        <Channel name: kaicenat>,       2024-11-07 15:28:33.490856 
+wize89l,     EZ,        <Channel name: kaicenat>,       2024-11-07 15:28:35.367466 
+wize89l,     PLUTOO,        <Channel name: kaicenat>,       2024-11-07 15:28:53.619451 
+wize89l,     WW 999,        <Channel name: kaicenat>,       2024-11-07 15:29:10.267662 
+wize89l,     JUICE 999,        <Channel name: kaicenat>,       2024-11-07 15:29:15.714706 
+wize89l,     RIP 99,        <Channel name: kaicenat>,       2024-11-07 15:29:25.022284 
+wize89l,     WW 999,        <Channel name: kaicenat>,       2024-11-07 15:29:38.032350 
+wize89l,     999.,        <Channel name: kaicenat>,       2024-11-07 15:29:43.875797 
+wize89l,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:01.128311 
+wize89l,     RIP999,        <Channel name: kaicenat>,       2024-11-07 15:30:11.775474 
+wize89l,     WW 999,        <Channel name: kaicenat>,       2024-11-07 15:30:38.051962 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:30:42.665396 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 15:31:00.584465 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 15:31:48.829656 
+wize89l,     EZ,        <Channel name: kaicenat>,       2024-11-07 15:31:57.551739 
+wize89l,     UZIII,        <Channel name: kaicenat>,       2024-11-07 15:32:23.019033 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 15:32:32.184875 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 15:32:44.488006 
+wize89l,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:32:51.375704 
+wize89l,     EZ,        <Channel name: kaicenat>,       2024-11-07 15:34:15.221432 
+wize89l,     EZZ,        <Channel name: kaicenat>,       2024-11-07 15:35:00.527867 
+wize89l,     EZ,        <Channel name: kaicenat>,       2024-11-07 15:35:03.524965 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:35:07.913046 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 15:35:26.948052 
+wize89l,     MISS UZI,        <Channel name: kaicenat>,       2024-11-07 15:35:40.746819 
+wize89l,     WW WW WW W,        <Channel name: kaicenat>,       2024-11-07 15:36:03.540780 
+wize89l,     WW WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:36:08.777122 
+wize89l,     TwitchLit CurseLit TwitchLit CurseLit TwitchLit,        <Channel name: kaicenat>,       2024-11-07 15:36:13.430961 
+wize89l,     CurseLit CurseLit TwitchLit TwitchLit,        <Channel name: kaicenat>,       2024-11-07 15:36:18.690824 
+wize89l,     CurseLit TwitchLit,        <Channel name: kaicenat>,       2024-11-07 15:36:25.434193 
+wize89l,     TwitchLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 15:36:29.181837 
+wize89l,     WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:36:38.209131 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:36:46.914193 
+wize89l,     WW WE,        <Channel name: kaicenat>,       2024-11-07 15:37:02.467261 
+wize89l,     EZ,        <Channel name: kaicenat>,       2024-11-07 15:37:06.515034 
+wize89l,     GO KC GO KC GO KC GO KC GO KC GO KC GO KC,        <Channel name: kaicenat>,       2024-11-07 15:37:30.095321 
+wize89l,     Ez,        <Channel name: kaicenat>,       2024-11-07 15:40:01.784177 
+wize89l,     GO KC GO KC GO KC GO KC GO KC GO,        <Channel name: kaicenat>,       2024-11-07 15:41:43.479130 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:42:13.010523 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:42:39.412356 
+wize89l,     LOCK IN,        <Channel name: kaicenat>,       2024-11-07 15:43:52.604349 
+wize89l,     WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:43:57.391760 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:44:08.194792 
+wize89l,     WW W W W W. W W W,        <Channel name: kaicenat>,       2024-11-07 15:44:12.701929 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:44:17.932494 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:44:25.132083 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 15:44:27.993258 
+wize89l,     WW WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:44:47.037420 
+wize89l,     FIN FIN FIN,        <Channel name: kaicenat>,       2024-11-07 15:45:07.617466 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:46:45.409579 
+wize89l,     FWEAH,        <Channel name: kaicenat>,       2024-11-07 15:47:21.142957 
+wize89l,     WW WWW,        <Channel name: kaicenat>,       2024-11-07 15:47:59.503086 
+wize89l,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:48:03.704674 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:48:06.387926 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 15:48:09.244967 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:48:12.554935 
+wize89l,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:48:16.723307 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:48:21.531161 
+wize89l,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:48:25.888082 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:48:29.210953 
+wize89l,     W22WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:48:33.391927 
+wize89l,     WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:48:38.344846 
+wize89l,     CHROME HEART TAGS BY UZIII,        <Channel name: kaicenat>,       2024-11-07 15:48:54.251414 
+wize89l,     CHROME HEART TAGS BY UZIII NEXT,        <Channel name: kaicenat>,       2024-11-07 15:49:35.337188 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 15:50:11.962173 
+wize89l,     WW WWW WW,        <Channel name: kaicenat>,       2024-11-07 15:50:37.451833 
+wize89l,     WWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:50:41.510188 
+wize89l,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:50:45.408456 
+wize89l,     WWWWW WWWWW,        <Channel name: kaicenat>,       2024-11-07 15:50:49.622119 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:50:51.985872 
+wize89l,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:50:55.439949 
+wize89l,     WWWW HASLY,        <Channel name: kaicenat>,       2024-11-07 15:51:11.342175 
+wize89l,     WWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:51:34.289075 
+wize89l,     WWCWW EE,        <Channel name: kaicenat>,       2024-11-07 15:51:38.041032 
+wize89l,     WW KC KC WW,        <Channel name: kaicenat>,       2024-11-07 15:51:43.893246 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 15:51:53.093311 
+wize89l,     TELEKINESIS,        <Channel name: kaicenat>,       2024-11-07 15:52:07.582524 
+wize89l,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:52:11.979347 
+wize89l,     COCO,        <Channel name: kaicenat>,       2024-11-07 15:52:26.517179 
+wize89l,     WW WWW,        <Channel name: kaicenat>,       2024-11-07 15:52:30.100109 
+wize89l,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:52:34.598091 
+wize89l,     WWWW WWW WWW WWW,        <Channel name: kaicenat>,       2024-11-07 15:52:40.000070 
+wize89l,     I CAN SEE THE FUTURE,        <Channel name: kaicenat>,       2024-11-07 15:53:18.690124 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:53:23.180019 
+wize89l,     WW SONG,        <Channel name: kaicenat>,       2024-11-07 15:53:27.097517 
+wize89l,     TOPIA TWINS,        <Channel name: kaicenat>,       2024-11-07 15:53:38.791168 
+wize89l,     WW WW WE,        <Channel name: kaicenat>,       2024-11-07 15:53:42.988169 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:53:46.593437 
+wize89l,     WW WWW WWW WW WE,        <Channel name: kaicenat>,       2024-11-07 15:53:58.001464 
+wize89l,     I CAN SEE THE FUTURE,        <Channel name: kaicenat>,       2024-11-07 15:54:04.151126 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:54:08.047871 
+wize89l,     WW WW WE,        <Channel name: kaicenat>,       2024-11-07 15:54:19.878089 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 15:54:26.632184 
+wize89l,     @feelssunnyman 6 feet,        <Channel name: kaicenat>,       2024-11-07 15:55:16.764084 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:55:36.382253 
+wize89l,     OK 5'11,        <Channel name: kaicenat>,       2024-11-07 15:55:45.845155 
+wize89l,     I CAN SEE THE FUTURE,        <Channel name: kaicenat>,       2024-11-07 15:55:54.683796 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:55:58.740665 
+wize89l,     SZAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:02.348195 
+wize89l,     SZAA,        <Channel name: kaicenat>,       2024-11-07 15:56:08.848562 
+wize89l,     SZAAAAAAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:18.869232 
+wize89l,     WWWWWWWWWWW SZAAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:25.450647 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:56:29.938575 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 15:56:36.425665 
+wize89l,     GO KAI GO KAI,        <Channel name: kaicenat>,       2024-11-07 15:56:41.185321 
+wize89l,     WW LEBRON,        <Channel name: kaicenat>,       2024-11-07 15:57:08.776868 
+wize89l,     WW SUPz,        <Channel name: kaicenat>,       2024-11-07 15:57:25.336329 
+wize89l,     TOPIA TWINS,        <Channel name: kaicenat>,       2024-11-07 15:57:37.436414 
+wize89l,     @velsserr5 play it next,        <Channel name: kaicenat>,       2024-11-07 15:58:10.286363 
+wize89l,     WWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:58:53.976530 
+wize89l,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:58:58.013176 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 15:59:01.325554 
+wize89l,     wwwww wwww,        <Channel name: kaicenat>,       2024-11-07 15:59:05.659893 
+wize89l,     WW WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:59:11.052720 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 15:59:14.983776 
+wize89l,     WW WW WWW WWWW WWW,        <Channel name: kaicenat>,       2024-11-07 15:59:20.197714 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 15:59:39.274872 
+wize89l,     NO,        <Channel name: kaicenat>,       2024-11-07 16:01:09.700626 
+wize89l,     WE GOOD,        <Channel name: kaicenat>,       2024-11-07 16:01:21.089024 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:01:48.594159 
+wize89l,     WW WWW WWW,        <Channel name: kaicenat>,       2024-11-07 16:01:57.716780 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:02:01.319935 
+wize89l,     WW WW,        <Channel name: kaicenat>,       2024-11-07 16:02:04.615688 
+wize89l,     WW WW WWW WW,        <Channel name: kaicenat>,       2024-11-07 16:02:09.099896 
+wize89l,     WW SONG,        <Channel name: kaicenat>,       2024-11-07 16:02:15.698065 
+wize89l,     WWW WWW,        <Channel name: kaicenat>,       2024-11-07 16:02:24.271358 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 16:02:35.957987 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW,        <Channel name: kaicenat>,       2024-11-07 16:02:41.525769 
+wize89l,     GO KAI GO KAI GO KAI GO KAI GO KAI GO,        <Channel name: kaicenat>,       2024-11-07 16:03:01.443489 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:03:05.950805 
+wize89l,     DO IT,        <Channel name: kaicenat>,       2024-11-07 16:03:14.818973 
+wize89l,     DO IT..,        <Channel name: kaicenat>,       2024-11-07 16:03:26.491385 
+wize89l,     WWW WW WW WWW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:03:40.602947 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 16:03:47.359942 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 16:04:27.130040 
+wize89l,     HE SAYING GDGEFYSBAIGE9RBKD,        <Channel name: kaicenat>,       2024-11-07 16:05:11.494929 
+wize89l,     Fwueguvwu4h7w7gjr,        <Channel name: kaicenat>,       2024-11-07 16:05:21.446218 
+wize89l,     Heuefuehe,        <Channel name: kaicenat>,       2024-11-07 16:05:25.600333 
+wize89l,     AOWHURVUDVUFE UGH IDGURB,        <Channel name: kaicenat>,       2024-11-07 16:05:53.663419 
+wize89l,     WW KAI WW KAI WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 16:06:50.824971 
+wize89l,     TURN HIM UP,        <Channel name: kaicenat>,       2024-11-07 16:07:26.340208 
+wize89l,     WWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:07:34.286106 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:07:45.563982 
+wize89l,     WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 16:08:27.397723 
+wize89l,     WW KC WW KC WW KC WW KC WW KC,        <Channel name: kaicenat>,       2024-11-07 16:08:38.941563 
+wize89l,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:09:04.162486 
+wize89l,     WW UZIIII,        <Channel name: kaicenat>,       2024-11-07 16:09:11.967401 
+wize89l,     WW KC WW KC WW KC WW KC WW KC WW KC,        <Channel name: kaicenat>,       2024-11-07 16:09:39.397243 
+wize89l,     WW KAI WW KAI WW KAI WW KAI,        <Channel name: kaicenat>,       2024-11-07 16:12:12.130878 
+wize89l,     WW KC WW KC WW KC WW KC WW KC WW KC WW KC,        <Channel name: kaicenat>,       2024-11-07 16:12:53.497867 
+wize89l,     GO KC GO KC GO KC GO KC GO,        <Channel name: kaicenat>,       2024-11-07 16:13:55.683858 
+wize89l,     WW KC WW KC WW KC WW KC WW KC WW,        <Channel name: kaicenat>,       2024-11-07 16:14:26.577967 
+wize89l,     X,        <Channel name: kaicenat>,       2024-11-07 16:14:45.226737 
+wize89l,     WW CARTI,        <Channel name: kaicenat>,       2024-11-07 16:14:55.377480 
+wize89l,     FWEAH,        <Channel name: kaicenat>,       2024-11-07 16:14:59.570566 
+wize89l,     CARTI CARTIIII,        <Channel name: kaicenat>,       2024-11-07 16:15:08.120587 
+wize89l,     WW KC WW KC WW KC WW KC WW KC WW KC,        <Channel name: kaicenat>,       2024-11-07 16:15:27.962228 
+wize89l,     WW KC WW KC WW KC WW KC WW KC,        <Channel name: kaicenat>,       2024-11-07 16:16:19.270745 
+wize89l,     WW LEBRON,        <Channel name: kaicenat>,       2024-11-07 16:16:45.775808 
+wize89l,     SAY SOM TO PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:17:15.184111 
+wize89l,     TY SHIT,        <Channel name: kaicenat>,       2024-11-07 16:17:39.789895 
+wize89l,     FAX,        <Channel name: kaicenat>,       2024-11-07 16:17:51.162784 
+wize89l,     FAXXX,        <Channel name: kaicenat>,       2024-11-07 16:17:55.094459 
+wize89l,     SSSSSSSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:18:23.421865 
+wize89l,     SS SSSSS SSSS,        <Channel name: kaicenat>,       2024-11-07 16:18:29.738943 
+wize89l,     SSSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:18:34.982761 
+wize89l,     5HOURS,        <Channel name: kaicenat>,       2024-11-07 16:19:06.409602 
+wize89l,     BET,        <Channel name: kaicenat>,       2024-11-07 16:19:34.674382 
+wize89l,     WW,        <Channel name: kaicenat>,       2024-11-07 16:20:33.158213 
+wize89l,     SSSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:21:04.517399 
+wize89l,     Yes,        <Channel name: kaicenat>,       2024-11-07 16:21:48.183026 
+wize89l,     YUP,        <Channel name: kaicenat>,       2024-11-07 16:22:46.148646 
+wize89l,     MIC ASS,        <Channel name: kaicenat>,       2024-11-07 16:22:55.763609 
+wize89l,     MICC ASSS,        <Channel name: kaicenat>,       2024-11-07 16:23:02.692355 
+wize89l,     DAMN HOW BIG THIS HOUSE,        <Channel name: kaicenat>,       2024-11-07 16:23:49.005486 
+wize89l,     BIG ASS HOUSE,        <Channel name: kaicenat>,       2024-11-07 16:23:56.082335 
+wize89l,     BLACK AHH NIGGA,        <Channel name: kaicenat>,       2024-11-07 16:24:34.911821 
+wize89l,     OIL UP,        <Channel name: kaicenat>,       2024-11-07 16:25:31.773408 
+wize89l,     OIL UPP,        <Channel name: kaicenat>,       2024-11-07 16:25:57.085817 
+wize89l,     FUCK Us,        <Channel name: kaicenat>,       2024-11-07 16:26:35.324743 
+wize89l,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:42:48.901053 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:42:52.463751 
+wize89l,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 16:43:02.812663 
+wize89l,     PRODUCTION SLEE,        <Channel name: kaicenat>,       2024-11-07 16:43:48.555102 
+wize89l,     U SHOULD,        <Channel name: kaicenat>,       2024-11-07 16:45:54.137838 
+wize89l,     UR DONE,        <Channel name: kaicenat>,       2024-11-07 16:47:00.428813 
+wize89l,     UR DONER,        <Channel name: kaicenat>,       2024-11-07 16:47:07.623372 
+wize89l,     UR DONEE,        <Channel name: kaicenat>,       2024-11-07 16:47:13.782240 
+wize89l,     GGz,        <Channel name: kaicenat>,       2024-11-07 16:47:28.003354 
+wize89l,     LIFESTYLE,        <Channel name: kaicenat>,       2024-11-07 16:47:39.158980 
+wize89l,     AY AY AY AY AY AY,        <Channel name: kaicenat>,       2024-11-07 16:48:28.167313 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:48:33.105975 
+wize89l,     STICCCCYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:45.249467 
+wize89l,     STIKKKKYYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:53.037005 
+wize89l,     STICKKKKY,        <Channel name: kaicenat>,       2024-11-07 16:49:13.907910 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:49:18.396566 
+wize89l,     WW WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:49:26.649127 
+wize89l,     STICKKKKKYY STICKYYYY,        <Channel name: kaicenat>,       2024-11-07 16:49:35.049167 
+wize89l,     WWWWWW WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:49:45.263134 
+wize89l,     Fuck ads,        <Channel name: kaicenat>,       2024-11-07 16:49:55.310232 
+wize89l,     STICKYYY STICKY,        <Channel name: kaicenat>,       2024-11-07 16:50:26.052274 
+wize89l,     WWW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:50:34.165312 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:40.002133 
+wize89l,     Ww,        <Channel name: kaicenat>,       2024-11-07 16:50:41.229333 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:50:56.821364 
+wize89l,     ww ww ww,        <Channel name: kaicenat>,       2024-11-07 16:51:14.340290 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:51:17.989285 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:51:21.541238 
+wize89l,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:51:25.039773 
+wize89l,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:51:28.161525 
+wize89l,     CurseLit TwitchLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 16:51:31.586463 
+wize89l,     TwitchLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 16:51:34.148291 
+wize89l,     TwitchLit CurseLit TwitchLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 16:51:37.339416 
+wize89l,     CurseLit TwitchLit CurseLit TwitchLit,        <Channel name: kaicenat>,       2024-11-07 16:51:39.992725 
+wize89l,     CurseLit CurseLit,        <Channel name: kaicenat>,       2024-11-07 16:51:42.251999 
+wize89l,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:51:45.552431 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:31.911604 
+wize89l,     WWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:39.684377 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:52:43.337403 
+wize89l,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:56.548323 
+wize89l,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:59.952304 
+wize89l,     WWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:53:07.336706 
+wize89l,     WWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:53:13.457904 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:53:17.222093 
+wize89l,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:53:20.951382 
+wize89l,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:53:24.421569 
+wize89l,     WWW WWW WW,        <Channel name: kaicenat>,       2024-11-07 16:53:39.384751 
+wize89l,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:53:44.052706 
+wize89l,     FWEAH,        <Channel name: kaicenat>,       2024-11-07 16:53:48.995892 
+wize89l,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:53:52.889367 
+wize89l,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:07.174695 
+wize89l,     WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:54:12.248402 
+wize89l,     WW WW WE WE,        <Channel name: kaicenat>,       2024-11-07 16:54:21.564527 
+wize89l,     WWW WW WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:54:29.042401 
+wize89l,     WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:54:38.508052 
+wize89l,     LOUD AND CLEAR,        <Channel name: kaicenat>,       2024-11-07 16:56:02.514626 

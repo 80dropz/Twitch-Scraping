@@ -1,0 +1,65 @@
+stormxsy,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:33.537444 
+stormxsy,     ItsTime,        <Channel name: stableronaldo>,       2024-11-07 15:56:20.218753 
+stormxsy,     tahi,        <Channel name: stableronaldo>,       2024-11-07 15:56:30.590633 
+stormxsy,     ehhhh,        <Channel name: stableronaldo>,       2024-11-07 15:57:04.843299 
+stormxsy,     ome44,        <Channel name: stableronaldo>,       2024-11-07 15:57:31.625340 
+stormxsy,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:34.596660 
+stormxsy,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:59:00.736977 
+stormxsy,     go see a doctor twin,        <Channel name: stableronaldo>,       2024-11-07 15:59:21.705544 
+stormxsy,     go  see a doctor twin,        <Channel name: stableronaldo>,       2024-11-07 15:59:38.118632 
+stormxsy,     24 hours in the hospital stream NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:02:28.358030 
+stormxsy,     nah,        <Channel name: stableronaldo>,       2024-11-07 16:02:45.722828 
+stormxsy,     yea,        <Channel name: stableronaldo>,       2024-11-07 16:03:22.742064 
+stormxsy,     nah,        <Channel name: stableronaldo>,       2024-11-07 16:03:40.054858 
+stormxsy,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:03:51.167144 
+stormxsy,     thats drip,        <Channel name: stableronaldo>,       2024-11-07 16:04:07.283928 
+stormxsy,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:05:06.030313 
+stormxsy,     me,        <Channel name: stableronaldo>,       2024-11-07 16:05:09.269886 
+stormxsy,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:05:46.974799 
+stormxsy,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:06:29.668284 
+stormxsy,     like 10k,        <Channel name: stableronaldo>,       2024-11-07 16:07:24.617353 
+stormxsy,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:41.110063 
+stormxsy,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.230342 
+stormxsy,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:57.634458 
+stormxsy,     D:,        <Channel name: stableronaldo>,       2024-11-07 16:08:30.069282 
+stormxsy,     SERIOUSLY,        <Channel name: stableronaldo>,       2024-11-07 16:08:37.188116 
+stormxsy,     ......,        <Channel name: stableronaldo>,       2024-11-07 16:08:49.703273 
+stormxsy,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:09:02.583475 
+stormxsy,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:11.047137 
+stormxsy,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:12:36.201825 
+stormxsy,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:12:57.399022 
+stormxsy,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:13:14.866591 
+stormxsy,     theyre not filters?,        <Channel name: stableronaldo>,       2024-11-07 16:14:07.185861 
+stormxsy,     its not real?,        <Channel name: stableronaldo>,       2024-11-07 16:14:26.863644 
+stormxsy,     no,        <Channel name: stableronaldo>,       2024-11-07 16:15:39.029830 
+stormxsy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:03.083090 
+stormxsy,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:16:17.247978 
+stormxsy,     notdianalim,        <Channel name: stableronaldo>,       2024-11-07 16:16:50.619799 
+stormxsy,     Reacting ',        <Channel name: stableronaldo>,       2024-11-07 16:17:22.497247 
+stormxsy,     Sus,        <Channel name: stableronaldo>,       2024-11-07 16:17:53.040250 
+stormxsy,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:18.939051 
+stormxsy,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:40.861362 
+stormxsy,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:54.456972 
+stormxsy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:31.044351 
+stormxsy,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:47.791187 
+stormxsy,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:20:21.898603 
+stormxsy,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:21:28.704144 
+stormxsy,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:31.040249 
+stormxsy,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:22:25.090314 
+stormxsy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:31.079474 
+stormxsy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:55.834735 
+stormxsy,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:23:26.244904 
+stormxsy,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:29.677585 
+stormxsy,     ur fat and ugly,        <Channel name: stableronaldo>,       2024-11-07 16:24:08.016501 
+stormxsy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:24:27.214996 
+stormxsy,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:33.164314 
+stormxsy,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:47.999630 
+stormxsy,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:02.462753 
+stormxsy,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:05.035549 
+stormxsy,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:25:23.805291 
+stormxsy,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:25:36.630953 
+stormxsy,     stabeTMZ,        <Channel name: stableronaldo>,       2024-11-07 16:25:43.626362 
+stormxsy,     OOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:25:59.055867 
+stormxsy,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:06.403104 
+stormxsy,     nah,        <Channel name: stableronaldo>,       2024-11-07 16:26:20.025620 
+stormxsy,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:41.400464 

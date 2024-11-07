@@ -1,0 +1,2 @@
+lperc,     @x205tim same,        <Channel name: swagg>,       2024-11-07 15:51:28.600051 
+lperc,     @x205tim near lawndale,        <Channel name: swagg>,       2024-11-07 15:54:40.598411 

@@ -1,0 +1,7 @@
+envy_george,     stabe ta,        <Channel name: stableronaldo>,       2024-11-07 15:55:27.868766 
+envy_george,     RR,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.186067 
+envy_george,     RT RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:57.022570 
+envy_george,     wwwww,        <Channel name: stableronaldo>,       2024-11-07 16:20:15.225330 
+envy_george,     wwwwww,        <Channel name: stableronaldo>,       2024-11-07 16:20:19.122203 
+envy_george,     WWWWW,        <Channel name: stableronaldo>,       2024-11-07 16:20:21.134159 
+envy_george,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:40.496976 

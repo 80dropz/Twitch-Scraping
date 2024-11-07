@@ -1,0 +1,4 @@
+kataim_yuiro,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:45.599831 
+kataim_yuiro,     9999,        <Channel name: kaicenat>,       2024-11-07 15:29:52.679336 
+kataim_yuiro,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:07.503712 
+kataim_yuiro,     99999,        <Channel name: kaicenat>,       2024-11-07 15:30:27.817481 

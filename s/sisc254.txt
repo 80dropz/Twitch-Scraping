@@ -1,0 +1,6 @@
+
+ sisc254,     !points,        <Channel name: mongraal>,       2024-11-07 14:50:04.391618 
+sisc254,     10 cmon,        <Channel name: kaicenat>,       2024-11-07 16:17:49.263276 
+sisc254,     30 sec,        <Channel name: kaicenat>,       2024-11-07 16:18:00.004284 
+sisc254,     tell her 2 stream,        <Channel name: lacy>,       2024-11-07 16:20:16.684076 
+sisc254,     tf,        <Channel name: lacy>,       2024-11-07 16:26:05.670543 

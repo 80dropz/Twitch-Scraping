@@ -1,0 +1,2 @@
+levent_celik,     CLOSE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:29:42.189832 
+levent_celik,     CLOSE TYE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:29:54.162451 

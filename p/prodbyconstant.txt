@@ -1,0 +1,4 @@
+prodbyconstant,     Pooool,        <Channel name: kaicenat>,       2024-11-07 16:55:35.847860 
+prodbyconstant,     POOLLL,        <Channel name: kaicenat>,       2024-11-07 16:55:48.894570 
+prodbyconstant,     Poool,        <Channel name: kaicenat>,       2024-11-07 16:55:54.096002 
+prodbyconstant,     POOOL,        <Channel name: kaicenat>,       2024-11-07 16:56:00.979437 

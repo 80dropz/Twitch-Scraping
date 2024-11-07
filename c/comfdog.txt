@@ -1,0 +1,2 @@
+comfdog,     !bracket,        <Channel name: nadeshot>,       2024-11-07 15:38:26.097403 
+comfdog,     !bracket,        <Channel name: nadeshot>,       2024-11-07 15:46:26.095513 

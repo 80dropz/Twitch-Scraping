@@ -1,0 +1,2 @@
+loocim,     dirty,        <Channel name: clix>,       2024-11-07 15:31:42.462808 
+loocim,     gg,        <Channel name: clix>,       2024-11-07 15:33:13.965838 

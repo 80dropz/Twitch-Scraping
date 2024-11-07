@@ -6,3 +6,6 @@
  dbushlive,     do 30 gifts,        <Channel name: kaicenat>,       2024-11-07 09:24:25.048589 
 
  dbushlive,     switch characters,        <Channel name: kaicenat>,       2024-11-07 09:41:59.929752 
+
+ dbushlive,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 14:42:19.196027 
+dbushlive,     kaicHands,        <Channel name: kaicenat>,       2024-11-07 16:41:57.943700 

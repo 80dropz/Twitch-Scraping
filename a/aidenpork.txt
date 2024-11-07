@@ -1,0 +1,3 @@
+aidenpork,     hi,        <Channel name: stableronaldo>,       2024-11-07 15:55:15.982546 
+aidenpork,     how,        <Channel name: stableronaldo>,       2024-11-07 15:55:19.243259 
+aidenpork,     hi,        <Channel name: stableronaldo>,       2024-11-07 15:55:24.252660 

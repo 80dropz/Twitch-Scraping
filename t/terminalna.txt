@@ -1,0 +1,4 @@
+terminalna,     ww\,        <Channel name: stableronaldo>,       2024-11-07 15:55:11.844530 
+terminalna,     Das=mn,        <Channel name: stableronaldo>,       2024-11-07 16:10:12.241192 
+terminalna,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:14.900611 
+terminalna,     no,        <Channel name: stableronaldo>,       2024-11-07 16:10:18.539554 

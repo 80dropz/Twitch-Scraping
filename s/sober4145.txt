@@ -1,0 +1,7 @@
+sober4145,     washed adapt,        <Channel name: adapt>,       2024-11-07 15:29:16.243451 
+sober4145,     don’t use sniper,        <Channel name: adapt>,       2024-11-07 15:42:42.033379 
+sober4145,     comeback time,        <Channel name: adapt>,       2024-11-07 15:43:28.855424 
+sober4145,     gg,        <Channel name: adapt>,       2024-11-07 15:45:24.020561 
+sober4145,     lock in,        <Channel name: adapt>,       2024-11-07 15:54:10.570178 
+sober4145,     999,        <Channel name: adapt>,       2024-11-07 15:54:30.532561 
+sober4145,     pop a per,        <Channel name: adapt>,       2024-11-07 15:54:50.769163 

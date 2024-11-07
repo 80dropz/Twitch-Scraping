@@ -136,3 +136,5 @@
  soya_yusha,     0,        <Channel name: kaicenat>,       2024-11-07 12:53:05.445409 
 
  soya_yusha,     100,        <Channel name: kaicenat>,       2024-11-07 12:53:12.096222 
+soya_yusha,     GOO KAIIIIIII,        <Channel name: kaicenat>,       2024-11-07 15:42:03.738936 
+soya_yusha,     U CAN DO ITT NIGGAAA,        <Channel name: kaicenat>,       2024-11-07 15:42:16.325628 

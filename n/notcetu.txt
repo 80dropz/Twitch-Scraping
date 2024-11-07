@@ -38,3 +38,110 @@
  notcetu,     Assept,        <Channel name: clix>,       2024-11-07 02:51:38.053688 
 
  notcetu,     @MrHarryHD ome67,        <Channel name: clix>,       2024-11-07 02:52:41.515036 
+notcetu,     wsg chat,        <Channel name: clix>,       2024-11-07 15:28:45.119512 
+notcetu,     ome44,        <Channel name: clix>,       2024-11-07 15:30:08.965569 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 15:32:18.382567 
+notcetu,     :uhm,        <Channel name: clix>,       2024-11-07 15:33:13.811743 
+notcetu,     bro,        <Channel name: clix>,       2024-11-07 15:33:17.019619 
+notcetu,     wtf,        <Channel name: clix>,       2024-11-07 15:33:18.760914 
+notcetu,     GG,        <Channel name: clix>,       2024-11-07 15:33:50.067799 
+notcetu,     uuh,        <Channel name: clix>,       2024-11-07 15:34:35.565065 
+notcetu,     ome44,        <Channel name: clix>,       2024-11-07 15:34:41.849778 
+notcetu,     ome52,        <Channel name: clix>,       2024-11-07 15:35:32.337149 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 15:35:37.442009 
+notcetu,     Fridge,        <Channel name: clix>,       2024-11-07 15:35:45.748801 
+notcetu,     Classic,        <Channel name: clix>,       2024-11-07 15:35:55.525899 
+notcetu,     mmmmmm,        <Channel name: clix>,       2024-11-07 15:35:59.495406 
+notcetu,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:05.430524 
+notcetu,     NAHH,        <Channel name: clix>,       2024-11-07 15:36:28.252228 
+notcetu,     mmmmm,        <Channel name: clix>,       2024-11-07 15:36:47.225139 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 15:38:01.709905 
+notcetu,     AURA,        <Channel name: clix>,       2024-11-07 15:38:18.866950 
+notcetu,     BOOBA,        <Channel name: clix>,       2024-11-07 15:39:29.046198 
+notcetu,     goClix,        <Channel name: clix>,       2024-11-07 15:39:43.814038 
+notcetu,     CokeShakey,        <Channel name: clix>,       2024-11-07 15:39:52.876165 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 15:40:08.603428 
+notcetu,     LETSGO,        <Channel name: clix>,       2024-11-07 15:40:11.777457 
+notcetu,     Aware,        <Channel name: clix>,       2024-11-07 15:40:45.892641 
+notcetu,     LMAO NAHH,        <Channel name: clix>,       2024-11-07 15:40:52.532675 
+notcetu,     NOWAY,        <Channel name: clix>,       2024-11-07 15:41:18.870368 
+notcetu,     14m,        <Channel name: clix>,       2024-11-07 15:41:52.044311 
+notcetu,     GG,        <Channel name: clix>,       2024-11-07 15:42:05.866454 
+notcetu,     o7,        <Channel name: clix>,       2024-11-07 15:42:08.108707 
+notcetu,     COOKED,        <Channel name: clix>,       2024-11-07 15:42:17.610664 
+notcetu,     Capping,        <Channel name: clix>,       2024-11-07 15:42:20.161508 
+notcetu,     its the gif,        <Channel name: clix>,       2024-11-07 15:42:32.905367 
+notcetu,     Classic,        <Channel name: clix>,       2024-11-07 15:42:51.803187 
+notcetu,     ome44,        <Channel name: clix>,       2024-11-07 15:43:01.385538 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 15:43:10.149815 
+notcetu,     ome32,        <Channel name: clix>,       2024-11-07 15:43:23.231092 
+notcetu,     lebronJAM,        <Channel name: clix>,       2024-11-07 15:44:10.473668 
+notcetu,     ome32,        <Channel name: clix>,       2024-11-07 15:45:54.447540 
+notcetu,     @NotMarkX uuh,        <Channel name: clix>,       2024-11-07 15:46:05.739728 
+notcetu,     Drake,        <Channel name: clix>,       2024-11-07 15:47:50.660984 
+notcetu,     lebronJAM,        <Channel name: clix>,       2024-11-07 15:48:02.994620 
+notcetu,     colorado is so nice,        <Channel name: clix>,       2024-11-07 15:48:39.767978 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 15:49:00.024716 
+notcetu,     ome32,        <Channel name: clix>,       2024-11-07 15:49:06.984660 
+notcetu,     it isnt even a full beard,        <Channel name: clix>,       2024-11-07 15:49:56.604024 
+notcetu,     NOOOO,        <Channel name: clix>,       2024-11-07 15:50:10.133947 
+notcetu,     wrf,        <Channel name: clix>,       2024-11-07 15:50:16.808885 
+notcetu,     rich ahh car,        <Channel name: clix>,       2024-11-07 15:50:20.973620 
+notcetu,     AURA,        <Channel name: clix>,       2024-11-07 15:50:32.408783 
+notcetu,     Listening,        <Channel name: clix>,       2024-11-07 15:50:50.602826 
+notcetu,     ome44,        <Channel name: clix>,       2024-11-07 15:50:54.430357 
+notcetu,     WineTime,        <Channel name: clix>,       2024-11-07 15:51:13.876852 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 15:51:32.670345 
+notcetu,     2 hrs,        <Channel name: clix>,       2024-11-07 15:53:14.693316 
+notcetu,     ImInYourWalls,        <Channel name: clix>,       2024-11-07 15:53:52.701198 
+notcetu,     uuh,        <Channel name: clix>,       2024-11-07 15:54:18.004366 
+notcetu,     holy,        <Channel name: clix>,       2024-11-07 15:54:58.157289 
+notcetu,     Listening,        <Channel name: clix>,       2024-11-07 15:56:01.772325 
+notcetu,     ome32,        <Channel name: clix>,       2024-11-07 15:56:04.092990 
+notcetu,     TriKool,        <Channel name: clix>,       2024-11-07 15:56:35.476629 
+notcetu,     SCHIZO,        <Channel name: clix>,       2024-11-07 15:56:55.262845 
+notcetu,     SCHIZO,        <Channel name: clix>,       2024-11-07 15:57:33.482486 
+notcetu,     TAWAY,        <Channel name: clix>,       2024-11-07 15:57:37.629731 
+notcetu,     whats that beeping noise,        <Channel name: clix>,       2024-11-07 15:57:53.472937 
+notcetu,     WOOO,        <Channel name: clix>,       2024-11-07 15:58:07.453534 
+notcetu,     awoo,        <Channel name: clix>,       2024-11-07 15:58:23.096761 
+notcetu,     Listening,        <Channel name: clix>,       2024-11-07 15:58:59.349659 
+notcetu,     isnt until tmrw,        <Channel name: clix>,       2024-11-07 16:00:14.443829 
+notcetu,     i thought,        <Channel name: clix>,       2024-11-07 16:00:22.312883 
+notcetu,     @MONSTERonSCUFF HUH,        <Channel name: clix>,       2024-11-07 16:02:12.447955 
+notcetu,     Headbang,        <Channel name: clix>,       2024-11-07 16:03:11.675963 
+notcetu,     jah,        <Channel name: clix>,       2024-11-07 16:03:59.741340 
+notcetu,     LieMeter,        <Channel name: clix>,       2024-11-07 16:04:20.177048 
+notcetu,     nah,        <Channel name: clix>,       2024-11-07 16:06:24.347974 
+notcetu,     ome32,        <Channel name: clix>,       2024-11-07 16:06:37.314498 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 16:16:39.622774 
+notcetu,     mhm,        <Channel name: clix>,       2024-11-07 16:16:52.915209 
+notcetu,     god damn,        <Channel name: clix>,       2024-11-07 16:18:00.866786 
+notcetu,     OOOO,        <Channel name: clix>,       2024-11-07 16:18:02.463755 
+notcetu,     nt,        <Channel name: clix>,       2024-11-07 16:18:50.501315 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 16:19:27.367955 
+notcetu,     woww,        <Channel name: clix>,       2024-11-07 16:19:35.046925 
+notcetu,     ome44,        <Channel name: clix>,       2024-11-07 16:19:52.233240 
+notcetu,     ...,        <Channel name: clix>,       2024-11-07 16:20:09.429968 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 16:20:19.594229 
+notcetu,     clix gotta move his legs,        <Channel name: clix>,       2024-11-07 16:21:06.351493 
+notcetu,     when he swingin,        <Channel name: clix>,       2024-11-07 16:21:18.417032 
+notcetu,     mmmmmmmm,        <Channel name: clix>,       2024-11-07 16:21:41.690269 
+notcetu,     OOOO,        <Channel name: clix>,       2024-11-07 16:21:51.885482 
+notcetu,     LMAoO,        <Channel name: clix>,       2024-11-07 16:21:55.985008 
+notcetu,     lol,        <Channel name: clix>,       2024-11-07 16:22:00.592687 
+notcetu,     WW coach feldy,        <Channel name: clix>,       2024-11-07 16:22:16.138658 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 16:22:26.862563 
+notcetu,     mhm,        <Channel name: clix>,       2024-11-07 16:22:56.845211 
+notcetu,     Pffttt,        <Channel name: clix>,       2024-11-07 16:23:02.910436 
+notcetu,     rizzyyy,        <Channel name: clix>,       2024-11-07 16:23:11.055542 
+notcetu,     WAIT,        <Channel name: clix>,       2024-11-07 16:23:48.414125 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 16:23:50.204083 
+notcetu,     OOOO,        <Channel name: clix>,       2024-11-07 16:24:08.560605 
+notcetu,     mmmm,        <Channel name: clix>,       2024-11-07 16:24:28.385584 
+notcetu,     ofc,        <Channel name: clix>,       2024-11-07 16:24:42.052397 
+notcetu,     BUSSIN,        <Channel name: clix>,       2024-11-07 16:24:51.001553 
+notcetu,     holy,        <Channel name: clix>,       2024-11-07 16:25:22.898438 
+notcetu,     WW,        <Channel name: clix>,       2024-11-07 16:25:36.244117 
+notcetu,     AURA,        <Channel name: clix>,       2024-11-07 16:25:38.514441 
+notcetu,     ta shi,        <Channel name: clix>,       2024-11-07 16:25:46.966237 

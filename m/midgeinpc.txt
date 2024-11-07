@@ -1,0 +1,4 @@
+midgeinpc,     don’t take the risk,        <Channel name: stableronaldo>,       2024-11-07 16:02:36.085846 
+midgeinpc,     go do a check up,        <Channel name: stableronaldo>,       2024-11-07 16:03:00.442128 
+midgeinpc,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:24:03.258745 
+midgeinpc,     ME,        <Channel name: stableronaldo>,       2024-11-07 16:26:00.879752 

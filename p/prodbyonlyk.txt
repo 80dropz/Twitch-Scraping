@@ -1,0 +1,2 @@
+prodbyonlyk,     !point,        <Channel name: kaicenat>,       2024-11-07 16:45:37.883152 
+prodbyonlyk,     !points,        <Channel name: kaicenat>,       2024-11-07 16:45:42.492289 

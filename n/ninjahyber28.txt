@@ -1,0 +1,27 @@
+ninjahyber28,     m,        <Channel name: kaicenat>,       2024-11-07 15:55:19.080964 
+ninjahyber28,     æ,        <Channel name: kaicenat>,       2024-11-07 15:55:21.006275 
+ninjahyber28,     g,        <Channel name: kaicenat>,       2024-11-07 15:55:56.950294 
+ninjahyber28,     j,        <Channel name: kaicenat>,       2024-11-07 15:55:58.770425 
+ninjahyber28,     u,        <Channel name: kaicenat>,       2024-11-07 15:56:01.821443 
+ninjahyber28,     h,        <Channel name: kaicenat>,       2024-11-07 15:56:04.427231 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:07.549369 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:11.805197 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:14.186416 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:22.823773 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:24.118808 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:26.349260 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:29.571482 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:31.970995 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:36.244465 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:38.158441 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:41.909907 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:45.071605 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:56:52.417635 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:56:57.046767 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:57:02.059600 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:57:14.337781 
+ninjahyber28,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:57:32.734342 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 15:57:46.781625 
+ninjahyber28,     ww,        <Channel name: kaicenat>,       2024-11-07 15:57:53.853404 
+ninjahyber28,     w,        <Channel name: kaicenat>,       2024-11-07 16:07:39.141528 
+ninjahyber28,     old mongraal,        <Channel name: mongraal>,       2024-11-07 16:23:00.823216 

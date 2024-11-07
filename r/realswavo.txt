@@ -1,0 +1,17 @@
+realswavo,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:35:24.463882 
+realswavo,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:35:41.138946 
+realswavo,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 15:36:33.508026 
+realswavo,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 15:37:31.298168 
+realswavo,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:37:56.768377 
+realswavo,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:38:13.720471 
+realswavo,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 15:39:11.783991 
+realswavo,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:42:34.970119 
+realswavo,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 15:42:46.280779 
+realswavo,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 15:43:04.034492 
+realswavo,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 15:43:15.465639 
+realswavo,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:43:28.376536 
+realswavo,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:43:42.853398 
+realswavo,     !roulette 7,        <Channel name: kaicenat>,       2024-11-07 15:43:50.419848 
+realswavo,     !roulette,        <Channel name: kaicenat>,       2024-11-07 15:44:00.219609 
+realswavo,     gift me,        <Channel name: kaicenat>,       2024-11-07 15:50:55.289422 
+realswavo,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:51:05.485051 

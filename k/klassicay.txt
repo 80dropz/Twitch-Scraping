@@ -1,0 +1,26 @@
+klassicay,     what does that mean,        <Channel name: stableronaldo>,       2024-11-07 15:55:56.597453 
+klassicay,     love you rani,        <Channel name: stableronaldo>,       2024-11-07 15:58:12.265391 
+klassicay,     do u love me back?,        <Channel name: stableronaldo>,       2024-11-07 15:58:21.980948 
+klassicay,     no way,        <Channel name: stableronaldo>,       2024-11-07 15:59:35.279835 
+klassicay,     go to hospital asap,        <Channel name: stableronaldo>,       2024-11-07 15:59:41.248875 
+klassicay,     go to hospital now,        <Channel name: stableronaldo>,       2024-11-07 15:59:51.810625 
+klassicay,     hospital stream bro,        <Channel name: stableronaldo>,       2024-11-07 15:59:57.116500 
+klassicay,     you need to go now bro,        <Channel name: stableronaldo>,       2024-11-07 16:00:05.566565 
+klassicay,     go to hospital,        <Channel name: stableronaldo>,       2024-11-07 16:00:40.426546 
+klassicay,     I noticed,        <Channel name: stableronaldo>,       2024-11-07 16:00:48.953597 
+klassicay,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:57.357590 
+klassicay,     please bro,        <Channel name: stableronaldo>,       2024-11-07 16:01:00.042638 
+klassicay,     I can’t lose you,        <Channel name: stableronaldo>,       2024-11-07 16:01:03.469614 
+klassicay,     go to doctor,        <Channel name: stableronaldo>,       2024-11-07 16:01:50.148996 
+klassicay,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:28.428960 
+klassicay,     go to hospital g,        <Channel name: stableronaldo>,       2024-11-07 16:02:32.792912 
+klassicay,     go in to be safe,        <Channel name: stableronaldo>,       2024-11-07 16:02:43.225116 
+klassicay,     no,        <Channel name: stableronaldo>,       2024-11-07 16:02:59.204874 
+klassicay,     stop,        <Channel name: stableronaldo>,       2024-11-07 16:03:00.683946 
+klassicay,     bro stop,        <Channel name: stableronaldo>,       2024-11-07 16:03:47.947953 
+klassicay,     shut up,        <Channel name: stableronaldo>,       2024-11-07 16:04:31.119589 
+klassicay,     drive to hospital,        <Channel name: stableronaldo>,       2024-11-07 16:04:42.329523 
+klassicay,     bro,        <Channel name: stableronaldo>,       2024-11-07 16:05:41.894681 
+klassicay,     go to hospital,        <Channel name: stableronaldo>,       2024-11-07 16:07:22.682452 
+klassicay,     w mom,        <Channel name: stableronaldo>,       2024-11-07 16:08:12.988927 
+klassicay,     hmm,        <Channel name: stableronaldo>,       2024-11-07 16:09:12.418763 

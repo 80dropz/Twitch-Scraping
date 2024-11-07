@@ -1,0 +1,2 @@
+xrefill,     regain,        <Channel name: nadeshot>,       2024-11-07 15:41:33.650304 
+xrefill,     W,        <Channel name: nadeshot>,       2024-11-07 16:07:22.797335 

@@ -1,0 +1,6 @@
+veng9,     ronCAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:07.717215 
+veng9,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:21.314015 
+veng9,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:11:19.440449 
+veng9,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:32.323312 
+veng9,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:14:40.847821 
+veng9,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:25:57.538708 

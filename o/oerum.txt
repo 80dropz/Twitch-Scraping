@@ -16,3 +16,6 @@
  oerum,     AOLpls,        <Channel name: pokelawls>,       2024-11-07 02:45:57.877953 
 
  oerum,     CatDrive,        <Channel name: pokelawls>,       2024-11-07 02:51:00.567591 
+oerum,     you cant do that anymore chance,        <Channel name: pokelawls>,       2024-11-07 15:59:02.182769 
+oerum,     diddypoppin,        <Channel name: pokelawls>,       2024-11-07 16:24:57.958588 
+oerum,     MUGA G SPOTTERS,        <Channel name: pokelawls>,       2024-11-07 16:25:23.451251 

@@ -1,0 +1,2 @@
+getlazy,     sunshine,        <Channel name: pokelawls>,       2024-11-07 15:47:08.800247 
+getlazy,     sunshine/moonlight works great,        <Channel name: pokelawls>,       2024-11-07 15:47:24.768937 

@@ -1,0 +1,8 @@
+bolgoon,     W WORKOUT,        <Channel name: kaicenat>,       2024-11-07 15:47:01.924912 
+bolgoon,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:56:59.739291 
+bolgoon,     !watchtime jasontheween,        <Channel name: kaicenat>,       2024-11-07 15:57:13.947776 
+bolgoon,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:57:28.628481 
+bolgoon,     !followage jasontheween,        <Channel name: kaicenat>,       2024-11-07 15:57:36.052590 
+bolgoon,     !followage,        <Channel name: stableronaldo>,       2024-11-07 16:00:56.349870 
+bolgoon,     !followage jasontheween,        <Channel name: adapt>,       2024-11-07 16:11:07.299347 
+bolgoon,     !followage jasontheween,        <Channel name: clix>,       2024-11-07 16:11:27.332393 

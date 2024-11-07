@@ -4,3 +4,6 @@
  sgloco,     Get. The mic and his phone,        <Channel name: kaicenat>,       2024-11-07 13:16:27.923335 
 
  sgloco,     Do it,        <Channel name: kaicenat>,       2024-11-07 13:24:31.177498 
+
+ sgloco,     Check on rakai,        <Channel name: kaicenat>,       2024-11-07 14:52:31.769213 
+sgloco,     Turn heat up,        <Channel name: kaicenat>,       2024-11-07 16:41:04.660812 

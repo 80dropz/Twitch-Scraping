@@ -1,0 +1,29 @@
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:48:38.372819 
+
+ rs6sweden,     FREE RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:49:52.584458 
+
+ rs6sweden,     FREE RRKAK,        <Channel name: kaicenat>,       2024-11-07 14:51:14.038342 
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:51:22.117478 
+
+ rs6sweden,     TAKAI,        <Channel name: kaicenat>,       2024-11-07 14:51:31.471686 
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:51:36.405850 
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:52:44.911938 
+
+ rs6sweden,     RAKAIII,        <Channel name: kaicenat>,       2024-11-07 14:53:23.406776 
+
+ rs6sweden,     CAM2,        <Channel name: kaicenat>,       2024-11-07 14:53:33.802013 
+
+ rs6sweden,     CAM 2,        <Channel name: kaicenat>,       2024-11-07 14:53:39.429872 
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:49.458109 
+
+ rs6sweden,     NO,        <Channel name: kaicenat>,       2024-11-07 14:53:59.759312 
+
+ rs6sweden,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:54:30.168784 
+
+ rs6sweden,     LET HIM OUT,        <Channel name: kaicenat>,       2024-11-07 14:55:32.215361 
+rs6sweden,     RAKAI CAM,        <Channel name: kaicenat>,       2024-11-07 16:44:21.197129 

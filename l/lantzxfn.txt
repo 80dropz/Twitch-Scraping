@@ -20,3 +20,5 @@
  lantzxfn,     bruh,        <Channel name: clix>,       2024-11-07 13:31:51.359593 
 
  lantzxfn,     kill em,        <Channel name: clix>,       2024-11-07 13:32:23.344251 
+
+ lantzxfn,     SOLD GG,        <Channel name: lacy>,       2024-11-07 15:26:31.661515 

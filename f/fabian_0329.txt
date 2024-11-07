@@ -1,0 +1,13 @@
+fabian_0329,     No,        <Channel name: kaicenat>,       2024-11-07 16:26:03.768657 
+fabian_0329,     L ads,        <Channel name: kaicenat>,       2024-11-07 16:26:44.171704 
+fabian_0329,     Yes only when it's hot,        <Channel name: kaicenat>,       2024-11-07 16:28:11.260471 
+fabian_0329,     Two spoons,        <Channel name: kaicenat>,       2024-11-07 16:28:30.345511 
+fabian_0329,     Yes,        <Channel name: kaicenat>,       2024-11-07 16:29:46.046196 
+fabian_0329,     Go7,        <Channel name: kaicenat>,       2024-11-07 16:30:37.370822 
+fabian_0329,     777,        <Channel name: kaicenat>,       2024-11-07 16:30:46.701072 
+fabian_0329,     No wait 20 mins,        <Channel name: kaicenat>,       2024-11-07 16:31:36.189966 
+fabian_0329,     One or two spoons,        <Channel name: kaicenat>,       2024-11-07 16:31:59.393144 
+fabian_0329,     Nowait,        <Channel name: kaicenat>,       2024-11-07 16:32:32.916387 
+fabian_0329,     L ads,        <Channel name: kaicenat>,       2024-11-07 16:34:16.033018 
+fabian_0329,     Just wait,        <Channel name: kaicenat>,       2024-11-07 16:34:52.085133 
+fabian_0329,     You stupid,        <Channel name: kaicenat>,       2024-11-07 16:35:03.755220 

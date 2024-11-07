@@ -1,0 +1,2 @@
+apeagles04,     !duo,        <Channel name: clix>,       2024-11-07 15:55:59.573329 
+apeagles04,     !trio,        <Channel name: clix>,       2024-11-07 15:56:08.983696 

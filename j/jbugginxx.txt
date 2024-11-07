@@ -1,0 +1,6 @@
+jbugginxx,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:42:36.371571 
+jbugginxx,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:43:05.560842 
+jbugginxx,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:43:31.965622 
+jbugginxx,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 15:44:16.136956 
+jbugginxx,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:45:11.835135 
+jbugginxx,     kaicHeart_SG,        <Channel name: kaicenat>,       2024-11-07 15:46:11.243218 

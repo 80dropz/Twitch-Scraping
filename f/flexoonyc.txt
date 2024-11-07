@@ -1,2 +1,6 @@
 
  flexoonyc,     200 SUB,        <Channel name: kaicenat>,       2024-11-07 12:36:17.493250 
+flexoonyc,     3 TIME WORKING OUT WITH YOU AND THE TRANER,        <Channel name: kaicenat>,       2024-11-07 16:16:26.370544 
+flexoonyc,     TRAINER,        <Channel name: kaicenat>,       2024-11-07 16:16:41.862499 
+flexoonyc,     FAX,        <Channel name: kaicenat>,       2024-11-07 16:17:51.140689 
+flexoonyc,     FAXX,        <Channel name: kaicenat>,       2024-11-07 16:18:06.925196 

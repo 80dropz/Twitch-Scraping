@@ -16,3 +16,7 @@
  shoegazelovers,     Yes,        <Channel name: lacy>,       2024-11-07 12:57:06.623582 
 
  shoegazelovers,     WWWWWW,        <Channel name: lacy>,       2024-11-07 12:57:28.749902 
+
+ shoegazelovers,     is this tourney like the Kaysan one?,        <Channel name: adapt>,       2024-11-07 14:48:11.662478 
+
+ shoegazelovers,     AYYY,        <Channel name: adapt>,       2024-11-07 14:50:18.269409 

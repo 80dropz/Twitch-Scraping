@@ -1,0 +1,6 @@
+ttv_lobbysender,     lol,        <Channel name: clix>,       2024-11-07 15:30:07.894606 
+ttv_lobbysender,     @esa12345 no,        <Channel name: clix>,       2024-11-07 15:30:22.263489 
+ttv_lobbysender,     loooiol,        <Channel name: clix>,       2024-11-07 15:32:10.364436 
+ttv_lobbysender,     THAT WAS A CRAZY SHOT,        <Channel name: clix>,       2024-11-07 15:33:45.533661 
+ttv_lobbysender,     yea,        <Channel name: clix>,       2024-11-07 15:33:49.394855 
+ttv_lobbysender,     @n1ckttv1 why,        <Channel name: clix>,       2024-11-07 15:34:13.056137 

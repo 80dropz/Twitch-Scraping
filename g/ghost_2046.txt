@@ -1,0 +1,3 @@
+ghost_2046,     cooked,        <Channel name: stableronaldo>,       2024-11-07 16:01:37.497039 
+ghost_2046,     holler,        <Channel name: stableronaldo>,       2024-11-07 16:01:46.434202 
+ghost_2046,     go to the hospital,        <Channel name: stableronaldo>,       2024-11-07 16:02:45.096073 

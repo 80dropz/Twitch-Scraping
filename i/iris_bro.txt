@@ -130,3 +130,84 @@
  iris_bro,     !time,        <Channel name: kaicenat>,       2024-11-07 10:18:03.017938 
 
  iris_bro,     wheres rakai,        <Channel name: kaicenat>,       2024-11-07 11:46:22.158946 
+iris_bro,     yo wheres rakai,        <Channel name: kaicenat>,       2024-11-07 15:48:26.674847 
+iris_bro,     rekai,        <Channel name: kaicenat>,       2024-11-07 16:19:09.294558 
+iris_bro,     REKAI THO,        <Channel name: kaicenat>,       2024-11-07 16:19:16.267146 
+iris_bro,     REKAI THO MY BOI,        <Channel name: kaicenat>,       2024-11-07 16:19:39.187291 
+iris_bro,     REKAI,        <Channel name: kaicenat>,       2024-11-07 16:22:48.560424 
+iris_bro,     no,        <Channel name: kaicenat>,       2024-11-07 16:29:47.656262 
+iris_bro,     ni,        <Channel name: kaicenat>,       2024-11-07 16:29:49.429122 
+iris_bro,     no,        <Channel name: kaicenat>,       2024-11-07 16:29:52.500694 
+iris_bro,     5,        <Channel name: kaicenat>,       2024-11-07 16:30:34.063666 
+iris_bro,     yea,        <Channel name: kaicenat>,       2024-11-07 16:30:55.981754 
+iris_bro,     lol,        <Channel name: kaicenat>,       2024-11-07 16:31:17.175148 
+iris_bro,     lool,        <Channel name: kaicenat>,       2024-11-07 16:31:27.461116 
+iris_bro,     3,        <Channel name: kaicenat>,       2024-11-07 16:31:53.890383 
+iris_bro,     do it,        <Channel name: kaicenat>,       2024-11-07 16:33:01.651236 
+iris_bro,     dump it,        <Channel name: kaicenat>,       2024-11-07 16:33:39.928817 
+iris_bro,     ITS GETTING HOT IN HERE SO TAKE OFF ALL YOUR CLOTHES,        <Channel name: kaicenat>,       2024-11-07 16:37:16.174769 
+iris_bro,     thepeachRAVEa thepeachRAVEa thepeachRAVEa thepeachRAVEa thepeachDANCEa thepeachDANCEa thepeachDANCEa thepeachANNOYEDa thepeachANNOYEDa thepeachANNOYEDa thepeachANNOYEDa,        <Channel name: kaicenat>,       2024-11-07 16:38:27.547458 
+iris_bro,     thepeachILYa thepeachILYa thepeachILYa thepeachILYa thepeachILYa thepeachILYa,        <Channel name: kaicenat>,       2024-11-07 16:38:35.146041 
+iris_bro,     thepeachPOGa thepeachPOGa thepeachPOGa thepeachPOGa thepeachPOGa thepeachPOGa thepeachRUNa thepeachWAVEgif thepeachCLOSEUPa thepeachANNOYEDa thepeachYAYa,        <Channel name: kaicenat>,       2024-11-07 16:38:55.767552 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:39:45.903838 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:39:50.999524 
+iris_bro,     RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:03.984030 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:08.176335 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:09.317034 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:11.849450 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:13.330292 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:14.916487 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:16.282029 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:17.643713 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:18.985229 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:24.656664 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:27.394189 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:56.317446 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:58.365630 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:05.168572 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:10.036013 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:11.635917 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:13.890721 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:15.466450 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:17.605849 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:18.788578 
+iris_bro,     V,        <Channel name: kaicenat>,       2024-11-07 16:41:29.824846 
+iris_bro,     VRA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:34.241975 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:35.567323 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:37.096837 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:38.972902 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:43.146533 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:44.941905 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:47.596390 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:51.087034 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:55.667119 
+iris_bro,     RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:57.177829 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:41:58.887002 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:00.416744 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:01.688839 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:03.071072 
+iris_bro,     RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:04.331077 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:05.815408 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:07.689635 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:08.893518 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:10.472733 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:12.348703 
+iris_bro,     RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:14.893880 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:16.223911 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:19.018822 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:20.260872 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:21.648646 
+iris_bro,     RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:23.000998 
+iris_bro,     RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:24.291675 
+iris_bro,     RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:26.933121 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:28.526288 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:30.584688 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:32.291495 
+iris_bro,     RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI RA KAI,        <Channel name: kaicenat>,       2024-11-07 16:42:34.394237 
+iris_bro,     L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:45:46.722068 
+iris_bro,     L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:45:48.484183 
+iris_bro,     L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:45:49.825442 
+iris_bro,     L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:45:52.213739 
+iris_bro,     @christianisfire SHOWERING,        <Channel name: kaicenat>,       2024-11-07 16:49:24.821196 
+iris_bro,     thepeachANNOYEDa thepeachANNOYEDa thepeachANNOYEDa thepeachANNOYEDa thepeachPOGa thepeachPOGa thepeachILYa thepeachILYa thepeachILYa thepeachILYa thepeachILYa thepeachILYa thepeachILYa,        <Channel name: kaicenat>,       2024-11-07 16:50:35.920286 
+iris_bro,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:44.094458 

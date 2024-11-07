@@ -16,3 +16,8 @@
  ffbjoy_3,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 13:28:06.302750 
 
  ffbjoy_3,     POUR IT,        <Channel name: kaicenat>,       2024-11-07 13:34:09.686482 
+ffbjoy_3,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:40.821900 
+ffbjoy_3,     7-8,        <Channel name: kaicenat>,       2024-11-07 16:30:44.633187 
+ffbjoy_3,     no,        <Channel name: kaicenat>,       2024-11-07 16:33:02.718288 
+ffbjoy_3,     you need to wait,        <Channel name: kaicenat>,       2024-11-07 16:33:15.180146 
+ffbjoy_3,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:36:14.941364 

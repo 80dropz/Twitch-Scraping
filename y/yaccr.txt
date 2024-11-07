@@ -1,0 +1,2 @@
+yaccr,     when does cc start ?,        <Channel name: mongraal>,       2024-11-07 16:19:06.955291 
+yaccr,     When is cash cup starting ?,        <Channel name: mongraal>,       2024-11-07 16:19:37.884452 

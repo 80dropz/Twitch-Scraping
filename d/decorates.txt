@@ -36,3 +36,93 @@
  decorates,     !bracket,        <Channel name: adapt>,       2024-11-07 09:18:29.716671 
 
  decorates,     mhm LOCKINN,        <Channel name: adapt>,       2024-11-07 09:18:37.945829 
+
+ decorates,     WW,        <Channel name: adapt>,       2024-11-07 14:42:06.394392 
+
+ decorates,     WW,        <Channel name: adapt>,       2024-11-07 14:42:07.056222 
+
+ decorates,     !bracket,        <Channel name: adapt>,       2024-11-07 14:44:24.375326 
+
+ decorates,     !team,        <Channel name: adapt>,       2024-11-07 14:44:33.090485 
+
+ decorates,     mhm LOCKINN,        <Channel name: adapt>,       2024-11-07 14:44:51.428016 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 14:44:59.909033 
+
+ decorates,     uziDance,        <Channel name: adapt>,       2024-11-07 14:46:53.826253 
+
+ decorates,     @Depxii ofc igy LOCKINN,        <Channel name: adapt>,       2024-11-07 14:50:53.547660 
+
+ decorates,     made cmds already WW FOCUS,        <Channel name: adapt>,       2024-11-07 14:51:36.242721 
+
+ decorates,     !team,        <Channel name: adapt>,       2024-11-07 14:52:08.348542 
+
+ decorates,     !bracket,        <Channel name: adapt>,       2024-11-07 14:52:12.826975 
+
+ decorates,     its early enough to still go back LMFAO,        <Channel name: adapt>,       2024-11-07 14:53:02.246122 
+
+ decorates,     neil ome5,        <Channel name: adapt>,       2024-11-07 15:23:22.894219 
+
+ decorates,     @neilbouje, ome44,        <Channel name: adapt>,       2024-11-07 15:23:53.162928 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:24:03.288086 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:24:06.673162 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:24:07.122919 
+
+ decorates,     LOCKINN,        <Channel name: adapt>,       2024-11-07 15:24:16.319253 
+
+ decorates,     LOCKINN,        <Channel name: adapt>,       2024-11-07 15:24:17.114375 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:25:04.105921 
+
+ decorates,     5v5 SND, 2 SMGS - 2 ARS - 1 SNIPER,        <Channel name: adapt>,       2024-11-07 15:25:47.764529 
+
+ decorates,     WW,        <Channel name: adapt>,       2024-11-07 15:27:14.395515 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:27:36.137347 
+
+ decorates,     WW gifted,        <Channel name: adapt>,       2024-11-07 15:27:38.557751 
+
+ decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:27:41.622134 
+decorates,     dyl ome5,        <Channel name: adapt>,       2024-11-07 15:28:33.477348 
+decorates,     uuh,        <Channel name: adapt>,       2024-11-07 15:28:57.634055 
+decorates,     @sn33z3y, vip him fr,        <Channel name: adapt>,       2024-11-07 15:29:36.297543 
+decorates,     LMFAO,        <Channel name: adapt>,       2024-11-07 15:29:48.635558 
+decorates,     ome18,        <Channel name: adapt>,       2024-11-07 15:30:26.114711 
+decorates,     mhm,        <Channel name: adapt>,       2024-11-07 15:32:08.951820 
+decorates,     feloClap,        <Channel name: adapt>,       2024-11-07 15:33:26.058951 
+decorates,     LOCKINN,        <Channel name: adapt>,       2024-11-07 15:33:57.160574 
+decorates,     WW 5,        <Channel name: adapt>,       2024-11-07 15:34:03.768807 
+decorates,     does he know something we dont uuh,        <Channel name: adapt>,       2024-11-07 15:34:41.083133 
+decorates,     @Depxii, i was thinking nade bc of like the hijacked nade spot but didnt think that was wallbangable LMFAO,        <Channel name: adapt>,       2024-11-07 15:35:27.195832 
+decorates,     @Depxii HUH oh what the flip,        <Channel name: adapt>,       2024-11-07 15:36:04.700727 
+decorates,     @ochoskkii damn wtf Reacting,        <Channel name: adapt>,       2024-11-07 15:36:33.659952 
+decorates,     WW,        <Channel name: adapt>,       2024-11-07 15:41:04.506240 
+decorates,     @itszacccc, ome5,        <Channel name: adapt>,       2024-11-07 15:47:27.990716 
+decorates,     @FaZeApex, RT,        <Channel name: adapt>,       2024-11-07 15:48:06.396981 
+decorates,     WW sub,        <Channel name: adapt>,       2024-11-07 15:48:30.862737 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:42.802789 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:42.979123 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:46.561344 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:48.365831 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:53.399938 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 15:51:54.088344 
+decorates,     ome32,        <Channel name: adapt>,       2024-11-07 15:54:34.079324 
+decorates,     LOCKINN,        <Channel name: adapt>,       2024-11-07 15:54:51.310083 
+decorates,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:54:55.448315 
+decorates,     WW prime,        <Channel name: adapt>,       2024-11-07 15:55:09.618364 
+decorates,     ome5,        <Channel name: adapt>,       2024-11-07 16:03:40.921765 
+decorates,     hiii,        <Channel name: adapt>,       2024-11-07 16:04:02.943811 
+decorates,     mhm,        <Channel name: adapt>,       2024-11-07 16:08:45.711263 
+decorates,     ome5,        <Channel name: adapt>,       2024-11-07 16:12:13.717462 
+decorates,     losers bracket gg,        <Channel name: adapt>,       2024-11-07 16:12:40.039939 
+decorates,     !bracket,        <Channel name: adapt>,       2024-11-07 16:13:18.120600 
+decorates,     ome5,        <Channel name: adapt>,       2024-11-07 16:13:47.402448 
+decorates,     WW 5,        <Channel name: adapt>,       2024-11-07 16:19:38.500913 
+decorates,     RT,        <Channel name: adapt>,       2024-11-07 16:20:12.839936 
+decorates,     hes spitting,        <Channel name: adapt>,       2024-11-07 16:20:30.960436 
+decorates,     ome5,        <Channel name: adapt>,       2024-11-07 16:21:17.946008 
+decorates,     mmm,        <Channel name: adapt>,       2024-11-07 16:22:41.287215 
+decorates,     LMFAO,        <Channel name: adapt>,       2024-11-07 16:23:26.762127 

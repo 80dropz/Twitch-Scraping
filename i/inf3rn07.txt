@@ -1,0 +1,6 @@
+inf3rn07,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:31.777918 
+inf3rn07,     RONNY BOY,        <Channel name: stableronaldo>,       2024-11-07 15:55:52.053593 
+inf3rn07,     ogre2,        <Channel name: stableronaldo>,       2024-11-07 16:14:47.304568 
+inf3rn07,     W HUNGER,        <Channel name: stableronaldo>,       2024-11-07 16:17:31.713593 
+inf3rn07,     Ogre2,        <Channel name: stableronaldo>,       2024-11-07 16:25:20.132065 
+inf3rn07,     mods add ogre2,        <Channel name: stableronaldo>,       2024-11-07 16:25:32.314515 

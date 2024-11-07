@@ -1,0 +1,4 @@
+sgt_harryd,     L STUTTERING,        <Channel name: clix>,       2024-11-07 15:39:07.936233 
+sgt_harryd,     OMG,        <Channel name: clix>,       2024-11-07 15:39:25.556664 
+sgt_harryd,     ironic,        <Channel name: clix>,       2024-11-07 15:59:37.027510 
+sgt_harryd,     jorkin,        <Channel name: clix>,       2024-11-07 16:00:07.898636 

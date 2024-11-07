@@ -50,3 +50,5 @@
  curse_vision,     earthquake,        <Channel name: kaicenat>,       2024-11-07 12:52:30.525117 
 
  curse_vision,     100,        <Channel name: kaicenat>,       2024-11-07 12:56:06.062669 
+
+ curse_vision,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:33.249840 

@@ -1,0 +1,11 @@
+papigomez_phx,     1,        <Channel name: swagg>,       2024-11-07 16:15:46.705139 
+papigomez_phx,     Uno,        <Channel name: swagg>,       2024-11-07 16:16:17.461669 
+papigomez_phx,     one,        <Channel name: swagg>,       2024-11-07 16:16:22.586940 
+papigomez_phx,     11,        <Channel name: swagg>,       2024-11-07 16:16:26.550159 
+papigomez_phx,     111,        <Channel name: swagg>,       2024-11-07 16:16:28.223688 
+papigomez_phx,     1111,        <Channel name: swagg>,       2024-11-07 16:16:30.152900 
+papigomez_phx,     11111,        <Channel name: swagg>,       2024-11-07 16:16:32.179998 
+papigomez_phx,     111111,        <Channel name: swagg>,       2024-11-07 16:16:35.291740 
+papigomez_phx,     1111111111111,        <Channel name: swagg>,       2024-11-07 16:16:39.267757 
+papigomez_phx,     111111111111111111,        <Channel name: swagg>,       2024-11-07 16:16:43.771683 
+papigomez_phx,     w,        <Channel name: swagg>,       2024-11-07 16:55:39.177061 

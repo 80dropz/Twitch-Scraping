@@ -1,2 +1,5 @@
 
  silentzxo,     Yoo graal wsp,        <Channel name: mongraal>,       2024-11-07 11:34:10.035905 
+silentzxo,     !subs,        <Channel name: mongraal>,       2024-11-07 16:33:03.352141 
+silentzxo,     do viewers 1v1,        <Channel name: mongraal>,       2024-11-07 16:36:43.852769 
+silentzxo,     yoo graal do viewers 1v1,        <Channel name: mongraal>,       2024-11-07 16:37:12.526607 

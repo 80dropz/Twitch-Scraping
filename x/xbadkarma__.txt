@@ -1,0 +1,2 @@
+xbadkarma__,     !dpi,        <Channel name: mongraal>,       2024-11-07 16:40:10.735310 
+xbadkarma__,     !sens,        <Channel name: mongraal>,       2024-11-07 16:40:26.902526 

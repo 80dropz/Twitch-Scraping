@@ -1,0 +1,2 @@
+bigtrex36,     ew,        <Channel name: stableronaldo>,       2024-11-07 16:10:33.833382 
+bigtrex36,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:19:14.079880 

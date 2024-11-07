@@ -12,3 +12,13 @@
  rxdicey,     eargasm,        <Channel name: pokelawls>,       2024-11-07 02:43:24.718285 
 
  rxdicey,     Classic,        <Channel name: pokelawls>,       2024-11-07 02:53:46.921205 
+rxdicey,     yes,        <Channel name: pokelawls>,       2024-11-07 15:43:42.968632 
+rxdicey,     thatsCrazy,        <Channel name: pokelawls>,       2024-11-07 15:44:41.058752 
+rxdicey,     Waiting,        <Channel name: pokelawls>,       2024-11-07 15:44:50.279553 
+rxdicey,     Fiddy,        <Channel name: pokelawls>,       2024-11-07 15:45:00.978466 
+rxdicey,     1,        <Channel name: pokelawls>,       2024-11-07 16:44:59.348972 
+rxdicey,     yes,        <Channel name: pokelawls>,       2024-11-07 16:50:37.636387 
+rxdicey,     its right there,        <Channel name: pokelawls>,       2024-11-07 16:51:28.498175 
+rxdicey,     pepeL,        <Channel name: pokelawls>,       2024-11-07 16:52:08.566260 
+rxdicey,     omE,        <Channel name: pokelawls>,       2024-11-07 16:52:22.039441 
+rxdicey,     omE 28,        <Channel name: pokelawls>,       2024-11-07 16:55:27.525997 

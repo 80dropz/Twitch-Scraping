@@ -1,0 +1,9 @@
+
+ pollohfigo,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:26:10.787378 
+
+ pollohfigo,     W WARMUP,        <Channel name: kaicenat>,       2024-11-07 15:26:19.635662 
+
+ pollohfigo,     WW WARMUP,        <Channel name: kaicenat>,       2024-11-07 15:26:39.753152 
+pollohfigo,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 15:28:59.628634 
+pollohfigo,     kaicPrime kaicPrime kaicPrime,        <Channel name: kaicenat>,       2024-11-07 15:29:16.696723 
+pollohfigo,     bad asf form,        <Channel name: kaicenat>,       2024-11-07 15:32:14.544770 

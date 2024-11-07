@@ -1,0 +1,3 @@
+daniele158716,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:35:10.970587 
+daniele158716,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:35:27.916098 
+daniele158716,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:35:41.754973 

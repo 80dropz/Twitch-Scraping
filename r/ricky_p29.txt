@@ -1,0 +1,6 @@
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:38:46.989779 
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:40:15.666476 
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:41:12.717643 
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:41:50.363071 
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:42:51.826251 
+ricky_p29,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:43:23.968914 

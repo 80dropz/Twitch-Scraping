@@ -1,0 +1,4 @@
+quemirasbobo_,     W comms,        <Channel name: adapt>,       2024-11-07 15:33:12.485836 
+quemirasbobo_,     ?,        <Channel name: adapt>,       2024-11-07 15:34:31.516164 
+quemirasbobo_,     WWWWW,        <Channel name: adapt>,       2024-11-07 15:35:00.423897 
+quemirasbobo_,     W salesman,        <Channel name: adapt>,       2024-11-07 15:36:40.142897 

@@ -42,3 +42,7 @@
  zeeintern,     Waley!,        <Channel name: nadeshot>,       2024-11-07 12:56:53.663569 
 
  zeeintern,     W,        <Channel name: nadeshot>,       2024-11-07 12:59:59.225537 
+zeeintern,     t2g,        <Channel name: nadeshot>,       2024-11-07 16:11:40.142618 
+zeeintern,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:41:58.881993 
+zeeintern,     L Simp,        <Channel name: nadeshot>,       2024-11-07 16:42:48.279588 
+zeeintern,     #givemcgowanaraise,        <Channel name: nadeshot>,       2024-11-07 16:50:47.434219 

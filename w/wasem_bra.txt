@@ -1,0 +1,9 @@
+wasem_bra,     WWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:13.613474 
+wasem_bra,     WWWWWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:15.232231 
+wasem_bra,     WWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:16.577819 
+wasem_bra,     WWWWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:18.290349 
+wasem_bra,     WWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:19.392179 
+wasem_bra,     WWWWWWWWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:22.822647 
+wasem_bra,     WWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:24.135519 
+wasem_bra,     WWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:25.419438 
+wasem_bra,     WWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 16:51:26.647906 

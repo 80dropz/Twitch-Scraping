@@ -1,0 +1,6 @@
+odorlando,     phone would get to hot,        <Channel name: kaicenat>,       2024-11-07 16:26:22.747619 
+odorlando,     phone would get hot,        <Channel name: kaicenat>,       2024-11-07 16:26:41.712415 
+odorlando,     noooo,        <Channel name: kaicenat>,       2024-11-07 16:28:11.201938 
+odorlando,     nooo,        <Channel name: kaicenat>,       2024-11-07 16:28:11.232137 
+odorlando,     leave for 10 minutes and come back,        <Channel name: kaicenat>,       2024-11-07 16:28:55.617914 
+odorlando,     no bro,        <Channel name: kaicenat>,       2024-11-07 16:33:01.598996 

@@ -1,0 +1,3 @@
+cartis__burner,     ronald,        <Channel name: stableronaldo>,       2024-11-07 15:55:22.186131 
+cartis__burner,     ronn,        <Channel name: stableronaldo>,       2024-11-07 15:56:35.385166 
+cartis__burner,     wowowow,        <Channel name: stableronaldo>,       2024-11-07 15:56:36.946143 

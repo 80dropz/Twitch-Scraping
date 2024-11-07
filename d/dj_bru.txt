@@ -1,0 +1,2 @@
+dj_bru,     OMEGALUL,        <Channel name: nadeshot>,       2024-11-07 16:19:08.524957 
+dj_bru,     the dog,        <Channel name: nadeshot>,       2024-11-07 16:19:42.570094 

@@ -2,3 +2,8 @@
  isosantino,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:26:03.243934 
 
  isosantino,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:27:20.198327 
+isosantino,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 15:43:56.711736 
+isosantino,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:44:06.187284 
+isosantino,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:44:15.998507 
+isosantino,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 15:44:24.237392 
+isosantino,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:33.267037 

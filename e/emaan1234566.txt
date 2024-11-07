@@ -10,3 +10,13 @@
  emaan1234566,     wwww,        <Channel name: kaicenat>,       2024-11-07 13:24:08.127409 
 
  emaan1234566,     wwww,        <Channel name: kaicenat>,       2024-11-07 13:25:45.780936 
+emaan1234566,     10mims,        <Channel name: kaicenat>,       2024-11-07 16:18:39.829677 
+emaan1234566,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:44.316414 
+emaan1234566,     ues,        <Channel name: kaicenat>,       2024-11-07 16:29:45.537777 
+emaan1234566,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:47.448946 
+emaan1234566,     8,        <Channel name: kaicenat>,       2024-11-07 16:30:40.218881 
+emaan1234566,     yes,        <Channel name: kaicenat>,       2024-11-07 16:30:56.149064 
+emaan1234566,     your good now,        <Channel name: kaicenat>,       2024-11-07 16:35:20.982159 
+emaan1234566,     ur good now,        <Channel name: kaicenat>,       2024-11-07 16:35:28.488399 
+emaan1234566,     your good now,        <Channel name: kaicenat>,       2024-11-07 16:35:33.740326 
+emaan1234566,     put the temperature to 10,        <Channel name: kaicenat>,       2024-11-07 16:37:51.609373 

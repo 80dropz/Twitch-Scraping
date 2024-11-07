@@ -1,0 +1,5 @@
+chippy_843,     1,        <Channel name: swagg>,       2024-11-07 16:16:10.685248 
+chippy_843,     W,        <Channel name: swagg>,       2024-11-07 16:48:08.949364 
+chippy_843,     !hermanmiller,        <Channel name: swagg>,       2024-11-07 16:50:03.799124 
+chippy_843,     W,        <Channel name: swagg>,       2024-11-07 16:54:13.400874 
+chippy_843,     W,        <Channel name: swagg>,       2024-11-07 16:54:54.265385 

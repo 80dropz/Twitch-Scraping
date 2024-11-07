@@ -1,0 +1,9 @@
+jay_simard17,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:28.866702 
+jay_simard17,     WATERFR,        <Channel name: kaicenat>,       2024-11-07 16:45:37.545225 
+jay_simard17,     WATERFRRR,        <Channel name: kaicenat>,       2024-11-07 16:45:40.819952 
+jay_simard17,     WATERR,        <Channel name: kaicenat>,       2024-11-07 16:45:44.671492 
+jay_simard17,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:46.858117 
+jay_simard17,     WATERRRRRRRR,        <Channel name: kaicenat>,       2024-11-07 16:45:50.048811 
+jay_simard17,     PUT MORE,        <Channel name: kaicenat>,       2024-11-07 16:45:52.859885 
+jay_simard17,     MORE WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:55.548732 
+jay_simard17,     MOREEE WATER,        <Channel name: kaicenat>,       2024-11-07 16:46:00.912141 

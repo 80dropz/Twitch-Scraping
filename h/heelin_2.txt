@@ -74,3 +74,96 @@
  heelin_2,     Cap,        <Channel name: kaicenat>,       2024-11-07 02:49:55.165406 
 
  heelin_2,     WW PR,        <Channel name: kaicenat>,       2024-11-07 02:50:07.113764 
+heelin_2,     YES ta,        <Channel name: stableronaldo>,       2024-11-07 16:03:26.428317 
+heelin_2,     TAWAY ta,        <Channel name: stableronaldo>,       2024-11-07 16:03:31.167132 
+heelin_2,     10 views,        <Channel name: stableronaldo>,       2024-11-07 16:03:36.449760 
+heelin_2,     No like 10 views,        <Channel name: stableronaldo>,       2024-11-07 16:03:45.714987 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:03:49.222237 
+heelin_2,     LOL,        <Channel name: stableronaldo>,       2024-11-07 16:03:53.747216 
+heelin_2,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:04:14.043635 
+heelin_2,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:30.857727 
+heelin_2,     xD,        <Channel name: stableronaldo>,       2024-11-07 16:04:35.847825 
+heelin_2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:05:08.460095 
+heelin_2,     Me,        <Channel name: stableronaldo>,       2024-11-07 16:05:10.964701 
+heelin_2,     Shiza,        <Channel name: stableronaldo>,       2024-11-07 16:05:23.255218 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:05:40.306469 
+heelin_2,     Cringe...,        <Channel name: stableronaldo>,       2024-11-07 16:05:46.324398 
+heelin_2,     Sum ppl not real....,        <Channel name: stableronaldo>,       2024-11-07 16:05:54.571384 
+heelin_2,     ma,        <Channel name: stableronaldo>,       2024-11-07 16:06:17.377399 
+heelin_2,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:06.517055 
+heelin_2,     Me,        <Channel name: stableronaldo>,       2024-11-07 16:09:54.535053 
+heelin_2,     Ur actually chopped SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:10:32.430542 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:10:39.212492 
+heelin_2,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:10:47.219345 
+heelin_2,     autist,        <Channel name: stableronaldo>,       2024-11-07 16:10:57.275004 
+heelin_2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:11:05.040757 
+heelin_2,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:08.295628 
+heelin_2,     AYY,        <Channel name: stableronaldo>,       2024-11-07 16:11:13.076629 
+heelin_2,     emo AYY,        <Channel name: stableronaldo>,       2024-11-07 16:11:17.843586 
+heelin_2,     NEARRRRR,        <Channel name: stableronaldo>,       2024-11-07 16:11:25.871722 
+heelin_2,     FEARRR,        <Channel name: stableronaldo>,       2024-11-07 16:11:29.862356 
+heelin_2,     GLUEEEEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:11:41.915349 
+heelin_2,     FOOL,        <Channel name: stableronaldo>,       2024-11-07 16:11:45.678443 
+heelin_2,     TIMEEEEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:11:58.234826 
+heelin_2,     REWIND,        <Channel name: stableronaldo>,       2024-11-07 16:12:03.996660 
+heelin_2,     YOU AND IIIII,        <Channel name: stableronaldo>,       2024-11-07 16:12:08.252191 
+heelin_2,     Friends,        <Channel name: stableronaldo>,       2024-11-07 16:12:12.762372 
+heelin_2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:12:18.532561 
+heelin_2,     LIKE THIS,        <Channel name: stableronaldo>,       2024-11-07 16:12:28.350794 
+heelin_2,     GLUEEEEEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:12:51.680092 
+heelin_2,     MINEE,        <Channel name: stableronaldo>,       2024-11-07 16:13:04.982611 
+heelin_2,     TIMEEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:13:08.460548 
+heelin_2,     YOU AND I,        <Channel name: stableronaldo>,       2024-11-07 16:13:18.999665 
+heelin_2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:13:29.534772 
+heelin_2,     Capping,        <Channel name: stableronaldo>,       2024-11-07 16:14:13.437235 
+heelin_2,     WHY DO YOU LOOK LIKE THIS????,        <Channel name: stableronaldo>,       2024-11-07 16:14:29.217800 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:14:37.750854 
+heelin_2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:41.983596 
+heelin_2,     Insane PR,        <Channel name: stableronaldo>,       2024-11-07 16:14:57.301174 
+heelin_2,     EW,        <Channel name: stableronaldo>,       2024-11-07 16:15:17.393015 
+heelin_2,     Lacy variant,        <Channel name: stableronaldo>,       2024-11-07 16:15:37.437737 
+heelin_2,     THAT'S LACYS BROTHER,        <Channel name: stableronaldo>,       2024-11-07 16:15:44.271893 
+heelin_2,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:15:55.771327 
+heelin_2,     Jesus...,        <Channel name: stableronaldo>,       2024-11-07 16:15:59.291916 
+heelin_2,     cringe .....,        <Channel name: stableronaldo>,       2024-11-07 16:16:06.553649 
+heelin_2,     rt OMG YESS,        <Channel name: stableronaldo>,       2024-11-07 16:16:18.126746 
+heelin_2,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:16:20.105784 
+heelin_2,     WEDIDIT,        <Channel name: stableronaldo>,       2024-11-07 16:16:31.200147 
+heelin_2,     FINALLY,        <Channel name: stableronaldo>,       2024-11-07 16:16:34.457817 
+heelin_2,     WWWW RIZZ HER NICELY PLS,        <Channel name: stableronaldo>,       2024-11-07 16:16:42.973704 
+heelin_2,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:08.296765 
+heelin_2,     POV: WATCHING A STABLE STREAM,        <Channel name: stableronaldo>,       2024-11-07 16:17:32.388765 
+heelin_2,     Yes it's ggs,        <Channel name: stableronaldo>,       2024-11-07 16:18:10.513219 
+heelin_2,     SAY YES U ASSHOLE,        <Channel name: stableronaldo>,       2024-11-07 16:18:49.878150 
+heelin_2,     SAY YES U ASSHOLE  .,        <Channel name: stableronaldo>,       2024-11-07 16:18:55.407221 
+heelin_2,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:05.700245 
+heelin_2,     YES DO IT,        <Channel name: stableronaldo>,       2024-11-07 16:19:12.214898 
+heelin_2,     U HAVE TO DO IT THAT'S YOUUU,        <Channel name: stableronaldo>,       2024-11-07 16:19:20.484167 
+heelin_2,     U HAVE TO DO IT THAT'S YOUUU .,        <Channel name: stableronaldo>,       2024-11-07 16:19:24.761354 
+heelin_2,     U HAVE TO DO IT THAT'S YOUUU,        <Channel name: stableronaldo>,       2024-11-07 16:19:28.508369 
+heelin_2,     YESSSSS,        <Channel name: stableronaldo>,       2024-11-07 16:20:00.372988 
+heelin_2,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:20:09.415330 
+heelin_2,     Ludwig AURA,        <Channel name: stableronaldo>,       2024-11-07 16:20:16.455221 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:20:24.712403 
+heelin_2,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:28.963927 
+heelin_2,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:21:02.330412 
+heelin_2,     lil dood,        <Channel name: stableronaldo>,       2024-11-07 16:21:10.352873 
+heelin_2,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:13.371139 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:21:22.917151 
+heelin_2,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:32.178584 
+heelin_2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:03.278472 
+heelin_2,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:16.095012 
+heelin_2,     LOL,        <Channel name: stableronaldo>,       2024-11-07 16:22:59.752591 
+heelin_2,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:43.662570 
+heelin_2,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:00.700396 
+heelin_2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:24:23.289656 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:24:33.059939 
+heelin_2,     omeScrajj,        <Channel name: stableronaldo>,       2024-11-07 16:24:38.604710 
+heelin_2,     AYY,        <Channel name: stableronaldo>,       2024-11-07 16:24:47.622273 
+heelin_2,     ogre2,        <Channel name: stableronaldo>,       2024-11-07 16:25:09.952907 
+heelin_2,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:25:40.335939 
+heelin_2,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:25:48.871864 
+heelin_2,     ME (I wasn't),        <Channel name: stableronaldo>,       2024-11-07 16:26:05.185836 
+heelin_2,     No,        <Channel name: stableronaldo>,       2024-11-07 16:26:18.728751 
+heelin_2,     No are u sped,        <Channel name: stableronaldo>,       2024-11-07 16:26:35.294527 
+heelin_2,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:26:43.437692 

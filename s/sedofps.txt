@@ -1,0 +1,2 @@
+sedofps,     retire all of them,        <Channel name: clix>,       2024-11-07 16:12:53.631972 
+sedofps,     would,        <Channel name: clix>,       2024-11-07 16:13:55.854856 

@@ -4,3 +4,7 @@
  niclasfnn,     ye,        <Channel name: mongraal>,       2024-11-07 11:39:39.665906 
 
  niclasfnn,     444 pts,        <Channel name: mongraal>,       2024-11-07 11:41:59.999157 
+niclasfnn,     wsg egg clix,        <Channel name: clix>,       2024-11-07 16:07:34.206988 
+niclasfnn,     ahahah,        <Channel name: clix>,       2024-11-07 16:08:01.101086 
+niclasfnn,     uh,        <Channel name: clix>,       2024-11-07 16:08:12.616120 
+niclasfnn,     AHAAHAHA,        <Channel name: mongraal>,       2024-11-07 16:22:15.192483 

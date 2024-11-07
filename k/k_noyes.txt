@@ -24,3 +24,40 @@
  k_noyes,     LMAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 11:19:50.054943 
 
  k_noyes,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 11:20:18.233689 
+k_noyes,     GYATTTTTT,        <Channel name: kaicenat>,       2024-11-07 16:07:00.955420 
+k_noyes,     LOCK INNNNN,        <Channel name: kaicenat>,       2024-11-07 16:07:53.927385 
+k_noyes,     LOCK IN KAI,        <Channel name: kaicenat>,       2024-11-07 16:14:35.715923 
+k_noyes,     IS THAT BRON???,        <Channel name: kaicenat>,       2024-11-07 16:14:45.456717 
+k_noyes,     GO KAI,        <Channel name: kaicenat>,       2024-11-07 16:15:40.807960 
+k_noyes,     GOOD JOB KAI,        <Channel name: kaicenat>,       2024-11-07 16:16:05.741104 
+k_noyes,     GOOD IDEA,        <Channel name: kaicenat>,       2024-11-07 16:17:28.063251 
+k_noyes,     FAX,        <Channel name: kaicenat>,       2024-11-07 16:17:53.971883 
+k_noyes,     GO SHOWER,        <Channel name: kaicenat>,       2024-11-07 16:18:05.468235 
+k_noyes,     BRO STARTING THE DAY AT 1:30,        <Channel name: kaicenat>,       2024-11-07 16:18:36.253341 
+k_noyes,     20 MIN,        <Channel name: kaicenat>,       2024-11-07 16:18:42.235368 
+k_noyes,     STRETCH FIRST,        <Channel name: kaicenat>,       2024-11-07 16:18:48.658371 
+k_noyes,     YOU NEED TO STRETCH,        <Channel name: kaicenat>,       2024-11-07 16:19:05.045205 
+k_noyes,     NAKEY SAUNA TIME,        <Channel name: kaicenat>,       2024-11-07 16:19:32.518992 
+k_noyes,     COLD PLUNGE AFTER SAUNA,        <Channel name: kaicenat>,       2024-11-07 16:20:23.458497 
+k_noyes,     ITS YOU,        <Channel name: kaicenat>,       2024-11-07 16:21:03.698395 
+k_noyes,     YES,        <Channel name: kaicenat>,       2024-11-07 16:21:43.632094 
+k_noyes,     POOL PARTY,        <Channel name: kaicenat>,       2024-11-07 16:22:12.367260 
+k_noyes,     POOL PARTY WITH DIDDY,        <Channel name: kaicenat>,       2024-11-07 16:23:02.365436 
+k_noyes,     PUT SANDALS ON,        <Channel name: kaicenat>,       2024-11-07 16:25:10.311282 
+k_noyes,     GET INTO SWIM SUIT,        <Channel name: kaicenat>,       2024-11-07 16:25:34.224591 
+k_noyes,     SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:49.501729 
+k_noyes,     TAKE YO DAMN SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:53.907338 
+k_noyes,     ELECTRONICS WILL OVERHEAT,        <Channel name: kaicenat>,       2024-11-07 16:26:22.303710 
+k_noyes,     TAKE YOUR SHOES OFF MAN,        <Channel name: kaicenat>,       2024-11-07 16:26:29.970754 
+k_noyes,     GET INTO A SWIM SUITE,        <Channel name: kaicenat>,       2024-11-07 16:26:38.526786 
+k_noyes,     GET INTO A SWIM SUIT,        <Channel name: kaicenat>,       2024-11-07 16:26:42.942350 
+k_noyes,     GET INTO A SWIM SUIT,        <Channel name: kaicenat>,       2024-11-07 16:28:11.262471 
+k_noyes,     WAIT FOR IT TO HEAT,        <Channel name: kaicenat>,       2024-11-07 16:28:16.773648 
+k_noyes,     WAIT TILL IT HOT,        <Channel name: kaicenat>,       2024-11-07 16:28:21.580158 
+k_noyes,     NOT YET,        <Channel name: kaicenat>,       2024-11-07 16:28:25.384041 
+k_noyes,     IT ISNT HOT YET,        <Channel name: kaicenat>,       2024-11-07 16:28:28.671709 
+k_noyes,     CHANGE INTO SWIM SUIT,        <Channel name: kaicenat>,       2024-11-07 16:28:35.749646 
+k_noyes,     GET NAKED AND WEAR TOWEL AROUND WAIST,        <Channel name: kaicenat>,       2024-11-07 16:29:01.349147 
+k_noyes,     TAKE SHORTS OFF,        <Channel name: kaicenat>,       2024-11-07 16:29:38.605292 
+k_noyes,     take shorts off,        <Channel name: kaicenat>,       2024-11-07 16:32:23.043990 
+k_noyes,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:52.222803 

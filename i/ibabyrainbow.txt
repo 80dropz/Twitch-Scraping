@@ -4,3 +4,53 @@
  ibabyrainbow,     Successfully stopped the stream,        <Channel name: ibabyrainbow>,       2024-11-07 02:17:02.822619 
 
  ibabyrainbow,     Successfully started the stream,        <Channel name: ibabyrainbow>,       2024-11-07 11:39:37.410017 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 106, 1245 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:28:33.464239 
+ibabyrainbow,     fdrx3000: 850, 281 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:28:33.536634 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 478, 183 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:28:33.536634 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:28:33.588338 
+ibabyrainbow,     No connection :(,        <Channel name: ibabyrainbow>,       2024-11-07 15:28:43.307754 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 1508, 147 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:29:10.726530 
+ibabyrainbow,     fdrx3000: 711, 145 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:29:33.255314 
+ibabyrainbow,     fdrx3000: 3453, 96 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:30:04.250471 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:30:39.749517 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 180, 116 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:30:46.030723 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 340, 1082 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:30:52.114359 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 733, 111 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:31:01.762360 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:31:15.959442 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 180, 1085 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:31:22.306432 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 1062, 130 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:31:39.177670 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 148, 1491 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:32:22.631551 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 733, 108 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:32:40.728648 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:32:59.745943 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 1264, 759 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:33:15.850260 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:33:28.769013 
+ibabyrainbow,     No connection :(,        <Channel name: ibabyrainbow>,       2024-11-07 15:34:16.772080 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 382, 102 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:34:26.078793 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 701, 1325 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:34:34.502692 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 446, 101 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:34:41.777696 
+ibabyrainbow,     fdrx3000: 499, 98 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:35:22.090859 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:39:42.126159 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 170, 3 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:46:50.412631 
+ibabyrainbow,     fdrx3000: 935, 654 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:47:17.977643 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:47:42.067914 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 2040, 211 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:51:27.088190 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 15:54:33.948158 
+ibabyrainbow,     !b,        <Channel name: ibabyrainbow>,       2024-11-07 15:54:42.705610 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 850, 139 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:54:42.788354 
+ibabyrainbow,     fdrx3000: 850, 139 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:54:43.051542 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 116, 1142 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:54:58.460480 
+ibabyrainbow,     fdrx3000: 371, 1430 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:54:59.980241 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 1200, 102 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:55:10.562095 
+ibabyrainbow,     Scene switched to "low" | fdrx3000: 106, 1554 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:58:12.962517 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 573, 107 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:58:21.343537 
+ibabyrainbow,     !b,        <Channel name: ibabyrainbow>,       2024-11-07 15:58:28.437753 
+ibabyrainbow,     fdrx3000: 1583, 103 ms,        <Channel name: ibabyrainbow>,       2024-11-07 15:58:28.773616 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 16:03:49.423108 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 701, 3 ms,        <Channel name: ibabyrainbow>,       2024-11-07 16:05:13.139835 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 860, 862 ms,        <Channel name: ibabyrainbow>,       2024-11-07 16:05:17.936079 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 16:05:33.414228 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 3304, 92 ms,        <Channel name: ibabyrainbow>,       2024-11-07 16:08:44.623361 
+ibabyrainbow,     Scene switched to "clips",        <Channel name: ibabyrainbow>,       2024-11-07 16:21:00.248228 
+ibabyrainbow,     No connection :(,        <Channel name: ibabyrainbow>,       2024-11-07 16:22:04.675124 
+ibabyrainbow,     Scene switched to "live" | fdrx3000: 393, 3 ms,        <Channel name: ibabyrainbow>,       2024-11-07 16:22:31.240446 
+ibabyrainbow,     fdrx3000: 4175, 134 ms,        <Channel name: ibabyrainbow>,       2024-11-07 16:24:45.481538 

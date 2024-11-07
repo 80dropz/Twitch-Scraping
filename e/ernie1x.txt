@@ -1,0 +1,15 @@
+ernie1x,     uuh uuh,        <Channel name: stableronaldo>,       2024-11-07 16:24:09.221391 
+ernie1x,     TAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:35.748555 
+ernie1x,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:54.578494 
+ernie1x,     HAH RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:59.186633 
+ernie1x,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:04.805241 
+ernie1x,     IG,        <Channel name: stableronaldo>,       2024-11-07 16:25:15.355389 
+ernie1x,     HUH,        <Channel name: stableronaldo>,       2024-11-07 16:25:26.055418 
+ernie1x,     ????,        <Channel name: stableronaldo>,       2024-11-07 16:25:28.034177 
+ernie1x,     BIG PANTS TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:25:43.567762 
+ernie1x,     Im ronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:25:47.404413 
+ernie1x,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:25:57.829793 
+ernie1x,     MEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:26:00.121775 
+ernie1x,     HELL NAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:21.464734 
+ernie1x,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:26:28.583003 
+ernie1x,     TODAY,        <Channel name: stableronaldo>,       2024-11-07 16:26:37.942736 

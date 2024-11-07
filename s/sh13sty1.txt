@@ -1,0 +1,2 @@
+sh13sty1,     close the door,        <Channel name: kaicenat>,       2024-11-07 16:40:45.109649 
+sh13sty1,     close the door,        <Channel name: kaicenat>,       2024-11-07 16:41:28.846796 

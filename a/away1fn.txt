@@ -1,0 +1,14 @@
+
+ away1fn,     ???????????,        <Channel name: lacy>,       2024-11-07 14:46:13.315608 
+
+ away1fn,     ??????,        <Channel name: lacy>,       2024-11-07 14:46:49.980112 
+
+ away1fn,     ???????????,        <Channel name: lacy>,       2024-11-07 14:47:00.625743 
+
+ away1fn,     ??????????,        <Channel name: lacy>,       2024-11-07 14:47:11.505516 
+
+ away1fn,     ????????,        <Channel name: lacy>,       2024-11-07 14:47:33.803831 
+
+ away1fn,     aya,        <Channel name: lacy>,       2024-11-07 14:47:39.312470 
+
+ away1fn,     no,        <Channel name: lacy>,       2024-11-07 15:23:22.941595 

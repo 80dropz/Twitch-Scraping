@@ -1,0 +1,7 @@
+prestoncardi,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:35.425791 
+prestoncardi,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:58:47.774138 
+prestoncardi,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:13.402606 
+prestoncardi,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:58.492193 
+prestoncardi,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:55.198390 
+prestoncardi,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:54.189475 
+prestoncardi,     yea,        <Channel name: stableronaldo>,       2024-11-07 16:26:21.668441 

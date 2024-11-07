@@ -1,0 +1,5 @@
+maffy_ml,     w production,        <Channel name: kaicenat>,       2024-11-07 16:24:23.648184 
+maffy_ml,     yes,        <Channel name: kaicenat>,       2024-11-07 16:26:10.539769 
+maffy_ml,     ur rich,        <Channel name: kaicenat>,       2024-11-07 16:26:32.289727 
+maffy_ml,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:42.245563 
+maffy_ml,     5-6,        <Channel name: kaicenat>,       2024-11-07 16:30:30.952301 

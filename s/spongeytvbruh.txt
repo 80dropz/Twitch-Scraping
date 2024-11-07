@@ -2,3 +2,7 @@
  spongeytvbruh,     EDM,        <Channel name: plaqueboymax>,       2024-11-07 01:59:21.835237 
 
  spongeytvbruh,     E D M,        <Channel name: plaqueboymax>,       2024-11-07 01:59:41.580446 
+spongeytvbruh,     !bracket,        <Channel name: adapt>,       2024-11-07 16:06:50.040416 
+spongeytvbruh,     !jackal,        <Channel name: nadeshot>,       2024-11-07 16:10:14.263863 
+spongeytvbruh,     !class,        <Channel name: nadeshot>,       2024-11-07 16:10:19.527311 
+spongeytvbruh,     what does mr nade got equipped on that thang,        <Channel name: nadeshot>,       2024-11-07 16:10:32.124691 

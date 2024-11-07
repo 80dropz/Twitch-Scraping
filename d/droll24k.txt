@@ -4,3 +4,10 @@
  droll24k,     LMAOOO,        <Channel name: kaicenat>,       2024-11-07 13:26:54.481487 
 
  droll24k,     RAT,        <Channel name: kaicenat>,       2024-11-07 13:33:54.506603 
+
+ droll24k,     LMAO CMB,        <Channel name: lacy>,       2024-11-07 15:26:28.633183 
+
+ droll24k,     LMAO,        <Channel name: lacy>,       2024-11-07 15:27:25.265558 
+
+ droll24k,     LMAOOOOO,        <Channel name: lacy>,       2024-11-07 15:27:37.436334 
+droll24k,     lmaoooo,        <Channel name: lacy>,       2024-11-07 15:30:47.816820 

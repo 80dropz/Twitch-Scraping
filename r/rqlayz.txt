@@ -1,0 +1,4 @@
+rqlayz,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.613384 
+rqlayz,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:19:12.076268 
+rqlayz,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:38.350249 
+rqlayz,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:20:26.550118 

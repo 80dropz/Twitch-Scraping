@@ -1,0 +1,4 @@
+yunggomu,     selling,        <Channel name: adapt>,       2024-11-07 15:29:02.775700 
+yunggomu,     SELLING,        <Channel name: adapt>,       2024-11-07 15:41:27.308169 
+yunggomu,     100%,        <Channel name: adapt>,       2024-11-07 15:42:30.097337 
+yunggomu,     rt rt rt,        <Channel name: adapt>,       2024-11-07 15:46:16.173439 

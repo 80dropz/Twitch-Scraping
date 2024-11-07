@@ -1,0 +1,65 @@
+dtaylormadegang1022,     88888,        <Channel name: kaicenat>,       2024-11-07 16:30:41.343749 
+dtaylormadegang1022,     888,        <Channel name: kaicenat>,       2024-11-07 16:30:46.374862 
+dtaylormadegang1022,     8,        <Channel name: kaicenat>,       2024-11-07 16:30:49.482200 
+dtaylormadegang1022,     good,        <Channel name: kaicenat>,       2024-11-07 16:30:56.844041 
+dtaylormadegang1022,     throw water on coil,        <Channel name: kaicenat>,       2024-11-07 16:31:03.194772 
+dtaylormadegang1022,     throw water,        <Channel name: kaicenat>,       2024-11-07 16:31:11.784028 
+dtaylormadegang1022,     it’s ready,        <Channel name: kaicenat>,       2024-11-07 16:31:19.258240 
+dtaylormadegang1022,     need water,        <Channel name: kaicenat>,       2024-11-07 16:31:21.483113 
+dtaylormadegang1022,     yes,        <Channel name: kaicenat>,       2024-11-07 16:31:24.339726 
+dtaylormadegang1022,     water,        <Channel name: kaicenat>,       2024-11-07 16:31:26.573011 
+dtaylormadegang1022,     water it,        <Channel name: kaicenat>,       2024-11-07 16:31:36.156729 
+dtaylormadegang1022,     you will see,        <Channel name: kaicenat>,       2024-11-07 16:31:54.487895 
+dtaylormadegang1022,     do a scoop,        <Channel name: kaicenat>,       2024-11-07 16:31:58.835904 
+dtaylormadegang1022,     you will see,        <Channel name: kaicenat>,       2024-11-07 16:32:03.227086 
+dtaylormadegang1022,     not too bad,        <Channel name: kaicenat>,       2024-11-07 16:32:07.520050 
+dtaylormadegang1022,     just do what you like,        <Channel name: kaicenat>,       2024-11-07 16:32:14.902147 
+dtaylormadegang1022,     is it getting hot ?,        <Channel name: kaicenat>,       2024-11-07 16:32:38.421080 
+dtaylormadegang1022,     dump it,        <Channel name: kaicenat>,       2024-11-07 16:33:02.100023 
+dtaylormadegang1022,     yeah,        <Channel name: kaicenat>,       2024-11-07 16:33:05.389862 
+dtaylormadegang1022,     more water the more heat,        <Channel name: kaicenat>,       2024-11-07 16:33:15.552066 
+dtaylormadegang1022,     yeah more water,        <Channel name: kaicenat>,       2024-11-07 16:33:23.883959 
+dtaylormadegang1022,     get it hot hot,        <Channel name: kaicenat>,       2024-11-07 16:33:32.282065 
+dtaylormadegang1022,     where it’s hot,        <Channel name: kaicenat>,       2024-11-07 16:33:36.905809 
+dtaylormadegang1022,     more water,        <Channel name: kaicenat>,       2024-11-07 16:33:41.246714 
+dtaylormadegang1022,     more more,        <Channel name: kaicenat>,       2024-11-07 16:33:50.371146 
+dtaylormadegang1022,     you will feel it,        <Channel name: kaicenat>,       2024-11-07 16:33:55.200277 
+dtaylormadegang1022,     you will be cool,        <Channel name: kaicenat>,       2024-11-07 16:34:01.046865 
+dtaylormadegang1022,     it has a water outlet,        <Channel name: kaicenat>,       2024-11-07 16:34:47.242594 
+dtaylormadegang1022,     bro you are good,        <Channel name: kaicenat>,       2024-11-07 16:35:11.397971 
+dtaylormadegang1022,     you will see it get hot,        <Channel name: kaicenat>,       2024-11-07 16:35:21.887230 
+dtaylormadegang1022,     more water,        <Channel name: kaicenat>,       2024-11-07 16:35:24.428198 
+dtaylormadegang1022,     naw is it getting hot,        <Channel name: kaicenat>,       2024-11-07 16:35:46.760379 
+dtaylormadegang1022,     no water no heat,        <Channel name: kaicenat>,       2024-11-07 16:35:51.854429 
+dtaylormadegang1022,     fyi,        <Channel name: kaicenat>,       2024-11-07 16:35:54.115016 
+dtaylormadegang1022,     water makes it hot and steam,        <Channel name: kaicenat>,       2024-11-07 16:36:01.828813 
+dtaylormadegang1022,     won’t heat without water,        <Channel name: kaicenat>,       2024-11-07 16:39:57.746913 
+dtaylormadegang1022,     heat,        <Channel name: kaicenat>,       2024-11-07 16:40:05.119591 
+dtaylormadegang1022,     no water no heat,        <Channel name: kaicenat>,       2024-11-07 16:40:11.956507 
+dtaylormadegang1022,     yeah there you go,        <Channel name: kaicenat>,       2024-11-07 16:40:44.611522 
+dtaylormadegang1022,     more whater,        <Channel name: kaicenat>,       2024-11-07 16:43:40.911800 
+dtaylormadegang1022,     more water,        <Channel name: kaicenat>,       2024-11-07 16:43:44.426885 
+dtaylormadegang1022,     the door open so,        <Channel name: kaicenat>,       2024-11-07 16:43:49.000027 
+dtaylormadegang1022,     losing a lot,        <Channel name: kaicenat>,       2024-11-07 16:43:55.314848 
+dtaylormadegang1022,     more water,        <Channel name: kaicenat>,       2024-11-07 16:43:58.155659 
+dtaylormadegang1022,     more you letting a lot out,        <Channel name: kaicenat>,       2024-11-07 16:44:03.285625 
+dtaylormadegang1022,     need water,        <Channel name: kaicenat>,       2024-11-07 16:44:05.270177 
+dtaylormadegang1022,     what’s the temp say,        <Channel name: kaicenat>,       2024-11-07 16:44:09.371656 
+dtaylormadegang1022,     we hear from cam mic all good,        <Channel name: kaicenat>,       2024-11-07 16:44:39.086798 
+dtaylormadegang1022,     it’s cool tho,        <Channel name: kaicenat>,       2024-11-07 16:44:53.329042 
+dtaylormadegang1022,     more water,        <Channel name: kaicenat>,       2024-11-07 16:44:58.158972 
+dtaylormadegang1022,     no,        <Channel name: kaicenat>,       2024-11-07 16:45:05.497157 
+dtaylormadegang1022,     true,        <Channel name: kaicenat>,       2024-11-07 16:45:15.415797 
+dtaylormadegang1022,     you need to drink water,        <Channel name: kaicenat>,       2024-11-07 16:45:44.571247 
+dtaylormadegang1022,     drink water,        <Channel name: kaicenat>,       2024-11-07 16:45:47.981911 
+dtaylormadegang1022,     get out,        <Channel name: kaicenat>,       2024-11-07 16:50:40.400250 
+dtaylormadegang1022,     if you ain’t adding water,        <Channel name: kaicenat>,       2024-11-07 16:50:48.513593 
+dtaylormadegang1022,     get out,        <Channel name: kaicenat>,       2024-11-07 16:50:51.383541 
+dtaylormadegang1022,     no more water just dip,        <Channel name: kaicenat>,       2024-11-07 16:50:57.486179 
+dtaylormadegang1022,     double dip out,        <Channel name: kaicenat>,       2024-11-07 16:51:04.789415 
+dtaylormadegang1022,     get out,        <Channel name: kaicenat>,       2024-11-07 16:51:36.889637 
+dtaylormadegang1022,     add water or out,        <Channel name: kaicenat>,       2024-11-07 16:51:55.744815 
+dtaylormadegang1022,     add water,        <Channel name: kaicenat>,       2024-11-07 16:52:00.287456 
+dtaylormadegang1022,     add a lot,        <Channel name: kaicenat>,       2024-11-07 16:52:03.628121 
+dtaylormadegang1022,     water,        <Channel name: kaicenat>,       2024-11-07 16:52:06.397918 
+dtaylormadegang1022,     drink water,        <Channel name: kaicenat>,       2024-11-07 16:54:52.417447 

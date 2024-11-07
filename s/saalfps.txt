@@ -10,3 +10,21 @@
  saalfps,     free MILES,        <Channel name: kaicenat>,       2024-11-07 11:33:52.723300 
 
  saalfps,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 11:34:04.380581 
+saalfps,     NANA NANA,        <Channel name: kaicenat>,       2024-11-07 16:00:30.974551 
+saalfps,     NANAN NANA,        <Channel name: kaicenat>,       2024-11-07 16:00:34.238783 
+saalfps,     NO,        <Channel name: kaicenat>,       2024-11-07 16:25:58.837626 
+saalfps,     NO PHONE,        <Channel name: kaicenat>,       2024-11-07 16:26:23.435006 
+saalfps,     relax,        <Channel name: kaicenat>,       2024-11-07 16:32:58.938857 
+saalfps,     RELAX,        <Channel name: kaicenat>,       2024-11-07 16:33:02.299946 
+saalfps,     NO,        <Channel name: kaicenat>,       2024-11-07 16:33:29.235046 
+saalfps,     WAIT,        <Channel name: kaicenat>,       2024-11-07 16:33:31.132125 
+saalfps,     just wait bro,        <Channel name: kaicenat>,       2024-11-07 16:33:37.851315 
+saalfps,     don't push to much,        <Channel name: kaicenat>,       2024-11-07 16:33:42.844343 
+saalfps,     wait,        <Channel name: kaicenat>,       2024-11-07 16:33:49.512492 
+saalfps,     WAI,        <Channel name: kaicenat>,       2024-11-07 16:33:52.823856 
+saalfps,     @KaiCenat wait,        <Channel name: kaicenat>,       2024-11-07 16:33:58.035080 
+saalfps,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:18.464492 
+saalfps,     wait nigga,        <Channel name: kaicenat>,       2024-11-07 16:35:42.756113 
+saalfps,     wait bro,        <Channel name: kaicenat>,       2024-11-07 16:37:39.162282 
+saalfps,     TURN OFF AND GO OFF,        <Channel name: kaicenat>,       2024-11-07 16:38:04.528927 
+saalfps,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:45:32.050991 

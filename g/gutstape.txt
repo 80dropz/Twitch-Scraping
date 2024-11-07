@@ -28,3 +28,38 @@
  gutstape,     exactly,        <Channel name: clix>,       2024-11-07 13:06:36.114974 
 
  gutstape,     NOWAY,        <Channel name: clix>,       2024-11-07 13:36:13.751100 
+gutstape,     wtf up with cam,        <Channel name: clix>,       2024-11-07 15:34:46.112131 
+gutstape,     BOOBA,        <Channel name: clix>,       2024-11-07 15:39:27.593114 
+gutstape,     the gif NOWAY,        <Channel name: clix>,       2024-11-07 15:42:40.735830 
+gutstape,     GULP,        <Channel name: clix>,       2024-11-07 15:42:44.408580 
+gutstape,     uuh,        <Channel name: clix>,       2024-11-07 15:42:46.985714 
+gutstape,     bock,        <Channel name: clix>,       2024-11-07 15:43:08.858556 
+gutstape,     we bock,        <Channel name: clix>,       2024-11-07 15:43:11.624308 
+gutstape,     lebronJAM,        <Channel name: clix>,       2024-11-07 15:45:56.474518 
+gutstape,     okahoma,        <Channel name: clix>,       2024-11-07 15:46:59.272674 
+gutstape,     oklahoma,        <Channel name: clix>,       2024-11-07 15:47:01.628094 
+gutstape,     Colorado is high ping,        <Channel name: clix>,       2024-11-07 15:47:17.401644 
+gutstape,     35,        <Channel name: clix>,       2024-11-07 15:47:33.965801 
+gutstape,     20-40,        <Channel name: clix>,       2024-11-07 15:47:55.730702 
+gutstape,     well well well,        <Channel name: clix>,       2024-11-07 15:48:12.735411 
+gutstape,     are u ed,        <Channel name: clix>,       2024-11-07 15:48:33.884819 
+gutstape,     OMEGALUL,        <Channel name: clix>,       2024-11-07 15:48:41.010581 
+gutstape,     aura,        <Channel name: clix>,       2024-11-07 15:50:20.933842 
+gutstape,     AURA,        <Channel name: clix>,       2024-11-07 15:50:37.947143 
+gutstape,     2 10,        <Channel name: clix>,       2024-11-07 15:53:11.776346 
+gutstape,     its 2 10,        <Channel name: clix>,       2024-11-07 15:53:15.341356 
+gutstape,     2:10,        <Channel name: clix>,       2024-11-07 15:53:22.110288 
+gutstape,     2 hr 10,        <Channel name: clix>,       2024-11-07 15:53:26.561822 
+gutstape,     @fizzlxd search it up,        <Channel name: clix>,       2024-11-07 15:53:52.414388 
+gutstape,     MEEEEEEEEEEEE,        <Channel name: clix>,       2024-11-07 15:54:39.102404 
+gutstape,     MEEEEEEEEEEE IM GOINGGGGGGGGGGG,        <Channel name: clix>,       2024-11-07 15:54:42.174034 
+gutstape,     IM GOING GUARENTEED,        <Channel name: clix>,       2024-11-07 15:55:16.001163 
+gutstape,     will they provide kbm?,        <Channel name: clix>,       2024-11-07 15:55:37.745628 
+gutstape,     @Clix,        <Channel name: clix>,       2024-11-07 15:55:39.006611 
+gutstape,     @Clix are u gonna have kbm there,        <Channel name: clix>,       2024-11-07 15:55:55.299811 
+gutstape,     LMAOAOAOA,        <Channel name: clix>,       2024-11-07 16:18:50.715335 
+gutstape,     cmonBruh,        <Channel name: clix>,       2024-11-07 16:19:55.829925 
+gutstape,     omegaluh,        <Channel name: clix>,       2024-11-07 16:23:01.736482 
+gutstape,     OMEGALUL,        <Channel name: clix>,       2024-11-07 16:23:04.863264 
+gutstape,     GYATTTT,        <Channel name: clix>,       2024-11-07 16:23:50.564571 
+gutstape,     BOOBA,        <Channel name: clix>,       2024-11-07 16:24:58.865342 

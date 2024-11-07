@@ -1,0 +1,2 @@
+realt4n1,     !AGE,        <Channel name: mongraal>,       2024-11-07 15:34:11.548989 
+realt4n1,     !browser,        <Channel name: mongraal>,       2024-11-07 15:35:43.475121 

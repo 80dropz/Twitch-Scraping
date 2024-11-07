@@ -1,0 +1,5 @@
+ilovschnitzel,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:38:09.435884 
+ilovschnitzel,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:38:19.781992 
+ilovschnitzel,     !roulette 2600,        <Channel name: kaicenat>,       2024-11-07 15:38:40.992043 
+ilovschnitzel,     !1roulette 2600,        <Channel name: kaicenat>,       2024-11-07 15:39:05.666995 
+ilovschnitzel,     !gamble  2600,        <Channel name: kaicenat>,       2024-11-07 15:39:28.481062 

@@ -4,3 +4,5 @@
  bomber294,     !dealy,        <Channel name: mongraal>,       2024-11-07 12:44:18.860139 
 
  bomber294,     !delay,        <Channel name: mongraal>,       2024-11-07 12:44:28.711830 
+
+ bomber294,     GG,        <Channel name: mongraal>,       2024-11-07 14:42:57.682089 

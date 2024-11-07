@@ -1,0 +1,8 @@
+jmarip,     kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:05.985079 
+jmarip,     kaitoxic,        <Channel name: kaicenat>,       2024-11-07 16:29:10.767522 
+jmarip,     kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:15.410196 
+jmarip,     kaicTOXIC kaicTOXIC kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:17.444616 
+jmarip,     kaicTOXIC kaicTOXIC kaicTOXIC kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:19.082998 
+jmarip,     kaicTOXIC kaicTOXIC kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:20.183956 
+jmarip,     kaicTOXIC kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:31.079776 
+jmarip,     kaicTOXIC kaicTOXIC kaicTOXIC kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:29:32.965538 

@@ -1,0 +1,2 @@
+kemisdan,     !GAMBLE 6000,        <Channel name: kaicenat>,       2024-11-07 15:41:33.400417 
+kemisdan,     1points,        <Channel name: kaicenat>,       2024-11-07 15:41:54.008374 

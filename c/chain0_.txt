@@ -1,0 +1,2 @@
+chain0_,     ASDASDUJASDJASDASD,        <Channel name: clix>,       2024-11-07 16:18:50.594827 
+chain0_,     XD,        <Channel name: clix>,       2024-11-07 16:18:52.145810 

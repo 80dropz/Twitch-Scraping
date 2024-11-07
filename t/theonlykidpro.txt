@@ -2,3 +2,5 @@
  theonlykidpro,     !addme,        <Channel name: mrlust>,       2024-11-07 11:19:28.108492 
 
  theonlykidpro,     !addme,        <Channel name: mrlust>,       2024-11-07 11:23:17.318934 
+theonlykidpro,     who are you going to play with,        <Channel name: clix>,       2024-11-07 16:01:12.887883 
+theonlykidpro,     who are you goin to play with,        <Channel name: clix>,       2024-11-07 16:01:37.140729 

@@ -14,3 +14,43 @@
  ncsmooth,     COOKED,        <Channel name: kaicenat>,       2024-11-07 13:23:42.691893 
 
  ncsmooth,     LIL MAN COOKED,        <Channel name: kaicenat>,       2024-11-07 13:36:03.687841 
+
+ ncsmooth,     ENGAGEMENT RING THEN WEDDING BAND,        <Channel name: kaicenat>,       2024-11-07 14:54:57.622804 
+
+ ncsmooth,     NIKE WEIGHTS IS TUF ASF,        <Channel name: kaicenat>,       2024-11-07 15:26:22.316294 
+ncsmooth,     THAT WAS A DELAYED FLIP OUTTA HELL,        <Channel name: kaicenat>,       2024-11-07 15:52:43.699410 
+ncsmooth,     YOU GOT THIS MANE, GET TO IT,        <Channel name: kaicenat>,       2024-11-07 16:04:25.425876 
+ncsmooth,     U NEED TO HIRE A MASSEUSE 4 AFTER WORKOUT,        <Channel name: kaicenat>,       2024-11-07 16:17:51.799408 
+ncsmooth,     HIRE A MASSEUSE FOR AFTER WORK OUTS,        <Channel name: kaicenat>,       2024-11-07 16:18:29.030282 
+ncsmooth,     30mins,        <Channel name: kaicenat>,       2024-11-07 16:18:37.729013 
+ncsmooth,     30MINS,        <Channel name: kaicenat>,       2024-11-07 16:19:00.315066 
+ncsmooth,     HIRE A MASSEUSE TO HELP RELAX MUSCLES AFTER WORKOUT,        <Channel name: kaicenat>,       2024-11-07 16:19:19.248952 
+ncsmooth,     POOL PARTY WHEN U BREAK RECORD,        <Channel name: kaicenat>,       2024-11-07 16:23:01.028427 
+ncsmooth,     KICK BACK PARTY,        <Channel name: kaicenat>,       2024-11-07 16:23:20.388730 
+ncsmooth,     TURN ON POUR WATER ON ROCKS FOR MORE.STEAM,        <Channel name: kaicenat>,       2024-11-07 16:25:09.500347 
+ncsmooth,     SHOULD BE,        <Channel name: kaicenat>,       2024-11-07 16:26:04.979768 
+ncsmooth,     PHONE AND SPEAKER SHOULD BE OK,        <Channel name: kaicenat>,       2024-11-07 16:26:28.936794 
+ncsmooth,     YES,        <Channel name: kaicenat>,       2024-11-07 16:28:11.152409 
+ncsmooth,     WAIT UNTIL IT GETS HOT, AND JUST SPLASH A SPOON FULL,        <Channel name: kaicenat>,       2024-11-07 16:28:27.294555 
+ncsmooth,     PLAY SOME MUSIC,        <Channel name: kaicenat>,       2024-11-07 16:28:49.955067 
+ncsmooth,     TAKE OFF SHIRT AND SHOES, SOCKS,        <Channel name: kaicenat>,       2024-11-07 16:29:04.041000 
+ncsmooth,     DURAG TOO,        <Channel name: kaicenat>,       2024-11-07 16:29:26.069603 
+ncsmooth,     YES,        <Channel name: kaicenat>,       2024-11-07 16:29:44.105710 
+ncsmooth,     NO,        <Channel name: kaicenat>,       2024-11-07 16:29:59.708865 
+ncsmooth,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:32.320102 
+ncsmooth,     PERFECT,        <Channel name: kaicenat>,       2024-11-07 16:30:57.519662 
+ncsmooth,     LIKE 10MINS,        <Channel name: kaicenat>,       2024-11-07 16:31:17.401185 
+ncsmooth,     ADD A LITTLE BIT, SPOON FULL,        <Channel name: kaicenat>,       2024-11-07 16:31:55.114436 
+ncsmooth,     NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:23.634848 
+ncsmooth,     WAIT TIL IT HEATS FULLY UP,        <Channel name: kaicenat>,       2024-11-07 16:33:04.980826 
+ncsmooth,     WHEN U DUMP WATER U SHOULD SEE STEAM FROM IT,        <Channel name: kaicenat>,       2024-11-07 16:33:26.255204 
+ncsmooth,     WAIT UNTIL IT HEATS UP,        <Channel name: kaicenat>,       2024-11-07 16:33:35.386792 
+ncsmooth,     ITS NOT HOT ENOUGH YET,        <Channel name: kaicenat>,       2024-11-07 16:34:27.172347 
+ncsmooth,     GET PRODUCTION TO BUY A ROLL OF THICK WEATHER STRIPES, THE ONE THAT PEEL AND STICK..TO SEAL THE CRACK BETTER FOR FUTURE SAUANA USE,        <Channel name: kaicenat>,       2024-11-07 16:37:51.752606 
+ncsmooth,     EASY FIX FOR DOOR, WEATHER STRIPING. PEEL AND STICK TYPE. IT WILL CLOSE THE GAP TIGHTER. WHEN DONE CAN TAKE OFF,        <Channel name: kaicenat>,       2024-11-07 16:40:14.066478 
+ncsmooth,     STOP, WAY TOO MUCH,        <Channel name: kaicenat>,       2024-11-07 16:40:58.166398 
+ncsmooth,     WELL YA HEST RISES,        <Channel name: kaicenat>,       2024-11-07 16:41:30.303928 
+ncsmooth,     HEAT*,        <Channel name: kaicenat>,       2024-11-07 16:41:39.197880 
+ncsmooth,     IS MIC DEAD,        <Channel name: kaicenat>,       2024-11-07 16:44:31.799159 
+ncsmooth,     NO MORE THATS GOOD,        <Channel name: kaicenat>,       2024-11-07 16:47:01.436059 
+ncsmooth,     WAY TOO MUCH MANE,        <Channel name: kaicenat>,       2024-11-07 16:47:09.693924 

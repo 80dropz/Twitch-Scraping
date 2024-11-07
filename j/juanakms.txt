@@ -14,3 +14,15 @@
  juanakms,     CASA,        <Channel name: jasontheween>,       2024-11-07 02:06:10.886303 
 
  juanakms,     RED,        <Channel name: jasontheween>,       2024-11-07 02:07:04.380215 
+juanakms,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:08.019795 
+juanakms,     you got me CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:13.918763 
+juanakms,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:02.594064 
+juanakms,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:32.242382 
+juanakms,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:28.371821 
+juanakms,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:32.948304 
+juanakms,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:51.547512 
+juanakms,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:08.677738 
+juanakms,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:09.547703 
+juanakms,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:20.206763 
+juanakms,     yea,        <Channel name: stableronaldo>,       2024-11-07 16:26:31.027566 
+juanakms,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:43.436118 

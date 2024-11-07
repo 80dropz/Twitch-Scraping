@@ -18,3 +18,8 @@
  mustichefen163,     50,        <Channel name: kaicenat>,       2024-11-07 12:44:04.120242 
 
  mustichefen163,     46,        <Channel name: kaicenat>,       2024-11-07 12:44:46.066465 
+mustichefen163,     head,        <Channel name: kaicenat>,       2024-11-07 15:31:00.617474 
+mustichefen163,     99999,        <Channel name: kaicenat>,       2024-11-07 15:31:24.051597 
+mustichefen163,     head,        <Channel name: kaicenat>,       2024-11-07 15:31:28.010184 
+mustichefen163,     tails,        <Channel name: kaicenat>,       2024-11-07 15:32:10.659615 
+mustichefen163,     Tails,        <Channel name: kaicenat>,       2024-11-07 15:32:20.152773 

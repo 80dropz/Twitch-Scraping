@@ -1,0 +1,32 @@
+lcfc_dp,     DO ITT,        <Channel name: kaicenat>,       2024-11-07 16:32:59.103271 
+lcfc_dp,     DO ITTTT,        <Channel name: kaicenat>,       2024-11-07 16:33:01.073159 
+lcfc_dp,     DUMP ITT,        <Channel name: kaicenat>,       2024-11-07 16:33:04.703998 
+lcfc_dp,     DO ITT,        <Channel name: kaicenat>,       2024-11-07 16:33:07.594072 
+lcfc_dp,     MORE,        <Channel name: kaicenat>,       2024-11-07 16:33:30.740256 
+lcfc_dp,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:33:32.551450 
+lcfc_dp,     MOREEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:36.023287 
+lcfc_dp,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:33:37.989299 
+lcfc_dp,     MOREEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:40.112316 
+lcfc_dp,     MORE,        <Channel name: kaicenat>,       2024-11-07 16:33:42.150254 
+lcfc_dp,     MOREEE,        <Channel name: kaicenat>,       2024-11-07 16:33:43.468018 
+lcfc_dp,     MOREEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:45.578033 
+lcfc_dp,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:33:47.504737 
+lcfc_dp,     MOREEEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:50.077330 
+lcfc_dp,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:33:52.521350 
+lcfc_dp,     MOREEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:54.900102 
+lcfc_dp,     MOREEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:57.334597 
+lcfc_dp,     MOREEEEEEEEEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:33:59.795863 
+lcfc_dp,     MOREE,        <Channel name: kaicenat>,       2024-11-07 16:34:01.631114 
+lcfc_dp,     MOREEEEEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:34:03.782841 
+lcfc_dp,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:34:06.480016 
+lcfc_dp,     WWWWW ADS,        <Channel name: kaicenat>,       2024-11-07 16:34:08.900122 
+lcfc_dp,     W ADS,        <Channel name: kaicenat>,       2024-11-07 16:34:10.964289 
+lcfc_dp,     WADSS,        <Channel name: kaicenat>,       2024-11-07 16:34:14.435959 
+lcfc_dp,     W ADSSS,        <Channel name: kaicenat>,       2024-11-07 16:34:16.967207 
+lcfc_dp,     GG,        <Channel name: kaicenat>,       2024-11-07 16:34:23.867908 
+lcfc_dp,     gg bro,        <Channel name: kaicenat>,       2024-11-07 16:34:29.486647 
+lcfc_dp,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:30.938411 
+lcfc_dp,     gg g,        <Channel name: kaicenat>,       2024-11-07 16:34:33.467678 
+lcfc_dp,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:34.541114 
+lcfc_dp,     gg .......,        <Channel name: kaicenat>,       2024-11-07 16:34:41.469229 
+lcfc_dp,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:43.398417 

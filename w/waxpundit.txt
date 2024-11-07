@@ -8,3 +8,5 @@
  waxpundit,     no,        <Channel name: nadeshot>,       2024-11-07 12:35:28.626725 
 
  waxpundit,     Sym will struggle if he doesn't run controller I fear,        <Channel name: nadeshot>,       2024-11-07 13:28:09.435238 
+waxpundit,     Is this a one and done?,        <Channel name: nadeshot>,       2024-11-07 16:04:52.402877 
+waxpundit,     @StateFarmJake13 Goon afternoon,        <Channel name: nadeshot>,       2024-11-07 16:09:06.857197 

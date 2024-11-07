@@ -1,0 +1,4 @@
+bru_002,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:02:23.075725 
+bru_002,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:46.539711 
+bru_002,     the clip dies with a clip,        <Channel name: stableronaldo>,       2024-11-07 16:02:56.047168 
+bru_002,     uuh,        <Channel name: lacy>,       2024-11-07 16:03:54.458968 

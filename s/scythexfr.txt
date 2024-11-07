@@ -1,0 +1,5 @@
+scythexfr,     gg,        <Channel name: kaicenat>,       2024-11-07 16:31:09.591984 
+scythexfr,     50,        <Channel name: kaicenat>,       2024-11-07 16:31:55.283804 
+scythexfr,     100,        <Channel name: kaicenat>,       2024-11-07 16:32:00.178986 
+scythexfr,     BOOOM BOOOM,        <Channel name: kaicenat>,       2024-11-07 16:35:06.931169 
+scythexfr,     kaicTOXIC,        <Channel name: kaicenat>,       2024-11-07 16:35:55.626354 

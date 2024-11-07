@@ -1,0 +1,7 @@
+pokey_02,     gyatt,        <Channel name: pokelawls>,       2024-11-07 15:39:03.452318 
+pokey_02,     aga,        <Channel name: pokelawls>,       2024-11-07 15:39:37.141632 
+pokey_02,     yes,        <Channel name: pokelawls>,       2024-11-07 15:41:22.124094 
+pokey_02,     dafont the goat,        <Channel name: pokelawls>,       2024-11-07 15:41:25.748220 
+pokey_02,     yes,        <Channel name: pokelawls>,       2024-11-07 15:43:42.208424 
+pokey_02,     aga thank you sponsor!,        <Channel name: pokelawls>,       2024-11-07 15:45:12.723663 
+pokey_02,     yessirskii pokeJam,        <Channel name: pokelawls>,       2024-11-07 15:51:01.366106 

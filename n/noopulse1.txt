@@ -1,0 +1,2 @@
+noopulse1,     nade overheated,        <Channel name: nadeshot>,       2024-11-07 15:28:54.465463 
+noopulse1,     my goat,        <Channel name: formal>,       2024-11-07 16:55:25.841369 

@@ -1,2 +1,3 @@
 
  znubezzz,     DAMN,        <Channel name: mongraal>,       2024-11-07 11:06:37.455645 
+znubezzz,     !match,        <Channel name: mongraal>,       2024-11-07 16:43:04.784580 

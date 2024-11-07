@@ -1,0 +1,3 @@
+shonze42,     W,        <Channel name: swagg>,       2024-11-07 16:55:14.498268 
+shonze42,     W W W W W,        <Channel name: swagg>,       2024-11-07 16:55:37.537754 
+shonze42,     w,        <Channel name: swagg>,       2024-11-07 16:56:11.013581 

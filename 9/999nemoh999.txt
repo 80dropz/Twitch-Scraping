@@ -25,3 +25,53 @@
 
  999nemoh999,     !watchtime,        <Channel name: adapt>,       2024-11-07 02:07:02.150606 
 >>>>>>> 72c4c578fb75caabcf5c48f292e65b1fdd973946
+
+ 999nemoh999,     WE,        <Channel name: adapt>,       2024-11-07 14:42:23.689843 
+
+ 999nemoh999,     W,        <Channel name: adapt>,       2024-11-07 14:42:27.324113 
+
+ 999nemoh999,     awesome,        <Channel name: lacy>,       2024-11-07 14:45:55.457437 
+
+ 999nemoh999,     stabeCAUGHT stabeCAUGHT stabeCAUGHT,        <Channel name: adapt>,       2024-11-07 14:46:29.622288 
+
+ 999nemoh999,     w alex,        <Channel name: adapt>,       2024-11-07 14:48:55.901786 
+
+ 999nemoh999,     ayy,        <Channel name: adapt>,       2024-11-07 14:50:05.063886 
+
+ 999nemoh999,     w ads,        <Channel name: adapt>,       2024-11-07 14:50:21.230587 
+
+ 999nemoh999,     run ads,        <Channel name: adapt>,       2024-11-07 14:50:49.979847 
+
+ 999nemoh999,     ggs,        <Channel name: adapt>,       2024-11-07 14:51:41.172030 
+
+ 999nemoh999,     w stream last night,        <Channel name: adapt>,       2024-11-07 14:51:54.850560 
+
+ 999nemoh999,     adapt got nade,        <Channel name: adapt>,       2024-11-07 14:52:35.718186 
+
+ 999nemoh999,     whats up alex,        <Channel name: adapt>,       2024-11-07 14:53:34.678698 
+
+ 999nemoh999,     ron got pipes,        <Channel name: adapt>,       2024-11-07 14:54:50.267320 
+
+ 999nemoh999,     lets gooo,        <Channel name: adapt>,       2024-11-07 15:25:04.242276 
+
+ 999nemoh999,     lets goooo,        <Channel name: adapt>,       2024-11-07 15:27:20.457570 
+999nemoh999,     how did that not kill him,        <Channel name: adapt>,       2024-11-07 15:29:07.780937 
+999nemoh999,     oof,        <Channel name: adapt>,       2024-11-07 15:30:15.699752 
+999nemoh999,     www,        <Channel name: adapt>,       2024-11-07 15:35:06.034981 
+999nemoh999,     we win those,        <Channel name: adapt>,       2024-11-07 15:35:09.574777 
+999nemoh999,     oof,        <Channel name: adapt>,       2024-11-07 15:38:18.647029 
+999nemoh999,     fuck,        <Channel name: adapt>,       2024-11-07 15:41:20.034165 
+999nemoh999,     @fazeapex wwww,        <Channel name: adapt>,       2024-11-07 15:47:54.830521 
+999nemoh999,     hi yousef,        <Channel name: adapt>,       2024-11-07 15:48:04.191033 
+999nemoh999,     apex is here wwww,        <Channel name: adapt>,       2024-11-07 15:48:27.055088 
+999nemoh999,     ranisan,        <Channel name: stableronaldo>,       2024-11-07 15:55:00.879714 
+999nemoh999,     we backkk,        <Channel name: stableronaldo>,       2024-11-07 15:55:10.046232 
+999nemoh999,     stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT stabeCAUGHT,        <Channel name: stableronaldo>,       2024-11-07 15:55:30.887727 
+999nemoh999,     ranisan,        <Channel name: adapt>,       2024-11-07 15:55:58.541431 
+999nemoh999,     w song,        <Channel name: stableronaldo>,       2024-11-07 15:57:41.850728 
+999nemoh999,     good,        <Channel name: stableronaldo>,       2024-11-07 15:57:56.950530 
+999nemoh999,     now i do what i want,        <Channel name: stableronaldo>,       2024-11-07 15:58:41.917835 
+999nemoh999,     ya,        <Channel name: stableronaldo>,       2024-11-07 16:02:18.593844 
+999nemoh999,     ron got pipes,        <Channel name: stableronaldo>,       2024-11-07 16:12:41.779889 
+999nemoh999,     w,        <Channel name: stableronaldo>,       2024-11-07 16:13:23.376682 
+999nemoh999,     we need your verse back,        <Channel name: stableronaldo>,       2024-11-07 16:13:32.346832 

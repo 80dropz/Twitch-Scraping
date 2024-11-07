@@ -1,0 +1,2 @@
+horsemanop,     1,        <Channel name: mongraal>,       2024-11-07 16:15:42.535672 
+horsemanop,     Chat I'm writing a physics exam tmrw does anyone know what's ohms law,        <Channel name: mongraal>,       2024-11-07 16:16:17.049823 

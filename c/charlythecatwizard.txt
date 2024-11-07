@@ -1,0 +1,5 @@
+charlythecatwizard,     F audio,        <Channel name: kaicenat>,       2024-11-07 16:21:25.069386 
+charlythecatwizard,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:48.258441 
+charlythecatwizard,     yessir,        <Channel name: kaicenat>,       2024-11-07 16:21:54.187098 
+charlythecatwizard,     W Kai,        <Channel name: kaicenat>,       2024-11-07 16:22:03.831486 
+charlythecatwizard,     F Audio Skipping,        <Channel name: kaicenat>,       2024-11-07 16:23:10.103682 

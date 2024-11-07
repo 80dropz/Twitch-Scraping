@@ -1,0 +1,4 @@
+danysk_64,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:57:19.590606 
+danysk_64,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:58:06.526289 
+danysk_64,     !gay,        <Channel name: kaicenat>,       2024-11-07 15:58:23.205680 
+danysk_64,     !straight,        <Channel name: kaicenat>,       2024-11-07 15:58:44.379567 

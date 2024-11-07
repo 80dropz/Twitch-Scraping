@@ -1,0 +1,3 @@
+simply_slash,     !trio,        <Channel name: mongraal>,       2024-11-07 16:02:08.208783 
+simply_slash,     !subs,        <Channel name: mongraal>,       2024-11-07 16:02:19.571972 
+simply_slash,     why is ur background diff,        <Channel name: mongraal>,       2024-11-07 16:07:47.868216 

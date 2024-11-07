@@ -50,3 +50,7 @@
  stateofinstinct,     Lmao,        <Channel name: nadeshot>,       2024-11-07 13:00:26.043950 
 
  stateofinstinct,     The best,        <Channel name: nadeshot>,       2024-11-07 13:00:41.005067 
+stateofinstinct,     Let’s go,        <Channel name: nadeshot>,       2024-11-07 15:59:35.192605 
+stateofinstinct,     @dome goon sauce,        <Channel name: nadeshot>,       2024-11-07 16:06:28.512334 
+stateofinstinct,     It’s not over till the gooner screams,        <Channel name: nadeshot>,       2024-11-07 16:07:19.249386 
+stateofinstinct,     When it goons it pours,        <Channel name: nadeshot>,       2024-11-07 16:48:03.050315 

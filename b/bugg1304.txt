@@ -38,3 +38,5 @@
  bugg1304,     WWWWWWWWW INSIDER INNN BratChat BratChat BratChat BratChat BratChat BratChat BratChat BratChat,        <Channel name: kaicenat>,       2024-11-07 11:30:35.060175 
 
  bugg1304,     WWWWWWWW SHADOW,        <Channel name: kaicenat>,       2024-11-07 11:32:05.303371 
+bugg1304,     WWWWWWWWWW WKAI,        <Channel name: kaicenat>,       2024-11-07 16:45:58.803236 
+bugg1304,     WWWWW KAI,        <Channel name: kaicenat>,       2024-11-07 16:46:01.562096 

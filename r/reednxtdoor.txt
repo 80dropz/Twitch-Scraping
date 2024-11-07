@@ -12,3 +12,5 @@
  reednxtdoor,     HUH??,        <Channel name: kaicenat>,       2024-11-07 02:42:53.059575 
 
  reednxtdoor,     OH NAHH,        <Channel name: kaicenat>,       2024-11-07 02:47:36.794479 
+reednxtdoor,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:14.240568 
+reednxtdoor,     !gamble,        <Channel name: kaicenat>,       2024-11-07 15:42:23.131779 

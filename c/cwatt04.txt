@@ -1,0 +1,11 @@
+cwatt04,     womp,        <Channel name: nadeshot>,       2024-11-07 15:41:17.811154 
+cwatt04,     LOCK IN,        <Channel name: nadeshot>,       2024-11-07 15:45:43.372051 
+cwatt04,     metallica,        <Channel name: nadeshot>,       2024-11-07 15:47:22.305960 
+cwatt04,     this is some good metallica,        <Channel name: nadeshot>,       2024-11-07 15:47:51.850929 
+cwatt04,     ouuuuuuuu,        <Channel name: nadeshot>,       2024-11-07 15:47:58.322110 
+cwatt04,     ouuu ouuu ouuuu,        <Channel name: nadeshot>,       2024-11-07 15:48:01.355777 
+cwatt04,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:48:16.008769 
+cwatt04,     T2G BABY,        <Channel name: nadeshot>,       2024-11-07 15:48:22.447319 
+cwatt04,     POP A ZYN IN, LOCK IN,        <Channel name: nadeshot>,       2024-11-07 15:48:50.030124 
+cwatt04,     boom,        <Channel name: nadeshot>,       2024-11-07 15:52:08.593071 
+cwatt04,     !pet,        <Channel name: nadeshot>,       2024-11-07 15:56:54.878352 

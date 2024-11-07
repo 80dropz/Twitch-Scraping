@@ -1,2 +1,4 @@
 
  joerit1,     L,        <Channel name: mongraal>,       2024-11-07 10:26:23.077226 
+joerit1,     crazy,        <Channel name: mongraal>,       2024-11-07 16:18:02.408737 
+joerit1,     nahhhhhh,        <Channel name: mongraal>,       2024-11-07 16:18:30.487826 

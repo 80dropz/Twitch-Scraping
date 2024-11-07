@@ -8,3 +8,38 @@
  primeako,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 13:11:59.793429 
 
  primeako,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 13:12:14.224978 
+primeako,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:13.827538 
+primeako,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:43:22.931458 
+primeako,     !roulette 9,        <Channel name: kaicenat>,       2024-11-07 15:43:34.869613 
+primeako,     !roulette 27,        <Channel name: kaicenat>,       2024-11-07 15:43:43.795719 
+primeako,     !roulette 18,        <Channel name: kaicenat>,       2024-11-07 15:43:55.092399 
+primeako,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:44:04.907443 
+primeako,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 15:44:14.789221 
+primeako,     !roulette 38,        <Channel name: kaicenat>,       2024-11-07 15:44:23.590537 
+primeako,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 15:44:34.103558 
+primeako,     !rouette 1,        <Channel name: kaicenat>,       2024-11-07 15:44:41.202338 
+primeako,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 15:44:50.071510 
+primeako,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:51.720950 
+primeako,     KEN CARSKN WWWW,        <Channel name: kaicenat>,       2024-11-07 16:46:33.296529 
+primeako,     KEN WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:46:37.918984 
+primeako,     KEN CARSON 2024,        <Channel name: kaicenat>,       2024-11-07 16:46:43.534492 
+primeako,     KEN CARSON 20244444,        <Channel name: kaicenat>,       2024-11-07 16:46:50.063852 
+primeako,     YUHHH WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:46:58.970478 
+primeako,     KEN CARSON 2024 YUUH WW,        <Channel name: kaicenat>,       2024-11-07 16:47:19.303417 
+primeako,     KEN CARSON 202444444,        <Channel name: kaicenat>,       2024-11-07 16:47:31.191993 
+primeako,     YUHHHH 2024 KEN CARSONN,        <Channel name: kaicenat>,       2024-11-07 16:47:38.796455 
+primeako,     LLL,        <Channel name: kaicenat>,       2024-11-07 16:47:43.106383 
+primeako,     L,        <Channel name: kaicenat>,       2024-11-07 16:47:44.404388 
+primeako,     LLLLLLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 16:47:47.785379 
+primeako,     PUT KEN CARSON BACK ON LLLL,        <Channel name: kaicenat>,       2024-11-07 16:47:53.159961 
+primeako,     LLLLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 16:47:56.072446 
+primeako,     L,        <Channel name: kaicenat>,       2024-11-07 16:47:57.430424 
+primeako,     L,        <Channel name: kaicenat>,       2024-11-07 16:48:36.137408 
+primeako,     WEWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:48:44.336237 
+primeako,     WWWWWWWWW KEN CARSON 2024,        <Channel name: kaicenat>,       2024-11-07 16:48:50.662126 
+primeako,     KEN CARSON 2024 WWW,        <Channel name: kaicenat>,       2024-11-07 16:49:03.318351 
+primeako,     NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis NotLikeThis,        <Channel name: kaicenat>,       2024-11-07 16:49:20.291619 
+primeako,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:19.547636 
+primeako,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:23.760447 
+primeako,     WWWWWW HUHUHUH,        <Channel name: kaicenat>,       2024-11-07 16:52:28.573422 
+primeako,     WWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:38.981644 

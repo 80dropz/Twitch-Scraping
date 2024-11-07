@@ -1,0 +1,8 @@
+
+ acidictripsome,     yes,        <Channel name: kaicenat>,       2024-11-07 15:25:04.110920 
+acidictripsome,     yes,        <Channel name: kaicenat>,       2024-11-07 16:22:33.841465 
+acidictripsome,     enough,        <Channel name: kaicenat>,       2024-11-07 16:25:59.215995 
+acidictripsome,     stop,        <Channel name: kaicenat>,       2024-11-07 16:37:36.265546 
+acidictripsome,     no,        <Channel name: kaicenat>,       2024-11-07 16:39:59.115337 
+acidictripsome,     ll,        <Channel name: kaicenat>,       2024-11-07 16:40:59.421827 
+acidictripsome,     L,        <Channel name: kaicenat>,       2024-11-07 16:41:02.693550 

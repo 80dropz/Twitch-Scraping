@@ -1,0 +1,4 @@
+john20024,     hi,        <Channel name: stableronaldo>,       2024-11-07 15:58:38.556643 
+john20024,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:58:59.510975 
+john20024,     www,        <Channel name: stableronaldo>,       2024-11-07 15:59:05.779788 
+john20024,     100%,        <Channel name: stableronaldo>,       2024-11-07 15:59:24.725561 

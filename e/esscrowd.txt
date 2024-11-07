@@ -6,3 +6,16 @@
  esscrowd,     Get upppp,        <Channel name: kaicenat>,       2024-11-07 12:59:19.774851 
 
  esscrowd,     Get uppp,        <Channel name: kaicenat>,       2024-11-07 13:03:41.033026 
+esscrowd,     Wwww,        <Channel name: kaicenat>,       2024-11-07 16:03:46.352074 
+esscrowd,     Www,        <Channel name: kaicenat>,       2024-11-07 16:04:29.651139 
+esscrowd,     Wwww,        <Channel name: kaicenat>,       2024-11-07 16:04:32.413352 
+esscrowd,     W trainer,        <Channel name: kaicenat>,       2024-11-07 16:07:10.064960 
+esscrowd,     Yeaaaa,        <Channel name: kaicenat>,       2024-11-07 16:07:23.323105 
+esscrowd,     Www,        <Channel name: kaicenat>,       2024-11-07 16:14:30.754873 
+esscrowd,     Wwww,        <Channel name: kaicenat>,       2024-11-07 16:14:32.966641 
+esscrowd,     Wwwww,        <Channel name: kaicenat>,       2024-11-07 16:14:35.345046 
+esscrowd,     Let's go KAI,        <Channel name: kaicenat>,       2024-11-07 16:14:38.860246 
+esscrowd,     Let's go kai,        <Channel name: kaicenat>,       2024-11-07 16:14:45.664719 
+esscrowd,     Is he your everyday life trainer,        <Channel name: kaicenat>,       2024-11-07 16:18:09.718376 
+esscrowd,     Or just for the month,        <Channel name: kaicenat>,       2024-11-07 16:18:13.957779 
+esscrowd,     Is he your everyday life trainer or just for the month,        <Channel name: kaicenat>,       2024-11-07 16:18:33.902967 

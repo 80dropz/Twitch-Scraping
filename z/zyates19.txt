@@ -1,0 +1,13 @@
+zyates19,     214,        <Channel name: lacy>,       2024-11-07 15:42:03.458661 
+zyates19,     000000,        <Channel name: lacy>,       2024-11-07 15:42:18.083265 
+zyates19,     125847,        <Channel name: lacy>,       2024-11-07 15:42:23.293393 
+zyates19,     4564968,        <Channel name: lacy>,       2024-11-07 15:42:25.231060 
+zyates19,     536468,        <Channel name: lacy>,       2024-11-07 15:42:27.002675 
+zyates19,     254647,        <Channel name: lacy>,       2024-11-07 15:42:29.306554 
+zyates19,     457741,        <Channel name: lacy>,       2024-11-07 15:42:32.667374 
+zyates19,     225412,        <Channel name: lacy>,       2024-11-07 15:42:34.460357 
+zyates19,     6845312,        <Channel name: lacy>,       2024-11-07 15:42:36.086316 
+zyates19,     6485312,        <Channel name: lacy>,       2024-11-07 15:42:37.320783 
+zyates19,     456312,        <Channel name: lacy>,       2024-11-07 15:42:38.645329 
+zyates19,     645312.,        <Channel name: lacy>,       2024-11-07 15:42:39.926041 
+zyates19,     54132,        <Channel name: lacy>,       2024-11-07 15:42:41.307201 

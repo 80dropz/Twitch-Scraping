@@ -1,0 +1,12 @@
+cashcowt,     GET OUT FOR 2 MINS AND GO BACK IN,        <Channel name: kaicenat>,       2024-11-07 16:44:35.093424 
+cashcowt,     GET OUT AND GO BACK IN,        <Channel name: kaicenat>,       2024-11-07 16:45:11.265038 
+cashcowt,     GET OUT FOR 2MIN  AND GO BACK IN,        <Channel name: kaicenat>,       2024-11-07 16:45:39.935134 
+cashcowt,     YOU NEED TO DRINK WATER,        <Channel name: kaicenat>,       2024-11-07 16:46:00.784273 
+cashcowt,     WHATS THE TEMP,        <Channel name: kaicenat>,       2024-11-07 16:50:28.122651 
+cashcowt,     CHECK TEMP,        <Channel name: kaicenat>,       2024-11-07 16:50:56.281432 
+cashcowt,     CHECK TEMPERATURE,        <Channel name: kaicenat>,       2024-11-07 16:51:17.802175 
+cashcowt,     CHECK TEMPERATURE,        <Channel name: kaicenat>,       2024-11-07 16:51:48.148131 
+cashcowt,     CHECK TEMPERATURE,        <Channel name: kaicenat>,       2024-11-07 16:52:44.174762 
+cashcowt,     CHECK TEMP,        <Channel name: kaicenat>,       2024-11-07 16:53:11.380593 
+cashcowt,     CHECK TEMPERATURE,        <Channel name: kaicenat>,       2024-11-07 16:53:14.788736 
+cashcowt,     CHECK TEMPERATURE,        <Channel name: kaicenat>,       2024-11-07 16:53:52.179744 

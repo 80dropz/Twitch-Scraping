@@ -1,0 +1,3 @@
+notlc21,     WW KEN,        <Channel name: kaicenat>,       2024-11-07 15:44:15.907324 
+notlc21,     SO WHAT,        <Channel name: kaicenat>,       2024-11-07 15:44:28.279370 
+notlc21,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:00:46.032539 

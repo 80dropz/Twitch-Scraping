@@ -102,3 +102,38 @@
  3jcs,     good job drew,        <Channel name: lacy>,       2024-11-07 13:26:07.879436 
 
  3jcs,     drew ur cooking this stream ngl,        <Channel name: lacy>,       2024-11-07 13:35:13.868702 
+
+ 3jcs,     ?,        <Channel name: lacy>,       2024-11-07 15:23:22.768311 
+
+ 3jcs,     fax rt,        <Channel name: lacy>,       2024-11-07 15:26:08.009004 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:16.866010 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:18.214086 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:19.537124 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:20.792030 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:22.465092 
+
+ 3jcs,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:25.991671 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:35.832487 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:36.241601 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:36.676276 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:37.185272 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:37.810530 
+
+ 3jcs,     WW,        <Channel name: lacy>,       2024-11-07 15:26:38.185177 
+
+ 3jcs,     WW lacy,        <Channel name: lacy>,       2024-11-07 15:27:50.999378 
+3jcs,     yes,        <Channel name: lacy>,       2024-11-07 15:34:17.155974 
+3jcs,     w,        <Channel name: lacy>,       2024-11-07 15:46:34.928052 
+3jcs,     WEDIDIT,        <Channel name: lacy>,       2024-11-07 15:54:54.698485 
+3jcs,     gg,        <Channel name: lacy>,       2024-11-07 15:55:59.216275 
+3jcs,     gg,        <Channel name: lacy>,       2024-11-07 15:56:00.269626 

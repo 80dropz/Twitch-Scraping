@@ -1,0 +1,4 @@
+rflts,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:15:03.613427 
+rflts,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.677757 
+rflts,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:53.518469 
+rflts,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:31.700566 

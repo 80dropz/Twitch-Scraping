@@ -1,2 +1,30 @@
 
  nomad_dd,     I WAS HERE,        <Channel name: plaqueboymax>,       2024-11-07 01:50:13.415397 
+nomad_dd,     gg,        <Channel name: lacy>,       2024-11-07 15:45:32.740581 
+nomad_dd,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:58:47.187864 
+nomad_dd,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:11.168577 
+nomad_dd,     yea,        <Channel name: stableronaldo>,       2024-11-07 16:02:48.106666 
+nomad_dd,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:08:19.421349 
+nomad_dd,     D:,        <Channel name: stableronaldo>,       2024-11-07 16:08:33.979649 
+nomad_dd,     ....,        <Channel name: stableronaldo>,       2024-11-07 16:08:41.834096 
+nomad_dd,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:52.102107 
+nomad_dd,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:10:16.303385 
+nomad_dd,     ur fat,        <Channel name: stableronaldo>,       2024-11-07 16:10:18.217036 
+nomad_dd,     go to the gym,        <Channel name: stableronaldo>,       2024-11-07 16:10:21.393938 
+nomad_dd,     havent gotten a cut since subathon ur fat,        <Channel name: stableronaldo>,       2024-11-07 16:10:31.393332 
+nomad_dd,     WWWWWWWWWWWWW,        <Channel name: stableronaldo>,       2024-11-07 16:11:41.858987 
+nomad_dd,     jason looks like an alien icl,        <Channel name: stableronaldo>,       2024-11-07 16:11:59.106676 
+nomad_dd,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:13:11.368411 
+nomad_dd,     it is..,        <Channel name: stableronaldo>,       2024-11-07 16:14:28.446746 
+nomad_dd,     black boy max????,        <Channel name: stableronaldo>,       2024-11-07 16:14:46.506849 
+nomad_dd,     WHO TF???,        <Channel name: stableronaldo>,       2024-11-07 16:15:15.635601 
+nomad_dd,     pls stop,        <Channel name: stableronaldo>,       2024-11-07 16:16:21.991931 
+nomad_dd,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:55.556704 
+nomad_dd,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:01.904235 
+nomad_dd,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:24.201882 
+nomad_dd,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:34.634109 
+nomad_dd,     MMMMMMMM,        <Channel name: stableronaldo>,       2024-11-07 16:19:48.369329 
+nomad_dd,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.194439 
+nomad_dd,     HAHA,        <Channel name: stableronaldo>,       2024-11-07 16:24:36.300344 
+nomad_dd,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:24:48.748540 
+nomad_dd,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:44.352428 

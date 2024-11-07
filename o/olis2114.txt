@@ -1,0 +1,3 @@
+olis2114,     !!1prime,        <Channel name: mongraal>,       2024-11-07 15:51:45.160902 
+olis2114,     !prime,        <Channel name: mongraal>,       2024-11-07 15:51:49.133367 
+olis2114,     !prime,        <Channel name: mongraal>,       2024-11-07 15:52:56.830262 

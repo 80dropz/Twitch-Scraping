@@ -70,3 +70,5 @@
  dmgods,     kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 02:25:15.894207 
 
  dmgods,     kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 02:26:01.500471 
+
+ dmgods,     not the big drop kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 14:52:30.396962 

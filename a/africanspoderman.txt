@@ -1,0 +1,4 @@
+africanspoderman,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:52.431488 
+africanspoderman,     999,        <Channel name: kaicenat>,       2024-11-07 15:32:04.979689 
+africanspoderman,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 15:40:26.190150 
+africanspoderman,     !gamble 2000,        <Channel name: kaicenat>,       2024-11-07 15:40:51.803449 

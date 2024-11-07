@@ -1,0 +1,2 @@
+hentendo,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 15:44:30.916503 
+hentendo,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:44:47.133311 

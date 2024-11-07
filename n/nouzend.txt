@@ -1,0 +1,9 @@
+nouzend,     wooop,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.548555 
+nouzend,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:22:44.047465 
+nouzend,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:24:34.558032 
+nouzend,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:50.412495 
+nouzend,     ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:05.954175 
+nouzend,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:07.448414 
+nouzend,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:25:11.769718 
+nouzend,     HEREHEGO,        <Channel name: stableronaldo>,       2024-11-07 16:25:56.842500 
+nouzend,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:26:44.957528 

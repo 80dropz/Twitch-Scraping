@@ -1,0 +1,4 @@
+
+ 1nfernium_,     !trip,        <Channel name: clix>,       2024-11-07 14:52:56.759104 
+
+ 1nfernium_,     !trio,        <Channel name: clix>,       2024-11-07 14:53:05.054176 

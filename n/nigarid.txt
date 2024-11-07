@@ -1,0 +1,2 @@
+nigarid,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:24.843764 
+nigarid,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:27.716455 

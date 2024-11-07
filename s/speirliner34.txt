@@ -38,3 +38,15 @@
  speirliner34,     STF,        <Channel name: nadeshot>,       2024-11-07 12:05:00.929490 
 
  speirliner34,     W,        <Channel name: nadeshot>,       2024-11-07 13:08:22.766824 
+
+ speirliner34,     !myd,        <Channel name: nadeshot>,       2024-11-07 14:53:25.475964 
+
+ speirliner34,     !fetch,        <Channel name: nadeshot>,       2024-11-07 14:54:32.963422 
+
+ speirliner34,     !myd,        <Channel name: nadeshot>,       2024-11-07 14:54:50.442177 
+
+ speirliner34,     !pet,        <Channel name: nadeshot>,       2024-11-07 14:55:40.299486 
+speirliner34,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:46:34.045507 
+speirliner34,     pimp slap,        <Channel name: nadeshot>,       2024-11-07 15:47:16.452937 
+speirliner34,     LETS GOOO NADE,        <Channel name: nadeshot>,       2024-11-07 15:59:31.907541 
+speirliner34,     WE LOCKEDIN,        <Channel name: nadeshot>,       2024-11-07 15:59:36.218908 

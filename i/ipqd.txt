@@ -1,0 +1,6 @@
+ipqd,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:08:13.788105 
+ipqd,     L mods,        <Channel name: kaicenat>,       2024-11-07 16:09:20.130842 
+ipqd,     yhhh,        <Channel name: kaicenat>,       2024-11-07 16:16:47.752536 
+ipqd,     ts,        <Channel name: kaicenat>,       2024-11-07 16:17:17.898969 
+ipqd,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:18:22.767044 
+ipqd,     GREEN ROOM KEN CARSON,        <Channel name: kaicenat>,       2024-11-07 16:52:01.020156 

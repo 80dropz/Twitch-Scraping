@@ -1,0 +1,2 @@
+bottlecap109,     W,        <Channel name: adapt>,       2024-11-07 15:31:08.041928 
+bottlecap109,     call that out unc,        <Channel name: adapt>,       2024-11-07 15:44:06.814327 

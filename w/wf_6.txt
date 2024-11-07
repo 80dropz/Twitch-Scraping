@@ -1,0 +1,5 @@
+wf_6,     kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 16:48:59.434294 
+wf_6,     kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat kaicSturdyy kaicSTURDY BratChat,        <Channel name: kaicenat>,       2024-11-07 16:49:13.949396 
+wf_6,     ...,        <Channel name: kaicenat>,       2024-11-07 16:54:09.596538 
+wf_6,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:28.450797 
+wf_6,     kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY kaicSturdyy kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 16:54:35.143642 

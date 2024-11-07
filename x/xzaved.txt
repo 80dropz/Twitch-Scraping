@@ -1,0 +1,15 @@
+xzaved,     MY HEAD,        <Channel name: stableronaldo>,       2024-11-07 15:56:07.511202 
+xzaved,     IN MY BED,        <Channel name: stableronaldo>,       2024-11-07 15:56:11.611635 
+xzaved,     HERE,        <Channel name: stableronaldo>,       2024-11-07 15:56:19.893589 
+xzaved,     NEAR,        <Channel name: stableronaldo>,       2024-11-07 15:56:23.536027 
+xzaved,     TEARSSSSSSSS,        <Channel name: stableronaldo>,       2024-11-07 15:56:32.092591 
+xzaved,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:23.683935 
+xzaved,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:17.637714 
+xzaved,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:01:37.091944 
+xzaved,     ono,        <Channel name: stableronaldo>,       2024-11-07 16:01:59.887703 
+xzaved,     COULDNT HAVE SAID IT BETTER,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.372374 
+xzaved,     NEAR,        <Channel name: stableronaldo>,       2024-11-07 16:11:25.392666 
+xzaved,     FEAR,        <Channel name: stableronaldo>,       2024-11-07 16:11:29.476579 
+xzaved,     TEARSSS,        <Channel name: stableronaldo>,       2024-11-07 16:11:33.747405 
+xzaved,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:11:47.893369 
+xzaved,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:33.782392 

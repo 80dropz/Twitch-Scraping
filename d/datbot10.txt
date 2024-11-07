@@ -1,0 +1,3 @@
+datbot10,     go to Kai’s house,        <Channel name: stableronaldo>,       2024-11-07 15:58:01.507177 
+datbot10,     go to Kai’s house,        <Channel name: stableronaldo>,       2024-11-07 15:58:32.372881 
+datbot10,     TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: stableronaldo>,       2024-11-07 16:11:31.137392 

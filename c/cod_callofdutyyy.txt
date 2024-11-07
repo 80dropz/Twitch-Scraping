@@ -6,3 +6,10 @@
  cod_callofdutyyy,     !delay,        <Channel name: mongraal>,       2024-11-07 12:27:22.676359 
 
  cod_callofdutyyy,     Maveyyy,        <Channel name: mongraal>,       2024-11-07 13:10:04.771137 
+cod_callofdutyyy,     Wwwww,        <Channel name: mongraal>,       2024-11-07 15:47:06.758791 
+cod_callofdutyyy,     Wwwwww,        <Channel name: mongraal>,       2024-11-07 15:48:50.290910 
+cod_callofdutyyy,     !mongraal,        <Channel name: mongraal>,       2024-11-07 15:59:34.067743 
+cod_callofdutyyy,     !goals,        <Channel name: mongraal>,       2024-11-07 16:02:13.846632 
+cod_callofdutyyy,     K,        <Channel name: mongraal>,       2024-11-07 16:32:38.674863 
+cod_callofdutyyy,     !mod,        <Channel name: mongraal>,       2024-11-07 16:32:52.248318 
+cod_callofdutyyy,     !mrsavage,        <Channel name: mongraal>,       2024-11-07 16:54:16.969330 

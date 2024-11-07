@@ -216,3 +216,27 @@
  ch1n0_____,     @selimmmo7 playing,        <Channel name: mongraal>,       2024-11-07 12:56:25.894428 
 
  ch1n0_____,     mongaFlex1 mongaFlex2 mongaFlex3 mongaLazered,        <Channel name: mongraal>,       2024-11-07 12:58:27.740043 
+
+ ch1n0_____,     delay?,        <Channel name: mongraal>,       2024-11-07 14:55:30.489154 
+
+ ch1n0_____,     what happend?,        <Channel name: mongraal>,       2024-11-07 15:23:46.420494 
+
+ ch1n0_____,     shi,        <Channel name: mongraal>,       2024-11-07 15:25:04.159202 
+ch1n0_____,     HAHAHAA,        <Channel name: mongraal>,       2024-11-07 15:32:42.270745 
+ch1n0_____,     W,        <Channel name: mongraal>,       2024-11-07 15:32:51.263561 
+ch1n0_____,     yo,        <Channel name: mongraal>,       2024-11-07 15:36:51.660157 
+ch1n0_____,     CLEAN,        <Channel name: mongraal>,       2024-11-07 15:37:25.022845 
+ch1n0_____,     HAHAHAAHA,        <Channel name: mongraal>,       2024-11-07 15:42:50.231594 
+ch1n0_____,     HBAHAHAHA,        <Channel name: mongraal>,       2024-11-07 15:43:08.567311 
+ch1n0_____,     WWWWW,        <Channel name: mongraal>,       2024-11-07 15:44:00.817897 
+ch1n0_____,     @xMulIa HUH?,        <Channel name: mongraal>,       2024-11-07 15:44:20.463461 
+ch1n0_____,     UFFF,        <Channel name: mongraal>,       2024-11-07 15:44:28.927398 
+ch1n0_____,     WWW,        <Channel name: mongraal>,       2024-11-07 15:44:36.787405 
+ch1n0_____,     HAHAHA,        <Channel name: mongraal>,       2024-11-07 15:46:16.201286 
+ch1n0_____,     NOOO,        <Channel name: mongraal>,       2024-11-07 15:46:17.812868 
+ch1n0_____,     HELL NO,        <Channel name: mongraal>,       2024-11-07 15:46:25.097948 
+ch1n0_____,     W @Lloydz,        <Channel name: mongraal>,       2024-11-07 15:47:10.011548 
+ch1n0_____,     NO,        <Channel name: mongraal>,       2024-11-07 15:47:53.578132 
+ch1n0_____,     WW @Lloydz,        <Channel name: mongraal>,       2024-11-07 15:48:49.822643 
+ch1n0_____,     AAHHAAHA,        <Channel name: mongraal>,       2024-11-07 15:50:11.589240 
+ch1n0_____,     WOTOR,        <Channel name: mongraal>,       2024-11-07 15:50:44.120855 

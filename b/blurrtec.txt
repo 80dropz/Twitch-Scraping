@@ -2,3 +2,6 @@
  blurrtec,     drew stay down there,        <Channel name: lacy>,       2024-11-07 13:34:37.350917 
 
  blurrtec,     drew stay down,        <Channel name: lacy>,       2024-11-07 13:36:48.389957 
+blurrtec,     l lacy,        <Channel name: lacy>,       2024-11-07 15:30:56.098841 
+blurrtec,     L lacy,        <Channel name: lacy>,       2024-11-07 15:31:00.544739 
+blurrtec,     L lacy,        <Channel name: lacy>,       2024-11-07 15:34:33.088126 

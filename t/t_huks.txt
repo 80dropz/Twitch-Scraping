@@ -10,3 +10,12 @@
  t_huks,     Tell him to take a break Kai,        <Channel name: kaicenat>,       2024-11-07 11:34:04.083618 
 
  t_huks,     Wwwww miles,        <Channel name: kaicenat>,       2024-11-07 11:34:40.046016 
+t_huks,     Let's gooooooooo,        <Channel name: kaicenat>,       2024-11-07 16:11:10.119261 
+t_huks,     You got this kai,        <Channel name: kaicenat>,       2024-11-07 16:11:21.560322 
+t_huks,     Wwwwwwww,        <Channel name: kaicenat>,       2024-11-07 16:11:29.933607 
+t_huks,     Fuck it up,        <Channel name: kaicenat>,       2024-11-07 16:14:08.001901 
+t_huks,     10 mins,        <Channel name: kaicenat>,       2024-11-07 16:18:42.694358 
+t_huks,     10,        <Channel name: kaicenat>,       2024-11-07 16:19:03.798911 
+t_huks,     Yes,        <Channel name: kaicenat>,       2024-11-07 16:26:02.625780 
+t_huks,     Good,        <Channel name: kaicenat>,       2024-11-07 16:30:54.044110 
+t_huks,     Pool,        <Channel name: kaicenat>,       2024-11-07 16:55:57.866527 

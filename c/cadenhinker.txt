@@ -1,0 +1,6 @@
+
+ cadenhinker,     !points,        <Channel name: kaicenat>,       2024-11-07 15:27:31.639399 
+cadenhinker,     rigged,        <Channel name: kaicenat>,       2024-11-07 15:32:06.170563 
+cadenhinker,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 15:38:14.552353 
+cadenhinker,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 15:38:32.841185 
+cadenhinker,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 15:38:57.419187 

@@ -100,3 +100,6 @@
  gun_park_911,     go grotto first game surprise them,        <Channel name: mongraal>,       2024-11-07 12:40:17.550749 
 
  gun_park_911,     go grotto,        <Channel name: mongraal>,       2024-11-07 13:27:49.593383 
+gun_park_911,     the power of purpose and self belief u knew u had it,        <Channel name: mongraal>,       2024-11-07 16:40:00.263415 
+gun_park_911,     clix gets 1 mil/month,        <Channel name: mongraal>,       2024-11-07 16:41:44.109914 
+gun_park_911,     do smth other than freebuild,        <Channel name: mongraal>,       2024-11-07 16:42:50.009745 

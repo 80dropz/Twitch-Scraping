@@ -2,3 +2,9 @@
  boburobu,     w,        <Channel name: kaicenat>,       2024-11-07 12:50:23.351671 
 
  boburobu,     w,        <Channel name: kaicenat>,       2024-11-07 12:54:42.285145 
+boburobu,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:41:34.471689 
+boburobu,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:43:15.872734 
+boburobu,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:43:38.724366 
+boburobu,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 15:43:53.246711 
+boburobu,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:44:13.014590 
+boburobu,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 15:44:28.242999 

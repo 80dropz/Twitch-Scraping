@@ -74,3 +74,5 @@
  eltraidortrp,     KEK,        <Channel name: aldo_geo>,       2024-11-07 02:50:36.217031 
 
  eltraidortrp,     brocat,        <Channel name: aldo_geo>,       2024-11-07 02:53:19.128053 
+eltraidortrp,     peepoSpace,        <Channel name: aldo_geo>,       2024-11-07 16:38:22.648368 
+eltraidortrp,     El que,        <Channel name: aldo_geo>,       2024-11-07 16:43:15.498974 

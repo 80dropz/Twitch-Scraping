@@ -1,2 +1,7 @@
 
  kzdiesel,     Should have dressed up as the portillos cake,        <Channel name: nadeshot>,       2024-11-07 13:07:54.553476 
+
+ kzdiesel,     Hello brother portillos,        <Channel name: nadeshot>,       2024-11-07 15:25:35.183181 
+
+ kzdiesel,     Walking breathing portillos,        <Channel name: nadeshot>,       2024-11-07 15:25:55.510222 
+kzdiesel,     !controller,        <Channel name: nadeshot>,       2024-11-07 15:29:00.134564 

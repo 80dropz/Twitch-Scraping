@@ -1,0 +1,2 @@
+rainstorm_56,     WW,        <Channel name: kaicenat>,       2024-11-07 15:41:02.439081 
+rainstorm_56,     ta,        <Channel name: kaicenat>,       2024-11-07 15:41:06.260440 

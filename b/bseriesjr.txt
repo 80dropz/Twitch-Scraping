@@ -1,0 +1,3 @@
+bseriesjr,     MUTTES,        <Channel name: stableronaldo>,       2024-11-07 16:09:30.494452 
+bseriesjr,     MUTTED,        <Channel name: stableronaldo>,       2024-11-07 16:09:33.609462 
+bseriesjr,     I WAS HER MUTTED,        <Channel name: stableronaldo>,       2024-11-07 16:09:43.492453 

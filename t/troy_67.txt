@@ -1,0 +1,5 @@
+troy_67,     clixHyper,        <Channel name: clix>,       2024-11-07 15:59:28.185647 
+troy_67,     clixGoXSET,        <Channel name: clix>,       2024-11-07 15:59:37.364471 
+troy_67,     clixArg,        <Channel name: clix>,       2024-11-07 15:59:49.344390 
+troy_67,     clixArg clixArg,        <Channel name: clix>,       2024-11-07 15:59:57.983077 
+troy_67,     clixArg,        <Channel name: clix>,       2024-11-07 16:00:00.230874 

@@ -1,0 +1,4 @@
+fujjidom,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:02.630446 
+fujjidom,     it’s goof,        <Channel name: kaicenat>,       2024-11-07 16:01:23.398100 
+fujjidom,     it’s good,        <Channel name: kaicenat>,       2024-11-07 16:01:25.923033 
+fujjidom,     we didn’t miss nothing,        <Channel name: kaicenat>,       2024-11-07 16:01:29.992893 

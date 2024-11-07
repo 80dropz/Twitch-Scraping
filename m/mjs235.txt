@@ -1,0 +1,12 @@
+mjs235,     FVCK ADS,        <Channel name: kaicenat>,       2024-11-07 16:50:17.099062 
+mjs235,     ADS,        <Channel name: kaicenat>,       2024-11-07 16:50:24.621520 
+mjs235,     YEEEER,        <Channel name: kaicenat>,       2024-11-07 16:50:37.259396 
+mjs235,     YEEEET,        <Channel name: kaicenat>,       2024-11-07 16:50:41.179415 
+mjs235,     YEEEEEET,        <Channel name: kaicenat>,       2024-11-07 16:50:43.865335 
+mjs235,     YEEEEEEEEET,        <Channel name: kaicenat>,       2024-11-07 16:50:47.755514 
+mjs235,     W,        <Channel name: kaicenat>,       2024-11-07 16:50:51.471070 
+mjs235,     S,        <Channel name: kaicenat>,       2024-11-07 16:50:55.914334 
+mjs235,     W,        <Channel name: kaicenat>,       2024-11-07 16:50:58.071571 
+mjs235,     FailFish,        <Channel name: kaicenat>,       2024-11-07 16:51:19.216746 
+mjs235,     KevinTurtle,        <Channel name: kaicenat>,       2024-11-07 16:51:22.360391 
+mjs235,     PizzaTime,        <Channel name: kaicenat>,       2024-11-07 16:51:29.912572 

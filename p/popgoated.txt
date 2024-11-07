@@ -1,0 +1,10 @@
+
+ popgoated,     SWITCH SCREEN,        <Channel name: kaicenat>,       2024-11-07 14:51:00.700669 
+
+ popgoated,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:51:08.815918 
+
+ popgoated,     RAKAII,        <Channel name: kaicenat>,       2024-11-07 14:51:40.178990 
+
+ popgoated,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:52:15.557509 
+
+ popgoated,     CHECK RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:14.273746 

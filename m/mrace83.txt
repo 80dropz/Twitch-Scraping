@@ -1,0 +1,5 @@
+mrace83,     Increase the thermostat,        <Channel name: kaicenat>,       2024-11-07 16:28:11.132955 
+mrace83,     Let it heat first. The water is for the steam,        <Channel name: kaicenat>,       2024-11-07 16:28:35.968849 
+mrace83,     Use the waTer to steam it up,        <Channel name: kaicenat>,       2024-11-07 16:31:58.031775 
+mrace83,     It's not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:26.063156 
+mrace83,     Not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:36.482167 

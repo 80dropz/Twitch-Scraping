@@ -1,0 +1,4 @@
+joserserrano,     111,        <Channel name: swagg>,       2024-11-07 16:16:10.572917 
+joserserrano,     w,        <Channel name: swagg>,       2024-11-07 16:55:49.023335 
+joserserrano,     ww,        <Channel name: swagg>,       2024-11-07 16:56:03.020071 
+joserserrano,     w,        <Channel name: swagg>,       2024-11-07 16:56:04.204841 

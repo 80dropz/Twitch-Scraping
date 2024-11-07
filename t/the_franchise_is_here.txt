@@ -24,3 +24,11 @@
  the_franchise_is_here,     peepoSnow,        <Channel name: nadeshot>,       2024-11-07 12:53:36.540939 
 
  the_franchise_is_here,     KEKW,        <Channel name: nadeshot>,       2024-11-07 12:59:46.549959 
+the_franchise_is_here,     catJAM,        <Channel name: nadeshot>,       2024-11-07 15:53:59.728619 
+the_franchise_is_here,     LETSGO,        <Channel name: nadeshot>,       2024-11-07 16:01:58.283058 
+the_franchise_is_here,     NOOO,        <Channel name: nadeshot>,       2024-11-07 16:06:25.655332 
+the_franchise_is_here,     LETSGO,        <Channel name: nadeshot>,       2024-11-07 16:09:48.642696 
+the_franchise_is_here,     KEKW,        <Channel name: nadeshot>,       2024-11-07 16:14:14.185832 
+the_franchise_is_here,     AngelThump,        <Channel name: nadeshot>,       2024-11-07 16:45:07.606786 
+the_franchise_is_here,     KEKW,        <Channel name: nadeshot>,       2024-11-07 16:52:38.904418 
+the_franchise_is_here,     KEKW,        <Channel name: nadeshot>,       2024-11-07 16:55:56.226458 

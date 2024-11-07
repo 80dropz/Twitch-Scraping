@@ -50,3 +50,22 @@
  frederickhogglethorn,     T2G,        <Channel name: nadeshot>,       2024-11-07 13:20:41.149570 
 
  frederickhogglethorn,     LOL,        <Channel name: nadeshot>,       2024-11-07 13:23:03.683075 
+frederickhogglethorn,     PowerUpL nadeInsane PowerUpR,        <Channel name: nadeshot>,       2024-11-07 15:29:40.247688 
+frederickhogglethorn,     lmao,        <Channel name: nadeshot>,       2024-11-07 15:30:18.328396 
+frederickhogglethorn,     the hotdog has spoken,        <Channel name: nadeshot>,       2024-11-07 15:30:44.992149 
+frederickhogglethorn,     but I love it,        <Channel name: nadeshot>,       2024-11-07 15:32:13.302938 
+frederickhogglethorn,     the hotdog has spoken once again,        <Channel name: nadeshot>,       2024-11-07 15:47:39.020653 
+frederickhogglethorn,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 16:28:55.780035 
+frederickhogglethorn,     lmaooooo,        <Channel name: nadeshot>,       2024-11-07 16:30:45.998121 
+frederickhogglethorn,     let him flock,        <Channel name: nadeshot>,       2024-11-07 16:32:44.326277 
+frederickhogglethorn,     eat a hotdog,        <Channel name: nadeshot>,       2024-11-07 16:35:12.192383 
+frederickhogglethorn,     ?,        <Channel name: nadeshot>,       2024-11-07 16:36:05.249154 
+frederickhogglethorn,     lil,        <Channel name: nadeshot>,       2024-11-07 16:37:31.351188 
+frederickhogglethorn,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 16:39:18.618697 
+frederickhogglethorn,     nadeInsane,        <Channel name: nadeshot>,       2024-11-07 16:40:33.779817 
+frederickhogglethorn,     lmaooo,        <Channel name: nadeshot>,       2024-11-07 16:42:28.398728 
+frederickhogglethorn,     wimp,        <Channel name: nadeshot>,       2024-11-07 16:42:49.210760 
+frederickhogglethorn,     vouch for zin,        <Channel name: nadeshot>,       2024-11-07 16:43:58.109771 
+frederickhogglethorn,     lol,        <Channel name: nadeshot>,       2024-11-07 16:47:58.387204 
+frederickhogglethorn,     Wimp,        <Channel name: nadeshot>,       2024-11-07 16:52:48.124909 
+frederickhogglethorn,     Lmaoo,        <Channel name: nadeshot>,       2024-11-07 16:52:58.316416 

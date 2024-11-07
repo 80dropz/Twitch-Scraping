@@ -18,3 +18,5 @@
  enthcha,     that's what I'll do!,        <Channel name: robcdee>,       2024-11-07 11:07:24.040571 
 
  enthcha,     anyways you all take care heading out,        <Channel name: robcdee>,       2024-11-07 11:07:35.333075 
+enthcha,     if you use firefox, I started having the same issue a day or 2 ago,        <Channel name: robcdee>,       2024-11-07 15:48:52.513194 
+enthcha,     no actual error (well never bothered to check the console) but not displayed guess I'll check it once it happens again,        <Channel name: robcdee>,       2024-11-07 15:49:25.549858 

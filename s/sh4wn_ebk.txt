@@ -1,0 +1,4 @@
+sh4wn_ebk,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:47.248474 
+sh4wn_ebk,     ew,        <Channel name: stableronaldo>,       2024-11-07 15:56:55.330795 
+sh4wn_ebk,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:10.723731 
+sh4wn_ebk,     FortOne FortOne,        <Channel name: stableronaldo>,       2024-11-07 15:57:43.127954 

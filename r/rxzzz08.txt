@@ -1,0 +1,7 @@
+rxzzz08,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 15:42:05.033373 
+rxzzz08,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:42:29.155238 
+rxzzz08,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:43:08.083142 
+rxzzz08,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 15:43:27.070760 
+rxzzz08,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:43:46.440463 
+rxzzz08,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:43:54.736619 
+rxzzz08,     !points,        <Channel name: kaicenat>,       2024-11-07 15:48:09.748174 

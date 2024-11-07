@@ -1,0 +1,8 @@
+
+ certifiedelcio,     W,        <Channel name: kaicenat>,       2024-11-07 14:47:59.782283 
+
+ certifiedelcio,     Aura,        <Channel name: kaicenat>,       2024-11-07 14:50:34.828939 
+
+ certifiedelcio,     King,        <Channel name: kaicenat>,       2024-11-07 14:50:40.755514 
+
+ certifiedelcio,     Aura,        <Channel name: kaicenat>,       2024-11-07 14:50:56.390643 

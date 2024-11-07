@@ -1,0 +1,40 @@
+road_gold,     whitepeopleHappy,        <Channel name: pokelawls>,       2024-11-07 15:36:08.629478 
+road_gold,     o7,        <Channel name: pokelawls>,       2024-11-07 15:37:32.581455 
+road_gold,     PepeLa,        <Channel name: pokelawls>,       2024-11-07 15:38:30.993132 
+road_gold,     plug tuh,        <Channel name: pokelawls>,       2024-11-07 15:41:33.740903 
+road_gold,     Loading,        <Channel name: pokelawls>,       2024-11-07 15:42:10.198194 
+road_gold,     Dentge,        <Channel name: pokelawls>,       2024-11-07 15:48:31.663602 
+road_gold,     LOL,        <Channel name: pokelawls>,       2024-11-07 15:49:41.392059 
+road_gold,     PepeLa,        <Channel name: pokelawls>,       2024-11-07 15:50:45.105062 
+road_gold,     Aware,        <Channel name: pokelawls>,       2024-11-07 15:51:48.228903 
+road_gold,     Classic,        <Channel name: pokelawls>,       2024-11-07 15:54:03.688407 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 15:56:18.977671 
+road_gold,     PepeLa,        <Channel name: pokelawls>,       2024-11-07 15:56:57.787781 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:11:26.461778 
+road_gold,     BugginMyself,        <Channel name: pokelawls>,       2024-11-07 16:12:32.474784 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:13:11.706480 
+road_gold,     BugginMyself,        <Channel name: pokelawls>,       2024-11-07 16:13:25.250638 
+road_gold,     OTK Poke Aware,        <Channel name: pokelawls>,       2024-11-07 16:14:28.597647 
+road_gold,     floppyy,        <Channel name: pokelawls>,       2024-11-07 16:14:45.884046 
+road_gold,     aga,        <Channel name: pokelawls>,       2024-11-07 16:17:05.671637 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:17:18.778183 
+road_gold,     settings streamer Aware,        <Channel name: pokelawls>,       2024-11-07 16:17:31.572885 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:17:53.607889 
+road_gold,     BugginMyself,        <Channel name: pokelawls>,       2024-11-07 16:18:58.081901 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:19:10.377511 
+road_gold,     LMA OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:19:30.817221 
+road_gold,     BugginMyself,        <Channel name: pokelawls>,       2024-11-07 16:21:52.657401 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:22:17.272293 
+road_gold,     Buggin,        <Channel name: pokelawls>,       2024-11-07 16:22:42.302357 
+road_gold,     COOKEDD timer still at 0,        <Channel name: pokelawls>,       2024-11-07 16:22:50.791294 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:23:47.991412 
+road_gold,     tuh,        <Channel name: pokelawls>,       2024-11-07 16:24:35.991194 
+road_gold,     ACTINUP,        <Channel name: pokelawls>,       2024-11-07 16:24:47.192047 
+road_gold,     sure he said PepeLa,        <Channel name: pokelawls>,       2024-11-07 16:25:30.332238 
+road_gold,     uuh,        <Channel name: pokelawls>,       2024-11-07 16:26:35.509262 
+road_gold,     Dentge,        <Channel name: pokelawls>,       2024-11-07 16:29:05.092706 
+road_gold,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:30:08.763453 
+road_gold,     being held hostage by sponsor OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:30:13.836221 
+road_gold,     lookUp,        <Channel name: pokelawls>,       2024-11-07 16:31:32.627161 
+road_gold,     uuh,        <Channel name: pokelawls>,       2024-11-07 16:31:57.655215 
+road_gold,     Aware,        <Channel name: pokelawls>,       2024-11-07 16:32:47.127178 

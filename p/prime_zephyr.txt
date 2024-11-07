@@ -1,0 +1,14 @@
+prime_zephyr,     yoo,        <Channel name: kaicenat>,       2024-11-07 16:46:40.109465 
+prime_zephyr,     wsg,        <Channel name: kaicenat>,       2024-11-07 16:46:46.326717 
+prime_zephyr,     bro is oiled up,        <Channel name: kaicenat>,       2024-11-07 16:47:00.295684 
+prime_zephyr,     oh hell nah,        <Channel name: kaicenat>,       2024-11-07 16:47:10.334325 
+prime_zephyr,     wsg graal,        <Channel name: mongraal>,       2024-11-07 16:47:45.020309 
+prime_zephyr,     wsg,        <Channel name: mongraal>,       2024-11-07 16:47:55.902953 
+prime_zephyr,     w,        <Channel name: mongraal>,       2024-11-07 16:48:20.592570 
+prime_zephyr,     ww,        <Channel name: mongraal>,       2024-11-07 16:48:21.918078 
+prime_zephyr,     www,        <Channel name: mongraal>,       2024-11-07 16:48:23.123092 
+prime_zephyr,     w,        <Channel name: mongraal>,       2024-11-07 16:48:25.101105 
+prime_zephyr,     10,        <Channel name: mongraal>,       2024-11-07 16:49:26.035477 
+prime_zephyr,     w,        <Channel name: mongraal>,       2024-11-07 16:49:27.462215 
+prime_zephyr,     ww,        <Channel name: mongraal>,       2024-11-07 16:49:30.381038 
+prime_zephyr,     only 20,        <Channel name: mongraal>,       2024-11-07 16:49:43.300433 

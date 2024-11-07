@@ -2,3 +2,4 @@
  vdrillz_,     !settings,        <Channel name: mongraal>,       2024-11-07 11:48:28.024225 
 
  vdrillz_,     !edit,        <Channel name: mongraal>,       2024-11-07 12:08:56.706579 
+vdrillz_,     !fov,        <Channel name: clix>,       2024-11-07 16:03:17.925046 

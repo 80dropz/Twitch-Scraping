@@ -1,0 +1,2 @@
+wakvyx,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:55:26.956510 
+wakvyx,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:56:13.586537 

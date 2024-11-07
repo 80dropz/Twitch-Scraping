@@ -1,0 +1,4 @@
+jahrfts1,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:41:31.976807 
+jahrfts1,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 15:41:53.789635 
+jahrfts1,     !points,        <Channel name: kaicenat>,       2024-11-07 15:42:03.240480 
+jahrfts1,     !join,        <Channel name: kaicenat>,       2024-11-07 15:42:36.008340 

@@ -1,0 +1,2 @@
+llarrey,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:44:02.630781 
+llarrey,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 15:44:17.579581 

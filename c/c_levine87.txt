@@ -8,3 +8,4 @@
  c_levine87,     WW,        <Channel name: clix>,       2024-11-07 13:05:46.147367 
 
  c_levine87,     L VALUE,        <Channel name: clix>,       2024-11-07 13:06:19.547278 
+c_levine87,     clix how many points should i get today in my hockey game,        <Channel name: clix>,       2024-11-07 16:07:19.930024 

@@ -12,3 +12,7 @@
  dontollver,     jorkin,        <Channel name: plaqueboymax>,       2024-11-07 02:00:36.335734 
 
  dontollver,     LMFAO,        <Channel name: plaqueboymax>,       2024-11-07 02:03:52.702045 
+dontollver,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:10:43.928877 
+dontollver,     is that not real?,        <Channel name: stableronaldo>,       2024-11-07 16:14:05.315635 
+dontollver,     is  that not real?,        <Channel name: stableronaldo>,       2024-11-07 16:14:17.511876 
+dontollver,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:38.233509 

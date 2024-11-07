@@ -1,0 +1,3 @@
+tyejsh,     kaicBLM,        <Channel name: kaicenat>,       2024-11-07 16:31:19.577088 
+tyejsh,     w,        <Channel name: kaicenat>,       2024-11-07 16:41:40.527639 
+tyejsh,     ww,        <Channel name: kaicenat>,       2024-11-07 16:41:45.422813 

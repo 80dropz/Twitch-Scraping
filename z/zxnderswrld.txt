@@ -1,0 +1,16 @@
+
+ zxnderswrld,     DAY SEM,        <Channel name: kaicenat>,       2024-11-07 15:25:04.387487 
+zxnderswrld,     10,        <Channel name: kaicenat>,       2024-11-07 15:44:41.289785 
+zxnderswrld,     I REMEMBER,        <Channel name: kaicenat>,       2024-11-07 16:03:29.048123 
+zxnderswrld,     ..............,        <Channel name: kaicenat>,       2024-11-07 16:38:01.340354 
+zxnderswrld,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:14.533794 
+zxnderswrld,     NOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:17.918629 
+zxnderswrld,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:21.573740 
+zxnderswrld,     NOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:40.295491 
+zxnderswrld,     .............,        <Channel name: kaicenat>,       2024-11-07 16:40:54.504103 
+zxnderswrld,     NOOO,        <Channel name: kaicenat>,       2024-11-07 16:47:08.732322 
+zxnderswrld,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:47:10.873301 
+zxnderswrld,     NOOO,        <Channel name: kaicenat>,       2024-11-07 16:47:12.677563 
+zxnderswrld,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:52:19.140634 
+zxnderswrld,     NOOO,        <Channel name: kaicenat>,       2024-11-07 16:52:21.667602 
+zxnderswrld,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:52:23.195488 

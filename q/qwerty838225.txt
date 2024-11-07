@@ -1,0 +1,4 @@
+qwerty838225,     w triceps,        <Channel name: kaicenat>,       2024-11-07 15:38:20.124565 
+qwerty838225,     !gamble 30,        <Channel name: kaicenat>,       2024-11-07 15:40:50.480620 
+qwerty838225,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:41:10.980489 
+qwerty838225,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 15:41:49.524437 

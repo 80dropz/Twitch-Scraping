@@ -1,0 +1,7 @@
+jus_at,     SZAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:18.874233 
+jus_at,     W SZAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:20.344161 
+jus_at,     SZAA,        <Channel name: kaicenat>,       2024-11-07 15:56:22.810386 
+jus_at,     SZAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:23.192396 
+jus_at,     WSZAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:25.938599 
+jus_at,     W SZAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:28.725256 
+jus_at,     szaaa,        <Channel name: kaicenat>,       2024-11-07 15:56:31.065252 

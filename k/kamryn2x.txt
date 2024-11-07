@@ -1,0 +1,7 @@
+kamryn2x,     turn it to 10,        <Channel name: kaicenat>,       2024-11-07 16:38:21.989322 
+kamryn2x,     turn it up,        <Channel name: kaicenat>,       2024-11-07 16:38:27.328809 
+kamryn2x,     put it on 10,        <Channel name: kaicenat>,       2024-11-07 16:38:40.079095 
+kamryn2x,     put it on 10,        <Channel name: kaicenat>,       2024-11-07 16:39:13.386932 
+kamryn2x,     put it on 10,        <Channel name: kaicenat>,       2024-11-07 16:39:56.689523 
+kamryn2x,     10,        <Channel name: kaicenat>,       2024-11-07 16:40:20.935030 
+kamryn2x,     10,        <Channel name: kaicenat>,       2024-11-07 16:40:54.047608 

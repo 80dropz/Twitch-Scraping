@@ -16,3 +16,5 @@
  tylerbueno,     Pre avalanche is crazy,        <Channel name: lacy>,       2024-11-07 13:30:28.835145 
 
  tylerbueno,     Drew needs to go to the bottom,        <Channel name: lacy>,       2024-11-07 13:30:48.133345 
+tylerbueno,     100% chance of rain RIP,        <Channel name: clix>,       2024-11-07 15:34:29.591957 
+tylerbueno,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:29.088298 

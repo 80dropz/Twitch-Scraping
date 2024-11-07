@@ -32,3 +32,8 @@
  ogtunes,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:27:12.608023 
 
  ogtunes,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:28:54.314930 
+
+ ogtunes,     WW,        <Channel name: kaicenat>,       2024-11-07 14:43:38.966053 
+ogtunes,     Rod Wave ?,        <Channel name: kaicenat>,       2024-11-07 16:03:35.022748 
+ogtunes,     WW SONG,        <Channel name: kaicenat>,       2024-11-07 16:11:19.641462 
+ogtunes,     YB - ALL IN,        <Channel name: kaicenat>,       2024-11-07 16:11:22.836306 

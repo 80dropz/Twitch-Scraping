@@ -1,0 +1,3 @@
+itscloco,     noo,        <Channel name: kaicenat>,       2024-11-07 16:30:03.413688 
+itscloco,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:40.119782 
+itscloco,     ggs,        <Channel name: kaicenat>,       2024-11-07 16:34:15.156925 

@@ -1,0 +1,8 @@
+speedznfeedz,     look at the thermometer,        <Channel name: kaicenat>,       2024-11-07 16:33:33.745706 
+speedznfeedz,     the TEMP is on the wall,        <Channel name: kaicenat>,       2024-11-07 16:33:47.244365 
+speedznfeedz,     stop the water,        <Channel name: kaicenat>,       2024-11-07 16:34:48.332829 
+speedznfeedz,     TEMP HASNT CHANGED,        <Channel name: kaicenat>,       2024-11-07 16:37:49.552623 
+speedznfeedz,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:37:52.636843 
+speedznfeedz,     NOOO WATER,        <Channel name: kaicenat>,       2024-11-07 16:40:01.232113 
+speedznfeedz,     STOP WATER,        <Channel name: kaicenat>,       2024-11-07 16:40:05.756813 
+speedznfeedz,     YOURBREAKING IT,        <Channel name: kaicenat>,       2024-11-07 16:40:21.240735 

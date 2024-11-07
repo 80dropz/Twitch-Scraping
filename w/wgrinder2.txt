@@ -1,0 +1,10 @@
+wgrinder2,     lloolll,        <Channel name: mongraal>,       2024-11-07 16:22:13.965357 
+wgrinder2,     looolll,        <Channel name: mongraal>,       2024-11-07 16:22:24.084537 
+wgrinder2,     ggs,        <Channel name: mongraal>,       2024-11-07 16:22:27.920388 
+wgrinder2,     U ARE DONE FOR,        <Channel name: mongraal>,       2024-11-07 16:29:58.852079 
+wgrinder2,     BOOO,        <Channel name: mongraal>,       2024-11-07 16:30:30.098089 
+wgrinder2,     LL,        <Channel name: mongraal>,       2024-11-07 16:35:16.693592 
+wgrinder2,     gg,        <Channel name: mongraal>,       2024-11-07 16:35:21.519145 
+wgrinder2,     reload?,        <Channel name: mongraal>,       2024-11-07 16:35:34.434738 
+wgrinder2,     reload ???,        <Channel name: mongraal>,       2024-11-07 16:35:52.061302 
+wgrinder2,     W,        <Channel name: mongraal>,       2024-11-07 16:36:51.518429 

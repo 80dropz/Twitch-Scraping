@@ -2,3 +2,4 @@
  sunderizz,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:06:21.667961 
 
  sunderizz,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:06:41.436082 
+sunderizz,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:22.866986 

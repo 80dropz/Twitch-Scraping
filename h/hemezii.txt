@@ -12,3 +12,14 @@
  hemezii,     WW,        <Channel name: kaicenat>,       2024-11-07 09:44:05.452677 
 
  hemezii,     lol,        <Channel name: kaicenat>,       2024-11-07 12:23:45.099213 
+
+ hemezii,     lol,        <Channel name: kaicenat>,       2024-11-07 14:42:11.641263 
+
+ hemezii,     WW,        <Channel name: kaicenat>,       2024-11-07 15:27:30.223139 
+hemezii,     lol,        <Channel name: kaicenat>,       2024-11-07 15:33:15.900106 
+hemezii,     WW,        <Channel name: kaicenat>,       2024-11-07 16:15:30.586632 
+hemezii,     WW,        <Channel name: kaicenat>,       2024-11-07 16:21:48.601237 
+hemezii,     lol,        <Channel name: kaicenat>,       2024-11-07 16:45:11.967165 
+hemezii,     WW,        <Channel name: kaicenat>,       2024-11-07 16:51:02.953595 
+hemezii,     POOL WW,        <Channel name: kaicenat>,       2024-11-07 16:55:31.179523 
+hemezii,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:45.962937 

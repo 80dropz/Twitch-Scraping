@@ -1,2 +1,4 @@
 
  toumii_,     Time last ?,        <Channel name: mongraal>,       2024-11-07 09:58:09.646400 
+
+ toumii_,     !delay,        <Channel name: mongraal>,       2024-11-07 14:51:59.141519 

@@ -1,0 +1,6 @@
+fatwaffles10,     LL,        <Channel name: stableronaldo>,       2024-11-07 15:55:23.675218 
+fatwaffles10,     L,        <Channel name: stableronaldo>,       2024-11-07 15:55:25.567266 
+fatwaffles10,     Lllll,        <Channel name: stableronaldo>,       2024-11-07 15:55:27.603146 
+fatwaffles10,     L,        <Channel name: stableronaldo>,       2024-11-07 15:55:28.915919 
+fatwaffles10,     noooo,        <Channel name: stableronaldo>,       2024-11-07 15:55:34.142560 
+fatwaffles10,     noo,        <Channel name: stableronaldo>,       2024-11-07 15:55:36.923544 

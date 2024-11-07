@@ -1,0 +1,74 @@
+
+ immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 14:45:49.334646 
+
+ immersive2,     huh,        <Channel name: kaicenat>,       2024-11-07 14:47:16.852525 
+
+ immersive2,     yes,        <Channel name: kaicenat>,       2024-11-07 14:49:57.857538 
+
+ immersive2,     yess,        <Channel name: kaicenat>,       2024-11-07 14:50:08.109387 
+
+ immersive2,     yes,        <Channel name: kaicenat>,       2024-11-07 14:50:12.932619 
+
+ immersive2,     yess,        <Channel name: kaicenat>,       2024-11-07 14:50:17.877465 
+
+ immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 14:54:13.267885 
+
+ immersive2,     you take it off,        <Channel name: kaicenat>,       2024-11-07 14:54:28.069212 
+
+ immersive2,     not all rings are wedding rings,        <Channel name: kaicenat>,       2024-11-07 14:55:29.852750 
+
+ immersive2,     enagament ring,        <Channel name: kaicenat>,       2024-11-07 14:55:39.100943 
+immersive2,     donta matter,        <Channel name: kaicenat>,       2024-11-07 16:17:55.411796 
+immersive2,     looks good to me,        <Channel name: kaicenat>,       2024-11-07 16:18:19.832140 
+immersive2,     10 mins,        <Channel name: kaicenat>,       2024-11-07 16:18:39.157048 
+immersive2,     you didn't use it,        <Channel name: kaicenat>,       2024-11-07 16:19:22.064358 
+immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 16:22:45.970482 
+immersive2,     you put water in the pit,        <Channel name: kaicenat>,       2024-11-07 16:25:05.814686 
+immersive2,     the camera can over heat,        <Channel name: kaicenat>,       2024-11-07 16:25:20.812296 
+immersive2,     put water in the pit,        <Channel name: kaicenat>,       2024-11-07 16:25:37.858898 
+immersive2,     take speaker oit,        <Channel name: kaicenat>,       2024-11-07 16:25:44.154829 
+immersive2,     dont put speaker in there,        <Channel name: kaicenat>,       2024-11-07 16:25:50.389620 
+immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 16:25:58.597745 
+immersive2,     noooo,        <Channel name: kaicenat>,       2024-11-07 16:26:01.116537 
+immersive2,     nooooo,        <Channel name: kaicenat>,       2024-11-07 16:26:07.320947 
+immersive2,     noo,        <Channel name: kaicenat>,       2024-11-07 16:26:11.586040 
+immersive2,     nooo,        <Channel name: kaicenat>,       2024-11-07 16:26:15.367596 
+immersive2,     or cam,        <Channel name: kaicenat>,       2024-11-07 16:26:19.621636 
+immersive2,     can can over heat,        <Channel name: kaicenat>,       2024-11-07 16:26:35.233156 
+immersive2,     cam can over heat as well,        <Channel name: kaicenat>,       2024-11-07 16:26:42.725728 
+immersive2,     turn it on,        <Channel name: kaicenat>,       2024-11-07 16:28:11.129951 
+immersive2,     take socks and shoes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.196565 
+immersive2,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.214530 
+immersive2,     yesss,        <Channel name: kaicenat>,       2024-11-07 16:28:11.277611 
+immersive2,     take your socks and shoes off,        <Channel name: kaicenat>,       2024-11-07 16:28:17.957558 
+immersive2,     a laddle full,        <Channel name: kaicenat>,       2024-11-07 16:28:25.161558 
+immersive2,     a laddle full;,        <Channel name: kaicenat>,       2024-11-07 16:28:33.685112 
+immersive2,     just use a laddle full,        <Channel name: kaicenat>,       2024-11-07 16:28:43.381006 
+immersive2,     ladle full 3 times,        <Channel name: kaicenat>,       2024-11-07 16:29:01.648740 
+immersive2,     and shoes,        <Channel name: kaicenat>,       2024-11-07 16:29:05.448096 
+immersive2,     abd  si=ocks,        <Channel name: kaicenat>,       2024-11-07 16:29:11.341620 
+immersive2,     shoes and socks,        <Channel name: kaicenat>,       2024-11-07 16:29:20.287685 
+immersive2,     hat,        <Channel name: kaicenat>,       2024-11-07 16:29:25.119862 
+immersive2,     take hat off,        <Channel name: kaicenat>,       2024-11-07 16:29:28.199766 
+immersive2,     hat off as well,        <Channel name: kaicenat>,       2024-11-07 16:29:35.924910 
+immersive2,     durag off,        <Channel name: kaicenat>,       2024-11-07 16:29:57.734817 
+immersive2,     take that durag off,        <Channel name: kaicenat>,       2024-11-07 16:30:07.154653 
+immersive2,     take the durag off,        <Channel name: kaicenat>,       2024-11-07 16:30:18.721668 
+immersive2,     take that durag off,        <Channel name: kaicenat>,       2024-11-07 16:30:27.102933 
+immersive2,     5,        <Channel name: kaicenat>,       2024-11-07 16:30:53.136159 
+immersive2,     add water to rocks,        <Channel name: kaicenat>,       2024-11-07 16:31:28.737856 
+immersive2,     when hot,        <Channel name: kaicenat>,       2024-11-07 16:31:30.769992 
+immersive2,     3 ladle fulls,        <Channel name: kaicenat>,       2024-11-07 16:31:43.360897 
+immersive2,     3,        <Channel name: kaicenat>,       2024-11-07 16:31:59.984782 
+immersive2,     33,        <Channel name: kaicenat>,       2024-11-07 16:32:09.491987 
+immersive2,     3,        <Channel name: kaicenat>,       2024-11-07 16:32:11.321824 
+immersive2,     more,        <Channel name: kaicenat>,       2024-11-07 16:32:30.015575 
+immersive2,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:43.488016 
+immersive2,     no dont add water,        <Channel name: kaicenat>,       2024-11-07 16:33:14.295566 
+immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 16:35:00.191067 
+immersive2,     iak the water is there for steam,        <Channel name: kaicenat>,       2024-11-07 16:35:20.688036 
+immersive2,     the water is there for steam,        <Channel name: kaicenat>,       2024-11-07 16:35:31.457175 
+immersive2,     no,        <Channel name: kaicenat>,       2024-11-07 16:35:40.389356 
+immersive2,     oh lord,        <Channel name: kaicenat>,       2024-11-07 16:40:17.560961 
+immersive2,     good greif,        <Channel name: kaicenat>,       2024-11-07 16:40:24.109833 
+immersive2,     THE WATER IS THERE TO CREATE STEAM KAI,        <Channel name: kaicenat>,       2024-11-07 16:40:41.274807 

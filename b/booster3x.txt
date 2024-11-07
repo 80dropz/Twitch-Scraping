@@ -2,3 +2,6 @@
  booster3x,     pb,        <Channel name: kaicenat>,       2024-11-07 01:49:58.150652 
 
  booster3x,     ju,        <Channel name: kaicenat>,       2024-11-07 01:50:08.692588 
+booster3x,     shut the door,        <Channel name: kaicenat>,       2024-11-07 16:40:37.566255 
+booster3x,     shut the door bruh,        <Channel name: kaicenat>,       2024-11-07 16:40:46.534220 
+booster3x,     shut the door it got a crack,        <Channel name: kaicenat>,       2024-11-07 16:41:07.585943 

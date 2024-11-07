@@ -2,3 +2,4 @@
  chehaab,     !watchtime,        <Channel name: oatley>,       2024-11-07 02:42:46.412542 
 
  chehaab,     !followage,        <Channel name: oatley>,       2024-11-07 02:42:59.427316 
+chehaab,     SPAZ UNDER THE TRUCK @mongraal,        <Channel name: mongraal>,       2024-11-07 16:28:11.378752 

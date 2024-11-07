@@ -1,0 +1,6 @@
+thesamoanguru,     thesam37GURUFAM thesam37GURUFAM thesam37USO thesam37USO thesam37USO,        <Channel name: kaicenat>,       2024-11-07 16:51:22.420445 
+thesamoanguru,     thesam37USO thesam37USO thesam37USO thesam37USO thesam37USO thesam37USO,        <Channel name: kaicenat>,       2024-11-07 16:51:28.486462 
+thesamoanguru,     kaicMGM,        <Channel name: kaicenat>,       2024-11-07 16:52:02.606528 
+thesamoanguru,     kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM,        <Channel name: kaicenat>,       2024-11-07 16:52:06.794166 
+thesamoanguru,     kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM,        <Channel name: kaicenat>,       2024-11-07 16:52:11.181714 
+thesamoanguru,     kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM kaicMGM,        <Channel name: kaicenat>,       2024-11-07 16:52:15.744355 

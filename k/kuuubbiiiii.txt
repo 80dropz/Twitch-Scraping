@@ -1,0 +1,5 @@
+kuuubbiiiii,     !gamble 300,        <Channel name: kaicenat>,       2024-11-07 15:42:38.401422 
+kuuubbiiiii,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:24.276629 
+kuuubbiiiii,     !gamble 16,        <Channel name: kaicenat>,       2024-11-07 15:43:37.586829 
+kuuubbiiiii,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:32.319839 
+kuuubbiiiii,     !roulette 16,        <Channel name: kaicenat>,       2024-11-07 15:44:47.471724 

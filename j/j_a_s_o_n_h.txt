@@ -1,0 +1,5 @@
+j_a_s_o_n_h,     !wachtime,        <Channel name: kaicenat>,       2024-11-07 16:02:02.203033 
+j_a_s_o_n_h,     !comands,        <Channel name: kaicenat>,       2024-11-07 16:02:19.252915 
+j_a_s_o_n_h,     TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 16:02:37.242692 
+j_a_s_o_n_h,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:06:52.449180 
+j_a_s_o_n_h,     L producción?,        <Channel name: kaicenat>,       2024-11-07 16:45:52.223964 

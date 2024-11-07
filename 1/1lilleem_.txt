@@ -1,0 +1,4 @@
+1lilleem_,     !uptime,        <Channel name: kaicenat>,       2024-11-07 16:09:34.717666 
+1lilleem_,     !hours,        <Channel name: kaicenat>,       2024-11-07 16:09:42.759611 
+1lilleem_,     yooo,        <Channel name: kaicenat>,       2024-11-07 16:10:10.023264 
+1lilleem_,     !hours,        <Channel name: kaicenat>,       2024-11-07 16:10:15.357706 

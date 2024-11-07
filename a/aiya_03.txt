@@ -22,3 +22,6 @@
  aiya_03,     DO IT,        <Channel name: kaicenat>,       2024-11-07 13:31:32.353997 
 
  aiya_03,     DO IT,        <Channel name: kaicenat>,       2024-11-07 13:35:37.081514 
+aiya_03,     !gamble,        <Channel name: kaicenat>,       2024-11-07 15:43:32.390410 
+aiya_03,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:43:51.433466 
+aiya_03,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:44:15.766129 

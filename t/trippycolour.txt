@@ -1,0 +1,7 @@
+trippycolour,     omE,        <Channel name: pokelawls>,       2024-11-07 15:57:43.718610 
+trippycolour,     Gayge,        <Channel name: pokelawls>,       2024-11-07 15:57:55.953418 
+trippycolour,     omE,        <Channel name: pokelawls>,       2024-11-07 16:10:08.777527 
+trippycolour,     Caught,        <Channel name: pokelawls>,       2024-11-07 16:17:30.658931 
+trippycolour,     lacScript,        <Channel name: pokelawls>,       2024-11-07 16:19:00.524850 
+trippycolour,     omE,        <Channel name: pokelawls>,       2024-11-07 16:19:23.727026 
+trippycolour,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:46:14.639542 

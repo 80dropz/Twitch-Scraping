@@ -1,0 +1,4 @@
+zt_spartan,     a,        <Channel name: swagg>,       2024-11-07 16:55:55.187981 
+zt_spartan,     w,        <Channel name: swagg>,       2024-11-07 16:55:58.393389 
+zt_spartan,     W,        <Channel name: swagg>,       2024-11-07 16:56:01.121221 
+zt_spartan,     w,        <Channel name: swagg>,       2024-11-07 16:56:03.319667 

@@ -1,0 +1,4 @@
+fixturefn,     u High?,        <Channel name: clix>,       2024-11-07 16:08:48.301348 
+fixturefn,     u actually high ?,        <Channel name: clix>,       2024-11-07 16:09:54.094698 
+fixturefn,     W,        <Channel name: clix>,       2024-11-07 16:19:36.731076 
+fixturefn,     lol,        <Channel name: clix>,       2024-11-07 16:20:08.750493 

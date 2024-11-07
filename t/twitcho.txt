@@ -8,3 +8,4 @@
  twitcho,     you are a hotdog real bad,        <Channel name: nadeshot>,       2024-11-07 12:32:04.288284 
 
  twitcho,     sleep in it also,        <Channel name: nadeshot>,       2024-11-07 12:33:41.201971 
+twitcho,     LINNI,        <Channel name: nadeshot>,       2024-11-07 16:52:42.340548 

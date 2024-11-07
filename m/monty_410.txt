@@ -1,0 +1,2 @@
+
+ monty_410,     nick,        <Channel name: lacy>,       2024-11-07 14:47:16.972709 

@@ -1,0 +1,2 @@
+mm2_admcrosstrader,     !Wsp swarm,        <Channel name: swagg>,       2024-11-07 16:53:59.783534 
+mm2_admcrosstrader,     !Wsp,        <Channel name: swagg>,       2024-11-07 16:54:08.086488 

@@ -1,0 +1,3 @@
+kinesthesis,     OOOO,        <Channel name: pokelawls>,       2024-11-07 16:01:53.711197 
+kinesthesis,     pokE,        <Channel name: pokelawls>,       2024-11-07 16:18:13.791750 
+kinesthesis,     Corpa,        <Channel name: pokelawls>,       2024-11-07 16:30:18.474937 

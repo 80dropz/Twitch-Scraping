@@ -1,2 +1,7 @@
 
  mhsherman,     w Snell,        <Channel name: nadeshot>,       2024-11-07 13:08:02.264223 
+mhsherman,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:10:02.865358 
+mhsherman,     TIME 2 GOON,        <Channel name: nadeshot>,       2024-11-07 16:10:07.722083 
+mhsherman,     TIME 2 GOON,        <Channel name: nadeshot>,       2024-11-07 16:11:11.242912 
+mhsherman,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:11:34.403535 
+mhsherman,     still gooning,        <Channel name: nadeshot>,       2024-11-07 16:12:41.568476 

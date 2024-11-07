@@ -1,0 +1,4 @@
+owogrr,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:04:19.807780 
+owogrr,     LOL,        <Channel name: stableronaldo>,       2024-11-07 16:04:32.428020 
+owogrr,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:05:30.628302 
+owogrr,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:05:36.781968 

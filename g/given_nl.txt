@@ -2,3 +2,7 @@
  given_nl,     holy,        <Channel name: kaicenat>,       2024-11-07 13:06:21.920537 
 
  given_nl,     wtf hahahaahah,        <Channel name: kaicenat>,       2024-11-07 13:06:51.399098 
+given_nl,     !points,        <Channel name: kaicenat>,       2024-11-07 15:37:53.597138 
+given_nl,     !gamble 34,        <Channel name: kaicenat>,       2024-11-07 15:38:06.474039 
+given_nl,     !roulette 34,        <Channel name: kaicenat>,       2024-11-07 15:38:35.753299 
+given_nl,     !Roulette 34,        <Channel name: kaicenat>,       2024-11-07 15:39:06.045831 

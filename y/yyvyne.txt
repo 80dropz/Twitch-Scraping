@@ -1,0 +1,5 @@
+yyvyne,     W MO3,        <Channel name: kaicenat>,       2024-11-07 16:03:28.363425 
+yyvyne,     w mo3,        <Channel name: kaicenat>,       2024-11-07 16:03:32.241890 
+yyvyne,     !playlist,        <Channel name: kaicenat>,       2024-11-07 16:04:09.014956 
+yyvyne,     !spotify,        <Channel name: kaicenat>,       2024-11-07 16:07:57.366103 
+yyvyne,     !spotifyplaylist,        <Channel name: kaicenat>,       2024-11-07 16:08:13.909390 

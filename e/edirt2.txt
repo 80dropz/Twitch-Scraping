@@ -1,0 +1,5 @@
+edirt2,     WWWWW,        <Channel name: swagg>,       2024-11-07 16:54:06.262421 
+edirt2,     WWWWWWWW,        <Channel name: swagg>,       2024-11-07 16:55:04.479912 
+edirt2,     WWWWWWWWWW,        <Channel name: swagg>,       2024-11-07 16:55:20.951796 
+edirt2,     w,        <Channel name: swagg>,       2024-11-07 16:55:34.722694 
+edirt2,     w,        <Channel name: swagg>,       2024-11-07 16:56:06.992584 

@@ -1,0 +1,5 @@
+a_dd2411,     LLLLLLL,        <Channel name: clix>,       2024-11-07 15:41:05.448496 
+a_dd2411,     LL,        <Channel name: clix>,       2024-11-07 15:41:06.669162 
+a_dd2411,     ;,        <Channel name: clix>,       2024-11-07 15:41:09.193139 
+a_dd2411,     L,        <Channel name: clix>,       2024-11-07 15:41:11.190584 
+a_dd2411,     LL,        <Channel name: clix>,       2024-11-07 15:41:12.314784 

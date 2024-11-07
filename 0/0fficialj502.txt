@@ -1,0 +1,6 @@
+0fficialj502,     w,        <Channel name: swagg>,       2024-11-07 16:55:06.981911 
+0fficialj502,     ww,        <Channel name: swagg>,       2024-11-07 16:55:10.461772 
+0fficialj502,     w,        <Channel name: swagg>,       2024-11-07 16:55:14.004470 
+0fficialj502,     w,        <Channel name: swagg>,       2024-11-07 16:55:44.047321 
+0fficialj502,     me,        <Channel name: swagg>,       2024-11-07 16:55:56.211811 
+0fficialj502,     meee,        <Channel name: swagg>,       2024-11-07 16:56:02.832975 

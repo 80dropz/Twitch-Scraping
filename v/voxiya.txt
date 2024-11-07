@@ -1,0 +1,3 @@
+voxiya,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:16.042389 
+voxiya,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:36.096273 
+voxiya,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:34.874279 

@@ -1,0 +1,3 @@
+roxxfv,     !trio,        <Channel name: mongraal>,       2024-11-07 16:34:53.908394 
+roxxfv,     comm,        <Channel name: mongraal>,       2024-11-07 16:35:38.046852 
+roxxfv,     com,        <Channel name: mongraal>,       2024-11-07 16:36:02.327129 

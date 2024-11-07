@@ -46,3 +46,13 @@
  sigbean,     69,        <Channel name: kaicenat>,       2024-11-07 02:05:22.931940 
 
  sigbean,     ButtonMash,        <Channel name: kaicenat>,       2024-11-07 10:29:19.116743 
+sigbean,     WTF,        <Channel name: pokelawls>,       2024-11-07 16:00:07.248388 
+sigbean,     BUY ME IT,        <Channel name: pokelawls>,       2024-11-07 16:00:11.580794 
+sigbean,     Wow,        <Channel name: pokelawls>,       2024-11-07 16:00:35.181899 
+sigbean,     yoinked,        <Channel name: pokelawls>,       2024-11-07 16:01:09.193218 
+sigbean,     just got the game,        <Channel name: pokelawls>,       2024-11-07 16:01:27.243380 
+sigbean,     it worked,        <Channel name: pokelawls>,       2024-11-07 16:01:32.359890 
+sigbean,     universal code login,        <Channel name: pokelawls>,       2024-11-07 16:01:47.051890 
+sigbean,     plagiarism,        <Channel name: pokelawls>,       2024-11-07 16:04:06.166809 
+sigbean,     promotion soon,        <Channel name: pokelawls>,       2024-11-07 16:07:30.839220 
+sigbean,     poki,        <Channel name: pokelawls>,       2024-11-07 16:26:38.487853 

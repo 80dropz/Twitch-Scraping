@@ -32,3 +32,8 @@
  fnobserver,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:36:59.319745 
 
  fnobserver,     !time,        <Channel name: clix>,       2024-11-07 11:23:59.175328 
+fnobserver,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:40.114599 
+fnobserver,     666,        <Channel name: kaicenat>,       2024-11-07 15:30:43.326568 
+fnobserver,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:46.438555 
+fnobserver,     666,        <Channel name: kaicenat>,       2024-11-07 15:30:54.230683 
+fnobserver,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:55.515620 

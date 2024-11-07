@@ -1,0 +1,4 @@
+
+ trenton__13,     !points,        <Channel name: adapt>,       2024-11-07 14:49:53.529452 
+
+ trenton__13,     !gamble 30000,        <Channel name: adapt>,       2024-11-07 14:50:13.699539 

@@ -1,0 +1,5 @@
+pinarnik,     FirstTimeChadder,        <Channel name: pokelawls>,       2024-11-07 16:20:54.952526 
+pinarnik,     agastoned,        <Channel name: pokelawls>,       2024-11-07 16:22:55.605419 
+pinarnik,     Pffttt,        <Channel name: pokelawls>,       2024-11-07 16:23:13.064410 
+pinarnik,     Aware,        <Channel name: pokelawls>,       2024-11-07 16:23:40.927304 
+pinarnik,     Concerned,        <Channel name: pokelawls>,       2024-11-07 16:24:35.505722 

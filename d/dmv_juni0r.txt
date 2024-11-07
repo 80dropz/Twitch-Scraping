@@ -1,2 +1,6 @@
 
  dmv_juni0r,     Weed,        <Channel name: lacy>,       2024-11-07 12:46:05.235604 
+
+ dmv_juni0r,     GG,        <Channel name: lacy>,       2024-11-07 15:26:39.575054 
+
+ dmv_juni0r,     SMH,        <Channel name: lacy>,       2024-11-07 15:26:42.126247 

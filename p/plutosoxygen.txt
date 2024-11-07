@@ -1,0 +1,3 @@
+plutosoxygen,     w,        <Channel name: swagg>,       2024-11-07 16:55:40.719554 
+plutosoxygen,     ww,        <Channel name: swagg>,       2024-11-07 16:55:59.756816 
+plutosoxygen,     w,        <Channel name: swagg>,       2024-11-07 16:56:01.468883 

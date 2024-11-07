@@ -1,0 +1,7 @@
+dub_aj,     go back to the Jersey house,        <Channel name: clix>,       2024-11-07 15:47:59.329675 
+dub_aj,     jersey house,        <Channel name: clix>,       2024-11-07 15:48:20.109360 
+dub_aj,     we miss the Jersey house,        <Channel name: clix>,       2024-11-07 15:48:33.336776 
+dub_aj,     I miss the jersey house,        <Channel name: clix>,       2024-11-07 15:49:13.995113 
+dub_aj,     go back to Jersey house,        <Channel name: clix>,       2024-11-07 15:49:28.672134 
+dub_aj,     Jersey house was better,        <Channel name: clix>,       2024-11-07 15:49:43.689389 
+dub_aj,     L friend,        <Channel name: clix>,       2024-11-07 15:50:08.558981 

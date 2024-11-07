@@ -12,3 +12,9 @@
  teedabarbb,     SOMEONE GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:56:43.030590 
 
  teedabarbb,     LMFAOOAOAOAOAOAOSKSKSKNSBSHS,        <Channel name: kaicenat>,       2024-11-07 13:03:06.439970 
+teedabarbb,     NO ONEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:43:27.850047 
+teedabarbb,     !time,        <Channel name: kaicenat>,       2024-11-07 16:43:30.390056 
+teedabarbb,     NO ONEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:43:38.286632 
+teedabarbb,     !sr year,        <Channel name: kaicenat>,       2024-11-07 16:43:45.623111 
+teedabarbb,     !songlist,        <Channel name: kaicenat>,       2024-11-07 16:43:56.100797 
+teedabarbb,     !sr go again yeat,        <Channel name: kaicenat>,       2024-11-07 16:44:23.595298 

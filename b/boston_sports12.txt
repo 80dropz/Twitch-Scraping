@@ -1,0 +1,5 @@
+boston_sports12,     cliped,        <Channel name: clix>,       2024-11-07 15:33:20.962556 
+boston_sports12,     yes,        <Channel name: clix>,       2024-11-07 15:44:02.019756 
+boston_sports12,     it was fire,        <Channel name: clix>,       2024-11-07 15:44:14.834337 
+boston_sports12,     in ct i be getting 45,        <Channel name: clix>,       2024-11-07 15:47:52.967890 
+boston_sports12,     how far r u,        <Channel name: clix>,       2024-11-07 15:54:17.321159 

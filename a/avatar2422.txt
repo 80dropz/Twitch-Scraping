@@ -1,0 +1,6 @@
+avatar2422,     call ambilly,        <Channel name: kaicenat>,       2024-11-07 16:00:31.943537 
+avatar2422,     call ambelly,        <Channel name: kaicenat>,       2024-11-07 16:00:42.693962 
+avatar2422,     call ambelly,        <Channel name: kaicenat>,       2024-11-07 16:01:19.482976 
+avatar2422,     call ambelly,        <Channel name: kaicenat>,       2024-11-07 16:02:18.110667 
+avatar2422,     call ambely,        <Channel name: kaicenat>,       2024-11-07 16:02:25.026852 
+avatar2422,     call ambelly,        <Channel name: kaicenat>,       2024-11-07 16:02:30.884638 

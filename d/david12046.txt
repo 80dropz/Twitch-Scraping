@@ -1,0 +1,5 @@
+david12046,     what is the time=,        <Channel name: mongraal>,       2024-11-07 16:31:09.996988 
+david12046,     `hvad er klokken,        <Channel name: mongraal>,       2024-11-07 16:31:37.764334 
+david12046,     hvad er klokken brormand,        <Channel name: mongraal>,       2024-11-07 16:32:34.799855 
+david12046,     no danish?,        <Channel name: mongraal>,       2024-11-07 16:33:56.589365 
+david12046,     !chat,        <Channel name: mongraal>,       2024-11-07 16:34:19.134036 

@@ -8,3 +8,6 @@
  luleyeso,     There it go LUL,        <Channel name: meltislive>,       2024-11-07 02:53:36.045872 
 
  luleyeso,     W 230k,        <Channel name: kaicenat>,       2024-11-07 13:30:37.760207 
+luleyeso,     W,        <Channel name: kaicenat>,       2024-11-07 16:03:39.784140 
+luleyeso,     W TRAINER,        <Channel name: kaicenat>,       2024-11-07 16:06:50.614361 
+luleyeso,     W,        <Channel name: kaicenat>,       2024-11-07 16:07:22.650683 

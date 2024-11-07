@@ -56,3 +56,8 @@
  kvt_679_,     I WAS HERE!  PowerUpL kaicStareee PowerUpR,        <Channel name: kaicenat>,       2024-11-07 13:34:40.202153 
 
  kvt_679_,     LETS GOOO  PowerUpL kaicStareee PowerUpR,        <Channel name: kaicenat>,       2024-11-07 13:34:55.974753 
+kvt_679_,     LETS GOOO  PowerUpL kaicStareee PowerUpR,        <Channel name: kaicenat>,       2024-11-07 16:19:05.719866 
+kvt_679_,     kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY kaicFireMGM kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 16:54:54.320910 
+kvt_679_,     PowerUpL kaicStareee PowerUpR  kaicFireMGM  PowerUpL kaicSoft  PowerUpR,        <Channel name: kaicenat>,       2024-11-07 16:55:16.795479 
+kvt_679_,     MercyWing1 kaicPray MercyWing2  MercyWing1 kaicPray MercyWing2,        <Channel name: kaicenat>,       2024-11-07 16:55:32.587906 
+kvt_679_,     MercyWing1 kaicPray MercyWing2  MercyWing1 kaicMGM kaicPray MercyWing2,        <Channel name: kaicenat>,       2024-11-07 16:55:58.689553 

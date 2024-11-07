@@ -1,0 +1,14 @@
+payway235,     n,        <Channel name: kaicenat>,       2024-11-07 16:09:41.906589 
+payway235,     w,        <Channel name: kaicenat>,       2024-11-07 16:09:44.713773 
+payway235,     ww,        <Channel name: kaicenat>,       2024-11-07 16:09:47.069789 
+payway235,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 16:09:48.731808 
+payway235,     ww,        <Channel name: kaicenat>,       2024-11-07 16:09:49.964716 
+payway235,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 16:09:52.034206 
+payway235,     wwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 16:09:55.182331 
+payway235,     wwwwwwwwwwww,        <Channel name: kaicenat>,       2024-11-07 16:09:58.572645 
+payway235,     www,        <Channel name: kaicenat>,       2024-11-07 16:10:00.086601 
+payway235,     these ads,        <Channel name: kaicenat>,       2024-11-07 16:10:13.875408 
+payway235,     w,        <Channel name: kaicenat>,       2024-11-07 16:10:49.928701 
+payway235,     www,        <Channel name: kaicenat>,       2024-11-07 16:11:32.549315 
+payway235,     wwwww,        <Channel name: kaicenat>,       2024-11-07 16:11:33.739871 
+payway235,     ww,        <Channel name: kaicenat>,       2024-11-07 16:13:07.406800 

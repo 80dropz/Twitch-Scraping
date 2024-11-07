@@ -1,0 +1,3 @@
+szymszenj,     !pc,        <Channel name: mongraal>,       2024-11-07 16:18:01.528303 
+szymszenj,     !spec,        <Channel name: mongraal>,       2024-11-07 16:18:06.955004 
+szymszenj,     OMG,        <Channel name: mongraal>,       2024-11-07 16:18:26.135271 

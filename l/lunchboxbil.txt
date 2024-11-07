@@ -1,2 +1,5 @@
 
  lunchboxbil,     What happ,        <Channel name: nadeshot>,       2024-11-07 02:45:16.981726 
+lunchboxbil,     Formal the legend,        <Channel name: formal>,       2024-11-07 16:41:59.377005 
+lunchboxbil,     You're insane,        <Channel name: formal>,       2024-11-07 16:55:12.079637 
+lunchboxbil,     Just gimme my moneyy,        <Channel name: formal>,       2024-11-07 16:55:19.273538 

@@ -1,0 +1,3 @@
+ido_damti,     999999,        <Channel name: kaicenat>,       2024-11-07 15:34:34.776682 
+ido_damti,     HeyGuys,        <Channel name: kaicenat>,       2024-11-07 15:36:31.520168 
+ido_damti,     tails,        <Channel name: kaicenat>,       2024-11-07 15:38:42.963298 

@@ -4,3 +4,4 @@
  pickmachine03,     get in discord kai,        <Channel name: silky>,       2024-11-07 02:13:11.082739 
 
  pickmachine03,     join discord,        <Channel name: silky>,       2024-11-07 02:13:26.099084 
+pickmachine03,     W Exagerrating,        <Channel name: kaicenat>,       2024-11-07 16:38:55.705519 

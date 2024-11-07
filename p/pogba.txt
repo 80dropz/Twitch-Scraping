@@ -1,0 +1,3 @@
+pogba,     hi poke,        <Channel name: pokelawls>,       2024-11-07 15:50:44.702141 
+pogba,     ????,        <Channel name: pokelawls>,       2024-11-07 15:51:01.070084 
+pogba,     lol,        <Channel name: pokelawls>,       2024-11-07 15:55:35.676062 

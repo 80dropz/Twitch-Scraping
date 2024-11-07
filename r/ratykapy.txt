@@ -1,0 +1,6 @@
+ratykapy,     when its warm,        <Channel name: kaicenat>,       2024-11-07 16:28:11.222575 
+ratykapy,     Nooo,        <Channel name: kaicenat>,       2024-11-07 16:28:27.354066 
+ratykapy,     NOO,        <Channel name: kaicenat>,       2024-11-07 16:31:24.328124 
+ratykapy,     its not warm enough,        <Channel name: kaicenat>,       2024-11-07 16:32:25.734802 
+ratykapy,     not warm enough,        <Channel name: kaicenat>,       2024-11-07 16:32:38.924951 
+ratykapy,     the stones are not warm enough,        <Channel name: kaicenat>,       2024-11-07 16:32:57.885738 

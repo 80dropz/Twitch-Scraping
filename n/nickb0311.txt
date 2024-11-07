@@ -8,3 +8,5 @@
  nickb0311,     what is he yappin about,        <Channel name: adapt>,       2024-11-07 02:00:22.018318 
 
  nickb0311,     3 am east coast,        <Channel name: silky>,       2024-11-07 02:43:21.231488 
+nickb0311,     !bracket,        <Channel name: adapt>,       2024-11-07 16:18:14.076174 
+nickb0311,     who ru playing with? who’s the squad?,        <Channel name: adapt>,       2024-11-07 16:20:21.545285 

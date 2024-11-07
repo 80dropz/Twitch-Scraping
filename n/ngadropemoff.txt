@@ -1,0 +1,7 @@
+ngadropemoff,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:38.217647 
+ngadropemoff,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:44.550910 
+ngadropemoff,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.695137 
+ngadropemoff,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:53.087491 
+ngadropemoff,     i was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:30.120622 
+ngadropemoff,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:13:14.065694 
+ngadropemoff,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:36.926212 

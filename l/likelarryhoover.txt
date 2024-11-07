@@ -1,0 +1,4 @@
+likelarryhoover,     yes,        <Channel name: kaicenat>,       2024-11-07 16:35:04.638367 
+likelarryhoover,     no,        <Channel name: kaicenat>,       2024-11-07 16:35:20.748485 
+likelarryhoover,     none,        <Channel name: kaicenat>,       2024-11-07 16:35:28.113001 
+likelarryhoover,     none more,        <Channel name: kaicenat>,       2024-11-07 16:35:36.023474 

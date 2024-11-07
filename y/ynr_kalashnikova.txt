@@ -18,3 +18,29 @@
  ynr_kalashnikova,     ALMOST 230K,        <Channel name: kaicenat>,       2024-11-07 12:01:12.292357 
 
  ynr_kalashnikova,     WW,        <Channel name: kaicenat>,       2024-11-07 12:04:01.140172 
+
+ ynr_kalashnikova,     kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 14:42:15.895013 
+
+ ynr_kalashnikova,     Capp,        <Channel name: kaicenat>,       2024-11-07 14:45:25.057035 
+
+ ynr_kalashnikova,     LMAOOOO BROO,        <Channel name: kaicenat>,       2024-11-07 14:46:59.357851 
+
+ ynr_kalashnikova,     lmaaooooo,        <Channel name: kaicenat>,       2024-11-07 14:48:33.109452 
+
+ ynr_kalashnikova,     LMAAOOOOOO,        <Channel name: kaicenat>,       2024-11-07 14:48:46.715318 
+
+ ynr_kalashnikova,     Green Goblin,        <Channel name: kaicenat>,       2024-11-07 14:51:58.377967 
+ynr_kalashnikova,     WW UZZIII,        <Channel name: kaicenat>,       2024-11-07 15:32:42.513578 
+ynr_kalashnikova,     WW,        <Channel name: kaicenat>,       2024-11-07 15:33:32.863951 
+ynr_kalashnikova,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:33:40.362533 
+ynr_kalashnikova,     YUUHHHH,        <Channel name: kaicenat>,       2024-11-07 15:34:23.153870 
+ynr_kalashnikova,     5,        <Channel name: kaicenat>,       2024-11-07 15:35:21.593789 
+ynr_kalashnikova,     6,        <Channel name: kaicenat>,       2024-11-07 15:35:24.124075 
+ynr_kalashnikova,     7,        <Channel name: kaicenat>,       2024-11-07 15:35:26.695773 
+ynr_kalashnikova,     8,        <Channel name: kaicenat>,       2024-11-07 15:35:29.235844 
+ynr_kalashnikova,     9,        <Channel name: kaicenat>,       2024-11-07 15:35:31.880211 
+ynr_kalashnikova,     20,        <Channel name: kaicenat>,       2024-11-07 15:35:35.429928 
+ynr_kalashnikova,     I CAAMEEE IN N WIT A NEW 40 GLOCKK,        <Channel name: kaicenat>,       2024-11-07 15:35:47.256267 
+ynr_kalashnikova,     YEEHHH,        <Channel name: kaicenat>,       2024-11-07 15:35:51.112686 
+ynr_kalashnikova,     MILLI ROCKK,        <Channel name: kaicenat>,       2024-11-07 15:36:00.287945 
+ynr_kalashnikova,     DIDDY ROCK,        <Channel name: kaicenat>,       2024-11-07 15:36:06.371777 

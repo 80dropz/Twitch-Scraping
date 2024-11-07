@@ -6,3 +6,4 @@
  littletac0o,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 10:56:00.861369 
 
  littletac0o,     cheer100,        <Channel name: kaicenat>,       2024-11-07 11:04:25.649848 
+littletac0o,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:45:09.107535 

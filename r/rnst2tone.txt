@@ -1,0 +1,4 @@
+rnst2tone,     wwww,        <Channel name: kaicenat>,       2024-11-07 15:40:54.785422 
+rnst2tone,     www,        <Channel name: kaicenat>,       2024-11-07 15:41:03.631016 
+rnst2tone,     !roulette 6,000,        <Channel name: kaicenat>,       2024-11-07 15:44:02.989562 
+rnst2tone,     tails ggs,        <Channel name: kaicenat>,       2024-11-07 15:52:32.550401 

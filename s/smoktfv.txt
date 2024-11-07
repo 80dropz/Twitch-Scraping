@@ -1,0 +1,2 @@
+smoktfv,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:35:24.928849 
+smoktfv,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:36:05.670134 

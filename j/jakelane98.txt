@@ -1,0 +1,8 @@
+jakelane98,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:42.183959 
+jakelane98,     pooll,        <Channel name: kaicenat>,       2024-11-07 16:55:46.297327 
+jakelane98,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:48.109482 
+jakelane98,     pool.,        <Channel name: kaicenat>,       2024-11-07 16:55:52.558206 
+jakelane98,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:58.425978 
+jakelane98,     pool.,        <Channel name: kaicenat>,       2024-11-07 16:56:03.755745 
+jakelane98,     pool..,        <Channel name: kaicenat>,       2024-11-07 16:56:07.831577 
+jakelane98,     pool,        <Channel name: kaicenat>,       2024-11-07 16:56:10.079871 

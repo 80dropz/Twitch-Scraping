@@ -35,3 +35,6 @@
  1ein1,     KAI FARMING,        <Channel name: kaicenat>,       2024-11-07 13:33:31.741069 
 
  1ein1,     WAITING FOR YALL TO DROW HIM,        <Channel name: kaicenat>,       2024-11-07 13:34:01.269557 
+1ein1,     NO,        <Channel name: kaicenat>,       2024-11-07 16:30:05.313340 
+1ein1,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:38.275923 
+1ein1,     6 OR 7,        <Channel name: kaicenat>,       2024-11-07 16:30:49.538486 

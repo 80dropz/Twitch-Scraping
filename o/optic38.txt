@@ -1,2 +1,6 @@
 
  optic38,     WAKE UPPPP,        <Channel name: kaicenat>,       2024-11-07 10:45:59.171468 
+optic38,     ! roulette lal,        <Channel name: kaicenat>,       2024-11-07 15:43:27.367744 
+optic38,     ! roulette all,        <Channel name: kaicenat>,       2024-11-07 15:43:32.947687 
+optic38,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:43:58.256654 
+optic38,     Rakai,        <Channel name: kaicenat>,       2024-11-07 16:23:56.929375 

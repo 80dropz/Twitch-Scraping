@@ -1,2 +1,12 @@
 
  2cleans_,     do u sleep here,        <Channel name: kaicenat>,       2024-11-07 13:14:02.059111 
+2cleans_,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:10.352604 
+2cleans_,     w juice,        <Channel name: kaicenat>,       2024-11-07 15:30:15.552573 
+2cleans_,     juice world,        <Channel name: kaicenat>,       2024-11-07 15:30:24.534711 
+2cleans_,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:27.963673 
+2cleans_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 15:36:17.851772 
+2cleans_,     !gamble 9,        <Channel name: kaicenat>,       2024-11-07 15:36:39.824865 
+2cleans_,     !roulette 9,        <Channel name: kaicenat>,       2024-11-07 15:37:33.962231 
+2cleans_,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 15:37:46.736349 
+2cleans_,     !roulette 104,        <Channel name: kaicenat>,       2024-11-07 15:40:57.899275 
+2cleans_,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:41:42.799231 

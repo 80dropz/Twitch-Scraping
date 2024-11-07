@@ -12,3 +12,5 @@
  tommyyourguy123,     SKIBIDI,        <Channel name: clix>,       2024-11-07 02:02:01.180521 
 
  tommyyourguy123,     UNC,        <Channel name: clix>,       2024-11-07 02:08:36.657482 
+tommyyourguy123,     YOU HAVE TO SING CLIX,        <Channel name: clix>,       2024-11-07 15:43:51.765072 
+tommyyourguy123,     U GOT TO SING,        <Channel name: clix>,       2024-11-07 15:43:55.512504 

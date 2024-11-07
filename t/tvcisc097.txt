@@ -1,0 +1,10 @@
+
+ tvcisc097,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 15:24:20.804990 
+
+ tvcisc097,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:24:23.616013 
+
+ tvcisc097,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:26:47.955552 
+
+ tvcisc097,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:26:50.355573 
+
+ tvcisc097,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:26:54.139200 

@@ -136,3 +136,62 @@
  vdako_,     uuh,        <Channel name: clix>,       2024-11-07 12:28:52.201479 
 
  vdako_,     ta shi,        <Channel name: clix>,       2024-11-07 12:29:24.421980 
+
+ vdako_,     NOOOOO,        <Channel name: clix>,       2024-11-07 15:23:22.762187 
+
+ vdako_,     SMH,        <Channel name: clix>,       2024-11-07 15:23:22.849996 
+
+ vdako_,     EZ,        <Channel name: clix>,       2024-11-07 15:23:34.561931 
+
+ vdako_,     !fncs,        <Channel name: clix>,       2024-11-07 15:25:03.908341 
+
+ vdako_,     oh ma,        <Channel name: clix>,       2024-11-07 15:25:04.259405 
+
+ vdako_,     negative ping mhm,        <Channel name: clix>,       2024-11-07 15:25:17.833752 
+
+ vdako_,     uuh,        <Channel name: clix>,       2024-11-07 15:25:30.992100 
+
+ vdako_,     uuh uuh,        <Channel name: clix>,       2024-11-07 15:25:35.123027 
+
+ vdako_,     ome44,        <Channel name: clix>,       2024-11-07 15:25:48.115172 
+
+ vdako_,     poomp,        <Channel name: clix>,       2024-11-07 15:26:10.381322 
+
+ vdako_,     no man,        <Channel name: clix>,       2024-11-07 15:26:29.939678 
+
+ vdako_,     bro ain’t pop his pads SAJ,        <Channel name: clix>,       2024-11-07 15:27:31.899252 
+vdako_,     lol,        <Channel name: clix>,       2024-11-07 15:28:33.523481 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 15:28:33.550745 
+vdako_,     mmmmm,        <Channel name: clix>,       2024-11-07 15:28:55.761611 
+vdako_,     lol,        <Channel name: clix>,       2024-11-07 15:29:20.141772 
+vdako_,     dude,        <Channel name: clix>,       2024-11-07 15:30:01.581751 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 15:30:08.596413 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 16:07:56.150988 
+vdako_,     16 hrs NOWAY,        <Channel name: clix>,       2024-11-07 16:09:34.687823 
+vdako_,     100 gifted u cant hit the back net,        <Channel name: clix>,       2024-11-07 16:10:20.776664 
+vdako_,     SMH,        <Channel name: clix>,       2024-11-07 16:11:12.620392 
+vdako_,     lol,        <Channel name: clix>,       2024-11-07 16:11:39.425654 
+vdako_,     lol,        <Channel name: clix>,       2024-11-07 16:12:56.501459 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 16:13:17.239666 
+vdako_,     clean ass bag moon,        <Channel name: clix>,       2024-11-07 16:13:39.576519 
+vdako_,     Classic,        <Channel name: clix>,       2024-11-07 16:14:12.732509 
+vdako_,     the grip uuh,        <Channel name: clix>,       2024-11-07 16:14:58.705991 
+vdako_,     otp,        <Channel name: clix>,       2024-11-07 16:15:39.935703 
+vdako_,     everthing a top Pffttt,        <Channel name: clix>,       2024-11-07 16:16:00.148087 
+vdako_,     crazy,        <Channel name: clix>,       2024-11-07 16:16:19.063010 
+vdako_,     use the 3 wood,        <Channel name: clix>,       2024-11-07 16:16:44.418715 
+vdako_,     womens driver?,        <Channel name: clix>,       2024-11-07 16:17:03.693206 
+vdako_,     slice like me mhm,        <Channel name: clix>,       2024-11-07 16:17:17.966739 
+vdako_,     own glove WTF,        <Channel name: clix>,       2024-11-07 16:17:38.107838 
+vdako_,     clean,        <Channel name: clix>,       2024-11-07 16:17:56.865877 
+vdako_,     bro too close lmao,        <Channel name: clix>,       2024-11-07 16:18:49.496975 
+vdako_,     ome44,        <Channel name: clix>,       2024-11-07 16:19:02.593054 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 16:21:52.220127 
+vdako_,     chip in ball,        <Channel name: clix>,       2024-11-07 16:22:17.015606 
+vdako_,     thts my 56 degree,        <Channel name: clix>,       2024-11-07 16:22:44.353520 
+vdako_,     huzz lol,        <Channel name: clix>,       2024-11-07 16:23:28.605508 
+vdako_,     uuh,        <Channel name: clix>,       2024-11-07 16:24:03.234297 
+vdako_,     mmmmmmmmmmmm,        <Channel name: clix>,       2024-11-07 16:24:23.701500 
+vdako_,     w waitress,        <Channel name: clix>,       2024-11-07 16:24:37.765126 
+vdako_,     WW,        <Channel name: clix>,       2024-11-07 16:25:34.428814 
+vdako_,     back net on the fly,        <Channel name: clix>,       2024-11-07 16:26:11.256339 

@@ -1,0 +1,2 @@
+fierce_kas,     solar,        <Channel name: nadeshot>,       2024-11-07 16:40:09.286807 
+fierce_kas,     solar was diffffy,        <Channel name: nadeshot>,       2024-11-07 16:40:20.246511 

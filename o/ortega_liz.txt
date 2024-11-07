@@ -1,0 +1,2 @@
+ortega_liz,     FACTS,        <Channel name: kaicenat>,       2024-11-07 16:17:48.403766 
+ortega_liz,     yes,        <Channel name: kaicenat>,       2024-11-07 16:23:08.564538 

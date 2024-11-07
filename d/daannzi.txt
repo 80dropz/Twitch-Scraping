@@ -1,0 +1,3 @@
+daannzi,     gigi,        <Channel name: pokelawls>,       2024-11-07 16:39:47.316078 
+daannzi,     giig,        <Channel name: pokelawls>,       2024-11-07 16:40:00.070454 
+daannzi,     OuttaPocket,        <Channel name: pokelawls>,       2024-11-07 16:40:05.708312 

@@ -1,0 +1,8 @@
+burgersun,     BLOCKED xdd,        <Channel name: stableronaldo>,       2024-11-07 16:17:17.796665 
+burgersun,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:50.533237 
+burgersun,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:19:17.341160 
+burgersun,     xdd,        <Channel name: stableronaldo>,       2024-11-07 16:21:35.394522 
+burgersun,     ome6,        <Channel name: stableronaldo>,       2024-11-07 16:21:42.214341 
+burgersun,     YO?,        <Channel name: stableronaldo>,       2024-11-07 16:23:01.284567 
+burgersun,     bleh,        <Channel name: stableronaldo>,       2024-11-07 16:23:12.345662 
+burgersun,     xdd,        <Channel name: stableronaldo>,       2024-11-07 16:24:21.503575 

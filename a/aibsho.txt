@@ -1,2 +1,8 @@
 
  aibsho,     when’s trio cup,        <Channel name: mongraal>,       2024-11-07 12:07:16.038173 
+
+ aibsho,     !pos,        <Channel name: mongraal>,       2024-11-07 15:27:14.289654 
+
+ aibsho,     !position,        <Channel name: mongraal>,       2024-11-07 15:27:19.590486 
+
+ aibsho,     2024 music,        <Channel name: mongraal>,       2024-11-07 15:27:36.362187 

@@ -1,0 +1,11 @@
+raav00,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:05.093464 
+raav00,     Sus,        <Channel name: stableronaldo>,       2024-11-07 16:10:15.531429 
+raav00,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:39.772503 
+raav00,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:16:23.333187 
+raav00,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:17:35.073151 
+raav00,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:50.842909 
+raav00,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:59.626144 
+raav00,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:16.629575 
+raav00,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:28.255662 
+raav00,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:25:45.502355 
+raav00,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:26:03.338371 

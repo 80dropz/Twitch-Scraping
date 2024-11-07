@@ -1,0 +1,2 @@
+journeii_007,     !roulette 7,        <Channel name: kaicenat>,       2024-11-07 15:44:37.167770 
+journeii_007,     !gamble,        <Channel name: kaicenat>,       2024-11-07 15:45:00.103448 

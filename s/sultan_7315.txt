@@ -352,3 +352,30 @@
  sultan_7315,     BRO YOU SOLD,        <Channel name: kaicenat>,       2024-11-07 13:36:37.516157 
 
  sultan_7315,     YOU SOLD!!!!,        <Channel name: kaicenat>,       2024-11-07 13:36:45.333368 
+
+ sultan_7315,     BRO CHECK RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:55:35.786682 
+sultan_7315,     What is this song dm,        <Channel name: kaicenat>,       2024-11-07 15:45:35.469883 
+sultan_7315,     YES,        <Channel name: kaicenat>,       2024-11-07 16:31:00.354924 
+sultan_7315,     WATER,        <Channel name: kaicenat>,       2024-11-07 16:31:27.364366 
+sultan_7315,     GGS,        <Channel name: kaicenat>,       2024-11-07 16:33:04.180944 
+sultan_7315,     GG’s,        <Channel name: kaicenat>,       2024-11-07 16:33:05.412457 
+sultan_7315,     Don’t dump,        <Channel name: kaicenat>,       2024-11-07 16:33:15.131968 
+sultan_7315,     Ggs,        <Channel name: kaicenat>,       2024-11-07 16:37:49.058251 
+sultan_7315,     BEO,        <Channel name: kaicenat>,       2024-11-07 16:37:51.615614 
+sultan_7315,     BRO,        <Channel name: kaicenat>,       2024-11-07 16:37:52.805321 
+sultan_7315,     NOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:37:58.152596 
+sultan_7315,     NOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:38:01.249398 
+sultan_7315,     Ggs,        <Channel name: kaicenat>,       2024-11-07 16:38:24.632055 
+sultan_7315,     AAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:38:25.836141 
+sultan_7315,     AAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:38:27.195580 
+sultan_7315,     AAAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:38:28.659628 
+sultan_7315,     PFFFFTTT,        <Channel name: kaicenat>,       2024-11-07 16:38:30.025808 
+sultan_7315,     pffffttt,        <Channel name: kaicenat>,       2024-11-07 16:38:31.503481 
+sultan_7315,     NOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:01.706809 
+sultan_7315,     NOOOOOI,        <Channel name: kaicenat>,       2024-11-07 16:40:05.043532 
+sultan_7315,     NOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:18.840420 
+sultan_7315,     NOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:22.071691 
+sultan_7315,     NOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:24.356417 
+sultan_7315,     NOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:28.427517 
+sultan_7315,     AAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:40:31.758639 
+sultan_7315,     GGS,        <Channel name: kaicenat>,       2024-11-07 16:40:34.316201 

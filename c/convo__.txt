@@ -1,0 +1,4 @@
+convo__,     aqua hop on fort rn,        <Channel name: plaqueboymax>,       2024-11-07 15:47:09.376563 
+convo__,     1v1 me,        <Channel name: plaqueboymax>,       2024-11-07 15:47:18.667980 
+convo__,     you nice or nah,        <Channel name: plaqueboymax>,       2024-11-07 15:48:26.713093 
+convo__,     hell no,        <Channel name: plaqueboymax>,       2024-11-07 15:49:18.826793 

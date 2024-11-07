@@ -2,3 +2,5 @@
  its247max,     @NomadLad yes,        <Channel name: pokelawls>,       2024-11-07 01:57:08.424425 
 
  its247max,     aga,        <Channel name: pokelawls>,       2024-11-07 01:59:51.319938 
+its247max,     aga,        <Channel name: pokelawls>,       2024-11-07 16:29:20.874682 
+its247max,     agastoned,        <Channel name: pokelawls>,       2024-11-07 16:29:45.757871 

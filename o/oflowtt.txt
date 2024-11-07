@@ -1,0 +1,3 @@
+oflowtt,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:14.052633 
+oflowtt,     no,        <Channel name: stableronaldo>,       2024-11-07 16:17:57.789243 
+oflowtt,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:18:22.223939 

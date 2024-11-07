@@ -4,3 +4,5 @@
  bdxbz,     DO CARTI TYPE,        <Channel name: plaqueboymax>,       2024-11-07 01:59:38.778340 
 
  bdxbz,     DRILL,        <Channel name: plaqueboymax>,       2024-11-07 02:00:38.835102 
+bdxbz,     STOP SHAKING,        <Channel name: lacy>,       2024-11-07 15:47:48.328571 
+bdxbz,     FUCK DREW,        <Channel name: lacy>,       2024-11-07 15:47:57.418606 

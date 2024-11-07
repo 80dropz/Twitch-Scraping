@@ -10,3 +10,4 @@
  vip_puncher,     gooners,        <Channel name: mongraal>,       2024-11-07 11:17:25.469592 
 
  vip_puncher,     stare,        <Channel name: mongraal>,       2024-11-07 11:18:41.502389 
+vip_puncher,     cap,        <Channel name: mongraal>,       2024-11-07 16:53:08.006808 

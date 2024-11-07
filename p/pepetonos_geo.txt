@@ -1,0 +1,4 @@
+pepetonos_geo,     nanaAYAYA,        <Channel name: aldo_geo>,       2024-11-07 16:23:39.260452 
+pepetonos_geo,     Que pasa pe,        <Channel name: aldo_geo>,       2024-11-07 16:25:12.679962 
+pepetonos_geo,     !gamble all,        <Channel name: aldo_geo>,       2024-11-07 16:28:11.184015 
+pepetonos_geo,     Fak,        <Channel name: aldo_geo>,       2024-11-07 16:28:11.215529 

@@ -1,0 +1,30 @@
+asharma20,     mic not working,        <Channel name: kaicenat>,       2024-11-07 16:43:35.194281 
+asharma20,     mic ain’t workin gang,        <Channel name: kaicenat>,       2024-11-07 16:43:41.026538 
+asharma20,     mic ain’t workin,        <Channel name: kaicenat>,       2024-11-07 16:44:00.796101 
+asharma20,     mic ain’t workin gang,        <Channel name: kaicenat>,       2024-11-07 16:44:04.132816 
+asharma20,     mic ain’t workin,        <Channel name: kaicenat>,       2024-11-07 16:44:10.018943 
+asharma20,     mic ain’t workin gang,        <Channel name: kaicenat>,       2024-11-07 16:44:14.270226 
+asharma20,     turn the mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:24.454013 
+asharma20,     turn mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:26.496503 
+asharma20,     turn mic on gang,        <Channel name: kaicenat>,       2024-11-07 16:44:29.077546 
+asharma20,     turn mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:31.638710 
+asharma20,     turn mic on gang,        <Channel name: kaicenat>,       2024-11-07 16:44:34.914775 
+asharma20,     turn mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:38.136217 
+asharma20,     turn mic on gang,        <Channel name: kaicenat>,       2024-11-07 16:44:42.005926 
+asharma20,     turn mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:52.380797 
+asharma20,     turn mic on gang,        <Channel name: kaicenat>,       2024-11-07 16:44:55.982818 
+asharma20,     turn mic on,        <Channel name: kaicenat>,       2024-11-07 16:44:59.569858 
+asharma20,     no,        <Channel name: kaicenat>,       2024-11-07 16:45:05.242089 
+asharma20,     nope,        <Channel name: kaicenat>,       2024-11-07 16:45:08.706031 
+asharma20,     now it is,        <Channel name: kaicenat>,       2024-11-07 16:45:13.649210 
+asharma20,     ur mic gang,        <Channel name: kaicenat>,       2024-11-07 16:54:21.332648 
+asharma20,     ur mic bro,        <Channel name: kaicenat>,       2024-11-07 16:54:36.363683 
+asharma20,     gang ur mic im not lyin,        <Channel name: kaicenat>,       2024-11-07 16:54:45.293641 
+asharma20,     ur mic im not lyin,        <Channel name: kaicenat>,       2024-11-07 16:55:06.678586 
+asharma20,     gang ur mic im not lyin,        <Channel name: kaicenat>,       2024-11-07 16:55:10.690531 
+asharma20,     ur mic im not lyin,        <Channel name: kaicenat>,       2024-11-07 16:55:17.391619 
+asharma20,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:26.274903 
+asharma20,     pool bro,        <Channel name: kaicenat>,       2024-11-07 16:55:29.525668 
+asharma20,     go pool,        <Channel name: kaicenat>,       2024-11-07 16:55:33.845149 
+asharma20,     GO POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:36.933875 
+asharma20,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:45.864470 

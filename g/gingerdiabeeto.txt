@@ -1,0 +1,3 @@
+gingerdiabeeto,     play da so g,        <Channel name: stableronaldo>,       2024-11-07 16:06:29.118229 
+gingerdiabeeto,     covid,        <Channel name: stableronaldo>,       2024-11-07 16:06:42.474995 
+gingerdiabeeto,     fat,        <Channel name: stableronaldo>,       2024-11-07 16:06:52.678024 

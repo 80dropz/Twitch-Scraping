@@ -1,0 +1,6 @@
+kerezmanots,     w mom,        <Channel name: stableronaldo>,       2024-11-07 16:08:37.006140 
+kerezmanots,     w momm,        <Channel name: stableronaldo>,       2024-11-07 16:08:38.627238 
+kerezmanots,     ww mom,        <Channel name: stableronaldo>,       2024-11-07 16:08:40.183417 
+kerezmanots,     www mom,        <Channel name: stableronaldo>,       2024-11-07 16:08:42.704327 
+kerezmanots,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:02.313211 
+kerezmanots,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.322345 

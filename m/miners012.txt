@@ -1,2 +1,17 @@
 
  miners012,     hey,        <Channel name: nadeshot>,       2024-11-07 12:49:56.727398 
+miners012,     GG,        <Channel name: nadeshot>,       2024-11-07 15:59:17.729565 
+miners012,     w,        <Channel name: nadeshot>,       2024-11-07 15:59:21.218648 
+miners012,     W,        <Channel name: nadeshot>,       2024-11-07 15:59:28.614419 
+miners012,     WWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:31.358751 
+miners012,     WWWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:33.041628 
+miners012,     WWWWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:34.483443 
+miners012,     WWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:35.584521 
+miners012,     WWWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:36.718786 
+miners012,     WWWWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:38.123641 
+miners012,     WWWWW,        <Channel name: nadeshot>,       2024-11-07 15:59:40.501615 
+miners012,     WWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:01:47.790555 
+miners012,     WWWWWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:01:48.982696 
+miners012,     WWWWWWWWWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:01:50.454165 
+miners012,     WWWWWWWWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:01:53.620402 
+miners012,     WWWWWWWWWWWWWW,        <Channel name: nadeshot>,       2024-11-07 16:01:55.018839 

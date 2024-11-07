@@ -1,0 +1,7 @@
+moaftermo,     WAIT,        <Channel name: kaicenat>,       2024-11-07 16:28:34.180791 
+moaftermo,     OV,        <Channel name: kaicenat>,       2024-11-07 16:32:36.357017 
+moaftermo,     GIVE UP AND LEAVE,        <Channel name: kaicenat>,       2024-11-07 16:32:45.975309 
+moaftermo,     GO DO SOMETHING ELSE,        <Channel name: kaicenat>,       2024-11-07 16:32:51.602282 
+moaftermo,     YOU FUCKED IT,        <Channel name: kaicenat>,       2024-11-07 16:32:56.644094 
+moaftermo,     DONT POUR NO MORE WATER,        <Channel name: kaicenat>,       2024-11-07 16:33:26.893121 
+moaftermo,     NO!,        <Channel name: kaicenat>,       2024-11-07 16:34:01.933916 

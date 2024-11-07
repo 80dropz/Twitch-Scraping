@@ -1,0 +1,2 @@
+shifty1xz,     !trio,        <Channel name: clix>,       2024-11-07 15:31:50.152679 
+shifty1xz,     !duo,        <Channel name: clix>,       2024-11-07 15:32:05.684506 

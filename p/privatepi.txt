@@ -1,0 +1,5 @@
+privatepi,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:07:32.303991 
+privatepi,     big read,        <Channel name: nadeshot>,       2024-11-07 16:11:11.253491 
+privatepi,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:11:26.537386 
+privatepi,     legendary run incoming,        <Channel name: nadeshot>,       2024-11-07 16:12:50.520826 
+privatepi,     lmao,        <Channel name: nadeshot>,       2024-11-07 16:13:36.056756 

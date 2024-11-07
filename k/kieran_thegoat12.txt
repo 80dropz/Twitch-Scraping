@@ -1,0 +1,2 @@
+kieran_thegoat12,     !watchtime,        <Channel name: clix>,       2024-11-07 16:04:00.339832 
+kieran_thegoat12,     ! hours,        <Channel name: clix>,       2024-11-07 16:07:04.152440 

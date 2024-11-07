@@ -1,0 +1,5 @@
+
+ john4427,     HAH,        <Channel name: lacy>,       2024-11-07 15:27:40.239159 
+john4427,     CALL ALEXA FOR MORE HELP,        <Channel name: lacy>,       2024-11-07 15:50:05.033237 
+john4427,     make the call for more help,        <Channel name: lacy>,       2024-11-07 15:50:27.583254 
+john4427,     call alexa for more help,        <Channel name: lacy>,       2024-11-07 16:14:26.481585 

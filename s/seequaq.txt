@@ -2,3 +2,6 @@
  seequaq,     kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM kaicFireMGM,        <Channel name: kaicenat>,       2024-11-07 02:37:47.690004 
 
  seequaq,     kaicDubs kaicDubs kaicDubs kaicDubs,        <Channel name: kaicenat>,       2024-11-07 11:04:51.130156 
+seequaq,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 15:55:18.684362 
+seequaq,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:45:37.264002 
+seequaq,     kaicDubs kaicDubs kaicDubs,        <Channel name: kaicenat>,       2024-11-07 16:48:23.957178 

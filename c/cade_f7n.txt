@@ -1,0 +1,6 @@
+cade_f7n,     w,        <Channel name: kaicenat>,       2024-11-07 16:21:38.783174 
+cade_f7n,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 16:21:39.818159 
+cade_f7n,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 16:21:40.965542 
+cade_f7n,     wwwwww,        <Channel name: kaicenat>,       2024-11-07 16:21:42.059199 
+cade_f7n,     wwwwwww,        <Channel name: kaicenat>,       2024-11-07 16:21:43.407268 
+cade_f7n,     wwww,        <Channel name: kaicenat>,       2024-11-07 16:21:44.581321 

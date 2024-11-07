@@ -1,0 +1,37 @@
+murkedq,     PRODUCTION CHRCK RAKAI,        <Channel name: kaicenat>,       2024-11-07 15:51:48.319016 
+murkedq,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:03:17.218081 
+murkedq,     watchtime!,        <Channel name: kaicenat>,       2024-11-07 16:03:22.538188 
+murkedq,     10 mins,        <Channel name: kaicenat>,       2024-11-07 16:18:45.786927 
+murkedq,     PRODUCTION SWITCH CAM RAKAI,        <Channel name: kaicenat>,       2024-11-07 16:19:26.187244 
+murkedq,     can you show RAKAI,        <Channel name: kaicenat>,       2024-11-07 16:20:48.013437 
+murkedq,     check on that lil nigga,        <Channel name: kaicenat>,       2024-11-07 16:22:32.239102 
+murkedq,     check on lil bro,        <Channel name: kaicenat>,       2024-11-07 16:24:57.614243 
+murkedq,     CHECK LIL BEOOO,        <Channel name: kaicenat>,       2024-11-07 16:25:30.434162 
+murkedq,     TAKE UR SHOWS OFF,        <Channel name: kaicenat>,       2024-11-07 16:26:01.144682 
+murkedq,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 16:26:37.294759 
+murkedq,     U GOTTA PUT UR PHONW AWAY WGEN ITS ON,        <Channel name: kaicenat>,       2024-11-07 16:28:11.280164 
+murkedq,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 16:28:47.006699 
+murkedq,     PUT UR PHONE AWAY,        <Channel name: kaicenat>,       2024-11-07 16:30:07.826946 
+murkedq,     NIGGA PUT UR ELECTRONICS AWAY,        <Channel name: kaicenat>,       2024-11-07 16:30:24.371615 
+murkedq,     70-80,        <Channel name: kaicenat>,       2024-11-07 16:30:33.718037 
+murkedq,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:38.321946 
+murkedq,     por water,        <Channel name: kaicenat>,       2024-11-07 16:31:09.881055 
+murkedq,     Kai you looking big no diddy,        <Channel name: kaicenat>,       2024-11-07 16:31:45.502822 
+murkedq,     gf,        <Channel name: kaicenat>,       2024-11-07 16:34:25.373892 
+murkedq,     BRO,        <Channel name: kaicenat>,       2024-11-07 16:34:37.107153 
+murkedq,     STIP,        <Channel name: kaicenat>,       2024-11-07 16:34:39.106277 
+murkedq,     PRODUCTION STOP THIS JIT,        <Channel name: kaicenat>,       2024-11-07 16:34:55.675192 
+murkedq,     YEAJ,        <Channel name: kaicenat>,       2024-11-07 16:34:57.706394 
+murkedq,     YEAH,        <Channel name: kaicenat>,       2024-11-07 16:35:01.466764 
+murkedq,     night stip,        <Channel name: kaicenat>,       2024-11-07 16:37:48.390362 
+murkedq,     NOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:37:51.374435 
+murkedq,     just leave,        <Channel name: kaicenat>,       2024-11-07 16:38:22.664425 
+murkedq,     WWWWW AING,        <Channel name: kaicenat>,       2024-11-07 16:39:35.660819 
+murkedq,     SONG,        <Channel name: kaicenat>,       2024-11-07 16:39:37.216247 
+murkedq,     WWWWW SONG,        <Channel name: kaicenat>,       2024-11-07 16:39:41.236190 
+murkedq,     LATUOPPP,        <Channel name: kaicenat>,       2024-11-07 16:40:11.205744 
+murkedq,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:40:12.959604 
+murkedq,     DONT DO IT,        <Channel name: kaicenat>,       2024-11-07 16:40:20.989759 
+murkedq,     PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:40:54.153491 
+murkedq,     SO THID GUY,        <Channel name: kaicenat>,       2024-11-07 16:40:57.966286 
+murkedq,     L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:44:04.818873 

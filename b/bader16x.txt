@@ -1,0 +1,20 @@
+
+ bader16x,     OV,        <Channel name: lacy>,       2024-11-07 14:43:19.386403 
+
+ bader16x,     gg,        <Channel name: lacy>,       2024-11-07 14:43:41.992993 
+
+ bader16x,     LMAO,        <Channel name: lacy>,       2024-11-07 14:44:54.286526 
+
+ bader16x,     LMFAO,        <Channel name: lacy>,       2024-11-07 14:46:28.487842 
+
+ bader16x,     lacyExplode,        <Channel name: lacy>,       2024-11-07 14:47:39.143469 
+
+ bader16x,     uuh,        <Channel name: lacy>,       2024-11-07 14:51:37.286734 
+
+ bader16x,     jorkin nut,        <Channel name: lacy>,       2024-11-07 14:51:57.259210 
+
+ bader16x,     WhatTaahFuck,        <Channel name: lacy>,       2024-11-07 14:53:10.355095 
+bader16x,     AURA,        <Channel name: clix>,       2024-11-07 15:42:52.041679 
+bader16x,     ome44,        <Channel name: clix>,       2024-11-07 15:42:59.297811 
+bader16x,     bock,        <Channel name: clix>,       2024-11-07 15:43:10.282815 
+bader16x,     AURA,        <Channel name: clix>,       2024-11-07 15:50:32.694776 

@@ -10,3 +10,5 @@
  doon_tv,     WWWWWWWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:31:13.661150 
 
  doon_tv,     WWWWW 230K,        <Channel name: kaicenat>,       2024-11-07 13:32:20.912242 
+
+ doon_tv,     WWWW HALO,        <Channel name: kaicenat>,       2024-11-07 14:44:28.637217 

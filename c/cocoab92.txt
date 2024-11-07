@@ -1,0 +1,4 @@
+cocoab92,     W,        <Channel name: swagg>,       2024-11-07 16:54:52.519977 
+cocoab92,     swegDex swegDex swegDex swegDex,        <Channel name: swagg>,       2024-11-07 16:55:21.145227 
+cocoab92,     swegDexHype swegDexHype swegDexHype swegDexHype swegDexHype swegDexHype,        <Channel name: swagg>,       2024-11-07 16:55:33.186052 
+cocoab92,     w,        <Channel name: swagg>,       2024-11-07 16:56:02.869693 

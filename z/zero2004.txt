@@ -1,0 +1,3 @@
+zero2004,     1,        <Channel name: swagg>,       2024-11-07 16:15:48.883081 
+zero2004,     11,        <Channel name: swagg>,       2024-11-07 16:15:54.720858 
+zero2004,     1,        <Channel name: swagg>,       2024-11-07 16:15:58.015155 

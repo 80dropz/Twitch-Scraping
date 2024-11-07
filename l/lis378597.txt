@@ -1,0 +1,3 @@
+lis378597,     L PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:44:44.098754 
+lis378597,     BILLIE,        <Channel name: kaicenat>,       2024-11-07 16:46:05.441798 
+lis378597,     BILLIE,        <Channel name: kaicenat>,       2024-11-07 16:47:52.812570 

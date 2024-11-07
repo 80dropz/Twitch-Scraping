@@ -1,0 +1,8 @@
+flex_yt12,     ggs,        <Channel name: kaicenat>,       2024-11-07 16:34:30.981425 
+flex_yt12,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:33.309108 
+flex_yt12,     g,        <Channel name: kaicenat>,       2024-11-07 16:34:34.344255 
+flex_yt12,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:36.300167 
+flex_yt12,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:42.602043 
+flex_yt12,     nono,        <Channel name: kaicenat>,       2024-11-07 16:34:46.209981 
+flex_yt12,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:47.838408 
+flex_yt12,     no more water bro or u will beake it,        <Channel name: kaicenat>,       2024-11-07 16:36:49.114966 

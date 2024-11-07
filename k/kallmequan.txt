@@ -1,0 +1,2 @@
+kallmequan,     max the temp,        <Channel name: kaicenat>,       2024-11-07 16:40:21.482333 
+kallmequan,     set temp higher,        <Channel name: kaicenat>,       2024-11-07 16:40:58.371869 

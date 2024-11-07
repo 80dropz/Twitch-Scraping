@@ -1,0 +1,4 @@
+marayafaith,     mic check,        <Channel name: kaicenat>,       2024-11-07 16:29:41.300811 
+marayafaith,     barley,        <Channel name: kaicenat>,       2024-11-07 16:29:47.926868 
+marayafaith,     mic check,        <Channel name: kaicenat>,       2024-11-07 16:29:59.101464 
+marayafaith,     mic check mic check,        <Channel name: kaicenat>,       2024-11-07 16:30:13.151076 

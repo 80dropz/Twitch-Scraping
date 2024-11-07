@@ -1,0 +1,6 @@
+tmoil,     !playlisy,        <Channel name: kaicenat>,       2024-11-07 16:45:15.409796 
+tmoil,     !playlist,        <Channel name: kaicenat>,       2024-11-07 16:45:18.400184 
+tmoil,     !playlisyt,        <Channel name: kaicenat>,       2024-11-07 16:46:22.095209 
+tmoil,     !playlisty,        <Channel name: kaicenat>,       2024-11-07 16:46:25.427672 
+tmoil,     !playlist,        <Channel name: kaicenat>,       2024-11-07 16:46:28.438860 
+tmoil,     !speaker,        <Channel name: kaicenat>,       2024-11-07 16:53:50.939450 

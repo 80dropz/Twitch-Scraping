@@ -6,3 +6,4 @@
  megatrac,     yo that’s crazy weak from twitch,        <Channel name: nadeshot>,       2024-11-07 13:07:18.336484 
 
  megatrac,     WWWW,        <Channel name: nadeshot>,       2024-11-07 13:08:29.784739 
+megatrac,     LOL,        <Channel name: nadeshot>,       2024-11-07 16:54:51.678629 

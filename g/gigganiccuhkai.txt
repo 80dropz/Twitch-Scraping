@@ -4,3 +4,8 @@
  gigganiccuhkai,     SAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAME,        <Channel name: kaicenat>,       2024-11-07 10:05:38.346402 
 
  gigganiccuhkai,     SAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAMESAY MY NAME SAY MY NAME SAY MY NAME,        <Channel name: kaicenat>,       2024-11-07 10:05:45.951707 
+gigganiccuhkai,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:41.856116 
+gigganiccuhkai,     !point,        <Channel name: kaicenat>,       2024-11-07 15:43:53.483005 
+gigganiccuhkai,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:44:40.173331 
+gigganiccuhkai,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:27.558901 
+gigganiccuhkai,     CHDCK RAKAII,        <Channel name: kaicenat>,       2024-11-07 16:19:34.012440 

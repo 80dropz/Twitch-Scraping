@@ -6,3 +6,6 @@
  czstaa,     www,        <Channel name: kaicenat>,       2024-11-07 02:09:46.180455 
 
  czstaa,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 02:25:46.377764 
+czstaa,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:05.050289 
+czstaa,     yes,        <Channel name: kaicenat>,       2024-11-07 16:26:17.343791 
+czstaa,     8,        <Channel name: kaicenat>,       2024-11-07 16:30:49.741115 

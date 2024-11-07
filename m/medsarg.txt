@@ -1,0 +1,3 @@
+medsarg,     !trio,        <Channel name: clix>,       2024-11-07 15:45:07.892748 
+medsarg,     Nice,        <Channel name: clix>,       2024-11-07 15:45:21.035560 
+medsarg,     ! Hvilken bil,        <Channel name: clix>,       2024-11-07 15:45:44.153863 

@@ -16,3 +16,7 @@
  tonyteed,     cap,        <Channel name: kaicenat>,       2024-11-07 02:49:52.778422 
 
  tonyteed,     ccapppppppp,        <Channel name: kaicenat>,       2024-11-07 02:49:56.889227 
+
+ tonyteed,     CCCAP,        <Channel name: kaicenat>,       2024-11-07 15:23:22.812860 
+
+ tonyteed,     CAP,        <Channel name: kaicenat>,       2024-11-07 15:23:22.820372 

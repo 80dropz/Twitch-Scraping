@@ -1,0 +1,2 @@
+n1055,     stop using sniper unc,        <Channel name: adapt>,       2024-11-07 15:43:46.276573 
+n1055,     ggs,        <Channel name: adapt>,       2024-11-07 15:45:00.661250 

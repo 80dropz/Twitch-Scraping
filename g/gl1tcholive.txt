@@ -1,0 +1,8 @@
+gl1tcholive,     WW,        <Channel name: clix>,       2024-11-07 15:42:50.794420 
+gl1tcholive,     we bacl,        <Channel name: clix>,       2024-11-07 15:43:12.573136 
+gl1tcholive,     WWW,        <Channel name: clix>,       2024-11-07 15:43:19.796773 
+gl1tcholive,     WWWW,        <Channel name: clix>,       2024-11-07 16:18:08.476053 
+gl1tcholive,     LMAO,        <Channel name: clix>,       2024-11-07 16:18:50.469108 
+gl1tcholive,     HUH,        <Channel name: clix>,       2024-11-07 16:19:12.985922 
+gl1tcholive,     LMAO,        <Channel name: clix>,       2024-11-07 16:23:01.560474 
+gl1tcholive,     HAHAHA,        <Channel name: clix>,       2024-11-07 16:23:27.066055 

@@ -1,0 +1,8 @@
+l0tso,     YOU NEED WATER,        <Channel name: kaicenat>,       2024-11-07 16:25:16.908955 
+l0tso,     YES,        <Channel name: kaicenat>,       2024-11-07 16:30:54.732111 
+l0tso,     NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:21.466886 
+l0tso,     GG,        <Channel name: kaicenat>,       2024-11-07 16:32:44.703793 
+l0tso,     ITS OVER,        <Channel name: kaicenat>,       2024-11-07 16:32:50.050362 
+l0tso,     BRO ITS NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:33:04.185944 
+l0tso,     HES BREAKING IT,        <Channel name: kaicenat>,       2024-11-07 16:41:04.735174 
+l0tso,     GG SAUNA,        <Channel name: kaicenat>,       2024-11-07 16:41:16.451381 

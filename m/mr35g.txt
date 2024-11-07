@@ -1,0 +1,2 @@
+mr35g,     !lb,        <Channel name: mongraal>,       2024-11-07 15:29:42.146424 
+mr35g,     !leaderboard,        <Channel name: mongraal>,       2024-11-07 15:30:07.042130 

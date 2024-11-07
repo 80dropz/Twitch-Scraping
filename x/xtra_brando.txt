@@ -1,0 +1,2 @@
+xtra_brando,     this gun is terrible,        <Channel name: nadeshot>,       2024-11-07 15:41:32.091797 
+xtra_brando,     nade bro you moving to much,        <Channel name: nadeshot>,       2024-11-07 16:12:42.886554 

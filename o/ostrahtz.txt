@@ -1,0 +1,4 @@
+ostrahtz,     go to the doctor,        <Channel name: stableronaldo>,       2024-11-07 15:59:48.643950 
+ostrahtz,     w script,        <Channel name: stableronaldo>,       2024-11-07 15:59:57.044012 
+ostrahtz,     yea,        <Channel name: stableronaldo>,       2024-11-07 16:00:20.023900 
+ostrahtz,     yes it wouldnt hurt to go,        <Channel name: stableronaldo>,       2024-11-07 16:00:55.540315 

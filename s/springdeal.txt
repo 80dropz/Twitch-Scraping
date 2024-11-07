@@ -1,0 +1,5 @@
+
+ springdeal,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:39.633692 
+
+ springdeal,     RAKAI *,        <Channel name: kaicenat>,       2024-11-07 14:54:01.282745 
+springdeal,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:32.083129 

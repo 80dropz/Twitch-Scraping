@@ -1,0 +1,2 @@
+hersonfn,     ome35,        <Channel name: stableronaldo>,       2024-11-07 15:55:24.552553 
+hersonfn,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:34.986994 

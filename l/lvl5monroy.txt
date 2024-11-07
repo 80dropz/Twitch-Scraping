@@ -1,0 +1,5 @@
+lvl5monroy,     stabeWHITE2 stabeWHITE2 stabeWHITE2 stabeWHITE2,        <Channel name: stableronaldo>,       2024-11-07 15:55:12.470597 
+lvl5monroy,     stabeWHITE2 stabeWHITE2 stabeWHITE2,        <Channel name: stableronaldo>,       2024-11-07 15:55:17.313573 
+lvl5monroy,     stabeWHITE2,        <Channel name: stableronaldo>,       2024-11-07 15:55:19.323229 
+lvl5monroy,     stabeWHITE2 stabeWHITE2 stabeWHITE2 stabeWHITE2,        <Channel name: stableronaldo>,       2024-11-07 15:55:21.089783 
+lvl5monroy,     SZAAAAAAAAAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 15:56:22.818778 

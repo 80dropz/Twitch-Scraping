@@ -1,0 +1,2 @@
+00boltzz,     ome32,        <Channel name: kaicenat>,       2024-11-07 15:38:30.793975 
+00boltzz,     !ome32,        <Channel name: kaicenat>,       2024-11-07 15:38:40.442133 

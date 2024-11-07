@@ -1,0 +1,14 @@
+sin0f,     what filters,        <Channel name: stableronaldo>,       2024-11-07 16:14:21.948496 
+sin0f,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:45.025560 
+sin0f,     LMFAOOO,        <Channel name: stableronaldo>,       2024-11-07 16:15:00.793950 
+sin0f,     THE RIZZLER,        <Channel name: stableronaldo>,       2024-11-07 16:15:21.177679 
+sin0f,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:16:24.961873 
+sin0f,     WW HUNGER,        <Channel name: stableronaldo>,       2024-11-07 16:17:12.514144 
+sin0f,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:55.090290 
+sin0f,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:04.991560 
+sin0f,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:13.047200 
+sin0f,     RONONDAROAD,        <Channel name: stableronaldo>,       2024-11-07 16:20:12.732376 
+sin0f,     WW LUD,        <Channel name: stableronaldo>,       2024-11-07 16:20:18.654862 
+sin0f,     O,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.442374 
+sin0f,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:29.845426 
+sin0f,     I GUESS SOMEONE SAID THAT?,        <Channel name: stableronaldo>,       2024-11-07 16:24:08.919750 

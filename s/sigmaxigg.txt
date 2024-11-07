@@ -1,0 +1,2 @@
+sigmaxigg,     what song,        <Channel name: nadeshot>,       2024-11-07 15:47:50.008560 
+sigmaxigg,     what was the song chat,        <Channel name: nadeshot>,       2024-11-07 15:49:55.881382 

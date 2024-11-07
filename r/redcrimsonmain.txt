@@ -70,3 +70,6 @@
  redcrimsonmain,     another cap.,        <Channel name: kaicenat>,       2024-11-07 02:40:33.088322 
 
  redcrimsonmain,     LMFAOOOOOOOOOOOOOOOOOOOOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 02:40:54.400340 
+redcrimsonmain,     WW WW,        <Channel name: kaicenat>,       2024-11-07 16:07:24.493367 
+redcrimsonmain,     WW,        <Channel name: kaicenat>,       2024-11-07 16:08:10.970073 
+redcrimsonmain,     WW WW,        <Channel name: kaicenat>,       2024-11-07 16:08:12.369381 

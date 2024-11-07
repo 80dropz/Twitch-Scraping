@@ -1,0 +1,2 @@
+j5iscrazy,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 15:36:53.346060 
+j5iscrazy,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:37:20.337977 

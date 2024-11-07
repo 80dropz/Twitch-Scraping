@@ -24,3 +24,6 @@
  greaseymonkey,     catPls catGroove catPls,        <Channel name: pokelawls>,       2024-11-07 02:52:31.121959 
 
  greaseymonkey,     Classic,        <Channel name: pokelawls>,       2024-11-07 02:53:41.454053 
+greaseymonkey,     omE,        <Channel name: pokelawls>,       2024-11-07 16:12:21.156615 
+greaseymonkey,     Pffttt,        <Channel name: pokelawls>,       2024-11-07 16:13:48.060711 
+greaseymonkey,     hesRight,        <Channel name: pokelawls>,       2024-11-07 16:52:38.667515 

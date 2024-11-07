@@ -42,3 +42,10 @@
  x2noel,     is tmrw last day of subathon,        <Channel name: mongraal>,       2024-11-07 13:32:32.442824 
 
  x2noel,     oh ok thx chat,        <Channel name: mongraal>,       2024-11-07 13:34:02.559541 
+
+ x2noel,     !p 59,        <Channel name: mongraal>,       2024-11-07 14:49:25.668366 
+
+ x2noel,     !x 6/6,        <Channel name: mongraal>,       2024-11-07 14:49:34.465796 
+
+ x2noel,     !x 6/6,        <Channel name: mongraal>,       2024-11-07 14:49:49.512865 
+x2noel,     !comm,        <Channel name: mongraal>,       2024-11-07 15:35:50.759681 

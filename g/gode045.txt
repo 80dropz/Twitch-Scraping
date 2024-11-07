@@ -1,0 +1,2 @@
+gode045,     Amsterdam,        <Channel name: swagg>,       2024-11-07 15:51:23.039872 
+gode045,     1,        <Channel name: swagg>,       2024-11-07 16:15:51.965723 

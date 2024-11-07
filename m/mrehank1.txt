@@ -1,0 +1,6 @@
+mrehank1,     where u going,        <Channel name: clix>,       2024-11-07 16:03:36.311841 
+mrehank1,     where u goinggg,        <Channel name: clix>,       2024-11-07 16:03:43.355686 
+mrehank1,     where I going,        <Channel name: clix>,       2024-11-07 16:04:15.145169 
+mrehank1,     what’s the plan@clix,        <Channel name: clix>,       2024-11-07 16:04:31.124589 
+mrehank1,     ?,        <Channel name: clix>,       2024-11-07 16:04:33.684349 
+mrehank1,     where u going?@clix,        <Channel name: clix>,       2024-11-07 16:04:59.917152 

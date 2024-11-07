@@ -1,0 +1,7 @@
+legacy_sheep,     Goon in,        <Channel name: nadeshot>,       2024-11-07 15:45:39.384480 
+legacy_sheep,     We gooning,        <Channel name: nadeshot>,       2024-11-07 15:46:08.025507 
+legacy_sheep,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:46:26.003529 
+legacy_sheep,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:47:01.835958 
+legacy_sheep,     !T2G,        <Channel name: nadeshot>,       2024-11-07 15:49:17.640426 
+legacy_sheep,     T2G,        <Channel name: nadeshot>,       2024-11-07 15:59:25.707865 
+legacy_sheep,     Gooning,        <Channel name: nadeshot>,       2024-11-07 16:01:59.020141 

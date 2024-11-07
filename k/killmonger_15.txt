@@ -1,0 +1,6 @@
+killmonger_15,     www,        <Channel name: kaicenat>,       2024-11-07 16:01:53.378886 
+killmonger_15,     teccaaaaaaaaa,        <Channel name: kaicenat>,       2024-11-07 16:01:56.682295 
+killmonger_15,     1 more,        <Channel name: kaicenat>,       2024-11-07 16:12:10.936658 
+killmonger_15,     w coach,        <Channel name: kaicenat>,       2024-11-07 16:16:20.515100 
+killmonger_15,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:28.464995 
+killmonger_15,     Yess,        <Channel name: kaicenat>,       2024-11-07 16:26:39.968827 

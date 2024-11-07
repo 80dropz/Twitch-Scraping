@@ -1,0 +1,5 @@
+kcvsp,     KaiMafia2,        <Channel name: kaicenat>,       2024-11-07 16:08:55.411116 
+kcvsp,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:09:08.871616 
+kcvsp,     Squid1 Squid3 Squid2 Squid4,        <Channel name: kaicenat>,       2024-11-07 16:09:34.026238 
+kcvsp,     ;p,        <Channel name: kaicenat>,       2024-11-07 16:09:56.930120 
+kcvsp,     !followage,        <Channel name: kaicenat>,       2024-11-07 16:10:06.323752 

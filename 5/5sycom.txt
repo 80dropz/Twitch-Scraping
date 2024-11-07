@@ -1,0 +1,7 @@
+5sycom,     1010,        <Channel name: kaicenat>,       2024-11-07 16:33:05.665391 
+5sycom,     AAAAAAAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:38:39.633821 
+5sycom,     AAAAAAAAAAA,        <Channel name: kaicenat>,       2024-11-07 16:38:49.904568 
+5sycom,     THAT DO MORE COLD IT,        <Channel name: kaicenat>,       2024-11-07 16:41:05.644431 
+5sycom,     THE WATER COLD IT,        <Channel name: kaicenat>,       2024-11-07 16:41:20.545632 
+5sycom,     mute,        <Channel name: kaicenat>,       2024-11-07 16:45:23.129908 
+5sycom,     muted,        <Channel name: kaicenat>,       2024-11-07 16:45:29.173086 

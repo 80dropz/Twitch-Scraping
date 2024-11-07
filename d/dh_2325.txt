@@ -1,0 +1,7 @@
+
+ dh_2325,     !bracket,        <Channel name: formal>,       2024-11-07 15:24:09.119906 
+dh_2325,     !stack,        <Channel name: formal>,       2024-11-07 15:34:34.646870 
+dh_2325,     !bracket,        <Channel name: formal>,       2024-11-07 15:39:26.354055 
+dh_2325,     !bracket,        <Channel name: formal>,       2024-11-07 16:00:53.415704 
+dh_2325,     is Hisoka a pro,        <Channel name: formal>,       2024-11-07 16:10:34.571423 
+dh_2325,     !team,        <Channel name: formal>,       2024-11-07 16:55:50.143199 

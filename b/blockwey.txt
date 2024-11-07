@@ -6,3 +6,12 @@
  blockwey,     Che,        <Channel name: kaicenat>,       2024-11-07 01:56:58.157747 
 
  blockwey,     split or steal first,        <Channel name: kaicenat>,       2024-11-07 01:58:11.769410 
+blockwey,     durkiooo,        <Channel name: kaicenat>,       2024-11-07 15:41:17.167424 
+blockwey,     !points,        <Channel name: kaicenat>,       2024-11-07 15:41:47.463349 
+blockwey,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 15:42:25.047484 
+blockwey,     !roulette 1,000,        <Channel name: kaicenat>,       2024-11-07 15:43:33.402862 
+blockwey,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:53.499600 
+blockwey,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 15:44:23.272540 
+blockwey,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 15:44:42.674548 
+blockwey,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 15:44:52.012420 
+blockwey,     !points,        <Channel name: kaicenat>,       2024-11-07 15:45:41.020911 

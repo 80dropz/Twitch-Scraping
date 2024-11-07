@@ -1,0 +1,6 @@
+
+ usuertwich1,     !dm,        <Channel name: clix>,       2024-11-07 14:42:20.511277 
+
+ usuertwich1,     !doublemovement,        <Channel name: clix>,       2024-11-07 14:42:36.641204 
+
+ usuertwich1,     !strafe,        <Channel name: clix>,       2024-11-07 14:44:52.165184 

@@ -12,3 +12,12 @@
  gravedtd,     :3,        <Channel name: nadeshot>,       2024-11-07 12:23:16.362894 
 
  gravedtd,     HYPERS,        <Channel name: nadeshot>,       2024-11-07 12:23:46.530555 
+gravedtd,     comms comms,        <Channel name: nadeshot>,       2024-11-07 15:30:59.514664 
+gravedtd,     goon up,        <Channel name: nadeshot>,       2024-11-07 15:38:38.244052 
+gravedtd,     pirates of the goon,        <Channel name: nadeshot>,       2024-11-07 15:39:10.001919 
+gravedtd,     W,        <Channel name: nadeshot>,       2024-11-07 15:59:34.499794 
+gravedtd,     They said he was washed but they didn’t not remember OG (original gooner),        <Channel name: nadeshot>,       2024-11-07 16:01:07.246624 
+gravedtd,     turned,        <Channel name: nadeshot>,       2024-11-07 16:10:04.553685 
+gravedtd,     gg,        <Channel name: nadeshot>,       2024-11-07 16:12:42.734483 
+gravedtd,     you getting in the goon state,        <Channel name: nadeshot>,       2024-11-07 16:20:47.905960 
+gravedtd,     you where actually shooting tho,        <Channel name: nadeshot>,       2024-11-07 16:20:56.022518 

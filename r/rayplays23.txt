@@ -1,0 +1,15 @@
+rayplays23,     ew,        <Channel name: stableronaldo>,       2024-11-07 15:56:52.073554 
+rayplays23,     GO BACK,        <Channel name: stableronaldo>,       2024-11-07 15:56:55.610361 
+rayplays23,     NO,        <Channel name: stableronaldo>,       2024-11-07 15:57:03.553790 
+rayplays23,     END STREAM,        <Channel name: stableronaldo>,       2024-11-07 15:57:06.491641 
+rayplays23,     HELL NO,        <Channel name: stableronaldo>,       2024-11-07 15:57:10.635596 
+rayplays23,     mid,        <Channel name: stableronaldo>,       2024-11-07 15:57:21.036205 
+rayplays23,     tf,        <Channel name: stableronaldo>,       2024-11-07 15:57:23.810127 
+rayplays23,     nooo,        <Channel name: stableronaldo>,       2024-11-07 15:59:07.393730 
+rayplays23,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 15:59:10.026854 
+rayplays23,     DONT GOOGLE BRO,        <Channel name: stableronaldo>,       2024-11-07 16:01:03.366554 
+rayplays23,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:05:24.573792 
+rayplays23,     W MOM,        <Channel name: stableronaldo>,       2024-11-07 16:07:29.864137 
+rayplays23,     FAT,        <Channel name: stableronaldo>,       2024-11-07 16:07:51.180067 
+rayplays23,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:54.294059 
+rayplays23,     WW MOM,        <Channel name: stableronaldo>,       2024-11-07 16:07:58.574022 

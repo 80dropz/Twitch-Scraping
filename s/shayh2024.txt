@@ -1,0 +1,4 @@
+shayh2024,     no no no no no,        <Channel name: kaicenat>,       2024-11-07 16:34:45.956774 
+shayh2024,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:47.965314 
+shayh2024,     nono,        <Channel name: kaicenat>,       2024-11-07 16:34:52.292054 
+shayh2024,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:40:55.965914 

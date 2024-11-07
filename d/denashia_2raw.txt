@@ -1,0 +1,7 @@
+denashia_2raw,     W WWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:25.871994 
+denashia_2raw,     HUH HUH HUH HUH,        <Channel name: kaicenat>,       2024-11-07 16:52:31.715492 
+denashia_2raw,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:53:33.946176 
+denashia_2raw,     W,        <Channel name: kaicenat>,       2024-11-07 16:53:35.188361 
+denashia_2raw,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:00.680473 
+denashia_2raw,     WW,        <Channel name: kaicenat>,       2024-11-07 16:54:01.921769 
+denashia_2raw,     YESSSSS,        <Channel name: kaicenat>,       2024-11-07 16:54:25.910426 

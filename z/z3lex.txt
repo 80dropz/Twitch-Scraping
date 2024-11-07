@@ -1,0 +1,4 @@
+z3lex,     999Õ,        <Channel name: kaicenat>,       2024-11-07 15:29:13.619317 
+z3lex,     lOCKED IN,        <Channel name: kaicenat>,       2024-11-07 15:32:41.659675 
+z3lex,     NotLikeThis,        <Channel name: kaicenat>,       2024-11-07 16:45:22.970980 
+z3lex,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:30.220164 

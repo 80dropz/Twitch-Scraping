@@ -1,0 +1,4 @@
+xtitleist1x,     !gamble 600,        <Channel name: kaicenat>,       2024-11-07 15:42:04.066412 
+xtitleist1x,     !points,        <Channel name: kaicenat>,       2024-11-07 15:42:23.671350 
+xtitleist1x,     !gamble 63,        <Channel name: kaicenat>,       2024-11-07 15:42:36.717073 
+xtitleist1x,     !points,        <Channel name: kaicenat>,       2024-11-07 15:43:00.387170 

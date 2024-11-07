@@ -46,3 +46,24 @@
  notsnoop,     WW KAI,        <Channel name: kaicenat>,       2024-11-07 02:50:53.553108 
 
  notsnoop,     WW,        <Channel name: kaicenat>,       2024-11-07 02:51:11.746468 
+notsnoop,     LMFAO WW SAUNA,        <Channel name: kaicenat>,       2024-11-07 16:38:50.418314 
+notsnoop,     gg,        <Channel name: kaicenat>,       2024-11-07 16:40:08.277348 
+notsnoop,     gg LMFAO,        <Channel name: kaicenat>,       2024-11-07 16:40:12.005727 
+notsnoop,     gg,        <Channel name: kaicenat>,       2024-11-07 16:40:25.425676 
+notsnoop,     gg idiot,        <Channel name: kaicenat>,       2024-11-07 16:40:27.217480 
+notsnoop,     this fucking idiot LMAO,        <Channel name: kaicenat>,       2024-11-07 16:40:47.514398 
+notsnoop,     Bro a sauna is meant to be relaxing LMAO not a stage,        <Channel name: kaicenat>,       2024-11-07 16:42:16.195552 
+notsnoop,     LMAO,        <Channel name: kaicenat>,       2024-11-07 16:42:52.714537 
+notsnoop,     LMAO CHECK RAKAI PRODUCTIOMN,        <Channel name: kaicenat>,       2024-11-07 16:42:58.623218 
+notsnoop,     Rakai production,        <Channel name: kaicenat>,       2024-11-07 16:44:51.395820 
+notsnoop,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 16:45:03.228819 
+notsnoop,     PRODUCTION,        <Channel name: kaicenat>,       2024-11-07 16:45:20.160106 
+notsnoop,     PRODUCTIOMN,        <Channel name: kaicenat>,       2024-11-07 16:45:22.771208 
+notsnoop,     LL PROD,        <Channel name: kaicenat>,       2024-11-07 16:45:38.678989 
+notsnoop,     WW,        <Channel name: kaicenat>,       2024-11-07 16:45:47.934108 
+notsnoop,     STICKYYY FR,        <Channel name: kaicenat>,       2024-11-07 16:50:17.133293 
+notsnoop,     WEEEZYYY,        <Channel name: kaicenat>,       2024-11-07 16:50:27.740064 
+notsnoop,     WW,        <Channel name: kaicenat>,       2024-11-07 16:51:39.884278 
+notsnoop,     WW,        <Channel name: kaicenat>,       2024-11-07 16:52:15.299252 
+notsnoop,     NOT THAT MUCH,        <Channel name: kaicenat>,       2024-11-07 16:52:23.829337 
+notsnoop,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 16:52:27.698050 

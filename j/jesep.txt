@@ -1,0 +1,2 @@
+jesep,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:41:25.801121 
+jesep,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 15:41:37.135403 

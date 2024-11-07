@@ -8,3 +8,6 @@
  cloud_rein,     AUDIO DELAY,        <Channel name: kaicenat>,       2024-11-07 01:24:19.630706 
 
  cloud_rein,     JUST DO IT,        <Channel name: kaicenat>,       2024-11-07 13:20:26.284008 
+
+ cloud_rein,     CHECK ON HIM,        <Channel name: kaicenat>,       2024-11-07 14:44:37.941595 
+cloud_rein,     CHECK ON THE BOY,        <Channel name: kaicenat>,       2024-11-07 15:56:37.410275 

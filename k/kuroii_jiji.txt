@@ -1,0 +1,6 @@
+kuroii_jiji,     1,        <Channel name: swagg>,       2024-11-07 16:15:53.250367 
+kuroii_jiji,     1,        <Channel name: swagg>,       2024-11-07 16:16:25.321011 
+kuroii_jiji,     1,        <Channel name: swagg>,       2024-11-07 16:17:05.142054 
+kuroii_jiji,     !^,        <Channel name: swagg>,       2024-11-07 16:17:46.789128 
+kuroii_jiji,     @hermanmillergaming Wait what.!?,        <Channel name: swagg>,       2024-11-07 16:18:22.135153 
+kuroii_jiji,     lolol,        <Channel name: swagg>,       2024-11-07 16:18:38.820840 

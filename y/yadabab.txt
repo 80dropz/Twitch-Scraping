@@ -1,0 +1,3 @@
+yadabab,     Low iron,        <Channel name: stableronaldo>,       2024-11-07 16:00:54.289428 
+yadabab,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:32.643887 
+yadabab,     It's OV,        <Channel name: stableronaldo>,       2024-11-07 16:02:14.406054 

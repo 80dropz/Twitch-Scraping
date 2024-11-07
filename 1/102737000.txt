@@ -1,0 +1,6 @@
+102737000,     hi,        <Channel name: mrlust>,       2024-11-07 15:31:47.533695 
+102737000,     she said somethink?,        <Channel name: mrlust>,       2024-11-07 15:32:06.808927 
+102737000,     CRAZY,        <Channel name: mrlust>,       2024-11-07 15:32:43.807809 
+102737000,     bro,        <Channel name: mrlust>,       2024-11-07 15:33:29.674739 
+102737000,     44h,        <Channel name: mrlust>,       2024-11-07 15:33:31.702990 
+102737000,     okay,        <Channel name: mrlust>,       2024-11-07 15:33:36.692827 

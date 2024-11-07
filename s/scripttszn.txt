@@ -1,0 +1,4 @@
+scripttszn,     YOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 15:55:20.370827 
+scripttszn,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:07:58.666106 
+scripttszn,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:08:17.956260 
+scripttszn,     !2023,        <Channel name: stableronaldo>,       2024-11-07 16:20:42.770922 

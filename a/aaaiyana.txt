@@ -1,2 +1,5 @@
 
  aaaiyana,     WW,        <Channel name: kaicenat>,       2024-11-07 13:01:54.676560 
+aaaiyana,     ratJAM  ratJAM  ratJAM  ratJAM  ratJAM  ratJAM,        <Channel name: kaicenat>,       2024-11-07 16:51:10.666413 
+aaaiyana,     ratJAM  ratJAM  ratJAM  ratJAM,        <Channel name: kaicenat>,       2024-11-07 16:51:16.505478 
+aaaiyana,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:29.499723 

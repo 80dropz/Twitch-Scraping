@@ -1,0 +1,2 @@
+verze__,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:23.514356 
+verze__,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:29.032999 

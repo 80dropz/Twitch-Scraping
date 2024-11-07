@@ -1,0 +1,2 @@
+cat_mario_game,     hi,        <Channel name: kaicenat>,       2024-11-07 15:34:45.648844 
+cat_mario_game,     wass up,        <Channel name: kaicenat>,       2024-11-07 15:35:14.802075 

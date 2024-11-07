@@ -1,0 +1,27 @@
+
+ ctek4944,     Lina sad,        <Channel name: lacy>,       2024-11-07 15:23:22.744998 
+
+ ctek4944,     Huh,        <Channel name: lacy>,       2024-11-07 15:23:22.816376 
+
+ ctek4944,     what,        <Channel name: lacy>,       2024-11-07 15:23:22.825895 
+
+ ctek4944,     ayo,        <Channel name: lacy>,       2024-11-07 15:23:22.854043 
+
+ ctek4944,     lol,        <Channel name: lacy>,       2024-11-07 15:26:32.604514 
+
+ ctek4944,     Lol,        <Channel name: lacy>,       2024-11-07 15:26:38.991899 
+
+ ctek4944,     sold,        <Channel name: lacy>,       2024-11-07 15:27:40.245225 
+
+ ctek4944,     call me back lol,        <Channel name: lacy>,       2024-11-07 15:27:44.565366 
+ctek4944,     huh,        <Channel name: lacy>,       2024-11-07 15:33:56.391608 
+ctek4944,     ayo,        <Channel name: lacy>,       2024-11-07 15:33:58.632440 
+ctek4944,     rizz dot,        <Channel name: lacy>,       2024-11-07 15:34:04.476648 
+ctek4944,     L abuse,        <Channel name: lacy>,       2024-11-07 15:35:43.174858 
+ctek4944,     abuser,        <Channel name: lacy>,       2024-11-07 15:35:49.773870 
+ctek4944,     call Alexa,        <Channel name: lacy>,       2024-11-07 15:38:55.806401 
+ctek4944,     call alexa,        <Channel name: lacy>,       2024-11-07 15:38:59.300415 
+ctek4944,     call Alexa,        <Channel name: lacy>,       2024-11-07 15:39:22.901424 
+ctek4944,     cal her,        <Channel name: lacy>,       2024-11-07 15:40:27.042702 
+ctek4944,     yup,        <Channel name: lacy>,       2024-11-07 15:40:57.787528 
+ctek4944,     gg,        <Channel name: lacy>,       2024-11-07 15:53:47.493481 

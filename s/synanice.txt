@@ -1,0 +1,28 @@
+synanice,     !followage,        <Channel name: stableronaldo>,       2024-11-07 15:53:42.993168 
+synanice,     hello,        <Channel name: stableronaldo>,       2024-11-07 15:54:28.473663 
+synanice,     WWW,        <Channel name: stableronaldo>,       2024-11-07 15:54:45.695240 
+synanice,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:41.000656 
+synanice,     ome22,        <Channel name: stableronaldo>,       2024-11-07 15:55:42.995320 
+synanice,     ome44,        <Channel name: stableronaldo>,       2024-11-07 15:55:44.796128 
+synanice,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:46.723085 
+synanice,     WWWWWWWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:30.170271 
+synanice,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:31.697150 
+synanice,     BAD,        <Channel name: stableronaldo>,       2024-11-07 15:57:15.951307 
+synanice,     UUH,        <Channel name: stableronaldo>,       2024-11-07 15:57:19.921371 
+synanice,     uuh,        <Channel name: stableronaldo>,       2024-11-07 15:57:21.499924 
+synanice,     SEXY,        <Channel name: stableronaldo>,       2024-11-07 15:57:52.870612 
+synanice,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:37.576406 
+synanice,     listening,        <Channel name: stableronaldo>,       2024-11-07 15:58:44.586052 
+synanice,     uuh,        <Channel name: stableronaldo>,       2024-11-07 15:58:57.071535 
+synanice,     saj,        <Channel name: stableronaldo>,       2024-11-07 15:58:58.634510 
+synanice,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:21.484692 
+synanice,     OV,        <Channel name: stableronaldo>,       2024-11-07 15:59:26.923531 
+synanice,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:10.670842 
+synanice,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:00:11.854222 
+synanice,     YESSS,        <Channel name: stableronaldo>,       2024-11-07 16:00:13.605825 
+synanice,     GO TO DOCTOR,        <Channel name: stableronaldo>,       2024-11-07 16:01:36.985858 
+synanice,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:02:31.209095 
+synanice,     I WAS HERW,        <Channel name: stableronaldo>,       2024-11-07 16:09:27.181699 
+synanice,     MEEEEEE,        <Channel name: stableronaldo>,       2024-11-07 16:09:52.917237 
+synanice,     we want boba,        <Channel name: stableronaldo>,       2024-11-07 16:16:23.557065 
+synanice,     WE WANT BOBA,        <Channel name: stableronaldo>,       2024-11-07 16:16:26.355997 

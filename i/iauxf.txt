@@ -176,3 +176,17 @@
  iauxf,     w miles,        <Channel name: kaicenat>,       2024-11-07 13:35:31.403358 
 
  iauxf,     he knows,        <Channel name: kaicenat>,       2024-11-07 13:35:58.631076 
+iauxf,     take shoes off,        <Channel name: kaicenat>,       2024-11-07 16:25:02.226231 
+iauxf,     SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:05.990923 
+iauxf,     NO SHOES,        <Channel name: kaicenat>,       2024-11-07 16:25:09.605707 
+iauxf,     SHOES OFF,        <Channel name: kaicenat>,       2024-11-07 16:25:17.795987 
+iauxf,     shoes off,        <Channel name: kaicenat>,       2024-11-07 16:26:21.003388 
+iauxf,     socks offf,        <Channel name: kaicenat>,       2024-11-07 16:26:39.503766 
+iauxf,     SHOES,        <Channel name: kaicenat>,       2024-11-07 16:29:18.887986 
+iauxf,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:49.169973 
+iauxf,     6,        <Channel name: kaicenat>,       2024-11-07 16:30:34.995430 
+iauxf,     6/10,        <Channel name: kaicenat>,       2024-11-07 16:30:56.860606 
+iauxf,     6,        <Channel name: kaicenat>,       2024-11-07 16:31:01.003127 
+iauxf,     no phone,        <Channel name: kaicenat>,       2024-11-07 16:31:14.196854 
+iauxf,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:36.458074 
+iauxf,     not hot,        <Channel name: kaicenat>,       2024-11-07 16:32:39.672822 

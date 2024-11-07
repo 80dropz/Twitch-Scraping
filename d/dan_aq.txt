@@ -1,0 +1,26 @@
+
+ dan_aq,     uuh,        <Channel name: lacy>,       2024-11-07 14:48:44.976518 
+
+ dan_aq,     uuh,        <Channel name: lacy>,       2024-11-07 14:48:45.525167 
+
+ dan_aq,     uuh,        <Channel name: lacy>,       2024-11-07 14:48:45.696250 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:52:37.964983 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:52:38.531945 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:52:39.332948 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:52:39.846305 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:52:53.086748 
+
+ dan_aq,     DREWS TURN,        <Channel name: lacy>,       2024-11-07 14:53:05.730715 
+
+ dan_aq,     DREW NOW,        <Channel name: lacy>,       2024-11-07 14:53:42.106162 
+
+ dan_aq,     DREW NOW,        <Channel name: lacy>,       2024-11-07 14:53:43.001354 
+dan_aq,     call Alexa again ome5,        <Channel name: lacy>,       2024-11-07 15:38:26.825059 
+dan_aq,     Alexa time,        <Channel name: lacy>,       2024-11-07 15:38:52.783905 
+dan_aq,     Alexa can,        <Channel name: lacy>,       2024-11-07 15:42:48.892547 
+dan_aq,     all it takes is a call,        <Channel name: lacy>,       2024-11-07 15:50:18.025053 

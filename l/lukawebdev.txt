@@ -1,0 +1,5 @@
+lukawebdev,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:18.702437 
+lukawebdev,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:08.125243 
+lukawebdev,     Ogre Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:15.349401 
+lukawebdev,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:16.871013 
+lukawebdev,     cmonBruh,        <Channel name: stableronaldo>,       2024-11-07 16:25:34.088707 

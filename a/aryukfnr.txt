@@ -1,0 +1,10 @@
+
+ aryukfnr,     !sens,        <Channel name: clix>,       2024-11-07 15:25:04.153198 
+
+ aryukfnr,     !dpi,        <Channel name: clix>,       2024-11-07 15:25:04.220973 
+
+ aryukfnr,     !dpi,        <Channel name: clix>,       2024-11-07 15:25:30.359159 
+
+ aryukfnr,     !settings,        <Channel name: clix>,       2024-11-07 15:25:37.726306 
+
+ aryukfnr,     !sens,        <Channel name: clix>,       2024-11-07 15:25:41.314408 

@@ -1,0 +1,6 @@
+taconvm,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:12.749624 
+taconvm,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:17.808745 
+taconvm,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:20.987646 
+taconvm,     999,        <Channel name: kaicenat>,       2024-11-07 15:30:23.151702 
+taconvm,     no shoes,        <Channel name: kaicenat>,       2024-11-07 16:26:11.951705 
+taconvm,     o7,        <Channel name: kaicenat>,       2024-11-07 16:38:02.450543 

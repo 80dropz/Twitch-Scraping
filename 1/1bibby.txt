@@ -1,0 +1,2 @@
+1bibby,     !crosshair,        <Channel name: nadeshot>,       2024-11-07 16:10:52.418502 
+1bibby,     OMG,        <Channel name: nadeshot>,       2024-11-07 16:49:56.015660 

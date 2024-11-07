@@ -1,0 +1,4 @@
+stolixy,     AURA,        <Channel name: lacy>,       2024-11-07 15:58:32.510620 
+stolixy,     RT,        <Channel name: lacy>,       2024-11-07 16:01:31.880606 
+stolixy,     art,        <Channel name: lacy>,       2024-11-07 16:01:33.666925 
+stolixy,     rt,        <Channel name: lacy>,       2024-11-07 16:01:38.796006 

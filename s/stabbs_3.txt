@@ -1,0 +1,4 @@
+stabbs_3,     what crosshair u using?,        <Channel name: mongraal>,       2024-11-07 16:18:24.607939 
+stabbs_3,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:19:13.658063 
+stabbs_3,     !crosshair\,        <Channel name: mongraal>,       2024-11-07 16:19:59.801312 
+stabbs_3,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:20:06.340014 

@@ -1,0 +1,2 @@
+sennsitivity,     w,        <Channel name: mongraal>,       2024-11-07 15:43:42.841863 
+sennsitivity,     OMG,        <Channel name: mongraal>,       2024-11-07 15:52:55.991959 

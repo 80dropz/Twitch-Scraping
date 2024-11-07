@@ -1,0 +1,6 @@
+loczki_57,     Mr lust jest gejem,        <Channel name: mrlust>,       2024-11-07 15:41:27.572646 
+loczki_57,     I lubi mocno w dupcie,        <Channel name: mrlust>,       2024-11-07 15:41:42.175656 
+loczki_57,     !watchtime,        <Channel name: mrlust>,       2024-11-07 15:41:54.184203 
+loczki_57,     Siema,        <Channel name: mrlust>,       2024-11-07 15:42:06.039142 
+loczki_57,     !pc,        <Channel name: mrlust>,       2024-11-07 15:43:01.434387 
+loczki_57,     !settings,        <Channel name: mrlust>,       2024-11-07 15:43:14.743602 

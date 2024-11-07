@@ -1,0 +1,7 @@
+sbfrmjerz,     @MJ_Zero7 emd,        <Channel name: kaicenat>,       2024-11-07 16:47:40.999992 
+sbfrmjerz,     mods ban MJ_Zero7 ?,        <Channel name: kaicenat>,       2024-11-07 16:48:06.735112 
+sbfrmjerz,     mods ban @MJ_Zero7,        <Channel name: kaicenat>,       2024-11-07 16:48:15.815224 
+sbfrmjerz,     mods ban @mj_zero7,        <Channel name: kaicenat>,       2024-11-07 16:48:30.523407 
+sbfrmjerz,     turn the temp up,        <Channel name: kaicenat>,       2024-11-07 16:53:04.126250 
+sbfrmjerz,     turn the temperature up,        <Channel name: kaicenat>,       2024-11-07 16:53:13.692743 
+sbfrmjerz,     turn up the temp,        <Channel name: kaicenat>,       2024-11-07 16:54:07.208511 

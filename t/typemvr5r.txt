@@ -1,0 +1,6 @@
+
+ typemvr5r,     go to rakai,        <Channel name: kaicenat>,       2024-11-07 14:51:10.285435 
+
+ typemvr5r,     rakai,        <Channel name: kaicenat>,       2024-11-07 14:51:31.016559 
+
+ typemvr5r,     Rakai,        <Channel name: kaicenat>,       2024-11-07 14:51:48.398604 

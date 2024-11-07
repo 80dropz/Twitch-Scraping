@@ -1,0 +1,3 @@
+icano,     !bracket,        <Channel name: adapt>,       2024-11-07 15:55:59.201510 
+icano,     tmorrow,        <Channel name: stableronaldo>,       2024-11-07 15:58:36.942927 
+icano,     go to the doctor chat is not doctors,        <Channel name: stableronaldo>,       2024-11-07 16:00:42.073021 

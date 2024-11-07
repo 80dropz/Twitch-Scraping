@@ -1,0 +1,4 @@
+pr0dtime,     RAISE CAMERA,        <Channel name: kaicenat>,       2024-11-07 15:59:51.408823 
+pr0dtime,     RAISE CAM,        <Channel name: kaicenat>,       2024-11-07 16:00:03.104131 
+pr0dtime,     ROD WAVE ALL I GOT,        <Channel name: kaicenat>,       2024-11-07 16:03:55.516275 
+pr0dtime,     ALL I GOT ROD WAVE,        <Channel name: kaicenat>,       2024-11-07 16:04:49.795802 

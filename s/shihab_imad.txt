@@ -8,3 +8,5 @@
  shihab_imad,     PRANK MAI,        <Channel name: kaicenat>,       2024-11-07 12:58:44.459163 
 
  shihab_imad,     PRANK KAI,        <Channel name: kaicenat>,       2024-11-07 12:59:09.237457 
+shihab_imad,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:23:41.734737 
+shihab_imad,     END RAKAI TIMEOUT,        <Channel name: kaicenat>,       2024-11-07 16:24:52.959734 

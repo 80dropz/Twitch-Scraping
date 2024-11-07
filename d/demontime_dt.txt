@@ -80,3 +80,4 @@
  demontime_dt,     not a single thing edible on the entire mcdonald’s menu. whole thing is dogshit,        <Channel name: swagg>,       2024-11-07 12:59:03.728640 
 
  demontime_dt,     chicken nuggets,        <Channel name: swagg>,       2024-11-07 13:02:26.912675 
+demontime_dt,     w,        <Channel name: swagg>,       2024-11-07 16:55:42.355642 

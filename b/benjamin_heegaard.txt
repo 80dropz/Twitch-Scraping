@@ -1,0 +1,15 @@
+benjamin_heegaard,     start a fire in the coal first,        <Channel name: kaicenat>,       2024-11-07 16:28:11.271617 
+benjamin_heegaard,     not alot,        <Channel name: kaicenat>,       2024-11-07 16:28:18.191888 
+benjamin_heegaard,     very small amount,        <Channel name: kaicenat>,       2024-11-07 16:28:27.161559 
+benjamin_heegaard,     sure,        <Channel name: kaicenat>,       2024-11-07 16:29:49.665811 
+benjamin_heegaard,     dont max it out,        <Channel name: kaicenat>,       2024-11-07 16:30:07.384018 
+benjamin_heegaard,     80%,        <Channel name: kaicenat>,       2024-11-07 16:30:27.130150 
+benjamin_heegaard,     very little,        <Channel name: kaicenat>,       2024-11-07 16:31:54.171072 
+benjamin_heegaard,     very little water,        <Channel name: kaicenat>,       2024-11-07 16:32:09.737958 
+benjamin_heegaard,     very little,        <Channel name: kaicenat>,       2024-11-07 16:32:46.527083 
+benjamin_heegaard,     not alot,        <Channel name: kaicenat>,       2024-11-07 16:32:51.692940 
+benjamin_heegaard,     @kaicenat do not put alot of water on it only a small amount,        <Channel name: kaicenat>,       2024-11-07 16:34:14.842402 
+benjamin_heegaard,     no dont,        <Channel name: kaicenat>,       2024-11-07 16:34:39.281212 
+benjamin_heegaard,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:42.104342 
+benjamin_heegaard,     dont do it,        <Channel name: kaicenat>,       2024-11-07 16:34:44.844407 
+benjamin_heegaard,     @kaicenat saunas take about 30 minutes to warm up,        <Channel name: kaicenat>,       2024-11-07 16:35:44.470077 

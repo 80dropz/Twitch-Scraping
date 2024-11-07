@@ -1,0 +1,6 @@
+chepinpai,     !following,        <Channel name: mongraal>,       2024-11-07 16:11:50.746452 
+chepinpai,     35%,        <Channel name: mongraal>,       2024-11-07 16:13:02.530727 
+chepinpai,     w,        <Channel name: mongraal>,       2024-11-07 16:18:00.896036 
+chepinpai,     !followage,        <Channel name: mongraal>,       2024-11-07 16:19:24.459299 
+chepinpai,     rip,        <Channel name: mongraal>,       2024-11-07 16:22:14.473490 
+chepinpai,     Kappa,        <Channel name: mongraal>,       2024-11-07 16:22:47.070392 

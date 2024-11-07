@@ -1,0 +1,4 @@
+dotamere,     omE,        <Channel name: pokelawls>,       2024-11-07 15:54:31.722164 
+dotamere,     omE,        <Channel name: pokelawls>,       2024-11-07 15:56:55.081600 
+dotamere,     omE,        <Channel name: pokelawls>,       2024-11-07 16:18:54.237038 
+dotamere,     giigta,        <Channel name: pokelawls>,       2024-11-07 16:25:26.134992 

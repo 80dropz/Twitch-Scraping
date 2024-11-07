@@ -1,0 +1,6 @@
+chris_dtx24,     kaicWAVE,        <Channel name: kaicenat>,       2024-11-07 16:49:34.135495 
+chris_dtx24,     kaicStareee,        <Channel name: kaicenat>,       2024-11-07 16:49:39.223254 
+chris_dtx24,     kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:19.431401 
+chris_dtx24,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:39.099992 
+chris_dtx24,     poll,        <Channel name: kaicenat>,       2024-11-07 16:55:45.115532 
+chris_dtx24,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:49.118762 

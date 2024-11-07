@@ -1,0 +1,2 @@
+frxud6,     map count ?,        <Channel name: nadeshot>,       2024-11-07 15:43:12.088275 
+frxud6,     best of 3 ?,        <Channel name: nadeshot>,       2024-11-07 15:43:23.622768 

@@ -1,0 +1,4 @@
+1tsk1m,     huminoity,        <Channel name: kaicenat>,       2024-11-07 16:26:15.675119 
+1tsk1m,     humidity,        <Channel name: kaicenat>,       2024-11-07 16:26:20.175897 
+1tsk1m,     txt to speech,        <Channel name: kaicenat>,       2024-11-07 16:26:29.014436 
+1tsk1m,     text to speech,        <Channel name: kaicenat>,       2024-11-07 16:26:35.965644 

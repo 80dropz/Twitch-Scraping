@@ -1,0 +1,38 @@
+linearrr,     heyy,        <Channel name: stableronaldo>,       2024-11-07 16:14:27.896605 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:39.918807 
+linearrr,     u,        <Channel name: stableronaldo>,       2024-11-07 16:15:13.182687 
+linearrr,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:11.483097 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:18.815145 
+linearrr,     wideSpeedLaugh4,        <Channel name: stableronaldo>,       2024-11-07 16:16:41.616676 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:50.588669 
+linearrr,     LMFAO ,,        <Channel name: stableronaldo>,       2024-11-07 16:17:17.743778 
+linearrr,     wideSpeedLaugh4,        <Channel name: stableronaldo>,       2024-11-07 16:17:30.636665 
+linearrr,     ruuh,        <Channel name: stableronaldo>,       2024-11-07 16:17:46.216724 
+linearrr,     monkaX,        <Channel name: stableronaldo>,       2024-11-07 16:18:45.622428 
+linearrr,     PagMan,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.046092 
+linearrr,     PagMan OMG,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.688927 
+linearrr,     RlyTho,        <Channel name: stableronaldo>,       2024-11-07 16:19:34.700872 
+linearrr,     Pffttt2,        <Channel name: stableronaldo>,       2024-11-07 16:20:30.326341 
+linearrr,     PagMan,        <Channel name: stableronaldo>,       2024-11-07 16:20:59.075140 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:21:06.271512 
+linearrr,     kek,        <Channel name: stableronaldo>,       2024-11-07 16:21:29.881625 
+linearrr,     OMEGALUL Clap NO,        <Channel name: stableronaldo>,       2024-11-07 16:21:37.555679 
+linearrr,     wideSpeedLaugh4,        <Channel name: stableronaldo>,       2024-11-07 16:21:54.542788 
+linearrr,     WAYTOODANK,        <Channel name: stableronaldo>,       2024-11-07 16:22:02.707378 
+linearrr,     ruuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:26.196396 
+linearrr,     Clap2 uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:36.148223 
+linearrr,     forsenLaughingAtYou ruuh,        <Channel name: stableronaldo>,       2024-11-07 16:23:48.601190 
+linearrr,     haHAA,        <Channel name: stableronaldo>,       2024-11-07 16:24:29.319342 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:24:45.515746 
+linearrr,     kek,        <Channel name: stableronaldo>,       2024-11-07 16:25:00.801341 
+linearrr,     OMEGALUL Clap,        <Channel name: stableronaldo>,       2024-11-07 16:25:05.887573 
+linearrr,     WHAT,        <Channel name: stableronaldo>,       2024-11-07 16:25:24.169754 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:25:28.179930 
+linearrr,     kek,        <Channel name: stableronaldo>,       2024-11-07 16:25:41.706709 
+linearrr,     Aware,        <Channel name: stableronaldo>,       2024-11-07 16:25:57.390409 
+linearrr,     damn,        <Channel name: stableronaldo>,       2024-11-07 16:26:17.273891 
+linearrr,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:26:18.340577 
+linearrr,     nah,        <Channel name: stableronaldo>,       2024-11-07 16:26:26.769449 
+linearrr,     keep it,        <Channel name: stableronaldo>,       2024-11-07 16:26:34.393410 
+linearrr,     do it now?,        <Channel name: stableronaldo>,       2024-11-07 16:26:37.413465 
+linearrr,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:26:40.651536 

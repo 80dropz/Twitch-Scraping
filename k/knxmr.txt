@@ -1,0 +1,3 @@
+knxmr,     Sauna not even hot enough,        <Channel name: kaicenat>,       2024-11-07 16:38:19.034162 
+knxmr,     Let the sauna heat up first,        <Channel name: kaicenat>,       2024-11-07 16:40:48.034989 
+knxmr,     He has fcked it,        <Channel name: kaicenat>,       2024-11-07 16:41:07.700579 

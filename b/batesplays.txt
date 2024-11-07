@@ -6,3 +6,4 @@
  batesplays,     THIS IS TOOOOOOOOO GOOD,        <Channel name: nadeshot>,       2024-11-07 12:13:23.322139 
 
  batesplays,     T2G,        <Channel name: nadeshot>,       2024-11-07 12:20:30.948027 
+batesplays,     nadeMeat,        <Channel name: nadeshot>,       2024-11-07 16:31:39.642931 

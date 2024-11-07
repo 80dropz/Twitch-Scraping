@@ -1,0 +1,3 @@
+foundmarzz,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:49.412750 
+foundmarzz,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:52.171648 
+foundmarzz,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:56:04.466725 

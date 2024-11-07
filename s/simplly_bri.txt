@@ -1,0 +1,24 @@
+simplly_bri,     take shoes off,        <Channel name: kaicenat>,       2024-11-07 16:25:04.799244 
+simplly_bri,     shoes off,        <Channel name: kaicenat>,       2024-11-07 16:25:54.933056 
+simplly_bri,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:03.865114 
+simplly_bri,     no phone,        <Channel name: kaicenat>,       2024-11-07 16:26:15.036195 
+simplly_bri,     water on coals,        <Channel name: kaicenat>,       2024-11-07 16:28:11.157919 
+simplly_bri,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.175962 
+simplly_bri,     yea,        <Channel name: kaicenat>,       2024-11-07 16:28:11.198930 
+simplly_bri,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.212459 
+simplly_bri,     yea,        <Channel name: kaicenat>,       2024-11-07 16:28:11.223571 
+simplly_bri,     yeah,        <Channel name: kaicenat>,       2024-11-07 16:28:11.240648 
+simplly_bri,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.255958 
+simplly_bri,     just one scoop,        <Channel name: kaicenat>,       2024-11-07 16:28:19.139480 
+simplly_bri,     one scoop,        <Channel name: kaicenat>,       2024-11-07 16:28:23.486026 
+simplly_bri,     add scoops,        <Channel name: kaicenat>,       2024-11-07 16:29:44.388058 
+simplly_bri,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:50.136348 
+simplly_bri,     add 2 scoops,        <Channel name: kaicenat>,       2024-11-07 16:29:58.038717 
+simplly_bri,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:08.255259 
+simplly_bri,     yes,        <Channel name: kaicenat>,       2024-11-07 16:30:57.526661 
+simplly_bri,     qdd 2 scoops of water,        <Channel name: kaicenat>,       2024-11-07 16:31:12.646793 
+simplly_bri,     add 2 scoops of water,        <Channel name: kaicenat>,       2024-11-07 16:31:22.040044 
+simplly_bri,     add water,        <Channel name: kaicenat>,       2024-11-07 16:31:24.524801 
+simplly_bri,     add the water,        <Channel name: kaicenat>,       2024-11-07 16:31:39.281905 
+simplly_bri,     2 scoops,        <Channel name: kaicenat>,       2024-11-07 16:31:52.076878 
+simplly_bri,     that’s good,        <Channel name: kaicenat>,       2024-11-07 16:32:39.106273 

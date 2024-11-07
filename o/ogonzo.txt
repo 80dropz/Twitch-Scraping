@@ -1,0 +1,8 @@
+
+ ogonzo,     !team,        <Channel name: formal>,       2024-11-07 14:48:06.969242 
+
+ ogonzo,     audio,        <Channel name: formal>,       2024-11-07 14:49:59.376368 
+
+ ogonzo,     hes locked,        <Channel name: formal>,       2024-11-07 14:51:03.145768 
+ogonzo,     i need you to play maniac,        <Channel name: formal>,       2024-11-07 16:25:47.493372 
+ogonzo,     tweakin,        <Channel name: formal>,       2024-11-07 16:49:55.569452 

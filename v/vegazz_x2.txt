@@ -20,3 +20,73 @@
  vegazz_x2,     BRONNY,        <Channel name: kaicenat>,       2024-11-07 02:26:13.716752 
 
  vegazz_x2,     WHAT,        <Channel name: kaicenat>,       2024-11-07 02:33:20.276376 
+vegazz_x2,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:31.177474 
+vegazz_x2,     WW WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:32.709233 
+vegazz_x2,     YES NGL @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 15:57:14.148246 
+vegazz_x2,     ome44,        <Channel name: stableronaldo>,       2024-11-07 15:57:33.256805 
+vegazz_x2,     REAL ASF,        <Channel name: stableronaldo>,       2024-11-07 15:58:19.743540 
+vegazz_x2,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:58:49.983786 
+vegazz_x2,     WHAT,        <Channel name: stableronaldo>,       2024-11-07 15:59:02.410931 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 15:59:15.109458 
+vegazz_x2,     YES NGL,        <Channel name: stableronaldo>,       2024-11-07 15:59:23.382803 
+vegazz_x2,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:26.331590 
+vegazz_x2,     YEP gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:37.599115 
+vegazz_x2,     YES BRO,        <Channel name: stableronaldo>,       2024-11-07 16:00:15.197874 
+vegazz_x2,     THE VISION IS EVRYTHING BRO @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:00:27.140481 
+vegazz_x2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:43.126611 
+vegazz_x2,     OMG gg @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:01:34.294695 
+vegazz_x2,     omg its gg ngl @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:02:07.058734 
+vegazz_x2,     lmfao,        <Channel name: stableronaldo>,       2024-11-07 16:02:23.819888 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:02:28.750054 
+vegazz_x2,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:02:46.675959 
+vegazz_x2,     WW WW,        <Channel name: stableronaldo>,       2024-11-07 16:02:48.816133 
+vegazz_x2,     2,        <Channel name: stableronaldo>,       2024-11-07 16:03:02.757706 
+vegazz_x2,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:03:23.691119 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:03:54.099440 
+vegazz_x2,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:03:55.241874 
+vegazz_x2,     LMAOOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:03:58.222122 
+vegazz_x2,     FIRE CurseLit CurseLit CurseLit,        <Channel name: stableronaldo>,       2024-11-07 16:04:09.076784 
+vegazz_x2,     YE ??,        <Channel name: stableronaldo>,       2024-11-07 16:04:21.871811 
+vegazz_x2,     WTFFFFF,        <Channel name: stableronaldo>,       2024-11-07 16:04:29.466860 
+vegazz_x2,     OMG GG,        <Channel name: stableronaldo>,       2024-11-07 16:04:39.890985 
+vegazz_x2,     U LOOK LIKE A LESBIAN NGL @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:05:05.092812 
+vegazz_x2,     xD,        <Channel name: stableronaldo>,       2024-11-07 16:05:56.648166 
+vegazz_x2,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:06:04.028894 
+vegazz_x2,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:05.884395 
+vegazz_x2,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:07:13.790279 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:08:05.364569 
+vegazz_x2,     CAUGHT @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:08:11.897155 
+vegazz_x2,     ???????,        <Channel name: stableronaldo>,       2024-11-07 16:09:02.511422 
+vegazz_x2,     BOY ?,        <Channel name: stableronaldo>,       2024-11-07 16:09:07.502147 
+vegazz_x2,     ASJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:16.650256 
+vegazz_x2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:18.177630 
+vegazz_x2,     HAH\,        <Channel name: stableronaldo>,       2024-11-07 16:09:19.523610 
+vegazz_x2,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:09:21.725540 
+vegazz_x2,     NOT ME @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:09:30.252402 
+vegazz_x2,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:03.419169 
+vegazz_x2,     adapt carried ngl @stableronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:12:10.846451 
+vegazz_x2,     ofc,        <Channel name: stableronaldo>,       2024-11-07 16:12:42.191590 
+vegazz_x2,     goalllllllllll,        <Channel name: stableronaldo>,       2024-11-07 16:13:50.136748 
+vegazz_x2,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:13:53.720573 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:43.675620 
+vegazz_x2,     ICANT,        <Channel name: stableronaldo>,       2024-11-07 16:14:49.481713 
+vegazz_x2,     mhm,        <Channel name: stableronaldo>,       2024-11-07 16:14:56.285687 
+vegazz_x2,     ICANT ICANT,        <Channel name: stableronaldo>,       2024-11-07 16:15:02.877906 
+vegazz_x2,     EWW,        <Channel name: stableronaldo>,       2024-11-07 16:15:16.436642 
+vegazz_x2,     EWWWWWWW,        <Channel name: stableronaldo>,       2024-11-07 16:15:17.949886 
+vegazz_x2,     EWWW,        <Channel name: stableronaldo>,       2024-11-07 16:15:21.188753 
+vegazz_x2,     EW GAYAHH NIIGAG,        <Channel name: stableronaldo>,       2024-11-07 16:15:25.463712 
+vegazz_x2,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:15:41.184008 
+vegazz_x2,     NOOOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:16:27.640133 
+vegazz_x2,     NOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:16:29.588367 
+vegazz_x2,     NOOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:16:31.065996 
+vegazz_x2,     NOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:16:32.446717 
+vegazz_x2,     NOOOOOOOOOOOOOOOOOOOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:16:34.458818 
+vegazz_x2,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:16:47.707862 
+vegazz_x2,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:08.595138 
+vegazz_x2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:17:19.527139 
+vegazz_x2,     ICANRT,        <Channel name: stableronaldo>,       2024-11-07 16:17:22.248286 
+vegazz_x2,     ICANT,        <Channel name: stableronaldo>,       2024-11-07 16:17:24.024210 
+vegazz_x2,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:17:34.644829 
+vegazz_x2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:54.974283 
+vegazz_x2,     OV,        <Channel name: stableronaldo>,       2024-11-07 16:18:10.614871 

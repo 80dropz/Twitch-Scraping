@@ -72,3 +72,29 @@
  peregrine_e,     fr,        <Channel name: kaicenat>,       2024-11-07 11:13:06.236061 
 
  peregrine_e,     WW 50,        <Channel name: kaicenat>,       2024-11-07 11:14:07.594189 
+
+ peregrine_e,     WW SPEED,        <Channel name: kaicenat>,       2024-11-07 14:46:24.623300 
+
+ peregrine_e,     ??,        <Channel name: kaicenat>,       2024-11-07 14:46:33.817256 
+
+ peregrine_e,     LMAO,        <Channel name: kaicenat>,       2024-11-07 14:46:45.183581 
+
+ peregrine_e,     W,        <Channel name: kaicenat>,       2024-11-07 14:47:54.744350 
+
+ peregrine_e,     LMAOO,        <Channel name: kaicenat>,       2024-11-07 14:48:22.486533 
+
+ peregrine_e,     !time,        <Channel name: kaicenat>,       2024-11-07 14:48:50.866311 
+
+ peregrine_e,     W MILES,        <Channel name: kaicenat>,       2024-11-07 14:49:27.167942 
+
+ peregrine_e,     WW DUKE,        <Channel name: kaicenat>,       2024-11-07 14:50:23.319700 
+
+ peregrine_e,     W DUKE,        <Channel name: kaicenat>,       2024-11-07 14:50:50.932319 
+
+ peregrine_e,     futureJAM,        <Channel name: kaicenat>,       2024-11-07 14:51:04.748689 
+
+ peregrine_e,     W,        <Channel name: kaicenat>,       2024-11-07 14:51:51.152550 
+
+ peregrine_e,     LMAO,        <Channel name: kaicenat>,       2024-11-07 14:52:40.817706 
+
+ peregrine_e,     WW,        <Channel name: kaicenat>,       2024-11-07 14:52:48.742258 

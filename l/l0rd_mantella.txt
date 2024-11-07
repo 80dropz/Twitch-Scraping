@@ -1,0 +1,5 @@
+l0rd_mantella,     whens THE GYM STREAM,        <Channel name: mongraal>,       2024-11-07 16:43:35.292487 
+l0rd_mantella,     PUSHUPS REDEEMED,        <Channel name: mongraal>,       2024-11-07 16:51:32.185402 
+l0rd_mantella,     PUSHUPS REDEEMED NO 2,        <Channel name: mongraal>,       2024-11-07 16:51:52.676092 
+l0rd_mantella,     water,        <Channel name: mongraal>,       2024-11-07 16:55:26.826474 
+l0rd_mantella,     DRINK WATER,        <Channel name: mongraal>,       2024-11-07 16:55:30.237215 

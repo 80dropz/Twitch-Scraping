@@ -1,0 +1,2 @@
+x205tim,     Chicago,        <Channel name: swagg>,       2024-11-07 15:51:06.988874 
+x205tim,     @lperc what part of Chicago,        <Channel name: swagg>,       2024-11-07 15:52:12.940062 

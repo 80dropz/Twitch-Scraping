@@ -1,0 +1,3 @@
+clapdemtoes,     10,        <Channel name: kaicenat>,       2024-11-07 16:30:31.376768 
+clapdemtoes,     1,        <Channel name: kaicenat>,       2024-11-07 16:30:35.439386 
+clapdemtoes,     aADS,        <Channel name: kaicenat>,       2024-11-07 16:50:06.700582 

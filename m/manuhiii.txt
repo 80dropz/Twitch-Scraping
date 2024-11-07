@@ -1,0 +1,3 @@
+manuhiii,     !sens,        <Channel name: mongraal>,       2024-11-07 16:49:38.031478 
+manuhiii,     !dpi,        <Channel name: mongraal>,       2024-11-07 16:49:54.589305 
+manuhiii,     !settings,        <Channel name: mongraal>,       2024-11-07 16:53:30.070558 

@@ -1,0 +1,19 @@
+
+ aceluisss,     LMFAO,        <Channel name: lacy>,       2024-11-07 14:45:35.593805 
+
+ aceluisss,     nick,        <Channel name: lacy>,       2024-11-07 14:47:09.930452 
+
+ aceluisss,     rt,        <Channel name: lacy>,       2024-11-07 14:51:14.493038 
+aceluisss,     hiii',        <Channel name: stableronaldo>,       2024-11-07 15:56:44.378973 
+aceluisss,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:48.324656 
+aceluisss,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:37.990656 
+aceluisss,     gooo,        <Channel name: stableronaldo>,       2024-11-07 16:01:33.552873 
+aceluisss,     yes go,        <Channel name: stableronaldo>,       2024-11-07 16:02:14.088094 
+aceluisss,     yesssss,        <Channel name: stableronaldo>,       2024-11-07 16:02:31.766778 
+aceluisss,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:02:46.308813 
+aceluisss,     100 MIL,        <Channel name: stableronaldo>,       2024-11-07 16:03:04.911673 
+aceluisss,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:03:21.206150 
+aceluisss,     NO,        <Channel name: stableronaldo>,       2024-11-07 16:03:39.144128 
+aceluisss,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:07:09.589052 
+aceluisss,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:42.283256 
+aceluisss,     ONG,        <Channel name: stableronaldo>,       2024-11-07 16:17:05.743777 

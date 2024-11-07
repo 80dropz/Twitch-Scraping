@@ -10,3 +10,13 @@
  ucri_,     CAUGHT caught,        <Channel name: kaicenat>,       2024-11-07 13:27:03.480040 
 
  ucri_,     LOL,        <Channel name: kaicenat>,       2024-11-07 13:35:05.833862 
+
+ ucri_,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 14:49:03.761764 
+ucri_,     wait till its mega hot,        <Channel name: kaicenat>,       2024-11-07 16:28:33.379175 
+ucri_,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:03.052003 
+ucri_,     NO,        <Channel name: kaicenat>,       2024-11-07 16:30:04.691094 
+ucri_,     DONT PUT MAXIMUM,        <Channel name: kaicenat>,       2024-11-07 16:30:18.885830 
+ucri_,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:35.695590 
+ucri_,     7-8,        <Channel name: kaicenat>,       2024-11-07 16:30:40.367925 
+ucri_,     5555555555555555555555555555555,        <Channel name: kaicenat>,       2024-11-07 16:31:06.331997 
+ucri_,     BABY OIL,        <Channel name: kaicenat>,       2024-11-07 16:31:43.368931 

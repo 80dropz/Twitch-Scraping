@@ -1,0 +1,6 @@
+
+ qwankqwank,     DUE,        <Channel name: kaicenat>,       2024-11-07 14:51:21.944887 
+
+ qwankqwank,     DUKE,        <Channel name: kaicenat>,       2024-11-07 14:51:35.438614 
+
+ qwankqwank,     DUKE DUKE DUKE DUKE,        <Channel name: kaicenat>,       2024-11-07 14:51:56.812579 

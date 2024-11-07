@@ -1,2 +1,4 @@
 
  badr345671,     !trio,        <Channel name: mongraal>,       2024-11-07 12:54:21.462121 
+
+ badr345671,     !game,        <Channel name: mongraal>,       2024-11-07 14:47:52.573826 

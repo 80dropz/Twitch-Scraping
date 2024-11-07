@@ -8,3 +8,88 @@
  mo_lob,     CAUGHT,        <Channel name: kaicenat>,       2024-11-07 13:26:46.268424 
 
  mo_lob,     WW subs,        <Channel name: kaicenat>,       2024-11-07 13:30:43.289450 
+
+ mo_lob,     ome44,        <Channel name: clix>,       2024-11-07 14:43:13.517678 
+
+ mo_lob,     who is 27 TWI ?,        <Channel name: clix>,       2024-11-07 14:44:38.810690 
+
+ mo_lob,     nt,        <Channel name: clix>,       2024-11-07 14:54:43.585049 
+
+ mo_lob,     EZ,        <Channel name: clix>,       2024-11-07 15:23:48.934402 
+
+ mo_lob,     omg,        <Channel name: clix>,       2024-11-07 15:25:04.184246 
+
+ mo_lob,     WW,        <Channel name: clix>,       2024-11-07 15:25:04.225193 
+
+ mo_lob,     HUH,        <Channel name: clix>,       2024-11-07 15:26:12.080182 
+
+ mo_lob,     OMG,        <Channel name: clix>,       2024-11-07 15:27:52.874189 
+mo_lob,     EZ ANOTHER 30 KILLS,        <Channel name: clix>,       2024-11-07 15:28:33.581828 
+mo_lob,     omg,        <Channel name: clix>,       2024-11-07 15:28:45.553470 
+mo_lob,     bro WTF,        <Channel name: clix>,       2024-11-07 15:28:53.590557 
+mo_lob,     ome44,        <Channel name: clix>,       2024-11-07 15:28:55.719891 
+mo_lob,     Bruh how many he got LULW,        <Channel name: clix>,       2024-11-07 15:30:12.926538 
+mo_lob,     uuh,        <Channel name: clix>,       2024-11-07 15:30:16.184856 
+mo_lob,     EZ Clap,        <Channel name: clix>,       2024-11-07 15:30:54.567812 
+mo_lob,     LMAOOO Pffttt,        <Channel name: clix>,       2024-11-07 15:31:37.641985 
+mo_lob,     LMAOOOOOO,        <Channel name: clix>,       2024-11-07 15:31:55.420737 
+mo_lob,     ome44,        <Channel name: clix>,       2024-11-07 15:32:03.146943 
+mo_lob,     SAVED,        <Channel name: clix>,       2024-11-07 15:32:30.263589 
+mo_lob,     uuh,        <Channel name: clix>,       2024-11-07 15:33:08.709582 
+mo_lob,     NOWAY,        <Channel name: clix>,       2024-11-07 15:33:14.175033 
+mo_lob,     NAH WTF,        <Channel name: clix>,       2024-11-07 15:33:18.041812 
+mo_lob,     omE,        <Channel name: clix>,       2024-11-07 15:33:22.415936 
+mo_lob,     ome44,        <Channel name: clix>,       2024-11-07 15:33:32.596605 
+mo_lob,     yeah,        <Channel name: clix>,       2024-11-07 15:33:41.180619 
+mo_lob,     bet,        <Channel name: clix>,       2024-11-07 15:34:08.276884 
+mo_lob,     LULW,        <Channel name: clix>,       2024-11-07 15:34:32.586053 
+mo_lob,     hiii clix,        <Channel name: clix>,       2024-11-07 15:35:11.569187 
+mo_lob,     Bro i can't get over the cut LULW,        <Channel name: clix>,       2024-11-07 15:35:37.305082 
+mo_lob,     cmonBrug,        <Channel name: clix>,       2024-11-07 15:35:56.010802 
+mo_lob,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:12.932233 
+mo_lob,     CAUGHT NOWAY,        <Channel name: clix>,       2024-11-07 15:36:33.435157 
+mo_lob,     Gayeg,        <Channel name: clix>,       2024-11-07 15:36:55.847227 
+mo_lob,     ??,        <Channel name: clix>,       2024-11-07 15:37:12.493859 
+mo_lob,     uuh,        <Channel name: clix>,       2024-11-07 15:37:33.451357 
+mo_lob,     WW,        <Channel name: clix>,       2024-11-07 15:37:37.076796 
+mo_lob,     LULW,        <Channel name: clix>,       2024-11-07 15:37:53.908336 
+mo_lob,     MMMMMMMMMMMMM,        <Channel name: clix>,       2024-11-07 15:38:24.925346 
+mo_lob,     BOOBA,        <Channel name: clix>,       2024-11-07 15:39:26.719117 
+mo_lob,     NOWAY,        <Channel name: clix>,       2024-11-07 15:41:24.194785 
+mo_lob,     gg,        <Channel name: clix>,       2024-11-07 15:42:11.110343 
+mo_lob,     ggmaboyw,        <Channel name: clix>,       2024-11-07 15:42:13.750249 
+mo_lob,     GG,        <Channel name: clix>,       2024-11-07 15:42:15.676543 
+mo_lob,     BOOBA,        <Channel name: clix>,       2024-11-07 15:42:40.112809 
+mo_lob,     we back,        <Channel name: clix>,       2024-11-07 15:43:10.544269 
+mo_lob,     PogU,        <Channel name: clix>,       2024-11-07 15:43:11.722714 
+mo_lob,     we back,        <Channel name: clix>,       2024-11-07 15:43:26.760663 
+mo_lob,     WOOO,        <Channel name: clix>,       2024-11-07 15:58:38.394497 
+mo_lob,     @Clix you should try making the Dubai chocolate,        <Channel name: clix>,       2024-11-07 16:01:35.764829 
+mo_lob,     cap,        <Channel name: clix>,       2024-11-07 16:01:52.359655 
+mo_lob,     HUH,        <Channel name: clix>,       2024-11-07 16:02:47.270041 
+mo_lob,     Pffttt,        <Channel name: clix>,       2024-11-07 16:12:39.353517 
+mo_lob,     WW,        <Channel name: clix>,       2024-11-07 16:14:30.009089 
+mo_lob,     LMAOOOO,        <Channel name: clix>,       2024-11-07 16:15:00.371666 
+mo_lob,     Pffttt,        <Channel name: clix>,       2024-11-07 16:15:05.983077 
+mo_lob,     okay LMAOOO,        <Channel name: clix>,       2024-11-07 16:15:23.922687 
+mo_lob,     Pffttt,        <Channel name: clix>,       2024-11-07 16:15:51.208986 
+mo_lob,     not bad,        <Channel name: clix>,       2024-11-07 16:17:13.041880 
+mo_lob,     WW,        <Channel name: clix>,       2024-11-07 16:17:16.658107 
+mo_lob,     WWWWWWWWW,        <Channel name: clix>,       2024-11-07 16:17:56.045185 
+mo_lob,     NOWAYING,        <Channel name: clix>,       2024-11-07 16:18:06.810176 
+mo_lob,     LMAOOOOOO,        <Channel name: clix>,       2024-11-07 16:18:47.301861 
+mo_lob,     ome44,        <Channel name: clix>,       2024-11-07 16:18:56.908216 
+mo_lob,     HAH,        <Channel name: clix>,       2024-11-07 16:19:05.493879 
+mo_lob,     ayoooooo,        <Channel name: clix>,       2024-11-07 16:19:16.873114 
+mo_lob,     WW,        <Channel name: clix>,       2024-11-07 16:19:30.090867 
+mo_lob,     WW rizz,        <Channel name: clix>,       2024-11-07 16:20:08.207050 
+mo_lob,     okay,        <Channel name: clix>,       2024-11-07 16:20:28.835663 
+mo_lob,     yea its zesty LULE,        <Channel name: clix>,       2024-11-07 16:20:47.725882 
+mo_lob,     Pffttt,        <Channel name: clix>,       2024-11-07 16:22:00.547405 
+mo_lob,     Pffttt,        <Channel name: clix>,       2024-11-07 16:23:00.355279 
+mo_lob,     LMAOOOOOOOOO,        <Channel name: clix>,       2024-11-07 16:23:25.320290 
+mo_lob,     WOW,        <Channel name: clix>,       2024-11-07 16:24:11.461243 
+mo_lob,     OMG,        <Channel name: clix>,       2024-11-07 16:25:21.640421 
+mo_lob,     HOLY,        <Channel name: clix>,       2024-11-07 16:25:28.786137 
+mo_lob,     AURA,        <Channel name: clix>,       2024-11-07 16:25:51.529769 
+mo_lob,     @Clix you should golf with symfuhny he golfs,        <Channel name: clix>,       2024-11-07 16:26:22.334021 

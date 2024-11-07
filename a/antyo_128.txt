@@ -1,0 +1,10 @@
+antyo_128,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:48.620482 
+antyo_128,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:58.112044 
+antyo_128,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:21:02.396075 
+antyo_128,     HAHA,        <Channel name: stableronaldo>,       2024-11-07 16:22:06.469555 
+antyo_128,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:33.802304 
+antyo_128,     bro,        <Channel name: stableronaldo>,       2024-11-07 16:22:59.959244 
+antyo_128,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:29.488488 
+antyo_128,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:00.561620 
+antyo_128,     YESS,        <Channel name: stableronaldo>,       2024-11-07 16:24:03.142546 
+antyo_128,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:35.508253 

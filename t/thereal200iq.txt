@@ -1,0 +1,10 @@
+
+ thereal200iq,     !trio,        <Channel name: clix>,       2024-11-07 14:44:33.670144 
+
+ thereal200iq,     !duo,        <Channel name: clix>,       2024-11-07 14:44:46.195498 
+
+ thereal200iq,     !trio,        <Channel name: mongraal>,       2024-11-07 14:47:50.508283 
+
+ thereal200iq,     !duo,        <Channel name: mongraal>,       2024-11-07 14:48:21.612268 
+
+ thereal200iq,     !trio,        <Channel name: mongraal>,       2024-11-07 14:48:43.857674 

@@ -1,0 +1,5 @@
+xdbomj,     w mark R,        <Channel name: kaicenat>,       2024-11-07 15:29:24.196360 
+xdbomj,     MM,        <Channel name: kaicenat>,       2024-11-07 15:29:32.556511 
+xdbomj,     Mm,        <Channel name: kaicenat>,       2024-11-07 15:29:39.715678 
+xdbomj,     mm,        <Channel name: kaicenat>,       2024-11-07 15:29:59.301655 
+xdbomj,     MM,        <Channel name: kaicenat>,       2024-11-07 15:30:05.181621 

@@ -1,0 +1,2 @@
+spain18,     yoo,        <Channel name: mongraal>,       2024-11-07 16:31:40.177790 
+spain18,     !crosshair,        <Channel name: mongraal>,       2024-11-07 16:31:47.362245 

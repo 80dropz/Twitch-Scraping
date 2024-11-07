@@ -6,3 +6,5 @@
  abdula1i,     w,        <Channel name: kaicenat>,       2024-11-07 10:08:40.319807 
 
  abdula1i,     ww,        <Channel name: kaicenat>,       2024-11-07 10:08:42.878389 
+abdula1i,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:21.208275 
+abdula1i,     YESSSS,        <Channel name: kaicenat>,       2024-11-07 16:55:51.649498 

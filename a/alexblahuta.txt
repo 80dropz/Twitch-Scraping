@@ -8,3 +8,7 @@
  alexblahuta,     W,        <Channel name: nickeh30>,       2024-11-07 12:23:30.008296 
 
  alexblahuta,     W,        <Channel name: nickeh30>,       2024-11-07 13:22:24.073974 
+alexblahuta,     W,        <Channel name: nickeh30>,       2024-11-07 16:18:39.243118 
+alexblahuta,     i cant join,        <Channel name: nickeh30>,       2024-11-07 16:22:32.240111 
+alexblahuta,     No,        <Channel name: nickeh30>,       2024-11-07 16:26:42.741415 
+alexblahuta,     Am I allowed to use the king style,        <Channel name: nickeh30>,       2024-11-07 16:48:38.060048 

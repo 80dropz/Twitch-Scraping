@@ -1,0 +1,7 @@
+astr0h_,     show the angles right,        <Channel name: lacy>,       2024-11-07 16:05:05.416133 
+astr0h_,     ofc,        <Channel name: stableronaldo>,       2024-11-07 16:07:41.596899 
+astr0h_,     classic,        <Channel name: stableronaldo>,       2024-11-07 16:07:42.950521 
+astr0h_,     ofc,        <Channel name: stableronaldo>,       2024-11-07 16:07:45.556994 
+astr0h_,     SHES RIGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:07.429779 
+astr0h_,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:11.925332 
+astr0h_,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:08:16.834110 

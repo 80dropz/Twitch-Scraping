@@ -34,3 +34,4 @@
  notursisterr,     uh,        <Channel name: kaicenat>,       2024-11-07 02:20:57.620623 
 
  notursisterr,     OMG,        <Channel name: kaicenat>,       2024-11-07 02:32:21.980664 
+notursisterr,     BoySpeedUp,        <Channel name: plaqueboymax>,       2024-11-07 16:15:18.412027 

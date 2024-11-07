@@ -14,3 +14,33 @@
  itrippzy,     !watchtime,        <Channel name: silky>,       2024-11-07 13:28:59.880072 
 
  itrippzy,     WhatTaahFuck,        <Channel name: lacy>,       2024-11-07 13:32:30.138754 
+
+ itrippzy,     ome5,        <Channel name: lacy>,       2024-11-07 14:43:22.504349 
+
+ itrippzy,     ome44,        <Channel name: lacy>,       2024-11-07 14:44:29.861528 
+
+ itrippzy,     ome44,        <Channel name: lacy>,       2024-11-07 14:44:56.932115 
+
+ itrippzy,     WhatTaahFuck,        <Channel name: lacy>,       2024-11-07 14:46:00.284574 
+
+ itrippzy,     AGAIN,        <Channel name: lacy>,       2024-11-07 14:49:11.556333 
+
+ itrippzy,     Re ta d,        <Channel name: lacy>,       2024-11-07 14:52:12.138475 
+
+ itrippzy,     no,        <Channel name: lacy>,       2024-11-07 15:23:22.941595 
+
+ itrippzy,     U AINT KANYE,        <Channel name: lacy>,       2024-11-07 15:23:43.586157 
+
+ itrippzy,     HAH LINA,        <Channel name: lacy>,       2024-11-07 15:25:12.209923 
+
+ itrippzy,     THE ESCAPE ROOM DUDE classic,        <Channel name: lacy>,       2024-11-07 15:25:34.567328 
+
+ itrippzy,     LMAO,        <Channel name: lacy>,       2024-11-07 15:26:24.032466 
+
+ itrippzy,     WW STRATS,        <Channel name: lacy>,       2024-11-07 15:26:28.660645 
+
+ itrippzy,     ome44,        <Channel name: lacy>,       2024-11-07 15:26:57.800558 
+
+ itrippzy,     WW STRATS,        <Channel name: lacy>,       2024-11-07 15:27:41.287396 
+itrippzy,     ome44,        <Channel name: lacy>,       2024-11-07 15:30:48.588379 
+itrippzy,     4th,        <Channel name: lacy>,       2024-11-07 16:22:19.751501 

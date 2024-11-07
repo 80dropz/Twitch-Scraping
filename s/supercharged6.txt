@@ -74,3 +74,31 @@
  supercharged6,     rt,        <Channel name: kaicenat>,       2024-11-07 02:48:10.057673 
 
  supercharged6,     RT,        <Channel name: kaicenat>,       2024-11-07 02:48:13.243574 
+
+ supercharged6,     shinjy1Skull,        <Channel name: kaicenat>,       2024-11-07 14:55:05.588970 
+
+ supercharged6,     LL ads,        <Channel name: kaicenat>,       2024-11-07 15:23:55.696119 
+
+ supercharged6,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:27:27.619587 
+
+ supercharged6,     ok,        <Channel name: kaicenat>,       2024-11-07 15:27:45.173232 
+
+ supercharged6,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:27:47.429603 
+
+ supercharged6,     callme992CRY,        <Channel name: kaicenat>,       2024-11-07 15:27:54.107797 
+
+ supercharged6,     !slots 100,        <Channel name: kaicenat>,       2024-11-07 15:27:56.094349 
+supercharged6,     !slots 300,        <Channel name: kaicenat>,       2024-11-07 15:28:33.483346 
+supercharged6,     !slots 600,        <Channel name: kaicenat>,       2024-11-07 15:28:33.528487 
+supercharged6,     !points,        <Channel name: kaicenat>,       2024-11-07 15:28:37.024799 
+supercharged6,     999,        <Channel name: kaicenat>,       2024-11-07 15:29:02.361409 
+supercharged6,     callme992WHANDS callme992WHANDS callme992WHANDS,        <Channel name: kaicenat>,       2024-11-07 15:29:18.345302 
+supercharged6,     callme992Sturdy callme992Sturdy callme992Sturdy callme992Sturdy callme992Sturdy callme992Sturdy,        <Channel name: kaicenat>,       2024-11-07 15:29:19.699793 
+supercharged6,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:29:21.226924 
+supercharged6,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:29:24.257829 
+supercharged6,     kaicSturdyy callme992Sturdy kaicSturdyy callme992Sturdy kaicSturdyy callme992Sturdy kaicSturdyy callme992Sturdy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 15:29:26.826647 
+supercharged6,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:09.881748 
+supercharged6,     WWWWWWWWWWWW W,        <Channel name: kaicenat>,       2024-11-07 16:52:11.918483 
+supercharged6,     WWWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:13.279977 
+supercharged6,     WWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:52:14.479292 
+supercharged6,     WW WW WW,        <Channel name: kaicenat>,       2024-11-07 16:52:15.827769 

@@ -1,0 +1,2 @@
+nvzzval,     Hello what is this crosshair ?,        <Channel name: mrlust>,       2024-11-07 16:26:24.127487 
+nvzzval,     !addme,        <Channel name: mrlust>,       2024-11-07 16:26:27.312466 

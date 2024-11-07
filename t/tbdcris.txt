@@ -1,0 +1,4 @@
+tbdcris,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:22.030704 
+tbdcris,     jump in pool,        <Channel name: kaicenat>,       2024-11-07 16:55:26.221924 
+tbdcris,     poolllllll,        <Channel name: kaicenat>,       2024-11-07 16:55:29.403800 
+tbdcris,     jump in pool,        <Channel name: kaicenat>,       2024-11-07 16:55:51.097430 

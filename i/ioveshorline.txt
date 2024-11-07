@@ -1,0 +1,6 @@
+ioveshorline,     W,        <Channel name: swagg>,       2024-11-07 16:54:52.478877 
+ioveshorline,     w,        <Channel name: swagg>,       2024-11-07 16:55:36.179981 
+ioveshorline,     W,        <Channel name: swagg>,       2024-11-07 16:55:52.740475 
+ioveshorline,     w,        <Channel name: swagg>,       2024-11-07 16:55:55.941373 
+ioveshorline,     P,        <Channel name: swagg>,       2024-11-07 16:56:05.444435 
+ioveshorline,     w,        <Channel name: swagg>,       2024-11-07 16:56:07.694750 

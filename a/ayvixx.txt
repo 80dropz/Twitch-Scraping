@@ -1,0 +1,2 @@
+ayvixx,     1,        <Channel name: swagg>,       2024-11-07 16:15:56.624023 
+ayvixx,     w,        <Channel name: swagg>,       2024-11-07 16:54:14.728616 

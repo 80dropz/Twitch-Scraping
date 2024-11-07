@@ -1,2 +1,3 @@
 
  wessi69,     !trio,        <Channel name: mongraal>,       2024-11-07 10:03:18.311410 
+wessi69,     !points,        <Channel name: mongraal>,       2024-11-07 16:20:46.208161 

@@ -1,0 +1,5 @@
+mr_frog_123,     where did the bed go,        <Channel name: mongraal>,       2024-11-07 15:52:11.954871 
+mr_frog_123,     20,        <Channel name: mongraal>,       2024-11-07 15:53:49.779554 
+mr_frog_123,     20 push ups,        <Channel name: mongraal>,       2024-11-07 15:53:59.072443 
+mr_frog_123,     12???????????????,        <Channel name: mongraal>,       2024-11-07 15:54:16.564309 
+mr_frog_123,     SCAMMER,        <Channel name: mongraal>,       2024-11-07 15:54:21.396057 

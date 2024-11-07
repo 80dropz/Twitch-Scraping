@@ -1,0 +1,18 @@
+ykwimcb,     ome22,        <Channel name: stableronaldo>,       2024-11-07 15:55:38.349281 
+ykwimcb,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:42.648623 
+ykwimcb,     IN MY BEDDD,        <Channel name: stableronaldo>,       2024-11-07 15:56:16.011249 
+ykwimcb,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:56:25.898245 
+ykwimcb,     MY TEARSSSSSSSSSS,        <Channel name: stableronaldo>,       2024-11-07 15:56:33.084042 
+ykwimcb,     WWWWWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:40.605285 
+ykwimcb,     stabeCAP,        <Channel name: stableronaldo>,       2024-11-07 15:57:34.688428 
+ykwimcb,     GOOD,        <Channel name: stableronaldo>,       2024-11-07 15:57:56.754356 
+ykwimcb,     REAL,        <Channel name: stableronaldo>,       2024-11-07 15:58:20.461814 
+ykwimcb,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:15.640560 
+ykwimcb,     go to the doctor,        <Channel name: stableronaldo>,       2024-11-07 16:00:21.271980 
+ykwimcb,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:00:49.488573 
+ykwimcb,     go to the hospital !,        <Channel name: stableronaldo>,       2024-11-07 16:01:47.960088 
+ykwimcb,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:18.688745 
+ykwimcb,     no,        <Channel name: stableronaldo>,       2024-11-07 16:02:30.901732 
+ykwimcb,     go to the hospital! better safe than sorry,        <Channel name: stableronaldo>,       2024-11-07 16:03:24.452918 
+ykwimcb,     Damn,        <Channel name: stableronaldo>,       2024-11-07 16:10:05.555326 
+ykwimcb,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:54.949068 

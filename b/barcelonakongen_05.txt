@@ -1,0 +1,4 @@
+barcelonakongen_05,     TAKES TIME TO HEAT UP,        <Channel name: kaicenat>,       2024-11-07 16:35:54.378027 
+barcelonakongen_05,     LOCK THE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:36:03.540361 
+barcelonakongen_05,     CLOSE DA DOOR,        <Channel name: kaicenat>,       2024-11-07 16:36:32.023256 
+barcelonakongen_05,     no,        <Channel name: kaicenat>,       2024-11-07 16:37:49.192492 

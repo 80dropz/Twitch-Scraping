@@ -1,0 +1,3 @@
+theadam176,     !points,        <Channel name: kaicenat>,       2024-11-07 15:44:24.562945 
+theadam176,     !roulette 520,        <Channel name: kaicenat>,       2024-11-07 15:44:50.159134 
+theadam176,     roulette 20,        <Channel name: kaicenat>,       2024-11-07 15:45:02.108722 

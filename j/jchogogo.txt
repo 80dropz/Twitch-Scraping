@@ -20,3 +20,6 @@
  jchogogo,     NOPERS,        <Channel name: kaicenat>,       2024-11-07 02:05:03.032001 
 
  jchogogo,     nope,        <Channel name: kaicenat>,       2024-11-07 02:05:09.086080 
+jchogogo,     PogU LIVE,        <Channel name: kaicenat>,       2024-11-07 16:30:08.471669 
+jchogogo,     PagMan LIVE,        <Channel name: kaicenat>,       2024-11-07 16:30:14.401028 
+jchogogo,     WW,        <Channel name: kaicenat>,       2024-11-07 16:30:17.874002 

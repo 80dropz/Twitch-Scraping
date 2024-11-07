@@ -6,3 +6,5 @@
  dayvion_1,     yooo,        <Channel name: kaicenat>,       2024-11-07 11:17:51.237801 
 
  dayvion_1,     kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs kaicDubs,        <Channel name: kaicenat>,       2024-11-07 12:13:45.699811 
+dayvion_1,     !roulette 1k,        <Channel name: kaicenat>,       2024-11-07 16:35:44.522086 
+dayvion_1,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 16:36:16.543377 

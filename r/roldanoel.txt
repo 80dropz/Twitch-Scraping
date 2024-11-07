@@ -1,0 +1,4 @@
+roldanoel,     W,        <Channel name: kaicenat>,       2024-11-07 15:55:17.101614 
+roldanoel,     WW,        <Channel name: kaicenat>,       2024-11-07 15:55:18.787141 
+roldanoel,     WWW,        <Channel name: kaicenat>,       2024-11-07 15:55:20.035178 
+roldanoel,     W,        <Channel name: kaicenat>,       2024-11-07 15:55:21.750501 

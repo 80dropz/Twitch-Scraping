@@ -1,0 +1,2 @@
+yemd1ps,     carried no cap,        <Channel name: stableronaldo>,       2024-11-07 16:11:54.207907 
+yemd1ps,     carried,        <Channel name: stableronaldo>,       2024-11-07 16:11:58.469040 

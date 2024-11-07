@@ -410,3 +410,211 @@
  samskio,     gg,        <Channel name: lacy>,       2024-11-07 13:32:05.940227 
 
  samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 13:32:58.484788 
+
+ samskio,     gg,        <Channel name: lacy>,       2024-11-07 14:42:08.306086 
+
+ samskio,     W HALO,        <Channel name: kaicenat>,       2024-11-07 14:43:52.233388 
+
+ samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 14:44:31.182079 
+
+ samskio,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 14:46:48.739374 
+
+ samskio,     uuh,        <Channel name: lacy>,       2024-11-07 14:48:48.691518 
+
+ samskio,     YES,        <Channel name: kaicenat>,       2024-11-07 14:49:50.432493 
+
+ samskio,     AURA,        <Channel name: kaicenat>,       2024-11-07 14:50:29.782817 
+
+ samskio,     uuh,        <Channel name: lacy>,       2024-11-07 14:51:08.340720 
+
+ samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 14:51:44.399923 
+
+ samskio,     W,        <Channel name: kaicenat>,       2024-11-07 14:52:19.687586 
+
+ samskio,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:11.822156 
+
+ samskio,     no,        <Channel name: kaicenat>,       2024-11-07 14:54:02.864113 
+
+ samskio,     wedding band,        <Channel name: kaicenat>,       2024-11-07 14:54:43.952404 
+
+ samskio,     F,        <Channel name: lacy>,       2024-11-07 14:55:08.972997 
+
+ samskio,     EZ,        <Channel name: clix>,       2024-11-07 15:23:41.462995 
+
+ samskio,     YES,        <Channel name: kaicenat>,       2024-11-07 15:25:04.029109 
+
+ samskio,     good,        <Channel name: kaicenat>,       2024-11-07 15:25:04.136295 
+
+ samskio,     HUH,        <Channel name: clix>,       2024-11-07 15:26:10.799555 
+
+ samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:26:16.458513 
+
+ samskio,     GG,        <Channel name: lacy>,       2024-11-07 15:26:44.236162 
+
+ samskio,     gg,        <Channel name: lacy>,       2024-11-07 15:26:59.474332 
+samskio,     NOWAY,        <Channel name: lacy>,       2024-11-07 15:28:33.529487 
+samskio,     uuh,        <Channel name: clix>,       2024-11-07 15:30:08.967569 
+samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:30:41.301468 
+samskio,     gg,        <Channel name: lacy>,       2024-11-07 15:32:05.670453 
+samskio,     MONKA,        <Channel name: clix>,       2024-11-07 15:32:48.793771 
+samskio,     HAH,        <Channel name: clix>,       2024-11-07 15:33:14.315063 
+samskio,     sus,        <Channel name: lacy>,       2024-11-07 15:33:23.799934 
+samskio,     GG,        <Channel name: clix>,       2024-11-07 15:33:30.041108 
+samskio,     yes,        <Channel name: clix>,       2024-11-07 15:33:42.913626 
+samskio,     WW,        <Channel name: clix>,       2024-11-07 15:34:07.422938 
+samskio,     yes,        <Channel name: lacy>,       2024-11-07 15:34:17.456885 
+samskio,     uuh,        <Channel name: clix>,       2024-11-07 15:34:35.038149 
+samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:35:00.196156 
+samskio,     WW,        <Channel name: clix>,       2024-11-07 15:35:29.995941 
+samskio,     D:,        <Channel name: lacy>,       2024-11-07 15:35:34.064036 
+samskio,     CAUGHT,        <Channel name: clix>,       2024-11-07 15:36:03.637577 
+samskio,     yes,        <Channel name: lacy>,       2024-11-07 15:36:34.263990 
+samskio,     jorkin,        <Channel name: clix>,       2024-11-07 15:39:27.871430 
+samskio,     WW,        <Channel name: clix>,       2024-11-07 15:40:08.970377 
+samskio,     GG,        <Channel name: clix>,       2024-11-07 15:42:01.591177 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 15:43:26.167648 
+samskio,     yes,        <Channel name: clix>,       2024-11-07 15:44:06.235658 
+samskio,     gg,        <Channel name: lacy>,       2024-11-07 15:45:28.498188 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 15:45:52.082972 
+samskio,     rt,        <Channel name: lacy>,       2024-11-07 15:47:31.661796 
+samskio,     WHAT,        <Channel name: lacy>,       2024-11-07 15:48:04.911622 
+samskio,     AURA,        <Channel name: clix>,       2024-11-07 15:50:25.690931 
+samskio,     rt,        <Channel name: lacy>,       2024-11-07 15:50:26.175635 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 15:50:41.232289 
+samskio,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:51:31.881829 
+samskio,     me,        <Channel name: clix>,       2024-11-07 15:54:38.304321 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 15:55:06.651859 
+samskio,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:56:01.208681 
+samskio,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:56:35.743619 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 15:57:05.232915 
+samskio,     mid,        <Channel name: stableronaldo>,       2024-11-07 15:57:20.150270 
+samskio,     REAL,        <Channel name: stableronaldo>,       2024-11-07 15:58:20.234508 
+samskio,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:30.459794 
+samskio,     PYT,        <Channel name: kaicenat>,       2024-11-07 15:58:41.449769 
+samskio,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:58:50.030333 
+samskio,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:59:03.936633 
+samskio,     jorkin,        <Channel name: lacy>,       2024-11-07 15:59:12.586750 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:21.911606 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:11.814461 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:40.526620 
+samskio,     rt,        <Channel name: lacy>,       2024-11-07 16:01:29.991894 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:01:38.861586 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:52.274691 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:12.563133 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:03:23.299795 
+samskio,     ta,        <Channel name: lacy>,       2024-11-07 16:03:28.345925 
+samskio,     no,        <Channel name: stableronaldo>,       2024-11-07 16:03:39.596925 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:04:13.465005 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:04:23.844461 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:34.166774 
+samskio,     me,        <Channel name: stableronaldo>,       2024-11-07 16:05:11.318931 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:05:25.101018 
+samskio,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:06:43.900121 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:07:00.574443 
+samskio,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:10.769402 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:07:42.984021 
+samskio,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:07.497746 
+samskio,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:08:29.124478 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:08:43.541428 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:08:53.709112 
+samskio,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:14.800460 
+samskio,     me,        <Channel name: stableronaldo>,       2024-11-07 16:09:26.889482 
+samskio,     I was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:39.342894 
+samskio,     me,        <Channel name: stableronaldo>,       2024-11-07 16:09:53.962633 
+samskio,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:10:16.589052 
+samskio,     no,        <Channel name: stableronaldo>,       2024-11-07 16:10:27.255560 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:42.809707 
+samskio,     emo,        <Channel name: stableronaldo>,       2024-11-07 16:11:20.841303 
+samskio,     no,        <Channel name: stableronaldo>,       2024-11-07 16:11:47.892369 
+samskio,     gg,        <Channel name: lacy>,       2024-11-07 16:12:51.133362 
+samskio,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:13:02.654594 
+samskio,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:13:12.851662 
+samskio,     D:,        <Channel name: stableronaldo>,       2024-11-07 16:14:00.309489 
+samskio,     cap,        <Channel name: stableronaldo>,       2024-11-07 16:14:12.880628 
+samskio,     it is,        <Channel name: stableronaldo>,       2024-11-07 16:14:24.320107 
+samskio,     ta,        <Channel name: lacy>,       2024-11-07 16:14:30.625584 
+samskio,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:14:43.974784 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:44.083704 
+samskio,     ta,        <Channel name: lacy>,       2024-11-07 16:15:39.828579 
+samskio,     lacy,        <Channel name: stableronaldo>,       2024-11-07 16:15:41.648701 
+samskio,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:15:50.910614 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:00.221052 
+samskio,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:16:19.429533 
+samskio,     D:,        <Channel name: lacy>,       2024-11-07 16:16:21.804199 
+samskio,     HUH,        <Channel name: lacy>,       2024-11-07 16:16:35.918805 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:53.438725 
+samskio,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:06.434960 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 16:17:15.216828 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:17:21.755159 
+samskio,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:17:36.509067 
+samskio,     FAX,        <Channel name: kaicenat>,       2024-11-07 16:17:52.726149 
+samskio,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:54.857005 
+samskio,     WW,        <Channel name: clix>,       2024-11-07 16:17:59.246061 
+samskio,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:18:20.801317 
+samskio,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:40.537078 
+samskio,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:50.688829 
+samskio,     drew,        <Channel name: lacy>,       2024-11-07 16:18:53.487859 
+samskio,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:01.517856 
+samskio,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:13.041151 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:34.933927 
+samskio,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:50.975970 
+samskio,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:02.220482 
+samskio,     DO IT,        <Channel name: stableronaldo>,       2024-11-07 16:20:12.656314 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 16:20:17.656996 
+samskio,     Pffttt,        <Channel name: stableronaldo>,       2024-11-07 16:20:24.999213 
+samskio,     WW,        <Channel name: lacy>,       2024-11-07 16:20:44.235188 
+samskio,     LMFAO,        <Channel name: lacy>,       2024-11-07 16:20:57.883939 
+samskio,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:59.072142 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:21.438512 
+samskio,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:31.698838 
+samskio,     yes,        <Channel name: kaicenat>,       2024-11-07 16:21:41.309543 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:03.607151 
+samskio,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:16.965994 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:27.884653 
+samskio,     cap,        <Channel name: lacy>,       2024-11-07 16:22:31.005557 
+samskio,     yes,        <Channel name: lacy>,       2024-11-07 16:22:57.055667 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:58.646345 
+samskio,     Pffttt,        <Channel name: clix>,       2024-11-07 16:23:00.675385 
+samskio,     F,        <Channel name: lacy>,       2024-11-07 16:23:19.506286 
+samskio,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:27.480135 
+samskio,     respectfully,        <Channel name: stableronaldo>,       2024-11-07 16:23:47.348318 
+samskio,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:23:59.327481 
+samskio,     uuh,        <Channel name: lacy>,       2024-11-07 16:24:06.039617 
+samskio,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:24:10.479067 
+samskio,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:24.635652 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:24:36.532691 
+samskio,     Ogre,        <Channel name: stableronaldo>,       2024-11-07 16:25:03.516338 
+samskio,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:25:20.430846 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:25:33.008320 
+samskio,     AURA,        <Channel name: clix>,       2024-11-07 16:25:37.580838 
+samskio,     im ronaldo,        <Channel name: stableronaldo>,       2024-11-07 16:25:49.010506 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:26:00.085791 
+samskio,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:26:00.432841 
+samskio,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:11.302689 
+samskio,     yes,        <Channel name: kaicenat>,       2024-11-07 16:26:13.778833 
+samskio,     no,        <Channel name: stableronaldo>,       2024-11-07 16:26:21.323700 
+samskio,     he kissed u,        <Channel name: lacy>,       2024-11-07 16:26:26.976616 
+samskio,     eww,        <Channel name: clix>,       2024-11-07 16:26:29.556379 
+samskio,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:26:41.994410 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:28:11.270617 
+samskio,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:43.574659 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:30:04.483980 
+samskio,     NOT HOT ENOUGH,        <Channel name: kaicenat>,       2024-11-07 16:32:26.434748 
+samskio,     not hot enough,        <Channel name: kaicenat>,       2024-11-07 16:32:41.505300 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:33:02.336836 
+samskio,     gg,        <Channel name: kaicenat>,       2024-11-07 16:34:14.926169 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:34:46.262938 
+samskio,     yes,        <Channel name: kaicenat>,       2024-11-07 16:35:00.311311 
+samskio,     stop,        <Channel name: kaicenat>,       2024-11-07 16:40:51.415297 
+samskio,     no,        <Channel name: kaicenat>,       2024-11-07 16:45:03.207123 
+samskio,     o7,        <Channel name: kaicenat>,       2024-11-07 16:47:01.452206 
+samskio,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:49:00.266547 
+samskio,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:08.172367 
+samskio,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:28.435169 
+samskio,     U OR ME,        <Channel name: kaicenat>,       2024-11-07 16:53:25.070490 
+samskio,     moshin,        <Channel name: kaicenat>,       2024-11-07 16:54:19.536525 
+samskio,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:19.410509 
+samskio,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:29.592970 
+samskio,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:39.723603 
+samskio,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:51.203486 
+samskio,     Pool,        <Channel name: kaicenat>,       2024-11-07 16:56:01.908359 

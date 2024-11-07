@@ -1,0 +1,6 @@
+goldstrikeceo,     165,        <Channel name: lacy>,       2024-11-07 15:37:02.247511 
+goldstrikeceo,     1738,        <Channel name: lacy>,       2024-11-07 15:37:13.133188 
+goldstrikeceo,     1738.,        <Channel name: lacy>,       2024-11-07 15:37:28.015927 
+goldstrikeceo,     1738,        <Channel name: lacy>,       2024-11-07 15:41:21.072165 
+goldstrikeceo,     1738,        <Channel name: lacy>,       2024-11-07 15:42:47.190574 
+goldstrikeceo,     Fuck drew,        <Channel name: lacy>,       2024-11-07 15:47:36.239224 

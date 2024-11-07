@@ -1,0 +1,3 @@
+ixmbh,     gyat,        <Channel name: clix>,       2024-11-07 16:11:39.244896 
+ixmbh,     ww chicken,        <Channel name: clix>,       2024-11-07 16:24:52.403480 
+ixmbh,     eww,        <Channel name: clix>,       2024-11-07 16:26:30.917754 

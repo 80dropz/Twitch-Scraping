@@ -108,3 +108,30 @@
  xxvjxx,     SOMEONE GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:59:05.835646 
 
  xxvjxx,     GIFT 100,        <Channel name: kaicenat>,       2024-11-07 12:59:41.160245 
+
+ xxvjxx,     W HALO,        <Channel name: kaicenat>,       2024-11-07 14:43:58.310126 
+
+ xxvjxx,     eeeeeeeewwww,        <Channel name: kaicenat>,       2024-11-07 14:47:03.249565 
+
+ xxvjxx,     W MILES,        <Channel name: kaicenat>,       2024-11-07 14:48:37.117006 
+
+ xxvjxx,     W DUKE,        <Channel name: kaicenat>,       2024-11-07 14:51:49.287572 
+
+ xxvjxx,     check on RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:33.755058 
+
+ xxvjxx,     check on rakai,        <Channel name: kaicenat>,       2024-11-07 14:53:59.125447 
+
+ xxvjxx,     check on RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:54:15.664362 
+
+ xxvjxx,     RAKAI STILL IN TIMEOUT ?,        <Channel name: kaicenat>,       2024-11-07 14:54:40.258770 
+xxvjxx,     shirt off shoeas and socks too bruh wth,        <Channel name: kaicenat>,       2024-11-07 16:28:11.119415 
+xxvjxx,     shoes and shirt off,        <Channel name: kaicenat>,       2024-11-07 16:28:36.663369 
+xxvjxx,     shoes and shirt off bruh,        <Channel name: kaicenat>,       2024-11-07 16:28:44.989467 
+xxvjxx,     nah lil more then mid,        <Channel name: kaicenat>,       2024-11-07 16:30:08.493854 
+xxvjxx,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:31.821671 
+xxvjxx,     7!,        <Channel name: kaicenat>,       2024-11-07 16:30:38.252162 
+xxvjxx,     7,        <Channel name: kaicenat>,       2024-11-07 16:30:40.191129 
+xxvjxx,     yeah,        <Channel name: kaicenat>,       2024-11-07 16:30:54.184144 
+xxvjxx,     yes,        <Channel name: kaicenat>,       2024-11-07 16:30:58.987839 
+xxvjxx,     yes!,        <Channel name: kaicenat>,       2024-11-07 16:31:01.223723 
+xxvjxx,     gg,        <Channel name: kaicenat>,       2024-11-07 16:38:02.442502 

@@ -1,2 +1,5 @@
 
  grrdog600,     !leaderboard,        <Channel name: clix>,       2024-11-07 01:53:53.749952 
+grrdog600,     Gym stream,        <Channel name: mongraal>,       2024-11-07 15:55:06.427486 
+grrdog600,     What's the the next tourney,        <Channel name: mongraal>,       2024-11-07 16:10:33.322878 
+grrdog600,     Barely,        <Channel name: mongraal>,       2024-11-07 16:12:53.932360 

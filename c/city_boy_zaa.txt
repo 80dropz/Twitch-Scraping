@@ -1,0 +1,4 @@
+
+ city_boy_zaa,     sold,        <Channel name: lacy>,       2024-11-07 15:27:51.668255 
+city_boy_zaa,     skip this part,        <Channel name: lacy>,       2024-11-07 15:59:55.623608 
+city_boy_zaa,     is she stuck,        <Channel name: lacy>,       2024-11-07 16:00:10.795950 

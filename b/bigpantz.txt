@@ -1,0 +1,77 @@
+bigpantz,     FOCUS,        <Channel name: adapt>,       2024-11-07 15:53:18.845115 
+bigpantz,     juh juh juh,        <Channel name: adapt>,       2024-11-07 15:54:23.519260 
+bigpantz,     juh juh juh,        <Channel name: adapt>,       2024-11-07 15:54:40.646588 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:54:55.037390 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:54:55.186088 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:54:55.337668 
+bigpantz,     s00n OME32,        <Channel name: stableronaldo>,       2024-11-07 15:55:07.697161 
+bigpantz,     s00n ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:12.423209 
+bigpantz,     s00n ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:14.743156 
+bigpantz,     s00n ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:21.142292 
+bigpantz,     s00n ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:43.168696 
+bigpantz,     s00n ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:54.154348 
+bigpantz,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:56:12.986466 
+bigpantz,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:56:14.766584 
+bigpantz,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:56:18.860153 
+bigpantz,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:56:21.071278 
+bigpantz,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:29.283534 
+bigpantz,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:31.928297 
+bigpantz,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:42.474088 
+bigpantz,     hiii,        <Channel name: stableronaldo>,       2024-11-07 15:56:57.692403 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 15:57:22.920562 
+bigpantz,     CAP,        <Channel name: stableronaldo>,       2024-11-07 15:58:47.039518 
+bigpantz,     cap,        <Channel name: stableronaldo>,       2024-11-07 15:58:48.652867 
+bigpantz,     NOOOO,        <Channel name: stableronaldo>,       2024-11-07 15:59:03.764500 
+bigpantz,     yes gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:23.231898 
+bigpantz,     g,        <Channel name: stableronaldo>,       2024-11-07 15:59:46.122460 
+bigpantz,     gg,        <Channel name: stableronaldo>,       2024-11-07 15:59:47.471223 
+bigpantz,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:00:20.512052 
+bigpantz,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:55.119750 
+bigpantz,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:56.903586 
+bigpantz,     over reacting Classic,        <Channel name: stableronaldo>,       2024-11-07 16:02:30.459810 
+bigpantz,     mhm,        <Channel name: stableronaldo>,       2024-11-07 16:02:46.187759 
+bigpantz,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:49.710207 
+bigpantz,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:03:22.885486 
+bigpantz,     100k max,        <Channel name: stableronaldo>,       2024-11-07 16:03:38.580760 
+bigpantz,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:05:09.747165 
+bigpantz,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:05:34.023186 
+bigpantz,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:05:49.319196 
+bigpantz,     i was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:30.717231 
+bigpantz,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:09.474502 
+bigpantz,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:57.050281 
+bigpantz,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:52.348026 
+bigpantz,     SAY YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:57.524981 
+bigpantz,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.483877 
+bigpantz,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.677850 
+bigpantz,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.782363 
+bigpantz,     TAWAYome5,        <Channel name: stableronaldo>,       2024-11-07 16:19:22.832390 
+bigpantz,     ome5,        <Channel name: stableronaldo>,       2024-11-07 16:19:28.053447 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:46.857058 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:47.958941 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:49.601320 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:01.748151 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:15.755254 
+bigpantz,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:24.994696 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:55.972067 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.407063 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.574136 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.693649 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.845624 
+bigpantz,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:21:00.547602 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:05.266387 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:31.009253 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:31.849003 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:02.978227 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:03.918437 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:12.813692 
+bigpantz,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:27.459209 
+bigpantz,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.080214 
+bigpantz,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:33.743408 
+bigpantz,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:23:01.874025 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:29.506578 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:30.281446 
+bigpantz,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:23:59.872719 
+bigpantz,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:07.382054 
+bigpantz,     me,        <Channel name: stableronaldo>,       2024-11-07 16:26:12.081962 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:42.794735 
+bigpantz,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:44.154167 

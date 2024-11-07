@@ -1,0 +1,32 @@
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:45:50.141571 
+
+ prophet710,     !gamble 1m,        <Channel name: adapt>,       2024-11-07 14:47:41.090654 
+
+ prophet710,     !gamble 2m,        <Channel name: adapt>,       2024-11-07 14:48:17.374409 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:48:27.707248 
+
+ prophet710,     !gamble 2m,        <Channel name: adapt>,       2024-11-07 14:48:52.186392 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:48:59.314294 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:49:12.699320 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:49:24.717809 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:49:35.633074 
+
+ prophet710,     !gamble 2m,        <Channel name: adapt>,       2024-11-07 14:49:58.500539 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:50:08.752424 
+
+ prophet710,     !points 2m,        <Channel name: adapt>,       2024-11-07 14:50:29.308346 
+
+ prophet710,     !gamble 2m,        <Channel name: adapt>,       2024-11-07 14:50:46.258517 
+
+ prophet710,     !points,        <Channel name: adapt>,       2024-11-07 14:51:11.538988 
+
+ prophet710,     WW,        <Channel name: adapt>,       2024-11-07 14:51:51.356047 
+
+ prophet710,     !pointts,        <Channel name: kaicenat>,       2024-11-07 14:53:52.623750 

@@ -36,3 +36,5 @@
  lohsta,     lmfaooooooom,        <Channel name: silky>,       2024-11-07 02:46:00.547422 
 
  lohsta,     OMGMAX LMFAOOOO,        <Channel name: silky>,       2024-11-07 02:46:42.941247 
+
+ lohsta,     !followage,        <Channel name: kaicenat>,       2024-11-07 15:24:14.401351 

@@ -1,0 +1,3 @@
+kussh_,     hiii,        <Channel name: clix>,       2024-11-07 16:00:37.735704 
+kussh_,     Pffttt,        <Channel name: clix>,       2024-11-07 16:15:04.356563 
+kussh_,     AINTNOWAY,        <Channel name: clix>,       2024-11-07 16:15:19.435514 

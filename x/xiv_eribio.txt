@@ -1,0 +1,2 @@
+xiv_eribio,     yo,        <Channel name: mongraal>,       2024-11-07 15:36:49.883193 
+xiv_eribio,     10%,        <Channel name: mongraal>,       2024-11-07 16:12:49.446563 

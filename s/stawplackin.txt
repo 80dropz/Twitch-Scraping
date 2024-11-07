@@ -22,3 +22,4 @@
  stawplackin,     CRIS AMP,        <Channel name: kaicenat>,       2024-11-07 02:49:47.892942 
 
  stawplackin,     CRIS CAMERAMAN,        <Channel name: kaicenat>,       2024-11-07 02:49:58.307733 
+stawplackin,     TAWAY,        <Channel name: lacy>,       2024-11-07 16:14:42.076786 

@@ -1,0 +1,4 @@
+joshuapaulii,     !trio,        <Channel name: clix>,       2024-11-07 15:57:17.527441 
+joshuapaulii,     !trio,        <Channel name: clix>,       2024-11-07 15:57:53.092369 
+joshuapaulii,     fck,        <Channel name: clix>,       2024-11-07 15:58:10.532693 
+joshuapaulii,     !trio,        <Channel name: clix>,       2024-11-07 15:58:19.029631 

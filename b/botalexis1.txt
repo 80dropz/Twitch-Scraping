@@ -1,0 +1,3 @@
+botalexis1,     do you drinks a lot of caffeine ??,        <Channel name: stableronaldo>,       2024-11-07 15:59:41.951795 
+botalexis1,     do you feel dizzy,        <Channel name: stableronaldo>,       2024-11-07 16:00:52.343887 
+botalexis1,     could be vertigo,        <Channel name: stableronaldo>,       2024-11-07 16:01:05.690664 

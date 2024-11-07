@@ -4,3 +4,8 @@
  g_swank,     youll be aight nigga,        <Channel name: kaicenat>,       2024-11-07 01:52:16.546493 
 
  g_swank,     you tough right?,        <Channel name: kaicenat>,       2024-11-07 01:52:45.645108 
+g_swank,     15,        <Channel name: kaicenat>,       2024-11-07 16:18:43.714143 
+g_swank,     shoes,        <Channel name: kaicenat>,       2024-11-07 16:23:45.263833 
+g_swank,     no,        <Channel name: kaicenat>,       2024-11-07 16:28:11.243648 
+g_swank,     actually slow,        <Channel name: kaicenat>,       2024-11-07 16:34:21.119951 
+g_swank,     stop,        <Channel name: kaicenat>,       2024-11-07 16:37:41.559403 

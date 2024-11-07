@@ -1,0 +1,5 @@
+abid0502,     drop the snipe,        <Channel name: adapt>,       2024-11-07 15:45:37.862121 
+abid0502,     use a AR,        <Channel name: adapt>,       2024-11-07 15:45:54.117761 
+abid0502,     use AK,        <Channel name: adapt>,       2024-11-07 15:46:20.765827 
+abid0502,     use AR,        <Channel name: adapt>,       2024-11-07 15:47:23.530821 
+abid0502,     put score streak on,        <Channel name: adapt>,       2024-11-07 15:49:01.058069 

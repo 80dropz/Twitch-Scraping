@@ -84,3 +84,22 @@
  blacklist_exe,     LMFAO,        <Channel name: kaicenat>,       2024-11-07 02:21:26.385865 
 
  blacklist_exe,     RAGEQUIT Fucking work callin,        <Channel name: kaicenat>,       2024-11-07 02:22:34.195084 
+blacklist_exe,     HUH,        <Channel name: kaicenat>,       2024-11-07 16:36:13.229753 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:33.829784 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:43.165027 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:36:51.876231 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:02.420364 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:11.994268 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:37:28.525296 
+blacklist_exe,     oop,        <Channel name: kaicenat>,       2024-11-07 16:37:43.528130 
+blacklist_exe,     BOOM,        <Channel name: kaicenat>,       2024-11-07 16:38:01.220309 
+blacklist_exe,     LMAO,        <Channel name: kaicenat>,       2024-11-07 16:38:19.346777 
+blacklist_exe,     LMAO,        <Channel name: kaicenat>,       2024-11-07 16:38:25.100450 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:38:34.183050 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:38:39.938775 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:38:51.865146 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:39:25.298478 
+blacklist_exe,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:39:32.140296 
+blacklist_exe,     I haven't heard this shit in years,        <Channel name: kaicenat>,       2024-11-07 16:39:40.456697 
+blacklist_exe,     Stoopid,        <Channel name: kaicenat>,       2024-11-07 16:40:47.774744 
+blacklist_exe,     LMAO,        <Channel name: kaicenat>,       2024-11-07 16:41:04.953496 

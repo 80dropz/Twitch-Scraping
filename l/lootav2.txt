@@ -90,3 +90,112 @@
  lootav2,     GG,        <Channel name: lacy>,       2024-11-07 13:32:30.360132 
 
  lootav2,     LOL,        <Channel name: lacy>,       2024-11-07 13:32:34.331934 
+
+ lootav2,     LMAO,        <Channel name: clix>,       2024-11-07 14:43:52.015994 
+
+ lootav2,     cmonBruh,        <Channel name: clix>,       2024-11-07 14:53:25.304840 
+
+ lootav2,     uuh,        <Channel name: clix>,       2024-11-07 14:53:32.540877 
+
+ lootav2,     clixLove clixLove clixLove,        <Channel name: clix>,       2024-11-07 14:53:45.596133 
+lootav2,     GG,        <Channel name: clix>,       2024-11-07 15:42:13.398400 
+lootav2,     NOWAY FRAAN,        <Channel name: clix>,       2024-11-07 15:54:32.757254 
+lootav2,     uuh,        <Channel name: clix>,       2024-11-07 15:54:39.576694 
+lootav2,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:55:25.190185 
+lootav2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:56:15.502290 
+lootav2,     NEAR,        <Channel name: stableronaldo>,       2024-11-07 15:56:28.730775 
+lootav2,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:11.190725 
+lootav2,     rt,        <Channel name: stableronaldo>,       2024-11-07 15:57:43.302706 
+lootav2,     bad,        <Channel name: stableronaldo>,       2024-11-07 15:57:59.823890 
+lootav2,     real,        <Channel name: stableronaldo>,       2024-11-07 15:58:23.250576 
+lootav2,     y,        <Channel name: stableronaldo>,       2024-11-07 15:58:41.534706 
+lootav2,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:44.076338 
+lootav2,     Life,        <Channel name: stableronaldo>,       2024-11-07 15:58:51.408751 
+lootav2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 15:58:54.175769 
+lootav2,     Classic,        <Channel name: stableronaldo>,       2024-11-07 15:58:59.321538 
+lootav2,     WEDIDIT,        <Channel name: stableronaldo>,       2024-11-07 15:59:01.370707 
+lootav2,     yes,        <Channel name: stableronaldo>,       2024-11-07 15:59:27.897819 
+lootav2,     ggs,        <Channel name: stableronaldo>,       2024-11-07 15:59:40.062669 
+lootav2,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:00:12.392996 
+lootav2,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:00:17.700414 
+lootav2,     nrg,        <Channel name: stableronaldo>,       2024-11-07 16:00:37.354322 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:03.198398 
+lootav2,     ggs,        <Channel name: stableronaldo>,       2024-11-07 16:01:08.529818 
+lootav2,     GG,        <Channel name: stableronaldo>,       2024-11-07 16:01:10.127669 
+lootav2,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:01:11.878338 
+lootav2,     ITS OVER,        <Channel name: stableronaldo>,       2024-11-07 16:01:18.992946 
+lootav2,     ITS OV,        <Channel name: stableronaldo>,       2024-11-07 16:01:24.089840 
+lootav2,     GULP,        <Channel name: stableronaldo>,       2024-11-07 16:01:27.113858 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:01:29.189038 
+lootav2,     ggs,        <Channel name: stableronaldo>,       2024-11-07 16:01:36.741848 
+lootav2,     go to the doctor,        <Channel name: stableronaldo>,       2024-11-07 16:01:42.441719 
+lootav2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:01:56.169200 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:02:00.742646 
+lootav2,     it’s ov,        <Channel name: stableronaldo>,       2024-11-07 16:02:05.558741 
+lootav2,     OV,        <Channel name: stableronaldo>,       2024-11-07 16:02:09.875601 
+lootav2,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:02:18.521051 
+lootav2,     no,        <Channel name: stableronaldo>,       2024-11-07 16:02:53.192071 
+lootav2,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:03:59.797817 
+lootav2,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:04:18.039391 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:04:25.988814 
+lootav2,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:32.080015 
+lootav2,     LMAOOOOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:04:35.344840 
+lootav2,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:04:39.979901 
+lootav2,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:05:06.880942 
+lootav2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:05:12.184658 
+lootav2,     me,        <Channel name: stableronaldo>,       2024-11-07 16:05:16.818880 
+lootav2,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:05:19.562050 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:05:28.955898 
+lootav2,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:06:05.920365 
+lootav2,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:06:09.225982 
+lootav2,     D:,        <Channel name: stableronaldo>,       2024-11-07 16:06:11.250671 
+lootav2,     ma,        <Channel name: stableronaldo>,       2024-11-07 16:06:16.065235 
+lootav2,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:07:00.280458 
+lootav2,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:07:07.843870 
+lootav2,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:07:10.832147 
+lootav2,     WW MOM,        <Channel name: stableronaldo>,       2024-11-07 16:07:14.178078 
+lootav2,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:07:18.730140 
+lootav2,     GG,        <Channel name: stableronaldo>,       2024-11-07 16:07:20.811410 
+lootav2,     500k,        <Channel name: stableronaldo>,       2024-11-07 16:07:24.824163 
+lootav2,     rt,        <Channel name: stableronaldo>,       2024-11-07 16:07:45.209544 
+lootav2,     taw,        <Channel name: stableronaldo>,       2024-11-07 16:08:33.018223 
+lootav2,     ?,        <Channel name: stableronaldo>,       2024-11-07 16:08:37.339679 
+lootav2,     LL SON,        <Channel name: stableronaldo>,       2024-11-07 16:08:42.189256 
+lootav2,     WW MOM,        <Channel name: stableronaldo>,       2024-11-07 16:08:49.880275 
+lootav2,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:09:19.566144 
+lootav2,     I WAS HERE,        <Channel name: stableronaldo>,       2024-11-07 16:09:33.536497 
+lootav2,     me,        <Channel name: stableronaldo>,       2024-11-07 16:09:58.500389 
+lootav2,     CLONE,        <Channel name: stableronaldo>,       2024-11-07 16:10:17.762728 
+lootav2,     Capping,        <Channel name: stableronaldo>,       2024-11-07 16:10:22.446612 
+lootav2,     no,        <Channel name: stableronaldo>,       2024-11-07 16:10:36.181594 
+lootav2,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:10:47.782323 
+lootav2,     we good,        <Channel name: stableronaldo>,       2024-11-07 16:10:51.097614 
+lootav2,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:11:48.614760 
+lootav2,     WWWWWW,        <Channel name: stableronaldo>,       2024-11-07 16:11:51.489273 
+lootav2,     real,        <Channel name: stableronaldo>,       2024-11-07 16:13:15.175728 
+lootav2,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:13:17.170606 
+lootav2,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:13:46.941681 
+lootav2,     GOALLLLL,        <Channel name: stableronaldo>,       2024-11-07 16:13:53.285754 
+lootav2,     D:,        <Channel name: stableronaldo>,       2024-11-07 16:14:02.209827 
+lootav2,     REAL,        <Channel name: stableronaldo>,       2024-11-07 16:14:06.354144 
+lootav2,     FINALLY,        <Channel name: stableronaldo>,       2024-11-07 16:14:14.862895 
+lootav2,     Cap,        <Channel name: stableronaldo>,       2024-11-07 16:14:17.235014 
+lootav2,     it is,        <Channel name: stableronaldo>,       2024-11-07 16:14:30.942053 
+lootav2,     LMAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:46.909890 
+lootav2,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:06.015072 
+lootav2,     yes,        <Channel name: clix>,       2024-11-07 16:20:39.237168 
+lootav2,     WWWWWW,        <Channel name: clix>,       2024-11-07 16:21:51.152134 
+lootav2,     uuh,        <Channel name: clix>,       2024-11-07 16:21:55.232494 
+lootav2,     LOL,        <Channel name: clix>,       2024-11-07 16:23:04.270510 
+lootav2,     HAH,        <Channel name: clix>,       2024-11-07 16:23:07.055289 
+lootav2,     KRKRKEKKEKE,        <Channel name: clix>,       2024-11-07 16:23:10.348552 
+lootav2,     RIZZ DOTT,        <Channel name: clix>,       2024-11-07 16:23:12.917201 
+lootav2,     LMFAOOOO,        <Channel name: clix>,       2024-11-07 16:23:29.918418 
+lootav2,     KRKRKRKR,        <Channel name: clix>,       2024-11-07 16:23:32.460903 
+lootav2,     GYAT,        <Channel name: clix>,       2024-11-07 16:23:58.878666 
+lootav2,     mhm,        <Channel name: clix>,       2024-11-07 16:24:09.037361 
+lootav2,     ofc,        <Channel name: clix>,       2024-11-07 16:24:48.909035 
+lootav2,     WWWW,        <Channel name: clix>,       2024-11-07 16:25:25.310860 
+lootav2,     HOLY,        <Channel name: clix>,       2024-11-07 16:25:26.510125 
+lootav2,     YOOOOOOO,        <Channel name: clix>,       2024-11-07 16:25:36.965504 
+lootav2,     AURA,        <Channel name: clix>,       2024-11-07 16:26:03.787740 

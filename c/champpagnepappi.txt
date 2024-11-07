@@ -1,0 +1,3 @@
+champpagnepappi,     fax,        <Channel name: kaicenat>,       2024-11-07 16:17:54.078427 
+champpagnepappi,     needthat,        <Channel name: kaicenat>,       2024-11-07 16:18:01.111800 
+champpagnepappi,     20,        <Channel name: kaicenat>,       2024-11-07 16:18:35.606117 

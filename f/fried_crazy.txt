@@ -1,0 +1,3 @@
+fried_crazy,     bro,        <Channel name: stableronaldo>,       2024-11-07 16:16:18.586758 
+fried_crazy,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:17:59.635825 
+fried_crazy,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.179392 

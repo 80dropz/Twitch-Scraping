@@ -1,0 +1,6 @@
+kalanimaisy,     jump in,        <Channel name: kaicenat>,       2024-11-07 16:23:06.584374 
+kalanimaisy,     h,        <Channel name: kaicenat>,       2024-11-07 16:23:13.272422 
+kalanimaisy,     it’s cold in there?,        <Channel name: kaicenat>,       2024-11-07 16:23:44.626253 
+kalanimaisy,     CLOSE FRONT DOOR,        <Channel name: kaicenat>,       2024-11-07 16:25:03.981468 
+kalanimaisy,     CLOSE DOOR,        <Channel name: kaicenat>,       2024-11-07 16:25:09.602708 
+kalanimaisy,     CLOSE FRONT DOOR,        <Channel name: kaicenat>,       2024-11-07 16:25:43.138733 

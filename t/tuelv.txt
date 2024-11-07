@@ -1,0 +1,41 @@
+tuelv,     LMFAO,        <Channel name: lacy>,       2024-11-07 15:48:26.516878 
+tuelv,     CAUGHT,        <Channel name: lacy>,       2024-11-07 15:48:32.307884 
+tuelv,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:13:12.095736 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:13:45.749480 
+tuelv,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:14:41.840963 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:14:50.640561 
+tuelv,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:16:20.720804 
+tuelv,     dianalim,        <Channel name: stableronaldo>,       2024-11-07 16:16:49.776094 
+tuelv,     notdianalim,        <Channel name: stableronaldo>,       2024-11-07 16:17:00.543898 
+tuelv,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:17:53.909858 
+tuelv,     ov,        <Channel name: stableronaldo>,       2024-11-07 16:18:03.048233 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:15.646894 
+tuelv,     OOOO,        <Channel name: stableronaldo>,       2024-11-07 16:18:20.245124 
+tuelv,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:18:32.643049 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:40.101113 
+tuelv,     FAZE AUNTIE,        <Channel name: stableronaldo>,       2024-11-07 16:18:42.745052 
+tuelv,     FaZe AUNTIE,        <Channel name: stableronaldo>,       2024-11-07 16:18:47.846185 
+tuelv,     OMG YOU MADE IT,        <Channel name: stableronaldo>,       2024-11-07 16:19:19.091157 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:25.434957 
+tuelv,     mmmmm,        <Channel name: stableronaldo>,       2024-11-07 16:19:54.905185 
+tuelv,     RON ON THE ROAD,        <Channel name: stableronaldo>,       2024-11-07 16:20:06.954425 
+tuelv,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:08.485859 
+tuelv,     RON ON THE ROAD,        <Channel name: stableronaldo>,       2024-11-07 16:20:18.429035 
+tuelv,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:25.033746 
+tuelv,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:20:56.145476 
+tuelv,     OHHHHH,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.514002 
+tuelv,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:21:01.714308 
+tuelv,     LIL DUDE,        <Channel name: stableronaldo>,       2024-11-07 16:21:08.205430 
+tuelv,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:21.993046 
+tuelv,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:31.551208 
+tuelv,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:43.285562 
+tuelv,     LMFAO,        <Channel name: stableronaldo>,       2024-11-07 16:22:03.329308 
+tuelv,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:06.249029 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:22:31.284655 
+tuelv,     HUH,        <Channel name: stableronaldo>,       2024-11-07 16:22:35.151237 
+tuelv,     NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:22:38.281108 
+tuelv,     Classic,        <Channel name: stableronaldo>,       2024-11-07 16:22:47.177112 
+tuelv,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:54.504831 
+tuelv,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:24:00.024752 
+tuelv,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:32.995989 
+tuelv,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:24:55.530585 

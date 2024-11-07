@@ -1,0 +1,4 @@
+skyes_eu,     lower case,        <Channel name: stableronaldo>,       2024-11-07 16:17:13.433743 
+skyes_eu,     CALL HER,        <Channel name: stableronaldo>,       2024-11-07 16:18:08.419930 
+skyes_eu,     tuh,        <Channel name: stableronaldo>,       2024-11-07 16:23:14.112499 
+skyes_eu,     IM RONALDO,        <Channel name: stableronaldo>,       2024-11-07 16:25:50.134959 

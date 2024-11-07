@@ -16,3 +16,7 @@
  goonhub69,     omg,        <Channel name: nadeshot>,       2024-11-07 13:00:16.123816 
 
  goonhub69,     the goon himself,        <Channel name: nadeshot>,       2024-11-07 13:00:40.929058 
+goonhub69,     T2G,        <Channel name: nadeshot>,       2024-11-07 16:14:14.342900 
+goonhub69,     @mcgowan T2G,        <Channel name: nadeshot>,       2024-11-07 16:16:24.007063 
+goonhub69,     @mcgowan dam,        <Channel name: nadeshot>,       2024-11-07 16:16:53.425121 
+goonhub69,     though McGowan had more power,        <Channel name: nadeshot>,       2024-11-07 16:17:39.375304 

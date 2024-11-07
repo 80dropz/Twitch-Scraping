@@ -1,0 +1,2 @@
+explikt,     casual,        <Channel name: formal>,       2024-11-07 16:10:50.148226 
+explikt,     Kappa,        <Channel name: formal>,       2024-11-07 16:10:58.040265 

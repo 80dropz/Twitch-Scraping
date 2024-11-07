@@ -1,0 +1,2 @@
+pvplotos0,     !res,        <Channel name: mrlust>,       2024-11-07 16:22:10.300090 
+pvplotos0,     !settings,        <Channel name: mrlust>,       2024-11-07 16:22:17.261227 

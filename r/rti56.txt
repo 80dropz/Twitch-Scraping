@@ -20,3 +20,4 @@
  rti56,     definitely need a prayer before hot dog costume,        <Channel name: nadeshot>,       2024-11-07 11:28:35.394540 
 
  rti56,     WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,        <Channel name: nadeshot>,       2024-11-07 11:42:16.079772 
+rti56,     @nadeshot remember to change your crosshair in the interface settings to help with aim before your match,        <Channel name: nadeshot>,       2024-11-07 16:37:46.697376 

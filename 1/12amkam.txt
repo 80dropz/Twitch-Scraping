@@ -1,0 +1,54 @@
+12amkam,     WW ROD,        <Channel name: kaicenat>,       2024-11-07 15:42:14.706452 
+12amkam,     W ROD,        <Channel name: kaicenat>,       2024-11-07 15:42:17.611664 
+12amkam,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 15:42:28.781926 
+12amkam,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 15:42:31.317177 
+12amkam,     FAX,        <Channel name: kaicenat>,       2024-11-07 16:17:52.416187 
+12amkam,     FAXXXX,        <Channel name: kaicenat>,       2024-11-07 16:17:56.870927 
+12amkam,     FAAX,        <Channel name: kaicenat>,       2024-11-07 16:17:58.877090 
+12amkam,     YEESSSIRR,        <Channel name: kaicenat>,       2024-11-07 16:18:30.929847 
+12amkam,     YESIRRR,        <Channel name: kaicenat>,       2024-11-07 16:18:32.420202 
+12amkam,     YESSS,        <Channel name: kaicenat>,       2024-11-07 16:18:35.648172 
+12amkam,     15,        <Channel name: kaicenat>,       2024-11-07 16:18:38.019271 
+12amkam,     15 min,        <Channel name: kaicenat>,       2024-11-07 16:18:43.281956 
+12amkam,     15 minnn,        <Channel name: kaicenat>,       2024-11-07 16:18:50.459931 
+12amkam,     YES,        <Channel name: kaicenat>,       2024-11-07 16:19:38.565767 
+12amkam,     YESS,        <Channel name: kaicenat>,       2024-11-07 16:19:43.117829 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:41:44.146808 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:41:45.767120 
+12amkam,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 16:41:47.948981 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:41:50.785226 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:41:54.652413 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:41:59.119588 
+12amkam,     TwitchConHYPE kaicSturdyy TwitchConHYPE kaicSturdyy TwitchConHYPE kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:42:03.042522 
+12amkam,     ome30,        <Channel name: kaicenat>,       2024-11-07 16:42:48.815599 
+12amkam,     ome32,        <Channel name: kaicenat>,       2024-11-07 16:43:04.311841 
+12amkam,     ome30,        <Channel name: kaicenat>,       2024-11-07 16:46:32.734049 
+12amkam,     ome30 ome30,        <Channel name: kaicenat>,       2024-11-07 16:46:49.267467 
+12amkam,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:47:52.570017 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:47:55.632234 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:47:59.231573 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:48:01.720044 
+12amkam,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 16:48:11.656155 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:48:19.680284 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:48:32.612057 
+12amkam,     STICCKYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:36.467042 
+12amkam,     STICCKKYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:39.661126 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:48:51.182409 
+12amkam,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:48:52.967475 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:48:57.589273 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:48:58.771316 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:13.853801 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:44.970477 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:46.968466 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:48.447796 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:50.070181 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:51.489338 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:49:54.123213 
+12amkam,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:50:20.033209 
+12amkam,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:21.401165 
+12amkam,     kaicGimmiegold kaicNaenae kaicNaenae kaicNaenae kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:24.127786 
+12amkam,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:56.451243 
+12amkam,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:59.822395 
+12amkam,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:51:01.810514 
+12amkam,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:54:29.284701 
+12amkam,     ome30,        <Channel name: kaicenat>,       2024-11-07 16:54:45.129897 

@@ -66,3 +66,64 @@
  ebk_lenox,     DUKE DENNIS,        <Channel name: kaicenat>,       2024-11-07 02:05:59.286682 
 
  ebk_lenox,     DUKE,        <Channel name: kaicenat>,       2024-11-07 02:07:08.097919 
+
+ ebk_lenox,     CHAT FUNNY ASF,        <Channel name: kaicenat>,       2024-11-07 15:23:22.939595 
+ebk_lenox,     BRO CHAT STFU TALKING BOUT L FORM KEEP WATCHING,        <Channel name: kaicenat>,       2024-11-07 15:29:01.780563 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 15:48:13.344706 
+ebk_lenox,     WWW,        <Channel name: kaicenat>,       2024-11-07 15:50:48.114188 
+ebk_lenox,     KEEP GOING KING,        <Channel name: kaicenat>,       2024-11-07 15:50:53.575908 
+ebk_lenox,     LOL,        <Channel name: kaicenat>,       2024-11-07 16:06:50.330821 
+ebk_lenox,     KEEP GOINGG BOY U GOT THIS,        <Channel name: kaicenat>,       2024-11-07 16:07:05.314180 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:07:23.817553 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:14:29.136925 
+ebk_lenox,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:14:30.303731 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:14:31.363668 
+ebk_lenox,     ALL IMMA SAY IS TS CRAZY WE PAY TO SAY WHATEVER TF WE WANT NOT TO GET MUTED JS,        <Channel name: kaicenat>,       2024-11-07 16:24:32.674829 
+ebk_lenox,     U FINDING IT ANNOYING DOSENT GIVE THE RIGHT TO MUTE MODS!!!!!!!!!!!!!,        <Channel name: kaicenat>,       2024-11-07 16:25:25.227367 
+ebk_lenox,     LOLLLLLLLL,        <Channel name: kaicenat>,       2024-11-07 16:42:56.336071 
+ebk_lenox,     UUUUUUUUU,        <Channel name: kaicenat>,       2024-11-07 16:43:51.058632 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:43:59.331102 
+ebk_lenox,     HAVEEE,        <Channel name: kaicenat>,       2024-11-07 16:44:07.220741 
+ebk_lenox,     YESSSSS,        <Channel name: kaicenat>,       2024-11-07 16:44:13.257815 
+ebk_lenox,     NO ONEEEEEEEEEEEEEEEEEE,        <Channel name: kaicenat>,       2024-11-07 16:44:18.242415 
+ebk_lenox,     WHAT IM FEELING,        <Channel name: kaicenat>,       2024-11-07 16:44:34.952040 
+ebk_lenox,     OO,        <Channel name: kaicenat>,       2024-11-07 16:44:46.387169 
+ebk_lenox,     OOOO,        <Channel name: kaicenat>,       2024-11-07 16:44:48.182113 
+ebk_lenox,     OO,        <Channel name: kaicenat>,       2024-11-07 16:44:49.402998 
+ebk_lenox,     O,        <Channel name: kaicenat>,       2024-11-07 16:44:50.926019 
+ebk_lenox,     OOOOO,        <Channel name: kaicenat>,       2024-11-07 16:44:58.522964 
+ebk_lenox,     O,        <Channel name: kaicenat>,       2024-11-07 16:44:59.944640 
+ebk_lenox,     YESSSSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:45:05.294424 
+ebk_lenox,     CHAT,        <Channel name: kaicenat>,       2024-11-07 16:45:06.695552 
+ebk_lenox,     IT IS,        <Channel name: kaicenat>,       2024-11-07 16:45:08.357010 
+ebk_lenox,     L,        <Channel name: kaicenat>,       2024-11-07 16:46:18.928884 
+ebk_lenox,     ASS,        <Channel name: kaicenat>,       2024-11-07 16:46:21.072362 
+ebk_lenox,     BRO,        <Channel name: kaicenat>,       2024-11-07 16:46:23.161179 
+ebk_lenox,     L,        <Channel name: kaicenat>,       2024-11-07 16:46:25.086168 
+ebk_lenox,     BACK 2 RNB,        <Channel name: kaicenat>,       2024-11-07 16:46:28.987994 
+ebk_lenox,     ASS,        <Channel name: kaicenat>,       2024-11-07 16:46:30.397619 
+ebk_lenox,     L,        <Channel name: kaicenat>,       2024-11-07 16:46:31.563316 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:47:39.847429 
+ebk_lenox,     MMMMM,        <Channel name: kaicenat>,       2024-11-07 16:47:42.237465 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:47:43.401035 
+ebk_lenox,     ROCKS,        <Channel name: kaicenat>,       2024-11-07 16:47:51.551297 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:47:52.873378 
+ebk_lenox,     WW,        <Channel name: kaicenat>,       2024-11-07 16:54:01.005715 
+ebk_lenox,     WWWWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:02.966155 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:54:03.984302 
+ebk_lenox,     SSSSSSS,        <Channel name: kaicenat>,       2024-11-07 16:54:07.166469 
+ebk_lenox,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:18.219919 
+ebk_lenox,     WW,        <Channel name: kaicenat>,       2024-11-07 16:54:19.234927 
+ebk_lenox,     LOL,        <Channel name: kaicenat>,       2024-11-07 16:54:25.742656 
+ebk_lenox,     WWWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:32.042326 
+ebk_lenox,     WWWWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:34.348302 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:54:38.370870 
+ebk_lenox,     LOL,        <Channel name: kaicenat>,       2024-11-07 16:54:42.316581 
+ebk_lenox,     LMAOOOO,        <Channel name: kaicenat>,       2024-11-07 16:54:46.119784 
+ebk_lenox,     E,        <Channel name: kaicenat>,       2024-11-07 16:54:47.871916 
+ebk_lenox,     EEE,        <Channel name: kaicenat>,       2024-11-07 16:54:48.919514 
+ebk_lenox,     W,        <Channel name: kaicenat>,       2024-11-07 16:54:51.628063 
+ebk_lenox,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:52.668796 
+ebk_lenox,     YES,        <Channel name: kaicenat>,       2024-11-07 16:55:05.431541 
+ebk_lenox,     NP,        <Channel name: kaicenat>,       2024-11-07 16:55:07.680877 
+ebk_lenox,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:57.113854 

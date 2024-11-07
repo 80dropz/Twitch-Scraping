@@ -1,0 +1,2 @@
+erdemae,     !mouse,        <Channel name: clix>,       2024-11-07 15:52:31.358544 
+erdemae,     !mouse,        <Channel name: mongraal>,       2024-11-07 15:52:40.485114 

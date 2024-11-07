@@ -1,0 +1,4 @@
+
+ harshalb7,     Adept,        <Channel name: adapt>,       2024-11-07 14:46:53.456542 
+
+ harshalb7,     Aura,        <Channel name: adapt>,       2024-11-07 14:48:18.270692 

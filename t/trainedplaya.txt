@@ -1,0 +1,2 @@
+trainedplaya,     l,        <Channel name: swagg>,       2024-11-07 16:55:42.442198 
+trainedplaya,     w,        <Channel name: swagg>,       2024-11-07 16:55:45.105953 

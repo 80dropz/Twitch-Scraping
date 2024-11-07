@@ -1,0 +1,16 @@
+deadpond_,     D: D:,        <Channel name: lacy>,       2024-11-07 15:47:28.514018 
+deadpond_,     uuh,        <Channel name: lacy>,       2024-11-07 15:48:10.366016 
+deadpond_,     NOWAY NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:14:47.889160 
+deadpond_,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:26.078776 
+deadpond_,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:17:46.023046 
+deadpond_,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:13.550122 
+deadpond_,     NOWAY NOWAY NOWAY NOWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:09.107039 
+deadpond_,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:27.162171 
+deadpond_,     HAH HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:20.247481 
+deadpond_,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:30.902441 
+deadpond_,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:23:07.475420 
+deadpond_,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:33.517303 
+deadpond_,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:47.817565 
+deadpond_,     Yes,        <Channel name: stableronaldo>,       2024-11-07 16:24:02.065757 
+deadpond_,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:24.017713 
+deadpond_,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:26:45.156459 

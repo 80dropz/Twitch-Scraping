@@ -30,3 +30,111 @@
  gromik_24,     take the mic off,        <Channel name: kaicenat>,       2024-11-07 13:30:07.147729 
 
  gromik_24,     ww 230k,        <Channel name: kaicenat>,       2024-11-07 13:30:42.399151 
+gromik_24,     w work out,        <Channel name: kaicenat>,       2024-11-07 15:47:37.317503 
+gromik_24,     YO CHAT IS THIS AURA?,        <Channel name: kaicenat>,       2024-11-07 15:49:11.797135 
+gromik_24,     slowly,        <Channel name: kaicenat>,       2024-11-07 16:32:50.676317 
+gromik_24,     put more but slowly,        <Channel name: kaicenat>,       2024-11-07 16:33:04.550790 
+gromik_24,     if you dumb it might blow,        <Channel name: kaicenat>,       2024-11-07 16:33:14.024891 
+gromik_24,     it might blow up if you dumb it,        <Channel name: kaicenat>,       2024-11-07 16:33:30.954925 
+gromik_24,     it might blow,        <Channel name: kaicenat>,       2024-11-07 16:34:44.602334 
+gromik_24,     STOP,        <Channel name: kaicenat>,       2024-11-07 16:34:57.518195 
+gromik_24,     YES,        <Channel name: kaicenat>,       2024-11-07 16:35:13.260581 
+gromik_24,     IT CAN,        <Channel name: kaicenat>,       2024-11-07 16:35:28.096853 
+gromik_24,     it will come slowly,        <Channel name: kaicenat>,       2024-11-07 16:35:44.223936 
+gromik_24,     stop it,        <Channel name: kaicenat>,       2024-11-07 16:37:44.945657 
+gromik_24,     NO,        <Channel name: kaicenat>,       2024-11-07 16:37:51.548752 
+gromik_24,     GG,        <Channel name: kaicenat>,       2024-11-07 16:37:54.408973 
+gromik_24,     it’s getting hot,        <Channel name: kaicenat>,       2024-11-07 16:38:33.450792 
+gromik_24,     DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:38:39.788504 
+gromik_24,     DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:38:47.497616 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:38:50.820391 
+gromik_24,     careful,        <Channel name: kaicenat>,       2024-11-07 16:40:45.429839 
+gromik_24,     stop,        <Channel name: kaicenat>,       2024-11-07 16:40:48.227024 
+gromik_24,     you will drown it,        <Channel name: kaicenat>,       2024-11-07 16:40:58.386248 
+gromik_24,     Gra gra,        <Channel name: kaicenat>,       2024-11-07 16:42:00.030189 
+gromik_24,     kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:42:10.014373 
+gromik_24,     rakai,        <Channel name: kaicenat>,       2024-11-07 16:43:22.820846 
+gromik_24,     Mic,        <Channel name: kaicenat>,       2024-11-07 16:46:06.625905 
+gromik_24,     HAH,        <Channel name: kaicenat>,       2024-11-07 16:46:19.117907 
+gromik_24,     W,        <Channel name: kaicenat>,       2024-11-07 16:46:21.155971 
+gromik_24,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:46:22.627334 
+gromik_24,     KEN CARSON 2024,        <Channel name: kaicenat>,       2024-11-07 16:46:31.421184 
+gromik_24,     KEN CARSON 2024,        <Channel name: kaicenat>,       2024-11-07 16:47:04.661064 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:47:15.256812 
+gromik_24,     KEN CARSON 2024,        <Channel name: kaicenat>,       2024-11-07 16:47:33.243553 
+gromik_24,     YO,        <Channel name: kaicenat>,       2024-11-07 16:47:38.621088 
+gromik_24,     AY,        <Channel name: kaicenat>,       2024-11-07 16:47:40.973355 
+gromik_24,     PUT IT BACK,        <Channel name: kaicenat>,       2024-11-07 16:47:46.566988 
+gromik_24,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:48:18.649337 
+gromik_24,     STINKY,        <Channel name: kaicenat>,       2024-11-07 16:48:27.935387 
+gromik_24,     STICKYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:37.657314 
+gromik_24,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:48:40.902243 
+gromik_24,     W,        <Channel name: kaicenat>,       2024-11-07 16:48:42.747405 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:48:46.171168 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:48:48.400129 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:48:51.990159 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:48:53.675737 
+gromik_24,     kaicSturdyy kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:48:59.641427 
+gromik_24,     kaicGimmiegold kaicNaenae kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:49:02.936230 
+gromik_24,     PAUSE,        <Channel name: kaicenat>,       2024-11-07 16:49:32.061260 
+gromik_24,     AUOOOO,        <Channel name: kaicenat>,       2024-11-07 16:49:40.967308 
+gromik_24,     WE GOD,        <Channel name: kaicenat>,       2024-11-07 16:49:47.188464 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:49:50.367662 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:49:55.338360 
+gromik_24,     kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 16:50:07.335216 
+gromik_24,     kaicSturdyy kaicGimmiegold kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:50:09.688398 
+gromik_24,     kaicNaenae kaicGimmiegold kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:50:11.712776 
+gromik_24,     kaicSturdyy kaicGimmiegold kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:50:14.750893 
+gromik_24,     kaicNaenae kaicGimmiegold kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:50:17.112202 
+gromik_24,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:50:19.223400 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:21.341440 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:24.392556 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:50:25.898070 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:50:28.877170 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:50:35.046076 
+gromik_24,     SPAM WWW,        <Channel name: kaicenat>,       2024-11-07 16:50:44.533187 
+gromik_24,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:47.089496 
+gromik_24,     W,        <Channel name: kaicenat>,       2024-11-07 16:50:48.653093 
+gromik_24,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:50:52.882456 
+gromik_24,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:54.415475 
+gromik_24,     WWW,        <Channel name: kaicenat>,       2024-11-07 16:50:56.464256 
+gromik_24,     WWWW,        <Channel name: kaicenat>,       2024-11-07 16:50:58.653202 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:01.644703 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:06.684344 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:51:07.853858 
+gromik_24,     kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:51:09.736827 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:15.108109 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:17.640432 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:19.330352 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:21.549273 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:24.404172 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:28.162530 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:51:31.399572 
+gromik_24,     DinoDance DinoDance DinoDance DinoDance,        <Channel name: kaicenat>,       2024-11-07 16:52:08.196248 
+gromik_24,     YEEEEEESSSS,        <Channel name: kaicenat>,       2024-11-07 16:52:13.410539 
+gromik_24,     YEEEEEEEEEESSSSS,        <Channel name: kaicenat>,       2024-11-07 16:52:16.035141 
+gromik_24,     YEEEEEESSS,        <Channel name: kaicenat>,       2024-11-07 16:52:18.139256 
+gromik_24,     WW,        <Channel name: kaicenat>,       2024-11-07 16:52:19.581395 
+gromik_24,     HUHUHUHU,        <Channel name: kaicenat>,       2024-11-07 16:52:24.677883 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:52:34.566708 
+gromik_24,     kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold kaicGimmiegold,        <Channel name: kaicenat>,       2024-11-07 16:53:18.128134 
+gromik_24,     HYPE IS UP,        <Channel name: kaicenat>,       2024-11-07 16:53:34.992264 
+gromik_24,     HYPE,        <Channel name: kaicenat>,       2024-11-07 16:53:38.211773 
+gromik_24,     kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:53:42.623785 
+gromik_24,     kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:53:46.461617 
+gromik_24,     kaicSTURDY,        <Channel name: kaicenat>,       2024-11-07 16:53:50.688757 
+gromik_24,     WOW,        <Channel name: kaicenat>,       2024-11-07 16:53:59.720694 
+gromik_24,     AYO,        <Channel name: kaicenat>,       2024-11-07 16:54:01.865303 
+gromik_24,     AYOO,        <Channel name: kaicenat>,       2024-11-07 16:54:04.026271 
+gromik_24,     WW,        <Channel name: kaicenat>,       2024-11-07 16:54:06.227289 
+gromik_24,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 16:54:10.426251 
+gromik_24,     YEAH,        <Channel name: kaicenat>,       2024-11-07 16:54:13.183413 
+gromik_24,     kaicNaenae kaicNaenae kaicNaenae kaicNaenae,        <Channel name: kaicenat>,       2024-11-07 16:54:19.473394 
+gromik_24,     kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:54:28.364632 
+gromik_24,     kaicSturdyy kaicSturdyy kaicSturdyy,        <Channel name: kaicenat>,       2024-11-07 16:54:34.466376 
+gromik_24,     PUT THE HAT ON,        <Channel name: kaicenat>,       2024-11-07 16:55:02.198525 
+gromik_24,     JUNP IN,        <Channel name: kaicenat>,       2024-11-07 16:55:22.329452 
+gromik_24,     IN THE POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:31.105887 
+gromik_24,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:32.552531 
+gromik_24,     COOL DOWM,        <Channel name: kaicenat>,       2024-11-07 16:56:08.125718 
+gromik_24,     IN POOL,        <Channel name: kaicenat>,       2024-11-07 16:56:10.036753 

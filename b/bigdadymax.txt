@@ -1,0 +1,5 @@
+bigdadymax,     just 1 shots,        <Channel name: mongraal>,       2024-11-07 16:19:52.712123 
+bigdadymax,     !sens,        <Channel name: mongraal>,       2024-11-07 16:20:35.544979 
+bigdadymax,     mongraal on peterbot sens,        <Channel name: mongraal>,       2024-11-07 16:20:49.213493 
+bigdadymax,     GGs,        <Channel name: mongraal>,       2024-11-07 16:22:12.418673 
+bigdadymax,     bro woke up,        <Channel name: mongraal>,       2024-11-07 16:22:24.242310 

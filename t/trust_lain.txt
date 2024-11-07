@@ -1,0 +1,1 @@
+trust_lain,     !res,        <Channel name: mongraal>,       2024-11-07 16:09:16.415433 

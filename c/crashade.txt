@@ -1,0 +1,4 @@
+crashade,     drew,        <Channel name: lacy>,       2024-11-07 16:18:53.925855 
+crashade,     WW,        <Channel name: lacy>,       2024-11-07 16:20:46.051051 
+crashade,     WW,        <Channel name: lacy>,       2024-11-07 16:20:53.719365 
+crashade,     guy,        <Channel name: lacy>,       2024-11-07 16:26:30.869599 

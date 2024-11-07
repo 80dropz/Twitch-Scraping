@@ -1,2 +1,37 @@
 
  bill_lock_ay,     w stream,        <Channel name: plaqueboymax>,       2024-11-07 02:03:08.593684 
+bill_lock_ay,     call Alexa again ome44,        <Channel name: lacy>,       2024-11-07 15:37:13.275951 
+bill_lock_ay,     call Alexa fat44,        <Channel name: lacy>,       2024-11-07 15:38:35.129545 
+bill_lock_ay,     call Alexa ome44,        <Channel name: lacy>,       2024-11-07 15:39:01.781962 
+bill_lock_ay,     call Alexa ome44,        <Channel name: lacy>,       2024-11-07 15:41:55.493104 
+bill_lock_ay,     Alexa can ome44,        <Channel name: lacy>,       2024-11-07 15:42:46.731682 
+bill_lock_ay,     call Alexa again ome43,        <Channel name: lacy>,       2024-11-07 15:43:20.508060 
+bill_lock_ay,     call Alexa again ome44,        <Channel name: lacy>,       2024-11-07 15:43:28.122295 
+bill_lock_ay,     call Alexa again ome44,        <Channel name: lacy>,       2024-11-07 15:49:51.335307 
+bill_lock_ay,     call alexa fat44,        <Channel name: lacy>,       2024-11-07 15:50:27.133421 
+bill_lock_ay,     yO,        <Channel name: stableronaldo>,       2024-11-07 15:58:08.837337 
+bill_lock_ay,     gg o7,        <Channel name: stableronaldo>,       2024-11-07 16:01:10.136702 
+bill_lock_ay,     ome32,        <Channel name: stableronaldo>,       2024-11-07 16:11:07.182521 
+bill_lock_ay,     ome32 ome32,        <Channel name: stableronaldo>,       2024-11-07 16:11:44.416394 
+bill_lock_ay,     ome44,        <Channel name: stableronaldo>,       2024-11-07 16:14:37.805699 
+bill_lock_ay,     NOWAY ome43,        <Channel name: stableronaldo>,       2024-11-07 16:14:58.872678 
+bill_lock_ay,     w rage bait ome44,        <Channel name: stableronaldo>,       2024-11-07 16:15:11.544612 
+bill_lock_ay,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:16:07.647701 
+bill_lock_ay,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:17:23.953030 
+bill_lock_ay,     o7,        <Channel name: stableronaldo>,       2024-11-07 16:18:18.170018 
+bill_lock_ay,     HI QT,        <Channel name: stableronaldo>,       2024-11-07 16:18:36.222113 
+bill_lock_ay,     FaZe Auntie,        <Channel name: stableronaldo>,       2024-11-07 16:18:52.955208 
+bill_lock_ay,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:54.969008 
+bill_lock_ay,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:18:57.532659 
+bill_lock_ay,     TAWAY,        <Channel name: stableronaldo>,       2024-11-07 16:19:00.892530 
+bill_lock_ay,     say yes,        <Channel name: stableronaldo>,       2024-11-07 16:19:19.282157 
+bill_lock_ay,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:19:34.810026 
+bill_lock_ay,     do it,        <Channel name: stableronaldo>,       2024-11-07 16:20:12.113920 
+bill_lock_ay,     classic,        <Channel name: stableronaldo>,       2024-11-07 16:20:29.646295 
+bill_lock_ay,     w,        <Channel name: stableronaldo>,       2024-11-07 16:20:55.842222 
+bill_lock_ay,     wwww,        <Channel name: stableronaldo>,       2024-11-07 16:20:58.654548 
+bill_lock_ay,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:04.711313 
+bill_lock_ay,     little guy HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:10.840949 
+bill_lock_ay,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:21:23.231992 
+bill_lock_ay,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:29.152996 
+bill_lock_ay,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:32.210194 

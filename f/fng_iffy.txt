@@ -1,2 +1,8 @@
 
  fng_iffy,     W LACY,        <Channel name: lacy>,       2024-11-07 13:09:10.286448 
+
+ fng_iffy,     LMAOOOOO,        <Channel name: lacy>,       2024-11-07 15:26:59.762166 
+fng_iffy,     LMAO,        <Channel name: lacy>,       2024-11-07 15:29:47.877379 
+fng_iffy,     KAP,        <Channel name: lacy>,       2024-11-07 15:45:32.635585 
+fng_iffy,     O NAH,        <Channel name: lacy>,       2024-11-07 16:23:02.045173 
+fng_iffy,     WTF,        <Channel name: lacy>,       2024-11-07 16:26:16.759339 

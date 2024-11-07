@@ -1,0 +1,2 @@
+marcika1112,     !tracker,        <Channel name: mongraal>,       2024-11-07 15:32:18.175890 
+marcika1112,     !lb,        <Channel name: mongraal>,       2024-11-07 15:32:24.679867 

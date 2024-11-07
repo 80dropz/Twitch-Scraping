@@ -60,3 +60,6 @@
  lillymayx1,     TAKE HIS MIC OFF,        <Channel name: kaicenat>,       2024-11-07 13:21:16.362828 
 
  lillymayx1,     ITS OKAY,        <Channel name: kaicenat>,       2024-11-07 13:21:47.502604 
+lillymayx1,     JUMP INNA POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:49.205901 
+lillymayx1,     JUMP IN THE POOL,        <Channel name: kaicenat>,       2024-11-07 16:55:57.265653 
+lillymayx1,     POOL,        <Channel name: kaicenat>,       2024-11-07 16:56:11.206996 

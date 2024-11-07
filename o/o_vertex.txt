@@ -1,0 +1,10 @@
+
+ o_vertex,     PRE FALLS,        <Channel name: lacy>,       2024-11-07 14:43:50.471515 
+
+ o_vertex,     pls fas,        <Channel name: lacy>,       2024-11-07 14:45:46.539276 
+o_vertex,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:16:15.955653 
+o_vertex,     PRE CALL,        <Channel name: stableronaldo>,       2024-11-07 16:16:38.256820 
+o_vertex,     PRE CALL FROPM BOBA,        <Channel name: stableronaldo>,       2024-11-07 16:16:46.280960 
+o_vertex,     YES,        <Channel name: stableronaldo>,       2024-11-07 16:18:13.169229 
+o_vertex,     THE DICK FROM YESTERDAY,        <Channel name: stableronaldo>,       2024-11-07 16:18:19.696862 
+o_vertex,     WHY,        <Channel name: stableronaldo>,       2024-11-07 16:23:27.169203 

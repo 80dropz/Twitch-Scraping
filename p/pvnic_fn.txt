@@ -10,3 +10,6 @@
  pvnic_fn,     @jessnada ban him,        <Channel name: mongraal>,       2024-11-07 12:35:16.487623 
 
  pvnic_fn,     @x2noel yh and we solo cashy,        <Channel name: mongraal>,       2024-11-07 13:33:40.697941 
+pvnic_fn,     Is he streaming tmr,        <Channel name: mongraal>,       2024-11-07 16:00:47.075652 
+pvnic_fn,     @lloydh7 so he ending subathon after solo cashy,        <Channel name: mongraal>,       2024-11-07 16:01:35.346742 
+pvnic_fn,     @lloydh7 ok,        <Channel name: mongraal>,       2024-11-07 16:02:09.577873 

@@ -6,3 +6,6 @@
  fillynewps,     WE LEAVING,        <Channel name: lacy>,       2024-11-07 12:49:37.609390 
 
  fillynewps,     DREW,        <Channel name: lacy>,       2024-11-07 12:50:36.674246 
+fillynewps,     drew,        <Channel name: lacy>,       2024-11-07 16:18:29.754104 
+fillynewps,     drew hug her,        <Channel name: lacy>,       2024-11-07 16:18:41.847901 
+fillynewps,     -1000,        <Channel name: lacy>,       2024-11-07 16:19:36.196847 

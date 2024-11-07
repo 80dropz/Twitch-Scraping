@@ -1,0 +1,2 @@
+
+ maccc1x,     ofn,        <Channel name: clix>,       2024-11-07 14:42:59.023236 

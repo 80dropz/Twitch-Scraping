@@ -1,0 +1,6 @@
+sv3la,     BANGER,        <Channel name: pokelawls>,       2024-11-07 15:49:53.846023 
+sv3la,     OOOO,        <Channel name: pokelawls>,       2024-11-07 15:50:23.410319 
+sv3la,     uuh,        <Channel name: pokelawls>,       2024-11-07 15:50:47.173712 
+sv3la,     july Aware,        <Channel name: pokelawls>,       2024-11-07 15:51:40.754817 
+sv3la,     omE,        <Channel name: pokelawls>,       2024-11-07 16:11:39.764572 
+sv3la,     OMEGALUL,        <Channel name: pokelawls>,       2024-11-07 16:14:21.155485 

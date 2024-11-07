@@ -1,0 +1,3 @@
+carloss_rz,     lookUp,        <Channel name: aldo_geo>,       2024-11-07 16:19:20.169062 
+carloss_rz,     ScaredDog,        <Channel name: aldo_geo>,       2024-11-07 16:40:04.469833 
+carloss_rz,     wtfwtfwtf,        <Channel name: aldo_geo>,       2024-11-07 16:53:09.687324 

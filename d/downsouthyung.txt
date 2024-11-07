@@ -16,3 +16,7 @@
  downsouthyung,     stop moving,        <Channel name: kaicenat>,       2024-11-07 13:32:28.148794 
 
  downsouthyung,     rat,        <Channel name: kaicenat>,       2024-11-07 13:35:01.201399 
+
+ downsouthyung,     give coach a pair of,        <Channel name: kaicenat>,       2024-11-07 15:25:06.756154 
+
+ downsouthyung,     I’m exercising my lungs,        <Channel name: kaicenat>,       2024-11-07 15:25:57.614089 

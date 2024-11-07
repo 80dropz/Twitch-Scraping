@@ -1,0 +1,6 @@
+xpired22,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:38:07.237258 
+xpired22,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:40:09.772488 
+xpired22,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 15:41:03.881309 
+xpired22,     !roulette 1829,        <Channel name: kaicenat>,       2024-11-07 15:41:41.098543 
+xpired22,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 15:54:37.772595 
+xpired22,     Mic dead,        <Channel name: kaicenat>,       2024-11-07 16:54:40.927861 

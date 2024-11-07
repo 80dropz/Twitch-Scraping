@@ -1,0 +1,6 @@
+calm010,     Pffttt,        <Channel name: pokelawls>,       2024-11-07 15:42:56.776428 
+calm010,     Lemao,        <Channel name: pokelawls>,       2024-11-07 15:59:06.087579 
+calm010,     xoke,        <Channel name: pokelawls>,       2024-11-07 16:18:02.692034 
+calm010,     OfCourse,        <Channel name: pokelawls>,       2024-11-07 16:30:20.113368 
+calm010,     giig,        <Channel name: pokelawls>,       2024-11-07 16:39:52.921584 
+calm010,     lacScript,        <Channel name: pokelawls>,       2024-11-07 16:45:39.735732 

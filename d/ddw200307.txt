@@ -1,2 +1,11 @@
 
  ddw200307,     earthquake,        <Channel name: kaicenat>,       2024-11-07 13:00:52.414427 
+
+ ddw200307,     lil rt,        <Channel name: kaicenat>,       2024-11-07 15:25:04.222973 
+ddw200307,     hello,        <Channel name: kaicenat>,       2024-11-07 15:37:48.712992 
+ddw200307,     yes,        <Channel name: kaicenat>,       2024-11-07 16:28:11.208460 
+ddw200307,     take shoes off,        <Channel name: kaicenat>,       2024-11-07 16:28:45.949767 
+ddw200307,     is that speaker water proof,        <Channel name: kaicenat>,       2024-11-07 16:29:06.340632 
+ddw200307,     speaker,        <Channel name: kaicenat>,       2024-11-07 16:29:39.389228 
+ddw200307,     the cords,        <Channel name: kaicenat>,       2024-11-07 16:29:57.721698 
+ddw200307,     put the water on,        <Channel name: kaicenat>,       2024-11-07 16:31:35.390962 

@@ -1,0 +1,3 @@
+youawedooo,     lol,        <Channel name: stableronaldo>,       2024-11-07 16:07:06.773510 
+youawedooo,     RT,        <Channel name: stableronaldo>,       2024-11-07 16:07:10.478531 
+youawedooo,     RTT,        <Channel name: stableronaldo>,       2024-11-07 16:07:15.361512 

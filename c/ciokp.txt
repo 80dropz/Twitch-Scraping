@@ -1,0 +1,21 @@
+ciokp,     Bye,        <Channel name: pokelawls>,       2024-11-07 15:37:27.334994 
+ciokp,     aga,        <Channel name: pokelawls>,       2024-11-07 15:39:35.367600 
+ciokp,     yes,        <Channel name: pokelawls>,       2024-11-07 15:40:26.324295 
+ciokp,     agastoned,        <Channel name: pokelawls>,       2024-11-07 15:41:45.245665 
+ciokp,     do u,        <Channel name: pokelawls>,       2024-11-07 15:42:23.253343 
+ciokp,     Okay,        <Channel name: pokelawls>,       2024-11-07 15:42:48.223551 
+ciokp,     no,        <Channel name: pokelawls>,       2024-11-07 15:43:40.654476 
+ciokp,     reels,        <Channel name: pokelawls>,       2024-11-07 15:44:43.019514 
+ciokp,     aga,        <Channel name: pokelawls>,       2024-11-07 15:45:47.491707 
+ciokp,     OOOO,        <Channel name: pokelawls>,       2024-11-07 15:46:20.611429 
+ciokp,     WAJAJA,        <Channel name: pokelawls>,       2024-11-07 15:47:01.745994 
+ciokp,     aga,        <Channel name: pokelawls>,       2024-11-07 16:24:08.821381 
+ciokp,     do what daddy wants,        <Channel name: pokelawls>,       2024-11-07 16:24:47.443533 
+ciokp,     top right u see what u got,        <Channel name: pokelawls>,       2024-11-07 16:36:04.104365 
+ciokp,     left,        <Channel name: pokelawls>,       2024-11-07 16:36:09.956177 
+ciokp,     agastoned,        <Channel name: pokelawls>,       2024-11-07 16:36:20.554569 
+ciokp,     gig,        <Channel name: pokelawls>,       2024-11-07 16:39:51.902421 
+ciokp,     take giig,        <Channel name: pokelawls>,       2024-11-07 16:39:57.418332 
+ciokp,     omE,        <Channel name: pokelawls>,       2024-11-07 16:45:57.734100 
+ciokp,     yes,        <Channel name: pokelawls>,       2024-11-07 16:50:41.276430 
+ciokp,     wjerry,        <Channel name: pokelawls>,       2024-11-07 16:54:49.438623 

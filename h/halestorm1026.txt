@@ -1,0 +1,5 @@
+halestorm1026,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:27.420928 
+halestorm1026,     poop,        <Channel name: kaicenat>,       2024-11-07 16:55:31.216848 
+halestorm1026,     pool,        <Channel name: kaicenat>,       2024-11-07 16:55:51.048713 
+halestorm1026,     now,        <Channel name: kaicenat>,       2024-11-07 16:56:08.641635 
+halestorm1026,     pool,        <Channel name: kaicenat>,       2024-11-07 16:56:10.490628 

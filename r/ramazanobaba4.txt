@@ -8,3 +8,4 @@
  ramazanobaba4,     TELL FAZE TO PULL UP,        <Channel name: kaicenat>,       2024-11-07 02:47:19.429741 
 
  ramazanobaba4,     TELL FAZE TO COME NOW,        <Channel name: kaicenat>,       2024-11-07 02:47:50.223631 
+ramazanobaba4,     !followage,        <Channel name: kaicenat>,       2024-11-07 16:29:46.867582 

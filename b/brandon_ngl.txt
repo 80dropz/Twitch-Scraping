@@ -1,0 +1,5 @@
+brandon_ngl,     no,        <Channel name: stableronaldo>,       2024-11-07 15:57:13.039646 
+brandon_ngl,     CAUGHT,        <Channel name: stableronaldo>,       2024-11-07 16:08:15.720583 
+brandon_ngl,     i was here,        <Channel name: stableronaldo>,       2024-11-07 16:09:47.836258 
+brandon_ngl,     mee,        <Channel name: stableronaldo>,       2024-11-07 16:09:57.998210 
+brandon_ngl,     yes,        <Channel name: stableronaldo>,       2024-11-07 16:15:14.745734 

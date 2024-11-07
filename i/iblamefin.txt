@@ -1,0 +1,4 @@
+
+ iblamefin,     run a prediction,        <Channel name: adapt>,       2024-11-07 15:25:53.755194 
+iblamefin,     what was the score last game,        <Channel name: adapt>,       2024-11-07 16:14:28.999626 
+iblamefin,     what was the score last game,        <Channel name: adapt>,       2024-11-07 16:15:24.318773 

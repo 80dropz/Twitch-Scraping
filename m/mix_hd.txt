@@ -1,0 +1,7 @@
+mix_hd,     NOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:27.715243 
+mix_hd,     NOOOOOOOOO,        <Channel name: kaicenat>,       2024-11-07 16:40:51.094640 
+mix_hd,     NEIGHBOUR SATOP,        <Channel name: kaicenat>,       2024-11-07 16:40:59.117082 
+mix_hd,     STOP NEIGHBOURGH,        <Channel name: kaicenat>,       2024-11-07 16:41:05.314516 
+mix_hd,     NO WATER,        <Channel name: kaicenat>,       2024-11-07 16:46:05.860128 
+mix_hd,     LISTEN TO THE FINNISH, DON'T ADD THE WATER YET!!!!,        <Channel name: kaicenat>,       2024-11-07 16:46:17.343325 
+mix_hd,     FUCKIN IDIOT CHAT,        <Channel name: kaicenat>,       2024-11-07 16:47:02.449981 

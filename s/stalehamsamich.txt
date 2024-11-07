@@ -1,0 +1,9 @@
+stalehamsamich,     slow it down,        <Channel name: kaicenat>,       2024-11-07 15:30:37.809916 
+stalehamsamich,     slow down,        <Channel name: kaicenat>,       2024-11-07 15:36:56.552573 
+stalehamsamich,     control,        <Channel name: kaicenat>,       2024-11-07 15:37:00.102283 
+stalehamsamich,     slow and control,        <Channel name: kaicenat>,       2024-11-07 15:37:05.257136 
+stalehamsamich,     control,        <Channel name: kaicenat>,       2024-11-07 15:37:14.499370 
+stalehamsamich,     dont swing,        <Channel name: kaicenat>,       2024-11-07 15:37:18.250151 
+stalehamsamich,     chill on the swing,        <Channel name: kaicenat>,       2024-11-07 15:37:30.340962 
+stalehamsamich,     slow,        <Channel name: kaicenat>,       2024-11-07 15:37:34.542353 
+stalehamsamich,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:37:50.142243 

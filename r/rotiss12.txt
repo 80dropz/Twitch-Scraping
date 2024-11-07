@@ -1,0 +1,4 @@
+rotiss12,     stfu,        <Channel name: stableronaldo>,       2024-11-07 16:11:26.307671 
+rotiss12,     STGU?,        <Channel name: stableronaldo>,       2024-11-07 16:11:30.772673 
+rotiss12,     STFU,        <Channel name: stableronaldo>,       2024-11-07 16:11:32.950302 
+rotiss12,     WE CANT HEAR IT STFU,        <Channel name: stableronaldo>,       2024-11-07 16:11:40.123479 

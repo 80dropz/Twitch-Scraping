@@ -1,0 +1,10 @@
+
+ grimer_656,     Cmon twi,        <Channel name: mongraal>,       2024-11-07 14:44:14.112220 
+
+ grimer_656,     !leaderboard,        <Channel name: mongraal>,       2024-11-07 14:46:55.798517 
+
+ grimer_656,     They are 18th,        <Channel name: mongraal>,       2024-11-07 14:51:20.547474 
+
+ grimer_656,     Ye they are going to Cash something atleast,        <Channel name: mongraal>,       2024-11-07 14:53:25.730845 
+
+ grimer_656,     !leaderboard,        <Channel name: mongraal>,       2024-11-07 14:54:22.633734 

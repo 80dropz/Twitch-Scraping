@@ -1,0 +1,7 @@
+givensthegreat,     wait till it’s hot,        <Channel name: kaicenat>,       2024-11-07 16:28:25.793661 
+givensthegreat,     wait till it heats up,        <Channel name: kaicenat>,       2024-11-07 16:28:37.079975 
+givensthegreat,     put it high to get it hot faster,        <Channel name: kaicenat>,       2024-11-07 16:31:08.117929 
+givensthegreat,     it will take long,        <Channel name: kaicenat>,       2024-11-07 16:31:32.991976 
+givensthegreat,     out water on walls makes it hotter faster,        <Channel name: kaicenat>,       2024-11-07 16:34:04.372907 
+givensthegreat,     PUT WATER ON WALLS MAKES IT HOTER FASTER,        <Channel name: kaicenat>,       2024-11-07 16:34:22.995539 
+givensthegreat,     PUT WATER ON WALLS,        <Channel name: kaicenat>,       2024-11-07 16:34:54.698257 

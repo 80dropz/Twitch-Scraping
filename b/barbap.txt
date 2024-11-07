@@ -1,0 +1,6 @@
+barbap,     omE,        <Channel name: pokelawls>,       2024-11-07 16:06:40.618387 
+barbap,     Kappa,        <Channel name: pokelawls>,       2024-11-07 16:16:18.282915 
+barbap,     omE,        <Channel name: pokelawls>,       2024-11-07 16:22:13.085338 
+barbap,     Tomfoolery,        <Channel name: pokelawls>,       2024-11-07 16:22:32.389224 
+barbap,     Aware,        <Channel name: pokelawls>,       2024-11-07 16:23:23.593247 
+barbap,     Concerned,        <Channel name: pokelawls>,       2024-11-07 16:23:40.208588 

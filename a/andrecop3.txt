@@ -1,0 +1,4 @@
+andrecop3,     !doublemovement,        <Channel name: mongraal>,       2024-11-07 16:43:09.320777 
+andrecop3,     !mouse,        <Channel name: mongraal>,       2024-11-07 16:43:41.607044 
+andrecop3,     !mousepad,        <Channel name: mongraal>,       2024-11-07 16:44:05.495000 
+andrecop3,     what is ur mouse?,        <Channel name: mongraal>,       2024-11-07 16:44:29.782138 

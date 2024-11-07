@@ -1,0 +1,19 @@
+mucha_2x,     RON ON THE ROAD WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:53.978082 
+mucha_2x,     RON ON THE ROAD WW,        <Channel name: stableronaldo>,       2024-11-07 16:19:59.196950 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:06.223187 
+mucha_2x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:25.287265 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:29.891166 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:32.595180 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:21:35.548061 
+mucha_2x,     HAH HAHA,        <Channel name: stableronaldo>,       2024-11-07 16:22:04.975493 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:06.282329 
+mucha_2x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:22:10.346316 
+mucha_2x,     HAH HA,        <Channel name: stableronaldo>,       2024-11-07 16:22:14.441626 
+mucha_2x,     uuh,        <Channel name: stableronaldo>,       2024-11-07 16:22:31.022107 
+mucha_2x,     WHAT,        <Channel name: stableronaldo>,       2024-11-07 16:22:53.575597 
+mucha_2x,     WHAT HWAT,        <Channel name: stableronaldo>,       2024-11-07 16:22:54.915282 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:26.746426 
+mucha_2x,     HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:28.027293 
+mucha_2x,     HAH RT,        <Channel name: stableronaldo>,       2024-11-07 16:23:32.495385 
+mucha_2x,     HAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:32.258752 
+mucha_2x,     TAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:35.451447 

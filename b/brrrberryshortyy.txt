@@ -1,0 +1,3 @@
+brrrberryshortyy,     Ironic,        <Channel name: stableronaldo>,       2024-11-07 16:04:09.512264 
+brrrberryshortyy,     True,        <Channel name: stableronaldo>,       2024-11-07 16:07:45.315981 
+brrrberryshortyy,     Shes right,        <Channel name: stableronaldo>,       2024-11-07 16:07:54.748288 

@@ -8,3 +8,7 @@
  kevdogg613,     cap,        <Channel name: kaicenat>,       2024-11-07 02:49:53.758097 
 
  kevdogg613,     CAPPP,        <Channel name: kaicenat>,       2024-11-07 02:49:55.844269 
+
+ kevdogg613,     ARUA,        <Channel name: kaicenat>,       2024-11-07 14:51:36.706835 
+
+ kevdogg613,     CAM 40,        <Channel name: kaicenat>,       2024-11-07 14:53:54.497924 

@@ -1,0 +1,2 @@
+a_tutel,     HAH HAH HAH,        <Channel name: stableronaldo>,       2024-11-07 16:23:57.756507 
+a_tutel,     TAH TAH,        <Channel name: stableronaldo>,       2024-11-07 16:24:36.913558 

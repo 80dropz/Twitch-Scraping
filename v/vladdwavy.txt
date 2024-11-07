@@ -1,0 +1,4 @@
+vladdwavy,     L SKIP,        <Channel name: kaicenat>,       2024-11-07 16:14:31.847742 
+vladdwavy,     W CARTI,        <Channel name: kaicenat>,       2024-11-07 16:14:51.043614 
+vladdwavy,     15 MIN,        <Channel name: kaicenat>,       2024-11-07 16:18:35.933697 
+vladdwavy,     15,        <Channel name: kaicenat>,       2024-11-07 16:18:38.754321 

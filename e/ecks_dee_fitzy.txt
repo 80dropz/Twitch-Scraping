@@ -1,0 +1,4 @@
+ecks_dee_fitzy,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 15:39:50.785405 
+ecks_dee_fitzy,     !slots 10,        <Channel name: kaicenat>,       2024-11-07 15:39:59.244108 
+ecks_dee_fitzy,     !points,        <Channel name: kaicenat>,       2024-11-07 15:40:03.374744 
+ecks_dee_fitzy,     play sum Eminem damn,        <Channel name: kaicenat>,       2024-11-07 16:11:26.706463 

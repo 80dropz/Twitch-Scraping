@@ -58,3 +58,9 @@
  el_compa_charlie,     kaicPray kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 11:51:29.413601 
 
  el_compa_charlie,     kaicPray kaicPray kaicPray kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 11:51:37.674620 
+
+ el_compa_charlie,     switch to rakai,        <Channel name: kaicenat>,       2024-11-07 14:48:52.374533 
+
+ el_compa_charlie,     switch to rakai,        <Channel name: kaicenat>,       2024-11-07 14:50:05.787416 
+
+ el_compa_charlie,     switch to rakai switch to rakai switch to rakai switch to rakai switch to rakai switch to rakai,        <Channel name: kaicenat>,       2024-11-07 14:50:57.513625 

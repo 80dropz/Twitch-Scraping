@@ -1,0 +1,8 @@
+
+ an0rdinarybot,     !fov,        <Channel name: swagg>,       2024-11-07 14:44:56.274497 
+
+ an0rdinarybot,     !sens,        <Channel name: swagg>,       2024-11-07 14:45:54.312089 
+
+ an0rdinarybot,     !fov,        <Channel name: nadeshot>,       2024-11-07 14:47:50.697904 
+
+ an0rdinarybot,     !fov,        <Channel name: nadeshot>,       2024-11-07 14:53:16.801895 

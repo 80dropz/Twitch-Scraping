@@ -1,0 +1,5 @@
+heavy_plate,     Keep speaker on floor,        <Channel name: kaicenat>,       2024-11-07 16:26:16.964187 
+heavy_plate,     lower is cooler,        <Channel name: kaicenat>,       2024-11-07 16:26:22.805493 
+heavy_plate,     SPEAKER ON FLOOR, LOWER IS COOLER,        <Channel name: kaicenat>,       2024-11-07 16:26:36.778759 
+heavy_plate,     TURN ON HEATER, COME BACK IN 10 MINUTES, THEN SPLASH WITH WATER,        <Channel name: kaicenat>,       2024-11-07 16:28:11.105987 
+heavy_plate,     DOOR MUST BE CLOSED,        <Channel name: kaicenat>,       2024-11-07 16:30:37.713266 

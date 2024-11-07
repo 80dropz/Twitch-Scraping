@@ -2,3 +2,31 @@
  kel_chapooo,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 10:00:45.869846 
 
  kel_chapooo,     WWWW,        <Channel name: kaicenat>,       2024-11-07 11:32:48.764960 
+kel_chapooo,     GO KAI,        <Channel name: kaicenat>,       2024-11-07 15:33:30.927756 
+kel_chapooo,     GO KAI,        <Channel name: kaicenat>,       2024-11-07 15:44:09.950558 
+kel_chapooo,     WWWW,        <Channel name: kaicenat>,       2024-11-07 15:50:49.923947 
+kel_chapooo,     TO THE MAX,        <Channel name: kaicenat>,       2024-11-07 15:58:33.015928 
+kel_chapooo,     THERE,        <Channel name: kaicenat>,       2024-11-07 15:58:43.395982 
+kel_chapooo,     ALL THAT I GOT,        <Channel name: kaicenat>,       2024-11-07 15:59:33.305499 
+kel_chapooo,     GO KAI,        <Channel name: kaicenat>,       2024-11-07 16:00:16.846722 
+kel_chapooo,     NA NA,        <Channel name: kaicenat>,       2024-11-07 16:00:27.335545 
+kel_chapooo,     did he say 5 min plank?!!,        <Channel name: kaicenat>,       2024-11-07 16:03:01.542658 
+kel_chapooo,     GOOD JOB KAI,        <Channel name: kaicenat>,       2024-11-07 16:08:29.873090 
+kel_chapooo,     SHE DONT WANT NO PUPPY SHE WANT A BIG DOG,        <Channel name: kaicenat>,       2024-11-07 16:11:23.134334 
+kel_chapooo,     COME ON KAI,        <Channel name: kaicenat>,       2024-11-07 16:11:39.681512 
+kel_chapooo,     GO KC,        <Channel name: kaicenat>,       2024-11-07 16:14:09.004532 
+kel_chapooo,     GOOD JOB KAILER,        <Channel name: kaicenat>,       2024-11-07 16:16:05.310412 
+kel_chapooo,     W COACH,        <Channel name: kaicenat>,       2024-11-07 16:16:16.417903 
+kel_chapooo,     20 min,        <Channel name: kaicenat>,       2024-11-07 16:18:53.330025 
+kel_chapooo,     not yet,        <Channel name: kaicenat>,       2024-11-07 16:28:13.917634 
+kel_chapooo,     yes,        <Channel name: kaicenat>,       2024-11-07 16:29:51.525540 
+kel_chapooo,     OMG,        <Channel name: kaicenat>,       2024-11-07 16:30:12.374935 
+kel_chapooo,     YES,        <Channel name: kaicenat>,       2024-11-07 16:31:27.849187 
+kel_chapooo,     1 or 2,        <Channel name: kaicenat>,       2024-11-07 16:31:58.903118 
+kel_chapooo,     just chill Kai,        <Channel name: kaicenat>,       2024-11-07 16:33:04.151004 
+kel_chapooo,     ON THE DANCEFLOOR,        <Channel name: kaicenat>,       2024-11-07 16:36:56.266735 
+kel_chapooo,     WHAT?!,        <Channel name: kaicenat>,       2024-11-07 16:39:11.051312 
+kel_chapooo,     KAIIIII,        <Channel name: kaicenat>,       2024-11-07 16:40:32.237180 
+kel_chapooo,     SO REAL,        <Channel name: kaicenat>,       2024-11-07 16:44:11.716825 
+kel_chapooo,     STICKYYYYY,        <Channel name: kaicenat>,       2024-11-07 16:48:26.787079 
+kel_chapooo,     GET IT KAI,        <Channel name: kaicenat>,       2024-11-07 16:51:27.135813 

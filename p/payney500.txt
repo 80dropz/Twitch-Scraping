@@ -1,0 +1,4 @@
+payney500,     W,        <Channel name: mongraal>,       2024-11-07 15:44:00.078672 
+payney500,     WWW W,        <Channel name: mongraal>,       2024-11-07 15:44:02.753461 
+payney500,     W W W,        <Channel name: mongraal>,       2024-11-07 15:44:04.545470 
+payney500,     WWW,        <Channel name: mongraal>,       2024-11-07 15:44:06.255247 

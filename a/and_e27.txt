@@ -1,0 +1,2 @@
+and_e27,     rip,        <Channel name: kaicenat>,       2024-11-07 16:52:14.312204 
+and_e27,     hop out,        <Channel name: kaicenat>,       2024-11-07 16:54:55.584685 

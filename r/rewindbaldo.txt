@@ -1,0 +1,31 @@
+rewindbaldo,     WWWW,        <Channel name: stableronaldo>,       2024-11-07 15:54:48.137134 
+rewindbaldo,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:54:51.233553 
+rewindbaldo,     ome32,        <Channel name: stableronaldo>,       2024-11-07 15:56:05.943341 
+rewindbaldo,     WWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:08.287901 
+rewindbaldo,     BANGER,        <Channel name: stableronaldo>,       2024-11-07 15:56:12.871717 
+rewindbaldo,     10/10,        <Channel name: stableronaldo>,       2024-11-07 15:56:14.898295 
+rewindbaldo,     fearrrr,        <Channel name: stableronaldo>,       2024-11-07 15:56:27.143699 
+rewindbaldo,     TEARSSSSSSS,        <Channel name: stableronaldo>,       2024-11-07 15:56:31.196222 
+rewindbaldo,     WWWWW,        <Channel name: stableronaldo>,       2024-11-07 15:56:35.725551 
+rewindbaldo,     hospital segment,        <Channel name: stableronaldo>,       2024-11-07 16:02:23.671450 
+rewindbaldo,     Cheetos for breakfast,        <Channel name: stableronaldo>,       2024-11-07 16:08:21.745209 
+rewindbaldo,     ewww,        <Channel name: stableronaldo>,       2024-11-07 16:10:20.763627 
+rewindbaldo,     BANGER,        <Channel name: stableronaldo>,       2024-11-07 16:11:09.354888 
+rewindbaldo,     WW,        <Channel name: stableronaldo>,       2024-11-07 16:11:14.257713 
+rewindbaldo,     4/4,        <Channel name: stableronaldo>,       2024-11-07 16:11:20.292639 
+rewindbaldo,     SAJ,        <Channel name: stableronaldo>,       2024-11-07 16:11:25.370039 
+rewindbaldo,     FEARRRR,        <Channel name: stableronaldo>,       2024-11-07 16:11:28.441815 
+rewindbaldo,     TEARSSSSS,        <Channel name: stableronaldo>,       2024-11-07 16:11:32.484807 
+rewindbaldo,     WWW,        <Channel name: stableronaldo>,       2024-11-07 16:11:40.118480 
+rewindbaldo,     it’s real wdym,        <Channel name: stableronaldo>,       2024-11-07 16:14:24.690293 
+rewindbaldo,     transformer,        <Channel name: stableronaldo>,       2024-11-07 16:15:37.254039 
+rewindbaldo,     wake her up,        <Channel name: stableronaldo>,       2024-11-07 16:17:25.045292 
+rewindbaldo,     g,        <Channel name: stableronaldo>,       2024-11-07 16:18:18.697119 
+rewindbaldo,     gg,        <Channel name: stableronaldo>,       2024-11-07 16:18:19.722997 
+rewindbaldo,     OMG THE CONTENT,        <Channel name: stableronaldo>,       2024-11-07 16:19:26.351266 
+rewindbaldo,     CLASSIC,        <Channel name: stableronaldo>,       2024-11-07 16:20:25.889408 
+rewindbaldo,     LMAOOO,        <Channel name: stableronaldo>,       2024-11-07 16:20:55.817494 
+rewindbaldo,     OHHH NAHHH,        <Channel name: stableronaldo>,       2024-11-07 16:22:16.025830 
+rewindbaldo,     LMAOOO,        <Channel name: stableronaldo>,       2024-11-07 16:24:54.585495 
+rewindbaldo,     LMAOOOO,        <Channel name: stableronaldo>,       2024-11-07 16:25:26.608298 
+rewindbaldo,     THE GANG,        <Channel name: stableronaldo>,       2024-11-07 16:25:43.651763 

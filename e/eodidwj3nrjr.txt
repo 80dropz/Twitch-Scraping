@@ -1,0 +1,19 @@
+
+ eodidwj3nrjr,     What country u in right now mongraal,        <Channel name: mongraal>,       2024-11-07 15:26:27.275505 
+
+ eodidwj3nrjr,     !country,        <Channel name: mongraal>,       2024-11-07 15:26:47.806411 
+
+ eodidwj3nrjr,     Where are you rn,        <Channel name: mongraal>,       2024-11-07 15:26:57.608640 
+
+ eodidwj3nrjr,     !region,        <Channel name: mongraal>,       2024-11-07 15:27:02.045225 
+
+ eodidwj3nrjr,     !where is mongraal rn,        <Channel name: mongraal>,       2024-11-07 15:27:14.387467 
+
+ eodidwj3nrjr,     What country u in rn,        <Channel name: mongraal>,       2024-11-07 15:27:55.343499 
+eodidwj3nrjr,     Are u in uk rn,        <Channel name: mongraal>,       2024-11-07 15:28:42.071605 
+eodidwj3nrjr,     Are u at england rn,        <Channel name: mongraal>,       2024-11-07 15:28:47.213478 
+eodidwj3nrjr,     Are u in england right now,        <Channel name: mongraal>,       2024-11-07 15:28:59.371307 
+eodidwj3nrjr,     !country rn,        <Channel name: mongraal>,       2024-11-07 15:29:17.081886 
+eodidwj3nrjr,     !location,        <Channel name: mongraal>,       2024-11-07 15:29:27.915776 
+eodidwj3nrjr,     U at london??,        <Channel name: mongraal>,       2024-11-07 15:29:39.463405 
+eodidwj3nrjr,     Are you at london,        <Channel name: mongraal>,       2024-11-07 15:29:47.583785 

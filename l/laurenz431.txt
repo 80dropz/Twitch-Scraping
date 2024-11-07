@@ -1,0 +1,3 @@
+laurenz431,     normely 30 min,        <Channel name: kaicenat>,       2024-11-07 16:35:54.415236 
+laurenz431,     normely 30 minf,        <Channel name: kaicenat>,       2024-11-07 16:35:56.289132 
+laurenz431,     30 min,        <Channel name: kaicenat>,       2024-11-07 16:36:03.381083 

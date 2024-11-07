@@ -163,3 +163,139 @@
  0pogix,     pepeDegen,        <Channel name: clix>,       2024-11-07 10:00:33.394826 
 
  0pogix,     GAMBA ALERT ?,        <Channel name: clix>,       2024-11-07 10:00:58.089148 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 15:59:16.765600 
+0pogix,     kittyJam .,        <Channel name: clix>,       2024-11-07 15:59:30.043583 
+0pogix,     mhm,        <Channel name: clix>,       2024-11-07 15:59:34.557411 
+0pogix,     peepoWaterbottle,        <Channel name: clix>,       2024-11-07 15:59:41.457629 
+0pogix,     ofc,        <Channel name: clix>,       2024-11-07 15:59:46.759474 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:00:32.667902 
+0pogix,     kittyJam RaveTime,        <Channel name: clix>,       2024-11-07 16:00:42.232605 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:01:05.798263 
+0pogix,     dinkDonk,        <Channel name: clix>,       2024-11-07 16:01:17.588699 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:01:35.284015 
+0pogix,     Listening,        <Channel name: clix>,       2024-11-07 16:02:46.781700 
+0pogix,     ready,        <Channel name: clix>,       2024-11-07 16:03:02.245707 
+0pogix,     mhm,        <Channel name: clix>,       2024-11-07 16:03:15.409091 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:03:30.782169 
+0pogix,     kittyJam RaveTime,        <Channel name: clix>,       2024-11-07 16:03:47.638260 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:04:02.039893 
+0pogix,     Capping,        <Channel name: clix>,       2024-11-07 16:04:13.825983 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:04:23.054923 
+0pogix,     EZ,        <Channel name: clix>,       2024-11-07 16:04:38.709957 
+0pogix,     catJAM,        <Channel name: clix>,       2024-11-07 16:04:53.819202 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:05:10.458208 
+0pogix,     shrugEg,        <Channel name: clix>,       2024-11-07 16:05:15.485011 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:05:18.233643 
+0pogix,     kittyJam .,        <Channel name: clix>,       2024-11-07 16:05:37.104963 
+0pogix,     yikesJAM,        <Channel name: clix>,       2024-11-07 16:06:00.868401 
+0pogix,     f,        <Channel name: clix>,       2024-11-07 16:06:09.384463 
+0pogix,     huh,        <Channel name: clix>,       2024-11-07 16:06:13.969080 
+0pogix,     ome32,        <Channel name: clix>,       2024-11-07 16:06:45.306389 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:06:53.889271 
+0pogix,     mhm,        <Channel name: clix>,       2024-11-07 16:07:02.298054 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:07:09.631445 
+0pogix,     catJAM,        <Channel name: clix>,       2024-11-07 16:07:28.122379 
+0pogix,     Lol,        <Channel name: clix>,       2024-11-07 16:07:57.282298 
+0pogix,     cmonBruh,        <Channel name: clix>,       2024-11-07 16:08:03.726167 
+0pogix,     Binoculars,        <Channel name: clix>,       2024-11-07 16:08:14.678023 
+0pogix,     Hmm,        <Channel name: clix>,       2024-11-07 16:08:21.855467 
+0pogix,     COOKED,        <Channel name: clix>,       2024-11-07 16:08:30.751157 
+0pogix,     lowkey,        <Channel name: clix>,       2024-11-07 16:08:34.139352 
+0pogix,     GAMBA,        <Channel name: clix>,       2024-11-07 16:08:41.555522 
+0pogix,     @value1x SAJ,        <Channel name: clix>,       2024-11-07 16:08:53.453235 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:09:05.251333 
+0pogix,     kittyJam .,        <Channel name: clix>,       2024-11-07 16:09:31.785453 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:09:47.720357 
+0pogix,     dinkDonk,        <Channel name: clix>,       2024-11-07 16:09:58.372319 
+0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 16:10:06.976401 
+0pogix,     FeelsWowMan,        <Channel name: clix>,       2024-11-07 16:10:14.531389 
+0pogix,     kittyJam,        <Channel name: clix>,       2024-11-07 16:10:23.249243 
+0pogix,     pepePout,        <Channel name: clix>,       2024-11-07 16:10:47.305435 
+0pogix,     ok,        <Channel name: clix>,       2024-11-07 16:10:53.578660 
+0pogix,     eww dirty car,        <Channel name: clix>,       2024-11-07 16:11:03.968443 
+0pogix,     SMH,        <Channel name: clix>,       2024-11-07 16:11:18.466489 
+0pogix,     GYAAAT,        <Channel name: clix>,       2024-11-07 16:11:23.519308 
+0pogix,     GYAAAT .,        <Channel name: clix>,       2024-11-07 16:11:49.472475 
+0pogix,     afternoon,        <Channel name: clix>,       2024-11-07 16:11:55.227392 
+0pogix,     lookDown,        <Channel name: clix>,       2024-11-07 16:12:02.145713 
+0pogix,     eww,        <Channel name: clix>,       2024-11-07 16:12:23.159574 
+0pogix,     Pffttt,        <Channel name: clix>,       2024-11-07 16:12:31.549809 
+0pogix,     clixHehe,        <Channel name: clix>,       2024-11-07 16:12:57.634450 
+0pogix,     peepoShy,        <Channel name: clix>,       2024-11-07 16:13:04.710461 
+0pogix,     yum,        <Channel name: clix>,       2024-11-07 16:13:15.508570 
+0pogix,     w,        <Channel name: clix>,       2024-11-07 16:13:38.037512 
+0pogix,     Capping,        <Channel name: clix>,       2024-11-07 16:13:48.608903 
+0pogix,     NOTED,        <Channel name: clix>,       2024-11-07 16:14:06.232847 
+0pogix,     ofc,        <Channel name: clix>,       2024-11-07 16:14:12.790570 
+0pogix,     mayo yum,        <Channel name: clix>,       2024-11-07 16:14:29.047909 
+0pogix,     yummy,        <Channel name: clix>,       2024-11-07 16:14:33.725894 
+0pogix,     pre GG,        <Channel name: clix>,       2024-11-07 16:14:51.101949 
+0pogix,     Pffttt,        <Channel name: clix>,       2024-11-07 16:15:01.992009 
+0pogix,     HAH,        <Channel name: clix>,       2024-11-07 16:15:12.674806 
+0pogix,     PauseChamp,        <Channel name: clix>,       2024-11-07 16:15:20.787894 
+0pogix,     lookDown,        <Channel name: clix>,       2024-11-07 16:15:30.202696 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:15:38.969002 
+0pogix,     WEDIDIT,        <Channel name: clix>,       2024-11-07 16:15:42.915080 
+0pogix,     i did,        <Channel name: clix>,       2024-11-07 16:15:54.172831 
+0pogix,     weak ass hit,        <Channel name: clix>,       2024-11-07 16:16:02.973881 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:16:14.123247 
+0pogix,     pre Pffttt,        <Channel name: clix>,       2024-11-07 16:16:28.935605 
+0pogix,     Binoculous,        <Channel name: clix>,       2024-11-07 16:16:34.726958 
+0pogix,     steve can u show his GYAAAT,        <Channel name: clix>,       2024-11-07 16:17:07.726756 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:17:10.291777 
+0pogix,     ass,        <Channel name: clix>,       2024-11-07 16:17:22.364840 
+0pogix,     mid,        <Channel name: clix>,       2024-11-07 16:17:24.408806 
+0pogix,     dumbass,        <Channel name: clix>,       2024-11-07 16:17:30.039826 
+0pogix,     unc,        <Channel name: clix>,       2024-11-07 16:17:33.346700 
+0pogix,     WW unc,        <Channel name: clix>,       2024-11-07 16:17:36.947140 
+0pogix,     LOCKIN,        <Channel name: clix>,       2024-11-07 16:17:44.149184 
+0pogix,     boo,        <Channel name: clix>,       2024-11-07 16:17:51.075275 
+0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 16:17:55.425364 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:17:58.249185 
+0pogix,     NICECOCK,        <Channel name: clix>,       2024-11-07 16:18:07.444313 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:18:15.622263 
+0pogix,     LOCKIN steve,        <Channel name: clix>,       2024-11-07 16:18:25.444252 
+0pogix,     HAH,        <Channel name: clix>,       2024-11-07 16:18:46.705370 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:20:22.596335 
+0pogix,     NICECOCK I mean shot,        <Channel name: clix>,       2024-11-07 16:20:35.204980 
+0pogix,     Binoculous,        <Channel name: clix>,       2024-11-07 16:20:49.381988 
+0pogix,     StillWaiting,        <Channel name: clix>,       2024-11-07 16:21:15.775096 
+0pogix,     NOTED ok unc,        <Channel name: clix>,       2024-11-07 16:21:29.350140 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:21:44.722634 
+0pogix,     Binoculous,        <Channel name: clix>,       2024-11-07 16:21:51.537129 
+0pogix,     not bad,        <Channel name: clix>,       2024-11-07 16:21:55.437301 
+0pogix,     Binoculous,        <Channel name: clix>,       2024-11-07 16:22:21.440045 
+0pogix,     close,        <Channel name: clix>,       2024-11-07 16:22:35.467494 
+0pogix,     Prayge,        <Channel name: clix>,       2024-11-07 16:22:44.430224 
+0pogix,     highway,        <Channel name: clix>,       2024-11-07 16:22:49.076162 
+0pogix,     Mid,        <Channel name: clix>,       2024-11-07 16:22:56.265347 
+0pogix,     Pffttt,        <Channel name: clix>,       2024-11-07 16:22:58.172468 
+0pogix,     WW Rizz,        <Channel name: clix>,       2024-11-07 16:23:18.101347 
+0pogix,     Pffttt,        <Channel name: clix>,       2024-11-07 16:23:21.921854 
+0pogix,     that's he's best,        <Channel name: clix>,       2024-11-07 16:23:27.051537 
+0pogix,     w riz,        <Channel name: clix>,       2024-11-07 16:23:39.662209 
+0pogix,     GYAAAT,        <Channel name: clix>,       2024-11-07 16:23:44.992582 
+0pogix,     BOOBA,        <Channel name: clix>,       2024-11-07 16:23:49.293578 
+0pogix,     jorkin,        <Channel name: clix>,       2024-11-07 16:23:53.943537 
+0pogix,     Pffttt,        <Channel name: clix>,       2024-11-07 16:24:03.220213 
+0pogix,     lowkey mid,        <Channel name: clix>,       2024-11-07 16:24:07.443751 
+0pogix,     weakass,        <Channel name: clix>,       2024-11-07 16:24:18.353563 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:24:28.418271 
+0pogix,     ofc,        <Channel name: clix>,       2024-11-07 16:24:39.626324 
+0pogix,     catEat,        <Channel name: clix>,       2024-11-07 16:24:43.545954 
+0pogix,     WW fatass,        <Channel name: clix>,       2024-11-07 16:24:51.913351 
+0pogix,     BUSSIN,        <Channel name: clix>,       2024-11-07 16:24:58.649653 
+0pogix,     gl feld,        <Channel name: clix>,       2024-11-07 16:25:09.791323 
+0pogix,     Binoculous,        <Channel name: clix>,       2024-11-07 16:25:14.557393 
+0pogix,     oh my GYAAAT,        <Channel name: clix>,       2024-11-07 16:25:20.894320 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:25:25.381828 
+0pogix,     NOWAY,        <Channel name: clix>,       2024-11-07 16:25:30.889721 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:25:33.011315 
+0pogix,     AURA,        <Channel name: clix>,       2024-11-07 16:25:35.333867 
+0pogix,     WW,        <Channel name: clix>,       2024-11-07 16:25:37.500387 
+0pogix,     AURA,        <Channel name: clix>,       2024-11-07 16:25:40.277585 
+0pogix,     WW unc,        <Channel name: clix>,       2024-11-07 16:25:44.890705 
+0pogix,     PauseChamp,        <Channel name: clix>,       2024-11-07 16:26:00.757807 
+0pogix,     we got,        <Channel name: clix>,       2024-11-07 16:26:04.170211 
+0pogix,     we good,        <Channel name: clix>,       2024-11-07 16:26:06.410637 
+0pogix,     wow,        <Channel name: clix>,       2024-11-07 16:26:21.220866 

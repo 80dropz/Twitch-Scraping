@@ -10,3 +10,7 @@
  chichiyum,     ??,        <Channel name: kaicenat>,       2024-11-07 09:11:39.812696 
 
  chichiyum,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:11:42.429761 
+
+ chichiyum,     kaicDubs,        <Channel name: kaicenat>,       2024-11-07 14:44:24.975029 
+
+ chichiyum,     RAKAI,        <Channel name: kaicenat>,       2024-11-07 14:53:20.792219 
