@@ -1,0 +1,6 @@
+
+ 4nck,     !followage,        <Channel name: plaqueboymax>,       2024-11-07 01:56:16.272961 
+
+ 4nck,     !Followage,        <Channel name: plaqueboymax>,       2024-11-07 02:02:26.601501 
+
+ 4nck,     ! followage,        <Channel name: plaqueboymax>,       2024-11-07 02:03:41.913410 
