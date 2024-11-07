@@ -1,0 +1,6 @@
+
+ cykalash,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:28:28.156988 
+
+ cykalash,     a,        <Channel name: kaicenat>,       2024-11-07 09:28:45.315211 
+
+ cykalash,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:28:47.007866 

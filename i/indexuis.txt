@@ -1,0 +1,10 @@
+
+ indexuis,     W NPC,        <Channel name: kaicenat>,       2024-11-07 09:38:56.605779 
+
+ indexuis,     WWWWWW,        <Channel name: kaicenat>,       2024-11-07 09:39:02.291907 
+
+ indexuis,     WWWWWD,        <Channel name: kaicenat>,       2024-11-07 09:39:03.914312 
+
+ indexuis,     W 100,        <Channel name: kaicenat>,       2024-11-07 09:39:30.348840 
+
+ indexuis,     HEYY THATS 100,        <Channel name: kaicenat>,       2024-11-07 09:39:36.962690 

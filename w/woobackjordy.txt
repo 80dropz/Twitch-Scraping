@@ -1,0 +1,8 @@
+
+ woobackjordy,     !roulette50,        <Channel name: kaicenat>,       2024-11-07 09:16:33.428859 
+
+ woobackjordy,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:17:06.345446 
+
+ woobackjordy,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:17:20.230530 
+
+ woobackjordy,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:17:31.182576 

@@ -1,0 +1,26 @@
+
+ champplive,     uwu,        <Channel name: kaicenat>,       2024-11-07 09:05:47.772509 
+
+ champplive,     !points,        <Channel name: kaicenat>,       2024-11-07 09:05:59.984921 
+
+ champplive,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:06:05.748644 
+
+ champplive,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:06:12.692543 
+
+ champplive,     !roulete all,        <Channel name: kaicenat>,       2024-11-07 09:06:17.262258 
+
+ champplive,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:06:27.372990 
+
+ champplive,     !roulette 55,        <Channel name: kaicenat>,       2024-11-07 09:06:42.850647 
+
+ champplive,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:06:48.347475 
+
+ champplive,     SUBtember,        <Channel name: kaicenat>,       2024-11-07 09:09:57.336446 
+
+ champplive,     !time,        <Channel name: kaicenat>,       2024-11-07 09:10:10.520042 
+
+ champplive,     SCAMM,        <Channel name: kaicenat>,       2024-11-07 09:14:58.553285 
+
+ champplive,     SCAM AL*R*T,        <Channel name: kaicenat>,       2024-11-07 09:15:08.324416 
+
+ champplive,     WSCAM,        <Channel name: kaicenat>,       2024-11-07 09:15:16.203606 

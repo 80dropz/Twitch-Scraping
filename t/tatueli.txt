@@ -1,0 +1,4 @@
+
+ tatueli,     !TIME,        <Channel name: kaicenat>,       2024-11-07 09:09:16.454626 
+
+ tatueli,     !time,        <Channel name: kaicenat>,       2024-11-07 09:09:22.638608 

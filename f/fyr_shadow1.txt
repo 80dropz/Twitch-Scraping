@@ -1,0 +1,18 @@
+
+ fyr_shadow1,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:09:18.181450 
+
+ fyr_shadow1,     900,        <Channel name: shadowkekw>,       2024-11-07 09:10:51.426307 
+
+ fyr_shadow1,     38,        <Channel name: shadowkekw>,       2024-11-07 09:19:48.780619 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:20:10.678226 
+
+ fyr_shadow1,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:21:09.551570 
+
+ fyr_shadow1,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:28:45.173886 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:30:12.252506 
+
+ fyr_shadow1,     o,        <Channel name: shadowkekw>,       2024-11-07 09:34:11.236008 
+
+ fyr_shadow1,     )),        <Channel name: shadowkekw>,       2024-11-07 09:34:25.924725 

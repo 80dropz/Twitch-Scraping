@@ -1,0 +1,10 @@
+
+ leecselko,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 09:25:43.260326 
+
+ leecselko,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:25:57.317091 
+
+ leecselko,     !roulette 788,        <Channel name: kaicenat>,       2024-11-07 09:26:05.266052 
+
+ leecselko,     !shop,        <Channel name: kaicenat>,       2024-11-07 09:26:21.598137 
+
+ leecselko,     w,        <Channel name: kaicenat>,       2024-11-07 09:35:54.024420 

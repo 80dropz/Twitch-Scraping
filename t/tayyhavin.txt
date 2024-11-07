@@ -1,0 +1,18 @@
+
+ tayyhavin,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:01.131365 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:05.410213 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:08.185084 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:10.021505 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:11.922130 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:13.846727 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:15.294790 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:17.247290 
+
+ tayyhavin,     kaicENAT kaicENAT kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:17:18.645897 

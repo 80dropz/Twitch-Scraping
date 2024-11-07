@@ -1,0 +1,4 @@
+
+ f1xfnbr,     !pc,        <Channel name: mongraal>,       2024-11-07 09:26:23.458549 
+
+ f1xfnbr,     !specs,        <Channel name: mongraal>,       2024-11-07 09:26:28.716706 

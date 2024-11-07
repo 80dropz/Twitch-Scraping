@@ -1,0 +1,4 @@
+
+ fa_actor,     +1,        <Channel name: kaicenat>,       2024-11-07 09:15:02.658682 
+
+ fa_actor,     +11,        <Channel name: kaicenat>,       2024-11-07 09:15:17.052981 

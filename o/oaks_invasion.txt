@@ -1,0 +1,8 @@
+
+ oaks_invasion,     !roulette 250,        <Channel name: kaicenat>,       2024-11-07 09:17:39.988041 
+
+ oaks_invasion,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:20:05.827404 
+
+ oaks_invasion,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:28:44.958307 
+
+ oaks_invasion,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:30:50.597080 

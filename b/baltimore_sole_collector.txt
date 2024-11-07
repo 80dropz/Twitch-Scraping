@@ -1,0 +1,22 @@
+
+ baltimore_sole_collector,     !points,        <Channel name: kaicenat>,       2024-11-07 09:32:50.897470 
+
+ baltimore_sole_collector,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:33:02.802121 
+
+ baltimore_sole_collector,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 09:33:25.046178 
+
+ baltimore_sole_collector,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:33:54.797899 
+
+ baltimore_sole_collector,     !roulette 600,        <Channel name: kaicenat>,       2024-11-07 09:34:11.692772 
+
+ baltimore_sole_collector,     !roulette 1200,        <Channel name: kaicenat>,       2024-11-07 09:35:28.140573 
+
+ baltimore_sole_collector,     !time,        <Channel name: kaicenat>,       2024-11-07 09:35:46.564371 
+
+ baltimore_sole_collector,     I will gift 1200 if someone want to match and give them this earthquake,        <Channel name: kaicenat>,       2024-11-07 09:37:55.205469 
+
+ baltimore_sole_collector,     where the 2 horn blows at dude gifted 100,        <Channel name: kaicenat>,       2024-11-07 09:41:29.801014 
+
+ baltimore_sole_collector,     he’s a swallower,        <Channel name: kaicenat>,       2024-11-07 09:43:36.355011 
+
+ baltimore_sole_collector,     he dreaming about that hawk tauh,        <Channel name: kaicenat>,       2024-11-07 09:44:01.364631 

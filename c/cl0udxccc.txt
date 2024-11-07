@@ -1,0 +1,26 @@
+
+ cl0udxccc,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:00:35.317078 
+
+ cl0udxccc,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:00:40.200341 
+
+ cl0udxccc,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:00:49.314707 
+
+ cl0udxccc,     !roulette 250,        <Channel name: kaicenat>,       2024-11-07 09:01:05.519508 
+
+ cl0udxccc,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:01:14.176498 
+
+ cl0udxccc,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:01:22.795048 
+
+ cl0udxccc,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:01:31.321621 
+
+ cl0udxccc,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:02:00.992305 
+
+ cl0udxccc,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:02:11.882281 
+
+ cl0udxccc,     !roulette 501,        <Channel name: kaicenat>,       2024-11-07 09:02:26.370648 
+
+ cl0udxccc,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:02:38.682062 
+
+ cl0udxccc,     !roulette 499,        <Channel name: kaicenat>,       2024-11-07 09:02:57.398859 
+
+ cl0udxccc,     lmao we heard that cuh,        <Channel name: kaicenat>,       2024-11-07 09:03:36.772804 

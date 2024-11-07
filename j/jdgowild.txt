@@ -1,0 +1,40 @@
+
+ jdgowild,     !Points,        <Channel name: kaicenat>,       2024-11-07 09:16:01.586459 
+
+ jdgowild,     !Gamble all,        <Channel name: kaicenat>,       2024-11-07 09:16:18.497216 
+
+ jdgowild,     !Gamble all,        <Channel name: kaicenat>,       2024-11-07 09:16:49.504872 
+
+ jdgowild,     !Points,        <Channel name: kaicenat>,       2024-11-07 09:17:18.586305 
+
+ jdgowild,     !Gamble all,        <Channel name: kaicenat>,       2024-11-07 09:17:35.392618 
+
+ jdgowild,     !Gamble all,        <Channel name: kaicenat>,       2024-11-07 09:18:58.637974 
+
+ jdgowild,     !Points,        <Channel name: kaicenat>,       2024-11-07 09:19:10.988050 
+
+ jdgowild,     !Points,        <Channel name: kaicenat>,       2024-11-07 09:34:16.735748 
+
+ jdgowild,     !Gamble all,        <Channel name: kaicenat>,       2024-11-07 09:34:25.699038 
+
+ jdgowild,     !Followage,        <Channel name: kaicenat>,       2024-11-07 09:35:40.237903 
+
+ jdgowild,     Black,        <Channel name: kaicenat>,       2024-11-07 09:40:32.037763 
+
+ jdgowild,     W,        <Channel name: kaicenat>,       2024-11-07 09:40:40.406245 
+
+ jdgowild,     Goat,        <Channel name: kaicenat>,       2024-11-07 09:40:43.811338 
+
+ jdgowild,     Wwwww,        <Channel name: kaicenat>,       2024-11-07 09:40:53.631070 
+
+ jdgowild,     Wwww,        <Channel name: kaicenat>,       2024-11-07 09:40:56.037274 
+
+ jdgowild,     W,        <Channel name: kaicenat>,       2024-11-07 09:40:57.636229 
+
+ jdgowild,     Ww,        <Channel name: kaicenat>,       2024-11-07 09:41:00.001525 
+
+ jdgowild,     Well well well,        <Channel name: kaicenat>,       2024-11-07 09:41:07.649311 
+
+ jdgowild,     FrankerZ FrankerZ FrankerZ FrankerZ FrankerZ,        <Channel name: kaicenat>,       2024-11-07 09:41:48.011169 
+
+ jdgowild,     Free miles,        <Channel name: kaicenat>,       2024-11-07 09:42:45.929097 

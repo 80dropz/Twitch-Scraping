@@ -1,0 +1,6 @@
+
+ chiavuzzo,     !colorblind,        <Channel name: mongraal>,       2024-11-07 09:09:18.785505 
+
+ chiavuzzo,     !sens,        <Channel name: mongraal>,       2024-11-07 09:10:40.056799 
+
+ chiavuzzo,     !dpi,        <Channel name: mongraal>,       2024-11-07 09:10:57.939212 

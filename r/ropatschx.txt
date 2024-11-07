@@ -1,0 +1,6 @@
+
+ ropatschx,     !res,        <Channel name: mongraal>,       2024-11-07 09:16:23.525411 
+
+ ropatschx,     !pc,        <Channel name: mongraal>,       2024-11-07 09:17:55.307764 
+
+ ropatschx,     wassss,        <Channel name: mongraal>,       2024-11-07 09:24:48.882850 

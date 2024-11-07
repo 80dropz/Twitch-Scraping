@@ -1,0 +1,2 @@
+
+ mts1316,     !trio,        <Channel name: mongraal>,       2024-11-07 09:19:00.243611 

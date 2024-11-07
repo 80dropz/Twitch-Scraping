@@ -70,3 +70,5 @@
  o7_pickl,     uuh,        <Channel name: clix>,       2024-11-07 02:48:32.453430 
 
  o7_pickl,     eww,        <Channel name: clix>,       2024-11-07 02:48:38.602687 
+
+ o7_pickl,     !time,        <Channel name: clix>,       2024-11-07 09:05:06.556050 

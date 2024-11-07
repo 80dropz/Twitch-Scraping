@@ -1,0 +1,14 @@
+
+ clixcy_,     !config,        <Channel name: mongraal>,       2024-11-07 09:17:44.641596 
+
+ clixcy_,     !computer,        <Channel name: mongraal>,       2024-11-07 09:17:57.273442 
+
+ clixcy_,     !setup,        <Channel name: mongraal>,       2024-11-07 09:18:49.151402 
+
+ clixcy_,     !pc,        <Channel name: mongraal>,       2024-11-07 09:19:02.050456 
+
+ clixcy_,     !computer,        <Channel name: mongraal>,       2024-11-07 09:21:49.303308 
+
+ clixcy_,     !config,        <Channel name: mongraal>,       2024-11-07 09:28:25.705554 
+
+ clixcy_,     !pc,        <Channel name: mongraal>,       2024-11-07 09:28:34.795427 

@@ -16,3 +16,5 @@
  ar42_gul3r,     rigged,        <Channel name: kaicenat>,       2024-11-07 01:20:33.929317 
 
  ar42_gul3r,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:20:48.846227 
+
+ ar42_gul3r,     W,        <Channel name: kaicenat>,       2024-11-07 09:44:04.665017 

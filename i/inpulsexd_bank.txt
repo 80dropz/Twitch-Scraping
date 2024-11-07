@@ -1,0 +1,12 @@
+
+ inpulsexd_bank,     :),        <Channel name: clix>,       2024-11-07 09:31:06.924079 
+
+ inpulsexd_bank,     uuh,        <Channel name: clix>,       2024-11-07 09:31:21.761676 
+
+ inpulsexd_bank,     erm,        <Channel name: clix>,       2024-11-07 09:32:10.209998 
+
+ inpulsexd_bank,     ACTION awoo,        <Channel name: clix>,       2024-11-07 09:32:27.073595 
+
+ inpulsexd_bank,     :),        <Channel name: clix>,       2024-11-07 09:33:26.644048 
+
+ inpulsexd_bank,     ACTION Kissahomie @VecVeum,        <Channel name: clix>,       2024-11-07 09:33:45.200475 

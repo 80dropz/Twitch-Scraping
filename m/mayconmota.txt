@@ -1,0 +1,6 @@
+
+ mayconmota,     !playlist,        <Channel name: sinatraa>,       2024-11-07 09:40:18.810019 
+
+ mayconmota,     !classics,        <Channel name: sinatraa>,       2024-11-07 09:40:26.975857 
+
+ mayconmota,     !pop,        <Channel name: sinatraa>,       2024-11-07 09:40:29.522929 

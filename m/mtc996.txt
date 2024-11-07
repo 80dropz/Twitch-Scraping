@@ -1,0 +1,10 @@
+
+ mtc996,     Go to bed,        <Channel name: kaicenat>,       2024-11-07 09:36:31.075475 
+
+ mtc996,     You a foo,        <Channel name: kaicenat>,       2024-11-07 09:36:42.949275 
+
+ mtc996,     Wtf,        <Channel name: kaicenat>,       2024-11-07 09:36:58.212807 
+
+ mtc996,     Say marcel,        <Channel name: kaicenat>,       2024-11-07 09:37:15.276596 
+
+ mtc996,     Wut,        <Channel name: kaicenat>,       2024-11-07 09:37:49.148747 

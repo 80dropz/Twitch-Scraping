@@ -52,3 +52,5 @@
  himelio,     ALIENALIENALIENALIENALIEN,        <Channel name: robcdee>,       2024-11-07 02:52:18.730810 
 
  himelio,     Suseg susej,        <Channel name: robcdee>,       2024-11-07 02:53:33.409234 
+
+ himelio,     !join,        <Channel name: robcdee>,       2024-11-07 09:43:47.701788 

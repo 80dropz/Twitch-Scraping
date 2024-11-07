@@ -1,0 +1,10 @@
+
+ heradicate,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:32:50.014486 
+
+ heradicate,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:33:22.560410 
+
+ heradicate,     W miles,        <Channel name: kaicenat>,       2024-11-07 09:33:43.580279 
+
+ heradicate,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:33:53.888975 
+
+ heradicate,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:34:16.267480 

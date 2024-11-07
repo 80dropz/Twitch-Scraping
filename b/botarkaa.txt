@@ -1,0 +1,4 @@
+
+ botarkaa,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:07:27.800763 
+
+ botarkaa,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:07:38.795388 

@@ -1,0 +1,12 @@
+
+ g4rp4,     WWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 09:36:15.730098 
+
+ g4rp4,     WWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 09:36:18.807241 
+
+ g4rp4,     WWWWWWWWWWWWWWWWWWWWWW,        <Channel name: mongraal>,       2024-11-07 09:36:21.748975 
+
+ g4rp4,     WWWWWWW,        <Channel name: mongraal>,       2024-11-07 09:36:23.589670 
+
+ g4rp4,     WWW,        <Channel name: mongraal>,       2024-11-07 09:36:32.895609 
+
+ g4rp4,     W,        <Channel name: mongraal>,       2024-11-07 09:36:34.751949 

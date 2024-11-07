@@ -1,0 +1,10 @@
+
+ yanis08__,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:07:57.441048 
+
+ yanis08__,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:08:04.840056 
+
+ yanis08__,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:08:10.640236 
+
+ yanis08__,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:08:16.146858 
+
+ yanis08__,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:08:21.776768 

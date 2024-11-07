@@ -1,0 +1,4 @@
+
+ oderektaa,     !points,        <Channel name: kaicenat>,       2024-11-07 09:30:50.393520 
+
+ oderektaa,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 09:31:05.612646 

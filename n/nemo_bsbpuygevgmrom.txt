@@ -1,0 +1,14 @@
+
+ nemo_bsbpuygevgmrom,     43,        <Channel name: shadowkekw>,       2024-11-07 09:43:42.909820 
+
+ nemo_bsbpuygevgmrom,     65,        <Channel name: shadowkekw>,       2024-11-07 09:43:44.690164 
+
+ nemo_bsbpuygevgmrom,     74,        <Channel name: shadowkekw>,       2024-11-07 09:43:46.370675 
+
+ nemo_bsbpuygevgmrom,     324,        <Channel name: shadowkekw>,       2024-11-07 09:43:47.847889 
+
+ nemo_bsbpuygevgmrom,     421,        <Channel name: shadowkekw>,       2024-11-07 09:43:49.767185 
+
+ nemo_bsbpuygevgmrom,     34,        <Channel name: shadowkekw>,       2024-11-07 09:43:51.254594 
+
+ nemo_bsbpuygevgmrom,     44,        <Channel name: shadowkekw>,       2024-11-07 09:43:53.170456 

@@ -30,3 +30,9 @@
  decorates,     ty for the gifted fsmHeart,        <Channel name: felo>,       2024-11-07 02:53:17.850672 
 
  decorates,     ive gotten 3 gifted subs tonight LMFAO,        <Channel name: felo>,       2024-11-07 02:53:26.582047 
+
+ decorates,     !addcom !bracket $(user) https://challonge.com/ProsimV4,        <Channel name: adapt>,       2024-11-07 09:11:18.714770 
+
+ decorates,     !bracket,        <Channel name: adapt>,       2024-11-07 09:18:29.716671 
+
+ decorates,     mhm LOCKINN,        <Channel name: adapt>,       2024-11-07 09:18:37.945829 

@@ -6,3 +6,13 @@
  donsoufeio,     bro that could have been 2k,        <Channel name: kaicenat>,       2024-11-07 01:53:30.944870 
 
  donsoufeio,     72,        <Channel name: kaicenat>,       2024-11-07 02:03:57.879492 
+
+ donsoufeio,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:04:00.304054 
+
+ donsoufeio,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:04:39.134547 
+
+ donsoufeio,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:05:03.196238 
+
+ donsoufeio,     !roulette 2500,        <Channel name: kaicenat>,       2024-11-07 09:05:17.610440 
+
+ donsoufeio,     !roulette 3500,        <Channel name: kaicenat>,       2024-11-07 09:05:36.359816 

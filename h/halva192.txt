@@ -1,0 +1,8 @@
+
+ halva192,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:02.930336 
+
+ halva192,     1110,        <Channel name: shadowkekw>,       2024-11-07 09:04:06.932539 
+
+ halva192,     110,        <Channel name: shadowkekw>,       2024-11-07 09:04:11.280503 
+
+ halva192,     112,        <Channel name: shadowkekw>,       2024-11-07 09:06:05.612027 

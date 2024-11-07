@@ -1,0 +1,18 @@
+
+ zxn18,     yo,        <Channel name: kaicenat>,       2024-11-07 09:00:39.585375 
+
+ zxn18,     !points,        <Channel name: kaicenat>,       2024-11-07 09:00:46.552208 
+
+ zxn18,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 09:01:13.712012 
+
+ zxn18,     !points,        <Channel name: kaicenat>,       2024-11-07 09:02:27.256741 
+
+ zxn18,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:02:46.040892 
+
+ zxn18,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:03:17.604156 
+
+ zxn18,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:03:44.431503 
+
+ zxn18,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:03:59.926764 
+
+ zxn18,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 09:04:15.044579 

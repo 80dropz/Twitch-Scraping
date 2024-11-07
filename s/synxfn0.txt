@@ -1,0 +1,6 @@
+
+ synxfn0,     !time,        <Channel name: clix>,       2024-11-07 09:16:45.197019 
+
+ synxfn0,     !time,        <Channel name: kaicenat>,       2024-11-07 09:16:59.760837 
+
+ synxfn0,     !TIME,        <Channel name: kaicenat>,       2024-11-07 09:17:05.012589 

@@ -1,0 +1,4 @@
+
+ deadlypricky,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:02:40.510610 
+
+ deadlypricky,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:03:08.271377 

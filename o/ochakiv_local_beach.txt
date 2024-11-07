@@ -1,0 +1,6 @@
+
+ ochakiv_local_beach,     BIG W W 100,        <Channel name: kaicenat>,       2024-11-07 09:39:41.585787 
+
+ ochakiv_local_beach,     228,        <Channel name: kaicenat>,       2024-11-07 09:40:34.901718 
+
+ ochakiv_local_beach,     228K W KAI,        <Channel name: kaicenat>,       2024-11-07 09:40:41.175303 

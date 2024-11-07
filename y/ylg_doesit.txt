@@ -2,3 +2,7 @@
  ylg_doesit,     45 second,        <Channel name: kaicenat>,       2024-11-07 01:44:19.842486 
 
  ylg_doesit,     45 seconds,        <Channel name: kaicenat>,       2024-11-07 01:44:41.210499 
+
+ ylg_doesit,     lmaoo,        <Channel name: kaicenat>,       2024-11-07 09:19:36.969769 
+
+ ylg_doesit,     funny asl when he breaks character,        <Channel name: kaicenat>,       2024-11-07 09:39:20.543392 

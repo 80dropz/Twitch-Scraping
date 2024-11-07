@@ -1,0 +1,10 @@
+
+ mwaiwyd,     !roulette1500,        <Channel name: kaicenat>,       2024-11-07 09:13:24.913142 
+
+ mwaiwyd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:13:53.669056 
+
+ mwaiwyd,     CRAZY,        <Channel name: kaicenat>,       2024-11-07 09:14:00.059121 
+
+ mwaiwyd,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:14:08.669203 
+
+ mwaiwyd,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 09:14:17.012365 

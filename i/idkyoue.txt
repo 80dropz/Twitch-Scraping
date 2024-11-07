@@ -1,0 +1,4 @@
+
+ idkyoue,     !time,        <Channel name: kaicenat>,       2024-11-07 09:32:37.609011 
+
+ idkyoue,     !eartgquake,        <Channel name: kaicenat>,       2024-11-07 09:32:59.423356 

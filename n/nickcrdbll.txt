@@ -1,0 +1,2 @@
+
+ nickcrdbll,     !commands,        <Channel name: ricci>,       2024-11-07 09:14:17.157718 

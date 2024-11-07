@@ -1,0 +1,12 @@
+
+ 5oseva,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:40.963389 
+
+ 5oseva,     kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:45.454015 
+
+ 5oseva,     kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:47.529390 
+
+ 5oseva,     kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:50.252001 
+
+ 5oseva,     kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:53.049896 
+
+ 5oseva,     kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:55.610972 

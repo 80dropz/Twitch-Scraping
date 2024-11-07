@@ -1,0 +1,4 @@
+
+ lanceg10,     WHAT,        <Channel name: kaicenat>,       2024-11-07 09:37:25.787840 
+
+ lanceg10,     Ww,        <Channel name: kaicenat>,       2024-11-07 09:38:57.852366 

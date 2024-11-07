@@ -1,0 +1,14 @@
+
+ easymack585,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:05:32.255455 
+
+ easymack585,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:07:00.758497 
+
+ easymack585,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:07:53.941500 
+
+ easymack585,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:08:36.065618 
+
+ easymack585,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:13:14.579641 
+
+ easymack585,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:13:47.571533 
+
+ easymack585,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:14:37.999883 

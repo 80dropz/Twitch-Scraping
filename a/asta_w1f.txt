@@ -1,0 +1,52 @@
+
+ asta_w1f,     Em,        <Channel name: shadowkekw>,       2024-11-07 09:10:34.036646 
+
+ asta_w1f,     90,        <Channel name: shadowkekw>,       2024-11-07 09:10:50.966967 
+
+ asta_w1f,     38,        <Channel name: shadowkekw>,       2024-11-07 09:13:02.035559 
+
+ asta_w1f,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:15:35.212264 
+
+ asta_w1f,     112,        <Channel name: shadowkekw>,       2024-11-07 09:18:20.414014 
+
+ asta_w1f,     38,        <Channel name: shadowkekw>,       2024-11-07 09:19:47.650208 
+
+ asta_w1f,     38 38,        <Channel name: shadowkekw>,       2024-11-07 09:20:28.284596 
+
+ asta_w1f,     bboje,        <Channel name: shadowkekw>,       2024-11-07 09:23:02.927707 
+
+ asta_w1f,     boje,        <Channel name: shadowkekw>,       2024-11-07 09:23:04.377679 
+
+ asta_w1f,     ya,        <Channel name: shadowkekw>,       2024-11-07 09:23:15.696586 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:24:08.956242 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:25:12.157466 
+
+ asta_w1f,     900 900,        <Channel name: shadowkekw>,       2024-11-07 09:26:02.870015 
+
+ asta_w1f,     skip,        <Channel name: shadowkekw>,       2024-11-07 09:28:37.620937 
+
+ asta_w1f,     XD XD XD XD XD XD XD XD,        <Channel name: shadowkekw>,       2024-11-07 09:28:56.892587 
+
+ asta_w1f,     xd,        <Channel name: shadowkekw>,       2024-11-07 09:29:07.218486 
+
+ asta_w1f,     XD,        <Channel name: shadowkekw>,       2024-11-07 09:31:52.066006 
+
+ asta_w1f,     112,        <Channel name: shadowkekw>,       2024-11-07 09:34:13.595105 
+
+ asta_w1f,     112,        <Channel name: shadowkekw>,       2024-11-07 09:35:07.173946 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:35:19.871830 
+
+ asta_w1f,     900 XD,        <Channel name: shadowkekw>,       2024-11-07 09:35:25.606073 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:35:47.854982 
+
+ asta_w1f,     38,        <Channel name: shadowkekw>,       2024-11-07 09:36:41.932699 
+
+ asta_w1f,     XD,        <Channel name: shadowkekw>,       2024-11-07 09:37:50.411063 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:38:10.551541 
+
+ asta_w1f,     900,        <Channel name: shadowkekw>,       2024-11-07 09:40:29.945283 

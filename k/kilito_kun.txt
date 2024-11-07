@@ -1,0 +1,14 @@
+
+ kilito_kun,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:07:14.842278 
+
+ kilito_kun,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:07:34.677986 
+
+ kilito_kun,     !points,        <Channel name: kaicenat>,       2024-11-07 09:11:12.841487 
+
+ kilito_kun,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:13:05.882633 
+
+ kilito_kun,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:24:34.204258 
+
+ kilito_kun,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:25:00.245204 
+
+ kilito_kun,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:26:48.806683 

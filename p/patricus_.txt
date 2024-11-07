@@ -1,0 +1,16 @@
+
+ patricus_,     !time,        <Channel name: kaicenat>,       2024-11-07 09:02:37.528566 
+
+ patricus_,     !gamble 10,        <Channel name: kaicenat>,       2024-11-07 09:02:41.717630 
+
+ patricus_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:03:04.776971 
+
+ patricus_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:03:15.443400 
+
+ patricus_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:03:42.795414 
+
+ patricus_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:03:54.925049 
+
+ patricus_,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:04:03.312230 
+
+ patricus_,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 09:04:12.370121 

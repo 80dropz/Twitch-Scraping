@@ -1,0 +1,14 @@
+
+ 211_cfish,     how long has been going,        <Channel name: kaicenat>,       2024-11-07 09:32:03.045149 
+
+ 211_cfish,     !commands,        <Channel name: kaicenat>,       2024-11-07 09:32:51.280543 
+
+ 211_cfish,     HOW LONG HAS HE BEEN GOING?!,        <Channel name: kaicenat>,       2024-11-07 09:39:52.482732 
+
+ 211_cfish,     !miles,        <Channel name: kaicenat>,       2024-11-07 09:41:44.456566 
+
+ 211_cfish,     !!time,        <Channel name: kaicenat>,       2024-11-07 09:43:08.887176 
+
+ 211_cfish,     !time,        <Channel name: kaicenat>,       2024-11-07 09:43:13.161994 
+
+ 211_cfish,     !morales,        <Channel name: kaicenat>,       2024-11-07 09:43:32.623870 

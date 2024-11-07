@@ -1,0 +1,154 @@
+
+ jfryb717,     Corn,        <Channel name: megalodonvt>,       2024-11-07 09:07:29.356215 
+
+ jfryb717,     Horn,        <Channel name: megalodonvt>,       2024-11-07 09:07:39.490108 
+
+ jfryb717,     Mock,        <Channel name: megalodonvt>,       2024-11-07 09:09:56.557720 
+
+ jfryb717,     Comb,        <Channel name: megalodonvt>,       2024-11-07 09:10:04.180359 
+
+ jfryb717,     Bone,        <Channel name: megalodonvt>,       2024-11-07 09:10:12.508847 
+
+ jfryb717,     Tome,        <Channel name: megalodonvt>,       2024-11-07 09:10:25.771235 
+
+ jfryb717,     Once,        <Channel name: megalodonvt>,       2024-11-07 09:10:53.926530 
+
+ jfryb717,     Mote,        <Channel name: megalodonvt>,       2024-11-07 09:11:02.537005 
+
+ jfryb717,     Dact,        <Channel name: megalodonvt>,       2024-11-07 09:11:48.292209 
+
+ jfryb717,     Tact,        <Channel name: megalodonvt>,       2024-11-07 09:11:58.061025 
+
+ jfryb717,     Lead,        <Channel name: megalodonvt>,       2024-11-07 09:12:43.417008 
+
+ jfryb717,     Cleat,        <Channel name: megalodonvt>,       2024-11-07 09:13:00.774515 
+
+ jfryb717,     Letta,        <Channel name: megalodonvt>,       2024-11-07 09:13:21.060518 
+
+ jfryb717,     Riced,        <Channel name: megalodonvt>,       2024-11-07 09:14:11.986943 
+
+ jfryb717,     Licked,        <Channel name: megalodonvt>,       2024-11-07 09:14:22.349468 
+
+ jfryb717,     Creed,        <Channel name: megalodonvt>,       2024-11-07 09:14:34.318044 
+
+ jfryb717,     Dire,        <Channel name: megalodonvt>,       2024-11-07 09:14:44.932355 
+
+ jfryb717,     Circled,        <Channel name: megalodonvt>,       2024-11-07 09:15:14.314217 
+
+ jfryb717,     Dicer,        <Channel name: megalodonvt>,       2024-11-07 09:15:26.385350 
+
+ jfryb717,     Celtic,        <Channel name: megalodonvt>,       2024-11-07 09:15:43.462723 
+
+ jfryb717,     Nuts,        <Channel name: megalodonvt>,       2024-11-07 09:16:11.194998 
+
+ jfryb717,     Trig,        <Channel name: megalodonvt>,       2024-11-07 09:17:18.273087 
+
+ jfryb717,     Greg,        <Channel name: megalodonvt>,       2024-11-07 09:17:52.210495 
+
+ jfryb717,     Rite,        <Channel name: megalodonvt>,       2024-11-07 09:18:03.853589 
+
+ jfryb717,     Styr,        <Channel name: megalodonvt>,       2024-11-07 09:18:54.852999 
+
+ jfryb717,     Ribs,        <Channel name: megalodonvt>,       2024-11-07 09:19:14.136234 
+
+ jfryb717,     Silt,        <Channel name: megalodonvt>,       2024-11-07 09:19:21.369183 
+
+ jfryb717,     Bits,        <Channel name: megalodonvt>,       2024-11-07 09:19:35.177350 
+
+ jfryb717,     Rily,        <Channel name: megalodonvt>,       2024-11-07 09:19:54.705293 
+
+ jfryb717,     Strib,        <Channel name: megalodonvt>,       2024-11-07 09:20:27.348819 
+
+ jfryb717,     Brit,        <Channel name: megalodonvt>,       2024-11-07 09:20:36.946602 
+
+ jfryb717,     Nook,        <Channel name: megalodonvt>,       2024-11-07 09:21:36.479625 
+
+ jfryb717,     Look,        <Channel name: megalodonvt>,       2024-11-07 09:21:41.551800 
+
+ jfryb717,     King,        <Channel name: megalodonvt>,       2024-11-07 09:21:49.618305 
+
+ jfryb717,     Kings,        <Channel name: megalodonvt>,       2024-11-07 09:21:56.111925 
+
+ jfryb717,     Kiln,        <Channel name: megalodonvt>,       2024-11-07 09:22:23.687775 
+
+ jfryb717,     Loon,        <Channel name: megalodonvt>,       2024-11-07 09:22:58.411188 
+
+ jfryb717,     Loin,        <Channel name: megalodonvt>,       2024-11-07 09:23:14.968871 
+
+ jfryb717,     Lion,        <Channel name: megalodonvt>,       2024-11-07 09:23:25.499354 
+
+ jfryb717,     Ring,        <Channel name: megalodonvt>,       2024-11-07 09:24:14.522807 
+
+ jfryb717,     Sing,        <Channel name: megalodonvt>,       2024-11-07 09:24:34.261848 
+
+ jfryb717,     Grin,        <Channel name: megalodonvt>,       2024-11-07 09:24:46.824473 
+
+ jfryb717,     Dring,        <Channel name: megalodonvt>,       2024-11-07 09:25:45.521114 
+
+ jfryb717,     Vind,        <Channel name: megalodonvt>,       2024-11-07 09:26:07.279928 
+
+ jfryb717,     Reel,        <Channel name: megalodonvt>,       2024-11-07 09:27:10.352180 
+
+ jfryb717,     Celery,        <Channel name: megalodonvt>,       2024-11-07 09:27:40.360089 
+
+ jfryb717,     Creel,        <Channel name: megalodonvt>,       2024-11-07 09:28:15.370388 
+
+ jfryb717,     Eely,        <Channel name: megalodonvt>,       2024-11-07 09:28:42.215621 
+
+ jfryb717,     Aqua,        <Channel name: megalodonvt>,       2024-11-07 09:29:36.188485 
+
+ jfryb717,     Raven,        <Channel name: megalodonvt>,       2024-11-07 09:29:52.069803 
+
+ jfryb717,     Train,        <Channel name: megalodonvt>,       2024-11-07 09:30:42.115839 
+
+ jfryb717,     Tiara,        <Channel name: megalodonvt>,       2024-11-07 09:30:51.336911 
+
+ jfryb717,     Rian,        <Channel name: megalodonvt>,       2024-11-07 09:31:23.083974 
+
+ jfryb717,     Fever,        <Channel name: megalodonvt>,       2024-11-07 09:32:12.982321 
+
+ jfryb717,     Perm,        <Channel name: megalodonvt>,       2024-11-07 09:32:29.694923 
+
+ jfryb717,     Perv,        <Channel name: megalodonvt>,       2024-11-07 09:32:37.299683 
+
+ jfryb717,     Feuder,        <Channel name: megalodonvt>,       2024-11-07 09:33:31.662831 
+
+ jfryb717,     shins,        <Channel name: megalodonvt>,       2024-11-07 09:35:40.742424 
+
+ jfryb717,     Finish,        <Channel name: megalodonvt>,       2024-11-07 09:36:02.056451 
+
+ jfryb717,     Huns,        <Channel name: megalodonvt>,       2024-11-07 09:36:33.374657 
+
+ jfryb717,     Snif,        <Channel name: megalodonvt>,       2024-11-07 09:36:47.543984 
+
+ jfryb717,     Shif,        <Channel name: megalodonvt>,       2024-11-07 09:36:51.870697 
+
+ jfryb717,     Shush,        <Channel name: megalodonvt>,       2024-11-07 09:37:01.585250 
+
+ jfryb717,     Sish,        <Channel name: megalodonvt>,       2024-11-07 09:37:17.509806 
+
+ jfryb717,     Creel,        <Channel name: megalodonvt>,       2024-11-07 09:38:02.427376 
+
+ jfryb717,     Cellar,        <Channel name: megalodonvt>,       2024-11-07 09:38:11.985870 
+
+ jfryb717,     Care,        <Channel name: megalodonvt>,       2024-11-07 09:38:31.323233 
+
+ jfryb717,     Earl,        <Channel name: megalodonvt>,       2024-11-07 09:38:50.293339 
+
+ jfryb717,     Leer,        <Channel name: megalodonvt>,       2024-11-07 09:39:06.141702 
+
+ jfryb717,     Lacer,        <Channel name: megalodonvt>,       2024-11-07 09:39:19.394890 
+
+ jfryb717,     Slot,        <Channel name: megalodonvt>,       2024-11-07 09:40:09.894894 
+
+ jfryb717,     Lols,        <Channel name: megalodonvt>,       2024-11-07 09:40:25.884330 
+
+ jfryb717,     Lolz,        <Channel name: megalodonvt>,       2024-11-07 09:40:32.902998 
+
+ jfryb717,     Garlic,        <Channel name: megalodonvt>,       2024-11-07 09:42:02.980588 
+
+ jfryb717,     Who is clapping?,        <Channel name: megalodonvt>,       2024-11-07 09:42:29.859872 
+
+ jfryb717,     Aric,        <Channel name: megalodonvt>,       2024-11-07 09:42:56.184551 
+
+ jfryb717,     Raci,        <Channel name: megalodonvt>,       2024-11-07 09:43:28.849921 

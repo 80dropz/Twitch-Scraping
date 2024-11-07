@@ -1,0 +1,6 @@
+
+ almightywelty,     !roulette 1600,        <Channel name: kaicenat>,       2024-11-07 09:12:32.495287 
+
+ almightywelty,     !roulette 1400,        <Channel name: kaicenat>,       2024-11-07 09:12:49.798440 
+
+ almightywelty,     !roulette 2400,        <Channel name: kaicenat>,       2024-11-07 09:13:04.364713 

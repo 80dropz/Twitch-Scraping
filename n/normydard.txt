@@ -8,3 +8,15 @@
  normydard,     DIDDY in the stands,        <Channel name: kaicenat>,       2024-11-07 02:35:35.854156 
 
  normydard,     kaicBed kaicBed kaicBed kaicBed kaicBed,        <Channel name: kaicenat>,       2024-11-07 02:42:03.157605 
+
+ normydard,     DIDDY GOT MILES,        <Channel name: kaicenat>,       2024-11-07 09:17:33.497681 
+
+ normydard,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:30:58.627559 
+
+ normydard,     is Kai breathing,        <Channel name: kaicenat>,       2024-11-07 09:31:50.437076 
+
+ normydard,     is Kai breathing?,        <Channel name: kaicenat>,       2024-11-07 09:33:07.362206 
+
+ normydard,     Kai is not breathing,        <Channel name: kaicenat>,       2024-11-07 09:34:19.581694 
+
+ normydard,     Kai needs CPR,        <Channel name: kaicenat>,       2024-11-07 09:35:53.268607 

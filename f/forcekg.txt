@@ -1,0 +1,18 @@
+
+ forcekg,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:07:06.284663 
+
+ forcekg,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:07:51.124705 
+
+ forcekg,     gg,        <Channel name: kaicenat>,       2024-11-07 09:08:00.764030 
+
+ forcekg,     WW CRIME FIGHTING,        <Channel name: kaicenat>,       2024-11-07 09:11:33.021314 
+
+ forcekg,     WW MILES,        <Channel name: kaicenat>,       2024-11-07 09:12:19.271268 
+
+ forcekg,     WELCOME BACK MILES WW,        <Channel name: kaicenat>,       2024-11-07 09:18:29.320211 
+
+ forcekg,     LOL,        <Channel name: kaicenat>,       2024-11-07 09:28:07.235357 
+
+ forcekg,     EWWW,        <Channel name: kaicenat>,       2024-11-07 09:42:42.188206 
+
+ forcekg,     LOL,        <Channel name: kaicenat>,       2024-11-07 09:43:20.931903 

@@ -1,0 +1,4 @@
+
+ codjrocc,     drops,        <Channel name: nadeshot>,       2024-11-07 09:30:56.728552 
+
+ codjrocc,     !drops,        <Channel name: nadeshot>,       2024-11-07 09:31:02.676913 

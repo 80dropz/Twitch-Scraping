@@ -1,0 +1,10 @@
+
+ kunal_sood,     !points,        <Channel name: kaicenat>,       2024-11-07 09:00:36.563267 
+
+ kunal_sood,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 09:00:55.995300 
+
+ kunal_sood,     !gamble 30,        <Channel name: kaicenat>,       2024-11-07 09:01:37.530512 
+
+ kunal_sood,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:02:38.123524 
+
+ kunal_sood,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:03:00.425354 

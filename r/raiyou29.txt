@@ -1,0 +1,10 @@
+
+ raiyou29,     !dou,        <Channel name: mongraal>,       2024-11-07 09:23:05.683575 
+
+ raiyou29,     !due,        <Channel name: mongraal>,       2024-11-07 09:23:11.946386 
+
+ raiyou29,     !trio,        <Channel name: mongraal>,       2024-11-07 09:23:22.876525 
+
+ raiyou29,     !state,        <Channel name: mongraal>,       2024-11-07 09:23:44.848585 
+
+ raiyou29,     !mousepad,        <Channel name: mongraal>,       2024-11-07 09:24:27.672769 

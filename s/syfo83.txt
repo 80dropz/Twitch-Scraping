@@ -1,0 +1,6 @@
+
+ syfo83,     !subathon,        <Channel name: kaicenat>,       2024-11-07 09:02:38.274552 
+
+ syfo83,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:05:37.322059 
+
+ syfo83,     @Nightbot huh,        <Channel name: kaicenat>,       2024-11-07 09:06:06.806356 

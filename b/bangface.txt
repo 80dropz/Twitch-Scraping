@@ -1,0 +1,8 @@
+
+ bangface,     5,        <Channel name: shadowkekw>,       2024-11-07 09:37:26.757927 
+
+ bangface,     9,        <Channel name: shadowkekw>,       2024-11-07 09:37:28.587275 
+
+ bangface,     2,        <Channel name: shadowkekw>,       2024-11-07 09:37:32.116328 
+
+ bangface,     1,        <Channel name: shadowkekw>,       2024-11-07 09:37:34.101692 

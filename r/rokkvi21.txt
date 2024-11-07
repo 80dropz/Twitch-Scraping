@@ -1,0 +1,12 @@
+
+ rokkvi21,     !Roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:03:28.237033 
+
+ rokkvi21,     !Roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:03:53.387342 
+
+ rokkvi21,     !Roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:04:17.609631 
+
+ rokkvi21,     !Roulette all,        <Channel name: kaicenat>,       2024-11-07 09:05:05.815826 
+
+ rokkvi21,     !Roulette all,        <Channel name: kaicenat>,       2024-11-07 09:05:51.665551 
+
+ rokkvi21,     !Roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:06:03.386663 

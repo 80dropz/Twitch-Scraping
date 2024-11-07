@@ -1,0 +1,6 @@
+
+ nandisession,     kaicSHOOK kaicBed kaicPrime kaicSHOOK kaicBed kaicPrime kaicSHOOK kaicBed kaicPrime,        <Channel name: kaicenat>,       2024-11-07 09:11:41.820740 
+
+ nandisession,     kaicPrime kaicPrime,        <Channel name: kaicenat>,       2024-11-07 09:11:44.737411 
+
+ nandisession,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:11:46.426017 

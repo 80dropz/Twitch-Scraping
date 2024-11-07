@@ -1,0 +1,4 @@
+
+ pedro_2280,     F,        <Channel name: kaicenat>,       2024-11-07 09:19:46.523039 
+
+ pedro_2280,     Z,        <Channel name: kaicenat>,       2024-11-07 09:19:59.758732 

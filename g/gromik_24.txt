@@ -1,0 +1,6 @@
+
+ gromik_24,     Miles take a brake,        <Channel name: kaicenat>,       2024-11-07 09:00:38.733339 
+
+ gromik_24,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:03:05.350319 
+
+ gromik_24,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 09:03:38.863032 

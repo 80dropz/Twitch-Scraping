@@ -1,0 +1,2 @@
+
+ sigma_580,     GYATT,        <Channel name: nickeh30>,       2024-11-07 09:34:30.521286 

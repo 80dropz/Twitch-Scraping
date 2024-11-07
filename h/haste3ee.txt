@@ -1,0 +1,6 @@
+
+ haste3ee,     !WATCHTIME,        <Channel name: kaicenat>,       2024-11-07 09:28:20.634164 
+
+ haste3ee,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:28:29.542632 
+
+ haste3ee,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:36:11.281411 

@@ -1,0 +1,16 @@
+
+ rldjango,     !roulette 2100,        <Channel name: kaicenat>,       2024-11-07 09:13:17.956766 
+
+ rldjango,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:13:32.457706 
+
+ rldjango,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:13:46.059647 
+
+ rldjango,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:14:08.375094 
+
+ rldjango,     !roulette 230,        <Channel name: kaicenat>,       2024-11-07 09:14:20.437099 
+
+ rldjango,     !p,        <Channel name: kaicenat>,       2024-11-07 09:16:39.857489 
+
+ rldjango,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:16:56.918797 
+
+ rldjango,     kaicSoft,        <Channel name: kaicenat>,       2024-11-07 09:17:06.656345 

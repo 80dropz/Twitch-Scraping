@@ -1,0 +1,8 @@
+
+ nimabomb12,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:09:04.820814 
+
+ nimabomb12,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:12:33.675814 
+
+ nimabomb12,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:13:14.244675 
+
+ nimabomb12,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:13:55.808587 

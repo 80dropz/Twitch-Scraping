@@ -1,0 +1,4 @@
+
+ kefirdok,     !trio,        <Channel name: clix>,       2024-11-07 09:31:32.993997 
+
+ kefirdok,     !duo,        <Channel name: clix>,       2024-11-07 09:31:39.326606 

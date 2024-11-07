@@ -1,0 +1,10 @@
+
+ nero_n99,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:02:21.457286 
+
+ nero_n99,     38 38,        <Channel name: shadowkekw>,       2024-11-07 09:03:12.053563 
+
+ nero_n99,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:06:02.441456 
+
+ nero_n99,     WW BAT9,        <Channel name: shadowkekw>,       2024-11-07 09:07:59.462661 
+
+ nero_n99,     WW WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:43.217768 

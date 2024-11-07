@@ -1,0 +1,14 @@
+
+ rotiprata6699,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:03:19.528489 
+
+ rotiprata6699,     !roulette200,        <Channel name: kaicenat>,       2024-11-07 09:03:48.345953 
+
+ rotiprata6699,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:04:13.383799 
+
+ rotiprata6699,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:04:33.935454 
+
+ rotiprata6699,     !gamble 20,        <Channel name: kaicenat>,       2024-11-07 09:05:06.619883 
+
+ rotiprata6699,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:05:42.042579 
+
+ rotiprata6699,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:05:54.478606 

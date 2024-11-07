@@ -170,3 +170,175 @@
  blue507_,     I WAS HERE 07:52 kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 02:52:46.797237 
 
  blue507_,     I WAS HERE 07:53 kaicBed,        <Channel name: kaicenat>,       2024-11-07 02:53:02.776273 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:00:34.208065 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:00:45.577851 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:01:40.829336 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:01:53.052884 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:02:28.298525 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:02:42.957433 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:02:53.279509 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:03:03.477113 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:03:33.809892 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:04:26.029533 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:05:05.958090 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:05:22.637310 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:05:45.870551 
+
+ blue507_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:05:51.164391 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:05:57.031758 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:06:36.378974 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:07:34.732501 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:08:13.910958 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:09:03.787485 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:09:46.006751 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:10:11.309207 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:10:39.712908 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:11:24.113378 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:12:19.487875 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:13:13.783145 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:13:53.928767 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:14:28.339898 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:14:45.543595 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:15:33.870685 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:16:00.110783 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:17:03.712123 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:18:26.611991 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:19:05.074745 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:19:50.441117 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:20:10.846395 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:20:34.911916 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:20:47.461933 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:21:35.690776 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:22:26.000340 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:22:45.390403 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:23:16.561827 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:24:18.077495 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:25:01.373370 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:25:11.629617 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:26:03.994586 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:26:49.287173 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:27:37.623332 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:28:18.809064 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:28:40.335681 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:29:03.444085 
+
+ blue507_,     WW,        <Channel name: kaicenat>,       2024-11-07 09:29:37.240031 
+
+ blue507_,     WW WW,        <Channel name: kaicenat>,       2024-11-07 09:29:40.948176 
+
+ blue507_,     WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 09:29:43.012487 
+
+ blue507_,     WW WW WW WW WW WW,        <Channel name: kaicenat>,       2024-11-07 09:29:45.877180 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:29:57.550287 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:30:38.020121 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:31:31.437394 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:31:57.638917 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:32:55.703470 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:33:28.014088 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:33:48.470682 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:34:30.770237 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:34:53.020366 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:35:22.461698 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:36:34.078966 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:37:11.266729 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:37:23.510029 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:38:19.229374 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:38:59.778084 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:39:54.000289 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:40:34.201947 
+
+ blue507_,     MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES,        <Channel name: kaicenat>,       2024-11-07 09:40:59.240678 
+
+ blue507_,     MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES MILES,        <Channel name: kaicenat>,       2024-11-07 09:41:04.468215 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:41:52.743814 
+
+ blue507_,     kaicScaredd,        <Channel name: kaicenat>,       2024-11-07 09:42:18.090326 
+
+ blue507_,     kaicForhead,        <Channel name: kaicenat>,       2024-11-07 09:42:34.450664 
+
+ blue507_,     cmonBruh,        <Channel name: kaicenat>,       2024-11-07 09:42:49.480960 
+
+ blue507_,     cmonBruh cmonBruh cmonBruh cmonBruh,        <Channel name: kaicenat>,       2024-11-07 09:42:52.866674 
+
+ blue507_,     cmonBruh cmonBruh cmonBruh,        <Channel name: kaicenat>,       2024-11-07 09:42:54.242086 
+
+ blue507_,     cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh cmonBruh,        <Channel name: kaicenat>,       2024-11-07 09:42:56.428207 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:43:11.485060 
+
+ blue507_,     EWWW,        <Channel name: kaicenat>,       2024-11-07 09:43:18.507444 
+
+ blue507_,     EWWW EWWW EWWW EWWW EWWW EWWW EWWW EWWW,        <Channel name: kaicenat>,       2024-11-07 09:43:21.039028 
+
+ blue507_,     kaicSHOOK,        <Channel name: kaicenat>,       2024-11-07 09:43:36.979420 
+
+ blue507_,     kaicBed,        <Channel name: kaicenat>,       2024-11-07 09:43:48.247899 
+
+ blue507_,     kaicRAT,        <Channel name: kaicenat>,       2024-11-07 09:44:09.404920 

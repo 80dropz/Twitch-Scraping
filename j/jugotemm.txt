@@ -1,0 +1,6 @@
+
+ jugotemm,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:02:53.435051 
+
+ jugotemm,     !gamble 200,        <Channel name: kaicenat>,       2024-11-07 09:03:06.688424 
+
+ jugotemm,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:06:23.263762 

@@ -1,0 +1,4 @@
+
+ agentsmithjr,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:26:54.076779 
+
+ agentsmithjr,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:26:58.704095 

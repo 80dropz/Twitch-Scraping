@@ -1,0 +1,8 @@
+
+ big_banana55,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:31:04.466034 
+
+ big_banana55,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:31:22.296089 
+
+ big_banana55,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:31:42.214829 
+
+ big_banana55,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:31:49.717990 

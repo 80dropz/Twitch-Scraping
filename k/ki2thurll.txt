@@ -1,0 +1,30 @@
+
+ ki2thurll,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:08:02.240255 
+
+ ki2thurll,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:08:18.382368 
+
+ ki2thurll,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:08:58.013885 
+
+ ki2thurll,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:09:12.195875 
+
+ ki2thurll,     !followage,        <Channel name: kaicenat>,       2024-11-07 09:09:41.556563 
+
+ ki2thurll,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:10:52.456146 
+
+ ki2thurll,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 09:11:12.953036 
+
+ ki2thurll,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:11:27.524963 
+
+ ki2thurll,     !roulette 22853,        <Channel name: kaicenat>,       2024-11-07 09:11:47.823775 
+
+ ki2thurll,     !roulette 22852,        <Channel name: kaicenat>,       2024-11-07 09:12:20.639686 
+
+ ki2thurll,     !roulette 22853,        <Channel name: kaicenat>,       2024-11-07 09:12:29.153391 
+
+ ki2thurll,     !roulette 22852,        <Channel name: kaicenat>,       2024-11-07 09:12:42.599115 
+
+ ki2thurll,     !roulette 10000,        <Channel name: kaicenat>,       2024-11-07 09:12:59.840062 
+
+ ki2thurll,     5000,        <Channel name: kaicenat>,       2024-11-07 09:13:10.858596 
+
+ ki2thurll,     !roulette 5000,        <Channel name: kaicenat>,       2024-11-07 09:13:16.847091 

@@ -1,0 +1,20 @@
+
+ dt1lucki,     W,        <Channel name: mongraal>,       2024-11-07 09:35:55.671437 
+
+ dt1lucki,     wwwww,        <Channel name: mongraal>,       2024-11-07 09:35:56.677393 
+
+ dt1lucki,     www,        <Channel name: mongraal>,       2024-11-07 09:35:58.030511 
+
+ dt1lucki,     wwwww,        <Channel name: mongraal>,       2024-11-07 09:35:58.981414 
+
+ dt1lucki,     wwwwwww,        <Channel name: mongraal>,       2024-11-07 09:36:00.033021 
+
+ dt1lucki,     wwwwww,        <Channel name: mongraal>,       2024-11-07 09:36:00.950520 
+
+ dt1lucki,     wwwwwww,        <Channel name: mongraal>,       2024-11-07 09:36:02.401248 
+
+ dt1lucki,     wwwwwwww,        <Channel name: mongraal>,       2024-11-07 09:36:03.599571 
+
+ dt1lucki,     ww,        <Channel name: mongraal>,       2024-11-07 09:36:04.859138 
+
+ dt1lucki,     W roll call,        <Channel name: mongraal>,       2024-11-07 09:37:46.226844 

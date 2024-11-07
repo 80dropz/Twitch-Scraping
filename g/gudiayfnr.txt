@@ -1,0 +1,12 @@
+
+ gudiayfnr,     rt,        <Channel name: clix>,       2024-11-07 09:26:54.231586 
+
+ gudiayfnr,     rtrtrt,        <Channel name: clix>,       2024-11-07 09:26:55.437276 
+
+ gudiayfnr,     rtrtrtrt,        <Channel name: clix>,       2024-11-07 09:26:56.612534 
+
+ gudiayfnr,     rtrtrtrtrt,        <Channel name: clix>,       2024-11-07 09:26:58.255383 
+
+ gudiayfnr,     rtrtrt,        <Channel name: clix>,       2024-11-07 09:26:59.277485 
+
+ gudiayfnr,     rtrtrtrt,        <Channel name: clix>,       2024-11-07 09:27:00.579915 

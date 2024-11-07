@@ -1,0 +1,8 @@
+
+ shaquelleomeal,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:24:49.730351 
+
+ shaquelleomeal,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:26:33.444152 
+
+ shaquelleomeal,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:27:28.480344 
+
+ shaquelleomeal,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:38:44.490756 

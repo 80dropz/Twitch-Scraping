@@ -1,0 +1,4 @@
+
+ s4ksu,     !time,        <Channel name: mongraal>,       2024-11-07 09:41:57.843584 
+
+ s4ksu,     !prime,        <Channel name: mongraal>,       2024-11-07 09:43:39.337297 

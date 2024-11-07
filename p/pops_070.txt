@@ -1,0 +1,8 @@
+
+ pops_070,     W miles,        <Channel name: kaicenat>,       2024-11-07 09:27:07.940700 
+
+ pops_070,     W Miles,        <Channel name: kaicenat>,       2024-11-07 09:27:22.254331 
+
+ pops_070,     330?,        <Channel name: kaicenat>,       2024-11-07 09:28:10.550300 
+
+ pops_070,     330,        <Channel name: kaicenat>,       2024-11-07 09:28:23.820464 

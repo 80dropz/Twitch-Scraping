@@ -1,0 +1,6 @@
+
+ zipxxiii,     !res,        <Channel name: mrlust>,       2024-11-07 09:40:33.578939 
+
+ zipxxiii,     @MRLUST tell res or i'll pop 10 percs,        <Channel name: mrlust>,       2024-11-07 09:40:47.512454 
+
+ zipxxiii,     !crosshair,        <Channel name: mrlust>,       2024-11-07 09:42:01.504620 

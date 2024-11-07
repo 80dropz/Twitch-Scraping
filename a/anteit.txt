@@ -1,0 +1,4 @@
+
+ anteit,     42,        <Channel name: shadowkekw>,       2024-11-07 09:28:40.406310 
+
+ anteit,     LL,        <Channel name: shadowkekw>,       2024-11-07 09:41:51.725644 

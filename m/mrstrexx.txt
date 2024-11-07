@@ -1,0 +1,4 @@
+
+ mrstrexx,     hello do you know how to stop double clicking until now I had auto confirm edit turned off so I was confirming but I feel it would be better to switch to auto confim but I'm a moron and I keep clicking twice,        <Channel name: mongraal>,       2024-11-07 09:37:57.615283 
+
+ mrstrexx,     when you use Windowed Fullscreen don't you have input deelay ?,        <Channel name: mongraal>,       2024-11-07 09:40:02.231820 

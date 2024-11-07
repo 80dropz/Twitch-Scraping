@@ -1,0 +1,4 @@
+
+ 7dalla,     !gamble 400,        <Channel name: kaicenat>,       2024-11-07 09:02:57.462372 
+
+ 7dalla,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:03:25.872561 

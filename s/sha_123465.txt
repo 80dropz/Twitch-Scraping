@@ -1,0 +1,4 @@
+
+ sha_123465,     kaicENAT,        <Channel name: kaicenat>,       2024-11-07 09:05:05.626334 
+
+ sha_123465,     kaicMug kaicCuff,        <Channel name: kaicenat>,       2024-11-07 09:05:51.008178 

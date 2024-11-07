@@ -1,0 +1,2 @@
+
+ diplexsy,     fwatt,        <Channel name: swagg>,       2024-11-07 09:10:29.305941 

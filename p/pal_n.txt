@@ -1,0 +1,4 @@
+
+ pal_n,     spottemRock spottemRock spottemRock,        <Channel name: kaicenat>,       2024-11-07 09:38:18.676615 
+
+ pal_n,     w,        <Channel name: kaicenat>,       2024-11-07 09:38:54.097531 

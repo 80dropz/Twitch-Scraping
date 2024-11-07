@@ -1,2 +1,18 @@
 
  beeker_34,     kaicLovinit kaicCaught4K kaicSTURDY kaicEZ,        <Channel name: kaicenat>,       2024-11-07 01:23:44.452170 
+
+ beeker_34,     kaicPray kaicPray,        <Channel name: kaicenat>,       2024-11-07 09:00:28.413781 
+
+ beeker_34,     kaicEZ kaicEZ,        <Channel name: kaicenat>,       2024-11-07 09:00:33.653469 
+
+ beeker_34,     kaicMug kaicMug,        <Channel name: kaicenat>,       2024-11-07 09:00:51.494930 
+
+ beeker_34,     kaicCuff kaicMug kaicCuff,        <Channel name: kaicenat>,       2024-11-07 09:01:09.321380 
+
+ beeker_34,     kaicFED kaicMug kaicFED,        <Channel name: kaicenat>,       2024-11-07 09:01:16.374676 
+
+ beeker_34,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:02:37.281068 
+
+ beeker_34,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:02:50.608569 
+
+ beeker_34,     !gamble 1,        <Channel name: kaicenat>,       2024-11-07 09:03:11.792252 

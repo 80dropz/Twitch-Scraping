@@ -1,0 +1,6 @@
+
+ dino_pejic,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:08:48.984841 
+
+ dino_pejic,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:09:08.904932 
+
+ dino_pejic,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:09:28.236705 

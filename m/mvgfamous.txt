@@ -4,3 +4,7 @@
  mvgfamous,     QUIT STALLING,        <Channel name: kaicenat>,       2024-11-07 01:42:09.724014 
 
  mvgfamous,     we will,        <Channel name: kaicenat>,       2024-11-07 01:42:47.381347 
+
+ mvgfamous,     how have his night terrors been? pretty tame so far?,        <Channel name: nadeshot>,       2024-11-07 09:17:03.634065 
+
+ mvgfamous,     damn that must suck to have,        <Channel name: nadeshot>,       2024-11-07 09:17:48.822649 

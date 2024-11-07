@@ -1,0 +1,10 @@
+
+ wallygod,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:06:32.895879 
+
+ wallygod,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:06:50.493635 
+
+ wallygod,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:07:15.153210 
+
+ wallygod,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:07:23.686101 
+
+ wallygod,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:07:32.650341 

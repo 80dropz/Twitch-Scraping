@@ -1,0 +1,6 @@
+
+ lamont_locust,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:30:58.198707 
+
+ lamont_locust,     i shoot ropes,        <Channel name: kaicenat>,       2024-11-07 09:40:44.800538 
+
+ lamont_locust,     MF NEED A BREATH STRIP,        <Channel name: kaicenat>,       2024-11-07 09:42:57.729375 

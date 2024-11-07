@@ -1,0 +1,2 @@
+
+ etse7,     !sens,        <Channel name: mongraal>,       2024-11-07 09:19:28.008816 

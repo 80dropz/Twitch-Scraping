@@ -1,0 +1,16 @@
+
+ sorby1437,     Ddd,        <Channel name: kaicenat>,       2024-11-07 09:26:07.009189 
+
+ sorby1437,     !points,        <Channel name: kaicenat>,       2024-11-07 09:26:30.798683 
+
+ sorby1437,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:26:34.611989 
+
+ sorby1437,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:26:37.987542 
+
+ sorby1437,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:26:44.153728 
+
+ sorby1437,     !roulette 424,        <Channel name: kaicenat>,       2024-11-07 09:26:46.626865 
+
+ sorby1437,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:26:51.831390 
+
+ sorby1437,     :(,        <Channel name: kaicenat>,       2024-11-07 09:26:54.563261 

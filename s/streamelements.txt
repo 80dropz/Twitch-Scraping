@@ -748,3 +748,147 @@
  streamelements,     LUL,        <Channel name: tonton>,       2024-11-07 02:53:08.422241 
 
  streamelements,     ACTION || NO USES EMOJIS DE SUB SI NO CUENTAS CON UNA ||Al no tener una suscripción y usar cualquier emoji, este aparecerán en texto. Evita que se te esté borrando el mensaje o se te sancione con algo mayor. Canjea un emoji para desbloquearlo o suscríbete, así apoyas a Aldo BlankiesMizkif,        <Channel name: aldo_geo>,       2024-11-07 02:53:36.440164 
+
+ streamelements,     My sens is too powerful to share | gebskiy,        <Channel name: mrlust>,       2024-11-07 09:00:32.732305 
+
+ streamelements,     I'm not color blind are you okay?,        <Channel name: mrlust>,       2024-11-07 09:00:39.201247 
+
+ streamelements,     ACTION kukke_r lost 1 Kapp Coin in roulette and now has 44619 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:00:50.546677 
+
+ streamelements,     I'm not color blind are you okay?,        <Channel name: mrlust>,       2024-11-07 09:00:56.713145 
+
+ streamelements,     ACTION kukke_r won 3 Kapp Coin in roulette and now has 44622 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:00:57.596414 
+
+ streamelements,     ACTION Ward90s went all in and lost every single one of their 402 Kapp Coin LUL,        <Channel name: robcdee>,       2024-11-07 09:02:02.320350 
+
+ streamelements,     ACTION @trashxpanda__ you got pokeLAWL | pokeU  | pokeLAWL and lost your 660 doinks pokeADD,        <Channel name: pokelawls>,       2024-11-07 09:02:17.939859 
+
+ streamelements,     ACTION PogChamp a Raffle has begun for 1000 doinks pokeU it will end in 20 Seconds. Enter by typing "!join" pokeFAT,        <Channel name: pokelawls>,       2024-11-07 09:05:25.400690 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 15 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:05:30.508114 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 10 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:05:35.649475 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 5 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:05:40.645993 
+
+ streamelements,     @300JSpandau, 300jspandau has been following mrlust for  1 year 4 months 27 days 1 hour,        <Channel name: mrlust>,       2024-11-07 09:05:41.180814 
+
+ streamelements,     ACTION zephid_ won 200 Kapp Coin in roulette and now has 61347 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:05:44.157635 
+
+ streamelements,     ACTION The Raffle has ended and caristan won 1000 doinks pokeU,        <Channel name: pokelawls>,       2024-11-07 09:05:45.714360 
+
+ streamelements,     300JSpandau has spent  1 day 20 hours watching mrlust,        <Channel name: mrlust>,       2024-11-07 09:06:11.114136 
+
+ streamelements,     margoose8427 has spent  1 hour 30 mins watching mrlust,        <Channel name: mrlust>,       2024-11-07 09:06:20.635273 
+
+ streamelements,     ywsaa3000 has spent  40 mins watching mrlust,        <Channel name: mrlust>,       2024-11-07 09:07:50.075179 
+
+ streamelements,     LelleBaby has spent  3 days 20 hours watching mrlust,        <Channel name: mrlust>,       2024-11-07 09:08:02.082021 
+
+ streamelements,     ddeddg has spent  10 hours watching mrlust,        <Channel name: mrlust>,       2024-11-07 09:08:05.286816 
+
+ streamelements,     Secret | crykz09,        <Channel name: mrlust>,       2024-11-07 09:08:10.533868 
+
+ streamelements,     My res is too good to share,        <Channel name: mrlust>,       2024-11-07 09:08:17.690024 
+
+ streamelements,     Thank you for following erica12345idk l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:08:33.488156 
+
+ streamelements,     Thank you for following danmoeml20 l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:08:47.242579 
+
+ streamelements,     Thank you for following ZickyKane l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:09:29.528138 
+
+ streamelements,     Joined https://x.com/exdhq go follow them | Bacon185,        <Channel name: mrlust>,       2024-11-07 09:09:49.867584 
+
+ streamelements,     Secret | reis_fnx,        <Channel name: mrlust>,       2024-11-07 09:09:59.415129 
+
+ streamelements,     nightwaddie was last seen  1 hour 1 min ago.,        <Channel name: robcdee>,       2024-11-07 09:10:32.416375 
+
+ streamelements,     ACTION kukke_r lost 1 Kapp Coin in roulette and now has 44621 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:13:05.366855 
+
+ streamelements,     ACTION kukke_r won 4 Kapp Coin in roulette and now has 44625 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:13:13.294892 
+
+ streamelements,     @nickcrdbll You can find a list of all Commands here https://StreamElements.com/ricci-8c119/commands,        <Channel name: ricci>,       2024-11-07 09:14:17.445702 
+
+ streamelements,     If you're enjoying the stream, consider following so you won't miss the next time I go live! Weekly schedules of when I go live will be posted on Twitter and Discord. Socials can be found with the !socials command!,        <Channel name: megalodonvt>,       2024-11-07 09:14:19.904300 
+
+ streamelements,     NASA PC you can't afford it | loizensss,        <Channel name: mrlust>,       2024-11-07 09:18:19.674364 
+
+ streamelements,     NASA PC you can't afford it | loizensss,        <Channel name: mrlust>,       2024-11-07 09:18:56.729500 
+
+ streamelements,     I'm not color blind are you okay?,        <Channel name: mrlust>,       2024-11-07 09:21:17.428330 
+
+ streamelements,     I have a plush coming soon! Get your hands on my shorkie mascot! Pre-orders start November 8th, 2024! https://youtooz.com/products/megalodonvt-plush-9-inch,        <Channel name: megalodonvt>,       2024-11-07 09:21:19.891970 
+
+ streamelements,     Secret DPI,        <Channel name: mrlust>,       2024-11-07 09:21:42.032525 
+
+ streamelements,     Officially sponsored by Starforge Systems - The Best PCs in the Universe. Get yours today!! LUBBERS https://starforgesystems.pxf.io/g1dbZv,        <Channel name: megalodonvt>,       2024-11-07 09:21:49.790604 
+
+ streamelements,     My res is too good to share,        <Channel name: mrlust>,       2024-11-07 09:22:25.075075 
+
+ streamelements,     Thank you for following sory_im_noob_lux l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:25:40.125903 
+
+ streamelements,     Joined https://x.com/exdhq go follow them | KAMafibuka,        <Channel name: mrlust>,       2024-11-07 09:25:44.346695 
+
+ streamelements,     Joined https://x.com/exdhq go follow them | dxmii222,        <Channel name: mrlust>,       2024-11-07 09:27:11.170936 
+
+ streamelements,     ACTION kukke_r won 1 Kapp Coin in roulette and now has 44626 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:27:32.025972 
+
+ streamelements,     Thank you for following pyro_ryuzimaki l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:28:33.826473 
+
+ streamelements,     Thank you for following abbeyblissi l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:28:44.173397 
+
+ streamelements,     If you're enjoying the stream, consider following so you won't miss the next time I go live! Weekly schedules of when I go live will be posted on Twitter and Discord. Socials can be found with the !socials command!,        <Channel name: megalodonvt>,       2024-11-07 09:29:19.826671 
+
+ streamelements,     Thank you for following geralyallen38 l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:32:08.189473 
+
+ streamelements,     Thank you for following elusivomega l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:32:10.653098 
+
+ streamelements,     Secret | KAMafibuka,        <Channel name: mrlust>,       2024-11-07 09:32:48.192174 
+
+ streamelements,     My res is too good to share,        <Channel name: mrlust>,       2024-11-07 09:34:56.487748 
+
+ streamelements,     ACTION PogChamp a Raffle has begun for 1000 doinks pokeU it will end in 20 Seconds. Enter by typing "!join" pokeFAT,        <Channel name: pokelawls>,       2024-11-07 09:35:24.945927 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 15 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:35:30.162935 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 10 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:35:35.085533 
+
+ streamelements,     ACTION The Raffle for 1000 doinks will end in 5 Seconds. Enter by typing "!join" pokeSMOKE,        <Channel name: pokelawls>,       2024-11-07 09:35:40.114951 
+
+ streamelements,     ACTION The Raffle has ended and kai1g won 1000 doinks pokeU,        <Channel name: pokelawls>,       2024-11-07 09:35:45.367339 
+
+ streamelements,     Thank you for following TheeCryingKingsVT l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:36:04.932765 
+
+ streamelements,     My res is too good to share,        <Channel name: mrlust>,       2024-11-07 09:36:33.963825 
+
+ streamelements,     Thank you for following lol_sleepey l0megaPog,        <Channel name: megalodonvt>,       2024-11-07 09:38:07.027902 
+
+ streamelements,     erras23 has spent  18 days 19 hours watching ricci,        <Channel name: ricci>,       2024-11-07 09:39:33.625607 
+
+ streamelements,     Kane_on_Insulin has spent  2 days watching ricci,        <Channel name: ricci>,       2024-11-07 09:40:02.098774 
+
+ streamelements,     xMedicalDuffy11 has spent  10 mins watching ricci,        <Channel name: ricci>,       2024-11-07 09:40:12.506655 
+
+ streamelements,     My res is too good to share,        <Channel name: mrlust>,       2024-11-07 09:40:33.852887 
+
+ streamelements,     korthy8590 just raided the channel with 12 viewers PogChamp,        <Channel name: cyplexval>,       2024-11-07 09:41:02.584518 
+
+ streamelements,     ACTION gazamania001 lost 100 Kapp Coin in roulette and now has 230 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:41:16.922467 
+
+ streamelements,     ACTION gazamania001 went all in and won 230 Kapp Coin they now have 460 Kapp Coin!,        <Channel name: robcdee>,       2024-11-07 09:41:26.448096 
+
+ streamelements,     Tonton est bien debout, en effet, il utilise un bureau mécanique qui s'adapte pour lui permettre de jouer debout :)  Il s'agit du modèle Bekant d'Ikea.,        <Channel name: tonton>,       2024-11-07 09:41:37.128891 
+
+ streamelements,     johnm2011 has spent  2 days 10 hours watching ricci,        <Channel name: ricci>,       2024-11-07 09:41:41.985670 
+
+ streamelements,     KooterShots has spent  18 days 8 hours watching adapt,        <Channel name: adapt>,       2024-11-07 09:43:16.496157 
+
+ streamelements,     @KooterShots KooterShots has 2359000 points and is rank 21/192195 on the leaderboard.,        <Channel name: adapt>,       2024-11-07 09:43:34.827148 
+
+ streamelements,     @Zher0Respawned Zher0Respawned, you have 1106172 Kapp Coin.,        <Channel name: robcdee>,       2024-11-07 09:43:35.246192 
+
+ streamelements,     ACTION PogChamp a Multi-Raffle has begun for 1000 Kapp Coin PogChamp it will end in 60 Seconds. Enter by typing "!join" OpieOP,        <Channel name: robcdee>,       2024-11-07 09:43:39.659560 
+
+ streamelements,     ACTION The Multi-Raffle for 1000 Kapp Coin will end in 45 Seconds. Enter by typing "!join" FeelsGoodMan,        <Channel name: robcdee>,       2024-11-07 09:43:54.459550 
+
+ streamelements,     ACTION The Multi-Raffle for 1000 Kapp Coin will end in 30 Seconds. Enter by typing "!join" FeelsGoodMan,        <Channel name: robcdee>,       2024-11-07 09:44:09.552299 

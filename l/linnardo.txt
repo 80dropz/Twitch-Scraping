@@ -1,0 +1,10 @@
+
+ linnardo,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:25.057607 
+
+ linnardo,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:04:20.333167 
+
+ linnardo,     J,        <Channel name: shadowkekw>,       2024-11-07 09:06:37.844015 
+
+ linnardo,     O,        <Channel name: shadowkekw>,       2024-11-07 09:06:39.599653 
+
+ linnardo,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:08:33.654606 

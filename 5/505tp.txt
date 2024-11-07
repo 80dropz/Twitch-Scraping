@@ -1,0 +1,8 @@
+
+ 505tp,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:02:36.403528 
+
+ 505tp,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:05.506717 
+
+ 505tp,     O,        <Channel name: shadowkekw>,       2024-11-07 09:03:42.033402 
+
+ 505tp,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:04:17.980061 

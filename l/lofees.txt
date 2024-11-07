@@ -1,0 +1,4 @@
+
+ lofees,     wsg chat,        <Channel name: kaicenat>,       2024-11-07 09:02:15.825996 
+
+ lofees,     !time,        <Channel name: kaicenat>,       2024-11-07 09:15:40.209313 

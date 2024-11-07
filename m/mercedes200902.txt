@@ -1,0 +1,6 @@
+
+ mercedes200902,     e,        <Channel name: mongraal>,       2024-11-07 09:37:28.392515 
+
+ mercedes200902,     subs!,        <Channel name: mongraal>,       2024-11-07 09:41:34.660720 
+
+ mercedes200902,     !subs,        <Channel name: mongraal>,       2024-11-07 09:41:42.654817 

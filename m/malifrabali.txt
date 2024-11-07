@@ -1,0 +1,14 @@
+
+ malifrabali,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:16:23.989817 
+
+ malifrabali,     !roulette 3000,        <Channel name: kaicenat>,       2024-11-07 09:17:17.648803 
+
+ malifrabali,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:18:02.921032 
+
+ malifrabali,     !log @malifrabali,        <Channel name: kaicenat>,       2024-11-07 09:19:13.815583 
+
+ malifrabali,     ahhahahha,        <Channel name: kaicenat>,       2024-11-07 09:19:36.834738 
+
+ malifrabali,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:19:53.508268 
+
+ malifrabali,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:21:04.491316 

@@ -1,0 +1,14 @@
+
+ silent_snipperzz,     !points,        <Channel name: kaicenat>,       2024-11-07 09:20:27.191190 
+
+ silent_snipperzz,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:20:46.634172 
+
+ silent_snipperzz,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:20:57.445604 
+
+ silent_snipperzz,     !points,        <Channel name: kaicenat>,       2024-11-07 09:21:12.327931 
+
+ silent_snipperzz,     w miles,        <Channel name: kaicenat>,       2024-11-07 09:21:39.949315 
+
+ silent_snipperzz,     !points,        <Channel name: kaicenat>,       2024-11-07 09:22:01.771835 
+
+ silent_snipperzz,     !time,        <Channel name: kaicenat>,       2024-11-07 09:34:08.942354 

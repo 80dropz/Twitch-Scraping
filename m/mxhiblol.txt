@@ -1,0 +1,6 @@
+
+ mxhiblol,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 09:25:52.583524 
+
+ mxhiblol,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:26:04.064621 
+
+ mxhiblol,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:26:20.046060 

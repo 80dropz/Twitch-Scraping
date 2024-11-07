@@ -1,0 +1,8 @@
+
+ g0yler,     !gamble 1,        <Channel name: kaicenat>,       2024-11-07 09:00:47.041575 
+
+ g0yler,     !gamble 10,        <Channel name: kaicenat>,       2024-11-07 09:01:20.281300 
+
+ g0yler,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:02:07.330474 
+
+ g0yler,     $100k for the month is crazy work to do this,        <Channel name: kaicenat>,       2024-11-07 09:06:57.763625 

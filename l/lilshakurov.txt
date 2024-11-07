@@ -1,0 +1,22 @@
+
+ lilshakurov,     !roulette 610,        <Channel name: kaicenat>,       2024-11-07 09:16:10.437503 
+
+ lilshakurov,     !gamble 10,        <Channel name: kaicenat>,       2024-11-07 09:16:28.798825 
+
+ lilshakurov,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:17:17.148837 
+
+ lilshakurov,     he went poo,        <Channel name: kaicenat>,       2024-11-07 09:17:52.475095 
+
+ lilshakurov,     ya v ahue,        <Channel name: kaicenat>,       2024-11-07 09:20:01.384028 
+
+ lilshakurov,     !points,        <Channel name: kaicenat>,       2024-11-07 09:20:35.323453 
+
+ lilshakurov,     !roulette 19,        <Channel name: kaicenat>,       2024-11-07 09:20:41.446415 
+
+ lilshakurov,     !roulette 38,        <Channel name: kaicenat>,       2024-11-07 09:20:50.039152 
+
+ lilshakurov,     ww miles,        <Channel name: kaicenat>,       2024-11-07 09:25:53.724815 
+
+ lilshakurov,     !points,        <Channel name: kaicenat>,       2024-11-07 09:32:07.096842 
+
+ lilshakurov,     free miles,        <Channel name: kaicenat>,       2024-11-07 09:40:48.693927 

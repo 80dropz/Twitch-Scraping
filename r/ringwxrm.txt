@@ -1,0 +1,12 @@
+
+ ringwxrm,     !points,        <Channel name: kaicenat>,       2024-11-07 09:07:56.084628 
+
+ ringwxrm,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:08:04.763404 
+
+ ringwxrm,     !roulette 400,        <Channel name: kaicenat>,       2024-11-07 09:08:29.140751 
+
+ ringwxrm,     !points,        <Channel name: kaicenat>,       2024-11-07 09:09:42.420157 
+
+ ringwxrm,     !points,        <Channel name: kaicenat>,       2024-11-07 09:10:59.376188 
+
+ ringwxrm,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:11:09.197109 

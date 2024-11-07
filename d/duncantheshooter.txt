@@ -1,0 +1,6 @@
+
+ duncantheshooter,     freestyle fr,        <Channel name: kaicenat>,       2024-11-07 09:00:47.382245 
+
+ duncantheshooter,     freestyle,        <Channel name: kaicenat>,       2024-11-07 09:00:53.107468 
+
+ duncantheshooter,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:02:52.452580 

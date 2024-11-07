@@ -1,0 +1,28 @@
+
+ g0at_tingz,     !points,        <Channel name: kaicenat>,       2024-11-07 09:07:36.259354 
+
+ g0at_tingz,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:08:26.868584 
+
+ g0at_tingz,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:12:26.983978 
+
+ g0at_tingz,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:12:56.395812 
+
+ g0at_tingz,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:13:30.722097 
+
+ g0at_tingz,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:13:43.381213 
+
+ g0at_tingz,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:14:03.951125 
+
+ g0at_tingz,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:14:19.331586 
+
+ g0at_tingz,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:14:40.634772 
+
+ g0at_tingz,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:15:00.174690 
+
+ g0at_tingz,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:15:14.901124 
+
+ g0at_tingz,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:15:26.987529 
+
+ g0at_tingz,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:15:46.671926 
+
+ g0at_tingz,     !gamble 1,        <Channel name: kaicenat>,       2024-11-07 09:16:52.530627 

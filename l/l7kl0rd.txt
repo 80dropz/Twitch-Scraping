@@ -1,0 +1,20 @@
+
+ l7kl0rd,     1,        <Channel name: shadowkekw>,       2024-11-07 09:12:49.866047 
+
+ l7kl0rd,     2,        <Channel name: shadowkekw>,       2024-11-07 09:12:52.268526 
+
+ l7kl0rd,     3,        <Channel name: shadowkekw>,       2024-11-07 09:12:54.293665 
+
+ l7kl0rd,     4,        <Channel name: shadowkekw>,       2024-11-07 09:12:57.298433 
+
+ l7kl0rd,     5,        <Channel name: shadowkekw>,       2024-11-07 09:13:00.932377 
+
+ l7kl0rd,     6,        <Channel name: shadowkekw>,       2024-11-07 09:13:03.841644 
+
+ l7kl0rd,     7,        <Channel name: shadowkekw>,       2024-11-07 09:13:06.451710 
+
+ l7kl0rd,     8,        <Channel name: shadowkekw>,       2024-11-07 09:13:09.676232 
+
+ l7kl0rd,     9,        <Channel name: shadowkekw>,       2024-11-07 09:13:12.692024 
+
+ l7kl0rd,     10,        <Channel name: shadowkekw>,       2024-11-07 09:13:15.249775 

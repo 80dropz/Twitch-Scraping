@@ -1,0 +1,8 @@
+
+ undramatic,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:07:57.179943 
+
+ undramatic,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:08:26.020590 
+
+ undramatic,     !points,        <Channel name: kaicenat>,       2024-11-07 09:08:40.813645 
+
+ undramatic,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:09:04.103944 

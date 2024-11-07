@@ -1,0 +1,38 @@
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:03:10.309504 
+
+ aqzwsxedcrvftgbyhnujmi,     !points,        <Channel name: kaicenat>,       2024-11-07 09:03:27.083412 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:03:38.560273 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:03:50.161406 
+
+ aqzwsxedcrvftgbyhnujmi,     !gamble 30,        <Channel name: kaicenat>,       2024-11-07 09:04:12.243426 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:04:33.477460 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:05:14.514487 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:05:24.555338 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:05:41.018471 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:05:57.188186 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:06:08.224591 
+
+ aqzwsxedcrvftgbyhnujmi,     !gamble 25,        <Channel name: kaicenat>,       2024-11-07 09:06:22.695406 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:06:41.752236 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 36,        <Channel name: kaicenat>,       2024-11-07 09:06:56.879792 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:07:44.788150 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 42,        <Channel name: kaicenat>,       2024-11-07 09:07:55.117499 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:08:16.888925 
+
+ aqzwsxedcrvftgbyhnujmi,     !roulette 42,        <Channel name: kaicenat>,       2024-11-07 09:08:34.218735 
+
+ aqzwsxedcrvftgbyhnujmi,     !points,        <Channel name: kaicenat>,       2024-11-07 09:08:53.137738 

@@ -1,0 +1,8 @@
+
+ crykz09,     !crosshair,        <Channel name: mrlust>,       2024-11-07 09:06:58.968714 
+
+ crykz09,     !setting,        <Channel name: mrlust>,       2024-11-07 09:08:03.128895 
+
+ crykz09,     !settings,        <Channel name: mrlust>,       2024-11-07 09:08:10.205487 
+
+ crykz09,     !res,        <Channel name: mrlust>,       2024-11-07 09:08:17.515698 

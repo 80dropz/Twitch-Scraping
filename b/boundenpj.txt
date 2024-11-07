@@ -1,0 +1,6 @@
+
+ boundenpj,     !time,        <Channel name: kaicenat>,       2024-11-07 09:36:38.012363 
+
+ boundenpj,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 09:38:27.917409 
+
+ boundenpj,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:40:34.050517 

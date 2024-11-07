@@ -1,2 +1,36 @@
 
  tr3lly2k,     bruh,        <Channel name: kaicenat>,       2024-11-07 02:52:38.279420 
+
+ tr3lly2k,     !points,        <Channel name: kaicenat>,       2024-11-07 09:26:25.996141 
+
+ tr3lly2k,     !roulette 18,        <Channel name: kaicenat>,       2024-11-07 09:26:40.240458 
+
+ tr3lly2k,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:27:00.249730 
+
+ tr3lly2k,     !roulette 250,        <Channel name: kaicenat>,       2024-11-07 09:27:28.039396 
+
+ tr3lly2k,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:28:03.020961 
+
+ tr3lly2k,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:28:28.856139 
+
+ tr3lly2k,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:30:33.519195 
+
+ tr3lly2k,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:30:57.773669 
+
+ tr3lly2k,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:31:15.808468 
+
+ tr3lly2k,     !roulette 700,        <Channel name: kaicenat>,       2024-11-07 09:31:42.520828 
+
+ tr3lly2k,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:32:05.196556 
+
+ tr3lly2k,     !roulette 13,        <Channel name: kaicenat>,       2024-11-07 09:32:23.268719 
+
+ tr3lly2k,     !roulette 26,        <Channel name: kaicenat>,       2024-11-07 09:32:42.870112 
+
+ tr3lly2k,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:32:57.478720 
+
+ tr3lly2k,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:33:14.738475 
+
+ tr3lly2k,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:33:39.910531 
+
+ tr3lly2k,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:34:02.753673 

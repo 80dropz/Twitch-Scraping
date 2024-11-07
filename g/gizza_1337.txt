@@ -1,0 +1,12 @@
+
+ gizza_1337,     42,        <Channel name: shadowkekw>,       2024-11-07 09:03:41.900042 
+
+ gizza_1337,     4224,        <Channel name: shadowkekw>,       2024-11-07 09:03:44.743455 
+
+ gizza_1337,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:49.183715 
+
+ gizza_1337,     42,        <Channel name: shadowkekw>,       2024-11-07 09:03:53.126120 
+
+ gizza_1337,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:55.936616 
+
+ gizza_1337,     42,        <Channel name: shadowkekw>,       2024-11-07 09:03:59.402551 

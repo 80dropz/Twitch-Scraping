@@ -1,0 +1,12 @@
+
+ txdie,     !mouse,        <Channel name: mongraal>,       2024-11-07 09:23:29.994234 
+
+ txdie,     what does he use for his thing under the webcam,        <Channel name: mongraal>,       2024-11-07 09:25:00.375314 
+
+ txdie,     !cmds,        <Channel name: mongraal>,       2024-11-07 09:25:23.096428 
+
+ txdie,     !commands,        <Channel name: mongraal>,       2024-11-07 09:25:29.950816 
+
+ txdie,     what overlay / theme does mong use,        <Channel name: mongraal>,       2024-11-07 09:28:21.305681 
+
+ txdie,     what overlay theme doesa he use,        <Channel name: mongraal>,       2024-11-07 09:29:24.677853 

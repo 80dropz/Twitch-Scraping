@@ -1,0 +1,24 @@
+
+ caseohjunior,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:09:00.602478 
+
+ caseohjunior,     !points,        <Channel name: kaicenat>,       2024-11-07 09:09:25.517129 
+
+ caseohjunior,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:10:07.533538 
+
+ caseohjunior,     !roulette 33,        <Channel name: kaicenat>,       2024-11-07 09:10:23.254040 
+
+ caseohjunior,     !roulette 21,        <Channel name: kaicenat>,       2024-11-07 09:10:31.236433 
+
+ caseohjunior,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:10:44.729103 
+
+ caseohjunior,     !roulette half,        <Channel name: kaicenat>,       2024-11-07 09:10:52.324001 
+
+ caseohjunior,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 09:11:27.336376 
+
+ caseohjunior,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:11:43.828535 
+
+ caseohjunior,     !points,        <Channel name: kaicenat>,       2024-11-07 09:13:21.892129 
+
+ caseohjunior,     !roulette 0,        <Channel name: kaicenat>,       2024-11-07 09:13:45.137790 
+
+ caseohjunior,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:14:00.867414 

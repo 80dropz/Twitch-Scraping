@@ -1,0 +1,4 @@
+
+ diablochat,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:31:24.365013 
+
+ diablochat,     <3 <3 <3,        <Channel name: kaicenat>,       2024-11-07 09:33:09.651249 

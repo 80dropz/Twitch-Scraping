@@ -22,3 +22,7 @@
  tntman64532,     ewww,        <Channel name: clix>,       2024-11-07 02:14:15.699055 
 
  tntman64532,     huh,        <Channel name: clix>,       2024-11-07 02:17:59.103457 
+
+ tntman64532,     !gamble 1,        <Channel name: clix>,       2024-11-07 09:30:33.365190 
+
+ tntman64532,     !watchtime,        <Channel name: clix>,       2024-11-07 09:31:33.617942 

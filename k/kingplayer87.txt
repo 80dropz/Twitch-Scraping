@@ -1,0 +1,6 @@
+
+ kingplayer87,     !time,        <Channel name: kaicenat>,       2024-11-07 09:37:48.840501 
+
+ kingplayer87,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:38:25.695446 
+
+ kingplayer87,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:39:09.919051 

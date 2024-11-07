@@ -1,0 +1,6 @@
+
+ nokia36009,     SMD,        <Channel name: kaicenat>,       2024-11-07 09:27:50.593091 
+
+ nokia36009,     What,        <Channel name: kaicenat>,       2024-11-07 09:28:05.400414 
+
+ nokia36009,     Yoooooooo,        <Channel name: kaicenat>,       2024-11-07 09:28:14.241077 

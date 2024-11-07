@@ -1,0 +1,8 @@
+
+ kootershots,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:42:38.805773 
+
+ kootershots,     !watchtime,        <Channel name: adapt>,       2024-11-07 09:43:16.198906 
+
+ kootershots,     !p,        <Channel name: adapt>,       2024-11-07 09:43:24.754215 
+
+ kootershots,     !points,        <Channel name: adapt>,       2024-11-07 09:43:34.327652 

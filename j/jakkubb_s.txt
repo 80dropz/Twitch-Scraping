@@ -1,0 +1,4 @@
+
+ jakkubb_s,     !time,        <Channel name: kaicenat>,       2024-11-07 09:09:14.471925 
+
+ jakkubb_s,     !followage,        <Channel name: kaicenat>,       2024-11-07 09:13:01.309793 

@@ -1,0 +1,6 @@
+
+ dobrasil123,     !keyboard,        <Channel name: mongraal>,       2024-11-07 09:31:51.939874 
+
+ dobrasil123,     !pc,        <Channel name: mongraal>,       2024-11-07 09:32:10.992265 
+
+ dobrasil123,     !dpi,        <Channel name: mongraal>,       2024-11-07 09:32:50.684252 

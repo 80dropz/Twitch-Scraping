@@ -1,0 +1,6 @@
+
+ perrobueno997,     !time,        <Channel name: kaicenat>,       2024-11-07 09:04:10.943368 
+
+ perrobueno997,     !wachtime,        <Channel name: kaicenat>,       2024-11-07 09:04:36.457652 
+
+ perrobueno997,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:04:58.397715 

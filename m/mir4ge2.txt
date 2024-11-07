@@ -1,0 +1,12 @@
+
+ mir4ge2,     song!,        <Channel name: swagg>,       2024-11-07 09:01:45.048980 
+
+ mir4ge2,     guys the song please,        <Channel name: swagg>,       2024-11-07 09:02:44.220579 
+
+ mir4ge2,     by who ?,        <Channel name: swagg>,       2024-11-07 09:02:48.613604 
+
+ mir4ge2,     playlis!,        <Channel name: swagg>,       2024-11-07 09:04:23.395377 
+
+ mir4ge2,     playlist!,        <Channel name: swagg>,       2024-11-07 09:04:28.844546 
+
+ mir4ge2,     guys please the song name before this one,        <Channel name: swagg>,       2024-11-07 09:04:56.445649 

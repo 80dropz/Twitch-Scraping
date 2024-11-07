@@ -1,0 +1,8 @@
+
+ lilglocker,     !gamble 500,        <Channel name: kaicenat>,       2024-11-07 09:01:18.845194 
+
+ lilglocker,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:02:05.900652 
+
+ lilglocker,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:02:38.857148 
+
+ lilglocker,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:03:12.479936 

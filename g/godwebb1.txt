@@ -1,0 +1,6 @@
+
+ godwebb1,     !roulette 490,        <Channel name: kaicenat>,       2024-11-07 09:15:48.351088 
+
+ godwebb1,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:16:16.520056 
+
+ godwebb1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:16:50.652120 

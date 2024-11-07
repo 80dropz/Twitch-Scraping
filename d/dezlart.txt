@@ -1,0 +1,4 @@
+
+ dezlart,     !sens,        <Channel name: mongraal>,       2024-11-07 09:26:07.906539 
+
+ dezlart,     !dpi,        <Channel name: mongraal>,       2024-11-07 09:26:16.256411 

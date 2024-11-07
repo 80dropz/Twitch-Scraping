@@ -1,0 +1,12 @@
+
+ marcohdz12,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:30:03.858908 
+
+ marcohdz12,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:30:50.810537 
+
+ marcohdz12,     !followage,        <Channel name: kaicenat>,       2024-11-07 09:31:08.201975 
+
+ marcohdz12,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:32:50.093042 
+
+ marcohdz12,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:33:11.104228 
+
+ marcohdz12,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:33:39.188981 

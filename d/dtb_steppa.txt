@@ -1,0 +1,10 @@
+
+ dtb_steppa,     kaicE,        <Channel name: kaicenat>,       2024-11-07 09:22:01.879124 
+
+ dtb_steppa,     kaicENAT_SQ,        <Channel name: kaicenat>,       2024-11-07 09:23:47.631802 
+
+ dtb_steppa,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 09:29:25.059989 
+
+ dtb_steppa,     WEWWWW,        <Channel name: kaicenat>,       2024-11-07 09:29:28.712335 
+
+ dtb_steppa,     WWWWW,        <Channel name: kaicenat>,       2024-11-07 09:29:34.449654 

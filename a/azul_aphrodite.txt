@@ -1,0 +1,10 @@
+
+ azul_aphrodite,     !roulette 50000,        <Channel name: kaicenat>,       2024-11-07 09:08:23.459663 
+
+ azul_aphrodite,     !points,        <Channel name: kaicenat>,       2024-11-07 09:09:01.108833 
+
+ azul_aphrodite,     !points,        <Channel name: kaicenat>,       2024-11-07 09:30:19.986576 
+
+ azul_aphrodite,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:30:58.252346 
+
+ azul_aphrodite,     !roulette 6000,        <Channel name: kaicenat>,       2024-11-07 09:31:26.598813 

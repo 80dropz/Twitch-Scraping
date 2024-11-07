@@ -1,0 +1,4 @@
+
+ adrian2x69,     !gamble 100,        <Channel name: clix>,       2024-11-07 09:18:21.068639 
+
+ adrian2x69,     !gamble 1000,        <Channel name: clix>,       2024-11-07 09:18:44.112852 

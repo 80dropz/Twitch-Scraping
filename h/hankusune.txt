@@ -1,0 +1,8 @@
+
+ hankusune,     !gamble 1,        <Channel name: kaicenat>,       2024-11-07 09:00:50.240961 
+
+ hankusune,     !gamble 3,        <Channel name: kaicenat>,       2024-11-07 09:01:00.174925 
+
+ hankusune,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:01:22.765049 
+
+ hankusune,     !roulette 11,        <Channel name: kaicenat>,       2024-11-07 09:01:38.054977 

@@ -1,0 +1,24 @@
+
+ fng_sirdonquaviousthe3rd,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:01:35.483023 
+
+ fng_sirdonquaviousthe3rd,     !roulette 8,        <Channel name: kaicenat>,       2024-11-07 09:01:57.558327 
+
+ fng_sirdonquaviousthe3rd,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:02:01.959360 
+
+ fng_sirdonquaviousthe3rd,     !roulette 11,        <Channel name: kaicenat>,       2024-11-07 09:02:06.284774 
+
+ fng_sirdonquaviousthe3rd,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:02:10.172568 
+
+ fng_sirdonquaviousthe3rd,     !roulette 28,        <Channel name: kaicenat>,       2024-11-07 09:02:14.834778 
+
+ fng_sirdonquaviousthe3rd,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:02:24.036123 
+
+ fng_sirdonquaviousthe3rd,     !roulette 66,        <Channel name: kaicenat>,       2024-11-07 09:02:28.504283 
+
+ fng_sirdonquaviousthe3rd,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:02:38.964655 
+
+ fng_sirdonquaviousthe3rd,     !roulette 40,        <Channel name: kaicenat>,       2024-11-07 09:02:41.043697 
+
+ fng_sirdonquaviousthe3rd,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:02:52.658396 
+
+ fng_sirdonquaviousthe3rd,     !roulette  152,        <Channel name: kaicenat>,       2024-11-07 09:03:00.034175 

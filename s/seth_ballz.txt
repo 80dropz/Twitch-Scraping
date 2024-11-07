@@ -1,0 +1,2 @@
+
+ seth_ballz,     !gamble 15000,        <Channel name: clix>,       2024-11-07 09:08:08.138526 

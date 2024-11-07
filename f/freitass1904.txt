@@ -1,0 +1,4 @@
+
+ freitass1904,     !comm,        <Channel name: mongraal>,       2024-11-07 09:16:16.782940 
+
+ freitass1904,     !prime,        <Channel name: mongraal>,       2024-11-07 09:16:25.239502 

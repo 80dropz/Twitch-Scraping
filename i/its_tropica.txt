@@ -1,0 +1,6 @@
+
+ its_tropica,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:37:43.000457 
+
+ its_tropica,     !gambleall,        <Channel name: kaicenat>,       2024-11-07 09:37:47.060469 
+
+ its_tropica,     !points,        <Channel name: kaicenat>,       2024-11-07 09:38:16.987240 

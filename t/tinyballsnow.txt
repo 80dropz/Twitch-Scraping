@@ -1,0 +1,6 @@
+
+ tinyballsnow,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:07:58.264586 
+
+ tinyballsnow,     !roulette 270,        <Channel name: kaicenat>,       2024-11-07 09:08:06.290406 
+
+ tinyballsnow,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:08:40.972986 

@@ -16,3 +16,5 @@
  damnrazza,     dude,        <Channel name: clix>,       2024-11-07 02:14:47.238860 
 
  damnrazza,     Bedge,        <Channel name: clix>,       2024-11-07 02:42:12.583118 
+
+ damnrazza,     floppy,        <Channel name: clix>,       2024-11-07 09:13:01.459105 

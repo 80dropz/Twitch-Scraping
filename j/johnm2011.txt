@@ -1,0 +1,6 @@
+
+ johnm2011,     70 bucks I think,        <Channel name: ricci>,       2024-11-07 09:37:52.682796 
+
+ johnm2011,     15s delsy i think,        <Channel name: ricci>,       2024-11-07 09:41:03.157880 
+
+ johnm2011,     !watchtime,        <Channel name: ricci>,       2024-11-07 09:41:41.480973 

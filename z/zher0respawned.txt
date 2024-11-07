@@ -4,3 +4,7 @@
  zher0respawned,     @prof_hubert_farnsworth gday mate,        <Channel name: robcdee>,       2024-11-07 01:44:46.783655 
 
  zher0respawned,     enjoy riding,        <Channel name: robcdee>,       2024-11-07 01:45:03.516352 
+
+ zher0respawned,     !bank,        <Channel name: robcdee>,       2024-11-07 09:43:34.670192 
+
+ zher0respawned,     !join,        <Channel name: robcdee>,       2024-11-07 09:43:43.463229 

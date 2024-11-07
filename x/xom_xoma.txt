@@ -1,0 +1,6 @@
+
+ xom_xoma,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:00:43.709831 
+
+ xom_xoma,     fact,        <Channel name: shadowkekw>,       2024-11-07 09:01:55.743345 
+
+ xom_xoma,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:26.607515 

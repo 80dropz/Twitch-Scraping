@@ -1,0 +1,56 @@
+
+ whothatvini,     ?,        <Channel name: kaicenat>,       2024-11-07 09:05:09.062913 
+
+ whothatvini,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:05:53.038916 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:06:07.270381 
+
+ whothatvini,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:06:25.121543 
+
+ whothatvini,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 09:06:34.167964 
+
+ whothatvini,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:06:42.264403 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:06:49.118217 
+
+ whothatvini,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:07:10.122972 
+
+ whothatvini,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:07:20.191624 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:07:34.321331 
+
+ whothatvini,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:07:41.182044 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:07:48.425746 
+
+ whothatvini,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:07:57.599458 
+
+ whothatvini,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:08:09.733009 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:08:18.696012 
+
+ whothatvini,     l,        <Channel name: kaicenat>,       2024-11-07 09:08:39.550230 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:08:44.072692 
+
+ whothatvini,     wtf,        <Channel name: kaicenat>,       2024-11-07 09:10:05.463366 
+
+ whothatvini,     wtffffff,        <Channel name: kaicenat>,       2024-11-07 09:10:08.357713 
+
+ whothatvini,     w,        <Channel name: kaicenat>,       2024-11-07 09:10:20.268008 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:10:29.134569 
+
+ whothatvini,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:10:35.417850 
+
+ whothatvini,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:10:42.503839 
+
+ whothatvini,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:10:55.312808 
+
+ whothatvini,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:11:01.815218 
+
+ whothatvini,     ?,        <Channel name: kaicenat>,       2024-11-07 09:11:19.022322 
+
+ whothatvini,     ww,        <Channel name: kaicenat>,       2024-11-07 09:14:34.474047 
+
+ whothatvini,     what,        <Channel name: kaicenat>,       2024-11-07 09:18:54.633206 

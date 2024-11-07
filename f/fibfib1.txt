@@ -1,0 +1,8 @@
+
+ fibfib1,     313,        <Channel name: shadowkekw>,       2024-11-07 09:42:31.226779 
+
+ fibfib1,     12312,        <Channel name: shadowkekw>,       2024-11-07 09:42:32.541669 
+
+ fibfib1,     13123435,        <Channel name: shadowkekw>,       2024-11-07 09:42:34.407114 
+
+ fibfib1,     343245,        <Channel name: shadowkekw>,       2024-11-07 09:42:35.410507 

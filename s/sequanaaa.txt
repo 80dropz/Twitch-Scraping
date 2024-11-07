@@ -1,0 +1,8 @@
+
+ sequanaaa,     !time,        <Channel name: kaicenat>,       2024-11-07 09:43:01.186085 
+
+ sequanaaa,     free Myles,        <Channel name: kaicenat>,       2024-11-07 09:43:25.034572 
+
+ sequanaaa,     FreeMyles,        <Channel name: kaicenat>,       2024-11-07 09:43:34.697197 
+
+ sequanaaa,     #free Myles,        <Channel name: kaicenat>,       2024-11-07 09:43:38.586749 

@@ -1,0 +1,14 @@
+
+ cuxoy_pinpanjhon,     8,        <Channel name: shadowkekw>,       2024-11-07 09:24:56.212332 
+
+ cuxoy_pinpanjhon,     9,        <Channel name: shadowkekw>,       2024-11-07 09:24:58.393819 
+
+ cuxoy_pinpanjhon,     99,        <Channel name: shadowkekw>,       2024-11-07 09:24:59.830525 
+
+ cuxoy_pinpanjhon,     9998,        <Channel name: shadowkekw>,       2024-11-07 09:25:02.333284 
+
+ cuxoy_pinpanjhon,     8,        <Channel name: shadowkekw>,       2024-11-07 09:25:03.571852 
+
+ cuxoy_pinpanjhon,     6,        <Channel name: shadowkekw>,       2024-11-07 09:25:05.756513 
+
+ cuxoy_pinpanjhon,     4,        <Channel name: shadowkekw>,       2024-11-07 09:25:09.395758 

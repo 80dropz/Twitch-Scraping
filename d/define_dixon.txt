@@ -1,0 +1,4 @@
+
+ define_dixon,     !time,        <Channel name: ricci>,       2024-11-07 09:39:03.367970 
+
+ define_dixon,     I got a full 8 and this mf still streaming,        <Channel name: ricci>,       2024-11-07 09:39:39.457313 

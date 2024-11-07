@@ -1,0 +1,12 @@
+
+ elektro1_,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:02:09.918995 
+
+ elektro1_,     38,        <Channel name: shadowkekw>,       2024-11-07 09:03:02.130803 
+
+ elektro1_,     110,        <Channel name: shadowkekw>,       2024-11-07 09:04:06.807178 
+
+ elektro1_,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:05:03.862143 
+
+ elektro1_,     38,        <Channel name: shadowkekw>,       2024-11-07 09:19:52.599781 
+
+ elektro1_,     )),        <Channel name: shadowkekw>,       2024-11-07 09:20:13.503742 

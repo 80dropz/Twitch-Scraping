@@ -8,3 +8,5 @@
  tiaxx00,     !gros tat,        <Channel name: mrlust>,       2024-11-07 02:50:09.416895 
 
  tiaxx00,     gros rat,        <Channel name: mrlust>,       2024-11-07 02:50:11.789883 
+
+ tiaxx00,     !crosshair,        <Channel name: mrlust>,       2024-11-07 09:12:34.317525 

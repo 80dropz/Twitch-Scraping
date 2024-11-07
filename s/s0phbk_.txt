@@ -1,0 +1,6 @@
+
+ s0phbk_,     !points,        <Channel name: kaicenat>,       2024-11-07 09:12:58.343959 
+
+ s0phbk_,     !gamble 4,        <Channel name: kaicenat>,       2024-11-07 09:13:08.502683 
+
+ s0phbk_,     !roulette 4,        <Channel name: kaicenat>,       2024-11-07 09:13:35.724931 

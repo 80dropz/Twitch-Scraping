@@ -1,0 +1,8 @@
+
+ dezzoxy_,     !monitor,        <Channel name: mongraal>,       2024-11-07 09:30:00.829050 
+
+ dezzoxy_,     damn,        <Channel name: mongraal>,       2024-11-07 09:37:19.616157 
+
+ dezzoxy_,     gdamn,        <Channel name: mongraal>,       2024-11-07 09:37:34.955183 
+
+ dezzoxy_,     HAHAAHAHAH,        <Channel name: mongraal>,       2024-11-07 09:43:54.617247 

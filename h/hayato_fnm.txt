@@ -1,0 +1,4 @@
+
+ hayato_fnm,     !pc,        <Channel name: mongraal>,       2024-11-07 09:41:18.730573 
+
+ hayato_fnm,     !spec,        <Channel name: mongraal>,       2024-11-07 09:41:29.965340 

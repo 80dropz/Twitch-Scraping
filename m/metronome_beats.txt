@@ -1,2 +1,6 @@
 
  metronome_beats,     RIGGED,        <Channel name: kaicenat>,       2024-11-07 01:38:09.952990 
+
+ metronome_beats,     Horn,        <Channel name: kaicenat>,       2024-11-07 09:14:29.052417 
+
+ metronome_beats,     HORN,        <Channel name: kaicenat>,       2024-11-07 09:14:37.414571 

@@ -1,0 +1,6 @@
+
+ nord_fnm,     show the color blind settings,        <Channel name: mrlust>,       2024-11-07 09:00:32.355623 
+
+ nord_fnm,     !colorblind,        <Channel name: mrlust>,       2024-11-07 09:00:39.164151 
+
+ nord_fnm,     !colorblind settings,        <Channel name: mrlust>,       2024-11-07 09:00:56.403392 

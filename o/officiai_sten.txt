@@ -1,0 +1,4 @@
+
+ officiai_sten,     NPC,        <Channel name: kaicenat>,       2024-11-07 09:06:30.924746 
+
+ officiai_sten,     noway NPC,        <Channel name: kaicenat>,       2024-11-07 09:06:49.141215 

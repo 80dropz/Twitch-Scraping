@@ -1,0 +1,8 @@
+
+ huggerush,     !GAMBLE ALL,        <Channel name: clix>,       2024-11-07 09:37:32.790794 
+
+ huggerush,     !gamble all,        <Channel name: clix>,       2024-11-07 09:37:47.572857 
+
+ huggerush,     does he sit up under the blanket?,        <Channel name: clix>,       2024-11-07 09:38:40.963066 
+
+ huggerush,     @value1x look at the blanket,        <Channel name: clix>,       2024-11-07 09:39:36.395584 

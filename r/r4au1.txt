@@ -1,0 +1,4 @@
+
+ r4au1,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:08:57.533520 
+
+ r4au1,     !gamble 50,        <Channel name: kaicenat>,       2024-11-07 09:27:04.617452 

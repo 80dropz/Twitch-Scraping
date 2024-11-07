@@ -1,0 +1,6 @@
+
+ ur0ku,     !roullete,        <Channel name: kaicenat>,       2024-11-07 09:05:53.934556 
+
+ ur0ku,     !balance,        <Channel name: kaicenat>,       2024-11-07 09:06:04.101120 
+
+ ur0ku,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:06:24.966481 

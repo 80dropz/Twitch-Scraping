@@ -1,0 +1,14 @@
+
+ alimb4,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:41:57.961138 
+
+ alimb4,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:42:39.876879 
+
+ alimb4,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:42:53.184818 
+
+ alimb4,     !roulette 390,        <Channel name: kaicenat>,       2024-11-07 09:43:02.469414 
+
+ alimb4,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:43:09.216605 
+
+ alimb4,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:43:27.130269 
+
+ alimb4,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:43:35.163075 

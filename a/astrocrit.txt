@@ -1,0 +1,4 @@
+
+ astrocrit,     LUL,        <Channel name: kaicenat>,       2024-11-07 09:03:22.596391 
+
+ astrocrit,     sleeping,        <Channel name: kaicenat>,       2024-11-07 09:06:16.638706 

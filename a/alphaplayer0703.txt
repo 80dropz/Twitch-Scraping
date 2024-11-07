@@ -1,0 +1,8 @@
+
+ alphaplayer0703,     !roulette 560,        <Channel name: kaicenat>,       2024-11-07 09:03:04.817016 
+
+ alphaplayer0703,     !roulette 15,        <Channel name: kaicenat>,       2024-11-07 09:03:51.066596 
+
+ alphaplayer0703,     !Roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:04:16.985128 
+
+ alphaplayer0703,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:04:32.746559 

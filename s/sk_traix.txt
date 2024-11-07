@@ -1,0 +1,8 @@
+
+ sk_traix,     !duo,        <Channel name: mongraal>,       2024-11-07 09:08:56.377165 
+
+ sk_traix,     Where ist mitro,        <Channel name: mongraal>,       2024-11-07 09:09:02.334412 
+
+ sk_traix,     !trio,        <Channel name: mongraal>,       2024-11-07 09:10:14.975090 
+
+ sk_traix,     SUBtember SUBtember SUBtember,        <Channel name: mongraal>,       2024-11-07 09:24:31.666619 

@@ -1,0 +1,4 @@
+
+ mordyno,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:01:48.554454 
+
+ mordyno,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:04:11.312459 

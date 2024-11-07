@@ -1,0 +1,10 @@
+
+ svea0088,     www,        <Channel name: mongraal>,       2024-11-07 09:36:01.763947 
+
+ svea0088,     WWWWWWW,        <Channel name: mongraal>,       2024-11-07 09:36:05.635535 
+
+ svea0088,     play ranked,        <Channel name: mongraal>,       2024-11-07 09:37:24.071453 
+
+ svea0088,     grotto,        <Channel name: mongraal>,       2024-11-07 09:40:47.903697 
+
+ svea0088,     land grotto,        <Channel name: mongraal>,       2024-11-07 09:41:00.376905 

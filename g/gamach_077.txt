@@ -1,0 +1,12 @@
+
+ gamach_077,     1,        <Channel name: shadowkekw>,       2024-11-07 09:05:09.678667 
+
+ gamach_077,     2,        <Channel name: shadowkekw>,       2024-11-07 09:05:10.734796 
+
+ gamach_077,     34469431,        <Channel name: shadowkekw>,       2024-11-07 09:05:14.202895 
+
+ gamach_077,     356227151,        <Channel name: shadowkekw>,       2024-11-07 09:05:20.813647 
+
+ gamach_077,     25215152444;:4:5191@,        <Channel name: shadowkekw>,       2024-11-07 09:05:25.878629 
+
+ gamach_077,     33552521,        <Channel name: shadowkekw>,       2024-11-07 09:05:29.033789 

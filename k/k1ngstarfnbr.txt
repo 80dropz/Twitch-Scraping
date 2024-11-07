@@ -1,0 +1,4 @@
+
+ k1ngstarfnbr,     !SETTINGS,        <Channel name: clix>,       2024-11-07 09:21:44.095273 
+
+ k1ngstarfnbr,     !SETTINGS,        <Channel name: mongraal>,       2024-11-07 09:22:10.890620 

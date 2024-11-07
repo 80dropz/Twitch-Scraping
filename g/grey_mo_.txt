@@ -1,0 +1,10 @@
+
+ grey_mo_,     !time,        <Channel name: kaicenat>,       2024-11-07 09:10:59.066159 
+
+ grey_mo_,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:11:19.045833 
+
+ grey_mo_,     !roullete 10,        <Channel name: kaicenat>,       2024-11-07 09:11:27.802141 
+
+ grey_mo_,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:11:42.315164 
+
+ grey_mo_,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:11:51.193053 

@@ -1,0 +1,6 @@
+
+ agpapi,     !settings,        <Channel name: ricci>,       2024-11-07 09:13:37.938152 
+
+ agpapi,     !graphics,        <Channel name: ricci>,       2024-11-07 09:14:16.646506 
+
+ agpapi,     its just for when you run outta ammo imo,        <Channel name: ricci>,       2024-11-07 09:25:28.242163 

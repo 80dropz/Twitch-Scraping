@@ -1,0 +1,8 @@
+
+ lunaticong,     !roulette 20%,        <Channel name: kaicenat>,       2024-11-07 09:25:41.712680 
+
+ lunaticong,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:25:56.797368 
+
+ lunaticong,     !roulette 120,        <Channel name: kaicenat>,       2024-11-07 09:26:09.209305 
+
+ lunaticong,     yo,        <Channel name: kaicenat>,       2024-11-07 09:31:58.728103 

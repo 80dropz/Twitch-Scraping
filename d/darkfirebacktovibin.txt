@@ -1,0 +1,40 @@
+
+ darkfirebacktovibin,     !roulette 300,        <Channel name: kaicenat>,       2024-11-07 09:28:32.028345 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:32:46.358084 
+
+ darkfirebacktovibin,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:33:25.254283 
+
+ darkfirebacktovibin,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:33:38.300538 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:33:53.693063 
+
+ darkfirebacktovibin,     FREE MILES,        <Channel name: kaicenat>,       2024-11-07 09:36:19.491343 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:36:43.145750 
+
+ darkfirebacktovibin,     !freepoint,        <Channel name: kaicenat>,       2024-11-07 09:36:58.756079 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:37:33.797302 
+
+ darkfirebacktovibin,     !collect,        <Channel name: kaicenat>,       2024-11-07 09:37:44.743516 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:37:51.704396 
+
+ darkfirebacktovibin,     !points,        <Channel name: kaicenat>,       2024-11-07 09:38:28.209539 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:38:31.579917 
+
+ darkfirebacktovibin,     !roulette alle,        <Channel name: kaicenat>,       2024-11-07 09:38:43.656691 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:38:45.346125 
+
+ darkfirebacktovibin,     W 100,        <Channel name: kaicenat>,       2024-11-07 09:39:13.563428 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:40:37.549026 
+
+ darkfirebacktovibin,     !points,        <Channel name: kaicenat>,       2024-11-07 09:40:44.714453 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:40:48.750492 
+
+ darkfirebacktovibin,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:43:14.853315 

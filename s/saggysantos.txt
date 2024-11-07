@@ -1,0 +1,10 @@
+
+ saggysantos,     !gamble 4000,        <Channel name: kaicenat>,       2024-11-07 09:05:34.552066 
+
+ saggysantos,     !roullette 4000,        <Channel name: kaicenat>,       2024-11-07 09:06:17.056245 
+
+ saggysantos,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:06:27.042069 
+
+ saggysantos,     !points,        <Channel name: kaicenat>,       2024-11-07 09:06:51.776770 
+
+ saggysantos,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:07:01.413861 

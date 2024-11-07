@@ -1,0 +1,6 @@
+
+ bert_bert00,     yo,        <Channel name: kaicenat>,       2024-11-07 09:00:32.034779 
+
+ bert_bert00,     galaxy,        <Channel name: kaicenat>,       2024-11-07 09:00:49.007370 
+
+ bert_bert00,     galaxy,        <Channel name: kaicenat>,       2024-11-07 09:01:59.129379 

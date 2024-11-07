@@ -1,0 +1,4 @@
+
+ tsukki1_1,     !Time,        <Channel name: kaicenat>,       2024-11-07 09:20:10.915033 
+
+ tsukki1_1,     !time,        <Channel name: kaicenat>,       2024-11-07 09:25:12.699315 

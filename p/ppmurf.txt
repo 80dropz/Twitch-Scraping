@@ -1,0 +1,6 @@
+
+ ppmurf,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:01:07.692002 
+
+ ppmurf,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:01:25.834410 
+
+ ppmurf,     !roulette 321,        <Channel name: kaicenat>,       2024-11-07 09:01:36.650977 

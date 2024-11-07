@@ -1,0 +1,20 @@
+
+ itscrystallllll,     !time,        <Channel name: kaicenat>,       2024-11-07 09:06:12.966820 
+
+ itscrystallllll,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:12:13.020459 
+
+ itscrystallllll,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:13:35.677886 
+
+ itscrystallllll,     !roulette 18,        <Channel name: kaicenat>,       2024-11-07 09:13:48.818765 
+
+ itscrystallllll,     !roulette 36,        <Channel name: kaicenat>,       2024-11-07 09:13:58.805692 
+
+ itscrystallllll,     !roulette 72,        <Channel name: kaicenat>,       2024-11-07 09:14:10.985282 
+
+ itscrystallllll,     !roulette 70,        <Channel name: kaicenat>,       2024-11-07 09:14:45.853431 
+
+ itscrystallllll,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:14:55.717604 
+
+ itscrystallllll,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 09:15:10.417939 
+
+ itscrystallllll,     !roulette 20,        <Channel name: kaicenat>,       2024-11-07 09:15:23.086888 

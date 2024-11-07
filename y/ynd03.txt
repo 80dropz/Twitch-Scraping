@@ -14,3 +14,15 @@
  ynd03,     Ayo someone streaming your stream on TikTok,        <Channel name: kaicenat>,       2024-11-07 02:23:17.007683 
 
  ynd03,     Someone streaming your stream on TikTok names aircrow,        <Channel name: kaicenat>,       2024-11-07 02:23:53.869393 
+
+ ynd03,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 09:35:12.922105 
+
+ ynd03,     DBstyle DBstyle DBstyle DBstyle DBstyle DBstyle,        <Channel name: kaicenat>,       2024-11-07 09:35:28.213636 
+
+ ynd03,     KappaClaus KappaClaus KappaClaus KappaClaus KappaClaus KappaClaus KappaClaus,        <Channel name: kaicenat>,       2024-11-07 09:35:33.569923 
+
+ ynd03,     ResidentSleeper ResidentSleeper,        <Channel name: kaicenat>,       2024-11-07 09:37:44.087346 
+
+ ynd03,     TwitchConHYPE TwitchConHYPE TwitchConHYPE TwitchConHYPE,        <Channel name: kaicenat>,       2024-11-07 09:37:48.583851 
+
+ ynd03,     @wairzzzzz gift me a sub,        <Channel name: kaicenat>,       2024-11-07 09:40:45.636403 

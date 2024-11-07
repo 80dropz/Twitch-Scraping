@@ -1,0 +1,4 @@
+
+ juaanplopez_,     !sens,        <Channel name: mongraal>,       2024-11-07 09:13:23.009597 
+
+ juaanplopez_,     !dpi,        <Channel name: mongraal>,       2024-11-07 09:13:31.754382 

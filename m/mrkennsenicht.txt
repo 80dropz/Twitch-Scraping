@@ -1,0 +1,4 @@
+
+ mrkennsenicht,     !Time,        <Channel name: kaicenat>,       2024-11-07 09:38:49.267161 
+
+ mrkennsenicht,     !time,        <Channel name: kaicenat>,       2024-11-07 09:39:14.287977 

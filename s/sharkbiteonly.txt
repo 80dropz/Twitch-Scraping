@@ -1,0 +1,30 @@
+
+ sharkbiteonly,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:13:02.105114 
+
+ sharkbiteonly,     !roulette 2,        <Channel name: kaicenat>,       2024-11-07 09:13:14.862740 
+
+ sharkbiteonly,     !roulette 10,        <Channel name: kaicenat>,       2024-11-07 09:13:41.319059 
+
+ sharkbiteonly,     !roulette 11,        <Channel name: kaicenat>,       2024-11-07 09:14:10.295580 
+
+ sharkbiteonly,     !roulette 28,        <Channel name: kaicenat>,       2024-11-07 09:15:29.105554 
+
+ sharkbiteonly,     !roulette 29,        <Channel name: kaicenat>,       2024-11-07 09:16:45.358395 
+
+ sharkbiteonly,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:17:55.772792 
+
+ sharkbiteonly,     !roulette 80,        <Channel name: kaicenat>,       2024-11-07 09:19:07.062784 
+
+ sharkbiteonly,     !points,        <Channel name: kaicenat>,       2024-11-07 09:19:22.396784 
+
+ sharkbiteonly,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:19:51.321142 
+
+ sharkbiteonly,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:21:16.938504 
+
+ sharkbiteonly,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:21:51.626824 
+
+ sharkbiteonly,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:24:27.306995 
+
+ sharkbiteonly,     !roulette 188,        <Channel name: kaicenat>,       2024-11-07 09:24:52.913796 
+
+ sharkbiteonly,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:31:10.380634 

@@ -12,3 +12,5 @@
  niylovesosa,     real,        <Channel name: kaicenat>,       2024-11-07 02:10:42.595208 
 
  niylovesosa,     oop,        <Channel name: kaicenat>,       2024-11-07 02:19:54.009734 
+
+ niylovesosa,     rate it 1-10,        <Channel name: kaicenat>,       2024-11-07 09:19:36.771131 

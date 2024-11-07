@@ -4,3 +4,17 @@
  ramyxd02,     RESPIN,        <Channel name: kaicenat>,       2024-11-07 01:22:25.551795 
 
  ramyxd02,     UH,        <Channel name: kaicenat>,       2024-11-07 01:23:47.394816 
+
+ ramyxd02,     fsmUDance fsmUDance fsmUDance,        <Channel name: kaicenat>,       2024-11-07 09:01:02.786828 
+
+ ramyxd02,     fsmCatDance fsmCatDance fsmCatDance fsmCatDance,        <Channel name: kaicenat>,       2024-11-07 09:01:10.364354 
+
+ ramyxd02,     fsmHeart,        <Channel name: kaicenat>,       2024-11-07 09:01:23.305892 
+
+ ramyxd02,     fsmNodders fsmNodders fsmNodders fsmNodders fsmNodders,        <Channel name: kaicenat>,       2024-11-07 09:35:35.428544 
+
+ ramyxd02,     fsmKiss fsmKiss fsmKiss fsmKiss,        <Channel name: kaicenat>,       2024-11-07 09:35:47.802604 
+
+ ramyxd02,     @BigWaltDawgg GIFT MORE 100S,        <Channel name: kaicenat>,       2024-11-07 09:39:42.596585 
+
+ ramyxd02,     fsmNerd,        <Channel name: kaicenat>,       2024-11-07 09:40:23.380522 

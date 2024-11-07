@@ -1,0 +1,6 @@
+
+ i2su,     ?,        <Channel name: kaicenat>,       2024-11-07 09:35:48.391269 
+
+ i2su,     DUMBASS,        <Channel name: kaicenat>,       2024-11-07 09:38:55.119948 
+
+ i2su,     DUMBASS!,        <Channel name: kaicenat>,       2024-11-07 09:39:11.841836 

@@ -1,0 +1,4 @@
+
+ pooptavious,     sens,        <Channel name: ricci>,       2024-11-07 09:20:13.574739 
+
+ pooptavious,     !sens,        <Channel name: ricci>,       2024-11-07 09:20:16.625648 

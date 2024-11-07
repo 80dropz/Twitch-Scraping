@@ -1,0 +1,26 @@
+
+ keigoyuu,     !gamble all,        <Channel name: kaicenat>,       2024-11-07 09:03:33.652287 
+
+ keigoyuu,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:03:59.043950 
+
+ keigoyuu,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 09:25:28.434348 
+
+ keigoyuu,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:26:42.292139 
+
+ keigoyuu,     !time,        <Channel name: kaicenat>,       2024-11-07 09:26:55.819644 
+
+ keigoyuu,     !help,        <Channel name: kaicenat>,       2024-11-07 09:27:21.469981 
+
+ keigoyuu,     !help,        <Channel name: kaicenat>,       2024-11-07 09:27:54.728972 
+
+ keigoyuu,     !gamble,        <Channel name: kaicenat>,       2024-11-07 09:28:27.686456 
+
+ keigoyuu,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:28:39.730741 
+
+ keigoyuu,     !help,        <Channel name: kaicenat>,       2024-11-07 09:30:27.036451 
+
+ keigoyuu,     GIFT ME PLSS,        <Channel name: kaicenat>,       2024-11-07 09:32:01.860834 
+
+ keigoyuu,     GIFT ME PLSSS,        <Channel name: kaicenat>,       2024-11-07 09:32:10.362685 
+
+ keigoyuu,     PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB PLS GIFT ME SUB,        <Channel name: kaicenat>,       2024-11-07 09:32:42.947621 

@@ -1,0 +1,14 @@
+
+ sh1xfft,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:17:34.428510 
+
+ sh1xfft,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:18:09.207952 
+
+ sh1xfft,     38,        <Channel name: shadowkekw>,       2024-11-07 09:20:45.963383 
+
+ sh1xfft,     WW,        <Channel name: shadowkekw>,       2024-11-07 09:20:52.435276 
+
+ sh1xfft,     )),        <Channel name: shadowkekw>,       2024-11-07 09:21:22.712032 
+
+ sh1xfft,     o,        <Channel name: shadowkekw>,       2024-11-07 09:21:36.814311 
+
+ sh1xfft,     200r @shadowkekw,        <Channel name: shadowkekw>,       2024-11-07 09:22:27.085845 

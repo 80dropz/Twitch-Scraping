@@ -1,0 +1,12 @@
+
+ naadirraa,     !p,        <Channel name: kaicenat>,       2024-11-07 09:30:36.609249 
+
+ naadirraa,     !gamble 290,        <Channel name: kaicenat>,       2024-11-07 09:30:56.466629 
+
+ naadirraa,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:31:14.478134 
+
+ naadirraa,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:31:33.053967 
+
+ naadirraa,     !roulette 60,        <Channel name: kaicenat>,       2024-11-07 09:31:51.231342 
+
+ naadirraa,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:32:34.404437 

@@ -1,0 +1,398 @@
+
+ geijuteki,     rover,        <Channel name: megalodonvt>,       2024-11-07 09:05:06.519515 
+
+ geijuteki,     peve,        <Channel name: megalodonvt>,       2024-11-07 09:05:56.081475 
+
+ geijuteki,     chore,        <Channel name: megalodonvt>,       2024-11-07 09:07:16.362315 
+
+ geijuteki,     cure,        <Channel name: megalodonvt>,       2024-11-07 09:07:37.289689 
+
+ geijuteki,     quench,        <Channel name: megalodonvt>,       2024-11-07 09:07:41.550247 
+
+ geijuteki,     once,        <Channel name: megalodonvt>,       2024-11-07 09:08:00.726689 
+
+ geijuteki,     church,        <Channel name: megalodonvt>,       2024-11-07 09:08:05.391889 
+
+ geijuteki,     crune,        <Channel name: megalodonvt>,       2024-11-07 09:09:02.826584 
+
+ geijuteki,     comment,        <Channel name: megalodonvt>,       2024-11-07 09:10:04.957187 
+
+ geijuteki,     moment,        <Channel name: megalodonvt>,       2024-11-07 09:10:13.790212 
+
+ geijuteki,     bone,        <Channel name: megalodonvt>,       2024-11-07 09:10:28.070284 
+
+ geijuteki,     comb,        <Channel name: megalodonvt>,       2024-11-07 09:10:30.649406 
+
+ geijuteki,     note,        <Channel name: megalodonvt>,       2024-11-07 09:10:35.031258 
+
+ geijuteki,     memo,        <Channel name: megalodonvt>,       2024-11-07 09:10:37.811846 
+
+ geijuteki,     tomb,        <Channel name: megalodonvt>,       2024-11-07 09:10:43.197945 
+
+ geijuteki,     once,        <Channel name: megalodonvt>,       2024-11-07 09:10:50.442252 
+
+ geijuteki,     cone,        <Channel name: megalodonvt>,       2024-11-07 09:10:55.154203 
+
+ geijuteki,     EZZZ,        <Channel name: megalodonvt>,       2024-11-07 09:11:03.773887 
+
+ geijuteki,     clad,        <Channel name: megalodonvt>,       2024-11-07 09:11:51.708913 
+
+ geijuteki,     tact,        <Channel name: megalodonvt>,       2024-11-07 09:11:55.833995 
+
+ geijuteki,     catted,        <Channel name: megalodonvt>,       2024-11-07 09:12:17.223214 
+
+ geijuteki,     cattle,        <Channel name: megalodonvt>,       2024-11-07 09:12:23.089042 
+
+ geijuteki,     acted,        <Channel name: megalodonvt>,       2024-11-07 09:12:34.854380 
+
+ geijuteki,     cleat,        <Channel name: megalodonvt>,       2024-11-07 09:12:37.915007 
+
+ geijuteki,     decal,        <Channel name: megalodonvt>,       2024-11-07 09:12:40.391586 
+
+ geijuteki,     delta,        <Channel name: megalodonvt>,       2024-11-07 09:12:45.412962 
+
+ geijuteki,     latte,        <Channel name: megalodonvt>,       2024-11-07 09:12:50.805405 
+
+ geijuteki,     cadet,        <Channel name: megalodonvt>,       2024-11-07 09:12:54.844117 
+
+ geijuteki,     laced,        <Channel name: megalodonvt>,       2024-11-07 09:12:58.498016 
+
+ geijuteki,     dealt,        <Channel name: megalodonvt>,       2024-11-07 09:13:08.604403 
+
+ geijuteki,     acted,        <Channel name: megalodonvt>,       2024-11-07 09:13:12.486923 
+
+ geijuteki,     clade,        <Channel name: megalodonvt>,       2024-11-07 09:13:14.766449 
+
+ geijuteki,     decal,        <Channel name: megalodonvt>,       2024-11-07 09:13:19.406247 
+
+ geijuteki,     EZZZZ,        <Channel name: megalodonvt>,       2024-11-07 09:13:28.373170 
+
+ geijuteki,     circled,        <Channel name: megalodonvt>,       2024-11-07 09:14:20.948516 
+
+ geijuteki,     drill,        <Channel name: megalodonvt>,       2024-11-07 09:14:32.126079 
+
+ geijuteki,     dile,        <Channel name: megalodonvt>,       2024-11-07 09:14:36.094393 
+
+ geijuteki,     lied,        <Channel name: megalodonvt>,       2024-11-07 09:14:40.019294 
+
+ geijuteki,     lice,        <Channel name: megalodonvt>,       2024-11-07 09:14:47.214327 
+
+ geijuteki,     lied,        <Channel name: megalodonvt>,       2024-11-07 09:14:49.034127 
+
+ geijuteki,     crile,        <Channel name: megalodonvt>,       2024-11-07 09:14:56.760750 
+
+ geijuteki,     grime,        <Channel name: megalodonvt>,       2024-11-07 09:15:09.618596 
+
+ geijuteki,     side,        <Channel name: megalodonvt>,       2024-11-07 09:15:19.472736 
+
+ geijuteki,     recited,        <Channel name: megalodonvt>,       2024-11-07 09:15:45.094338 
+
+ geijuteki,     reticle,        <Channel name: megalodonvt>,       2024-11-07 09:15:54.216535 
+
+ geijuteki,     tiercel,        <Channel name: megalodonvt>,       2024-11-07 09:16:02.601802 
+
+ geijuteki,     cerclet,        <Channel name: megalodonvt>,       2024-11-07 09:16:06.394894 
+
+ geijuteki,     That extra letter stumped me,        <Channel name: megalodonvt>,       2024-11-07 09:16:17.555505 
+
+ geijuteki,     billabong built for this,        <Channel name: megalodonvt>,       2024-11-07 09:16:49.760712 
+
+ geijuteki,     trigger,        <Channel name: megalodonvt>,       2024-11-07 09:17:18.115395 
+
+ geijuteki,     trier,        <Channel name: megalodonvt>,       2024-11-07 09:17:43.633650 
+
+ geijuteki,     rerig,        <Channel name: megalodonvt>,       2024-11-07 09:17:45.612027 
+
+ geijuteki,     rite,        <Channel name: megalodonvt>,       2024-11-07 09:17:54.322637 
+
+ geijuteki,     tire,        <Channel name: megalodonvt>,       2024-11-07 09:17:56.203594 
+
+ geijuteki,     trig,        <Channel name: megalodonvt>,       2024-11-07 09:17:59.013566 
+
+ geijuteki,     grit,        <Channel name: megalodonvt>,       2024-11-07 09:18:00.938357 
+
+ geijuteki,     girt,        <Channel name: megalodonvt>,       2024-11-07 09:18:03.077141 
+
+ geijuteki,     grig,        <Channel name: megalodonvt>,       2024-11-07 09:18:06.894490 
+
+ geijuteki,     EZZZZZ,        <Channel name: megalodonvt>,       2024-11-07 09:18:10.865951 
+
+ geijuteki,     its in engineering,        <Channel name: megalodonvt>,       2024-11-07 09:18:49.717224 
+
+ geijuteki,     bristly,        <Channel name: megalodonvt>,       2024-11-07 09:19:09.818976 
+
+ geijuteki,     lyrist,        <Channel name: megalodonvt>,       2024-11-07 09:19:18.285061 
+
+ geijuteki,     trillby,        <Channel name: megalodonvt>,       2024-11-07 09:19:23.908481 
+
+ geijuteki,     trilby,        <Channel name: megalodonvt>,       2024-11-07 09:19:31.642025 
+
+ geijuteki,     lyrist,        <Channel name: megalodonvt>,       2024-11-07 09:19:40.199511 
+
+ geijuteki,     bitsy,        <Channel name: megalodonvt>,       2024-11-07 09:19:50.403109 
+
+ geijuteki,     styli,        <Channel name: megalodonvt>,       2024-11-07 09:19:57.300210 
+
+ geijuteki,     tirls,        <Channel name: megalodonvt>,       2024-11-07 09:20:00.227483 
+
+ geijuteki,     sibyl,        <Channel name: megalodonvt>,       2024-11-07 09:20:11.470253 
+
+ geijuteki,     birls,        <Channel name: megalodonvt>,       2024-11-07 09:20:15.373492 
+
+ geijuteki,     lyrist,        <Channel name: megalodonvt>,       2024-11-07 09:20:27.409217 
+
+ geijuteki,     finally,        <Channel name: megalodonvt>,       2024-11-07 09:20:35.221956 
+
+ geijuteki,     libs,        <Channel name: megalodonvt>,       2024-11-07 09:20:42.148515 
+
+ geijuteki,     danggit,        <Channel name: megalodonvt>,       2024-11-07 09:20:54.109865 
+
+ geijuteki,     looking,        <Channel name: megalodonvt>,       2024-11-07 09:21:38.959101 
+
+ geijuteki,     losing,        <Channel name: megalodonvt>,       2024-11-07 09:21:43.887650 
+
+ geijuteki,     logion,        <Channel name: megalodonvt>,       2024-11-07 09:21:48.288970 
+
+ geijuteki,     looing,        <Channel name: megalodonvt>,       2024-11-07 09:21:52.141830 
+
+ geijuteki,     goons,        <Channel name: megalodonvt>,       2024-11-07 09:21:59.992583 
+
+ geijuteki,     links,        <Channel name: megalodonvt>,       2024-11-07 09:22:02.002636 
+
+ geijuteki,     kilos,        <Channel name: megalodonvt>,       2024-11-07 09:22:04.024168 
+
+ geijuteki,     logon,        <Channel name: megalodonvt>,       2024-11-07 09:22:08.448796 
+
+ geijuteki,     sling,        <Channel name: megalodonvt>,       2024-11-07 09:22:11.552326 
+
+ geijuteki,     slink,        <Channel name: megalodonvt>,       2024-11-07 09:22:13.253804 
+
+ geijuteki,     oinks,        <Channel name: megalodonvt>,       2024-11-07 09:22:17.649481 
+
+ geijuteki,     nooks,        <Channel name: megalodonvt>,       2024-11-07 09:22:20.644193 
+
+ geijuteki,     solon,        <Channel name: megalodonvt>,       2024-11-07 09:22:22.870279 
+
+ geijuteki,     ginks,        <Channel name: megalodonvt>,       2024-11-07 09:22:32.742676 
+
+ geijuteki,     logos,        <Channel name: megalodonvt>,       2024-11-07 09:22:35.501394 
+
+ geijuteki,     loins,        <Channel name: megalodonvt>,       2024-11-07 09:22:39.927879 
+
+ geijuteki,     longs,        <Channel name: megalodonvt>,       2024-11-07 09:22:41.721143 
+
+ geijuteki,     looks,        <Channel name: megalodonvt>,       2024-11-07 09:22:44.875084 
+
+ geijuteki,     lions,        <Channel name: megalodonvt>,       2024-11-07 09:22:48.876636 
+
+ geijuteki,     login,        <Channel name: megalodonvt>,       2024-11-07 09:22:53.598204 
+
+ geijuteki,     links,        <Channel name: megalodonvt>,       2024-11-07 09:22:56.505057 
+
+ geijuteki,     klong,        <Channel name: megalodonvt>,       2024-11-07 09:23:00.249170 
+
+ geijuteki,     kolos,        <Channel name: megalodonvt>,       2024-11-07 09:23:05.598020 
+
+ geijuteki,     logoi,        <Channel name: megalodonvt>,       2024-11-07 09:23:12.048812 
+
+ geijuteki,     lingo,        <Channel name: megalodonvt>,       2024-11-07 09:23:17.204520 
+
+ geijuteki,     WW billa,        <Channel name: megalodonvt>,       2024-11-07 09:23:39.819080 
+
+ geijuteki,     drivings,        <Channel name: megalodonvt>,       2024-11-07 09:24:20.031866 
+
+ geijuteki,     divings,        <Channel name: megalodonvt>,       2024-11-07 09:24:24.350030 
+
+ geijuteki,     driving,        <Channel name: megalodonvt>,       2024-11-07 09:24:27.153898 
+
+ geijuteki,     ridings,        <Channel name: megalodonvt>,       2024-11-07 09:24:30.443988 
+
+ geijuteki,     virgins,        <Channel name: megalodonvt>,       2024-11-07 09:24:34.518029 
+
+ geijuteki,     grinds,        <Channel name: megalodonvt>,       2024-11-07 09:24:42.227287 
+
+ geijuteki,     diving,        <Channel name: megalodonvt>,       2024-11-07 09:24:46.239073 
+
+ geijuteki,     riving,        <Channel name: megalodonvt>,       2024-11-07 09:24:48.461621 
+
+ geijuteki,     siding,        <Channel name: megalodonvt>,       2024-11-07 09:24:51.178028 
+
+ geijuteki,     vising,        <Channel name: megalodonvt>,       2024-11-07 09:24:54.806634 
+
+ geijuteki,     grinds,        <Channel name: megalodonvt>,       2024-11-07 09:24:58.240672 
+
+ geijuteki,     indris,        <Channel name: megalodonvt>,       2024-11-07 09:25:01.974037 
+
+ geijuteki,     rising,        <Channel name: megalodonvt>,       2024-11-07 09:25:03.532800 
+
+ geijuteki,     vising,        <Channel name: megalodonvt>,       2024-11-07 09:25:06.699125 
+
+ geijuteki,     siring,        <Channel name: megalodonvt>,       2024-11-07 09:25:10.228001 
+
+ geijuteki,     riding,        <Channel name: megalodonvt>,       2024-11-07 09:25:15.777528 
+
+ geijuteki,     diving,        <Channel name: megalodonvt>,       2024-11-07 09:25:21.795920 
+
+ geijuteki,     vising,        <Channel name: megalodonvt>,       2024-11-07 09:25:28.492409 
+
+ geijuteki,     siding,        <Channel name: megalodonvt>,       2024-11-07 09:25:38.054228 
+
+ geijuteki,     rising,        <Channel name: megalodonvt>,       2024-11-07 09:25:53.256293 
+
+ geijuteki,     a cant say the last one,        <Channel name: megalodonvt>,       2024-11-07 09:26:16.663066 
+
+ geijuteki,     v irgin,        <Channel name: megalodonvt>,       2024-11-07 09:26:26.935068 
+
+ geijuteki,     it had to be,        <Channel name: megalodonvt>,       2024-11-07 09:26:32.643909 
+
+ geijuteki,     recycle,        <Channel name: megalodonvt>,       2024-11-07 09:27:05.633155 
+
+ geijuteki,     cycler,        <Channel name: megalodonvt>,       2024-11-07 09:27:12.510414 
+
+ geijuteki,     leery,        <Channel name: megalodonvt>,       2024-11-07 09:27:31.018719 
+
+ geijuteki,     cycler,        <Channel name: megalodonvt>,       2024-11-07 09:27:33.550609 
+
+ geijuteki,     reece,        <Channel name: megalodonvt>,       2024-11-07 09:27:41.947276 
+
+ geijuteki,     lycee,        <Channel name: megalodonvt>,       2024-11-07 09:27:47.787768 
+
+ geijuteki,     creel,        <Channel name: megalodonvt>,       2024-11-07 09:27:53.054286 
+
+ geijuteki,     lycee,        <Channel name: megalodonvt>,       2024-11-07 09:27:57.272480 
+
+ geijuteki,     reece,        <Channel name: megalodonvt>,       2024-11-07 09:28:04.475554 
+
+ geijuteki,     cere,        <Channel name: megalodonvt>,       2024-11-07 09:28:08.983886 
+
+ geijuteki,     rely,        <Channel name: megalodonvt>,       2024-11-07 09:28:15.148875 
+
+ geijuteki,     eyer,        <Channel name: megalodonvt>,       2024-11-07 09:28:25.247019 
+
+ geijuteki,     BROOOOOO,        <Channel name: megalodonvt>,       2024-11-07 09:28:29.710145 
+
+ geijuteki,     I SAID REECE,        <Channel name: megalodonvt>,       2024-11-07 09:28:34.218512 
+
+ geijuteki,     oh,        <Channel name: megalodonvt>,       2024-11-07 09:28:38.640604 
+
+ geijuteki,     i spelled it wrong,        <Channel name: megalodonvt>,       2024-11-07 09:28:45.688940 
+
+ geijuteki,     avian,        <Channel name: megalodonvt>,       2024-11-07 09:29:52.227122 
+
+ geijuteki,     navar,        <Channel name: megalodonvt>,       2024-11-07 09:29:55.256040 
+
+ geijuteki,     ravin,        <Channel name: megalodonvt>,       2024-11-07 09:29:58.937008 
+
+ geijuteki,     varna,        <Channel name: megalodonvt>,       2024-11-07 09:30:04.771142 
+
+ geijuteki,     invar,        <Channel name: megalodonvt>,       2024-11-07 09:30:12.656500 
+
+ geijuteki,     naira,        <Channel name: megalodonvt>,       2024-11-07 09:30:17.170752 
+
+ geijuteki,     invar,        <Channel name: megalodonvt>,       2024-11-07 09:30:22.068320 
+
+ geijuteki,     varia,        <Channel name: megalodonvt>,       2024-11-07 09:30:28.240638 
+
+ geijuteki,     varna,        <Channel name: megalodonvt>,       2024-11-07 09:30:34.872716 
+
+ geijuteki,     tiara,        <Channel name: megalodonvt>,       2024-11-07 09:30:51.174656 
+
+ geijuteki,     qanat,        <Channel name: megalodonvt>,       2024-11-07 09:30:55.651517 
+
+ geijuteki,     tranq,        <Channel name: megalodonvt>,       2024-11-07 09:31:00.355230 
+
+ geijuteki,     ratan,        <Channel name: megalodonvt>,       2024-11-07 09:31:04.811620 
+
+ geijuteki,     tranq,        <Channel name: megalodonvt>,       2024-11-07 09:31:11.418871 
+
+ geijuteki,     raint,        <Channel name: megalodonvt>,       2024-11-07 09:31:16.389714 
+
+ geijuteki,     raita,        <Channel name: megalodonvt>,       2024-11-07 09:31:21.144865 
+
+ geijuteki,     riata,        <Channel name: megalodonvt>,       2024-11-07 09:31:28.745109 
+
+ geijuteki,     Billa catching me,        <Channel name: megalodonvt>,       2024-11-07 09:31:41.063443 
+
+ geijuteki,     if only i type faster,        <Channel name: megalodonvt>,       2024-11-07 09:31:46.213439 
+
+ geijuteki,     bro you gonna caqtch me,        <Channel name: megalodonvt>,       2024-11-07 09:32:07.004122 
+
+ geijuteki,     revved,        <Channel name: megalodonvt>,       2024-11-07 09:32:28.411643 
+
+ geijuteki,     permed,        <Channel name: megalodonvt>,       2024-11-07 09:32:32.087566 
+
+ geijuteki,     deperm,        <Channel name: megalodonvt>,       2024-11-07 09:32:34.779937 
+
+ geijuteki,     fever,        <Channel name: megalodonvt>,       2024-11-07 09:32:38.927505 
+
+ geijuteki,     freed,        <Channel name: megalodonvt>,       2024-11-07 09:32:41.529708 
+
+ geijuteki,     preed,        <Channel name: megalodonvt>,       2024-11-07 09:32:45.241175 
+
+ geijuteki,     refed,        <Channel name: megalodonvt>,       2024-11-07 09:32:46.987094 
+
+ geijuteki,     verve,        <Channel name: megalodonvt>,       2024-11-07 09:32:50.462625 
+
+ geijuteki,     prevued,        <Channel name: megalodonvt>,       2024-11-07 09:33:11.967957 
+
+ geijuteki,     demure,        <Channel name: megalodonvt>,       2024-11-07 09:33:20.537988 
+
+ geijuteki,     dumper,        <Channel name: megalodonvt>,       2024-11-07 09:33:23.180376 
+
+ geijuteki,     perdue,        <Channel name: megalodonvt>,       2024-11-07 09:33:27.943477 
+
+ geijuteki,     revved,        <Channel name: megalodonvt>,       2024-11-07 09:33:35.296902 
+
+ geijuteki,     permed,        <Channel name: megalodonvt>,       2024-11-07 09:33:42.188085 
+
+ geijuteki,     pureed,        <Channel name: megalodonvt>,       2024-11-07 09:33:47.635728 
+
+ geijuteki,     prevue,        <Channel name: megalodonvt>,       2024-11-07 09:33:54.004082 
+
+ geijuteki,     bruhhhhh,        <Channel name: megalodonvt>,       2024-11-07 09:34:12.369203 
+
+ geijuteki,     i gtg after this next one,        <Channel name: megalodonvt>,       2024-11-07 09:34:26.897001 
+
+ geijuteki,     have fun guys,        <Channel name: megalodonvt>,       2024-11-07 09:34:32.797372 
+
+ geijuteki,     and girls and whatnot,        <Channel name: megalodonvt>,       2024-11-07 09:34:38.600545 
+
+ geijuteki,     sunfish,        <Channel name: megalodonvt>,       2024-11-07 09:35:22.579033 
+
+ geijuteki,     shins,        <Channel name: megalodonvt>,       2024-11-07 09:35:29.007368 
+
+ geijuteki,     sinus,        <Channel name: megalodonvt>,       2024-11-07 09:35:31.032645 
+
+ geijuteki,     sushi,        <Channel name: megalodonvt>,       2024-11-07 09:35:33.596093 
+
+ geijuteki,     shuns,        <Channel name: megalodonvt>,       2024-11-07 09:35:35.384147 
+
+ geijuteki,     nisus,        <Channel name: megalodonvt>,       2024-11-07 09:35:51.888140 
+
+ geijuteki,     fuss,        <Channel name: megalodonvt>,       2024-11-07 09:36:02.311649 
+
+ geijuteki,     hiss,        <Channel name: megalodonvt>,       2024-11-07 09:36:05.592954 
+
+ geijuteki,     shuns,        <Channel name: megalodonvt>,       2024-11-07 09:36:16.707572 
+
+ geijuteki,     fins,        <Channel name: megalodonvt>,       2024-11-07 09:36:26.188358 
+
+ geijuteki,     shun,        <Channel name: megalodonvt>,       2024-11-07 09:36:30.272046 
+
+ geijuteki,     suns,        <Channel name: megalodonvt>,       2024-11-07 09:36:34.438441 
+
+ geijuteki,     unis,        <Channel name: megalodonvt>,       2024-11-07 09:36:38.557774 
+
+ geijuteki,     funs,        <Channel name: megalodonvt>,       2024-11-07 09:36:45.471940 
+
+ geijuteki,     hins,        <Channel name: megalodonvt>,       2024-11-07 09:36:50.340703 
+
+ geijuteki,     hisn,        <Channel name: megalodonvt>,       2024-11-07 09:36:54.914277 
+
+ geijuteki,     sinh,        <Channel name: megalodonvt>,       2024-11-07 09:37:06.157382 
+
+ geijuteki,     YESSSS,        <Channel name: megalodonvt>,       2024-11-07 09:37:22.316901 
+
+ geijuteki,     i won,        <Channel name: megalodonvt>,       2024-11-07 09:37:25.087024 
+
+ geijuteki,     alright im going to work take care,        <Channel name: megalodonvt>,       2024-11-07 09:37:33.955068 

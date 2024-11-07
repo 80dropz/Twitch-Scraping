@@ -1,0 +1,12 @@
+
+ deeznuts_005,     !points,        <Channel name: kaicenat>,       2024-11-07 09:13:13.425906 
+
+ deeznuts_005,     Miles dead?,        <Channel name: kaicenat>,       2024-11-07 09:16:14.416137 
+
+ deeznuts_005,     Miles died,        <Channel name: kaicenat>,       2024-11-07 09:16:25.868183 
+
+ deeznuts_005,     Miles died,        <Channel name: kaicenat>,       2024-11-07 09:17:55.474547 
+
+ deeznuts_005,     Miles gave up,        <Channel name: kaicenat>,       2024-11-07 09:18:02.761794 
+
+ deeznuts_005,     Hes back,        <Channel name: kaicenat>,       2024-11-07 09:18:22.755111 

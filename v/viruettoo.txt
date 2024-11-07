@@ -1,0 +1,6 @@
+
+ viruettoo,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:06:17.391862 
+
+ viruettoo,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:07:03.522241 
+
+ viruettoo,     !roulette 5,        <Channel name: kaicenat>,       2024-11-07 09:07:50.378894 

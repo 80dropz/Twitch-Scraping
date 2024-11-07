@@ -10,3 +10,5 @@
  brae2funny,     GIFT ME,        <Channel name: kaicenat>,       2024-11-07 01:57:37.521897 
 
  brae2funny,     GIFT ME BratChat,        <Channel name: kaicenat>,       2024-11-07 01:58:23.216133 
+
+ brae2funny,     EARTHQUAKE,        <Channel name: kaicenat>,       2024-11-07 09:01:41.915732 

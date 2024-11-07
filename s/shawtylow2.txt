@@ -22,3 +22,11 @@
  shawtylow2,     7 adds,        <Channel name: kaicenat>,       2024-11-07 02:25:55.055235 
 
  shawtylow2,     L adds,        <Channel name: kaicenat>,       2024-11-07 02:26:01.199321 
+
+ shawtylow2,     sub me,        <Channel name: kaicenat>,       2024-11-07 09:25:20.214917 
+
+ shawtylow2,     gift mee,        <Channel name: kaicenat>,       2024-11-07 09:26:24.737355 
+
+ shawtylow2,     he need to go do his homework,        <Channel name: kaicenat>,       2024-11-07 09:30:07.145641 
+
+ shawtylow2,     homework,        <Channel name: kaicenat>,       2024-11-07 09:30:16.283162 

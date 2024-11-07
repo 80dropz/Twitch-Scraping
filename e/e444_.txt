@@ -1,0 +1,8 @@
+
+ e444_,     !roulette 410,        <Channel name: kaicenat>,       2024-11-07 09:04:20.001196 
+
+ e444_,     !roulette 200,        <Channel name: kaicenat>,       2024-11-07 09:04:58.314986 
+
+ e444_,     !points,        <Channel name: kaicenat>,       2024-11-07 09:05:06.903517 
+
+ e444_,     !roulette 6,        <Channel name: kaicenat>,       2024-11-07 09:05:13.896077 

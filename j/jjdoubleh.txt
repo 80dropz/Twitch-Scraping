@@ -1,0 +1,6 @@
+
+ jjdoubleh,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:12:44.512599 
+
+ jjdoubleh,     !points,        <Channel name: kaicenat>,       2024-11-07 09:12:50.962213 
+
+ jjdoubleh,     !roulette 39,        <Channel name: kaicenat>,       2024-11-07 09:12:56.086574 

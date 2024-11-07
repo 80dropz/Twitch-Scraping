@@ -1,0 +1,10 @@
+
+ netxv_,     !gamble 100,        <Channel name: kaicenat>,       2024-11-07 09:38:43.499375 
+
+ netxv_,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:40:29.726708 
+
+ netxv_,     !points,        <Channel name: kaicenat>,       2024-11-07 09:41:03.317321 
+
+ netxv_,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:41:39.771130 
+
+ netxv_,     FREE MILE,        <Channel name: kaicenat>,       2024-11-07 09:43:01.392829 

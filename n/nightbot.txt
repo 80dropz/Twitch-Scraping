@@ -1190,3 +1190,643 @@
  nightbot,     @emily7torres -> Current Stream Game: Fortnite,        <Channel name: oatley>,       2024-11-07 02:53:43.314158 
 
  nightbot,     https://fortnitetracker.com/events/epicgames_S32_TriosCashCup_OCE,        <Channel name: oatley>,       2024-11-07 02:53:45.460808 
+
+ nightbot,     ACTION Subscribe! https://www.youtube.com/@Clix,        <Channel name: clix>,       2024-11-07 09:00:32.271661 
+
+ nightbot,     Make sure to drop a follow and turn on notifications to get notified when I go live!,        <Channel name: swagg>,       2024-11-07 09:00:32.694809 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:00:37.046671 
+
+ nightbot,     @nemes1s_fps -> The bot commands for this channel are available at https://nightbot.tv/t/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:00:48.535861 
+
+ nightbot,     YouTube: youtube.com/Nadeshot | Gaming YouTube: youtube.com/NadeshotPlays | Twitter: twitter.com/Nadeshot | TikTok: tiktok.com/@nadeshot | Instagram: instagram.com/Nadeshot,        <Channel name: nadeshot>,       2024-11-07 09:00:53.577233 
+
+ nightbot,     ACTION Do you want to see emotes like LULW and PepeLaugh ? Follow these links to download FFZ and 7TV/BTTV to make your viewing experience better https://www.frankerfacez.com/ . Enable BTTV/7TV here. https://i.imgur.com/sYxaw4o.png,        <Channel name: clix>,       2024-11-07 09:00:56.553239 
+
+ nightbot,     https://streamlabs.com/swagg1/tip All donations are appreciated! You get a 6 piece nugget if you do :),        <Channel name: swagg>,       2024-11-07 09:00:56.863514 
+
+ nightbot,     @rafabrmdzzz, --> ROG Swift Pro PG248QP (540hz),        <Channel name: mongraal>,       2024-11-07 09:01:17.919728 
+
+ nightbot,     Subscribe to Nadeshot Plays: https://www.youtube.com/NadeshotPlays | Check out Nadeshots latest YT Video here: THE MOST OVERPOWERED GUN IN BLACK OPS 6 (120+ Kills) - https://youtu.be/DK0isbUdXlo,        <Channel name: nadeshot>,       2024-11-07 09:01:25.193491 
+
+ nightbot,     ACTION Join our community discord! --> discord.gg/clix,        <Channel name: clix>,       2024-11-07 09:01:26.426056 
+
+ nightbot,     Code "Swagg" at checkout for a discount on YoungLA's website! https://www.youngla.com,        <Channel name: swagg>,       2024-11-07 09:01:26.464817 
+
+ nightbot,     @rakan457, Mongraal plays Native resolution (1920x1080).,        <Channel name: mongraal>,       2024-11-07 09:01:29.259888 
+
+ nightbot,     itssjenn Pet Max Eh 30, Maxey got 16476 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:01:43.767287 
+
+ nightbot,     ALL SUBATHON GOALS: https://shorturl.at/Js9Jx + Graphic On Screen,        <Channel name: nadeshot>,       2024-11-07 09:01:52.495574 
+
+ nightbot,     ACTION Watchtime Gets DM'ed to you by Streamlabs. Check there if you've done the command and don't see it.,        <Channel name: clix>,       2024-11-07 09:01:55.275567 
+
+ nightbot,     ACTION inpulsexda, To join customs, connect your twitch and discord through discord, go to connections and make sure clix's server is enabled. It can take up to an hour to sync so be patient. After synced, the code will be posted in announcements.,        <Channel name: clix>,       2024-11-07 09:02:01.305347 
+
+ nightbot,     ACTION inpulsexda, Gambling is an OFFLINE only thing. You can check your points by doing !cc, seeing the top of the leaderboard with !top points, !gamble/!roulette and !duel/!join to compete in raffles. You earn more points by subscribing, gifting subs, giving bits and watching the stream.,        <Channel name: clix>,       2024-11-07 09:02:45.564327 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:02:56.329541 
+
+ nightbot,     Mongraal has 3,527 subs,        <Channel name: mongraal>,       2024-11-07 09:02:58.297753 
+
+ nightbot,     ACTION value1x, If you notice Clix making obscure faces involving his jaw/mouth. do not fret. he is currently on a mewing bender in which he mews for 1-3 hours per 24 hours in order to look less obese.,        <Channel name: clix>,       2024-11-07 09:03:00.560608 
+
+ nightbot,     https://www.tiktok.com/@kai_cenat,        <Channel name: kaicenat>,       2024-11-07 09:03:02.451121 
+
+ nightbot,     Join Mongraal's Twitter community: https://x.com/i/communities/1767933808559427783,        <Channel name: mongraal>,       2024-11-07 09:03:03.213017 
+
+ nightbot,     Sadge,        <Channel name: clix>,       2024-11-07 09:03:32.440779 
+
+ nightbot,     inpulsexda, "Dont be sad, be glad" - Clix 8-28-22,        <Channel name: clix>,       2024-11-07 09:04:05.648385 
+
+ nightbot,     ACTION inpulsexda, https://www.primevideo.com/ <--- Use this to get your videos,        <Channel name: clix>,       2024-11-07 09:04:29.586324 
+
+ nightbot,     ACTION alspee, Native FeelsBadMan,        <Channel name: clix>,       2024-11-07 09:04:38.775462 
+
+ nightbot,     Total: 36 / Swagg: 20 / Dante: 8 / Carti: 6 / JSmooth: 2,        <Channel name: swagg>,       2024-11-07 09:04:47.026780 
+
+ nightbot,     ACTION o7_pickl, The current time for Clix is November 7th 2024, 8:05:07 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:05:06.579505 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:05:11.458623 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:05:12.587937 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:05:15.926097 
+
+ nightbot,     Sadge,        <Channel name: clix>,       2024-11-07 09:05:25.840113 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:05:30.122579 
+
+ nightbot,     ACTION sully2828_, https://stats.streamelements.com/c/clix,        <Channel name: clix>,       2024-11-07 09:05:30.817779 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:06:12.284732 
+
+ nightbot,     @melodyyfn_ https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:06:15.613708 
+
+ nightbot,     Nadeshot has been live for 6 hours 1 minute 30 seconds,        <Channel name: nadeshot>,       2024-11-07 09:06:28.049716 
+
+ nightbot,     TrevSG, Best AEK class: https://www.twitch.tv/nadeshot/clip/CalmEndearingGuanacoKappaPride-7lXqn_GRt25APhSg,        <Channel name: nadeshot>,       2024-11-07 09:06:31.974625 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | crykz09,        <Channel name: mrlust>,       2024-11-07 09:06:59.119818 
+
+ nightbot,     ACTION mihailowz, The current time for Clix is November 7th 2024, 8:07:11 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:07:10.147544 
+
+ nightbot,     Mongraal has busted down 442 times TriHard,        <Channel name: mongraal>,       2024-11-07 09:07:32.878056 
+
+ nightbot,     Hassan_the_gamer_dude Pet Max Eh 30, Maxey got 16477 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:07:34.934092 
+
+ nightbot,     EU,        <Channel name: mongraal>,       2024-11-07 09:08:30.384398 
+
+ nightbot,     November 7th 2024, 2:09:02 pm GMT GMT+00:00,        <Channel name: mongraal>,       2024-11-07 09:09:00.562320 
+
+ nightbot,     ACTION exilebrotheres, LFD,        <Channel name: clix>,       2024-11-07 09:09:01.844957 
+
+ nightbot,     No colorblind,        <Channel name: mongraal>,       2024-11-07 09:09:18.934962 
+
+ nightbot,     EU,        <Channel name: mongraal>,       2024-11-07 09:09:22.237468 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | sng0oo,        <Channel name: mrlust>,       2024-11-07 09:09:42.227336 
+
+ nightbot,     TriHard 7,        <Channel name: kaicenat>,       2024-11-07 09:09:44.216248 
+
+ nightbot,     @iz_unknown1 Watchtime command is not currently supported in this chat.,        <Channel name: mongraal>,       2024-11-07 09:09:49.827881 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:10:00.686782 
+
+ nightbot,     All my subs tier 1 / !prime subs or 500 bits get "PERM" added by me on fortnite if you whisper me your epic name on twitch or dm on twitter if you don't know how to whisper (Might take like 1-2 days for me to see whisper or twitter),        <Channel name: mrlust>,       2024-11-07 09:10:12.820760 
+
+ nightbot,     Subscribe to Nadeshot Plays: https://www.youtube.com/NadeshotPlays | Check out Nadeshots latest YT Video here: THE MOST OVERPOWERED GUN IN BLACK OPS 6 (120+ Kills) - https://youtu.be/DK0isbUdXlo,        <Channel name: nadeshot>,       2024-11-07 09:10:17.681087 
+
+ nightbot,     Contribute to the subathon by Subscribing! https://www.twitch.tv/subs/mongraal,        <Channel name: mongraal>,       2024-11-07 09:10:17.907701 
+
+ nightbot,     Make sure to drop a follow and turn on notifications to get notified when I go live!,        <Channel name: swagg>,       2024-11-07 09:10:18.653194 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:10:18.857560 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:10:24.064322 
+
+ nightbot,     ACTION value1x, McDonalds is hiring starting at $15 an hour!,        <Channel name: clix>,       2024-11-07 09:10:34.200700 
+
+ nightbot,     @chiavuzzo, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:10:40.261424 
+
+ nightbot,     ALL SUBATHON GOALS: https://shorturl.at/Js9Jx + Graphic On Screen,        <Channel name: nadeshot>,       2024-11-07 09:10:42.744493 
+
+ nightbot,     ACTION ScorpyL2, The current time for Clix is November 7th 2024, 8:10:47 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:10:45.997830 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:10:58.138021 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:11:01.278852 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:11:01.434900 
+
+ nightbot,     @decorates -> The command "!bracket" has been added successfully.,        <Channel name: adapt>,       2024-11-07 09:11:18.866476 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:12:03.381210 
+
+ nightbot,     YouTube: youtube.com/Nadeshot | Gaming YouTube: youtube.com/NadeshotPlays | Twitter: twitter.com/Nadeshot | TikTok: tiktok.com/@nadeshot | Instagram: instagram.com/Nadeshot,        <Channel name: nadeshot>,       2024-11-07 09:12:11.829717 
+
+ nightbot,     ACTION Do you want to see emotes like LULW and PepeLaugh ? Follow these links to download FFZ and 7TV/BTTV to make your viewing experience better https://www.frankerfacez.com/ . Enable BTTV/7TV here. https://i.imgur.com/sYxaw4o.png,        <Channel name: clix>,       2024-11-07 09:12:12.925702 
+
+ nightbot,     ACTION Join our community discord! --> discord.gg/clix,        <Channel name: clix>,       2024-11-07 09:12:31.800684 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | tiaxx00,        <Channel name: mrlust>,       2024-11-07 09:12:34.390087 
+
+ nightbot,     Hassan_the_gamer_dude Pet Max Eh 30, Maxey got 16478 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:12:34.895380 
+
+ nightbot,     @kloxffps, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:12:43.154702 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:12:49.044715 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:13:20.850048 
+
+ nightbot,     @juaanplopez_, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:13:23.207605 
+
+ nightbot,     Contribute to the subathon by Subscribing! https://www.twitch.tv/subs/mongraal,        <Channel name: mongraal>,       2024-11-07 09:13:25.986733 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:13:31.814990 
+
+ nightbot,     Use individual commands Ex:. !Sens, !Crouch, !Fov, !Brightness, etc.,        <Channel name: ricci>,       2024-11-07 09:13:38.093548 
+
+ nightbot,     hi,        <Channel name: mongraal>,       2024-11-07 09:14:01.364251 
+
+ nightbot,     https://www.tiktok.com/@ricciontwitch/video/7429575596885200159,        <Channel name: ricci>,       2024-11-07 09:14:16.930338 
+
+ nightbot,     @nickcrdbll -> The bot commands for this channel are available at https://nightbot.tv/t/ricci/commands,        <Channel name: ricci>,       2024-11-07 09:14:17.313305 
+
+ nightbot,     ACTION If you are contemplating suicide, we encourage you to reach out to someone. Whether they’re close to you or it’s a professional. Suicide is not the answer, and if you are depressed you’re not alone. A moderator might also DM you to see if you are alright. To talk to a professional, please go to this link. -> https://suicidepreventionlifeline.org/ 800-273-8255,        <Channel name: kaicenat>,       2024-11-07 09:14:17.353848 
+
+ nightbot,     @melob2009 https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:14:37.490094 
+
+ nightbot,     ACTION wavzwtm, McDonalds is hiring starting at $15 an hour!,        <Channel name: clix>,       2024-11-07 09:14:45.121550 
+
+ nightbot,     Blue crown —-> Free sub —-> no ads: https://subs.twitch.tv/ricci,        <Channel name: ricci>,       2024-11-07 09:14:52.911748 
+
+ nightbot,     ACTION The time for Nick right now is: 10:15 am ehYay,        <Channel name: nickeh30>,       2024-11-07 09:14:58.709065 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:15:05.720474 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:15:05.763464 
+
+ nightbot,     ACTION Subscribe! https://www.youtube.com/@Clix,        <Channel name: clix>,       2024-11-07 09:15:07.700726 
+
+ nightbot,     https://streamlabs.com/swagg1/tip All donations are appreciated! You get a 6 piece nugget if you do :),        <Channel name: swagg>,       2024-11-07 09:15:11.361185 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:15:19.611919 
+
+ nightbot,     ACTION Watchtime Gets DM'ed to you by Streamlabs. Check there if you've done the command and don't see it.,        <Channel name: clix>,       2024-11-07 09:15:37.261050 
+
+ nightbot,     Code "Swagg" at checkout for a discount on YoungLA's website! https://www.youngla.com,        <Channel name: swagg>,       2024-11-07 09:15:37.345362 
+
+ nightbot,     •Welcome to my family-friendly stream •Remember to always stay positive, and please refrain from... a) Bad language b) Self-promotion c) Impersonation d) Mentioning personal info e) Threats f) Spam / excessive caps g) No ghosting Please and thank you! ehYay,        <Channel name: nickeh30>,       2024-11-07 09:15:40.506009 
+
+ nightbot,     ACTION endc0reOW, The current time for Clix is November 7th 2024, 8:15:43 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:15:41.780468 
+
+ nightbot,     Contribute to the subathon by Subscribing! https://www.twitch.tv/subs/mongraal,        <Channel name: mongraal>,       2024-11-07 09:15:54.788981 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:15:57.821293 
+
+ nightbot,     Forward = 64 , Strafe = 90, Backward = 122,        <Channel name: mongraal>,       2024-11-07 09:16:12.622658 
+
+ nightbot,     1v1: 9007-7204-6798 2v2: 5980-2061-4737 Box: 9466-7672-0077 Warmup: 8391-1517-1417,        <Channel name: mongraal>,       2024-11-07 09:16:15.127488 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:16:16.365513 
+
+ nightbot,     ACTION Join me in supporting the Dana-Farber Cancer Institute & the Jimmy Fund here: https://tilt.fyi/4m3QIQfz05 |Or Join my Team here to Fundraise too! https://danafarber.jimmyfund.org/site/TR?team_id=29416&fr_id=2150&pg=team,        <Channel name: clix>,       2024-11-07 09:16:16.409524 
+
+ nightbot,     Join Mongraal's Twitter community: https://x.com/i/communities/1767933808559427783,        <Channel name: mongraal>,       2024-11-07 09:16:16.988121 
+
+ nightbot,     @ropatschx, Mongraal plays Native resolution (1920x1080).,        <Channel name: mongraal>,       2024-11-07 09:16:23.679345 
+
+ nightbot,     ACTION Amazon Prime members get a free Twitch subscription each month. Link Your Account Here: twitch.amazon.com/prime Using: i.imgur.com/NvVFM1B,        <Channel name: mongraal>,       2024-11-07 09:16:25.422237 
+
+ nightbot,     come play with me https://gta5rp.com/mira,        <Channel name: mira>,       2024-11-07 09:16:35.545444 
+
+ nightbot,     ACTION synxfn0, The current time for Clix is November 7th 2024, 8:16:47 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:16:45.540776 
+
+ nightbot,     hxllwing https://youtu.be/vaf1LFCOfEQ?si=yYxnnMF86KHTFIws,        <Channel name: swagg>,       2024-11-07 09:16:49.973907 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:17:28.807458 
+
+ nightbot,     ACTION syazrenn, The current time for Clix is November 7th 2024, 8:17:44 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:17:42.541329 
+
+ nightbot,     @hrabiatabluga, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:17:52.990882 
+
+ nightbot,     @hrabiatabluga https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:18:01.693067 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:18:02.500259 
+
+ nightbot,     decorates https://challonge.com/ProsimV4,        <Channel name: adapt>,       2024-11-07 09:18:29.863050 
+
+ nightbot,     @sawwcio204 Elite I,        <Channel name: mongraal>,       2024-11-07 09:18:42.423566 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:19:00.381137 
+
+ nightbot,     @Etse7, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:19:28.353113 
+
+ nightbot,     @jude__33 Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:19:32.652529 
+
+ nightbot,     Subscribe to Nadeshot Plays: https://www.youtube.com/NadeshotPlays | Check out Nadeshots latest YT Video here: THE MOST OVERPOWERED GUN IN BLACK OPS 6 (120+ Kills) - https://youtu.be/DK0isbUdXlo,        <Channel name: nadeshot>,       2024-11-07 09:20:08.507208 
+
+ nightbot,     Follow the stream if you have not already and don't forget to enable notifications! :D,        <Channel name: adapt>,       2024-11-07 09:20:10.107898 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:20:10.153912 
+
+ nightbot,     Make sure to drop a follow and turn on notifications to get notified when I go live!,        <Channel name: swagg>,       2024-11-07 09:20:10.200228 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:20:19.102902 
+
+ nightbot,     @aleephd Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:20:19.498079 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:20:24.235836 
+
+ nightbot,     ALL SUBATHON GOALS: https://shorturl.at/Js9Jx + Graphic On Screen,        <Channel name: nadeshot>,       2024-11-07 09:20:37.672750 
+
+ nightbot,     Follow my socials if you have not already! https://www.youtube.com/@FaZeAdaptLive  https://twitter.com/FaZeAdapt  https://www.instagram.com/thefazeadapt/?hl=en,        <Channel name: adapt>,       2024-11-07 09:20:37.827283 
+
+ nightbot,     ACTION AereAIM, Clix is using the Shure SM7B: https://www.shure.com/en-US/products/microphones/sm7b,        <Channel name: clix>,       2024-11-07 09:20:38.934300 
+
+ nightbot,     @matte__005, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:20:48.790766 
+
+ nightbot,     Mongraal has 3,528 subs,        <Channel name: mongraal>,       2024-11-07 09:20:55.747684 
+
+ nightbot,     If you can't see emotes like NOWAY Download 7TV here: https://7tv.app/,        <Channel name: adapt>,       2024-11-07 09:20:59.515212 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:20:59.558767 
+
+ nightbot,     JOIN THE DISCORD discord.gg/adapt,        <Channel name: adapt>,       2024-11-07 09:21:17.889372 
+
+ nightbot,     All my subs tier 1 / !prime subs or 500 bits get "PERM" added by me on fortnite if you whisper me your epic name on twitch or dm on twitter if you don't know how to whisper (Might take like 1-2 days for me to see whisper or twitter),        <Channel name: mrlust>,       2024-11-07 09:21:22.202331 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:21:25.276896 
+
+ nightbot,     ACTION k1ngstarfnbr, Clix's settings can be viewed here! https://www.youtube.com/watch?v=Q8PHHCH5Heo,        <Channel name: clix>,       2024-11-07 09:21:44.357060 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:21:54.054992 
+
+ nightbot,     mrsavaBen,        <Channel name: mongraal>,       2024-11-07 09:22:02.041636 
+
+ nightbot,     ACTION sfetofar4o0, The current time for Clix is November 7th 2024, 8:22:05 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:22:03.874146 
+
+ nightbot,     @k1ngstarfnbr https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:22:11.088143 
+
+ nightbot,     https://www.twitch.tv/bigcartiier,        <Channel name: swagg>,       2024-11-07 09:22:15.221643 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | marcelaha23,        <Channel name: mrlust>,       2024-11-07 09:22:21.579299 
+
+ nightbot,     Hassan_the_gamer_dude Pet Max Eh 30, Maxey got 16479 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:22:35.193375 
+
+ nightbot,     Mongraal has 3,528 subs,        <Channel name: mongraal>,       2024-11-07 09:22:46.409294 
+
+ nightbot,     @dinamovolante, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:23:03.197783 
+
+ nightbot,     ACTION controlleraidennn, https://fortnitetracker.com/events/epicgames_S32_TriosCashCup_NAC,        <Channel name: clix>,       2024-11-07 09:23:07.278354 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | tosko_bg,        <Channel name: mrlust>,       2024-11-07 09:23:15.248990 
+
+ nightbot,     @on, Mongraal Is using edit on release [ON]. He uses F to edit.,        <Channel name: mongraal>,       2024-11-07 09:23:19.480445 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:23:23.156616 
+
+ nightbot,     @txdie Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:23:30.205342 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:23:33.995254 
+
+ nightbot,     mrsavaBen,        <Channel name: mongraal>,       2024-11-07 09:23:42.670635 
+
+ nightbot,     pc: 500+  fps console: 120+ fps,        <Channel name: mongraal>,       2024-11-07 09:23:47.279020 
+
+ nightbot,     smudgeeeee Swagg plays on 114 FOV,        <Channel name: swagg>,       2024-11-07 09:23:49.356584 
+
+ nightbot,     @KEHOUK -> There was an error connecting to Twitch's API. Try again later.,        <Channel name: kaicenat>,       2024-11-07 09:23:51.949185 
+
+ nightbot,     @Locke_29, SteelSeries sent him a Limited Edition Apex Pro Mini White Gold 1/250, he also has a Steelseries Apex Pro TKL,        <Channel name: mongraal>,       2024-11-07 09:23:54.903157 
+
+ nightbot,     @luismarioblg, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:23:56.234047 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:24:04.619610 
+
+ nightbot,     ACTION Do you want to see emotes like LULW and PepeLaugh ? Follow these links to download FFZ and 7TV/BTTV to make your viewing experience better https://www.frankerfacez.com/ . Enable BTTV/7TV here. https://i.imgur.com/sYxaw4o.png,        <Channel name: clix>,       2024-11-07 09:24:12.433000 
+
+ nightbot,     YouTube: youtube.com/Nadeshot | Gaming YouTube: youtube.com/NadeshotPlays | Twitter: twitter.com/Nadeshot | TikTok: tiktok.com/@nadeshot | Instagram: instagram.com/Nadeshot,        <Channel name: nadeshot>,       2024-11-07 09:24:13.085635 
+
+ nightbot,     @jingle_balss Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:24:25.322881 
+
+ nightbot,     Inked Gaming extended XXL,        <Channel name: mongraal>,       2024-11-07 09:24:27.778836 
+
+ nightbot,     ACTION noeks69, My new 4090 MONSTER PC was custom built by https://brparadox.com/ Code "CLIX" for a discount.,        <Channel name: clix>,       2024-11-07 09:24:29.859976 
+
+ nightbot,     ACTION Join our community discord! --> discord.gg/clix,        <Channel name: clix>,       2024-11-07 09:24:32.413911 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:24:40.268830 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:24:41.430273 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:24:50.928515 
+
+ nightbot,     Mongraal has 3,528 subs,        <Channel name: mongraal>,       2024-11-07 09:25:04.713861 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:25:06.882147 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:25:09.187273 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:25:13.812623 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:25:15.621755 
+
+ nightbot,     Mongraal’s Playlist: https://spoti.fi/2SyVHQn mongaPog,        <Channel name: mongraal>,       2024-11-07 09:25:15.973334 
+
+ nightbot,     PotFriend Have an Amazon account? Link your Twitch and get a FREE sub for NO ADS, including emotes, server priority, 1.2x channel points etc.! Go to twitch.tv/prime and subscribe here: twitch.tv/subs/cyplexval,        <Channel name: cyplexval>,       2024-11-07 09:25:16.902614 
+
+ nightbot,     @ggrinf, Mongraal plays Native resolution (1920x1080).,        <Channel name: mongraal>,       2024-11-07 09:25:18.376388 
+
+ nightbot,     @realaxfn, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:25:26.461917 
+
+ nightbot,     @txdie -> The bot commands for this channel are available at https://nightbot.tv/t/mongraal/commands,        <Channel name: mongraal>,       2024-11-07 09:25:30.105567 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:25:32.433692 
+
+ nightbot,     @jingle_balss Elite I,        <Channel name: mongraal>,       2024-11-07 09:25:33.053106 
+
+ nightbot,     ACTION lonewiener420, If you can't see the emotes Clueless or Deadass Please get FFZ by going to: https://www.frankerfacez.com/ . Enable also BTTV/7TV here as well. https://i.imgur.com/sYxaw4o.png,        <Channel name: clix>,       2024-11-07 09:25:50.548762 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:25:54.087766 
+
+ nightbot,     Use individual commands Ex:. !Sens, !Crouch, !Fov, !Brightness, etc.,        <Channel name: ricci>,       2024-11-07 09:25:57.369600 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:26:03.621602 
+
+ nightbot,     @Dezlart, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:26:08.072332 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:26:16.329557 
+
+ nightbot,     pappeen https://www.twitch.tv/swagg/clip/DeafRacyGoshawkDancingBanana-l-bePC85FLluEurn,        <Channel name: swagg>,       2024-11-07 09:26:22.833546 
+
+ nightbot,     https://www.twitch.tv/bigcartiier,        <Channel name: swagg>,       2024-11-07 09:26:25.202081 
+
+ nightbot,     @rollerrrrrrrr, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:26:43.082988 
+
+ nightbot,     qeygn AK47 build : Kepler Microflex Optic | Ported Compensator Muzzle | Reinforced Barrel | Extended Mag I | Ergonomic Grip,        <Channel name: swagg>,       2024-11-07 09:26:48.652579 
+
+ nightbot,     https://www.checkmategaming.com/profile/320439/ricci#scheduled-matches,        <Channel name: ricci>,       2024-11-07 09:26:53.477489 
+
+ nightbot,     ACTION The time for Nick right now is: 10:26 am ehYay,        <Channel name: nickeh30>,       2024-11-07 09:26:57.012420 
+
+ nightbot,     @dyshnooo, Followage isn't enabled on this channel, if you are on PC you can simply click on your name to see your followage, if on mobile, please use a third-party website to see this as the command isn't enabled,        <Channel name: mongraal>,       2024-11-07 09:27:04.069922 
+
+ nightbot,     ACTION If you are contemplating suicide, we encourage you to reach out to someone. Whether they’re close to you or it’s a professional. Suicide is not the answer, and if you are depressed you’re not alone. A moderator might also DM you to see if you are alright. To talk to a professional, please go to this link. -> https://suicidepreventionlifeline.org/ 800-273-8255,        <Channel name: kaicenat>,       2024-11-07 09:27:21.668028 
+
+ nightbot,     Total: 36 / Swagg: 20 / Dante: 8 / Carti: 6 / JSmooth: 2,        <Channel name: swagg>,       2024-11-07 09:27:27.301779 
+
+ nightbot,     https://www.twitch.tv/bigcartiier,        <Channel name: swagg>,       2024-11-07 09:27:31.866732 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:27:33.391516 
+
+ nightbot,     Hassan_the_gamer_dude Pet Max Eh 30, Maxey got 16480 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:27:35.253849 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | dxmii222,        <Channel name: mrlust>,       2024-11-07 09:27:37.579291 
+
+ nightbot,     Sadge,        <Channel name: clix>,       2024-11-07 09:27:40.010480 
+
+ nightbot,     ACTION If you are contemplating suicide, we encourage you to reach out to someone. Whether they’re close to you or it’s a professional. Suicide is not the answer, and if you are depressed you’re not alone. A moderator might also DM you to see if you are alright. To talk to a professional, please go to this link. -> https://suicidepreventionlifeline.org/ 800-273-8255,        <Channel name: kaicenat>,       2024-11-07 09:27:54.788559 
+
+ nightbot,     ACTION booster2011, The current time for Clix is November 7th 2024, 8:28:06 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:28:05.160419 
+
+ nightbot,     https://www.twitch.tv/bigcartiier,        <Channel name: swagg>,       2024-11-07 09:28:29.092617 
+
+ nightbot,     @b649, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:28:59.855559 
+
+ nightbot,     Mongraal has 3,528 subs,        <Channel name: mongraal>,       2024-11-07 09:29:12.602262 
+
+ nightbot,     @lazerj07 Mongraal plays with edit on release [ON],        <Channel name: mongraal>,       2024-11-07 09:29:24.780996 
+
+ nightbot,     80%,        <Channel name: mongraal>,       2024-11-07 09:29:30.295146 
+
+ nightbot,     ACTION hxmzawy, The current time for Clix is November 7th 2024, 8:29:32 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:29:31.497676 
+
+ nightbot,     @aadne2004, Mongraal Is using edit on release [ON]. He uses F to edit.,        <Channel name: mongraal>,       2024-11-07 09:29:38.204205 
+
+ nightbot,     @piotrszulek https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:29:40.106532 
+
+ nightbot,     @dezzoxy_, --> ROG Swift Pro PG248QP (540hz),        <Channel name: mongraal>,       2024-11-07 09:30:01.000521 
+
+ nightbot,     Subscribe to Nadeshot Plays: https://www.youtube.com/NadeshotPlays | Check out Nadeshots latest YT Video here: THE MOST OVERPOWERED GUN IN BLACK OPS 6 (120+ Kills) - https://youtu.be/DK0isbUdXlo,        <Channel name: nadeshot>,       2024-11-07 09:30:14.165133 
+
+ nightbot,     ACTION Subscribe! https://www.youtube.com/@Clix,        <Channel name: clix>,       2024-11-07 09:30:16.147833 
+
+ nightbot,     @aadne2004 https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:30:16.787970 
+
+ nightbot,     Make sure to drop a follow and turn on notifications to get notified when I go live!,        <Channel name: swagg>,       2024-11-07 09:30:16.831969 
+
+ nightbot,     ACTION If you are contemplating suicide, we encourage you to reach out to someone. Whether they’re close to you or it’s a professional. Suicide is not the answer, and if you are depressed you’re not alone. A moderator might also DM you to see if you are alright. To talk to a professional, please go to this link. -> https://suicidepreventionlifeline.org/ 800-273-8255,        <Channel name: kaicenat>,       2024-11-07 09:30:27.096034 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:30:28.500371 
+
+ nightbot,     @tamar1ndo0, Mongraal plays Native resolution (1920x1080).,        <Channel name: mongraal>,       2024-11-07 09:30:35.488429 
+
+ nightbot,     Inked Gaming extended XXL,        <Channel name: mongraal>,       2024-11-07 09:30:42.694254 
+
+ nightbot,     ALL SUBATHON GOALS: https://shorturl.at/Js9Jx + Graphic On Screen,        <Channel name: nadeshot>,       2024-11-07 09:30:48.135419 
+
+ nightbot,     ACTION Watchtime Gets DM'ed to you by Streamlabs. Check there if you've done the command and don't see it.,        <Channel name: clix>,       2024-11-07 09:30:49.811527 
+
+ nightbot,     https://streamlabs.com/swagg1/tip All donations are appreciated! You get a 6 piece nugget if you do :),        <Channel name: swagg>,       2024-11-07 09:30:49.856137 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:30:59.360914 
+
+ nightbot,     ACTION cairees_07, https://fortnitetracker.com/events/epicgames_S32_TriosCashCup_NAC,        <Channel name: clix>,       2024-11-07 09:31:05.567659 
+
+ nightbot,     ACTION omareh12, The current time for Clix is November 7th 2024, 8:31:11 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:31:09.910309 
+
+ nightbot,     @b649 Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:31:10.849322 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:31:12.610415 
+
+ nightbot,     Code "Swagg" at checkout for a discount on YoungLA's website! https://www.youngla.com,        <Channel name: swagg>,       2024-11-07 09:31:12.762088 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:31:12.806089 
+
+ nightbot,     @ulkashluxa, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:31:20.172693 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:31:31.608985 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:31:32.732695 
+
+ nightbot,     ACTION kefirdok, CLIX x MUZ x RAPID,        <Channel name: clix>,       2024-11-07 09:31:33.211616 
+
+ nightbot,     ACTION NotMarkX, https://fortnitetracker.com/events/epicgames_S32_TriosCashCup_NAC,        <Channel name: clix>,       2024-11-07 09:31:36.755859 
+
+ nightbot,     ACTION kefirdok, LFD,        <Channel name: clix>,       2024-11-07 09:31:39.436268 
+
+ nightbot,     come play with me https://gta5rp.com/mira,        <Channel name: mira>,       2024-11-07 09:31:50.656487 
+
+ nightbot,     ACTION Join me in supporting the Dana-Farber Cancer Institute & the Jimmy Fund here: https://tilt.fyi/4m3QIQfz05 |Or Join my Team here to Fundraise too! https://danafarber.jimmyfund.org/site/TR?team_id=29416&fr_id=2150&pg=team,        <Channel name: clix>,       2024-11-07 09:31:50.808859 
+
+ nightbot,     @DoBrasil123, SteelSeries sent him a Limited Edition Apex Pro Mini White Gold 1/250, he also has a Steelseries Apex Pro TKL,        <Channel name: mongraal>,       2024-11-07 09:31:52.139277 
+
+ nightbot,     Inked Gaming extended XXL,        <Channel name: mongraal>,       2024-11-07 09:32:02.627831 
+
+ nightbot,     @adalito2k Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:32:06.851218 
+
+ nightbot,     @somcixdd, 6.8% x,y,        <Channel name: mongraal>,       2024-11-07 09:32:18.680965 
+
+ nightbot,     He likes the name, that's the ONLY reason he changed it.,        <Channel name: mongraal>,       2024-11-07 09:32:24.581026 
+
+ nightbot,     @b649, SteelSeries sent him a Limited Edition Apex Pro Mini White Gold 1/250, he also has a Steelseries Apex Pro TKL,        <Channel name: mongraal>,       2024-11-07 09:32:24.778069 
+
+ nightbot,     800,        <Channel name: mongraal>,       2024-11-07 09:32:24.896887 
+
+ nightbot,     Hassan_the_gamer_dude Pet Max Eh 30, Maxey got 16481 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:32:35.551025 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:32:43.174352 
+
+ nightbot,     @211_CFish -> The bot commands for this channel are available at https://nightbot.tv/t/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:32:51.510537 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:32:56.347172 
+
+ nightbot,     90%,        <Channel name: mongraal>,       2024-11-07 09:33:17.296064 
+
+ nightbot,     hbbix WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:33:26.415894 
+
+ nightbot,     DaMoony_ WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:33:36.362985 
+
+ nightbot,     @k0v1t4 Logitech G402,        <Channel name: mongraal>,       2024-11-07 09:33:39.272997 
+
+ nightbot,     Boundless07 WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:33:45.860363 
+
+ nightbot,     No colorblind,        <Channel name: mongraal>,       2024-11-07 09:33:52.592844 
+
+ nightbot,     November 7th 2024, 2:34:13 pm GMT GMT+00:00,        <Channel name: mongraal>,       2024-11-07 09:34:11.465841 
+
+ nightbot,     linka_tv Sens: 6/6 | ADS: 0.90 | Aim response: Dynamic | Deadzone: default (0.05),        <Channel name: swagg>,       2024-11-07 09:34:22.433374 
+
+ nightbot,     @Parfyy101 https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:34:32.287440 
+
+ nightbot,     https://www.twitch.tv/bigcartiier,        <Channel name: swagg>,       2024-11-07 09:34:32.504060 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:34:39.526379 
+
+ nightbot,     ACTION Amazon Prime members get a free Twitch subscription each month. Link Your Account Here: twitch.amazon.com/prime Using: i.imgur.com/NvVFM1B,        <Channel name: mongraal>,       2024-11-07 09:34:44.834337 
+
+ nightbot,     November 7th 2024, 2:34:48 pm GMT GMT+00:00,        <Channel name: mongraal>,       2024-11-07 09:34:46.411783 
+
+ nightbot,     Stay Updated with Nadeshot on twitter: https://twitter.com/nadeshot nadeFace,        <Channel name: nadeshot>,       2024-11-07 09:35:05.652526 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:35:06.500085 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:35:07.422546 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:35:14.785587 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:35:32.425218 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | aqqvv,        <Channel name: mrlust>,       2024-11-07 09:36:04.529523 
+
+ nightbot,     ACTION Do you want to see emotes like LULW and PepeLaugh ? Follow these links to download FFZ and 7TV/BTTV to make your viewing experience better https://www.frankerfacez.com/ . Enable BTTV/7TV here. https://i.imgur.com/sYxaw4o.png,        <Channel name: clix>,       2024-11-07 09:36:09.361297 
+
+ nightbot,     YouTube: youtube.com/Nadeshot | Gaming YouTube: youtube.com/NadeshotPlays | Twitter: twitter.com/Nadeshot | TikTok: tiktok.com/@nadeshot | Instagram: instagram.com/Nadeshot,        <Channel name: nadeshot>,       2024-11-07 09:36:09.829965 
+
+ nightbot,     ACTION Clyxelol, The current time for Clix is November 7th 2024, 8:36:22 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:36:20.719265 
+
+ nightbot,     mousiieee WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:36:22.659015 
+
+ nightbot,     DaMoony_ WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:36:30.596404 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:36:30.718492 
+
+ nightbot,     ACTION Join our community discord! --> discord.gg/clix,        <Channel name: clix>,       2024-11-07 09:36:30.765006 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:36:49.053703 
+
+ nightbot,     @jessiewynner -> The bot commands for this channel are available at https://nightbot.tv/t/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:36:53.929963 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:37:27.697344 
+
+ nightbot,     Sadge,        <Channel name: clix>,       2024-11-07 09:37:35.900488 
+
+ nightbot,     Nadeshot has been live for 6 hours 32 minutes 43 seconds,        <Channel name: nadeshot>,       2024-11-07 09:37:40.645039 
+
+ nightbot,     HighQueenXo Pet Max Eh 30, Maxey got 16482 pets so far  ehMaxEh30    ehMazing,        <Channel name: nickeh30>,       2024-11-07 09:37:46.408355 
+
+ nightbot,     shahmulan WANTS A HOTDOG REAL BAAAAAD nadeMeat nadeMeat,        <Channel name: nadeshot>,       2024-11-07 09:37:46.619789 
+
+ nightbot,     hi,        <Channel name: mongraal>,       2024-11-07 09:37:57.835007 
+
+ nightbot,     @0juliation https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:38:13.060057 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:38:30.842641 
+
+ nightbot,     @TheReaITonyMontana https://prosettings.net/players/mongraal/  <- x,y is 6.8%,        <Channel name: mongraal>,       2024-11-07 09:38:46.423777 
+
+ nightbot,     Use Code Mongraal in the fortnite Item Shop #ad mongaLove,        <Channel name: mongraal>,       2024-11-07 09:38:51.833572 
+
+ nightbot,     ACTION AereAIM, Clix uses JBL Quantums: https://bit.ly/3TGmsiq,        <Channel name: clix>,       2024-11-07 09:38:54.216257 
+
+ nightbot,     ACTION controlleraidennn, https://fortnitetracker.com/events/epicgames_S32_TriosCashCup_NAC,        <Channel name: clix>,       2024-11-07 09:38:55.584004 
+
+ nightbot,     @globoylos007 -> The command "!who" has been updated successfully.,        <Channel name: swagg>,       2024-11-07 09:38:55.826566 
+
+ nightbot,     https://www.twitch.tv/theboisantana,        <Channel name: swagg>,       2024-11-07 09:38:59.940854 
+
+ nightbot,     ACTION aernz348, The current time for Clix is November 7th 2024, 8:39:02 am CST GMT-06:00.,        <Channel name: clix>,       2024-11-07 09:39:01.007835 
+
+ nightbot,     @TheReaITonyMontana your mum Kappa,        <Channel name: mongraal>,       2024-11-07 09:39:12.563686 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:39:13.836913 
+
+ nightbot,     They have qualled Trio CC Finals mongaPog,        <Channel name: mongraal>,       2024-11-07 09:39:32.184358 
+
+ nightbot,     No colorblind,        <Channel name: mongraal>,       2024-11-07 09:39:42.835305 
+
+ nightbot,     @ComaxFN your mum Kappa,        <Channel name: mongraal>,       2024-11-07 09:39:42.913553 
+
+ nightbot,     Subscribe to Nadeshot Plays: https://www.youtube.com/NadeshotPlays | Check out Nadeshots latest YT Video here: THE MOST OVERPOWERED GUN IN BLACK OPS 6 (120+ Kills) - https://youtu.be/DK0isbUdXlo,        <Channel name: nadeshot>,       2024-11-07 09:40:16.927877 
+
+ nightbot,     ACTION Join the Twitter Community here https://twitter.com/i/communities/1597715549391388673,        <Channel name: clix>,       2024-11-07 09:40:18.762472 
+
+ nightbot,     Try !rap !pop !classics !kpop !zest !christmas,        <Channel name: sinatraa>,       2024-11-07 09:40:18.976179 
+
+ nightbot,     Make sure to drop a follow and turn on notifications to get notified when I go live!,        <Channel name: swagg>,       2024-11-07 09:40:19.848849 
+
+ nightbot,     https://open.spotify.com/user/vswon1/playlist/6A3FGpXtP1Ry2I49TyKoUe,        <Channel name: sinatraa>,       2024-11-07 09:40:27.107611 
+
+ nightbot,     Don't forget to use code LUST in the Fortnite item shop.. it helps support the streams :) #AD,        <Channel name: mrlust>,       2024-11-07 09:40:28.356570 
+
+ nightbot,     https://open.spotify.com/playlist/39hnnbsmTqdMSQavjNvD8T,        <Channel name: sinatraa>,       2024-11-07 09:40:29.681132 
+
+ nightbot,     ALL SUBATHON GOALS: https://shorturl.at/Js9Jx + Graphic On Screen,        <Channel name: nadeshot>,       2024-11-07 09:40:47.357172 
+
+ nightbot,     Mongraal has 3,571 subs,        <Channel name: mongraal>,       2024-11-07 09:40:49.151293 
+
+ nightbot,     Nadeshot Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:41:10.306554 
+
+ nightbot,     Get a custom crosshair with Crosshair X on Epic Games -> https://centerpointgaming.com/invites/mongraal.html (My Custom Code: nngwx80tim) #AD,        <Channel name: mongraal>,       2024-11-07 09:41:25.301028 
+
+ nightbot,     Subscribe to My YouTube! https://www.youtube.com/@SinatraaOW,        <Channel name: sinatraa>,       2024-11-07 09:41:29.135689 
+
+ nightbot,     watch my new reels daily on instagram https://www.instagram.com/mirareels/,        <Channel name: mira>,       2024-11-07 09:41:29.189202 
+
+ nightbot,     Mongraal has 3,572 subs,        <Channel name: mongraal>,       2024-11-07 09:41:42.961640 
+
+ nightbot,     November 7th 2024, 2:41:59 pm GMT GMT+00:00,        <Channel name: mongraal>,       2024-11-07 09:41:58.040203 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | zipxxiii,        <Channel name: mrlust>,       2024-11-07 09:42:01.658614 
+
+ nightbot,     ACTION HALLOWEEN DROP OUT NOW https://dr3aminclothing.com,        <Channel name: clix>,       2024-11-07 09:42:04.912712 
+
+ nightbot,     L ADS? SUB UP https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:42:29.570127 
+
+ nightbot,     Subathon - Matt will be live 24/7 as long as that timer is still ticking! Every subscription adds 30s to the timer | All goals are shown here; https://shorturl.at/Js9Jx & On Screen | Total subs gained during the Subathon is above the timer!,        <Channel name: nadeshot>,       2024-11-07 09:42:40.745480 
+
+ nightbot,     @puplizz, Mongraal plays Native resolution (1920x1080).,        <Channel name: mongraal>,       2024-11-07 09:42:45.630120 
+
+ nightbot,     https://bit.ly/3uMIJ2A,        <Channel name: swagg>,       2024-11-07 09:42:48.353541 
+
+ nightbot,     Mongraal has 3,572 subs,        <Channel name: mongraal>,       2024-11-07 09:43:02.302844 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | oliveirss,        <Channel name: mrlust>,       2024-11-07 09:43:14.192271 
+
+ nightbot,     The Great Depression. Points were reset to make it where Subs get 500 points every 5 mins, and non subs 100 points every 5 mins, to reward viewers for watching the stream. Have fun!,        <Channel name: adapt>,       2024-11-07 09:43:24.986002 
+
+ nightbot,     Link To Crosshair X > https://steampowered.com/app/1366800?utm_source=tw&utm_campaign=lust | flenzykee,        <Channel name: mrlust>,       2024-11-07 09:43:31.459280 
+
+ nightbot,     ACTION Amazon Prime members get a free Twitch subscription each month. Link Your Account Here: twitch.amazon.com/prime Using: i.imgur.com/NvVFM1B,        <Channel name: mongraal>,       2024-11-07 09:43:39.608386 

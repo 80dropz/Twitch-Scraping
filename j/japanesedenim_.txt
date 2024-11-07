@@ -1,0 +1,14 @@
+
+ japanesedenim_,     !watchtime,        <Channel name: kaicenat>,       2024-11-07 09:04:31.131681 
+
+ japanesedenim_,     !points,        <Channel name: kaicenat>,       2024-11-07 09:04:50.759113 
+
+ japanesedenim_,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:05:01.385895 
+
+ japanesedenim_,     !points,        <Channel name: kaicenat>,       2024-11-07 09:05:20.174945 
+
+ japanesedenim_,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:05:31.129323 
+
+ japanesedenim_,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:05:45.579747 
+
+ japanesedenim_,     !roulette 30,        <Channel name: kaicenat>,       2024-11-07 09:06:05.269234 

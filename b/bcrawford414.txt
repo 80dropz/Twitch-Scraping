@@ -1,0 +1,18 @@
+
+ bcrawford414,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:07:19.670959 
+
+ bcrawford414,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:07:36.100326 
+
+ bcrawford414,     !points,        <Channel name: kaicenat>,       2024-11-07 09:07:50.294382 
+
+ bcrawford414,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:08:10.999811 
+
+ bcrawford414,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:08:35.390728 
+
+ bcrawford414,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:09:22.170955 
+
+ bcrawford414,     !roulette 1,        <Channel name: kaicenat>,       2024-11-07 09:15:42.259363 
+
+ bcrawford414,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:15:58.130471 
+
+ bcrawford414,     !roulette 50,        <Channel name: kaicenat>,       2024-11-07 09:16:07.924403 

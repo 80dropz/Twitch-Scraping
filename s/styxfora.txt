@@ -1,0 +1,4 @@
+
+ styxfora,     !time,        <Channel name: kaicenat>,       2024-11-07 09:09:57.178980 
+
+ styxfora,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:11:59.157508 

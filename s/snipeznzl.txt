@@ -1,0 +1,18 @@
+
+ snipeznzl,     !gamble 1000,        <Channel name: kaicenat>,       2024-11-07 09:00:40.946911 
+
+ snipeznzl,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:01:11.088491 
+
+ snipeznzl,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:01:23.600903 
+
+ snipeznzl,     !roulette 2003',        <Channel name: kaicenat>,       2024-11-07 09:01:36.027476 
+
+ snipeznzl,     !roulette 1999,        <Channel name: kaicenat>,       2024-11-07 09:01:50.256003 
+
+ snipeznzl,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:01:58.869508 
+
+ snipeznzl,     !roulette 647,        <Channel name: kaicenat>,       2024-11-07 09:02:09.766532 
+
+ snipeznzl,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:02:16.561691 
+
+ snipeznzl,     !roulette 294,        <Channel name: kaicenat>,       2024-11-07 09:02:26.524498 

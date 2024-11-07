@@ -1,0 +1,4 @@
+
+ tox_of_dk,     !roulette 150,        <Channel name: kaicenat>,       2024-11-07 09:01:39.681649 
+
+ tox_of_dk,     !roulette 350,        <Channel name: kaicenat>,       2024-11-07 09:09:41.711446 

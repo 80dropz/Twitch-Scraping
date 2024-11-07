@@ -1,0 +1,232 @@
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:01:15.132594 
+
+ itsnateswrldd,     !roulette 499,        <Channel name: kaicenat>,       2024-11-07 09:01:25.640767 
+
+ itsnateswrldd,     !roulette 100,        <Channel name: kaicenat>,       2024-11-07 09:01:36.476459 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:01:43.217384 
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:01:52.405481 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:02:00.684798 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:02:10.613695 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:02:18.740627 
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:02:44.667772 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:02:55.435270 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:03:05.175759 
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:03:24.845600 
+
+ itsnateswrldd,     !roulette 499,        <Channel name: kaicenat>,       2024-11-07 09:03:34.275611 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:03:43.050360 
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:03:55.973406 
+
+ itsnateswrldd,     !roulette 499,        <Channel name: kaicenat>,       2024-11-07 09:04:10.224333 
+
+ itsnateswrldd,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:04:21.999468 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:04:32.437851 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:04:41.062707 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:04:50.228407 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:06:07.347945 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:06:15.920902 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:06:23.051597 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:06:32.135676 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:06:41.118406 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:06:57.550447 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:07:04.582580 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:08:00.881600 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:08:15.159997 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:08:21.220717 
+
+ itsnateswrldd,     !followage,        <Channel name: kaicenat>,       2024-11-07 09:09:54.995827 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:10:32.828965 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:10:50.918968 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:11:03.244190 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:11:09.567453 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:12:43.475527 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:12:53.566088 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:13:24.137763 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:13:51.230668 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:14:13.346663 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:14:22.814374 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:14:56.228391 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:15:30.942587 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:15:38.176897 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:15:47.491173 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:15:58.914589 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:16:10.668982 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:16:17.594561 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:16:28.749293 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:16:42.142246 
+
+ itsnateswrldd,     !roulette 1609,        <Channel name: kaicenat>,       2024-11-07 09:16:52.992132 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:17:31.513905 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:17:42.316653 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:17:51.440798 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:18:14.149150 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:18:28.436934 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:20:28.128235 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:20:43.052370 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:20:50.659494 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:20:58.794693 
+
+ itsnateswrldd,     !roulette 16000,        <Channel name: kaicenat>,       2024-11-07 09:21:06.405082 
+
+ itsnateswrldd,     !roulette alll,        <Channel name: kaicenat>,       2024-11-07 09:21:16.269382 
+
+ itsnateswrldd,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:21:30.354137 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:22:46.306717 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:22:53.781739 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:23:02.326094 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:23:11.995099 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:23:18.275985 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:23:25.449797 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:23:36.374690 
+
+ itsnateswrldd,     !roulette 4k,        <Channel name: kaicenat>,       2024-11-07 09:23:46.124085 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:24:02.187281 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:24:11.850609 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:24:19.576234 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:24:29.127276 
+
+ itsnateswrldd,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:24:36.698019 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:24:46.691633 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:24:53.074174 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:24:59.340972 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:25:07.757108 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:25:15.195083 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:25:27.037900 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:25:34.208296 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:25:41.907090 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:25:49.266840 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:25:56.720967 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:26:05.899587 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:26:12.664332 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:26:18.180446 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:27:01.050110 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:27:11.722484 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:27:20.632151 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:27:26.887788 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:27:35.576505 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:27:53.370414 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:27:58.980399 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:28:04.767937 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:28:12.803792 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:28:28.805633 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:30:23.360177 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:30:29.703249 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:30:37.393697 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:30:45.030188 
+
+ itsnateswrldd,     !roulette 999,        <Channel name: kaicenat>,       2024-11-07 09:30:52.877416 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:30:59.070665 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:31:06.056233 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:31:12.441633 
+
+ itsnateswrldd,     !roulette 16000,        <Channel name: kaicenat>,       2024-11-07 09:31:22.007179 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:31:31.167749 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:31:38.142914 
+
+ itsnateswrldd,     !roulette 1000,        <Channel name: kaicenat>,       2024-11-07 09:31:45.737774 
+
+ itsnateswrldd,     !roulette 2000,        <Channel name: kaicenat>,       2024-11-07 09:31:52.014320 
+
+ itsnateswrldd,     !roulette 4000,        <Channel name: kaicenat>,       2024-11-07 09:31:57.385326 
+
+ itsnateswrldd,     !roulette 8000,        <Channel name: kaicenat>,       2024-11-07 09:32:03.466187 
+
+ itsnateswrldd,     !roulette 16000,        <Channel name: kaicenat>,       2024-11-07 09:32:12.931318 
+
+ itsnateswrldd,     !roulette all,        <Channel name: kaicenat>,       2024-11-07 09:32:18.369355 

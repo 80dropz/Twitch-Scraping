@@ -1,0 +1,10 @@
+
+ drewpsakk,     !roulette,        <Channel name: kaicenat>,       2024-11-07 09:40:27.636261 
+
+ drewpsakk,     !roulette 500,        <Channel name: kaicenat>,       2024-11-07 09:40:59.669613 
+
+ drewpsakk,     !points,        <Channel name: kaicenat>,       2024-11-07 09:41:28.125983 
+
+ drewpsakk,     !roulette 25,        <Channel name: kaicenat>,       2024-11-07 09:41:44.988148 
+
+ drewpsakk,     !roulette 3,        <Channel name: kaicenat>,       2024-11-07 09:42:09.087348 

@@ -514,3 +514,331 @@
  fossabot,     summit's keyboard: DrunkDeer A75 https://amzn.to/3UqLtj9,        <Channel name: summit1g>,       2024-11-07 02:53:18.642946 
 
  fossabot,     ACTION @Ariamiss_ The current time for Kai is 11:53 PM PST,        <Channel name: kaicenat>,       2024-11-07 02:53:19.586703 
+
+ fossabot,     ACTION @audriusltu, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:00:28.594569 
+
+ fossabot,     ACTION @egzyr_ The current time for Kai is 6:00 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:00:29.337748 
+
+ fossabot,     ACTION @friedtoastlol KaiCenat currently has 227687 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:00:29.969901 
+
+ fossabot,     ACTION @fw_j0sh8_4 The current time for Kai is 6:00 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:00:47.854327 
+
+ fossabot,     @nemes1s_fps The commands for this channel are available here: https://fossabot.com/kaicenat/commands & https://streamelements.com/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:00:48.635810 
+
+ fossabot,     ACTION @audriusltu, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:00:58.853631 
+
+ fossabot,     ACTION @unspoken_ski1z KaiCenat currently has 227689 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:01:16.136636 
+
+ fossabot,     ACTION Have an Amazon Prime account? Get Twitch Prime for a monthly free subscription! https://gaming.amazon.com,        <Channel name: kaicenat>,       2024-11-07 09:01:22.109383 
+
+ fossabot,     ACTION @jmenujusemisko The current time for Kai is 6:01 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:01:36.214395 
+
+ fossabot,     ACTION @audriusltu, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:01:47.820894 
+
+ fossabot,     ACTION @y251990120 The current time for Kai is 6:02 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:02:09.862049 
+
+ fossabot,     ACTION @Senna_number5 The current time for Kai is 6:02 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:02:18.582391 
+
+ fossabot,     ACTION @patricus_ The current time for Kai is 6:02 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:02:37.589488 
+
+ fossabot,     ACTION @syfo83, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:02:38.456074 
+
+ fossabot,     @CorbinKnott CorbinKnott has been following KaiCenat for 3 years, 3 months, 24 days and 10 hours,        <Channel name: kaicenat>,       2024-11-07 09:02:51.875942 
+
+ fossabot,     ACTION @jayhenfps KaiCenat currently has 227704 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:02:55.280765 
+
+ fossabot,     ACTION @lazyx_nat The current time for Kai is 6:03 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:03:02.739379 
+
+ fossabot,     @vladbimbas tg - https://t.me/shadowkekw Maximilian,        <Channel name: shadowkekw>,       2024-11-07 09:03:31.258081 
+
+ fossabot,     ACTION @stop6nicklln The current time for Kai is 6:03 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:03:53.991107 
+
+ fossabot,     ACTION @argthegoat The current time for Kai is 6:04 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:04:00.720667 
+
+ fossabot,     ACTION @perrobueno997 The current time for Kai is 6:04 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:04:11.244909 
+
+ fossabot,     @lukajhb lukajhb has been following KaiCenat for 2 months, 20 days and 11 hours,        <Channel name: kaicenat>,       2024-11-07 09:04:31.288215 
+
+ fossabot,     @zox0_3 There are currently 43894 people in chat!,        <Channel name: kaicenat>,       2024-11-07 09:04:38.814591 
+
+ fossabot,     !sraffle,        <Channel name: pokelawls>,       2024-11-07 09:05:25.083473 
+
+ fossabot,     ACTION @itscrystallllll The current time for Kai is 6:06 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:06:13.082495 
+
+ fossabot,     ACTION @saint7777777 The current time for Kai is 6:06 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:06:52.463051 
+
+ fossabot,     ACTION @s0wich The current time for Kai is 6:07 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:07:33.811310 
+
+ fossabot,     ACTION @killmdnight The current time for Kai is 6:07 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:07:41.460963 
+
+ fossabot,     ACTION @aumesavifauna, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:07:50.596621 
+
+ fossabot,     ACTION @wbounty The current time for Kai is 6:08 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:08:45.929634 
+
+ fossabot,     ACTION @zefray064 The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:01.457257 
+
+ fossabot,     ACTION @jakkubb_s The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:14.627712 
+
+ fossabot,     @5star_Eloghosa 5star_Eloghosa has been following KaiCenat for 1 year, 3 months, 30 days and 9 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:19.905180 
+
+ fossabot,     ACTION @tatueli The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:22.794757 
+
+ fossabot,     @TheTxrzan TheTxrzan has been following KaiCenat for 2 years, 5 months, 15 days and 22 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:29.629095 
+
+ fossabot,     @tauntscott tauntscott has been following KaiCenat for 1 year and 5 days,        <Channel name: kaicenat>,       2024-11-07 09:09:32.375395 
+
+ fossabot,     ACTION @ZnakStop The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:32.411396 
+
+ fossabot,     ACTION @myaanneliese The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:38.492748 
+
+ fossabot,     @krye__ krye__ has been following KaiCenat for 4 months, 15 days and 15 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:40.668652 
+
+ fossabot,     @ki2thurll ki2thurll has been following KaiCenat for 3 years, 6 months, 12 days and 9 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:41.865872 
+
+ fossabot,     ACTION @shanks777l The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:44.062132 
+
+ fossabot,     @kcisthemain kcisthemain has been following KaiCenat for 1 year, 1 month, 9 days and 10 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:50.977893 
+
+ fossabot,     @ItsNatesWRLDD ItsNatesWRLDD has been following KaiCenat for 3 years, 1 month, 13 days and 8 hours,        <Channel name: kaicenat>,       2024-11-07 09:09:55.151515 
+
+ fossabot,     ACTION @styxfora The current time for Kai is 6:09 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:09:57.490608 
+
+ fossabot,     ACTION @CalHIM_ KaiCenat currently has 227723 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:10:05.537559 
+
+ fossabot,     ACTION @champplive The current time for Kai is 6:10 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:10:10.785188 
+
+ fossabot,     @marcus5430 marcus5430 has been following KaiCenat for 3 years, 7 months, 14 days and 9 hours,        <Channel name: kaicenat>,       2024-11-07 09:10:30.833491 
+
+ fossabot,     ACTION @takemylargetaco The current time for Kai is 6:11 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:10:59.029910 
+
+ fossabot,     ACTION @juul__ The current time for Kai is 6:11 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:11:05.473691 
+
+ fossabot,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:11:26.605088 
+
+ fossabot,     ACTION @skippy_the_trippykangaro, JOIN THE DISCORD! discord.gg/kaimafia,        <Channel name: kaicenat>,       2024-11-07 09:12:05.833479 
+
+ fossabot,     ACTION @jayfromza The current time for Kai is 6:12 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:12:12.307297 
+
+ fossabot,     ACTION @danielpro11, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:12:25.295895 
+
+ fossabot,     ACTION @mermoz694 The current time for Kai is 6:13 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:13:00.527781 
+
+ fossabot,     @jakkubb_s jakkubb_s has been following KaiCenat for 2 years, 1 month, 13 days and 19 hours,        <Channel name: kaicenat>,       2024-11-07 09:13:01.550661 
+
+ fossabot,     ACTION @Nellings94 KaiCenat currently has 227730 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:13:37.630476 
+
+ fossabot,     @ymineu ymineu has been following jasontheween for 1 year, 4 months, 21 days and 10 hours,        <Channel name: jasontheween>,       2024-11-07 09:13:50.904458 
+
+ fossabot,     @hyz3nbird R6 -> 30V 60H - (1.0) 26 (2.5) 42 - 3DZ - Classic Rotation - 84 FOV || BO6 -> 7-7 - 0.80x Multiplier - Dynamic - 103 FOV,        <Channel name: ricci>,       2024-11-07 09:13:52.726795 
+
+ fossabot,     ACTION @lavishh7 KaiCenat currently has 227781 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:14:55.597439 
+
+ fossabot,     ACTION @klozuminator The current time for Kai is 6:15 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:15:14.096444 
+
+ fossabot,     ACTION @prodigy29321 The current time for Kai is 6:15 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:15:32.669265 
+
+ fossabot,     ACTION @lofees The current time for Kai is 6:15 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:15:40.468999 
+
+ fossabot,     ACTION @JonnsyTweets The current time for Kai is 6:15 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:15:56.387661 
+
+ fossabot,     ACTION SUB TO MY LIVE CHANNEL https://www.youtube.com/@StableRonaldoLive,        <Channel name: stableronaldo>,       2024-11-07 09:16:20.297346 
+
+ fossabot,     ACTION Have an Amazon Prime account? Get Twitch Prime for a monthly free subscription! https://gaming.amazon.com,        <Channel name: kaicenat>,       2024-11-07 09:16:22.122857 
+
+ fossabot,     ACTION @lrudmal The current time for Kai is 6:16 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:16:55.846783 
+
+ fossabot,     ACTION @synxfn0 The current time for Kai is 6:17 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:17:05.255020 
+
+ fossabot,     ACTION @njxky The current time for Kai is 6:17 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:17:16.245503 
+
+ fossabot,     ACTION @skyb0nd The current time for Kai is 6:17 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:17:24.379089 
+
+ fossabot,     ACTION @JAMM1EE The current time for Kai is 6:17 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:17:32.263052 
+
+ fossabot,     ACTION @kidney4sale The current time for Kai is 6:18 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:18:17.128447 
+
+ fossabot,     ACTION @Lynxssjj The current time for Kai is 6:18 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:18:25.154509 
+
+ fossabot,     @Donald_jrump SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:18:28.133943 
+
+ fossabot,     ACTION @dimitriskoul The current time for Kai is 6:18 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:18:43.281303 
+
+ fossabot,     ACTION @losyyy The current time for Kai is 6:19 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:19:44.487298 
+
+ fossabot,     ACTION @yadi1x, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:20:08.710447 
+
+ fossabot,     ACTION @tsukki1_1 The current time for Kai is 6:20 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:20:10.988596 
+
+ fossabot,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:20:15.335454 
+
+ fossabot,     @Pooptavious R6 -> 30V 60H - (1.0) 26 (2.5) 42 - 3DZ - Classic Rotation - 84 FOV || BO6 -> 7-7 - 0.80x Multiplier - Dynamic - 103 FOV,        <Channel name: ricci>,       2024-11-07 09:20:16.938889 
+
+ fossabot,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:20:54.700365 
+
+ fossabot,     New Stained Glass Dragonlight PC now available! https://starforgepc.com/summit1g #ad,        <Channel name: summit1g>,       2024-11-07 09:21:17.582122 
+
+ fossabot,     @KEHOUK KaiCenat is playing I'm Only Sleeping (Play time: 4 hours and 14 minutes),        <Channel name: kaicenat>,       2024-11-07 09:23:51.689650 
+
+ fossabot,     ACTION @shalavijas The current time for Kai is 6:23 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:23:53.235708 
+
+ fossabot,     ACTION @xxangelo12333xx The current time for Kai is 6:24 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:24:03.357321 
+
+ fossabot,     ACTION @norbert_54 The current time for Kai is 6:24 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:24:11.090800 
+
+ fossabot,     summit's new limited edition PC and Case available at https://starforgepc.com/summit1g #ad,        <Channel name: summit1g>,       2024-11-07 09:24:15.099483 
+
+ fossabot,     ACTION @zavetti12, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:24:24.902527 
+
+ fossabot,     ACTION @uxolish The current time for Kai is 6:24 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:24:36.855277 
+
+ fossabot,     ACTION @tsukki1_1 The current time for Kai is 6:25 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:25:12.789516 
+
+ fossabot,     ACTION @dimitrisk25 The current time for Kai is 6:25 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:25:18.295384 
+
+ fossabot,     @gto_owenn gto_owenn has been following KaiCenat for 1 year, 10 months, 5 days and 6 hours,        <Channel name: kaicenat>,       2024-11-07 09:25:38.193419 
+
+ fossabot,     @hatandjack hatandjack has been following KaiCenat for 2 months and 18 days,        <Channel name: kaicenat>,       2024-11-07 09:25:51.636437 
+
+ fossabot,     @ishxn1017 ishxn1017 has been following KaiCenat for 1 year, 8 months, 21 days and 14 hours,        <Channel name: kaicenat>,       2024-11-07 09:25:59.197209 
+
+ fossabot,     @xHeyOpp R6 -> 30V 60H - (1.0) 26 (2.5) 42 - 3DZ - Classic Rotation - 84 FOV || BO6 -> 7-7 - 0.80x Multiplier - Dynamic - 103 FOV,        <Channel name: ricci>,       2024-11-07 09:26:14.114705 
+
+ fossabot,     @tkomont420 tkomont420 has been following KaiCenat for 1 year, 10 months, 16 days and 10 hours,        <Channel name: kaicenat>,       2024-11-07 09:26:24.389322 
+
+ fossabot,     ACTION @flushedjulian KaiCenat currently has 227794 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:26:31.401626 
+
+ fossabot,     ACTION @AzizMk01 The current time for Kai is 6:26 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:26:32.477305 
+
+ fossabot,     ACTION @keigoyuu The current time for Kai is 6:26 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:26:55.929246 
+
+ fossabot,     ACTION Follow Kai on all socials! youtube.com/kaicenat | twitter.com/kaicenat | instagram.com/kaicenat/ | tiktok.com/@kai_cenat,        <Channel name: kaicenat>,       2024-11-07 09:27:28.593861 
+
+ fossabot,     ACTION Do you want to see exclusive emotes that most people cannot see? Download 7TV here!: https://7tv.app/,        <Channel name: kaicenat>,       2024-11-07 09:27:33.473042 
+
+ fossabot,     ACTION AMP has officially partnered with Bang Energy! www.bangenergy.com,        <Channel name: kaicenat>,       2024-11-07 09:27:43.828385 
+
+ fossabot,     ACTION @hugomz KaiCenat currently has 227830 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:28:47.436963 
+
+ fossabot,     ACTION @JAMM1EE The current time for Kai is 6:29 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:29:23.179699 
+
+ fossabot,     @LIPTON__LOL tg - https://t.me/shadowkekw Maximilian,        <Channel name: shadowkekw>,       2024-11-07 09:30:06.020492 
+
+ fossabot,     ACTION @xSeIIin The current time for Kai is 6:30 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:30:09.775493 
+
+ fossabot,     ACTION @oljrr The current time for Kai is 6:30 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:30:26.880786 
+
+ fossabot,     ACTION @bazkera The current time for Kai is 6:30 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:30:33.854201 
+
+ fossabot,     ACTION @mamacoco239 The current time for Kai is 6:30 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:30:41.382316 
+
+ fossabot,     ACTION @kamluvsjesus The current time for Kai is 6:30 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:30:55.696523 
+
+ fossabot,     @marcohdz12 marcohdz12 has been following KaiCenat for 6 minutes and 8 seconds,        <Channel name: kaicenat>,       2024-11-07 09:31:08.353317 
+
+ fossabot,     ACTION @Peregrine_e The current time for Kai is 6:31 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:31:20.262231 
+
+ fossabot,     ACTION @Swole5k, Kai is doing a subathon for 30 days | 1 sub = 4 seconds added to the timer | You can subscribe here: https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:31:25.504469 
+
+ fossabot,     ACTION Have an Amazon Prime account? Get Twitch Prime for a monthly free subscription! https://gaming.amazon.com,        <Channel name: kaicenat>,       2024-11-07 09:31:26.107318 
+
+ fossabot,     ACTION @currentsix10 The current time for Kai is 6:31 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:31:34.539397 
+
+ fossabot,     ACTION @frnkplzii The current time for Kai is 6:31 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:31:42.598538 
+
+ fossabot,     ACTION @pgburgin_sub2lanbuffyonyt The current time for Kai is 6:31 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:31:55.727803 
+
+ fossabot,     ACTION @tenzisok KaiCenat currently has 227859 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:32:00.688004 
+
+ fossabot,     ACTION @jortkreiter The current time for Kai is 6:32 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:32:13.096346 
+
+ fossabot,     ACTION SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:32:27.749016 
+
+ fossabot,     ACTION @idkyoue The current time for Kai is 6:32 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:32:37.884706 
+
+ fossabot,     @211_CFish The commands for this channel are available here: https://fossabot.com/kaicenat/commands & https://streamelements.com/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:32:51.602230 
+
+ fossabot,     ACTION @keketherealest The current time for Kai is 6:33 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:33:19.608792 
+
+ fossabot,     @azk_kilz SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:33:36.982045 
+
+ fossabot,     ACTION @xxdany00xx The current time for Kai is 6:33 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:33:53.774283 
+
+ fossabot,     ACTION @silent_snipperzz The current time for Kai is 6:34 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:34:09.099575 
+
+ fossabot,     ACTION @CrisSalami The current time for Kai is 6:34 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:34:14.604589 
+
+ fossabot,     ACTION @RyzeisGoa1 The current time for Kai is 6:34 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:34:47.985522 
+
+ fossabot,     ACTION @giovsims The current time for Kai is 6:35 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:35:09.558682 
+
+ fossabot,     ACTION @choychoyyy The current time for Kai is 6:35 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:35:22.538011 
+
+ fossabot,     !sraffle,        <Channel name: pokelawls>,       2024-11-07 09:35:24.630414 
+
+ fossabot,     ACTION @1tsGaz The current time for Kai is 6:35 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:35:36.560240 
+
+ fossabot,     @jdgowild jdgowild has been following KaiCenat for 4 months, 3 days and 13 hours,        <Channel name: kaicenat>,       2024-11-07 09:35:40.313490 
+
+ fossabot,     ACTION @baltimore_sole_collector The current time for Kai is 6:35 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:35:46.884823 
+
+ fossabot,     @victorgaspar__ victorgaspar__ has been following KaiCenat for 1 year, 11 months, 27 days and 10 hours,        <Channel name: kaicenat>,       2024-11-07 09:36:12.121430 
+
+ fossabot,     ACTION @moonlitmaven The current time for Kai is 6:36 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:36:27.362064 
+
+ fossabot,     ACTION @boundenpj The current time for Kai is 6:36 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:36:38.204659 
+
+ fossabot,     @jessiewynner The commands for this channel are available here: https://fossabot.com/kaicenat/commands & https://streamelements.com/kaicenat/commands,        <Channel name: kaicenat>,       2024-11-07 09:36:54.048352 
+
+ fossabot,     IG: https://www.instagram.com/jasontheween/ TWITTER: https://twitter.com/jasontheween/,        <Channel name: jasontheween>,       2024-11-07 09:37:18.030484 
+
+ fossabot,     ACTION @janiesomjelen KaiCenat currently has 227907 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:37:45.057237 
+
+ fossabot,     ACTION @kingplayer87 The current time for Kai is 6:37 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:37:48.994121 
+
+ fossabot,     ACTION Have an Amazon Prime account? Get Twitch Prime for a monthly free subscription! https://twitch.amazon.com/prime,        <Channel name: kaicenat>,       2024-11-07 09:37:50.769362 
+
+ fossabot,     ACTION @pigheaad KaiCenat currently has 227909 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:37:56.685716 
+
+ fossabot,     ACTION @jesus_griffin The current time for Kai is 6:38 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:38:05.065945 
+
+ fossabot,     ACTION @Joelooo_ The current time for Kai is 6:38 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:38:29.571575 
+
+ fossabot,     ACTION @MrKennseNicht The current time for Kai is 6:38 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:38:49.524100 
+
+ fossabot,     ACTION @lShitan The current time for Kai is 6:39 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:39:11.238773 
+
+ fossabot,     ACTION @mossergio23___ KaiCenat currently has 228012 subscribers! WW,        <Channel name: kaicenat>,       2024-11-07 09:39:31.472381 
+
+ fossabot,     ACTION Have an Amazon Prime account? Get Twitch Prime for a monthly free subscription! https://twitch.amazon.com/prime,        <Channel name: kaicenat>,       2024-11-07 09:39:51.663576 
+
+ fossabot,     ACTION @SixtyTerryT The current time for Kai is 6:40 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:40:14.180453 
+
+ fossabot,     ACTION @Nitsj The current time for Kai is 6:40 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:40:18.898056 
+
+ fossabot,     ACTION @gaia14__ The current time for Kai is 6:40 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:40:33.969491 
+
+ fossabot,     @JMalTTR R6 -> 30V 60H - (1.0) 26 (2.5) 42 - 3DZ - Classic Rotation - 84 FOV || BO6 -> 7-7 - 0.80x Multiplier - Dynamic - 103 FOV,        <Channel name: ricci>,       2024-11-07 09:40:44.216818 
+
+ fossabot,     ACTION @lollypoluza The current time for Kai is 6:40 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:40:50.103212 
+
+ fossabot,     ACTION @davynadya The current time for Kai is 6:41 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:41:26.378091 
+
+ fossabot,     ACTION @rottenmango6 The current time for Kai is 6:41 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:41:31.583176 
+
+ fossabot,     ACTION @HermanosssS1 The current time for Kai is 6:42 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:42:07.144120 
+
+ fossabot,     ACTION @madeinone1 The current time for Kai is 6:42 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:42:26.913711 
+
+ fossabot,     @Nightbot SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:42:29.924899 
+
+ fossabot,     @ScorpyL2 jasontheween has been offline for 7 hours and 37 minutes,        <Channel name: jasontheween>,       2024-11-07 09:42:48.641184 
+
+ fossabot,     ACTION @sequanaaa The current time for Kai is 6:43 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:43:01.597904 
+
+ fossabot,     ACTION @jayceesampson The current time for Kai is 6:43 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:43:06.423378 
+
+ fossabot,     ACTION @211_CFish The current time for Kai is 6:43 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:43:13.416192 
+
+ fossabot,     @kbkg_jaykk SUBSCRIBE HERE FOR NO ADS! https://www.twitch.tv/subs/kaicenat,        <Channel name: kaicenat>,       2024-11-07 09:43:42.753561 
+
+ fossabot,     ACTION @weezydropemoff The current time for Kai is 6:44 AM PST,        <Channel name: kaicenat>,       2024-11-07 09:44:04.004695 

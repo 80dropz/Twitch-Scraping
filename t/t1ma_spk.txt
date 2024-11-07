@@ -1,0 +1,6 @@
+
+ t1ma_spk,     do somebody 100,        <Channel name: kaicenat>,       2024-11-07 09:27:14.656549 
+
+ t1ma_spk,     where is drumer?,        <Channel name: kaicenat>,       2024-11-07 09:37:18.453254 
+
+ t1ma_spk,     where drumer?,        <Channel name: kaicenat>,       2024-11-07 09:37:22.078311 

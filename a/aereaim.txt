@@ -1,0 +1,4 @@
+
+ aereaim,     !mic,        <Channel name: clix>,       2024-11-07 09:20:38.778151 
+
+ aereaim,     !headset,        <Channel name: clix>,       2024-11-07 09:38:54.143001 

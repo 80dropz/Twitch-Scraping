@@ -1,0 +1,6 @@
+
+ 313_lerobin,     PLAY SOLO SCRIMS,        <Channel name: mongraal>,       2024-11-07 09:37:20.464257 
+
+ 313_lerobin,     SOLO SCRIMS,        <Channel name: mongraal>,       2024-11-07 09:40:18.165921 
+
+ 313_lerobin,     SHES 3,        <Channel name: mongraal>,       2024-11-07 09:42:00.093729 
